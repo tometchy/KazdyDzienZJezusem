@@ -4,23 +4,19 @@ import json
 
 r = redis.Redis(host='localhost', port=6379, decode_responses=True)
 
-BATCH_SIZE = 1000
 pipe = r.pipeline()
+BATCH = 1000
 count = 0
 
 with open('data/gnt.flat.json', 'rb') as f:
-    parser = ijson.items(f, 'item')
-
-    for item in parser:
+    for item in ijson.items(f, 'item'):
         key = f"gnt:{item['book_name_osis']}:{item['chapter']}:{item['verse']}"
-        
         pipe.set(key, json.dumps(item, ensure_ascii=False))
         count += 1
 
-        if count % BATCH_SIZE == 0:
+        if count % BATCH == 0:
             pipe.execute()
-            print(f"Inserted: {count}")
+            print("Inserted:", count)
 
-# flush reszty
 pipe.execute()
-print(f"Done: {count}")
+print("DONE:", count)
