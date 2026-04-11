@@ -8,10 +8,11 @@ WORKDIR /app
 COPY load-textus-receptus.py .
 COPY data/ data/
 
-RUN pip install redis ijson
+RUN pip install --no-cache-dir redis ijson
 
 # uruchom redis + załaduj dane + zapisz dump
-RUN redis-server --daemonize yes && \
+RUN mkdir -p /data && \
+    redis-server --dir /data --daemonize yes && \
     sleep 1 && \
     python load-textus-receptus.py && \
     redis-cli SAVE && \
@@ -33,19 +34,18 @@ RUN apk add --no-cache redis dotnet-runtime-10
 WORKDIR /app
 
 # Redis data
+RUN mkdir -p /data
 COPY --from=builder /app/dump.rdb /data/dump.rdb
 
 # App
 COPY --from=build /out .
 
-# Redis config (żeby używał dumpa)
-RUN mkdir -p /data
-
-# entrypoint script
-RUN echo '#!/bin/sh\n\
-redis-server --daemonize yes\n\
-sleep 1\n\
-dotnet App.dll "$@"\n\
+# entrypoint
+RUN echo '#!/bin/sh
+set -e
+redis-server --dir /data --daemonize yes
+sleep 1
+dotnet App.dll "$@"
 ' > /app/entrypoint.sh && chmod +x /app/entrypoint.sh
 
 ENTRYPOINT ["/app/entrypoint.sh"]
