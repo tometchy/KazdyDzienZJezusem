@@ -3,4 +3,4 @@ SCRIPT_DIR="/home/tom/Projects/KazdyDzienZJezusem"
 
 podman run --rm \
   -v "$SCRIPT_DIR":/data-out \
-  textus-redis jhn1,1
+  textus-redis $1
