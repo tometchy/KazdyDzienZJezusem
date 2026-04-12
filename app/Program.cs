@@ -31,13 +31,32 @@ var map = new Dictionary<string, (string osis, string pl)>
     ["jhn"] = ("John", "Ewangelia Jana"),
     ["act"] = ("Acts", "Dzieje Apostolskie"),
     ["rom"] = ("Rom", "List do Rzymian"),
+    ["1co"] = ("1Cor", "1 List do Koryntian"),
+    ["2co"] = ("2Cor", "2 List do Koryntian"),
+    ["gal"] = ("Gal", "List do Galacjan"),
+    ["eph"] = ("Eph", "List do Efezjan"),
+    ["php"] = ("Phil", "List do Filipian"),
+    ["col"] = ("Col", "List do Kolosan"),
+    ["1th"] = ("1Thess", "1 List do Tesaloniczan"),
+    ["2th"] = ("2Thess", "2 List do Tesaloniczan"),
+    ["1ti"] = ("1Tim", "1 List do Tymoteusza"),
+    ["2ti"] = ("2Tim", "2 List do Tymoteusza"),
+    ["tit"] = ("Titus", "List do Tytusa"),
+    ["phm"] = ("Phlm", "List do Filemona"),
+    ["heb"] = ("Heb", "List do Hebrajczyków"),
+    ["jas"] = ("Jas", "List Jakuba"),
+    ["1pe"] = ("1Pet", "1 List Piotra"),
+    ["2pe"] = ("2Pet", "2 List Piotra"),
+    ["1jn"] = ("1John", "1 List Jana"),
+    ["2jn"] = ("2John", "2 List Jana"),
+    ["3jn"] = ("3John", "3 List Jana"),
     ["jud"] = ("Jude", "List Judy"),
     ["rev"] = ("Rev", "Objawienie Jana")
 };
 
 if (!map.TryGetValue(bookCode, out var book))
 {
-    Console.WriteLine("Unknown book");
+    Console.WriteLine($"Unknown book: {bookCode}");
     return;
 }
 
@@ -60,8 +79,10 @@ if (tr.IsNull)
 var trJson = JsonDocument.Parse(tr!.ToString());
 var words = trJson.RootElement.GetProperty("words");
 
-// 🔥 zapis na host (volume)
+// 🔥 DEBUG: pokaż gdzie zapisujemy
 var root = "/data-out/Index";
+Console.WriteLine("OUTPUT DIR:", root);
+
 var bibleDir = Path.Combine(root, "Biblia");
 var greekDir = Path.Combine(root, "Graeca");
 
@@ -77,13 +98,11 @@ foreach (var w in words.EnumerateArray())
 
     sb.Append($"[[{greek}]] ");
 
-    // word file
     File.WriteAllText(
         Path.Combine(greekDir, $"{greek}.md"),
         BuildWordTable(w, true)
     );
 
-    // lemma file
     File.WriteAllText(
         Path.Combine(greekDir, $"{lemma}.md"),
         BuildWordTable(w, false)
@@ -106,9 +125,11 @@ var content = $"""
 
 var fileName = $"{book.pl} {chapter},{verse}.md";
 
+Console.WriteLine("FILE:", fileName);
+
 File.WriteAllText(Path.Combine(bibleDir, fileName), content);
 
-Console.WriteLine("Saved:", fileName);
+Console.WriteLine("DONE");
 
 
 // ================= HELPERS =================
@@ -116,11 +137,7 @@ Console.WriteLine("Saved:", fileName);
 static string Clean(string? text)
 {
     if (text == null) return "";
-
-    // 🔥 KLUCZOWE: normalizacja Unicode
-    var normalized = text.Normalize(NormalizationForm.FormC);
-
-    return Regex.Replace(normalized, "[.,;·]", "");
+    return Regex.Replace(text.Normalize(NormalizationForm.FormC), "[.,;·]", "");
 }
 
 static string BuildWordTable(JsonElement w, bool linkLemma)
