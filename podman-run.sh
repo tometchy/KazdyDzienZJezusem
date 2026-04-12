@@ -1,1 +1,1 @@
-podman run --rm textus-redis $1 $2
+podman run --rm textus-redis jhn1,1 tnp
