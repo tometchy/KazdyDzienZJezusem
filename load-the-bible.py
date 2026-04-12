@@ -8,42 +8,36 @@ from bs4 import BeautifulSoup
 r = redis.Redis(host='localhost', port=6379, decode_responses=True)
 
 BOOK_MAP = {
-    "mat": ("Matthew", 40, "Matt.html"),
-    "mar": ("Mark", 41, "Mark.html"),
-    "luk": ("Luke", 42, "Luke.html"),
-    "jhn": ("John", 43, "John.html"),
-    "act": ("Acts", 44, "Acts.html"),
-    "rom": ("Romans", 45, "Rom.html"),
-
-    "1co": ("1 Corinthians", 46, "1Cor.html"),
-    "2co": ("2 Corinthians", 47, "2Cor.html"),
-    "gal": ("Galatians", 48, "Gal.html"),
-    "eph": ("Ephesians", 49, "Eph.html"),
-    "php": ("Philippians", 50, "Phil.html"),
-    "col": ("Colossians", 51, "Col.html"),
-
-    "1th": ("1 Thessalonians", 52, "1Thess.html"),
-    "2th": ("2 Thessalonians", 53, "2Thess.html"),
-
-    "1ti": ("1 Timothy", 54, "1Tim.html"),
-    "2ti": ("2 Timothy", 55, "2Tim.html"),
-
-    "tit": ("Titus", 56, "Titus.html"),
-    "phm": ("Philemon", 57, "Phlm.html"),
-    "heb": ("Hebrews", 58, "Heb.html"),
-    "jas": ("James", 59, "Jas.html"),
-
-    "1pe": ("1 Peter", 60, "1Pet.html"),
-    "2pe": ("2 Peter", 61, "2Pet.html"),
-
-    "1jn": ("1 John", 62, "1John.html"),
-    "2jn": ("2 John", 63, "2John.html"),
-    "3jn": ("3 John", 64, "3John.html"),
-
-    "jud": ("Jude", 65, "Jude.html"),
-    "rev": ("Revelation", 66, "Rev.html"),
+    "Matthew": 40,
+    "Mark": 41,
+    "Luke": 42,
+    "John": 43,
+    "Acts": 44,
+    "Romans": 45,
+    "1 Corinthians": 46,
+    "2 Corinthians": 47,
+    "Galatians": 48,
+    "Ephesians": 49,
+    "Philippians": 50,
+    "Colossians": 51,
+    "1 Thessalonians": 52,
+    "2 Thessalonians": 53,
+    "1 Timothy": 54,
+    "2 Timothy": 55,
+    "Titus": 56,
+    "Philemon": 57,
+    "Hebrews": 58,
+    "James": 59,
+    "1 Peter": 60,
+    "2 Peter": 61,
+    "1 John": 62,
+    "2 John": 63,
+    "3 John": 64,
+    "Jude": 65,
+    "Revelation": 66,
 }
 
+# ---------- TR ----------
 def load_tr(pipe):
     count = 0
     with open('data/gnt.flat.json', 'rb') as f:
@@ -54,16 +48,21 @@ def load_tr(pipe):
             if count % 1000 == 0:
                 pipe.execute()
     pipe.execute()
+    print("TR DONE:", count)
 
+# ---------- TNP (NAPRAWIONE) ----------
 def load_tnp(pipe):
     with ZipFile("Biblia_przeklad_Torunski.epub") as z:
-        for code, (book_en, _, file_name) in BOOK_MAP.items():
-            if file_name not in z.namelist():
+
+        for name in z.namelist():
+
+            if not name.endswith(".html") and not name.endswith(".xhtml"):
                 continue
 
-            soup = BeautifulSoup(z.read(file_name).decode(), "html.parser")
+            soup = BeautifulSoup(z.read(name).decode(), "html.parser")
 
             for node in soup.find_all(id=re.compile(r"v\d+\.\d+")):
+
                 vid = node["id"]
                 text = node.get_text(" ", strip=True)
 
@@ -77,21 +76,33 @@ def load_tnp(pipe):
                     continue
 
                 chapter, verse = m.groups()
-                key = f"tnp:{book_en}:{chapter}:{verse}"
 
+                # 🔥 zgadujemy księgę z kontekstu (plik)
+                book = None
+                for b in BOOK_MAP.keys():
+                    if b.lower().replace(" ", "") in name.lower():
+                        book = b
+                        break
+
+                if not book:
+                    continue
+
+                key = f"tnp:{book}:{chapter}:{verse}"
                 pipe.set(key, text.strip())
 
         pipe.execute()
+        print("TNP DONE")
 
+# ---------- UBG ----------
 def load_ubg(pipe):
     with ZipFile("UBG_2025.epub") as z:
-        for code, (book_en, book_num, _) in BOOK_MAP.items():
 
-            fname = f"OEBPS/Text/PL-{book_num}.xhtml"
-            if fname not in z.namelist():
+        for name in z.namelist():
+
+            if not name.endswith(".xhtml") or "PL-" not in name:
                 continue
 
-            soup = BeautifulSoup(z.read(fname).decode(), "html.parser")
+            soup = BeautifulSoup(z.read(name).decode(), "html.parser")
 
             for node in soup.find_all(id=re.compile(r"BG-\d+_\d+")):
                 vid = node["id"]
@@ -105,11 +116,18 @@ def load_ubg(pipe):
                     continue
 
                 chapter, verse = m.groups()
-                key = f"ubg:{book_en}:{chapter}:{verse}"
 
+                book_num = int(name.split("PL-")[1].split(".")[0])
+                book = next((k for k, v in BOOK_MAP.items() if v == book_num), None)
+
+                if not book:
+                    continue
+
+                key = f"ubg:{book}:{chapter}:{verse}"
                 pipe.set(key, text.strip())
 
         pipe.execute()
+        print("UBG DONE")
 
 pipe = r.pipeline()
 
