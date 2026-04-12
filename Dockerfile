@@ -5,15 +5,17 @@ RUN apk add --no-cache redis
 
 WORKDIR /app
 
-COPY load-textus-receptus.py .
+COPY load-the-bible.py .
 COPY data/ data/
+COPY "Biblia przeklad Torunski.epub" .
+COPY "UBG_2025.epub" .
 
-RUN pip install --no-cache-dir redis ijson
+RUN pip install --no-cache-dir redis ijson beautifulsoup4
 
 RUN mkdir -p /data && \
     redis-server --dir /data --daemonize yes && \
     sleep 1 && \
-    python load-textus-receptus.py && \
+    python load-the-bible.py && \
     redis-cli SAVE && \
     cp /data/dump.rdb /app/dump.rdb
 
@@ -39,7 +41,7 @@ COPY --from=builder /app/dump.rdb /data/dump.rdb
 # App
 COPY --from=build /out .
 
-# entrypoint (FIXED)
+# entrypoint
 RUN cat << 'EOF' > /app/entrypoint.sh
 #!/bin/sh
 set -e
