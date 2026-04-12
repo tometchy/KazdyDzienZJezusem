@@ -75,7 +75,7 @@ foreach (var w in words.EnumerateArray())
     var greek = CleanWord(w.GetProperty("greek").GetString());
     var lemma = CleanWord(w.GetProperty("dictionary_form").GetString());
 
-    sb.Append($"[[{greek}]] ");
+    sb.Append($"[[{lemma}|{greek}]] ");
 
     File.WriteAllText(
         Path.Combine(greekDir, $"{greek}.md"),
