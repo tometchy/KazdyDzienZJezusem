@@ -57,7 +57,7 @@ if (tr.IsNull)
     return;
 }
 
-var trJson = JsonDocument.Parse(tr!);
+var trJson = JsonDocument.Parse(tr!.ToString());
 var words = trJson.RootElement.GetProperty("words");
 
 var root = "/data-out/Index";
