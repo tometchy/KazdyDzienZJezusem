@@ -7,8 +7,8 @@ WORKDIR /app
 
 COPY load-the-bible.py .
 COPY data/ data/
-COPY "Biblia przeklad Torunski.epub" .
-COPY "UBG_2025.epub" .
+COPY Biblia_przeklad_Torunski.epub .
+COPY UBG_2025.epub .
 
 RUN pip install --no-cache-dir redis ijson beautifulsoup4
 

@@ -56,7 +56,7 @@ def load_tr(pipe):
     pipe.execute()
 
 def load_tnp(pipe):
-    with ZipFile("Biblia przeklad Torunski.epub") as z:
+    with ZipFile("Biblia_przeklad_Torunski.epub") as z:
         for code, (book_en, _, file_name) in BOOK_MAP.items():
             if file_name not in z.namelist():
                 continue
