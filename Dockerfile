@@ -10,7 +10,6 @@ COPY data/ data/
 
 RUN pip install --no-cache-dir redis ijson
 
-# uruchom redis + załaduj dane + zapisz dump
 RUN mkdir -p /data && \
     redis-server --dir /data --daemonize yes && \
     sleep 1 && \
@@ -27,9 +26,9 @@ COPY app/ .
 RUN dotnet publish -c Release -o /out
 
 # ---------- STAGE 3: final ----------
-FROM alpine:3.20
+FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine
 
-RUN apk add --no-cache redis dotnet-runtime-10
+RUN apk add --no-cache redis
 
 WORKDIR /app
 
