@@ -13,13 +13,13 @@ COPY UBG_2025.epub .
 RUN pip install --no-cache-dir redis ijson beautifulsoup4
 
 RUN mkdir -p /data && \
-    redis-server --dir /data --daemonize yes && \
+    redis-server --dir /data --save "" --daemonize yes && \
     sleep 1 && \
     python load-the-bible.py && \
     redis-cli SAVE && \
     cp /data/dump.rdb /app/dump.rdb
 
-# ---------- STAGE 2: build .NET app ----------
+# ---------- STAGE 2 ----------
 FROM mcr.microsoft.com/dotnet/sdk:10.0-alpine AS build
 
 WORKDIR /src
@@ -27,26 +27,23 @@ COPY app/ .
 
 RUN dotnet publish -c Release -o /out
 
-# ---------- STAGE 3: final ----------
+# ---------- STAGE 3 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine
 
 RUN apk add --no-cache redis
 
 WORKDIR /app
 
-# Redis data
 RUN mkdir -p /data
 COPY --from=builder /app/dump.rdb /data/dump.rdb
-
-# App
 COPY --from=build /out .
 
-# entrypoint
+# 🔥 redis bez snapshotów = brak warninga
 RUN cat << 'EOF' > /app/entrypoint.sh
 #!/bin/sh
 set -e
 
-redis-server --dir /data --daemonize yes
+redis-server --dir /data --save "" --daemonize yes
 sleep 1
 
 dotnet App.dll "$@"
