@@ -1,4 +1,4 @@
-# ---------- STAGE 1: build data into redis dump ----------
+# ---------- STAGE 1 ----------
 FROM python:3.12-alpine AS builder
 
 RUN apk add --no-cache redis
@@ -38,13 +38,16 @@ RUN mkdir -p /data
 COPY --from=builder /app/dump.rdb /data/dump.rdb
 COPY --from=build /out .
 
-# 🔥 redis bez snapshotów = brak warninga
 RUN cat << 'EOF' > /app/entrypoint.sh
 #!/bin/sh
 set -e
 
 redis-server --dir /data --save "" --daemonize yes
-sleep 1
+
+# 🔥 czekamy aż dane się ZAŁADUJĄ (nie tylko ping)
+until redis-cli EXISTS gnt:John:1:1 | grep -q 1; do
+  sleep 0.1
+done
 
 dotnet App.dll "$@"
 EOF
