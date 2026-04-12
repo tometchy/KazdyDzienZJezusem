@@ -25,10 +25,10 @@ var verse = int.Parse(match.Groups[3].Value);
 
 var map = new Dictionary<string, (string osis, string pl)>
 {
+    ["jhn"] = ("John", "Ewangelia Jana"),
     ["mat"] = ("Matt", "Ewangelia Mateusza"),
     ["mar"] = ("Mark", "Ewangelia Marka"),
     ["luk"] = ("Luke", "Ewangelia Łukasza"),
-    ["jhn"] = ("John", "Ewangelia Jana"),
     ["act"] = ("Acts", "Dzieje Apostolskie"),
     ["rom"] = ("Rom", "List do Rzymian"),
     ["1co"] = ("1Cor", "1 List do Koryntian"),
@@ -56,7 +56,7 @@ var map = new Dictionary<string, (string osis, string pl)>
 
 if (!map.TryGetValue(bookCode, out var book))
 {
-    Console.WriteLine($"Unknown book: {bookCode}");
+    Console.WriteLine("Unknown book");
     return;
 }
 
@@ -79,10 +79,7 @@ if (tr.IsNull)
 var trJson = JsonDocument.Parse(tr!.ToString());
 var words = trJson.RootElement.GetProperty("words");
 
-// 🔥 DEBUG: pokaż gdzie zapisujemy
 var root = "/data-out/Index";
-Console.WriteLine("OUTPUT DIR:", root);
-
 var bibleDir = Path.Combine(root, "Biblia");
 var greekDir = Path.Combine(root, "Graeca");
 
@@ -93,8 +90,11 @@ var sb = new StringBuilder();
 
 foreach (var w in words.EnumerateArray())
 {
-    var greek = Clean(w.GetProperty("greek").GetString());
-    var lemma = Clean(w.GetProperty("dictionary_form").GetString());
+    var rawGreek = w.GetProperty("greek").GetString();
+    var rawLemma = w.GetProperty("dictionary_form").GetString();
+
+    var greek = Normalize(rawGreek);
+    var lemma = Normalize(rawLemma);
 
     sb.Append($"[[{greek}]] ");
 
@@ -114,36 +114,37 @@ var content = $"""
 > {sb.ToString().Trim()}
 
 [TNP]
-> {tnp.ToString()}
+> {tnp}
 
 [UBG]
-> {ubg.ToString()}
+> {ubg}
 
 [KJV]
-> {kjv.ToString()}
+> {kjv}
 """;
 
 var fileName = $"{book.pl} {chapter},{verse}.md";
 
-Console.WriteLine("FILE:", fileName);
-
 File.WriteAllText(Path.Combine(bibleDir, fileName), content);
 
-Console.WriteLine("DONE");
+Console.WriteLine("Saved:", fileName);
 
 
 // ================= HELPERS =================
 
-static string Clean(string? text)
+static string Normalize(string? text)
 {
     if (text == null) return "";
-    return Regex.Replace(text.Normalize(NormalizationForm.FormC), "[.,;·]", "");
+
+    var cleaned = Regex.Replace(text, "[.,;·]", "");
+
+    return cleaned.Normalize(NormalizationForm.FormC);
 }
 
 static string BuildWordTable(JsonElement w, bool linkLemma)
 {
-    var greek = Clean(w.GetProperty("greek").GetString());
-    var lemma = Clean(w.GetProperty("dictionary_form").GetString());
+    var greek = Normalize(w.GetProperty("greek").GetString());
+    var lemma = Normalize(w.GetProperty("dictionary_form").GetString());
 
     var lemmaVal = linkLemma ? $"[[{lemma}]]" : lemma;
 
