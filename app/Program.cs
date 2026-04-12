@@ -60,6 +60,7 @@ if (tr.IsNull)
 var trJson = JsonDocument.Parse(tr!.ToString());
 var words = trJson.RootElement.GetProperty("words");
 
+// 🔥 zapis na host (volume)
 var root = "/data-out/Index";
 var bibleDir = Path.Combine(root, "Biblia");
 var greekDir = Path.Combine(root, "Graeca");
@@ -76,13 +77,13 @@ foreach (var w in words.EnumerateArray())
 
     sb.Append($"[[{greek}]] ");
 
-    // słowo
+    // word file
     File.WriteAllText(
         Path.Combine(greekDir, $"{greek}.md"),
         BuildWordTable(w, true)
     );
 
-    // lemma
+    // lemma file
     File.WriteAllText(
         Path.Combine(greekDir, $"{lemma}.md"),
         BuildWordTable(w, false)
@@ -94,13 +95,13 @@ var content = $"""
 > {sb.ToString().Trim()}
 
 [TNP]
-> {tnp}
+> {tnp.ToString()}
 
 [UBG]
-> {ubg}
+> {ubg.ToString()}
 
 [KJV]
-> {kjv}
+> {kjv.ToString()}
 """;
 
 var fileName = $"{book.pl} {chapter},{verse}.md";
@@ -109,12 +110,17 @@ File.WriteAllText(Path.Combine(bibleDir, fileName), content);
 
 Console.WriteLine("Saved:", fileName);
 
-// --- helpers ---
+
+// ================= HELPERS =================
 
 static string Clean(string? text)
 {
     if (text == null) return "";
-    return Regex.Replace(text, "[.,;·]", "");
+
+    // 🔥 KLUCZOWE: normalizacja Unicode
+    var normalized = text.Normalize(NormalizationForm.FormC);
+
+    return Regex.Replace(normalized, "[.,;·]", "");
 }
 
 static string BuildWordTable(JsonElement w, bool linkLemma)
