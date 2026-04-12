@@ -1,23 +1,15 @@
 using StackExchange.Redis;
 using System.Text.RegularExpressions;
+using System.Text;
+using System.Text.Json;
 
-if (args.Length == 0)
+if (args.Length != 1)
 {
-    Console.WriteLine("Usage: jhn3,16 [tr|tnp|ubg|kjv|all]");
+    Console.WriteLine("Usage: jhn1,1");
     return;
 }
 
 var input = args[0].ToLower().Trim();
-var mode = args.Length > 1 ? args[1].ToLower().Trim() : "tr";
-
-// 🔥 KLUCZOWE: mapowanie trybów
-var modeMap = new Dictionary<string, string>
-{
-    ["tr"] = "gnt",
-    ["tnp"] = "tnp",
-    ["ubg"] = "ubg",
-    ["kjv"] = "kjv"
-};
 
 var match = Regex.Match(input, @"^([0-9]?[a-z]+)(\d+),(\d+)$");
 
@@ -28,75 +20,118 @@ if (!match.Success)
 }
 
 var bookCode = match.Groups[1].Value;
-var chapter = match.Groups[2].Value;
-var verse = match.Groups[3].Value;
+var chapter = int.Parse(match.Groups[2].Value);
+var verse = int.Parse(match.Groups[3].Value);
 
-var map = new Dictionary<string, string>
+var map = new Dictionary<string, (string osis, string pl)>
 {
-    ["mat"] = "Matt",
-    ["mar"] = "Mark",
-    ["luk"] = "Luke",
-    ["jhn"] = "John",
-    ["act"] = "Acts",
-    ["rom"] = "Rom",
-    ["1co"] = "1Cor",
-    ["2co"] = "2Cor",
-    ["gal"] = "Gal",
-    ["eph"] = "Eph",
-    ["php"] = "Phil",
-    ["col"] = "Col",
-    ["1th"] = "1Thess",
-    ["2th"] = "2Thess",
-    ["1ti"] = "1Tim",
-    ["2ti"] = "2Tim",
-    ["tit"] = "Titus",
-    ["phm"] = "Phlm",
-    ["heb"] = "Heb",
-    ["jas"] = "Jas",
-    ["1pe"] = "1Pet",
-    ["2pe"] = "2Pet",
-    ["1jn"] = "1John",
-    ["2jn"] = "2John",
-    ["3jn"] = "3John",
-    ["jud"] = "Jude",
-    ["rev"] = "Rev"
+    ["mat"] = ("Matt", "Ewangelia Mateusza"),
+    ["mar"] = ("Mark", "Ewangelia Marka"),
+    ["luk"] = ("Luke", "Ewangelia Łukasza"),
+    ["jhn"] = ("John", "Ewangelia Jana"),
+    ["act"] = ("Acts", "Dzieje Apostolskie"),
+    ["rom"] = ("Rom", "List do Rzymian"),
+    ["jud"] = ("Jude", "List Judy"),
+    ["rev"] = ("Rev", "Objawienie Jana")
 };
 
-if (!map.TryGetValue(bookCode, out var osis))
+if (!map.TryGetValue(bookCode, out var book))
 {
-    Console.WriteLine($"Unknown book: {bookCode}");
+    Console.WriteLine("Unknown book");
     return;
 }
 
 var redis = await ConnectionMultiplexer.ConnectAsync("localhost:6379");
 var db = redis.GetDatabase();
 
-async Task Print(string label, string prefix)
-{
-    var key = $"{prefix}:{osis}:{chapter}:{verse}";
-    var val = await db.StringGetAsync(key);
+string Key(string prefix) => $"{prefix}:{book.osis}:{chapter}:{verse}";
 
-    Console.WriteLine($"\n[{label}]");
-    Console.WriteLine(val.IsNullOrEmpty ? "NOT FOUND" : val.ToString());
+var tr = await db.StringGetAsync(Key("gnt"));
+var tnp = await db.StringGetAsync(Key("tnp"));
+var ubg = await db.StringGetAsync(Key("ubg"));
+var kjv = await db.StringGetAsync(Key("kjv"));
+
+if (tr.IsNull)
+{
+    Console.WriteLine("TR NOT FOUND");
+    return;
 }
 
-if (mode == "all")
+var trJson = JsonDocument.Parse(tr!);
+var words = trJson.RootElement.GetProperty("words");
+
+var root = Path.Combine(Directory.GetCurrentDirectory(), "Index");
+var bibleDir = Path.Combine(root, "Biblia");
+var greekDir = Path.Combine(root, "Graeca");
+
+Directory.CreateDirectory(bibleDir);
+Directory.CreateDirectory(greekDir);
+
+var sb = new StringBuilder();
+
+foreach (var w in words.EnumerateArray())
 {
-    await Print("TR",  "gnt");
-    await Print("TNP", "tnp");
-    await Print("UBG", "ubg");
-    await Print("KJV", "kjv");
+    var greek = Clean(w.GetProperty("greek").GetString());
+    var lemma = Clean(w.GetProperty("dictionary_form").GetString());
+
+    sb.Append($"[[{greek}]] ");
+
+    // słowo
+    File.WriteAllText(
+        Path.Combine(greekDir, $"{greek}.md"),
+        BuildWordTable(w, true)
+    );
+
+    // lemma
+    File.WriteAllText(
+        Path.Combine(greekDir, $"{lemma}.md"),
+        BuildWordTable(w, false)
+    );
 }
-else
+
+var content = $"""
+[TR]
+> {sb.ToString().Trim()}
+
+[TNP]
+> {tnp}
+
+[UBG]
+> {ubg}
+
+[KJV]
+> {kjv}
+""";
+
+var fileName = $"{book.pl} {chapter},{verse}.md";
+
+File.WriteAllText(Path.Combine(bibleDir, fileName), content);
+
+Console.WriteLine("Saved:", fileName);
+
+// --- helpers ---
+
+static string Clean(string? text)
 {
-    if (!modeMap.TryGetValue(mode, out var prefix))
-    {
-        Console.WriteLine("Invalid mode");
-        return;
-    }
+    if (text == null) return "";
+    return Regex.Replace(text, "[.,;·]", "");
+}
 
-    var key = $"{prefix}:{osis}:{chapter}:{verse}";
-    var value = await db.StringGetAsync(key);
+static string BuildWordTable(JsonElement w, bool linkLemma)
+{
+    var greek = Clean(w.GetProperty("greek").GetString());
+    var lemma = Clean(w.GetProperty("dictionary_form").GetString());
 
-    Console.WriteLine(value.IsNullOrEmpty ? "NOT FOUND" : value.ToString());
+    var lemmaVal = linkLemma ? $"[[{lemma}]]" : lemma;
+
+    return $"""
+| greek | {greek} |
+|---|---|
+| transliteration | {w.GetProperty("transliteration")} |
+| strong | {w.GetProperty("strong")} |
+| grammar | {w.GetProperty("grammar")} |
+| grammar_human | {w.GetProperty("grammar_human")} |
+| dictionary_form | {lemmaVal} |
+| definition | {w.GetProperty("definition")} |
+""";
 }
