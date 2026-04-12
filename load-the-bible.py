@@ -7,36 +7,6 @@ from bs4 import BeautifulSoup
 
 r = redis.Redis(host='localhost', port=6379, decode_responses=True)
 
-BOOK_MAP = {
-    "Matthew": 40,
-    "Mark": 41,
-    "Luke": 42,
-    "John": 43,
-    "Acts": 44,
-    "Romans": 45,
-    "1 Corinthians": 46,
-    "2 Corinthians": 47,
-    "Galatians": 48,
-    "Ephesians": 49,
-    "Philippians": 50,
-    "Colossians": 51,
-    "1 Thessalonians": 52,
-    "2 Thessalonians": 53,
-    "1 Timothy": 54,
-    "2 Timothy": 55,
-    "Titus": 56,
-    "Philemon": 57,
-    "Hebrews": 58,
-    "James": 59,
-    "1 Peter": 60,
-    "2 Peter": 61,
-    "1 John": 62,
-    "2 John": 63,
-    "3 John": 64,
-    "Jude": 65,
-    "Revelation": 66,
-}
-
 # ---------- TR ----------
 def load_tr(pipe):
     count = 0
@@ -50,19 +20,16 @@ def load_tr(pipe):
     pipe.execute()
     print("TR DONE:", count)
 
-# ---------- TNP (NAPRAWIONE) ----------
+# ---------- TNP ----------
 def load_tnp(pipe):
     with ZipFile("Biblia_przeklad_Torunski.epub") as z:
-
         for name in z.namelist():
-
             if not name.endswith(".html") and not name.endswith(".xhtml"):
                 continue
 
             soup = BeautifulSoup(z.read(name).decode(), "html.parser")
 
             for node in soup.find_all(id=re.compile(r"v\d+\.\d+")):
-
                 vid = node["id"]
                 text = node.get_text(" ", strip=True)
 
@@ -77,10 +44,9 @@ def load_tnp(pipe):
 
                 chapter, verse = m.groups()
 
-                # 🔥 zgadujemy księgę z kontekstu (plik)
                 book = None
-                for b in BOOK_MAP.keys():
-                    if b.lower().replace(" ", "") in name.lower():
+                for b in ["Matthew","Mark","Luke","John","Acts","Romans","Jude","Revelation"]:
+                    if b.lower() in name.lower():
                         book = b
                         break
 
@@ -96,9 +62,7 @@ def load_tnp(pipe):
 # ---------- UBG ----------
 def load_ubg(pipe):
     with ZipFile("UBG_2025.epub") as z:
-
         for name in z.namelist():
-
             if not name.endswith(".xhtml") or "PL-" not in name:
                 continue
 
@@ -118,8 +82,19 @@ def load_ubg(pipe):
                 chapter, verse = m.groups()
 
                 book_num = int(name.split("PL-")[1].split(".")[0])
-                book = next((k for k, v in BOOK_MAP.items() if v == book_num), None)
 
+                book_map = {
+                    40: "Matthew",
+                    41: "Mark",
+                    42: "Luke",
+                    43: "John",
+                    44: "Acts",
+                    45: "Romans",
+                    65: "Jude",
+                    66: "Revelation"
+                }
+
+                book = book_map.get(book_num)
                 if not book:
                     continue
 
@@ -129,10 +104,37 @@ def load_ubg(pipe):
         pipe.execute()
         print("UBG DONE")
 
+# ---------- KJV ----------
+def load_kjv(pipe):
+    with open("data/verses-1769.json", "r") as f:
+        data = json.load(f)
+
+    count = 0
+
+    for ref, text in data.items():
+        # "John 3:16"
+        m = re.match(r"(.+?) (\d+):(\d+)", ref)
+        if not m:
+            continue
+
+        book, chapter, verse = m.groups()
+
+        key = f"kjv:{book}:{chapter}:{verse}"
+        pipe.set(key, text.strip())
+
+        count += 1
+        if count % 2000 == 0:
+            pipe.execute()
+
+    pipe.execute()
+    print("KJV DONE:", count)
+
+# ---------- MAIN ----------
 pipe = r.pipeline()
 
 load_tr(pipe)
 load_tnp(pipe)
 load_ubg(pipe)
+load_kjv(pipe)
 
 print("ALL DONE")

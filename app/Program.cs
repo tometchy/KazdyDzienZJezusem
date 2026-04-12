@@ -3,17 +3,12 @@ using System.Text.RegularExpressions;
 
 if (args.Length == 0)
 {
-    Console.WriteLine("Usage: jhn3,16 [tr|tnp|ubg]");
+    Console.WriteLine("Usage: jhn3,16 [tr|tnp|ubg|kjv|all]");
     return;
 }
 
-// DEBUG (ważne!)
-Console.WriteLine($"ARGS: {string.Join(", ", args)}");
-
 var input = args[0].ToLower().Trim();
 var mode = args.Length > 1 ? args[1].ToLower().Trim() : "tr";
-
-Console.WriteLine($"MODE: {mode}");
 
 var match = Regex.Match(input, @"^([0-9]?[a-z]+)(\d+),(\d+)$");
 
@@ -65,28 +60,35 @@ if (!map.TryGetValue(bookCode, out var osis))
     return;
 }
 
-// 🔥 KLUCZ (ważne)
-var key = $"{mode}:{osis}:{chapter}:{verse}";
+var redis = await ConnectionMultiplexer.ConnectAsync("localhost:6379");
+var db = redis.GetDatabase();
 
-Console.WriteLine($"REDIS KEY: {key}");
-
-try
+async Task Print(string label, string key)
 {
-    var redis = await ConnectionMultiplexer.ConnectAsync("localhost:6379");
-    var db = redis.GetDatabase();
+    var val = await db.StringGetAsync(key);
 
+    Console.WriteLine($"\n[{label}]");
+
+    if (val.IsNullOrEmpty)
+        Console.WriteLine("NOT FOUND");
+    else
+        Console.WriteLine(val.ToString());
+}
+
+if (mode == "all")
+{
+    await Print("TR",  $"gnt:{osis}:{chapter}:{verse}");
+    await Print("TNP", $"tnp:{osis}:{chapter}:{verse}");
+    await Print("UBG", $"ubg:{osis}:{chapter}:{verse}");
+    await Print("KJV", $"kjv:{osis}:{chapter}:{verse}");
+}
+else
+{
+    var key = $"{mode}:{osis}:{chapter}:{verse}";
     var value = await db.StringGetAsync(key);
 
     if (value.IsNullOrEmpty)
-    {
         Console.WriteLine("NOT FOUND");
-    }
     else
-    {
-        Console.WriteLine(value);
-    }
-}
-catch (Exception ex)
-{
-    Console.WriteLine("ERROR: " + ex.Message);
+        Console.WriteLine(value.ToString());
 }
