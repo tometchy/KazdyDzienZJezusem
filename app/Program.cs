@@ -60,7 +60,7 @@ if (tr.IsNull)
 var trJson = JsonDocument.Parse(tr!);
 var words = trJson.RootElement.GetProperty("words");
 
-var root = Path.Combine(Directory.GetCurrentDirectory(), "Index");
+var root = "/data-out/Index";
 var bibleDir = Path.Combine(root, "Biblia");
 var greekDir = Path.Combine(root, "Graeca");
 

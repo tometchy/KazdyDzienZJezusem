@@ -1,4 +1,6 @@
 #!/bin/sh
+SCRIPT_DIR="/home/tom/Projects/KazdyDzienZJezusem"
+
 podman run --rm \
-  -v /home/tom/Projects/KazdyDzienZJezusem:/app \
+  -v "$SCRIPT_DIR":/data-out \
   textus-redis jhn1,1
