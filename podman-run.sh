@@ -1,2 +1,4 @@
 #!/bin/sh
-podman run --rm -v $(pwd):/app textus-redis jhn1,1
+podman run --rm \
+  -v /home/tom/Projects/KazdyDzienZJezusem:/app \
+  textus-redis jhn1,1
