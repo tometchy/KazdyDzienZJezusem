@@ -44,8 +44,12 @@ set -e
 
 redis-server --dir /data --save "" --daemonize yes
 
-# 🔥 czekamy aż dane się ZAŁADUJĄ (nie tylko ping)
-until redis-cli EXISTS gnt:John:1:1 | grep -q 1; do
+# 🔥 Czekamy aż Redis ZAŁADUJE dump (100% pewne)
+while true; do
+  LOADING=$(redis-cli INFO persistence | grep loading: | cut -d: -f2 | tr -d '\r')
+  if [ "$LOADING" = "0" ]; then
+    break
+  fi
   sleep 0.1
 done
 
