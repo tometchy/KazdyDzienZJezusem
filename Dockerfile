@@ -39,12 +39,17 @@ COPY --from=builder /app/dump.rdb /data/dump.rdb
 # App
 COPY --from=build /out .
 
-# entrypoint
-RUN echo '#!/bin/sh
+# entrypoint (FIXED)
+RUN cat << 'EOF' > /app/entrypoint.sh
+#!/bin/sh
 set -e
+
 redis-server --dir /data --daemonize yes
 sleep 1
+
 dotnet App.dll "$@"
-' > /app/entrypoint.sh && chmod +x /app/entrypoint.sh
+EOF
+
+RUN chmod +x /app/entrypoint.sh
 
 ENTRYPOINT ["/app/entrypoint.sh"]
