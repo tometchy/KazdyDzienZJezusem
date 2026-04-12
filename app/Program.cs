@@ -10,6 +10,15 @@ if (args.Length == 0)
 var input = args[0].ToLower().Trim();
 var mode = args.Length > 1 ? args[1].ToLower().Trim() : "tr";
 
+// 🔥 KLUCZOWE: mapowanie trybów
+var modeMap = new Dictionary<string, string>
+{
+    ["tr"] = "gnt",
+    ["tnp"] = "tnp",
+    ["ubg"] = "ubg",
+    ["kjv"] = "kjv"
+};
+
 var match = Regex.Match(input, @"^([0-9]?[a-z]+)(\d+),(\d+)$");
 
 if (!match.Success)
@@ -22,7 +31,6 @@ var bookCode = match.Groups[1].Value;
 var chapter = match.Groups[2].Value;
 var verse = match.Groups[3].Value;
 
-// MAPA → OSIS
 var map = new Dictionary<string, string>
 {
     ["mat"] = "Matt",
@@ -63,32 +71,32 @@ if (!map.TryGetValue(bookCode, out var osis))
 var redis = await ConnectionMultiplexer.ConnectAsync("localhost:6379");
 var db = redis.GetDatabase();
 
-async Task Print(string label, string key)
+async Task Print(string label, string prefix)
 {
+    var key = $"{prefix}:{osis}:{chapter}:{verse}";
     var val = await db.StringGetAsync(key);
 
     Console.WriteLine($"\n[{label}]");
-
-    if (val.IsNullOrEmpty)
-        Console.WriteLine("NOT FOUND");
-    else
-        Console.WriteLine(val.ToString());
+    Console.WriteLine(val.IsNullOrEmpty ? "NOT FOUND" : val.ToString());
 }
 
 if (mode == "all")
 {
-    await Print("TR",  $"gnt:{osis}:{chapter}:{verse}");
-    await Print("TNP", $"tnp:{osis}:{chapter}:{verse}");
-    await Print("UBG", $"ubg:{osis}:{chapter}:{verse}");
-    await Print("KJV", $"kjv:{osis}:{chapter}:{verse}");
+    await Print("TR",  "gnt");
+    await Print("TNP", "tnp");
+    await Print("UBG", "ubg");
+    await Print("KJV", "kjv");
 }
 else
 {
-    var key = $"{mode}:{osis}:{chapter}:{verse}";
+    if (!modeMap.TryGetValue(mode, out var prefix))
+    {
+        Console.WriteLine("Invalid mode");
+        return;
+    }
+
+    var key = $"{prefix}:{osis}:{chapter}:{verse}";
     var value = await db.StringGetAsync(key);
 
-    if (value.IsNullOrEmpty)
-        Console.WriteLine("NOT FOUND");
-    else
-        Console.WriteLine(value.ToString());
+    Console.WriteLine(value.IsNullOrEmpty ? "NOT FOUND" : value.ToString());
 }
