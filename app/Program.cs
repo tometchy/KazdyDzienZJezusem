@@ -25,7 +25,7 @@ var bookCode = match.Groups[1].Value;
 var chapter = int.Parse(match.Groups[2].Value);
 var verse = int.Parse(match.Groups[3].Value);
 
-// ✅ PEŁNY NT
+// 📚 FULL NT
 var BOOK_MAP = new Dictionary<string, (string eng, string pl)>
 {
     ["mat"] = ("Matthew", "Ewangelia Mateusza"),
@@ -72,6 +72,7 @@ if (!BOOK_MAP.ContainsKey(bookCode))
 
 var (bookEng, bookPl) = BOOK_MAP[bookCode];
 
+// 🔑 Redis keys
 string keyTR = $"tr:{bookEng}:{chapter}:{verse}";
 string keyTNP = $"tnp:{bookEng}:{chapter}:{verse}";
 string keyUBG = $"ubg:{bookEng}:{chapter}:{verse}";
@@ -88,11 +89,12 @@ if (trRaw.IsNullOrEmpty)
     return;
 }
 
-using var doc = JsonDocument.Parse(trRaw!);
+// ✅ FIX BUILD
+using var doc = JsonDocument.Parse(trRaw!.ToString());
 var root = doc.RootElement;
 var words = root.GetProperty("words");
 
-// 🔥 NAJWAŻNIEJSZE — poprawiona normalizacja
+// 🔥 Unicode fix (jak Python)
 string NormalizeGreek(string s)
 {
     if (string.IsNullOrEmpty(s)) return s;
@@ -115,7 +117,7 @@ string Clean(string s)
     return Regex.Replace(s, @"[.,;·]", "");
 }
 
-// ✅ budowa TR (forma oryginalna, NIE lemma)
+// 🧠 budowa TR (FORMA)
 var greekWords = new List<string>();
 
 foreach (var w in words.EnumerateArray())
@@ -135,6 +137,7 @@ string urlUBG = $"https://biblia-online.pl/Biblia/UwspolczesnionaBibliaGdanska/{
 
 string title = $"{bookPl} {chapter},{verse}";
 
+// 📝 OUTPUT
 var sbOut = new StringBuilder();
 
 sbOut.AppendLine($"# {title}");
@@ -155,23 +158,28 @@ sbOut.AppendLine();
 sbOut.AppendLine($"[UBG]({urlUBG})");
 sbOut.AppendLine($"> {ubg}");
 
-// 📁 ścieżki (host mount)
+// 📁 ścieżki
 string basePath = "/data-out/Index";
 string bibliaPath = Path.Combine(basePath, "Biblia");
 string graecaPath = Path.Combine(basePath, "Graeca");
+string strongPath = Path.Combine(basePath, "Strong");
 
 Directory.CreateDirectory(bibliaPath);
 Directory.CreateDirectory(graecaPath);
+Directory.CreateDirectory(strongPath);
 
 // 📄 zapis wersetu
 string filePath = Path.Combine(bibliaPath, $"{title}.md");
 File.WriteAllText(filePath, sbOut.ToString(), Encoding.UTF8);
 
-// 📄 pliki greckie
+// 📄 słowa (forma + lemma + strong)
 foreach (var w in words.EnumerateArray())
 {
     var greek = NormalizeGreek(w.GetProperty("greek").GetString() ?? "");
     greek = Clean(greek);
+
+    var lemma = NormalizeGreek(w.GetProperty("dictionary_form").GetString() ?? "");
+    var strong = $"G{w.GetProperty("strong").GetInt32()}";
 
     string gPath = Path.Combine(graecaPath, $"{greek}.md");
 
@@ -179,12 +187,29 @@ foreach (var w in words.EnumerateArray())
     content.AppendLine($"# {greek}");
     content.AppendLine();
 
+    content.AppendLine($"lemma: [[{lemma}]]");
+    content.AppendLine($"strong: [[{strong}]]");
+    content.AppendLine();
+
     content.AppendLine($"**transliteration:** {w.GetProperty("transliteration").GetString()}");
     content.AppendLine($"**grammar:** {w.GetProperty("grammar_human").GetString()}");
-    content.AppendLine($"**strong:** {w.GetProperty("strong").GetInt32()}");
     content.AppendLine($"**definition:** {w.GetProperty("definition").GetString()}");
 
     File.WriteAllText(gPath, content.ToString(), Encoding.UTF8);
+
+    // 📄 Strong file
+    string sPath = Path.Combine(strongPath, $"{strong}.md");
+
+    if (!File.Exists(sPath))
+    {
+        var sContent = new StringBuilder();
+        sContent.AppendLine($"# {strong}");
+        sContent.AppendLine();
+        sContent.AppendLine($"lemma: [[{lemma}]]");
+        sContent.AppendLine($"definition: {w.GetProperty("definition").GetString()}");
+
+        File.WriteAllText(sPath, sContent.ToString(), Encoding.UTF8);
+    }
 }
 
 Console.WriteLine($"Saved: {title}.md");
