@@ -22,7 +22,7 @@ def load_tr(pipe):
 
 # ---------- TNP ----------
 def load_tnp(pipe):
-    with ZipFile("Biblia_przeklad_Torunski.epub") as z:
+    with ZipFile("data/Biblia_przeklad_Torunski.epub") as z:
         for name in z.namelist():
             if not name.endswith(".html") and not name.endswith(".xhtml"):
                 continue
@@ -61,7 +61,7 @@ def load_tnp(pipe):
 
 # ---------- UBG ----------
 def load_ubg(pipe):
-    with ZipFile("UBG_2025.epub") as z:
+    with ZipFile("data/UBG_2025.epub") as z:
         for name in z.namelist():
             if not name.endswith(".xhtml") or "PL-" not in name:
                 continue
