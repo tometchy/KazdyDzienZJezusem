@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTvVfpvzLZI=",
+  "success": true,
+  "projectFilePath": "/home/tom/Projects/KazdyDzienZJezusem/KazdyDzienZJezusem/KazdyDzienZJezusem.csproj",
+  "expectedPackageFiles": [
+    "/home/tom/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/tom/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/home/tom/.nuget/packages/stackexchange.redis/2.7.33/stackexchange.redis.2.7.33.nupkg.sha512"
+  ],
+  "logs": []
+}
