@@ -37,21 +37,7 @@ WORKDIR /KazdyDzienZJezusem
 RUN mkdir -p /data
 COPY --from=builder /KazdyDzienZJezusem/dump.rdb /data/dump.rdb
 COPY --from=build /out .
-
-RUN cat << 'EOF' > /KazdyDzienZJezusem/entrypoint.sh
-#!/bin/sh
-set -e
-
-redis-server --dir /data --save "" --daemonize yes
-
-# 🔥 czekamy aż dane się ZAŁADUJĄ (nie tylko ping)
-until redis-cli EXISTS gnt:John:1:1 | grep -q 1; do
-  sleep 0.1
-done
-
-dotnet KazdyDzienZJezusem.dll "$@"
-EOF
-
+COPY KazdyDzienZJezusem/entrypoint.sh /KazdyDzienZJezusem/entrypoint.sh
 RUN chmod +x /KazdyDzienZJezusem/entrypoint.sh
 
 ENTRYPOINT ["/KazdyDzienZJezusem/entrypoint.sh"]
