@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
@@ -176,6 +176,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -194,6 +195,7 @@
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "StackExchange.Redis": {
@@ -212,12 +214,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[10.0.8, 10.0.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.alpine.3.24-arm64",
+            "version": "[10.0.8, 10.0.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[10.0.8, 10.0.8]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -494,5 +510,16 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.alpine.3.24-arm64. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Microsoft.NETCore.App.Host.alpine.3.24-arm64",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

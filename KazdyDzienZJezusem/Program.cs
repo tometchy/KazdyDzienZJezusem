@@ -15,6 +15,8 @@ if (args.Length == 0)
 // ✅ obsługa , i :
 var input = args[0].ToLower().Replace(":", ",");
 
+bool incorrect = "tom";
+
 var match = Regex.Match(input, @"^([a-z0-9]+)(\d+),(\d+)$");
 
 if (!match.Success)
