@@ -1,7 +1,7 @@
 # ---------- STAGE 1 ----------
-FROM python:3.12-alpine AS builder
+FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine AS builder
 
-RUN apk add --no-cache redis
+RUN apk add --no-cache redis python3 py3-pip
 
 WORKDIR /KazdyDzienZJezusem
 
@@ -10,12 +10,12 @@ COPY data/ data/
 # COPY Biblia_przeklad_Torunski.epub .
 # COPY UBG_2025.epub .
 
-RUN pip install --no-cache-dir redis ijson beautifulsoup4
+RUN pip3 install --no-cache-dir redis ijson beautifulsoup4
 
 RUN mkdir -p /data && \
     redis-server --dir /data --save "" --daemonize yes && \
     sleep 1 && \
-    python load-the-bible.py && \
+    python3 load-the-bible.py && \
     redis-cli SAVE && \
     cp /data/dump.rdb /KazdyDzienZJezusem/dump.rdb
 
