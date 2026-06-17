@@ -4,6 +4,8 @@ using System.Text.RegularExpressions;
 using System.Globalization;
 using StackExchange.Redis;
 
+Console.WriteLine("Starting...");
+
 var redis = ConnectionMultiplexer.Connect("localhost").GetDatabase();
 
 if (args.Length == 0)
