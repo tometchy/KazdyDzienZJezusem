@@ -1,3 +1,9 @@
+# ToDo:
+- Generate everything as a step in the Dockerfile build
+- Clone the repo inside the container
+- Endpoint to modify the file in repo and push it
+- Host downloading changes in 1min loop and rebuilding on change
+
 # Textus Receptus
 
 We are pleased to announce the immediate availability of the 1894 Scrivener
