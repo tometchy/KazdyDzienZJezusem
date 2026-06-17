@@ -27,10 +27,6 @@ WORKDIR /src
 COPY KazdyDzienZJezusem/ .
 
 RUN dotnet publish -c Release -o /out
-
-# ---------- STAGE 3 ----------
-FROM node:22-alpine AS node
-
 # ---------- STAGE 4 ----------
 FROM node:22-alpine AS quartz
 
@@ -51,17 +47,13 @@ RUN git clone --depth 1 --branch v5 https://github.com/jackyzha0/quartz.git . &&
 # ---------- STAGE 5 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine
 
-RUN apk add --no-cache redis
+RUN apk add --no-cache redis nodejs npm coreutils
 
 WORKDIR /KazdyDzienZJezusem
 
 RUN mkdir -p /data && chmod 777 /data
 COPY --from=builder /KazdyDzienZJezusem/dump.rdb /data/dump.rdb
 COPY --from=build /out .
-COPY --from=node /usr/local/bin/node /usr/local/bin/node
-COPY --from=node /usr/local/bin/npm /usr/local/bin/npm
-COPY --from=node /usr/local/bin/npx /usr/local/bin/npx
-COPY --from=node /usr/local/lib/node_modules /usr/local/lib/node_modules
 COPY --from=quartz /opt/quartz-site /opt/quartz-site
 COPY KazdyDzienZJezusem/entrypoint.sh /KazdyDzienZJezusem/entrypoint.sh
 RUN chmod +x /KazdyDzienZJezusem/entrypoint.sh

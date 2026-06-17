@@ -3,6 +3,7 @@
 - Clone the repo inside the container
 - Endpoint to modify the file in repo and push it
 - Host downloading changes in 1min loop and rebuilding on change
+- Host docker-compose surviving server restarts
 
 # Textus Receptus
 
