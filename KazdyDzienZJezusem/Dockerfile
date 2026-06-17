@@ -34,7 +34,7 @@ FROM node:22-alpine AS node
 # ---------- STAGE 4 ----------
 FROM node:22-alpine AS quartz
 
-RUN apk add --no-cache git
+RUN apk add --no-cache git coreutils
 
 WORKDIR /opt/quartz-site
 
