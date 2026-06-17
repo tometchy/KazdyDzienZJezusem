@@ -34,7 +34,7 @@ RUN apk add --no-cache redis
 
 WORKDIR /KazdyDzienZJezusem
 
-RUN mkdir -p /data
+RUN mkdir -p /data && chmod 777 /data
 COPY --from=builder /KazdyDzienZJezusem/dump.rdb /data/dump.rdb
 COPY --from=build /out .
 COPY KazdyDzienZJezusem/entrypoint.sh /KazdyDzienZJezusem/entrypoint.sh
