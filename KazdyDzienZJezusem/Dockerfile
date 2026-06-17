@@ -39,11 +39,14 @@ RUN apk add --no-cache git
 WORKDIR /opt/quartz-site
 
 # Non-interactive Quartz project bootstrap used by the C# app at runtime.
-RUN npx --yes quartz@5 create \
+RUN git clone --depth 1 --branch v5 https://github.com/jackyzha0/quartz.git . && \
+    npm ci && \
+    npx quartz create \
     --template default \
     --strategy new \
-    --links shortest \
-    --baseUrl localhost
+    --baseUrl localhost \
+    --links shortest && \
+    npx quartz plugin install --from-config
 
 # ---------- STAGE 5 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine
