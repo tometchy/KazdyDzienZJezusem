@@ -10,12 +10,13 @@ COPY data/ data/
 # COPY Biblia_przeklad_Torunski.epub .
 # COPY UBG_2025.epub .
 
-RUN pip3 install --no-cache-dir redis ijson beautifulsoup4
+RUN python3 -m venv /opt/venv && \
+    /opt/venv/bin/pip install --no-cache-dir redis ijson beautifulsoup4
 
 RUN mkdir -p /data && \
     redis-server --dir /data --save "" --daemonize yes && \
     sleep 1 && \
-    python3 load-the-bible.py && \
+    /opt/venv/bin/python load-the-bible.py && \
     redis-cli SAVE && \
     cp /data/dump.rdb /KazdyDzienZJezusem/dump.rdb
 
