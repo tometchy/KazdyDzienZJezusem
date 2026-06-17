@@ -2,6 +2,7 @@ using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 using System.Globalization;
+using System.Diagnostics;
 using StackExchange.Redis;
 
 Console.WriteLine("Starting...");
@@ -167,6 +168,7 @@ string basePath = "/data-out/Index";
 string bibliaPath = Path.Combine(basePath, "Biblia");
 string graecaPath = Path.Combine(basePath, "Graeca");
 string strongPath = Path.Combine(basePath, "Strong");
+string htmlPath = "/data-out/IndexHtml";
 
 Directory.CreateDirectory(bibliaPath);
 Directory.CreateDirectory(graecaPath);
@@ -219,3 +221,45 @@ definition: {w.GetProperty("definition").GetString()}
 }
 
 Console.WriteLine($"Saved: {title}.md");
+
+Directory.CreateDirectory(htmlPath);
+
+var quartzProcess = new ProcessStartInfo
+{
+    FileName = "npx",
+    WorkingDirectory = "/opt/quartz-site",
+    RedirectStandardOutput = true,
+    RedirectStandardError = true,
+    UseShellExecute = false,
+};
+
+quartzProcess.ArgumentList.Add("quartz");
+quartzProcess.ArgumentList.Add("build");
+quartzProcess.ArgumentList.Add("--directory");
+quartzProcess.ArgumentList.Add(basePath);
+quartzProcess.ArgumentList.Add("--output");
+quartzProcess.ArgumentList.Add(htmlPath);
+
+using var quartz = Process.Start(quartzProcess);
+
+if (quartz is null)
+{
+    Console.WriteLine("Quartz build failed to start.");
+    return;
+}
+
+var quartzStdOut = quartz.StandardOutput.ReadToEnd();
+var quartzStdErr = quartz.StandardError.ReadToEnd();
+quartz.WaitForExit();
+
+if (quartz.ExitCode != 0)
+{
+    Console.WriteLine("Quartz build failed.");
+    if (!string.IsNullOrWhiteSpace(quartzStdOut))
+        Console.WriteLine(quartzStdOut);
+    if (!string.IsNullOrWhiteSpace(quartzStdErr))
+        Console.WriteLine(quartzStdErr);
+    return;
+}
+
+Console.WriteLine($"Quartz HTML generated in: {htmlPath}");

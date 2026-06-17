@@ -806,3 +806,6 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,vs,rider,jetbrains,jetbrains+all,visualstudiocode,visualstudio
 Index/.obsidian
+
+Index/
+IndexHtml/
