@@ -58,4 +58,6 @@ COPY --from=quartz /opt/quartz-site /opt/quartz-site
 COPY KazdyDzienZJezusem/entrypoint.sh /KazdyDzienZJezusem/entrypoint.sh
 RUN chmod +x /KazdyDzienZJezusem/entrypoint.sh
 
+EXPOSE 8080
+
 ENTRYPOINT ["/KazdyDzienZJezusem/entrypoint.sh"]

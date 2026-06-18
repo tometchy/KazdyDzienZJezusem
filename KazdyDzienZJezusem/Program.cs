@@ -7,11 +7,17 @@ using StackExchange.Redis;
 
 Console.WriteLine("Starting...");
 
+void Fail(string message)
+{
+    Console.WriteLine(message);
+    Environment.ExitCode = 1;
+}
+
 var redis = ConnectionMultiplexer.Connect("localhost").GetDatabase();
 
 if (args.Length == 0)
 {
-    Console.WriteLine("Usage: jhn3,16 OR jhn3:16");
+    Fail("Usage: jhn3,16 OR jhn3:16");
     return;
 }
 
@@ -22,7 +28,7 @@ var match = Regex.Match(input, @"^([a-z0-9]+)(\d+),(\d+)$");
 
 if (!match.Success)
 {
-    Console.WriteLine("Invalid format. Example: jhn3,16");
+    Fail("Invalid format. Example: jhn3,16");
     return;
 }
 
@@ -71,7 +77,7 @@ var BOOK_MAP = new Dictionary<string, (string eng, string pl)>
 
 if (!BOOK_MAP.ContainsKey(bookCode))
 {
-    Console.WriteLine("Unknown book");
+    Fail("Unknown book");
     return;
 }
 
@@ -90,7 +96,7 @@ var kjv = redis.StringGet(keyKJV);
 
 if (trRaw.IsNullOrEmpty)
 {
-    Console.WriteLine($"NOT FOUND: {keyTR}");
+    Fail($"NOT FOUND: {keyTR}");
     return;
 }
 
@@ -244,7 +250,7 @@ using var quartz = Process.Start(quartzProcess);
 
 if (quartz is null)
 {
-    Console.WriteLine("Quartz build failed to start.");
+    Fail("Quartz build failed to start.");
     return;
 }
 
@@ -254,7 +260,7 @@ quartz.WaitForExit();
 
 if (quartz.ExitCode != 0)
 {
-    Console.WriteLine("Quartz build failed.");
+    Fail("Quartz build failed.");
     if (!string.IsNullOrWhiteSpace(quartzStdOut))
         Console.WriteLine(quartzStdOut);
     if (!string.IsNullOrWhiteSpace(quartzStdErr))

@@ -16,3 +16,11 @@ until redis-cli EXISTS gnt:John:1:1 2>/dev/null | grep -q 1; do
 done
 
 dotnet KazdyDzienZJezusem.dll "$@"
+
+if [ ! -f /data-out/IndexHtml/index.html ]; then
+  echo "Quartz HTML was not generated: /data-out/IndexHtml/index.html is missing"
+  exit 1
+fi
+
+echo "Serving /data-out/IndexHtml on http://0.0.0.0:8080"
+exec busybox httpd -f -p 0.0.0.0:8080 -h /data-out/IndexHtml
