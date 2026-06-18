@@ -176,9 +176,16 @@ string graecaPath = Path.Combine(basePath, "Graeca");
 string strongPath = Path.Combine(basePath, "Strong");
 string htmlPath = "/data-out/IndexHtml";
 
+Directory.CreateDirectory(basePath);
 Directory.CreateDirectory(bibliaPath);
 Directory.CreateDirectory(graecaPath);
 Directory.CreateDirectory(strongPath);
+
+var obsidianPath = Path.Combine(basePath, ".obsidian");
+if (Directory.Exists(obsidianPath))
+{
+    Directory.Delete(obsidianPath, recursive: true);
+}
 
 // 📄 zapis wersetu
 File.WriteAllText(
@@ -227,6 +234,28 @@ definition: {w.GetProperty("definition").GetString()}
 }
 
 Console.WriteLine($"Saved: {title}.md");
+
+File.WriteAllText(
+    Path.Combine(basePath, "index.md"),
+    $@"# Kazdy Dzien Z Jezusem
+
+## Ostatni werset
+
+[[Biblia/{title}|{title}]]
+
+## Indeksy
+
+- [[Biblia]]
+- [[Graeca]]
+- [[Strong]]
+",
+    Encoding.UTF8
+);
+
+if (Directory.Exists(htmlPath))
+{
+    Directory.Delete(htmlPath, recursive: true);
+}
 
 Directory.CreateDirectory(htmlPath);
 
