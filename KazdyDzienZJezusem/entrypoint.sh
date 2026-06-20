@@ -23,4 +23,4 @@ if [ ! -f /data-out/IndexHtml/index.html ]; then
 fi
 
 echo "Serving /data-out/IndexHtml on http://0.0.0.0:8080"
-exec busybox httpd -f -p 0.0.0.0:8080 -h /data-out/IndexHtml
+exec httpd -f -p 0.0.0.0:8080 -h /data-out/IndexHtml

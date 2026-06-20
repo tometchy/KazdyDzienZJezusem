@@ -47,7 +47,7 @@ RUN git clone --depth 1 --branch v5 https://github.com/jackyzha0/quartz.git . &&
 # ---------- STAGE 5 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine
 
-RUN apk add --no-cache redis nodejs npm coreutils
+RUN apk add --no-cache redis nodejs npm coreutils busybox-extras
 
 WORKDIR /KazdyDzienZJezusem
 
