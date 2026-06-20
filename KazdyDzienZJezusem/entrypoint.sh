@@ -23,4 +23,24 @@ if [ ! -f /data-out/IndexHtml/index.html ]; then
 fi
 
 echo "Serving /data-out/IndexHtml on http://0.0.0.0:8080"
-exec httpd -f -p 0.0.0.0:8080 -h /data-out/IndexHtml
+#exec httpd -f -p 0.0.0.0:8080 -h /data-out/IndexHtml
+
+shutdown() {
+  echo "Stopping..."
+
+  if [ -n "${httpd_pid:-}" ]; then
+    kill "$httpd_pid" 2>/dev/null || true
+    wait "$httpd_pid" 2>/dev/null || true
+  fi
+
+  if [ -f /tmp/redis.pid ]; then
+    redis-cli shutdown nosave >/dev/null 2>&1 || kill "$(cat /tmp/redis.pid)" 2>/dev/null || true
+  fi
+}
+
+trap shutdown INT TERM
+
+httpd -f -p 0.0.0.0:8080 -h /data-out/IndexHtml &
+httpd_pid=$!
+
+wait "$httpd_pid"
