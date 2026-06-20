@@ -128,6 +128,23 @@ string Clean(string s)
     return Regex.Replace(s, @"[.,;·]", "");
 }
 
+void CopyDirectory(string sourceDir, string destinationDir)
+{
+    Directory.CreateDirectory(destinationDir);
+
+    foreach (var directory in Directory.GetDirectories(sourceDir, "*", SearchOption.AllDirectories))
+    {
+        var relativePath = Path.GetRelativePath(sourceDir, directory);
+        Directory.CreateDirectory(Path.Combine(destinationDir, relativePath));
+    }
+
+    foreach (var file in Directory.GetFiles(sourceDir, "*", SearchOption.AllDirectories))
+    {
+        var relativePath = Path.GetRelativePath(sourceDir, file);
+        File.Copy(file, Path.Combine(destinationDir, relativePath), overwrite: true);
+    }
+}
+
 // 🧾 TR (FORMA)
 var greekWords = new List<string>();
 
@@ -259,10 +276,20 @@ if (Directory.Exists(htmlPath))
 
 Directory.CreateDirectory(htmlPath);
 
+string quartzSitePath = "/opt/quartz-site";
+string quartzContentPath = Path.Combine(quartzSitePath, "content");
+
+if (Directory.Exists(quartzContentPath))
+{
+    Directory.Delete(quartzContentPath, recursive: true);
+}
+
+CopyDirectory(basePath, quartzContentPath);
+
 var quartzProcess = new ProcessStartInfo
 {
     FileName = "npx",
-    WorkingDirectory = "/opt/quartz-site",
+    WorkingDirectory = quartzSitePath,
     RedirectStandardOutput = true,
     RedirectStandardError = true,
     UseShellExecute = false,
@@ -270,8 +297,6 @@ var quartzProcess = new ProcessStartInfo
 
 quartzProcess.ArgumentList.Add("quartz");
 quartzProcess.ArgumentList.Add("build");
-quartzProcess.ArgumentList.Add("--directory");
-quartzProcess.ArgumentList.Add(basePath);
 quartzProcess.ArgumentList.Add("--output");
 quartzProcess.ArgumentList.Add(htmlPath);
 
@@ -290,6 +315,16 @@ quartz.WaitForExit();
 if (quartz.ExitCode != 0)
 {
     Fail("Quartz build failed.");
+    if (!string.IsNullOrWhiteSpace(quartzStdOut))
+        Console.WriteLine(quartzStdOut);
+    if (!string.IsNullOrWhiteSpace(quartzStdErr))
+        Console.WriteLine(quartzStdErr);
+    return;
+}
+
+if (!File.Exists(Path.Combine(htmlPath, "index.html")))
+{
+    Fail($"Quartz build completed, but {Path.Combine(htmlPath, "index.html")} is missing.");
     if (!string.IsNullOrWhiteSpace(quartzStdOut))
         Console.WriteLine(quartzStdOut);
     if (!string.IsNullOrWhiteSpace(quartzStdErr))
