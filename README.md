@@ -4,6 +4,7 @@
 - Endpoint to modify the file in repo and push it
 - Host downloading changes in 1min loop and rebuilding on change
 - Host docker-compose surviving server restarts
+- Instead of original word the path should contain strong code and datus what's in the table and starts with language, for example /en/lexicon/g3745-noun-accusative-singular-feminine
 
 # Textus Receptus
 
