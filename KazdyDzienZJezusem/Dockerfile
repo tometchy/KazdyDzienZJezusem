@@ -47,6 +47,7 @@ RUN dotnet restore
 COPY KazdyDzienZJezusem/ .
 
 RUN dotnet publish -c Release -o /out --no-restore
+
 # ---------- STAGE 4 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine
 

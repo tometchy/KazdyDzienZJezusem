@@ -304,6 +304,7 @@ definition: {w.GetProperty("definition").GetString()}
     quartzProcess.ArgumentList.Add("--output");
     quartzProcess.ArgumentList.Add(htmlPath);
 
+    Console.WriteLine($"Building Quartz site in: {quartzSitePath}");
     using var quartz = Process.Start(quartzProcess);
 
     if (quartz is null)
