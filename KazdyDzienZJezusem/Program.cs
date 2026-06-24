@@ -87,7 +87,7 @@ foreach (var rawInput in inputs)
     // ✅ obsługa , i :
     var input = rawInput.ToLower().Replace(":", ",");
 
-    var match = Regex.Match(input, @"^([a-z0-9]+)(\d+),(\d+)$");
+    var match = Regex.Match(input, @"^([1-3]?[a-z]+)(\d+),(\d+)$");
 
     if (!match.Success)
     {
@@ -137,6 +137,36 @@ foreach (var rawInput in inputs)
         ["jud"] = ("Jude", "List Judy"),
         ["rev"] = ("Revelation", "Objawienie Jana"),
     };
+    var GNT_BOOK_MAP = new Dictionary<string, string>
+    {
+        ["mat"] = "Matt",
+        ["mar"] = "Mark",
+        ["luk"] = "Luke",
+        ["jhn"] = "John",
+        ["act"] = "Acts",
+        ["rom"] = "Rom",
+        ["1co"] = "1Cor",
+        ["2co"] = "2Cor",
+        ["gal"] = "Gal",
+        ["eph"] = "Eph",
+        ["php"] = "Phil",
+        ["col"] = "Col",
+        ["1th"] = "1Thess",
+        ["2th"] = "2Thess",
+        ["1ti"] = "1Tim",
+        ["2ti"] = "2Tim",
+        ["tit"] = "Titus",
+        ["phm"] = "Phlm",
+        ["heb"] = "Heb",
+        ["jas"] = "Jas",
+        ["1pe"] = "1Pet",
+        ["2pe"] = "2Pet",
+        ["1jn"] = "1John",
+        ["2jn"] = "2John",
+        ["3jn"] = "3John",
+        ["jud"] = "Jude",
+        ["rev"] = "Rev",
+    };
 
     if (!BOOK_MAP.ContainsKey(bookCode))
     {
@@ -147,7 +177,8 @@ foreach (var rawInput in inputs)
     var (bookEng, bookPl) = BOOK_MAP[bookCode];
 
     // 🔑 KLUCZE (FIX!)
-    string keyTR = $"gnt:{bookEng}:{chapter}:{verse}";
+    var bookOsis = GNT_BOOK_MAP[bookCode];
+    string keyTR = $"gnt:{bookOsis}:{chapter}:{verse}";
     string keyTNP = $"tnp:{bookEng}:{chapter}:{verse}";
     string keyUBG = $"ubg:{bookEng}:{chapter}:{verse}";
     string keyKJV = $"kjv:{bookEng}:{chapter}:{verse}";
