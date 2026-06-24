@@ -23,6 +23,63 @@ var inputs = args.SelectMany(arg => arg.Split(' ', StringSplitOptions.RemoveEmpt
 
 var redis = ConnectionMultiplexer.Connect("localhost").GetDatabase();
 
+// Output paths
+string basePath = "/data-out/Index";
+string bibliaPath = Path.Combine(basePath, "Biblia");
+string graecaPath = Path.Combine(basePath, "Graeca");
+string strongPath = Path.Combine(basePath, "Strong");
+string htmlPath = "/data-out/IndexHtml";
+
+Directory.CreateDirectory(basePath);
+Directory.CreateDirectory(bibliaPath);
+Directory.CreateDirectory(graecaPath);
+Directory.CreateDirectory(strongPath);
+
+var obsidianPath = Path.Combine(basePath, ".obsidian");
+if (Directory.Exists(obsidianPath))
+{
+    Directory.Delete(obsidianPath, recursive: true);
+}
+
+string NormalizeGreek(string s)
+{
+    if (string.IsNullOrEmpty(s)) return s;
+
+    var formD = s.Normalize(NormalizationForm.FormD);
+    var sb = new StringBuilder();
+
+    foreach (var ch in formD)
+    {
+        var uc = Char.GetUnicodeCategory(ch);
+        if (uc != UnicodeCategory.Control)
+            sb.Append(ch);
+    }
+
+    return sb.ToString().Normalize(NormalizationForm.FormC);
+}
+
+string Clean(string s)
+{
+    return Regex.Replace(s, @"[.,;·]", "");
+}
+
+void CopyDirectory(string sourceDir, string destinationDir)
+{
+    Directory.CreateDirectory(destinationDir);
+
+    foreach (var directory in Directory.GetDirectories(sourceDir, "*", SearchOption.AllDirectories))
+    {
+        var relativePath = Path.GetRelativePath(sourceDir, directory);
+        Directory.CreateDirectory(Path.Combine(destinationDir, relativePath));
+    }
+
+    foreach (var file in Directory.GetFiles(sourceDir, "*", SearchOption.AllDirectories))
+    {
+        var relativePath = Path.GetRelativePath(sourceDir, file);
+        File.Copy(file, Path.Combine(destinationDir, relativePath), overwrite: true);
+    }
+}
+
 foreach (var rawInput in inputs)
 {
     // ✅ obsługa , i :
@@ -109,46 +166,6 @@ foreach (var rawInput in inputs)
     var root = doc.RootElement;
     var words = root.GetProperty("words");
 
-    // 🧠 Unicode jak Python
-    string NormalizeGreek(string s)
-    {
-        if (string.IsNullOrEmpty(s)) return s;
-
-        var formD = s.Normalize(NormalizationForm.FormD);
-        var sb = new StringBuilder();
-
-        foreach (var ch in formD)
-        {
-            var uc = Char.GetUnicodeCategory(ch);
-            if (uc != UnicodeCategory.Control)
-                sb.Append(ch);
-        }
-
-        return sb.ToString().Normalize(NormalizationForm.FormC);
-    }
-
-    string Clean(string s)
-    {
-        return Regex.Replace(s, @"[.,;·]", "");
-    }
-
-    void CopyDirectory(string sourceDir, string destinationDir)
-    {
-        Directory.CreateDirectory(destinationDir);
-
-        foreach (var directory in Directory.GetDirectories(sourceDir, "*", SearchOption.AllDirectories))
-        {
-            var relativePath = Path.GetRelativePath(sourceDir, directory);
-            Directory.CreateDirectory(Path.Combine(destinationDir, relativePath));
-        }
-
-        foreach (var file in Directory.GetFiles(sourceDir, "*", SearchOption.AllDirectories))
-        {
-            var relativePath = Path.GetRelativePath(sourceDir, file);
-            File.Copy(file, Path.Combine(destinationDir, relativePath), overwrite: true);
-        }
-    }
-
     // 🧾 TR (FORMA)
     var greekWords = new List<string>();
 
@@ -189,24 +206,6 @@ foreach (var rawInput in inputs)
 
     sbOut.AppendLine($"[UBG]({urlUBG})");
     sbOut.AppendLine($"> {ubg}");
-
-    // 📁 PATH
-    string basePath = "/data-out/Index";
-    string bibliaPath = Path.Combine(basePath, "Biblia");
-    string graecaPath = Path.Combine(basePath, "Graeca");
-    string strongPath = Path.Combine(basePath, "Strong");
-    string htmlPath = "/data-out/IndexHtml";
-
-    Directory.CreateDirectory(basePath);
-    Directory.CreateDirectory(bibliaPath);
-    Directory.CreateDirectory(graecaPath);
-    Directory.CreateDirectory(strongPath);
-
-    var obsidianPath = Path.Combine(basePath, ".obsidian");
-    if (Directory.Exists(obsidianPath))
-    {
-        Directory.Delete(obsidianPath, recursive: true);
-    }
 
     // 📄 zapis wersetu
     File.WriteAllText(
@@ -273,69 +272,71 @@ definition: {w.GetProperty("definition").GetString()}
         Encoding.UTF8
     );
 
-    if (Directory.Exists(htmlPath))
-    {
-        Directory.Delete(htmlPath, recursive: true);
-    }
 
-    Directory.CreateDirectory(htmlPath);
-
-    string quartzSitePath = "/opt/quartz-site";
-    string quartzContentPath = Path.Combine(quartzSitePath, "content");
-
-    if (Directory.Exists(quartzContentPath))
-    {
-        Directory.Delete(quartzContentPath, recursive: true);
-    }
-
-    CopyDirectory(basePath, quartzContentPath);
-
-    var quartzProcess = new ProcessStartInfo
-    {
-        FileName = "npx",
-        WorkingDirectory = quartzSitePath,
-        RedirectStandardOutput = true,
-        RedirectStandardError = true,
-        UseShellExecute = false,
-    };
-
-    quartzProcess.ArgumentList.Add("quartz");
-    quartzProcess.ArgumentList.Add("build");
-    quartzProcess.ArgumentList.Add("--output");
-    quartzProcess.ArgumentList.Add(htmlPath);
-
-    Console.WriteLine($"Building Quartz site in: {quartzSitePath}");
-    using var quartz = Process.Start(quartzProcess);
-
-    if (quartz is null)
-    {
-        Fail("Quartz build failed to start.");
-        return;
-    }
-
-    var quartzStdOut = quartz.StandardOutput.ReadToEnd();
-    var quartzStdErr = quartz.StandardError.ReadToEnd();
-    quartz.WaitForExit();
-
-    if (quartz.ExitCode != 0)
-    {
-        Fail("Quartz build failed.");
-        if (!string.IsNullOrWhiteSpace(quartzStdOut))
-            Console.WriteLine(quartzStdOut);
-        if (!string.IsNullOrWhiteSpace(quartzStdErr))
-            Console.WriteLine(quartzStdErr);
-        return;
-    }
-
-    if (!File.Exists(Path.Combine(htmlPath, "index.html")))
-    {
-        Fail($"Quartz build completed, but {Path.Combine(htmlPath, "index.html")} is missing.");
-        if (!string.IsNullOrWhiteSpace(quartzStdOut))
-            Console.WriteLine(quartzStdOut);
-        if (!string.IsNullOrWhiteSpace(quartzStdErr))
-            Console.WriteLine(quartzStdErr);
-        return;
-    }
-
-    Console.WriteLine($"Quartz HTML generated in: {htmlPath}");
 }
+
+if (Directory.Exists(htmlPath))
+{
+    Directory.Delete(htmlPath, recursive: true);
+}
+
+Directory.CreateDirectory(htmlPath);
+
+string quartzSitePath = "/opt/quartz-site";
+string quartzContentPath = Path.Combine(quartzSitePath, "content");
+
+if (Directory.Exists(quartzContentPath))
+{
+    Directory.Delete(quartzContentPath, recursive: true);
+}
+
+CopyDirectory(basePath, quartzContentPath);
+
+var quartzProcess = new ProcessStartInfo
+{
+    FileName = "npx",
+    WorkingDirectory = quartzSitePath,
+    RedirectStandardOutput = true,
+    RedirectStandardError = true,
+    UseShellExecute = false,
+};
+
+quartzProcess.ArgumentList.Add("quartz");
+quartzProcess.ArgumentList.Add("build");
+quartzProcess.ArgumentList.Add("--output");
+quartzProcess.ArgumentList.Add(htmlPath);
+
+Console.WriteLine($"Building Quartz site in: {quartzSitePath}");
+using var quartz = Process.Start(quartzProcess);
+
+if (quartz is null)
+{
+    Fail("Quartz build failed to start.");
+    return;
+}
+
+var quartzStdOut = quartz.StandardOutput.ReadToEnd();
+var quartzStdErr = quartz.StandardError.ReadToEnd();
+quartz.WaitForExit();
+
+if (quartz.ExitCode != 0)
+{
+    Fail("Quartz build failed.");
+    if (!string.IsNullOrWhiteSpace(quartzStdOut))
+        Console.WriteLine(quartzStdOut);
+    if (!string.IsNullOrWhiteSpace(quartzStdErr))
+        Console.WriteLine(quartzStdErr);
+    return;
+}
+
+if (!File.Exists(Path.Combine(htmlPath, "index.html")))
+{
+    Fail($"Quartz build completed, but {Path.Combine(htmlPath, "index.html")} is missing.");
+    if (!string.IsNullOrWhiteSpace(quartzStdOut))
+        Console.WriteLine(quartzStdOut);
+    if (!string.IsNullOrWhiteSpace(quartzStdErr))
+        Console.WriteLine(quartzStdErr);
+    return;
+}
+
+Console.WriteLine($"Quartz HTML generated in: {htmlPath}");
