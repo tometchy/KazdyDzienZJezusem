@@ -80,6 +80,8 @@ void CopyDirectory(string sourceDir, string destinationDir)
     }
 }
 
+var generatedTitles = new List<string>();
+
 foreach (var rawInput in inputs)
 {
     // ✅ obsługa , i :
@@ -254,14 +256,22 @@ definition: {w.GetProperty("definition").GetString()}
     }
 
     Console.WriteLine($"Saved: {title}.md");
+    generatedTitles.Add(title);
+}
 
-    File.WriteAllText(
-        Path.Combine(basePath, "index.md"),
-        $@"# Kazdy Dzien Z Jezusem
+var generatedLinks = new StringBuilder();
+foreach (var title in generatedTitles)
+{
+    generatedLinks.AppendLine($"- [[Biblia/{title}|{title}]]");
+}
 
-## Ostatni werset
+File.WriteAllText(
+    Path.Combine(basePath, "index.md"),
+    $@"# Kazdy Dzien Z Jezusem
 
-[[Biblia/{title}|{title}]]
+## Ostatnie Wersety
+
+{generatedLinks}
 
 ## Indeksy
 
@@ -269,11 +279,8 @@ definition: {w.GetProperty("definition").GetString()}
 - [[Graeca]]
 - [[Strong]]
 ",
-        Encoding.UTF8
-    );
-
-
-}
+    Encoding.UTF8
+);
 
 if (Directory.Exists(htmlPath))
 {
