@@ -15,11 +15,60 @@ void Fail(string message)
 
 if (args.Length == 0)
 {
-    Fail("Usage: jhn3,16 [jhn3:17 ...] OR \"jhn3,16 jhn3:17\"");
+    Fail("Usage: jhn3,16 [jhn3:17 ...] [--tag tag-name] OR \"jhn3,16 jhn3:17\"");
     return;
 }
 
-var inputs = args.SelectMany(arg => arg.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries));
+var argTokens = args
+    .SelectMany(arg => arg.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
+    .ToList();
+
+string? tagName = null;
+var verseArgs = new List<string>();
+
+for (var i = 0; i < argTokens.Count; i++)
+{
+    var arg = argTokens[i];
+
+    if (arg == "--tag")
+    {
+        if (i + 1 >= argTokens.Count)
+        {
+            Fail("Missing tag name after --tag.");
+            return;
+        }
+
+        tagName = argTokens[++i].Trim();
+        continue;
+    }
+
+    if (arg.StartsWith("--tag=", StringComparison.Ordinal))
+    {
+        tagName = arg["--tag=".Length..].Trim();
+        continue;
+    }
+
+    verseArgs.Add(arg);
+}
+
+if (string.IsNullOrWhiteSpace(tagName))
+{
+    tagName = null;
+}
+
+if (tagName is not null && (tagName.IndexOfAny(Path.GetInvalidFileNameChars()) >= 0 || tagName.Contains(Path.DirectorySeparatorChar) || tagName.Contains(Path.AltDirectorySeparatorChar)))
+{
+    Fail($"Invalid tag name: {tagName}");
+    return;
+}
+
+var inputs = verseArgs;
+
+if (inputs.Count == 0)
+{
+    Fail("Usage: jhn3,16 [jhn3:17 ...] [--tag tag-name] OR \"jhn3,16 jhn3:17\"");
+    return;
+}
 
 var redis = ConnectionMultiplexer.Connect("localhost").GetDatabase();
 
@@ -28,12 +77,18 @@ string basePath = "/data-out/Index";
 string bibliaPath = Path.Combine(basePath, "Biblia");
 string graecaPath = Path.Combine(basePath, "Graeca");
 string strongPath = Path.Combine(basePath, "Strong");
+string tagsPath = Path.Combine(basePath, "Tags");
 string htmlPath = "/data-out/IndexHtml";
 
 Directory.CreateDirectory(basePath);
 Directory.CreateDirectory(bibliaPath);
 Directory.CreateDirectory(graecaPath);
 Directory.CreateDirectory(strongPath);
+
+if (tagName is not null)
+{
+    Directory.CreateDirectory(tagsPath);
+}
 
 var obsidianPath = Path.Combine(basePath, ".obsidian");
 if (Directory.Exists(obsidianPath))
@@ -81,6 +136,12 @@ void CopyDirectory(string sourceDir, string destinationDir)
 }
 
 var generatedTitles = new List<string>();
+var tagContent = new StringBuilder();
+
+if (tagName is not null)
+{
+    tagContent.AppendLine($"# {tagName}");
+}
 
 foreach (var rawInput in inputs)
 {
@@ -222,23 +283,34 @@ foreach (var rawInput in inputs)
     // 📄 OUTPUT
     var sbOut = new StringBuilder();
 
-    sbOut.AppendLine($"# {title}");
-    sbOut.AppendLine();
+    void AppendVerseContent(StringBuilder sb, string headingPrefix)
+    {
+        sb.AppendLine($"{headingPrefix} {title}");
+        sb.AppendLine();
 
-    sbOut.AppendLine($"[TR]({urlTR})");
-    sbOut.AppendLine($"> {greekLine}");
-    sbOut.AppendLine();
+        sb.AppendLine($"[TR]({urlTR})");
+        sb.AppendLine($"> {greekLine}");
+        sb.AppendLine();
 
-    sbOut.AppendLine($"[KJV]({urlKJV})");
-    sbOut.AppendLine($"> {kjv}");
-    sbOut.AppendLine();
+        sb.AppendLine($"[KJV]({urlKJV})");
+        sb.AppendLine($"> {kjv}");
+        sb.AppendLine();
 
-    sbOut.AppendLine($"[TNP]({urlTNP})");
-    sbOut.AppendLine($"> {tnp}");
-    sbOut.AppendLine();
+        sb.AppendLine($"[TNP]({urlTNP})");
+        sb.AppendLine($"> {tnp}");
+        sb.AppendLine();
 
-    sbOut.AppendLine($"[UBG]({urlUBG})");
-    sbOut.AppendLine($"> {ubg}");
+        sb.AppendLine($"[UBG]({urlUBG})");
+        sb.AppendLine($"> {ubg}");
+    }
+
+    AppendVerseContent(sbOut, "#");
+
+    if (tagName is not null)
+    {
+        tagContent.AppendLine();
+        AppendVerseContent(tagContent, "##");
+    }
 
     // 📄 zapis wersetu
     File.WriteAllText(
@@ -290,11 +362,24 @@ definition: {w.GetProperty("definition").GetString()}
     generatedTitles.Add(title);
 }
 
+if (tagName is not null)
+{
+    File.WriteAllText(
+        Path.Combine(tagsPath, $"{tagName}.md"),
+        tagContent.ToString(),
+        Encoding.UTF8
+    );
+
+    Console.WriteLine($"Saved tag: {tagName}.md");
+}
+
 var generatedLinks = new StringBuilder();
 foreach (var title in generatedTitles)
 {
     generatedLinks.AppendLine($"- [[Biblia/{title}|{title}]]");
 }
+
+var tagIndexLink = tagName is null ? "" : "- [[Tags]]\n";
 
 File.WriteAllText(
     Path.Combine(basePath, "index.md"),
@@ -309,7 +394,7 @@ File.WriteAllText(
 - [[Biblia]]
 - [[Graeca]]
 - [[Strong]]
-",
+{tagIndexLink}",
     Encoding.UTF8
 );
 

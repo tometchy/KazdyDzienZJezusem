@@ -44,11 +44,18 @@ def load_tnp(pipe):
 
                 chapter, verse = m.groups()
 
-                book = None
-                for b in ["Matthew","Mark","Luke","John","Acts","Romans","Jude","Revelation"]:
-                    if b.lower() in name.lower():
-                        book = b
-                        break
+                book_by_file = {
+                    "Matt": "Matthew",
+                    "Mark": "Mark",
+                    "Luke": "Luke",
+                    "John": "John",
+                    "Acts": "Acts",
+                    "Romans": "Romans",
+                    "Jude": "Jude",
+                    "Revelation": "Revelation",
+                }
+                file_stem = name.rsplit("/", 1)[-1].rsplit(".", 1)[0]
+                book = book_by_file.get(file_stem)
 
                 if not book:
                     continue
