@@ -15,7 +15,7 @@ void Fail(string message)
 
 if (args.Length == 0)
 {
-    Fail("Usage: jhn3,16 [jhn3:17 ...] [--tag tag-name] OR \"jhn3,16 jhn3:17\"");
+    Fail("Usage: jhn3,16 [jhn3:17 ...] [--topic topic-name] OR \"jhn3,16 jhn3:17\"");
     return;
 }
 
@@ -23,42 +23,42 @@ var argTokens = args
     .SelectMany(arg => arg.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
     .ToList();
 
-string? tagName = null;
+string? topicName = null;
 var verseArgs = new List<string>();
 
 for (var i = 0; i < argTokens.Count; i++)
 {
     var arg = argTokens[i];
 
-    if (arg == "--tag")
+    if (arg == "--topic")
     {
         if (i + 1 >= argTokens.Count)
         {
-            Fail("Missing tag name after --tag.");
+            Fail("Missing topic name after --topic.");
             return;
         }
 
-        tagName = argTokens[++i].Trim();
+        topicName = argTokens[++i].Trim();
         continue;
     }
 
-    if (arg.StartsWith("--tag=", StringComparison.Ordinal))
+    if (arg.StartsWith("--topic=", StringComparison.Ordinal))
     {
-        tagName = arg["--tag=".Length..].Trim();
+        topicName = arg["--topic=".Length..].Trim();
         continue;
     }
 
     verseArgs.Add(arg);
 }
 
-if (string.IsNullOrWhiteSpace(tagName))
+if (string.IsNullOrWhiteSpace(topicName))
 {
-    tagName = null;
+    topicName = null;
 }
 
-if (tagName is not null && (tagName.IndexOfAny(Path.GetInvalidFileNameChars()) >= 0 || tagName.Contains(Path.DirectorySeparatorChar) || tagName.Contains(Path.AltDirectorySeparatorChar)))
+if (topicName is not null && (topicName.IndexOfAny(Path.GetInvalidFileNameChars()) >= 0 || topicName.Contains(Path.DirectorySeparatorChar) || topicName.Contains(Path.AltDirectorySeparatorChar)))
 {
-    Fail($"Invalid tag name: {tagName}");
+    Fail($"Invalid topic name: {topicName}");
     return;
 }
 
@@ -66,7 +66,7 @@ var inputs = verseArgs;
 
 if (inputs.Count == 0)
 {
-    Fail("Usage: jhn3,16 [jhn3:17 ...] [--tag tag-name] OR \"jhn3,16 jhn3:17\"");
+    Fail("Usage: jhn3,16 [jhn3:17 ...] [--topic topic-name] OR \"jhn3,16 jhn3:17\"");
     return;
 }
 
@@ -77,7 +77,7 @@ string basePath = "/data-out/Index";
 string bibliaPath = Path.Combine(basePath, "Biblia");
 string graecaPath = Path.Combine(basePath, "Graeca");
 string strongPath = Path.Combine(basePath, "Strong");
-string tagsPath = Path.Combine(basePath, "Tags");
+string topicsPath = Path.Combine(basePath, "Topics");
 string htmlPath = "/data-out/IndexHtml";
 
 Directory.CreateDirectory(basePath);
@@ -85,9 +85,9 @@ Directory.CreateDirectory(bibliaPath);
 Directory.CreateDirectory(graecaPath);
 Directory.CreateDirectory(strongPath);
 
-if (tagName is not null)
+if (topicName is not null)
 {
-    Directory.CreateDirectory(tagsPath);
+    Directory.CreateDirectory(topicsPath);
 }
 
 var obsidianPath = Path.Combine(basePath, ".obsidian");
@@ -136,11 +136,11 @@ void CopyDirectory(string sourceDir, string destinationDir)
 }
 
 var generatedTitles = new List<string>();
-var tagContent = new StringBuilder();
+var topicContent = new StringBuilder();
 
-if (tagName is not null)
+if (topicName is not null)
 {
-    tagContent.AppendLine($"# {tagName}");
+    topicContent.AppendLine($"# {topicName}");
 }
 
 foreach (var rawInput in inputs)
@@ -306,10 +306,10 @@ foreach (var rawInput in inputs)
 
     AppendVerseContent(sbOut, "#");
 
-    if (tagName is not null)
+    if (topicName is not null)
     {
-        tagContent.AppendLine();
-        AppendVerseContent(tagContent, "##");
+        topicContent.AppendLine();
+        AppendVerseContent(topicContent, "##");
     }
 
     // 📄 zapis wersetu
@@ -362,15 +362,15 @@ definition: {w.GetProperty("definition").GetString()}
     generatedTitles.Add(title);
 }
 
-if (tagName is not null)
+if (topicName is not null)
 {
     File.WriteAllText(
-        Path.Combine(tagsPath, $"{tagName}.md"),
-        tagContent.ToString(),
+        Path.Combine(topicsPath, $"{topicName}.md"),
+        topicContent.ToString(),
         Encoding.UTF8
     );
 
-    Console.WriteLine($"Saved tag: {tagName}.md");
+    Console.WriteLine($"Saved topic: {topicName}.md");
 }
 
 var generatedLinks = new StringBuilder();
@@ -379,7 +379,7 @@ foreach (var title in generatedTitles)
     generatedLinks.AppendLine($"- [[Biblia/{title}|{title}]]");
 }
 
-var tagIndexLink = tagName is null ? "" : "- [[Tags]]\n";
+var topicIndexLink = topicName is null ? "" : "- [[Topics]]\n";
 
 File.WriteAllText(
     Path.Combine(basePath, "index.md"),
@@ -394,7 +394,7 @@ File.WriteAllText(
 - [[Biblia]]
 - [[Graeca]]
 - [[Strong]]
-{tagIndexLink}",
+{topicIndexLink}",
     Encoding.UTF8
 );
 

@@ -35,7 +35,11 @@ RUN npx quartz create \
     --strategy new \
     --baseUrl localhost \
     --links shortest && \
-    npx quartz plugin install --from-config
+    config_file="$(find . -maxdepth 2 -name "quartz.config.*" -print -quit)" && \
+    if [ -n "$config_file" ]; then \
+        sed -i 's/pageTitle: "Quartz 5"/pageTitle: "Każdy dzień z Jezusem"/' "$config_file"; \
+        npx quartz plugin install --from-config; \
+    fi
 
 # ---------- STAGE 3 ----------
 FROM mcr.microsoft.com/dotnet/sdk:10.0-alpine AS build
