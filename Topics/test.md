@@ -1,5 +1,5 @@
 Test początkowy
 
-[[Dzieje Apostolskie 8,14]]
+[[Dzieje Apostolskie 1,6]]
 
 Test dalej

@@ -15,7 +15,7 @@ void Fail(string message)
 
 if (args.Length == 0)
 {
-    Fail("Usage: jhn3,16 [jhn3:17 ...] [--topic topic-name] OR \"jhn3,16 jhn3:17\"");
+    Fail("Usage: jhn3,16 [jhn3:17 ...] OR \"jhn3,16 jhn3:17\"");
     return;
 }
 
@@ -23,50 +23,24 @@ var argTokens = args
     .SelectMany(arg => arg.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
     .ToList();
 
-string? topicName = null;
 var verseArgs = new List<string>();
 
-for (var i = 0; i < argTokens.Count; i++)
+foreach (var arg in argTokens)
 {
-    var arg = argTokens[i];
-
-    if (arg == "--topic")
+    if (arg.StartsWith("--topic", StringComparison.Ordinal))
     {
-        if (i + 1 >= argTokens.Count)
-        {
-            Fail("Missing topic name after --topic.");
-            return;
-        }
-
-        topicName = argTokens[++i].Trim();
-        continue;
-    }
-
-    if (arg.StartsWith("--topic=", StringComparison.Ordinal))
-    {
-        topicName = arg["--topic=".Length..].Trim();
-        continue;
+        Fail("Topic generation via command-line arguments is no longer supported. Use files in Topics/ instead.");
+        return;
     }
 
     verseArgs.Add(arg);
-}
-
-if (string.IsNullOrWhiteSpace(topicName))
-{
-    topicName = null;
-}
-
-if (topicName is not null && (topicName.IndexOfAny(Path.GetInvalidFileNameChars()) >= 0 || topicName.Contains(Path.DirectorySeparatorChar) || topicName.Contains(Path.AltDirectorySeparatorChar)))
-{
-    Fail($"Invalid topic name: {topicName}");
-    return;
 }
 
 var inputs = verseArgs;
 
 if (inputs.Count == 0)
 {
-    Fail("Usage: jhn3,16 [jhn3:17 ...] [--topic topic-name] OR \"jhn3,16 jhn3:17\"");
+    Fail("Usage: jhn3,16 [jhn3:17 ...] OR \"jhn3,16 jhn3:17\"");
     return;
 }
 
@@ -79,16 +53,14 @@ string graecaPath = Path.Combine(basePath, "Graeca");
 string strongPath = Path.Combine(basePath, "Strong");
 string topicsPath = Path.Combine(basePath, "Topics");
 string htmlPath = "/data-out/IndexHtml";
+string sourceTopicsPath = Directory.Exists("/data-out/Topics")
+    ? "/data-out/Topics"
+    : Path.Combine(Directory.GetCurrentDirectory(), "Topics");
 
 Directory.CreateDirectory(basePath);
 Directory.CreateDirectory(bibliaPath);
 Directory.CreateDirectory(graecaPath);
 Directory.CreateDirectory(strongPath);
-
-if (topicName is not null)
-{
-    Directory.CreateDirectory(topicsPath);
-}
 
 var obsidianPath = Path.Combine(basePath, ".obsidian");
 if (Directory.Exists(obsidianPath))
@@ -118,6 +90,128 @@ string Clean(string s)
     return Regex.Replace(s, @"[.,;·]", "");
 }
 
+var BOOK_MAP = new Dictionary<string, (string eng, string pl)>
+{
+    ["mat"] = ("Matthew", "Ewangelia Mateusza"),
+    ["mar"] = ("Mark", "Ewangelia Marka"),
+    ["luk"] = ("Luke", "Ewangelia Łukasza"),
+    ["jhn"] = ("John", "Ewangelia Jana"),
+    ["act"] = ("Acts", "Dzieje Apostolskie"),
+    ["rom"] = ("Romans", "List do Rzymian"),
+
+    ["1co"] = ("1 Corinthians", "1 List do Koryntian"),
+    ["2co"] = ("2 Corinthians", "2 List do Koryntian"),
+    ["gal"] = ("Galatians", "List do Galacjan"),
+    ["eph"] = ("Ephesians", "List do Efezjan"),
+    ["php"] = ("Philippians", "List do Filipian"),
+    ["col"] = ("Colossians", "List do Kolosan"),
+
+    ["1th"] = ("1 Thessalonians", "1 List do Tesaloniczan"),
+    ["2th"] = ("2 Thessalonians", "2 List do Tesaloniczan"),
+
+    ["1ti"] = ("1 Timothy", "1 List do Tymoteusza"),
+    ["2ti"] = ("2 Timothy", "2 List do Tymoteusza"),
+
+    ["tit"] = ("Titus", "List do Tytusa"),
+    ["phm"] = ("Philemon", "List do Filemona"),
+    ["heb"] = ("Hebrews", "List do Hebrajczyków"),
+    ["jas"] = ("James", "List Jakuba"),
+
+    ["1pe"] = ("1 Peter", "1 List Piotra"),
+    ["2pe"] = ("2 Peter", "2 List Piotra"),
+
+    ["1jn"] = ("1 John", "1 List Jana"),
+    ["2jn"] = ("2 John", "2 List Jana"),
+    ["3jn"] = ("3 John", "3 List Jana"),
+
+    ["jud"] = ("Jude", "List Judy"),
+    ["rev"] = ("Revelation", "Objawienie Jana"),
+};
+
+var GNT_BOOK_MAP = new Dictionary<string, string>
+{
+    ["mat"] = "Matt",
+    ["mar"] = "Mark",
+    ["luk"] = "Luke",
+    ["jhn"] = "John",
+    ["act"] = "Acts",
+    ["rom"] = "Rom",
+    ["1co"] = "1Cor",
+    ["2co"] = "2Cor",
+    ["gal"] = "Gal",
+    ["eph"] = "Eph",
+    ["php"] = "Phil",
+    ["col"] = "Col",
+    ["1th"] = "1Thess",
+    ["2th"] = "2Thess",
+    ["1ti"] = "1Tim",
+    ["2ti"] = "2Tim",
+    ["tit"] = "Titus",
+    ["phm"] = "Phlm",
+    ["heb"] = "Heb",
+    ["jas"] = "Jas",
+    ["1pe"] = "1Pet",
+    ["2pe"] = "2Pet",
+    ["1jn"] = "1John",
+    ["2jn"] = "2John",
+    ["3jn"] = "3John",
+    ["jud"] = "Jude",
+    ["rev"] = "Rev",
+};
+
+var BOOK_MAP_BY_PL = BOOK_MAP.ToDictionary(entry => entry.Value.pl, entry => entry.Value.eng, StringComparer.Ordinal);
+
+bool TryGetUbgQuote(string reference, out string quote)
+{
+    quote = "";
+
+    var match = Regex.Match(reference.Trim(), @"^(.+?)\s+(\d+),(\d+)$");
+    if (!match.Success)
+    {
+        return false;
+    }
+
+    var bookPl = match.Groups[1].Value.Trim();
+    if (!BOOK_MAP_BY_PL.TryGetValue(bookPl, out var bookEng))
+    {
+        return false;
+    }
+
+    var chapter = int.Parse(match.Groups[2].Value, CultureInfo.InvariantCulture);
+    var verse = int.Parse(match.Groups[3].Value, CultureInfo.InvariantCulture);
+    var keyUBG = $"ubg:{bookEng}:{chapter}:{verse}";
+    var ubg = redis.StringGet(keyUBG);
+
+    if (ubg.IsNullOrEmpty)
+    {
+        return false;
+    }
+
+    quote = ubg.ToString();
+    return true;
+}
+
+string ProcessTopicContent(string content)
+{
+    var normalized = content.Replace("\r\n", "\n").Replace('\r', '\n');
+    var lines = normalized.Split('\n');
+    var sb = new StringBuilder();
+
+    for (var i = 0; i < lines.Length; i++)
+    {
+        var line = lines[i];
+        sb.AppendLine(line);
+
+        var linkMatch = Regex.Match(line.Trim(), @"^\[\[(.+)\]\]$");
+        if (linkMatch.Success && TryGetUbgQuote(linkMatch.Groups[1].Value, out var quote))
+        {
+            sb.AppendLine($"> {quote}");
+        }
+    }
+
+    return sb.ToString();
+}
+
 void CopyDirectory(string sourceDir, string destinationDir)
 {
     Directory.CreateDirectory(destinationDir);
@@ -136,12 +230,6 @@ void CopyDirectory(string sourceDir, string destinationDir)
 }
 
 var generatedTitles = new List<string>();
-var topicContent = new StringBuilder();
-
-if (topicName is not null)
-{
-    topicContent.AppendLine($"# {topicName}");
-}
 
 foreach (var rawInput in inputs)
 {
@@ -161,74 +249,6 @@ foreach (var rawInput in inputs)
     var verse = int.Parse(match.Groups[3].Value);
 
     // 📚 NT
-    var BOOK_MAP = new Dictionary<string, (string eng, string pl)>
-    {
-        ["mat"] = ("Matthew", "Ewangelia Mateusza"),
-        ["mar"] = ("Mark", "Ewangelia Marka"),
-        ["luk"] = ("Luke", "Ewangelia Łukasza"),
-        ["jhn"] = ("John", "Ewangelia Jana"),
-        ["act"] = ("Acts", "Dzieje Apostolskie"),
-        ["rom"] = ("Romans", "List do Rzymian"),
-
-        ["1co"] = ("1 Corinthians", "1 List do Koryntian"),
-        ["2co"] = ("2 Corinthians", "2 List do Koryntian"),
-        ["gal"] = ("Galatians", "List do Galacjan"),
-        ["eph"] = ("Ephesians", "List do Efezjan"),
-        ["php"] = ("Philippians", "List do Filipian"),
-        ["col"] = ("Colossians", "List do Kolosan"),
-
-        ["1th"] = ("1 Thessalonians", "1 List do Tesaloniczan"),
-        ["2th"] = ("2 Thessalonians", "2 List do Tesaloniczan"),
-
-        ["1ti"] = ("1 Timothy", "1 List do Tymoteusza"),
-        ["2ti"] = ("2 Timothy", "2 List do Tymoteusza"),
-
-        ["tit"] = ("Titus", "List do Tytusa"),
-        ["phm"] = ("Philemon", "List do Filemona"),
-        ["heb"] = ("Hebrews", "List do Hebrajczyków"),
-        ["jas"] = ("James", "List Jakuba"),
-
-        ["1pe"] = ("1 Peter", "1 List Piotra"),
-        ["2pe"] = ("2 Peter", "2 List Piotra"),
-
-        ["1jn"] = ("1 John", "1 List Jana"),
-        ["2jn"] = ("2 John", "2 List Jana"),
-        ["3jn"] = ("3 John", "3 List Jana"),
-
-        ["jud"] = ("Jude", "List Judy"),
-        ["rev"] = ("Revelation", "Objawienie Jana"),
-    };
-    var GNT_BOOK_MAP = new Dictionary<string, string>
-    {
-        ["mat"] = "Matt",
-        ["mar"] = "Mark",
-        ["luk"] = "Luke",
-        ["jhn"] = "John",
-        ["act"] = "Acts",
-        ["rom"] = "Rom",
-        ["1co"] = "1Cor",
-        ["2co"] = "2Cor",
-        ["gal"] = "Gal",
-        ["eph"] = "Eph",
-        ["php"] = "Phil",
-        ["col"] = "Col",
-        ["1th"] = "1Thess",
-        ["2th"] = "2Thess",
-        ["1ti"] = "1Tim",
-        ["2ti"] = "2Tim",
-        ["tit"] = "Titus",
-        ["phm"] = "Phlm",
-        ["heb"] = "Heb",
-        ["jas"] = "Jas",
-        ["1pe"] = "1Pet",
-        ["2pe"] = "2Pet",
-        ["1jn"] = "1John",
-        ["2jn"] = "2John",
-        ["3jn"] = "3John",
-        ["jud"] = "Jude",
-        ["rev"] = "Rev",
-    };
-
     if (!BOOK_MAP.ContainsKey(bookCode))
     {
         Fail($"Unknown book: {bookCode}");
@@ -306,12 +326,6 @@ foreach (var rawInput in inputs)
 
     AppendVerseContent(sbOut, "#");
 
-    if (topicName is not null)
-    {
-        topicContent.AppendLine();
-        AppendVerseContent(topicContent, "##");
-    }
-
     // 📄 zapis wersetu
     File.WriteAllText(
         Path.Combine(bibliaPath, $"{title}.md"),
@@ -362,15 +376,44 @@ definition: {w.GetProperty("definition").GetString()}
     generatedTitles.Add(title);
 }
 
-if (topicName is not null)
-{
-    File.WriteAllText(
-        Path.Combine(topicsPath, $"{topicName}.md"),
-        topicContent.ToString(),
-        Encoding.UTF8
-    );
+var topicFiles = Directory.Exists(sourceTopicsPath)
+    ? Directory.GetFiles(sourceTopicsPath, "*.md", SearchOption.AllDirectories)
+        .OrderBy(path => Path.GetRelativePath(sourceTopicsPath, path), StringComparer.Ordinal)
+        .ToList()
+    : new List<string>();
 
-    Console.WriteLine($"Saved topic: {topicName}.md");
+var generatedTopicLinks = new List<string>();
+
+if (topicFiles.Count > 0)
+{
+    Directory.CreateDirectory(topicsPath);
+
+    foreach (var sourceFile in topicFiles)
+    {
+        var relativePath = Path.GetRelativePath(sourceTopicsPath, sourceFile);
+        var destinationFile = Path.Combine(topicsPath, relativePath);
+        Directory.CreateDirectory(Path.GetDirectoryName(destinationFile)!);
+
+        var content = File.ReadAllText(sourceFile, Encoding.UTF8);
+        var processedContent = ProcessTopicContent(content);
+        File.WriteAllText(destinationFile, processedContent, Encoding.UTF8);
+
+        Console.WriteLine($"Saved topic: {relativePath}");
+        generatedTopicLinks.Add(relativePath);
+    }
+
+    var topicIndex = new StringBuilder();
+    topicIndex.AppendLine("# Topics");
+    topicIndex.AppendLine();
+
+    foreach (var topicLink in generatedTopicLinks)
+    {
+        var topicTitle = Path.GetFileNameWithoutExtension(topicLink);
+        var topicTarget = Path.ChangeExtension(topicLink, null)!.Replace(Path.DirectorySeparatorChar, '/');
+        topicIndex.AppendLine($"- [[Topics/{topicTarget}|{topicTitle}]]");
+    }
+
+    File.WriteAllText(Path.Combine(topicsPath, "index.md"), topicIndex.ToString(), Encoding.UTF8);
 }
 
 var generatedLinks = new StringBuilder();
@@ -379,7 +422,7 @@ foreach (var title in generatedTitles)
     generatedLinks.AppendLine($"- [[Biblia/{title}|{title}]]");
 }
 
-var topicIndexLink = topicName is null ? "" : "- [[Topics]]\n";
+var topicIndexLink = topicFiles.Count == 0 ? "" : "- [[Topics]]\n";
 
 File.WriteAllText(
     Path.Combine(basePath, "index.md"),

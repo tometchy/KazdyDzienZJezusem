@@ -1,3 +1,5 @@
+LABEL org.opencontainers.image.source=https://github.com/tometchy/KazdyDzienZJezusem
+
 # ---------- STAGE 1 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine AS builder
 
