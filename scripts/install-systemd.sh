@@ -34,11 +34,11 @@ EOF
 
 cat > "$SYSTEMD_DIR/$SERVICE_NAME.timer" <<EOF
 [Unit]
-Description=Run git sync every five minutes
+Description=Run git sync every minute
 
 [Timer]
-OnBootSec=5min
-OnUnitActiveSec=5min
+OnBootSec=1min
+OnUnitActiveSec=1min
 Persistent=true
 Unit=$SERVICE_NAME.service
 

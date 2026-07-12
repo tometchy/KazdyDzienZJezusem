@@ -1,7 +1,6 @@
 services:
   kazdy-dzien:
     image: ghcr.io/tometchy/kazdydzienzjezusem:latest
-    container_name: kazdy-dzien
     restart: on-failure
     ports:
       - "8080:8080"
