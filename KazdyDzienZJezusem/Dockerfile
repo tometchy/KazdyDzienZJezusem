@@ -1,5 +1,3 @@
-LABEL org.opencontainers.image.source=https://github.com/tometchy/KazdyDzienZJezusem
-
 # ---------- STAGE 1 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine AS builder
 
@@ -56,6 +54,7 @@ RUN dotnet publish -c Release -o /out --no-restore
 
 # ---------- STAGE 4 ----------
 FROM mcr.microsoft.com/dotnet/runtime:10.0-alpine
+LABEL org.opencontainers.image.source=https://github.com/tometchy/KazdyDzienZJezusem
 
 RUN apk add --no-cache redis nodejs npm coreutils busybox-extras
 
