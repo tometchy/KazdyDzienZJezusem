@@ -6,6 +6,7 @@
 - Host docker-compose surviving server restarts
 - Instead of original word the path should contain strong code and datus what's in the table and starts with language, for example /lexicon/g3745-noun-accusative-singular-feminine
 - Someone may like too see english and polish translations at once, language of the description now will be english, in the future will be changed with javascript without changing site url
+- docker-compose mounted with local .ssh as authorization
 
 # Textus Receptus
 
