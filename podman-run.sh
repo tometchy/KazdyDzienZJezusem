@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "podman-run.sh is deprecated. Use compose/systemd instead."
+exit 1
+
 SCRIPT_DIR="/home/tom/Projects/KazdyDzienZJezusem"
 
 podman run --rm \

@@ -1,0 +1,16 @@
+[Unit]
+Description=Kazdy Dzien Z Jezusem compose stack
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+WorkingDirectory=%h/Projects/KazdyDzienZJezusem
+ExecStartPre=/usr/bin/podman compose -f compose.yaml pull
+ExecStart=/usr/bin/podman compose -f compose.yaml up -d
+ExecStop=/usr/bin/podman compose -f compose.yaml down
+TimeoutStartSec=0
+Restart=on-failure
+RestartSec=10s
+
+[Install]
+WantedBy=default.target
