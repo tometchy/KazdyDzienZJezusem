@@ -11,6 +11,13 @@ if [ ! -d .git ]; then
   exit 1
 fi
 
+LOCK_FILE="/tmp/kazdy-dzien-git-sync.lock"
+exec 9>"$LOCK_FILE"
+if ! flock -n 9; then
+  echo "A previous sync is still running; skipping this tick."
+  exit 0
+fi
+
 current_branch="$(git branch --show-current)"
 if [ "$current_branch" != "master" ]; then
   echo "Expected branch master, got ${current_branch:-detached}."
@@ -32,12 +39,3 @@ git reset --hard origin/master
 
 echo "Rebuilding and pushing the image..."
 ./podman-build.sh
-
-if systemctl --user is-active --quiet kazdy-dzien-compose.service 2>/dev/null; then
-  echo "Restarting compose service..."
-  systemctl --user restart kazdy-dzien-compose.service
-else
-  echo "Starting compose stack..."
-  podman compose -f compose.yaml pull
-  podman compose -f compose.yaml up -d
-fi
