@@ -15,8 +15,7 @@ void Fail(string message)
 
 if (args.Length == 0)
 {
-    Fail("Usage: jhn3,16 [jhn3:17 ...] OR \"jhn3,16 jhn3:17\"");
-    return;
+    Console.WriteLine("No verse arguments supplied; serving existing generated content only.");
 }
 
 var argTokens = args
@@ -37,14 +36,9 @@ foreach (var arg in argTokens)
 }
 
 var inputs = verseArgs;
-
-if (inputs.Count == 0)
-{
-    Fail("Usage: jhn3,16 [jhn3:17 ...] OR \"jhn3,16 jhn3:17\"");
-    return;
-}
-
-var redis = ConnectionMultiplexer.Connect("localhost").GetDatabase();
+var generateContent = inputs.Count > 0;
+ConnectionMultiplexer? redisConnection = generateContent ? ConnectionMultiplexer.Connect("localhost") : null;
+IDatabase? redis = redisConnection?.GetDatabase();
 
 // Output paths
 string basePath = "/data-out/Index";
@@ -231,120 +225,122 @@ void CopyDirectory(string sourceDir, string destinationDir)
 
 var generatedTitles = new List<string>();
 
-foreach (var rawInput in inputs)
+if (generateContent)
 {
-    // ✅ obsługa , i :
-    var input = rawInput.ToLower().Replace(":", ",");
-
-    var match = Regex.Match(input, @"^([1-3]?[a-z]+)(\d+),(\d+)$");
-
-    if (!match.Success)
+    foreach (var rawInput in inputs)
     {
-        Fail($"Invalid format: {rawInput}. Example: jhn3,16");
-        return;
-    }
+        // ✅ obsługa , i :
+        var input = rawInput.ToLower().Replace(":", ",");
 
-    var bookCode = match.Groups[1].Value;
-    var chapter = int.Parse(match.Groups[2].Value);
-    var verse = int.Parse(match.Groups[3].Value);
+        var match = Regex.Match(input, @"^([1-3]?[a-z]+)(\d+),(\d+)$");
 
-    // 📚 NT
-    if (!BOOK_MAP.ContainsKey(bookCode))
-    {
-        Fail($"Unknown book: {bookCode}");
-        return;
-    }
+        if (!match.Success)
+        {
+            Fail($"Invalid format: {rawInput}. Example: jhn3,16");
+            return;
+        }
 
-    var (bookEng, bookPl) = BOOK_MAP[bookCode];
+        var bookCode = match.Groups[1].Value;
+        var chapter = int.Parse(match.Groups[2].Value);
+        var verse = int.Parse(match.Groups[3].Value);
 
-    // 🔑 KLUCZE (FIX!)
-    var bookOsis = GNT_BOOK_MAP[bookCode];
-    string keyTR = $"gnt:{bookOsis}:{chapter}:{verse}";
-    string keyTNP = $"tnp:{bookEng}:{chapter}:{verse}";
-    string keyUBG = $"ubg:{bookEng}:{chapter}:{verse}";
-    string keyKJV = $"kjv:{bookEng}:{chapter}:{verse}";
+        // 📚 NT
+        if (!BOOK_MAP.ContainsKey(bookCode))
+        {
+            Fail($"Unknown book: {bookCode}");
+            return;
+        }
 
-    var trRaw = redis.StringGet(keyTR);
-    var tnp = redis.StringGet(keyTNP);
-    var ubg = redis.StringGet(keyUBG);
-    var kjv = redis.StringGet(keyKJV);
+        var (bookEng, bookPl) = BOOK_MAP[bookCode];
 
-    if (trRaw.IsNullOrEmpty)
-    {
-        Fail($"NOT FOUND: {keyTR}");
-        return;
-    }
+        // 🔑 KLUCZE (FIX!)
+        var bookOsis = GNT_BOOK_MAP[bookCode];
+        string keyTR = $"gnt:{bookOsis}:{chapter}:{verse}";
+        string keyTNP = $"tnp:{bookEng}:{chapter}:{verse}";
+        string keyUBG = $"ubg:{bookEng}:{chapter}:{verse}";
+        string keyKJV = $"kjv:{bookEng}:{chapter}:{verse}";
 
-    // ✅ FIX build
-    using var doc = JsonDocument.Parse(trRaw!.ToString());
-    var root = doc.RootElement;
-    var words = root.GetProperty("words");
+        var trRaw = redis!.StringGet(keyTR);
+        var tnp = redis.StringGet(keyTNP);
+        var ubg = redis.StringGet(keyUBG);
+        var kjv = redis.StringGet(keyKJV);
 
-    // 🧾 TR (FORMA)
-    var greekWords = new List<string>();
+        if (trRaw.IsNullOrEmpty)
+        {
+            Fail($"NOT FOUND: {keyTR}");
+            return;
+        }
 
-    foreach (var w in words.EnumerateArray())
-    {
-        var greek = NormalizeGreek(w.GetProperty("greek").GetString() ?? "");
-        greek = Clean(greek);
-        greekWords.Add($"[[{greek}]]");
-    }
+        // ✅ FIX build
+        using var doc = JsonDocument.Parse(trRaw!.ToString());
+        var root = doc.RootElement;
+        var words = root.GetProperty("words");
 
-    string greekLine = string.Join(" ", greekWords);
+        // 🧾 TR (FORMA)
+        var greekWords = new List<string>();
 
-    // 🔗 linki
-    string urlTR = $"https://www.blueletterbible.org/tr/{bookCode}/{chapter}/{verse}/";
-    string urlKJV = $"https://www.blueletterbible.org/kjv/{bookCode}/{chapter}/{verse}/";
-    string urlTNP = $"https://biblia-online.pl/Biblia/PrzekladTorunski/{bookPl.Replace(" ", "-")}/{chapter}/{verse}";
-    string urlUBG = $"https://biblia-online.pl/Biblia/UwspolczesnionaBibliaGdanska/{bookPl.Replace(" ", "-")}/{chapter}/{verse}";
+        foreach (var w in words.EnumerateArray())
+        {
+            var greek = NormalizeGreek(w.GetProperty("greek").GetString() ?? "");
+            greek = Clean(greek);
+            greekWords.Add($"[[{greek}]]");
+        }
 
-    string title = $"{bookPl} {chapter},{verse}";
+        string greekLine = string.Join(" ", greekWords);
 
-    // 📄 OUTPUT
-    var sbOut = new StringBuilder();
+        // 🔗 linki
+        string urlTR = $"https://www.blueletterbible.org/tr/{bookCode}/{chapter}/{verse}/";
+        string urlKJV = $"https://www.blueletterbible.org/kjv/{bookCode}/{chapter}/{verse}/";
+        string urlTNP = $"https://biblia-online.pl/Biblia/PrzekladTorunski/{bookPl.Replace(" ", "-")}/{chapter}/{verse}";
+        string urlUBG = $"https://biblia-online.pl/Biblia/UwspolczesnionaBibliaGdanska/{bookPl.Replace(" ", "-")}/{chapter}/{verse}";
 
-    void AppendVerseContent(StringBuilder sb, string headingPrefix)
-    {
-        sb.AppendLine($"{headingPrefix} {title}");
-        sb.AppendLine();
+        string title = $"{bookPl} {chapter},{verse}";
 
-        sb.AppendLine($"[TR]({urlTR})");
-        sb.AppendLine($"> {greekLine}");
-        sb.AppendLine();
+        // 📄 OUTPUT
+        var sbOut = new StringBuilder();
 
-        sb.AppendLine($"[KJV]({urlKJV})");
-        sb.AppendLine($"> {kjv}");
-        sb.AppendLine();
+        void AppendVerseContent(StringBuilder sb, string headingPrefix)
+        {
+            sb.AppendLine($"{headingPrefix} {title}");
+            sb.AppendLine();
 
-        sb.AppendLine($"[TNP]({urlTNP})");
-        sb.AppendLine($"> {tnp}");
-        sb.AppendLine();
+            sb.AppendLine($"[TR]({urlTR})");
+            sb.AppendLine($"> {greekLine}");
+            sb.AppendLine();
 
-        sb.AppendLine($"[UBG]({urlUBG})");
-        sb.AppendLine($"> {ubg}");
-    }
+            sb.AppendLine($"[KJV]({urlKJV})");
+            sb.AppendLine($"> {kjv}");
+            sb.AppendLine();
 
-    AppendVerseContent(sbOut, "#");
+            sb.AppendLine($"[TNP]({urlTNP})");
+            sb.AppendLine($"> {tnp}");
+            sb.AppendLine();
 
-    // 📄 zapis wersetu
-    File.WriteAllText(
-        Path.Combine(bibliaPath, $"{title}.md"),
-        sbOut.ToString(),
-        Encoding.UTF8
-    );
+            sb.AppendLine($"[UBG]({urlUBG})");
+            sb.AppendLine($"> {ubg}");
+        }
 
-    // 📄 słowa
-    foreach (var w in words.EnumerateArray())
-    {
-        var greek = NormalizeGreek(w.GetProperty("greek").GetString() ?? "");
-        greek = Clean(greek);
+        AppendVerseContent(sbOut, "#");
 
-        var lemma = NormalizeGreek(w.GetProperty("dictionary_form").GetString() ?? "");
-        var strong = $"G{w.GetProperty("strong").GetInt32()}";
-
+        // 📄 zapis wersetu
         File.WriteAllText(
-            Path.Combine(graecaPath, $"{greek}.md"),
-            $@"# {greek}
+            Path.Combine(bibliaPath, $"{title}.md"),
+            sbOut.ToString(),
+            Encoding.UTF8
+        );
+
+        // 📄 słowa
+        foreach (var w in words.EnumerateArray())
+        {
+            var greek = NormalizeGreek(w.GetProperty("greek").GetString() ?? "");
+            greek = Clean(greek);
+
+            var lemma = NormalizeGreek(w.GetProperty("dictionary_form").GetString() ?? "");
+            var strong = $"G{w.GetProperty("strong").GetInt32()}";
+
+            File.WriteAllText(
+                Path.Combine(graecaPath, $"{greek}.md"),
+                $@"# {greek}
 
 lemma: [[{lemma}]]
 strong: [[{strong}]]
@@ -353,27 +349,28 @@ transliteration: {w.GetProperty("transliteration").GetString()}
 grammar: {w.GetProperty("grammar_human").GetString()}
 definition: {w.GetProperty("definition").GetString()}
 ",
-            Encoding.UTF8
-        );
+                Encoding.UTF8
+            );
 
-        var strongFile = Path.Combine(strongPath, $"{strong}.md");
+            var strongFile = Path.Combine(strongPath, $"{strong}.md");
 
-        if (!File.Exists(strongFile))
-        {
-            File.WriteAllText(
-                strongFile,
-                $@"# {strong}
+            if (!File.Exists(strongFile))
+            {
+                File.WriteAllText(
+                    strongFile,
+                    $@"# {strong}
 
 lemma: [[{lemma}]]
 definition: {w.GetProperty("definition").GetString()}
 ",
-                Encoding.UTF8
-            );
+                    Encoding.UTF8
+                );
+            }
         }
-    }
 
-    Console.WriteLine($"Saved: {title}.md");
-    generatedTitles.Add(title);
+        Console.WriteLine($"Saved: {title}.md");
+        generatedTitles.Add(title);
+    }
 }
 
 var topicFiles = Directory.Exists(sourceTopicsPath)
@@ -386,47 +383,55 @@ var generatedTopicLinks = new List<string>();
 
 if (topicFiles.Count > 0)
 {
-    Directory.CreateDirectory(topicsPath);
-
-    foreach (var sourceFile in topicFiles)
+    if (generateContent)
     {
-        var relativePath = Path.GetRelativePath(sourceTopicsPath, sourceFile);
-        var destinationFile = Path.Combine(topicsPath, relativePath);
-        Directory.CreateDirectory(Path.GetDirectoryName(destinationFile)!);
+        Directory.CreateDirectory(topicsPath);
 
-        var content = File.ReadAllText(sourceFile, Encoding.UTF8);
-        var processedContent = ProcessTopicContent(content);
-        File.WriteAllText(destinationFile, processedContent, Encoding.UTF8);
+        foreach (var sourceFile in topicFiles)
+        {
+            var relativePath = Path.GetRelativePath(sourceTopicsPath, sourceFile);
+            var destinationFile = Path.Combine(topicsPath, relativePath);
+            Directory.CreateDirectory(Path.GetDirectoryName(destinationFile)!);
 
-        Console.WriteLine($"Saved topic: {relativePath}");
-        generatedTopicLinks.Add(relativePath);
+            var content = File.ReadAllText(sourceFile, Encoding.UTF8);
+            var processedContent = ProcessTopicContent(content);
+            File.WriteAllText(destinationFile, processedContent, Encoding.UTF8);
+
+            Console.WriteLine($"Saved topic: {relativePath}");
+            generatedTopicLinks.Add(relativePath);
+        }
+
+        var topicIndex = new StringBuilder();
+        topicIndex.AppendLine("# Topics");
+        topicIndex.AppendLine();
+
+        foreach (var topicLink in generatedTopicLinks)
+        {
+            var topicTitle = Path.GetFileNameWithoutExtension(topicLink);
+            var topicTarget = Path.ChangeExtension(topicLink, null)!.Replace(Path.DirectorySeparatorChar, '/');
+            topicIndex.AppendLine($"- [[Topics/{topicTarget}|{topicTitle}]]");
+        }
+
+        File.WriteAllText(Path.Combine(topicsPath, "index.md"), topicIndex.ToString(), Encoding.UTF8);
     }
-
-    var topicIndex = new StringBuilder();
-    topicIndex.AppendLine("# Topics");
-    topicIndex.AppendLine();
-
-    foreach (var topicLink in generatedTopicLinks)
-    {
-        var topicTitle = Path.GetFileNameWithoutExtension(topicLink);
-        var topicTarget = Path.ChangeExtension(topicLink, null)!.Replace(Path.DirectorySeparatorChar, '/');
-        topicIndex.AppendLine($"- [[Topics/{topicTarget}|{topicTitle}]]");
-    }
-
-    File.WriteAllText(Path.Combine(topicsPath, "index.md"), topicIndex.ToString(), Encoding.UTF8);
 }
 
 var generatedLinks = new StringBuilder();
-foreach (var title in generatedTitles)
+if (generateContent)
 {
-    generatedLinks.AppendLine($"- [[Biblia/{title}|{title}]]");
+    foreach (var title in generatedTitles)
+    {
+        generatedLinks.AppendLine($"- [[Biblia/{title}|{title}]]");
+    }
 }
 
-var topicIndexLink = topicFiles.Count == 0 ? "" : "- [[Topics]]\n";
+var topicIndexLink = generateContent && topicFiles.Count > 0 ? "- [[Topics]]\n" : "";
 
-File.WriteAllText(
-    Path.Combine(basePath, "index.md"),
-    $@"# Kazdy Dzien Z Jezusem
+if (generateContent)
+{
+    File.WriteAllText(
+        Path.Combine(basePath, "index.md"),
+        $@"# Kazdy Dzien Z Jezusem
 
 ## Ostatnie Wersety
 
@@ -438,8 +443,9 @@ File.WriteAllText(
 - [[Graeca]]
 - [[Strong]]
 {topicIndexLink}",
-    Encoding.UTF8
-);
+        Encoding.UTF8
+    );
+}
 
 if (Directory.Exists(htmlPath))
 {
