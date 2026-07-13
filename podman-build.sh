@@ -4,6 +4,12 @@ set -eu
 IMAGE=ghcr.io/tometchy/kazdydzienzjezusem
 VERBOSE=0
 
+if [ ! -f .env.cloudflare ]; then
+  echo "Missing .env.cloudflare."
+  echo "Copy .env.cloudflare.example to .env.cloudflare and paste the Cloudflare Tunnel token."
+  exit 1
+fi
+
 while [ "${1:-}" != "" ]; do
   case "$1" in
     -v|--verbose)
@@ -46,14 +52,25 @@ run_step() {
 if [ "$VERBOSE" -eq 1 ]; then
   run_step_streaming "Build" podman build -t kazdy-dzien . -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest"
   run_step_streaming "Push" podman push --authfile ~/.config/containers/auth.json "$IMAGE:latest"
-  run_step_streaming "Remove stale container" podman rm -f kazdy-dzien
-  run_step_streaming "Compose down" podman compose -f compose.yaml down
+  echo "Remove stale container..."
+  podman rm -f kazdy-dzien >/dev/null 2>&1 || true
+  echo "Remove stale container done."
+  echo "Compose down..."
+  podman compose -f compose.yaml down >/dev/null 2>&1 || true
+  echo "Compose down done."
   run_step_streaming "Compose pull" podman compose -f compose.yaml pull
   run_step_streaming "Compose up" podman compose -f compose.yaml up -d
   exit 0
 fi
 
-run_step "Remove stale container" podman rm -f kazdy-dzien
-run_step "Compose down" podman compose -f compose.yaml down
+run_step "Build" podman build -q -t kazdy-dzien . -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest"
+run_step "Push" podman push -q --authfile ~/.config/containers/auth.json "$IMAGE:latest"
+
+echo "Remove stale container..."
+podman rm -f kazdy-dzien >/dev/null 2>&1 || true
+echo "Remove stale container done."
+echo "Compose down..."
+podman compose -f compose.yaml down >/dev/null 2>&1 || true
+echo "Compose down done."
 run_step "Compose pull" podman compose -f compose.yaml pull
 run_step "Compose up" podman compose -f compose.yaml up -d
