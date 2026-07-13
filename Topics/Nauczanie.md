@@ -81,3 +81,6 @@ MT23,14
 Biada wam, uczeni w Piśmie i faryzeusze, obłudnicy! Albowiem pożeracie domy wdów, i to pod pozorem długich modlitw, dlatego większy wyrok otrzymacie.
 
 Czlowiek z legionem demonow
+
+
+Czy w Slowie jest napisane, ze doswiadczenie nadprzyrodzone to gwarant obecnosci Ducha Swietego? A jak mialem ale przed nawroceniem medytujac, chocby aniol swietlisty.
