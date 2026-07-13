@@ -37,5 +37,5 @@ fi
 echo "Updating master from origin/master..."
 git reset --hard origin/master
 
-echo "Rebuilding and pushing the image..."
+echo "Rebuilding and refreshing the host stack..."
 ./podman-build.sh
