@@ -12,6 +12,7 @@ obj/
 
 # Local Cloudflare Tunnel secret
 .env.cloudflare
+.env
 
 ### JetBrains ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider

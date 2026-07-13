@@ -10,6 +10,8 @@ if [ ! -f .env.cloudflare ]; then
   exit 1
 fi
 
+cp .env.cloudflare .env
+
 while [ "${1:-}" != "" ]; do
   case "$1" in
     -v|--verbose)
@@ -65,6 +67,10 @@ fi
 
 run_step "Build" podman build -q -t kazdy-dzien . -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest"
 run_step "Push" podman push -q --authfile ~/.config/containers/auth.json "$IMAGE:latest"
+
+echo "Remove compose project containers..."
+podman ps -aq --filter label=io.podman.compose.project=kazdydzienzjezusem | xargs -r podman rm -f >/dev/null 2>&1 || true
+echo "Remove compose project containers done."
 
 echo "Remove stale container..."
 podman rm -f kazdy-dzien >/dev/null 2>&1 || true

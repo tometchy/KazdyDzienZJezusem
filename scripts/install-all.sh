@@ -10,6 +10,8 @@ if [ ! -f "$REPO_DIR/.env.cloudflare" ]; then
   exit 1
 fi
 
+cp "$REPO_DIR/.env.cloudflare" "$REPO_DIR/.env"
+
 "$SCRIPT_DIR/install-systemd.sh"
 
 "$SCRIPT_DIR/rebuild.sh"
