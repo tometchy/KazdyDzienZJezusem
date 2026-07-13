@@ -2,6 +2,8 @@ services:
   kazdy-dzien:
     image: ghcr.io/tometchy/kazdydzienzjezusem:latest
     restart: on-failure
+    environment:
+      KAZDY_DZIEN_ARGS: ${KAZDY_DZIEN_ARGS:-}
     ports:
       - "8080:8080"
     volumes:

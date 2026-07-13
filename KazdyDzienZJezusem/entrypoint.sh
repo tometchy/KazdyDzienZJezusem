@@ -15,6 +15,11 @@ until redis-cli EXISTS gnt:John:1:1 2>/dev/null | grep -q 1; do
   sleep 0.1
 done
 
+if [ -n "${KAZDY_DZIEN_ARGS:-}" ]; then
+  # shellcheck disable=SC2086
+  set -- $KAZDY_DZIEN_ARGS "$@"
+fi
+
 dotnet KazdyDzienZJezusem.dll "$@"
 
 if [ ! -f /data-out/IndexHtml/index.html ]; then

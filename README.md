@@ -18,6 +18,12 @@ Generate a specific verse and then rebuild:
 ./scripts/rebuild.sh jhn3,16
 ```
 
+Generate the full New Testament and rebuild:
+
+```bash
+./podman-build.sh --all
+```
+
 Cloudflare Tunnel:
 
 1. Create a tunnel in Cloudflare Zero Trust dashboard.

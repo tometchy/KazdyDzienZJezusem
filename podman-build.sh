@@ -3,6 +3,7 @@ set -eu
 
 IMAGE=ghcr.io/tometchy/kazdydzienzjezusem
 VERBOSE=0
+KAZDY_DZIEN_ARGS=""
 
 if [ ! -f .env.cloudflare ]; then
   echo "Missing .env.cloudflare."
@@ -18,12 +19,18 @@ while [ "${1:-}" != "" ]; do
       VERBOSE=1
       shift
       ;;
+    --all)
+      KAZDY_DZIEN_ARGS="--all"
+      shift
+      ;;
     *)
       echo "Unknown option: $1"
       exit 1
       ;;
   esac
 done
+
+export KAZDY_DZIEN_ARGS
 
 run_step_streaming() {
   step_name="$1"
@@ -51,6 +58,30 @@ run_step() {
   return 1
 }
 
+wait_for_all_generation() {
+  if [ "$KAZDY_DZIEN_ARGS" != "--all" ]; then
+    return 0
+  fi
+
+  echo "Waiting for full NT generation to finish..."
+  attempts=0
+  until [ -f IndexHtml/index.html ]; do
+    attempts=$((attempts + 1))
+    if [ "$attempts" -ge 1800 ]; then
+      echo "Timed out waiting for IndexHtml/index.html."
+      exit 1
+    fi
+    sleep 1
+  done
+  echo "Full NT generation finished."
+}
+
+prepare_all_generation() {
+  if [ "$KAZDY_DZIEN_ARGS" = "--all" ]; then
+    rm -rf IndexHtml
+  fi
+}
+
 if [ "$VERBOSE" -eq 1 ]; then
   run_step_streaming "Build" podman build -t kazdy-dzien . -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest"
   run_step_streaming "Push" podman push --authfile ~/.config/containers/auth.json "$IMAGE:latest"
@@ -61,7 +92,9 @@ if [ "$VERBOSE" -eq 1 ]; then
   podman compose -f compose.yaml down >/dev/null 2>&1 || true
   echo "Compose down done."
   run_step_streaming "Compose pull" podman compose -f compose.yaml pull
+  prepare_all_generation
   run_step_streaming "Compose up" podman compose -f compose.yaml up -d
+  wait_for_all_generation
   exit 0
 fi
 
@@ -79,4 +112,6 @@ echo "Compose down..."
 podman compose -f compose.yaml down >/dev/null 2>&1 || true
 echo "Compose down done."
 run_step "Compose pull" podman compose -f compose.yaml pull
+prepare_all_generation
 run_step "Compose up" podman compose -f compose.yaml up -d
+wait_for_all_generation
