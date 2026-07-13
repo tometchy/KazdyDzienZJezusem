@@ -84,3 +84,5 @@ Czlowiek z legionem demonow
 
 
 Czy w Slowie jest napisane, ze doswiadczenie nadprzyrodzone to gwarant obecnosci Ducha Swietego? A jak mialem ale przed nawroceniem medytujac, chocby aniol swietlisty.
+
+Uniwersalna porada, proś Boga o mądrość. Od tego zaczynać, na tym kończyć.
