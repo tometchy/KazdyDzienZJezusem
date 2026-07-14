@@ -1,4 +1,3 @@
-[[Dzieje Apostolskie 1,6]]
 
 List do Rzymian 8,27-35.
 
@@ -12,13 +11,10 @@ Książka o dojrzałości chrzescijanina 59:43
 > 4. Módl się o oświecenie i kierunek postępowania. **Proś Boga o prowadzenie w trudnej chwili, a On nie dozwoli, abyś się zachwiał i popełnił grzech. Tak postępował Ezdrasz, potem zarządziłem tam nad rzeką Achaba post, abyśmy się ukorzyli przed naszym Bogiem i wyprosili u niego szczęśliwą drogę dla siebie, dla naszych rodzin i dla całego naszego dobytku.**  Ezdrasza 8:21
 > 5. A gdy to zrobisz, podążaj za Opatrznością tak dalece, jak zgadza się ona ze Słowem i ani kroku dalej. Taki też jest punkt widzenia opisany przez psalmistę. Zaufaj Panu i czyń dobrze. Rozkoszuj się Panem, a da Ci czego życzy sobie serce Twoje. Powierz Panu drogę swoją, zaufaj Mu, a On wszystko dobrze uczyni. Zdaj się w milczeniu na Pana i złóż w nim nadzieję.
 
-List Jakuba 3,1:
-> Niech niewielu z was staje się nauczycielami, bracia moi, gdyż wiecie, że surowszy otrzymacie wyrok.
+[[List Jakuba 3,1]]
 
-**Nauczyciel** w [tym wersecie](https://www.blueletterbible.org/kjv/heb/5/12/t_conc_1138012), to greckie słowo ***didaskalos***, występuje [58 razy w 57 wersetach w Textus Receptus](https://www.blueletterbible.org/lexicon/g1320/kjv/tr/0-1/). Większość z nich występuje wtedy, Pan Jezus był nazywany przez ludzi tym słowem, ale nawet sam Pan się nim nazywał, np.
-
-Mat 26,18
-> A On powiedział: Idźcie do miasta, do tego a tego człowieka, i powiedzcie mu: Nauczyciel mówi: Mój czas jest bliski, u ciebie urządzę Paschę ze swoimi uczniami.
+***didaskalos***, BG: nauczyciel 50, mistrz 6
+***rabbi***, BG: mistrz 14
 
 Jana 13,13
 >Wy zwracacie się do mnie: Nauczycielu i Panie; i dobrze mówicie, bo jestem Nim.
