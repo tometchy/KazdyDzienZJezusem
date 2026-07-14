@@ -626,6 +626,42 @@ if (quartz is null)
     return;
 }
 
+var quartzTimeout = TimeSpan.FromHours(12);
+Console.WriteLine($"Waiting for Quartz build to finish (timeout: {quartzTimeout.TotalHours:0} hours)...");
+
+if (!quartz.WaitForExit((int)quartzTimeout.TotalMilliseconds))
+{
+    try
+    {
+        quartz.Kill(entireProcessTree: true);
+    }
+    catch
+    {
+        // Ignore kill errors; we still want to surface the timeout as the primary failure.
+    }
+
+    try
+    {
+        quartz.WaitForExit();
+    }
+    catch
+    {
+        // Ignore wait errors after a forced kill.
+    }
+
+    var quartzTimedOutStdOut = quartz.StandardOutput.ReadToEnd();
+    var quartzTimedOutStdErr = quartz.StandardError.ReadToEnd();
+
+    Console.WriteLine($"Quartz build timed out after {quartzTimeout.TotalHours:0} hours.");
+    if (!string.IsNullOrWhiteSpace(quartzTimedOutStdOut))
+        Console.WriteLine(quartzTimedOutStdOut);
+    if (!string.IsNullOrWhiteSpace(quartzTimedOutStdErr))
+        Console.WriteLine(quartzTimedOutStdErr);
+
+    Environment.Exit(1);
+    return;
+}
+
 var quartzStdOut = quartz.StandardOutput.ReadToEnd();
 var quartzStdErr = quartz.StandardError.ReadToEnd();
 quartz.WaitForExit();
@@ -637,6 +673,7 @@ if (quartz.ExitCode != 0)
         Console.WriteLine(quartzStdOut);
     if (!string.IsNullOrWhiteSpace(quartzStdErr))
         Console.WriteLine(quartzStdErr);
+    Environment.Exit(1);
     return;
 }
 
@@ -647,6 +684,7 @@ if (!File.Exists(Path.Combine(htmlPath, "index.html")))
         Console.WriteLine(quartzStdOut);
     if (!string.IsNullOrWhiteSpace(quartzStdErr))
         Console.WriteLine(quartzStdErr);
+    Environment.Exit(1);
     return;
 }
 

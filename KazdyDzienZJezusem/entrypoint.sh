@@ -20,7 +20,10 @@ if [ -n "${KAZDY_DZIEN_ARGS:-}" ]; then
   set -- $KAZDY_DZIEN_ARGS "$@"
 fi
 
-dotnet KazdyDzienZJezusem.dll "$@"
+if ! dotnet KazdyDzienZJezusem.dll "$@"; then
+  echo "Quartz build failed; stopping container."
+  exit 1
+fi
 
 if [ ! -f /data-out/IndexHtml/index.html ]; then
   echo "Quartz HTML was not generated: /data-out/IndexHtml/index.html is missing"
