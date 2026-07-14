@@ -16,7 +16,7 @@ Książka o dojrzałości chrzescijanina 59:43
 ***didaskalos***, BG: nauczyciel 50, mistrz 6
 ***rabbi***, BG: mistrz 14
 
-(1 Kor 13:9) (1 Kor 8:2) 
+(1 Kor 13:8,9,10)
 
 Apollos był:
 „człowiekiem wymownym i biegłym w Pismach”
