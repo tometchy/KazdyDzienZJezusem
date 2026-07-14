@@ -38,4 +38,4 @@ echo "Updating master from origin/master..."
 git reset --hard origin/master
 
 echo "Rebuilding and refreshing the host stack..."
-./podman-build.sh
+"$REPO_DIR/setup.sh"

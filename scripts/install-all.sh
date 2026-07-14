@@ -14,7 +14,7 @@ cp "$REPO_DIR/.env.cloudflare" "$REPO_DIR/.env"
 
 "$SCRIPT_DIR/install-systemd.sh"
 
-"$SCRIPT_DIR/rebuild.sh"
+"$REPO_DIR/setup.sh" "$@"
 
 echo "Installation complete."
 echo "Compose stack is enabled and running."

@@ -44,7 +44,8 @@ foreach (var arg in argTokens)
 
 if (generateAll && verseArgs.Count > 0)
 {
-    Fail("Use --all by itself, or pass individual verse references without --all.");
+    Fail("Use --all, or jhn3,16 [jhn3:17 ...] OR \"jhn3,16 jhn3:17\"");
+
     return;
 }
 
@@ -513,37 +514,39 @@ var generatedTopicLinks = new List<string>();
 
 if (topicFiles.Count > 0)
 {
-    if (generateContent)
+    if (Directory.Exists(topicsPath))
     {
-        Directory.CreateDirectory(topicsPath);
-
-        foreach (var sourceFile in topicFiles)
-        {
-            var relativePath = Path.GetRelativePath(sourceTopicsPath, sourceFile);
-            var destinationFile = Path.Combine(topicsPath, relativePath);
-            Directory.CreateDirectory(Path.GetDirectoryName(destinationFile)!);
-
-            var content = File.ReadAllText(sourceFile, Encoding.UTF8);
-            var processedContent = ProcessTopicContent(content);
-            File.WriteAllText(destinationFile, processedContent, Encoding.UTF8);
-
-            Console.WriteLine($"Saved topic: {relativePath}");
-            generatedTopicLinks.Add(relativePath);
-        }
-
-        var topicIndex = new StringBuilder();
-        topicIndex.AppendLine("# Topics");
-        topicIndex.AppendLine();
-
-        foreach (var topicLink in generatedTopicLinks)
-        {
-            var topicTitle = Path.GetFileNameWithoutExtension(topicLink);
-            var topicTarget = Path.ChangeExtension(topicLink, null)!.Replace(Path.DirectorySeparatorChar, '/');
-            topicIndex.AppendLine($"- [[Topics/{topicTarget}|{topicTitle}]]");
-        }
-
-        File.WriteAllText(Path.Combine(topicsPath, "index.md"), topicIndex.ToString(), Encoding.UTF8);
+        Directory.Delete(topicsPath, recursive: true);
     }
+
+    Directory.CreateDirectory(topicsPath);
+
+    foreach (var sourceFile in topicFiles)
+    {
+        var relativePath = Path.GetRelativePath(sourceTopicsPath, sourceFile);
+        var destinationFile = Path.Combine(topicsPath, relativePath);
+        Directory.CreateDirectory(Path.GetDirectoryName(destinationFile)!);
+
+        var content = File.ReadAllText(sourceFile, Encoding.UTF8);
+        var processedContent = ProcessTopicContent(content);
+        File.WriteAllText(destinationFile, processedContent, Encoding.UTF8);
+
+        Console.WriteLine($"Saved topic: {relativePath}");
+        generatedTopicLinks.Add(relativePath);
+    }
+
+    var topicIndex = new StringBuilder();
+    topicIndex.AppendLine("# Topics");
+    topicIndex.AppendLine();
+
+    foreach (var topicLink in generatedTopicLinks)
+    {
+        var topicTitle = Path.GetFileNameWithoutExtension(topicLink);
+        var topicTarget = Path.ChangeExtension(topicLink, null)!.Replace(Path.DirectorySeparatorChar, '/');
+        topicIndex.AppendLine($"- [[Topics/{topicTarget}|{topicTitle}]]");
+    }
+
+    File.WriteAllText(Path.Combine(topicsPath, "index.md"), topicIndex.ToString(), Encoding.UTF8);
 }
 
 var generatedLinks = new StringBuilder();

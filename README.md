@@ -6,22 +6,22 @@ Install everything and start the stack:
 ./scripts/install-all.sh
 ```
 
-Manually rebuild the stack:
+Main setup script:
 
 ```bash
-./scripts/rebuild.sh
+./setup.sh
 ```
 
-Generate a specific verse and then rebuild:
+Generate the full New Testament:
 
 ```bash
-./scripts/rebuild.sh jhn3,16
+./setup.sh --all
 ```
 
-Generate the full New Testament and rebuild:
+Generate specific verses only:
 
 ```bash
-./podman-build.sh --all
+./setup.sh --vers jhn3,16 1co13,4
 ```
 
 Cloudflare Tunnel:

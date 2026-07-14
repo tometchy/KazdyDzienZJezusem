@@ -1,12 +1,9 @@
 #!/bin/sh
+set -eu
 
-SCRIPT_DIR="/home/tom/Projects/KazdyDzienZJezusem"
+SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
+if [ "$#" -eq 0 ]; then
+  exec "$SCRIPT_DIR/setup.sh"
+fi
 
-podman run --rm \
-  -p 8080:8080 \
-  -v "$SCRIPT_DIR":/data-out \
-  kazdy-dzien "$@"
-
-
-# podman run --rm \
-#  kazdy-dzien $1
+exec "$SCRIPT_DIR/setup.sh" --vers "$@"
