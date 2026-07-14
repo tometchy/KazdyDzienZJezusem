@@ -16,6 +16,17 @@ Książka o dojrzałości chrzescijanina 59:43
 ***didaskalos***, BG: nauczyciel 50, mistrz 6
 ***rabbi***, BG: mistrz 14
 
+(1 Kor 13:9) (1 Kor 8:2) 
+
+Apollos był:
+„człowiekiem wymownym i biegłym w Pismach”
+(Dz 18:24)
+„znał tylko chrzest Jana”
+(Dz 18:25)
+Czyli nauczał rzeczy prawdziwych, ale niepełnych. Pryscylla i Akwila musieli:
+„wyłożyć mu dokładniej drogę Bożą.”
+(Dz 18:26)
+
 Jana 13,13
 >Wy zwracacie się do mnie: Nauczycielu i Panie; i dobrze mówicie, bo jestem Nim.
 
