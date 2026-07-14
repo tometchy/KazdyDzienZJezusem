@@ -100,6 +100,20 @@ wait_for_all_generation() {
   echo "Full NT generation finished."
 }
 
+wait_for_site() {
+  echo "Waiting for site to answer on http://127.0.0.1:8080/..."
+  attempts=0
+  until curl -fsS --max-time 2 http://127.0.0.1:8080/ >/dev/null 2>&1; do
+    attempts=$((attempts + 1))
+    if [ "$attempts" -ge 1800 ]; then
+      echo "Timed out waiting for the site to become available."
+      exit 1
+    fi
+    sleep 1
+  done
+  echo "Site is available."
+}
+
 prepare_all_generation() {
   if [ "$KAZDY_DZIEN_ARGS" = "--all" ]; then
     rm -rf "$REPO_DIR/IndexHtml"
@@ -121,6 +135,7 @@ if [ "$VERBOSE" -eq 1 ]; then
   prepare_all_generation
   run_step_streaming "Compose up" podman compose -f compose.yaml up -d
   wait_for_all_generation
+  wait_for_site
   exit 0
 fi
 
@@ -141,3 +156,4 @@ run_step "Compose pull" podman compose -f compose.yaml pull
 prepare_all_generation
 run_step "Compose up" podman compose -f compose.yaml up -d
 wait_for_all_generation
+wait_for_site

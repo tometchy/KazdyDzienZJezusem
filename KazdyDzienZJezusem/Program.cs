@@ -51,10 +51,6 @@ if (generateAll && verseArgs.Count > 0)
 
 var inputs = verseArgs;
 var generateContent = generateAll || inputs.Count > 0;
-ConnectionMultiplexer? redisConnection = generateContent ? ConnectionMultiplexer.Connect("localhost,allowAdmin=true") : null;
-IDatabase? redis = redisConnection?.GetDatabase();
-
-// Output paths
 string basePath = "/data-out/Index";
 string bibliaPath = Path.Combine(basePath, "Biblia");
 string graecaPath = Path.Combine(basePath, "Graeca");
@@ -64,6 +60,16 @@ string htmlPath = "/data-out/IndexHtml";
 string sourceTopicsPath = Directory.Exists("/data-out/Topics")
     ? "/data-out/Topics"
     : Path.Combine(Directory.GetCurrentDirectory(), "Topics");
+
+var topicFiles = Directory.Exists(sourceTopicsPath)
+    ? Directory.GetFiles(sourceTopicsPath, "*.md", SearchOption.AllDirectories)
+        .OrderBy(path => Path.GetRelativePath(sourceTopicsPath, path), StringComparer.Ordinal)
+        .ToList()
+    : new List<string>();
+
+var needsRedis = generateContent || topicFiles.Count > 0;
+ConnectionMultiplexer? redisConnection = needsRedis ? ConnectionMultiplexer.Connect("localhost,allowAdmin=true") : null;
+IDatabase? redis = redisConnection?.GetDatabase();
 
 Directory.CreateDirectory(basePath);
 Directory.CreateDirectory(bibliaPath);
@@ -503,12 +509,6 @@ if (generateAll)
         generatedBookIndexLinks.Add($"- [[Biblia/{bookEng}|{bookEng}]]");
     }
 }
-
-var topicFiles = Directory.Exists(sourceTopicsPath)
-    ? Directory.GetFiles(sourceTopicsPath, "*.md", SearchOption.AllDirectories)
-        .OrderBy(path => Path.GetRelativePath(sourceTopicsPath, path), StringComparer.Ordinal)
-        .ToList()
-    : new List<string>();
 
 var generatedTopicLinks = new List<string>();
 
