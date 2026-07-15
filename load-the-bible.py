@@ -7,6 +7,43 @@ from bs4 import BeautifulSoup
 
 r = redis.Redis(host='localhost', port=6379, decode_responses=True)
 
+BOOK_MAP = {
+    "mat": ("Matthew", "Ewangelia Mateusza", 40, "Matt"),
+    "mar": ("Mark", "Ewangelia Marka", 41, "Mark"),
+    "luk": ("Luke", "Ewangelia Łukasza", 42, "Luke"),
+    "jhn": ("John", "Ewangelia Jana", 43, "John"),
+    "act": ("Acts", "Dzieje Apostolskie", 44, "Acts"),
+    "rom": ("Romans", "List do Rzymian", 45, "Romans"),
+
+    "1co": ("1 Corinthians", "1 List do Koryntian", 46, "1Cor"),
+    "2co": ("2 Corinthians", "2 List do Koryntian", 47, "2Cor"),
+    "gal": ("Galatians", "List do Galacjan", 48, "Gal"),
+    "eph": ("Ephesians", "List do Efezjan", 49, "Eph"),
+    "php": ("Philippians", "List do Filipian", 50, "Phil"),
+    "col": ("Colossians", "List do Kolosan", 51, "Col"),
+
+    "1th": ("1 Thessalonians", "1 List do Tesaloniczan", 52, "1Thess"),
+    "2th": ("2 Thessalonians", "2 List do Tesaloniczan", 53, "2Thess"),
+
+    "1ti": ("1 Timothy", "1 List do Tymoteusza", 54, "1Tim"),
+    "2ti": ("2 Timothy", "2 List do Tymoteusza", 55, "2Tim"),
+
+    "tit": ("Titus", "List do Tytusa", 56, "Titus"),
+    "phm": ("Philemon", "List do Filemona", 57, "Phlm"),
+    "heb": ("Hebrews", "List do Hebrajczyków", 58, "Heb"),
+    "jas": ("James", "List Jakuba", 59, "Jas"),
+
+    "1pe": ("1 Peter", "1 List Piotra", 60, "1Pet"),
+    "2pe": ("2 Peter", "2 List Piotra", 61, "2Pet"),
+
+    "1jn": ("1 John", "1 List Jana", 62, "1John"),
+    "2jn": ("2 John", "2 List Jana", 63, "2John"),
+    "3jn": ("3 John", "3 List Jana", 64, "3John"),
+
+    "jud": ("Jude", "List Judy", 65, "Jude"),
+    "rev": ("Revelation", "Objawienie Jana", 66, "Rev"),
+}
+
 # ---------- TR ----------
 def load_tr(pipe):
     count = 0
@@ -44,20 +81,14 @@ def load_tnp(pipe):
 
                 chapter, verse = m.groups()
 
-                book_by_file = {
-                    "Matt": "Matthew",
-                    "Mark": "Mark",
-                    "Luke": "Luke",
-                    "John": "John",
-                    "Acts": "Acts",
-                    "Romans": "Romans",
-                    "Jude": "Jude",
-                    "Revelation": "Revelation",
-                }
                 file_stem = name.rsplit("/", 1)[-1].rsplit(".", 1)[0]
-                book = book_by_file.get(file_stem)
+                book = None
+                for _, (book_en, _, _, tnp_file_stem) in BOOK_MAP.items():
+                    if tnp_file_stem == file_stem:
+                        book = book_en
+                        break
 
-                if not book:
+                if book is None:
                     continue
 
                 key = f"tnp:{book}:{chapter}:{verse}"
@@ -90,19 +121,13 @@ def load_ubg(pipe):
 
                 book_num = int(name.split("PL-")[1].split(".")[0])
 
-                book_map = {
-                    40: "Matthew",
-                    41: "Mark",
-                    42: "Luke",
-                    43: "John",
-                    44: "Acts",
-                    45: "Romans",
-                    65: "Jude",
-                    66: "Revelation"
-                }
+                book = None
+                for _, (book_en, _, mapped_num, _) in BOOK_MAP.items():
+                    if mapped_num == book_num:
+                        book = book_en
+                        break
 
-                book = book_map.get(book_num)
-                if not book:
+                if book is None:
                     continue
 
                 key = f"ubg:{book}:{chapter}:{verse}"

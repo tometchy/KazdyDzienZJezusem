@@ -229,10 +229,12 @@ string ProcessTopicContent(string content)
         var line = lines[i];
         sb.AppendLine(line);
 
-        var linkMatch = Regex.Match(line.Trim(), @"^\[\[(.+)\]\]$");
-        if (linkMatch.Success && TryGetUbgQuote(linkMatch.Groups[1].Value, out var quote))
+        foreach (Match linkMatch in Regex.Matches(line, @"\[\[(.+?)\]\]"))
         {
-            sb.AppendLine($"> {quote}");
+            if (TryGetUbgQuote(linkMatch.Groups[1].Value, out var quote))
+            {
+                sb.AppendLine($"> {quote}");
+            }
         }
     }
 
