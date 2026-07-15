@@ -3,6 +3,7 @@ using System.Text.Json;
 using System.Text.RegularExpressions;
 using System.Globalization;
 using System.Diagnostics;
+using System.Threading.Tasks;
 using StackExchange.Redis;
 
 Console.WriteLine("Starting...");
@@ -629,8 +630,13 @@ if (quartz is null)
     return;
 }
 
-var quartzTimeout = TimeSpan.FromHours(12);
-Console.WriteLine($"Waiting for Quartz build to finish (timeout: {quartzTimeout.TotalHours:0} hours)...");
+var quartzTimeoutHours = int.TryParse(Environment.GetEnvironmentVariable("QUARTZ_BUILD_TIMEOUT_HOURS"), out var configuredTimeoutHours)
+    ? configuredTimeoutHours
+    : 48;
+var quartzTimeout = TimeSpan.FromHours(quartzTimeoutHours);
+Console.WriteLine($"Waiting for Quartz build to finish (timeout: {quartzTimeoutHours} hours)...");
+var quartzStdOutTask = quartz.StandardOutput.ReadToEndAsync();
+var quartzStdErrTask = quartz.StandardError.ReadToEndAsync();
 
 if (!quartz.WaitForExit((int)quartzTimeout.TotalMilliseconds))
 {
@@ -652,8 +658,8 @@ if (!quartz.WaitForExit((int)quartzTimeout.TotalMilliseconds))
         // Ignore wait errors after a forced kill.
     }
 
-    var quartzTimedOutStdOut = quartz.StandardOutput.ReadToEnd();
-    var quartzTimedOutStdErr = quartz.StandardError.ReadToEnd();
+    var quartzTimedOutStdOut = await quartzStdOutTask;
+    var quartzTimedOutStdErr = await quartzStdErrTask;
 
     Console.WriteLine($"Quartz build timed out after {quartzTimeout.TotalHours:0} hours.");
     if (!string.IsNullOrWhiteSpace(quartzTimedOutStdOut))
@@ -665,8 +671,8 @@ if (!quartz.WaitForExit((int)quartzTimeout.TotalMilliseconds))
     return;
 }
 
-var quartzStdOut = quartz.StandardOutput.ReadToEnd();
-var quartzStdErr = quartz.StandardError.ReadToEnd();
+var quartzStdOut = await quartzStdOutTask;
+var quartzStdErr = await quartzStdErrTask;
 quartz.WaitForExit();
 
 if (quartz.ExitCode != 0)

@@ -101,7 +101,8 @@ wait_for_all_generation() {
 }
 
 wait_for_site() {
-  timeout_seconds=$((12 * 60 * 60))
+  timeout_hours="${QUARTZ_BUILD_TIMEOUT_HOURS:-48}"
+  timeout_seconds=$((timeout_hours * 60 * 60))
   echo "Waiting for site to answer on http://127.0.0.1:8080/..."
   attempts=0
   until curl -fsS --max-time 2 http://127.0.0.1:8080/ >/dev/null 2>&1; do
