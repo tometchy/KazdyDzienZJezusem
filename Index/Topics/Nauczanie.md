@@ -100,3 +100,5 @@ Pamiętajmy o kontekście, w jakim Jan mówi o tym namaszczeniu. Mówi w kontek�
 
 O tacie i pewnosci katolikow, moze swiadkow
 
+test
+
