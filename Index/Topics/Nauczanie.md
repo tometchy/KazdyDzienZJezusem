@@ -19,6 +19,7 @@
 
 [[List Jakuba 1,5]]
 > A jeśli komuś z was brakuje mądrości, niech prosi Boga, który daje wszystkim obficie i bez wypominania, a będzie mu dana.
+
 [[List Jakuba 1,6]]
 > Ale niech prosi z wiarą, bez powątpiewania. Kto bowiem wątpi, podobny jest do fali morskiej pędzonej przez wiatr i miotanej tu i tam .
 
@@ -33,9 +34,40 @@
 > 5. A gdy to zrobisz, podążaj za Opatrznością tak dalece, jak zgadza się ona ze Słowem i ani kroku dalej. Taki też jest punkt widzenia opisany przez psalmistę. Zaufaj Panu i czyń dobrze. Rozkoszuj się Panem, a da Ci czego życzy sobie serce Twoje. Powierz Panu drogę swoją, zaufaj Mu, a On wszystko dobrze uczyni. Zdaj się w milczeniu na Pana i złóż w nim nadzieję.
 
 ## Jestem młody, czy to jest przeszkodą
-
 [[1 List do Tymoteusza 4,12]]
 > Niech nikt nie lekceważy twego młodego wieku; lecz bądź dla wierzących przykładem w mowie, w postępowaniu, w miłości, w duchu, w wierze, w czystości.
+
+- Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
+- Na poście braterskim specjalnie mnie złapał młody brat i zapytał
+
+## Krótko chodzę z Panem, czy to jest przeszkodą
+
+[[Dzieje Apostolskie 9,20]]
+> I zaraz w synagogach zaczął głosić Chrystusa, że on jest Synem Bożym.
+
+- Podobno wiek Pana Jezusa, Jana Chrzciciela
+
+## Ogólnie spojrzałem na temat nauczania i podział na nauczanie przez każdego i rolę nauczyciela
+
+1 List do Koryntian 12,28:
+> I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie **nauczycieli**, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków.
+
+List do Efezjan 4,10-11:
+> Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko. I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i **nauczycieli**,
+
+Dzieje Apostolskie 13,1
+> A byli w Antiochii, w zborze, który tam był, pewni prorocy i **nauczyciele** jak: Barnaba i Symeon, zwany Niger, i Lucjusz Cyrenejczyk, i Manaen, który był też wychowany z Herodem tetrarchą, i Saul.
+
+### Każdy nawet kobiety
+
+### Rola nauczyciela, tylko powołani, nigdy kobiety
+
+## O co chodzi z ty surowszym sądem/wyrokiem
+- Nie jest to szczegółowo wytłumaczone, ale jest pewna bardzo istotna informacja
+- Donald Doss, adwentysta z filmu Przełęcz Ocalonych
+- Andrzej Gołota
+- 
+---
 
 (1 Kor 13:8,9,10)
 
@@ -48,30 +80,12 @@ Czyli nauczał rzeczy prawdziwych, ale niepełnych. Pryscylla i Akwila musieli:
 „wyłożyć mu dokładniej drogę Bożą.”
 (Dz 18:26)
 
-Jana 13,13
->Wy zwracacie się do mnie: Nauczycielu i Panie; i dobrze mówicie, bo jestem Nim.
-
-Oto ty, który nazywasz siebie Żydem i polegasz[20] na Prawie, i chlubisz się w Bogu,
-
-**Fragmenty nie dotyczące Pana Jezusa**:
-
-List do Hebrajczyków 5,12
-> Bowiem wy, którzy ze względu na czas powinniście być **nauczycielami**, ponownie potrzebujecie, aby was ktoś nauczył początkowych zasad Słów Bożych, staliście się potrzebującymi mleka, a nie stałego pokarmu.
-
-List do Rzymian 2,17-21
-> Oto ty, który nazywasz siebie Żydem i polegasz na Prawie, i chlubisz się w Bogu, I znasz Jego wolę, i badasz to, co jest ważne, będąc pouczanym przez Prawo, I masz przekonanie, że jesteś przewodnikiem ślepych, światłem dla tych, którzy są w ciemności, Wychowawcą nierozumnych, **nauczycielem** niemowląt, mając w Prawie formułę wiedzy i prawdy. Ty więc, który uczysz drugiego, samego siebie nie nauczasz? Który głosisz, żeby nie kradziono, kradniesz?
-
-1 List do Koryntian 12,28:
-> I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie **nauczycieli**, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków.
-
-List do Efezjan 4,10-11:
-> Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko. I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i **nauczycieli**,
-
-Dzieje Apostolskie 13,1
-> A byli w Antiochii, w zborze, który tam był, pewni prorocy i **nauczyciele** jak: Barnaba i Symeon, zwany Niger, i Lucjusz Cyrenejczyk, i Manaen, który był też wychowany z Herodem tetrarchą, i Saul.
+1 Sm 16:6–7
+Samuel uważa, że Eliab na pewno jest wybrańcem Boga.
 
 
-tbd fragment o Tymotusza wieku
+
+
 
 Rz 12,7
 
@@ -308,3 +322,4 @@ W rozmowie Jezusa z Nikodem o nowonarodzeniu (J 3) nie ma pytania: „Czy pamię
 Dlatego biblijne pytanie brzmi mniej: **„Czy miałem kiedyś odpowiednie doświadczenie?”**, a bardziej: **„Czy dziś widać we mnie oznaki nowego życia od Boga?”**
 
 Najwięcej praktycznych „testów” nowonarodzenia znajdziesz w Pierwszy List Jana, który został napisany właśnie po to, aby wierzący mogli rozpoznać, czy rzeczywiście mają życie wieczne (1 J 5:13).
+
