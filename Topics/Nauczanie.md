@@ -17,6 +17,7 @@
 - Postanowiłem jednak czekać aż będę miał pewność, że Bóg mnie tutaj stawia i prosić Boga o mądrość, żebym to zrozumiał
 
 [[List Jakuba 1,5]]
+
 [[List Jakuba 1,6]]
 
 ## Fragment wyrwany z kontekstu, przypomnienie Karola
