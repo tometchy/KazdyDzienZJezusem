@@ -44,6 +44,15 @@
 
 ## Ogólnie spojrzałem na temat nauczania i podział na nauczanie przez każdego i rolę nauczyciela
 
+1 List do Koryntian 12,28:
+> I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie **nauczycieli**, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków.
+
+List do Efezjan 4,10-11:
+> Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko. I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i **nauczycieli**,
+
+Dzieje Apostolskie 13,1
+> A byli w Antiochii, w zborze, który tam był, pewni prorocy i **nauczyciele** jak: Barnaba i Symeon, zwany Niger, i Lucjusz Cyrenejczyk, i Manaen, który był też wychowany z Herodem tetrarchą, i Saul.
+
 ### Każdy nawet kobiety
 
 ### Rola nauczyciela, tylko powołani, nigdy kobiety
@@ -66,26 +75,12 @@ Czyli nauczał rzeczy prawdziwych, ale niepełnych. Pryscylla i Akwila musieli:
 „wyłożyć mu dokładniej drogę Bożą.”
 (Dz 18:26)
 
-
-**Fragmenty nie dotyczące Pana Jezusa**:
-
-List do Hebrajczyków 5,12
-> Bowiem wy, którzy ze względu na czas powinniście być **nauczycielami**, ponownie potrzebujecie, aby was ktoś nauczył początkowych zasad Słów Bożych, staliście się potrzebującymi mleka, a nie stałego pokarmu.
-
-List do Rzymian 2,17-21
-> Oto ty, który nazywasz siebie Żydem i polegasz na Prawie, i chlubisz się w Bogu, I znasz Jego wolę, i badasz to, co jest ważne, będąc pouczanym przez Prawo, I masz przekonanie, że jesteś przewodnikiem ślepych, światłem dla tych, którzy są w ciemności, Wychowawcą nierozumnych, **nauczycielem** niemowląt, mając w Prawie formułę wiedzy i prawdy. Ty więc, który uczysz drugiego, samego siebie nie nauczasz? Który głosisz, żeby nie kradziono, kradniesz?
-
-1 List do Koryntian 12,28:
-> I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie **nauczycieli**, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków.
-
-List do Efezjan 4,10-11:
-> Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko. I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i **nauczycieli**,
-
-Dzieje Apostolskie 13,1
-> A byli w Antiochii, w zborze, który tam był, pewni prorocy i **nauczyciele** jak: Barnaba i Symeon, zwany Niger, i Lucjusz Cyrenejczyk, i Manaen, który był też wychowany z Herodem tetrarchą, i Saul.
+1 Sm 16:6–7
+Samuel uważa, że Eliab na pewno jest wybrańcem Boga.
 
 
-tbd fragment o Tymotusza wieku
+
+
 
 Rz 12,7
 
