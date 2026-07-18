@@ -305,7 +305,10 @@ TNP:
 > Wiemy, że jesteśmy z Boga, a cały świat tkwi w niegodziwości.
 
 - Nawiązanie do Łukasza 10 lat młodszego, gdy ja miałem 11 lat, zaczynałem swoje poważne nałogi
+- Miałem co prawda w tym roku jeden updaek, na początku roku, ale był pojedynczy, płakałem po nim, było mi wstyd, przepraszałem Pana i żonę
+- Co prawda wtedy byłem trochę zaskoczony, myślałem, że już nigdy mi się to nie przydarzy, widać gdzieś straciłem czujność
 - Ostatni tydzień był dla mnie bardzo trudny i stresujący, chwala Panu nie wróciły stare schematy, nawet nie było zmagania
+- Świadectwa młodych braci, którzy są wolni od upadków w tym temacie np. po 3 lata, są dla mnie bardzo budujące, ja w ich wieku chyba nigdy w życiu nie doświadczyłem 3 dni
 
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
 [[2 List do Koryntian 5,17]]
@@ -429,50 +432,13 @@ TNP:
 
 
 
-Co ciekawe, Biblia **nie wskazuje darów nadzwyczajnych** (języki, proroctwa, uzdrowienia) jako uniwersalnego dowodu, że ktoś jest świątynią Ducha Świętego. Natomiast owoc Ducha jest przedstawiany jako cecha, której powinno się oczekiwać u wszystkich chrześcijan.
 
----
-Biblia nie podaje jednej emocji, przeżycia czy spektakularnego znaku jako dowodu nowonarodzenia, ale wskazuje na szereg cech i owoców, które pojawiają się u człowieka narodzonego z Boga.
-
-## 1. Wiara w Jezusa jako Chrystusa
-
-> „Każdy, kto wierzy, że Jezus jest Chrystusem, z Boga się narodził...” — Pierwszy List Jana 5:1
-
-Nowonarodzenie prowadzi do zaufania Jezusowi i uznania Go za Pana oraz Mesjasza.
-
-## 2. Pragnienie posłuszeństwa Bogu
-
-> „Po tym poznajemy, że Go znamy, jeśli przykazania jego zachowujemy.” — Pierwszy List Jana 2:3
-
-Nie chodzi o bezgrzeszną doskonałość, lecz o nowe nastawienie serca: człowiek chce podobać się Bogu.
-
-## 3. Miłość do innych wierzących
-
-> „My wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci.” — Pierwszy List Jana 3:14
-
-Jednym z głównych znaków jest pojawienie się autentycznej miłości do innych chrześcijan.
-
-## 4. Walka z grzechem
-
-> „Każdy, kto się z Boga narodził, nie trwa w grzechu...” — Pierwszy List Jana 3:9
-
-Jan nie naucza, że wierzący nigdy nie zgrzeszy (por. 1 J 1:8-10), ale że nie żyje już w świadomym, nieprzerwanym trwaniu w grzechu bez walki i pokuty.
-
-## 5. Obecność owocu Ducha
-
-> „Owocem zaś Ducha są: miłość, radość, pokój, cierpliwość, uprzejmość, dobroć, wierność, łagodność, powściągliwość...” — List do Galatów 5:22-23
-
-Te cechy zwykle rozwijają się stopniowo, a nie natychmiast.
 
 ## 6. Wewnętrzne świadectwo Ducha Świętego
 
 > „Ten właśnie Duch świadczy wespół z duchem naszym, że dziećmi Bożymi jesteśmy.” — List do Rzymian 8:16
 
 Niektórzy odczuwają to bardzo wyraźnie, inni mniej emocjonalnie. Biblia jednak mówi o pewnym wewnętrznym przekonaniu, że należymy do Boga.
-// Od 8,1 patrz np. 8,5
-## 7. Nowe podejście do grzechu
-
-Dawniej grzech mógł nie przeszkadzać. Po nowonarodzeniu człowiek odczuwa smutek z powodu własnego grzechu i pragnie się od niego odwracać.
 
 > „Jeśli więc ktoś jest w Chrystusie, nowym jest stworzeniem...” — Drugi List do Koryntian 5:17
 
