@@ -169,8 +169,7 @@ TNP:
 
 ### Nie jestem w stanie, ani nawet nie będę próbował, tego tematu dzisiaj omówić kompleksowo
 - Gdy na ten temat wyjdzie nauczać brat, który go zgłębia od 30 lat, siłą rzeczy omówi go lepiej
-- Ja skupię się na fragmentach, które mnie w trakcie moich dociekań szczególnie zastanowiły
-
+- Ja zatrzymam się pokrótce na fragmentach, które mnie w trakcie moich dociekań szczególnie zastanowiły
 
 
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
