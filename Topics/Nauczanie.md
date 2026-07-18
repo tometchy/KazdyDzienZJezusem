@@ -76,6 +76,10 @@
 
 [[1 List do Koryntian 14,35]]
 
+[[1 List do Tymoteusza 2,11]]
+
+[[1 List do Tymoteusza 2,12]]
+
 ## O co chodzi z tym surowszym sądem/wyrokiem
 - Nie jest to szczegółowo wytłumaczone, ale jest pewna bardzo istotna informacja
 - Donald Doss, adwentysta z filmu Przełęcz Ocalonych

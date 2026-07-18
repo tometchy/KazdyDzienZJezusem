@@ -36,6 +36,7 @@
 ## Jestem młody, czy to jest przeszkodą
 - Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
 - Na poście braterskim specjalnie mnie złapał młody brat i zapytał
+- Dla zobrazowania skali nasz Łukasz Królikowski jest 10 lat młodszy
 
 [[1 List do Tymoteusza 4,12]]
 > Niech nikt nie lekceważy twego młodego wieku; lecz bądź dla wierzących przykładem w mowie, w postępowaniu, w miłości, w duchu, w wierze, w czystości.
@@ -92,6 +93,12 @@
 
 [[1 List do Koryntian 14,35]]
 > A jeśli chcą się czegoś nauczyć, niech w domu pytają swoich mężów. Hańbą bowiem jest dla kobiety mówić w kościele.
+
+[[1 List do Tymoteusza 2,11]]
+> Kobieta niech się uczy w cichości, w pełnej uległości.
+
+[[1 List do Tymoteusza 2,12]]
+> Nie pozwalam zaś kobiecie nauczać ani mieć władzy nad mężczyzną, lecz aby trwała w cichości.
 
 ## O co chodzi z tym surowszym sądem/wyrokiem
 - Nie jest to szczegółowo wytłumaczone, ale jest pewna bardzo istotna informacja
