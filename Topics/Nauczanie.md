@@ -48,6 +48,8 @@
 ### Pouczać się wzajemnie ma każdy nawet kobiety
 
 #### W zborze
+[[List do Rzymian 15,14]]
+
 [[List do Kolosan 3,16]]
 
 [[List do Hebrajczyków 10,24]]
@@ -178,56 +180,28 @@ FRAGMENTY
 - przykład ze świadectwa brata Pawła Jurkowskiego
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
+## Po owocu poznaje się drzewo
+[[Ewangelia Mateusza 12,33]]
+
+### Kto pamięta ile owoców Ducha Świętego jest wymienionych w Liście do Galacjan
+- Sprawdźmy razem
+
+[[List do Galacjan 5,22]]
+ 
+[[List do Galacjan 5,23]]
+
+karpos (owos) - mianownik w liczbie pojedynczej
+esti (jest) - 3. osoba liczby pojedynczej czasu teraźniejszego
+
 --- 
-
-Rz 12,7
-
-RZ 15,14;17
-
-Mat 23.8-12
-Mat 12,33
-
-[Act 13:1](https://www.blueletterbible.org/kjv/act/13/1/s_1031001) -
-Now there were in the church that was at Antioch certain prophets and **teachers**; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
-
-kol 3,16-17
-
-[[Polecenia Tymoteusza od Pawła]]
-
----
-Dla której jestem ustanowiony kaznodzieją[14] i apostołem, i nauczycielem pogan.
-
-[[Napomnienie o początkowych zasadach Słów Bożych]]
-
----
 
 Kor 4,15, Ga 3,24
 
----
-Ile trzeba być nawróconym Paweł od razu po Ananiaszu. Widać, że raczej trzeba mieć jakąś naukę Ducha Świętego, a nie wybraną rocznicę nawrócenia. Miał Natchnienie i znał Pisma, porówmać do Olimpii Świadectwa.
 
-MK 12,40
-Którzy objadają domy wdów, i to pod pozorem[31] długich modlitw. Ci otrzymają większy[32] wyrok.
-
-ŁK20,47
-Którzy objadają domy wdów i dla pozoru długo się modlą. Tacy otrzymają wyższy wyrok.
-
-MT23,14
-Biada wam, uczeni w Piśmie i faryzeusze, obłudnicy! Albowiem pożeracie domy wdów, i to pod pozorem długich modlitw, dlatego większy wyrok otrzymacie.
-
-Czlowiek z legionem demonow
-
-
-Czy w Slowie jest napisane, ze doswiadczenie nadprzyrodzone to gwarant obecnosci Ducha Swietego? A jak mialem ale przed nawroceniem medytujac, chocby aniol swietlisty.
-
-Uniwersalna porada, proś Boga o mądrość. Od tego zaczynać, na tym kończyć.
-
-https://www.youtube.com/watch?v=rCo3S9QmGV4
-Pamiętajmy o kontekście, w jakim Jan mówi o tym namaszczeniu. Mówi w kontekście antychrystów, tych, którzy mówią coś innego o Chrystusie niż oni, Jan Apostoł i inni apostołowie. Czego oni nauczali? mówi o tym namaszczeniu w kontekście wyjścia ze społeczności ludzi wierzących, opuszczenia tej społeczności wierzących. (00:45) Spójrzmy do drugiego jeszcze listu do Koryntian pierwszego rozdziału 21 i 22 wiersza, gdzie apostoł Paweł używa podobnych terminów. To jest drugi Koryntian pierwszy rozdział 212 wiersz, które rzucają pewne światło czy pomagają nam troszeczkę zbliżyć się do do tego, o czym tu jest mowa. Paweł mówi: "Tym zaś, który utwierdza, utwierdza nas wraz z wami w Chrystusie i który nas namaścił jest Bóg. (01:34) On też wycisnął na nas pieczęć i dał zadatek ducha do naszych serc. Jan napisał, że otrzymaliśmy namaszczenie od świętego. Paweł mówi, że namaścił nas Bóg. Czyli rozumiemy, że mowa jest o tej samej osobie, tym który nas namaścił jest święty Bóg. Jan używa termin święty, Paweł używa słowa Bóg. Zauważcie, że ani Jan, ani Paweł nie identyfikują bezpośrednio tego namaszczenia. (02:29) Nie ma tutaj jednoznacznej identyfikacji tego namaszczenia. Jednak fakt, że to namaszczenie uczy chrześcijan, wskazuje na osobowy charakter tego namaszczenia. Jan mówi, że to namaszczenie naucza nas, to namaszczenie poucza nas, uczy nas. W różnych tłumaczeniach znajdziecie te słowa. Więc widzimy, że Bóg, święty Bóg jest tym, który namaszcza, udziela tego namaszczenia i to namaszczenie ma osobowy charakter, który nas poucza. (03:07) W Ewangelii Jana w 14 rozdziale i 26 wierszu Pan Jezus mówi o Duchu Świętym jako naszym nauczycielu. Nauczycielu w tamtym kontekście jego wypowiedzi, jego uczniów. Jezus powiedział Ewangelia Jana 14:26 lecz i tutaj macie różne tłumaczenia. pocieszyciel, opiekun, Duch Święty, słowo parakletos greckie, które ma rzeczywiście charakter takiego adwokata, opiekuna, pocieszyciela. (03:44) Duch Święty, którego Ojciec pośle w moim imieniu, Jezus mówi, on nauczy was wszystkiego. Więc to dobrze współdziała. To to przypomina nam to, co Jan mówi, że to namaszczenie uczy was wszystkiego. I tutaj Jan Jezus mówi, on Duch Święty nauczy was wszystkiego i przypomni wam wszystko, co ja wam powiedziałem. Yyy w pierwszym liście Jana w czwartym rozdziale i 13 wierszu Jan odnosi się do Ducha Świętego, mówiąc: "Po tym poznajemy, że trwamy w nim. (04:41) mówi o Chrystusie, a on w nas, że udzielił nam ze swojego ducha. A więc tutaj też Jan odnosi się do Ducha Świętego w tym kontekście trwania w Jezusie i trwania Jezusa w nas. A więc zbierając to, Jan zapewnia swoich uczniów, że Bóg udzielił im swojego namaszczenia. I w kontekście tego namaszczenia widzimy osobę jego ducha, bożego ducha, świętego ducha. (05:17) Więc bardzo możliwe, że w obu tych miejscach mówi o tym samym i większość chrześcijan w ten sposób tak to rozumie, chociaż inni dopatrują się w tym namaszczeniu jakiegoś duchowego zrozumienia, pierwotnej nauki o Chrystusie i Ewangelii, czy też namaszczenia do powszechnego kapłaństwa. To są już daleko idące wnioski, szczególnie ten ostatni. (05:44)
 
 O tacie i pewnosci katolikow, moze swiadkow
 
-[[Ostatnie polecenia dla 11]]
+Czy w Slowie jest napisane, ze doswiadczenie nadprzyrodzone to gwarant obecnosci Ducha Swietego? A jak mialem ale przed nawroceniem medytujac, chocby aniol swietlisty.
 
 1 Koryntian 3:16
 „Czy nie wiecie, że jesteście świątynią Boga i że Duch Boży mieszka w was?”
