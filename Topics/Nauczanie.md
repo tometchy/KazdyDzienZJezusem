@@ -188,6 +188,9 @@ TNP:
 
 [[1 List Jana 5,19]]
 
+- Nawiązanie do Łukasza 10 lat młodszego, gdy ja miałem 11 lat, zaczynałem swoje poważne nałogi
+- Ostatni tydzień był dla mnie bardzo trudny i stresujący, chwala Panu nie wróciły stare schematy, nawet nie było zmagania
+
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
 [[2 List do Koryntian 5,17]]
 
