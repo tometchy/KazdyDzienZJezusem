@@ -303,8 +303,9 @@ TNP:
 
 [[1 List Jana 4,21]]
 
-- Przychodzenie do zboru
-- Bracia na poście
+- Przychodzenie do zboru, spotykanei się braćmi i siostrami, to dla mnie radość raość
+- Bracia na poście, niektórych pierwszy raz widzę, a czuję się, jakbym spotykał rodzinę, którą znam od zawsze
+- Mam więc pokój w tym temacie
 - Deszcz czy słońce, miło znów zobaczyć się, z bajki Witaj Franklin, kto był na ostatnim piątkowym zgromadzeniu wie dlaczego akurat ta mi się skojarzyła
 
 ## Po owocu poznaje się drzewo
@@ -324,7 +325,7 @@ TNP:
 - karpos (owos), mianownik w liczbie pojedynczej
 - esti (jest), 3. osoba liczby pojedynczej czasu teraźniejszego
 
-- mam pokój, że można zapytać o te cechy, związane z owocem Ducha, moją żonę, bliskich, czy współpracowników
+- mam pokój, że można zapytać o te cechy, związane z owocem Ducha, moją żonę, moich bliskich, czy moich współpracowników
 - oczywiście jak każdy, czasem mam upadki
 - ale jest mi po nich przykro i wstyd
 - ale mam pokój, że nie jest to moja codzienność
