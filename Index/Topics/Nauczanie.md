@@ -247,6 +247,15 @@ TNP:
 - Doświadczenie przed nawróceniem w trakcie medytacji
 - Wspaniale mieć szczególne doświadczenie od Boga, ale uważam, że na pewno warto badać, że było ono rzeczywiście od Boga
 
+## Mówienie językami
+- Nieraz sobie myślałem, a gdybym tak miał dar mówienia językami, to wtedy po tym bym wiedział
+- Nie znajduję w Biblii fragmentu, że każde dziecko Boże ma ten dar
+- Faktem jest, że każdy, któr mówi językami mówi tak z jednego z trzech powodów
+- a) Albo ma to od Ducha Świętego - Chwała Panu
+- b) Albo wymyśla różne dźwięki, albo słowa w obcych językach i może nawet sam siebie próbuje oszukiwać - znam ze słyszenia różne takie przypadki
+- c) Albo ma to ducha nieczystego... Wiemy, że różne złe grupy maja takie rzeczy. Ostatnio na poście brat powiedział tez przykład, który mnie bardzo zatrwożył.
+- W konsekwencji doszedłem do wniosku, że nawet jakbym miał tai dar, to samo w sobie jeszcze by nie zatrzymało mojej dociekliwości, tylko kontynuował bym badanie
+
 ## Życie w grzechu
 [[1 List Jana 1,5]]
 > Przesłanie zaś, które słyszeliśmy od niego i wam zwiastujemy, jest takie: Bóg jest światłością i nie ma w nim żadnej ciemności.
@@ -417,120 +426,6 @@ TNP:
 - Jak to rozumieć?
 - O katolickiej rodzinie, o pewnosci katolikow, moze swiadkow, a nawet mnie samego... przed nawróceniem
 
-
-Rzymian 8:16
-„Sam Duch świadczy wraz z naszym duchem, że jesteśmy dziećmi Bożymi.”
-
-Galacjan 5:22–23
-„Owocem zaś Ducha jest: miłość, radość, pokój, cierpliwość, uprzejmość, dobroć, wierność, łagodność, opanowanie.”
-
-1 Koryntian 6:19
-„Czy nie wiecie, że wasze ciało jest świątynią Ducha Świętego, który jest w was…?”
-
-Rzymian 8:14
-„Bo wszyscy, których prowadzi Duch Boży, są synami Bożymi.”
-
-Zestawiając te fragmenty:
-
-Duch Święty mieszka w człowieku (1 Kor 3:16)
-należy on do Boga, jeśli ma Ducha (Rz 8:9)
-Duch jest dany tym, którzy są posłuszni (Dz 5:32)
-daje wewnętrzne świadectwo (Rz 8:16)
-widać Jego działanie przez owoce (Ga 5:22–23)
-i przez prowadzenie życia (Rz 8:14)
-
-1 Koryntian 3:16
-„Czy nie wiecie, że jesteście świątynią Boga i że Duch Boży mieszka w was?”
-Rzymian 8:9
-„Jeśli zaś ktoś nie ma Ducha Chrystusowego, ten do Niego nie należy.”
-Dzieje Apostolskie 5:32
-„Ducha Świętego, którego Bóg dał tym, którzy są Mu posłuszni.”
-Rzymian 8:16
-„Sam Duch świadczy wraz z naszym duchem, że jesteśmy dziećmi Bożymi.”
-Galacjan 5:22–23
-„Owocem zaś Ducha jest: miłość, radość, pokój, cierpliwość, uprzejmość, dobroć, wierność, łagodność, opanowanie.”
-1 Koryntian 6:19
-„Czy nie wiecie, że wasze ciało jest świątynią Ducha Świętego, który jest w was…?”
-Rzymian 8:14
-„Bo wszyscy, których prowadzi Duch Boży, są synami Bożymi.”
-
-### 1. Wiara w Chrystusa i wyznawanie Go jako Pana
-
-> „Nikt też nie może powiedzieć bez pomocy Ducha Świętego: Jezus jest Panem.” (1 Kor 12:3)
-
-Samo deklarowanie słowami nie wystarcza, ale prawdziwa wiara w Jezusa jest przedstawiana jako rezultat działania Ducha.
-
-### 2. Owoc Ducha
-
-Najbardziej znany fragment:
-
-> „Owocem zaś ducha jest: miłość, radość, pokój, cierpliwość, życzliwość, dobroć, wiara, łagodność, panowanie nad sobą.” (Gal 5:22-23)
-
-Obecność tych cech w życiu człowieka jest jednym z głównych dowodów działania Ducha Świętego.
-
-### 3. Walka z grzechem i prowadzenie przez Ducha
-
-> „Bo wszyscy, których prowadzi duch Boży, są synami Bożymi.” (Rz 8:14)
-
-> „Jeśli zaś duchem uśmiercacie praktyki ciała, będziecie żyć.” (Rz 8:13)
-
-Nie chodzi o bezgrzeszność, lecz o to, że człowiek nie chce żyć w grzechu i podejmuje z nim walkę.
-
-### 4. Miłość do innych chrześcijan
-
-> „My wiemy, że przeszliśmy ze śmierci do życia, ponieważ miłujemy braci.” (1 J 3:14)
-
-Miłość do współwyznawców jest przedstawiona jako znak nowego życia od Boga.
-
-### 5. Posłuszeństwo przykazaniom Boga
-
-> „Po tym poznajemy, że go znamy, jeśli zachowujemy jego przykazania.” (1 J 2:3)
-
-> „Po tym poznajemy, że w nim mieszkamy, a on w nas: z ducha, którego nam dał.” (1 J 4:13)
-
-Duch Święty prowadzi do posłuszeństwa Bogu, a nie do lekceważenia Jego woli.
-
-### 6. Wewnętrzne świadectwo synostwa Bożego
-
-> „Sam duch świadczy wraz z naszym duchem, że jesteśmy dziećmi Bożymi.” (Rz 8:16)
-
-To bardziej wewnętrzne przekonanie i relacja z Bogiem niż zewnętrzny znak.
-
-### 7. Modlitwa zgodna z wolą Bożą
-
-> „Duch przychodzi z pomocą naszej słabości (...) sam duch wstawia się za nami.” (Rz 8:26)
-
-Człowiek kierowany przez Ducha zwraca się do Boga i rozwija z Nim relację.
-
----
-
-### Fragmenty mówiące wprost o „świątyni Ducha Świętego”
-
-> „Czy nie wiecie, że jesteście świątynią Boga i że duch Boży mieszka w was?” (1 Kor 3:16)
-
-> „Czy nie wiecie, że wasze ciało jest świątynią ducha świętego, który jest w was i którego macie od Boga?” (1 Kor 6:19)
-
-> „Jeśli ktoś nie ma ducha Chrystusowego, ten do niego nie należy.” (Rz 8:9)
-
----
-
-### Podsumowanie
-
-Według Nowego Testamentu głównymi oznakami obecności Ducha Świętego są:
-
-1. Wiara w Jezusa jako Pana.
-
-2. Owoc Ducha (miłość, pokój, panowanie nad sobą itd.).
-
-3. Walka z grzechem i dążenie do świętości.
-
-4. Miłość do współwyznawców.
-
-5. Posłuszeństwo Bogu.
-
-6. Wewnętrzne świadectwo bycia dzieckiem Bożym.
-
-7. Modlitwa i życie duchowe.
 
 
 Co ciekawe, Biblia **nie wskazuje darów nadzwyczajnych** (języki, proroctwa, uzdrowienia) jako uniwersalnego dowodu, że ktoś jest świątynią Ducha Świętego. Natomiast owoc Ducha jest przedstawiany jako cecha, której powinno się oczekiwać u wszystkich chrześcijan.
