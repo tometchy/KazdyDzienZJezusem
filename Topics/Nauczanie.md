@@ -50,7 +50,11 @@
 #### W zborze
 [[List do Rzymian 15,14]]
 
+---
+
 [[List do Kolosan 3,16]]
+
+---
 
 [[List do Hebrajczyków 10,24]]
 
@@ -62,21 +66,31 @@
 ### Rola nauczyciela, tylko powołani, nigdy kobiety
 [[List Jakuba 3,1]]
 
+---
+
 [[1 List do Koryntian 12,28]]
 
 [[1 List do Koryntian 12,29]]
 
 [[1 List do Koryntian 12,30]]
 
+---
+
 [[List do Efezjan 4,10]]
 
 [[List do Efezjan 4,11]]
 
+---
+
 [[Dzieje Apostolskie 13,1]]
+
+---
 
 [[1 List do Koryntian 14,34]]
 
 [[1 List do Koryntian 14,35]]
+
+---
 
 [[1 List do Tymoteusza 2,11]]
 
@@ -99,15 +113,21 @@
 
 [[List Jakuba 3,11]]
 
+---
+
 [[1 List do Koryntian 13,8]]
 
 [[1 List do Koryntian 13,9]]
 
 [[1 List do Koryntian 13,10]]
 
+---
+
 1 Księga Samuela 16,6-7
 > A gdy przyszli, ujrzał Eliaba i powiedział: Na pewno stoi przed PANEM jego pomazaniec.
 > Lecz PAN powiedział do Samuela: Nie patrz na jego urodę ani na jego wysoki wzrost, gdyż go odrzuciłem. PAN bowiem nie patrzy na to, na co patrzy człowiek, bo człowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce.
+
+---
 
 [[Dzieje Apostolskie 18,24]]
 
@@ -122,6 +142,8 @@
 [[Dzieje Apostolskie 17,2]]
 
 [[Dzieje Apostolskie 17,3]]
+
+---
 
 [[Dzieje Apostolskie 17,10]]
 
@@ -139,6 +161,8 @@ TNP:
 - Te fragmenty uważam dotyczą każdego, każdy zda sprawę, ale w szczególnie surowy sposób nauczyciele
 
 [[List Jakuba 3,10]]
+
+---
 
 [[Ewangelia Mateusza 12,34]]
 

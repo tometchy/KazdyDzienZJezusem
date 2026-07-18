@@ -56,8 +56,12 @@
 [[List do Rzymian 15,14]]
 > A też ja sam jestem pewien co do was, moi bracia, że i wy sami jesteście pełni dobroci, napełnieni wszelkim poznaniem i możecie jedni drugich napominać.
 
+---
+
 [[List do Kolosan 3,16]]
 > Słowo Chrystusa niech mieszka w was obficie ze wszelką mądrością, nauczajcie i napominajcie się wzajemnie przez psalmy, hymny i pieśni duchowe, z wdzięcznością śpiewając w waszych sercach Panu.
+
+---
 
 [[List do Hebrajczyków 10,24]]
 > I okazujmy staranie jedni o drugich, by pobudzać się do miłości i dobrych uczynków;
@@ -73,6 +77,8 @@
 [[List Jakuba 3,1]]
 > Niech niewielu z was zostaje nauczycielami, moi bracia, gdyż wiecie, że czeka nas surowszy sąd.
 
+---
+
 [[1 List do Koryntian 12,28]]
 > A Bóg ustanowił niektórych w kościele najpierw jako apostołów, potem proroków, po trzecie nauczycieli, potem cudotwórców, potem dary uzdrawiania, niesienia pomocy, rządzenia, różne języki.
 
@@ -82,20 +88,28 @@
 [[1 List do Koryntian 12,30]]
 > Czy wszyscy mają dary uzdrawiania? Czy wszyscy mówią językami? Czy wszyscy tłumaczą?
 
+---
+
 [[List do Efezjan 4,10]]
 > Ten, który zstąpił, jest i tym, który wstąpił wysoko ponad wszystkie niebiosa, aby napełnić wszystko.
 
 [[List do Efezjan 4,11]]
 > I on ustanowił jednych apostołami, drugich prorokami, innych ewangelistami, a jeszcze innych pasterzami i nauczycielami;
 
+---
+
 [[Dzieje Apostolskie 13,1]]
 > A w kościele w Antiochii byli pewni prorocy i nauczyciele: Barnaba, Szymon, zwany Nigrem, Lucjusz Cyrenejczyk i Manaen, który wychowywał się z tetrarchą Herodem, i Saul.
+
+---
 
 [[1 List do Koryntian 14,34]]
 > Niech wasze kobiety milczą w kościołach. Bo nie pozwala się im mówić, ale mają być poddane, jak też prawo mówi.
 
 [[1 List do Koryntian 14,35]]
 > A jeśli chcą się czegoś nauczyć, niech w domu pytają swoich mężów. Hańbą bowiem jest dla kobiety mówić w kościele.
+
+---
 
 [[1 List do Tymoteusza 2,11]]
 > Kobieta niech się uczy w cichości, w pełnej uległości.
@@ -125,6 +139,8 @@
 [[List Jakuba 3,11]]
 > Czy źródło z tej samej szczeliny tryska wodą słodką i gorzką?
 
+---
+
 [[1 List do Koryntian 13,8]]
 > Miłość nigdy nie ustaje. Bo choć są proroctwa, przeminą; choć języki, ustaną; choć wiedza, obróci się wniwecz.
 
@@ -134,9 +150,13 @@
 [[1 List do Koryntian 13,10]]
 > Ale gdy przyjdzie to, co doskonałe, wtedy przeminie to, co jest cząstkowe.
 
+---
+
 1 Księga Samuela 16,6-7
 > A gdy przyszli, ujrzał Eliaba i powiedział: Na pewno stoi przed PANEM jego pomazaniec.
 > Lecz PAN powiedział do Samuela: Nie patrz na jego urodę ani na jego wysoki wzrost, gdyż go odrzuciłem. PAN bowiem nie patrzy na to, na co patrzy człowiek, bo człowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce.
+
+---
 
 [[Dzieje Apostolskie 18,24]]
 > A do Efezu przybył pewien Żyd, imieniem Apollos, rodem z Aleksandrii, człowiek wymowny i biegły w Piśmie.
@@ -158,6 +178,8 @@
 [[Dzieje Apostolskie 17,3]]
 > Wyjaśniając i nauczając, że Chrystus musiał cierpieć i powstać z martwych oraz: Ten Jezus, którego wam głoszę, jest Chrystusem.
 
+---
+
 [[Dzieje Apostolskie 17,10]]
 > Zaraz w nocy bracia wysłali Pawła i Sylasa do Berei. Kiedy tam przybyli, weszli do synagogi żydowskiej.
 
@@ -178,6 +200,8 @@ TNP:
 
 [[List Jakuba 3,10]]
 > Z tych samych ust wychodzi błogosławieństwo i przekleństwo. Tak być nie powinno, moi bracia.
+
+---
 
 [[Ewangelia Mateusza 12,34]]
 > Plemię żmijowe! Jakże możecie mówić dobre rzeczy, będąc złymi? Gdyż z obfitości serca mówią usta.
