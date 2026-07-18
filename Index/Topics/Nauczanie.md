@@ -376,6 +376,9 @@ TNP:
 [[Ewangelia Mateusza 12,33]]
 > Sprawcie, aby drzewo było dobre i jego owoc dobry, albo sprawcie, aby drzewo było złe i jego owoc zły. Po owocu bowiem poznaje się drzewo.
 
+[[Ewangelia Mateusza 12,34]]
+> Plemię żmijowe! Jakże możecie mówić dobre rzeczy, będąc złymi? Gdyż z obfitości serca mówią usta.
+
 ### Kto pamięta ile owoców Ducha Świętego jest wymienionych w Liście do Galacjan
 - Sprawdźmy razem
 

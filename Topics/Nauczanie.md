@@ -298,6 +298,8 @@ TNP:
 ## Po owocu poznaje się drzewo
 [[Ewangelia Mateusza 12,33]]
 
+[[Ewangelia Mateusza 12,34]]
+
 ### Kto pamięta ile owoców Ducha Świętego jest wymienionych w Liście do Galacjan
 - Sprawdźmy razem
 
