@@ -291,6 +291,18 @@ TNP:
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
 ## Kochanie braci
+
+[[1 List Jana 2,9]]
+> Kto mówi, że jest w światłości, a nienawidzi swego brata, dotąd jeszcze jest w ciemności.
+
+[[1 List Jana 2,10]]
+> Kto miłuje swego brata, trwa w światłości i nie ma w nim powodu do upadku.
+
+[[1 List Jana 2,11]]
+> Lecz kto nienawidzi swego brata, jest w ciemności i chodzi w ciemności, i nie wie, dokąd idzie, bo ciemność zaślepiła jego oczy.
+
+---
+
 [[1 List Jana 3,10]]
 > Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata.
 

@@ -228,6 +228,15 @@ TNP:
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
 ## Kochanie braci
+
+[[1 List Jana 2,9]]
+
+[[1 List Jana 2,10]]
+
+[[1 List Jana 2,11]]
+
+---
+
 [[1 List Jana 3,10]]
 
 4:20
