@@ -164,6 +164,16 @@ TNP:
 - Gdy na ten temat wyjdzie nauczać brat, który go zgłębia od 30 lat, siłą rzeczy omówi go lepiej
 - Ja skupię się na fragmentach, które mnie w trakcie moich dociekań szczególnie zastanowiły
 
+
+
+## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
+FRAGMENTY
+
+- przykład ze świadectwa brata Pawła Jurkowskiego
+- przykład jak się na nowo przedstawiłem przyjaciółce
+
+--- 
+
 Rz 12,7
 
 RZ 15,14;17
