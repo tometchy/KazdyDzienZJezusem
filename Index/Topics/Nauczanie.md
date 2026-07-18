@@ -237,12 +237,15 @@ TNP:
 [[Ewangelia Jana 3,3]]
 > Odpowiedział mu Jezus: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi na nowo, nie może ujrzeć królestwa Bożego.
 
+---
+
 ### Nie jestem w stanie, ani nawet nie będę próbował, tego tematu dzisiaj omówić kompleksowo
 - Gdy na ten temat wyjdzie nauczać brat, który go zgłębia od 30 lat, siłą rzeczy omówi go lepiej
 - Ja zatrzymam się pokrótce na fragmentach, które mnie w trakcie moich dociekań szczególnie zastanowiły
 
 ## Szczególne doświadczenie, konkretna data
 - Doświadczenie przed nawróceniem w trakcie medytacji
+- Wspaniale mieć szczególne doświadczenie od Boga, ale uważam, że na pewno warto badać, że było ono rzeczywiście od Boga
 
 ## Życie w grzechu
 [[1 List Jana 1,5]]
@@ -394,31 +397,26 @@ TNP:
 - karpos (owos), mianownik w liczbie pojedynczej
 - esti (jest), 3. osoba liczby pojedynczej czasu teraźniejszego
 
---- 
+- mam pokój, że można zapytać o te cechy, związane z owocem Ducha, moją żonę, bliskich, czy współpracowników
+- oczywiście jak każdy, czasem mam upadki
+- ale jest mi po nich przykro i wstyd
+- ale mam pokój, że nie jest to moja codzienność
 
-### Co mówi mi Duch
+#### Bracie, siostro, zachęcam do badania swojego serca i proszenia Boga o mądrość i prowadzenie
+
+### Ostatnia kwestia, która najdłużej mi nie dawała spokoju, to jeden, konkretny fragment
 [[List do Rzymian 8,15]]
 > Gdyż nie otrzymaliście ducha niewoli, aby znowu się bać, ale otrzymaliście Ducha usynowienia, przez którego wołamy: Abba, Ojcze!
 
 [[List do Rzymian 8,16]]
 > Ten to Duch poświadcza naszemu duchowi, że jesteśmy dziećmi Bożymi.
 
-Kor 4,15, Ga 3,24
+TNP:
+> Ten do Duch współświadczy z naszym duchem, że jesteśmy dziećmi Boga.
 
+- Jak to rozumieć?
+- O katolickiej rodzinie, o pewnosci katolikow, moze swiadkow, a nawet mnie samego... przed nawróceniem
 
-
-O tacie i pewnosci katolikow, moze swiadkow
-
-Czy w Slowie jest napisane, ze doswiadczenie nadprzyrodzone to gwarant obecnosci Ducha Swietego? A jak mialem ale przed nawroceniem medytujac, chocby aniol swietlisty.
-
-1 Koryntian 3:16
-„Czy nie wiecie, że jesteście świątynią Boga i że Duch Boży mieszka w was?”
-
-Rzymian 8:9
-„Jeśli zaś ktoś nie ma Ducha Chrystusowego, ten do Niego nie należy.”
-
-Dzieje Apostolskie 5:32
-„Ducha Świętego, którego Bóg dał tym, którzy są Mu posłuszni.”
 
 Rzymian 8:16
 „Sam Duch świadczy wraz z naszym duchem, że jesteśmy dziećmi Bożymi.”
@@ -611,6 +609,11 @@ Najwięcej praktycznych „testów” nowonarodzenia znajdziesz w Pierwszy List 
 > Kto więc umie dobrze czynić, a nie czyni, popełnia grzech.
 
 - Rozmowa z Karolem o Duchu Bożym Współświadczącym mojemu Duchowi, pokój który otrzymałem
+- Są dwa tylko dwie grupy, zbawieni i nie zbawieni
+- Wąska droga i szeroka droga
+- Czy ja jestem na szerokiej drodze ?! Po tym wszystkim co mi Pan powiedział, uczynił, przeprowadził?
+- Nie, czuję w duchu, że tamta droga oddaliła się ode mnie, oddaliło się ode mnie stare życie
+- Mam nowe życie od Pana. Pan jest moim Ojcem, opiekuje się mną.
 
 ### Czy to znaczy, że będę teraz regulanie stawał na tym miejscu?
 - To tylko Pan wie
