@@ -71,9 +71,9 @@
 
 [[Dzieje Apostolskie 13,1]]
 
-[[1 Kor 14,34]]
+[[1 List do Koryntian 14,34]]
 
-[[1 Kor 14,35]]
+[[1 List do Koryntian 14,35]]
 
 ## O co chodzi z tym surowszym sądem/wyrokiem
 - Nie jest to szczegółowo wytłumaczone, ale jest pewna bardzo istotna informacja
@@ -92,11 +92,11 @@
 
 [[List Jakuba 3,11]]
 
-[[1 Kor 13,8]]
+[[1 List do Koryntian 13,8]]
 
-[[1 Kor 13,9]]
+[[1 List do Koryntian 13,9]]
 
-[[1 Kor 13,10]]
+[[1 List do Koryntian 13,10]]
 
 [[Dzieje Apostolskie 18,24]]
 

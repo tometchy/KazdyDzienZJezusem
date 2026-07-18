@@ -1,5 +1,5 @@
-﻿## Tydzień temu w sobotę było nasze zgromadzenia
-- Tego nasi kochani Ernest, Anitka i Eryk wracali z wczasów
+## Tydzień temu w sobotę było nasze zgromadzenia
+- Tego dnia nasi kochani Ernest, Anitka i Eryk wracali z wczasów
 - Pan ich trochę przycisnął
 - Klucz, którego potrzebowali, znajdował się na zgromadzeniu kościoła
 - Nawiązuję do tego, ponieważ tego dnia, Pan mnie również przycisnął, ale żeby opowiedzieć jak dokładnie, muszę najpierw się trochę cofnąć w czasie
@@ -34,56 +34,112 @@
 > 5. A gdy to zrobisz, podążaj za Opatrznością tak dalece, jak zgadza się ona ze Słowem i ani kroku dalej. Taki też jest punkt widzenia opisany przez psalmistę. Zaufaj Panu i czyń dobrze. Rozkoszuj się Panem, a da Ci czego życzy sobie serce Twoje. Powierz Panu drogę swoją, zaufaj Mu, a On wszystko dobrze uczyni. Zdaj się w milczeniu na Pana i złóż w nim nadzieję.
 
 ## Jestem młody, czy to jest przeszkodą
+- Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
+- Na poście braterskim specjalnie mnie złapał młody brat i zapytał
+
 [[1 List do Tymoteusza 4,12]]
 > Niech nikt nie lekceważy twego młodego wieku; lecz bądź dla wierzących przykładem w mowie, w postępowaniu, w miłości, w duchu, w wierze, w czystości.
 
-- Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
-- Na poście braterskim specjalnie mnie złapał młody brat i zapytał
+- Podobno wiek Pana Jezusa, Jana Chrzciciela
 
 ## Krótko chodzę z Panem, czy to jest przeszkodą
 
 [[Dzieje Apostolskie 9,20]]
 > I zaraz w synagogach zaczął głosić Chrystusa, że on jest Synem Bożym.
 
-- Podobno wiek Pana Jezusa, Jana Chrzciciela
-
 ## Ogólnie spojrzałem na temat nauczania i podział na nauczanie przez każdego i rolę nauczyciela
 
-1 List do Koryntian 12,28:
-> I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie **nauczycieli**, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków.
+### Pouczać się wzajemnie ma każdy nawet kobiety
 
-List do Efezjan 4,10-11:
-> Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko. I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i **nauczycieli**,
+#### W zborze
+[[List do Kolosan 3,16]]
+> Słowo Chrystusa niech mieszka w was obficie ze wszelką mądrością, nauczajcie i napominajcie się wzajemnie przez psalmy, hymny i pieśni duchowe, z wdzięcznością śpiewając w waszych sercach Panu.
 
-Dzieje Apostolskie 13,1
-> A byli w Antiochii, w zborze, który tam był, pewni prorocy i **nauczyciele** jak: Barnaba i Symeon, zwany Niger, i Lucjusz Cyrenejczyk, i Manaen, który był też wychowany z Herodem tetrarchą, i Saul.
+[[List do Hebrajczyków 10,24]]
+> I okazujmy staranie jedni o drugich, by pobudzać się do miłości i dobrych uczynków;
 
-### Każdy nawet kobiety
+[[List do Hebrajczyków 10,25]]
+> Nie opuszczając naszego wspólnego zgromadzenia, jak to niektórzy mają w zwyczaju, ale zachęcając się nawzajem , i to tym bardziej , im bardziej widzicie, że zbliża się ten dzień.
+
+#### Nawet poza zborem
+[[1 List Piotra 3,15]]
+> Lecz Pana Boga uświęcajcie w waszych sercach i bądźcie zawsze gotowi udzielić odpowiedzi każdemu, kto domaga się od was uzasadnienia waszej nadziei, z łagodnością i bojaźnią.
 
 ### Rola nauczyciela, tylko powołani, nigdy kobiety
+[[List Jakuba 3,1]]
+> Niech niewielu z was zostaje nauczycielami, moi bracia, gdyż wiecie, że czeka nas surowszy sąd.
 
-## O co chodzi z ty surowszym sądem/wyrokiem
+[[1 List do Koryntian 12,28]]
+> A Bóg ustanowił niektórych w kościele najpierw jako apostołów, potem proroków, po trzecie nauczycieli, potem cudotwórców, potem dary uzdrawiania, niesienia pomocy, rządzenia, różne języki.
+
+[[1 List do Koryntian 12,29]]
+> Czy wszyscy są apostołami? Czy wszyscy prorokami? Czy wszyscy nauczycielami? Czy wszyscy cudotwórcami?
+
+[[1 List do Koryntian 12,30]]
+> Czy wszyscy mają dary uzdrawiania? Czy wszyscy mówią językami? Czy wszyscy tłumaczą?
+
+[[List do Efezjan 4,10]]
+> Ten, który zstąpił, jest i tym, który wstąpił wysoko ponad wszystkie niebiosa, aby napełnić wszystko.
+
+[[List do Efezjan 4,11]]
+> I on ustanowił jednych apostołami, drugich prorokami, innych ewangelistami, a jeszcze innych pasterzami i nauczycielami;
+
+[[Dzieje Apostolskie 13,1]]
+> A w kościele w Antiochii byli pewni prorocy i nauczyciele: Barnaba, Szymon, zwany Nigrem, Lucjusz Cyrenejczyk i Manaen, który wychowywał się z tetrarchą Herodem, i Saul.
+
+[[1 List do Koryntian 14,34]]
+> Niech wasze kobiety milczą w kościołach. Bo nie pozwala się im mówić, ale mają być poddane, jak też prawo mówi.
+
+[[1 List do Koryntian 14,35]]
+> A jeśli chcą się czegoś nauczyć, niech w domu pytają swoich mężów. Hańbą bowiem jest dla kobiety mówić w kościele.
+
+## O co chodzi z tym surowszym sądem/wyrokiem
 - Nie jest to szczegółowo wytłumaczone, ale jest pewna bardzo istotna informacja
 - Donald Doss, adwentysta z filmu Przełęcz Ocalonych
 - Andrzej Gołota
-- 
----
 
-(1 Kor 13:8,9,10)
+[[List Jakuba 3,1]]
+> Niech niewielu z was zostaje nauczycielami, moi bracia, gdyż wiecie, że czeka nas surowszy sąd.
 
-Apollos był:
-„człowiekiem wymownym i biegłym w Pismach”
-(Dz 18:24)
-„znał tylko chrzest Jana”
-(Dz 18:25)
-Czyli nauczał rzeczy prawdziwych, ale niepełnych. Pryscylla i Akwila musieli:
-„wyłożyć mu dokładniej drogę Bożą.”
-(Dz 18:26)
+[[List Jakuba 3,2]]
+> Wszyscy bowiem w wielu sprawach upadamy. Jeśli ktoś nie upada w mowie, jest człowiekiem doskonałym, który też może utrzymać na wodzy całe ciało.
 
-1 Sm 16:6–7
-Samuel uważa, że Eliab na pewno jest wybrańcem Boga.
+## Czy to znaczy, że nauczycielowi nie wolno się pomylić
 
+[[List Jakuba 3,9]]
+> Nim błogosławimy Boga i Ojca i nim przeklinamy ludzi stworzonych na podobieństwo Boga.
 
+[[List Jakuba 3,10]]
+> Z tych samych ust wychodzi błogosławieństwo i przekleństwo. Tak być nie powinno, moi bracia.
+
+[[List Jakuba 3,11]]
+> Czy źródło z tej samej szczeliny tryska wodą słodką i gorzką?
+
+[[1 List do Koryntian 13,8]]
+> Miłość nigdy nie ustaje. Bo choć są proroctwa, przeminą; choć języki, ustaną; choć wiedza, obróci się wniwecz.
+
+[[1 List do Koryntian 13,9]]
+> Po części bowiem poznajemy i po części prorokujemy.
+
+[[1 List do Koryntian 13,10]]
+> Ale gdy przyjdzie to, co doskonałe, wtedy przeminie to, co jest cząstkowe.
+
+[[Dzieje Apostolskie 18,24]]
+> A do Efezu przybył pewien Żyd, imieniem Apollos, rodem z Aleksandrii, człowiek wymowny i biegły w Piśmie.
+
+[[Dzieje Apostolskie 18,25]]
+> Był on obeznany z drogą Pana, a pałając duchem, mówił i nauczał starannie o Panu, wiedząc tylko o chrzcie Jana.
+
+[[Dzieje Apostolskie 18,26]]
+> Zaczął on odważnie mówić w synagodze. Gdy go usłyszeli Akwila i Pryscylla, przyjęli go do siebie i dokładniej wytłumaczyli drogę Boga.
+
+### Każdego rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
+
+1 Księga Samuela 16,6-7
+> A gdy przyszli, ujrzał Eliaba i powiedział: Na pewno stoi przed PANEM jego pomazaniec.
+> Lecz PAN powiedział do Samuela: Nie patrz na jego urodę ani na jego wysoki wzrost, gdyż go odrzuciłem. PAN bowiem nie patrzy na to, na co patrzy człowiek, bo człowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce.
+
+## Ja to rozumiem, że to oznacza szczególne branie odpowiedzialności za to co się mówi
 
 
 
@@ -322,4 +378,3 @@ W rozmowie Jezusa z Nikodem o nowonarodzeniu (J 3) nie ma pytania: „Czy pamię
 Dlatego biblijne pytanie brzmi mniej: **„Czy miałem kiedyś odpowiednie doświadczenie?”**, a bardziej: **„Czy dziś widać we mnie oznaki nowego życia od Boga?”**
 
 Najwięcej praktycznych „testów” nowonarodzenia znajdziesz w Pierwszy List Jana, który został napisany właśnie po to, aby wierzący mogli rozpoznać, czy rzeczywiście mają życie wieczne (1 J 5:13).
-

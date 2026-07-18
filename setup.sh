@@ -6,20 +6,17 @@ REPO_DIR="$SCRIPT_DIR"
 
 IMAGE=ghcr.io/tometchy/kazdydzienzjezusem
 VERBOSE=0
+TOPICS_ONLY=0
 KAZDY_DZIEN_ARGS="${KAZDY_DZIEN_ARGS:-}"
-
-if [ ! -f "$REPO_DIR/.env.cloudflare" ]; then
-  echo "Missing .env.cloudflare."
-  echo "Copy .env.cloudflare.example to .env.cloudflare and paste the Cloudflare Tunnel token."
-  exit 1
-fi
-
-cp "$REPO_DIR/.env.cloudflare" "$REPO_DIR/.env"
 
 while [ "${1:-}" != "" ]; do
   case "$1" in
     -v|--verbose)
       VERBOSE=1
+      shift
+      ;;
+    --topics-only|--topics)
+      TOPICS_ONLY=1
       shift
       ;;
     --all)
@@ -38,12 +35,13 @@ while [ "${1:-}" != "" ]; do
       ;;
     --help|-h)
       cat <<'EOF'
-Usage: ./setup.sh [--all] [--vers REF [REF ...]] [-v|--verbose]
+Usage: ./setup.sh [--all] [--vers REF [REF ...]] [--topics-only] [-v|--verbose]
 
 No arguments rebuilds the image, refreshes topic content only, and starts the stack.
 --all regenerates the full New Testament.
 --vers regenerates only the listed verse references, for example:
   ./setup.sh --vers jhn3,16 rom1,1 1co13,4
+--topics-only regenerates Index/Topics from the source Topics/ directory and exits without touching Quartz or the running stack.
 EOF
       exit 0
       ;;
@@ -53,6 +51,20 @@ EOF
       ;;
   esac
 done
+
+if [ "$TOPICS_ONLY" -eq 1 ]; then
+  cd "$REPO_DIR"
+  python3 "$REPO_DIR/scripts/regenerate-topics.py"
+  exit 0
+fi
+
+if [ ! -f "$REPO_DIR/.env.cloudflare" ]; then
+  echo "Missing .env.cloudflare."
+  echo "Copy .env.cloudflare.example to .env.cloudflare and paste the Cloudflare Tunnel token."
+  exit 1
+fi
+
+cp "$REPO_DIR/.env.cloudflare" "$REPO_DIR/.env"
 
 export KAZDY_DZIEN_ARGS
 

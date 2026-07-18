@@ -24,6 +24,12 @@ Generate specific verses only:
 ./setup.sh --vers jhn3,16 1co13,4
 ```
 
+Regenerate only topic markdowns, without Quartz or stack changes:
+
+```bash
+./setup.sh --topics-only
+```
+
 Cloudflare Tunnel:
 
 1. Create a tunnel in Cloudflare Zero Trust dashboard.
