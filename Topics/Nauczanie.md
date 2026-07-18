@@ -83,7 +83,7 @@
 ## O co chodzi z tym surowszym sądem/wyrokiem
 - Nie jest to szczegółowo wytłumaczone, ale jest pewna bardzo istotna informacja
 - Donald Doss, adwentysta z filmu Przełęcz Ocalonych
-- Andrzej Gołota
+- Lekarz
 
 [[List Jakuba 3,1]]
 
