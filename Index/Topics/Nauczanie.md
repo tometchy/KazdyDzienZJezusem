@@ -255,7 +255,7 @@ TNP:
 - Faktem jest, że każdy, któr mówi językami mówi tak z jednego z trzech powodów
 - a) Albo ma to od Ducha Świętego - Chwała Panu
 - b) Albo wymyśla różne dźwięki, albo słowa w obcych językach i może nawet sam siebie próbuje oszukiwać - znam ze słyszenia różne takie przypadki
-- c) Albo ma to ducha nieczystego... Wiemy, że różne złe grupy maja takie rzeczy. Ostatnio na poście brat powiedział tez przykład, który mnie bardzo zatrwożył.
+- c) Albo ma to od ducha nieczystego... Wiemy, że różne złe grupy maja takie rzeczy. Ostatnio na poście brat powiedział tez przykład, który mnie bardzo zatrwożył.
 - W konsekwencji doszedłem do wniosku, że nawet jakbym miał tai dar, to samo w sobie jeszcze by nie zatrzymało mojej dociekliwości, tylko kontynuował bym badanie
 
 ## Życie w grzechu
