@@ -182,7 +182,7 @@ FRAGMENTY
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
 ## Kochanie braci
-- Deszcz czy słońce
+- Deszcz czy słońce, miło znów zobaczyć się
 
 ## Po owocu poznaje się drzewo
 [[Ewangelia Mateusza 12,33]]
