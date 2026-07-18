@@ -103,15 +103,15 @@
 
 [[1 List do Koryntian 13,10]]
 
+1 Księga Samuela 16,6-7
+> A gdy przyszli, ujrzał Eliaba i powiedział: Na pewno stoi przed PANEM jego pomazaniec.
+> Lecz PAN powiedział do Samuela: Nie patrz na jego urodę ani na jego wysoki wzrost, gdyż go odrzuciłem. PAN bowiem nie patrzy na to, na co patrzy człowiek, bo człowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce.
+
 [[Dzieje Apostolskie 18,24]]
 
 [[Dzieje Apostolskie 18,25]]
 
 [[Dzieje Apostolskie 18,26]]
-
-1 Księga Samuela 16,6-7
-> A gdy przyszli, ujrzał Eliaba i powiedział: Na pewno stoi przed PANEM jego pomazaniec.
-> Lecz PAN powiedział do Samuela: Nie patrz na jego urodę ani na jego wysoki wzrost, gdyż go odrzuciłem. PAN bowiem nie patrzy na to, na co patrzy człowiek, bo człowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce.
 
 ### Każdego rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
 
