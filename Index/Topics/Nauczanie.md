@@ -130,6 +130,27 @@
 [[List Jakuba 3,2]]
 > Wszyscy bowiem w wielu sprawach upadamy. Jeśli ktoś nie upada w mowie, jest człowiekiem doskonałym, który też może utrzymać na wodzy całe ciało.
 
+## Ja to rozumiem, że to oznacza szczególne branie odpowiedzialności za to co się mówi
+
+- Te fragmenty uważam dotyczą każdego, każdy zda sprawę, ale w szczególnie surowy sposób nauczyciele
+
+[[List Jakuba 3,10]]
+> Z tych samych ust wychodzi błogosławieństwo i przekleństwo. Tak być nie powinno, moi bracia.
+
+---
+
+[[Ewangelia Mateusza 12,34]]
+> Plemię żmijowe! Jakże możecie mówić dobre rzeczy, będąc złymi? Gdyż z obfitości serca mówią usta.
+
+[[Ewangelia Mateusza 12,35]]
+> Dobry człowiek wydobywa z dobrego skarbca serca dobre rzeczy , a zły człowiek wydobywa ze złego skarbca złe rzeczy .
+
+[[Ewangelia Mateusza 12,36]]
+> Ale mówię wam, że z każdego bezużytecznego słowa, które wypowiedzą ludzie, zdadzą sprawę w dzień sądu.
+
+[[Ewangelia Mateusza 12,37]]
+> Bo na podstawie twoich słów będziesz usprawiedliwiony i na podstawie twoich słów będziesz potępiony.
+
 ## Czy to znaczy, że nauczycielowi nie wolno się pomylić
 
 [[List Jakuba 3,9]]
@@ -195,27 +216,6 @@
 
 TNP:
 > Ale mądrość, która jest z góry, najpierw jest prawdziwie * czysta, następnie pokojowo usposobiona, łagodna **, dająca się przekonać ***, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna. Rz 12,9; Flp 1,11; 1P 1,22 * gr.: men - partykuła wzmacniająca; ** lub: łagodnie skłaniająca do posłuchu; *** uległa, nie uparta (nie oporna) na argumenty
-
-## Ja to rozumiem, że to oznacza szczególne branie odpowiedzialności za to co się mówi
-
-- Te fragmenty uważam dotyczą każdego, każdy zda sprawę, ale w szczególnie surowy sposób nauczyciele
-
-[[List Jakuba 3,10]]
-> Z tych samych ust wychodzi błogosławieństwo i przekleństwo. Tak być nie powinno, moi bracia.
-
----
-
-[[Ewangelia Mateusza 12,34]]
-> Plemię żmijowe! Jakże możecie mówić dobre rzeczy, będąc złymi? Gdyż z obfitości serca mówią usta.
-
-[[Ewangelia Mateusza 12,35]]
-> Dobry człowiek wydobywa z dobrego skarbca serca dobre rzeczy , a zły człowiek wydobywa ze złego skarbca złe rzeczy .
-
-[[Ewangelia Mateusza 12,36]]
-> Ale mówię wam, że z każdego bezużytecznego słowa, które wypowiedzą ludzie, zdadzą sprawę w dzień sądu.
-
-[[Ewangelia Mateusza 12,37]]
-> Bo na podstawie twoich słów będziesz usprawiedliwiony i na podstawie twoich słów będziesz potępiony.
 
 ## Po przeanalizowaniu różnych fragmentów dotyczących nauczania
 - zacząłem uznawać dotychczasowe blokady, które widziałem za niesłuszne

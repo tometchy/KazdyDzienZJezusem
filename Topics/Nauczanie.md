@@ -107,6 +107,22 @@
 
 [[List Jakuba 3,2]]
 
+## Ja to rozumiem, że to oznacza szczególne branie odpowiedzialności za to co się mówi
+
+- Te fragmenty uważam dotyczą każdego, każdy zda sprawę, ale w szczególnie surowy sposób nauczyciele
+
+[[List Jakuba 3,10]]
+
+---
+
+[[Ewangelia Mateusza 12,34]]
+
+[[Ewangelia Mateusza 12,35]]
+
+[[Ewangelia Mateusza 12,36]]
+
+[[Ewangelia Mateusza 12,37]]
+
 ## Czy to znaczy, że nauczycielowi nie wolno się pomylić
 
 [[List Jakuba 3,9]]
@@ -157,22 +173,6 @@
 
 TNP:
 > Ale mądrość, która jest z góry, najpierw jest prawdziwie * czysta, następnie pokojowo usposobiona, łagodna **, dająca się przekonać ***, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna. Rz 12,9; Flp 1,11; 1P 1,22 * gr.: men - partykuła wzmacniająca; ** lub: łagodnie skłaniająca do posłuchu; *** uległa, nie uparta (nie oporna) na argumenty
-
-## Ja to rozumiem, że to oznacza szczególne branie odpowiedzialności za to co się mówi
-
-- Te fragmenty uważam dotyczą każdego, każdy zda sprawę, ale w szczególnie surowy sposób nauczyciele
-
-[[List Jakuba 3,10]]
-
----
-
-[[Ewangelia Mateusza 12,34]]
-
-[[Ewangelia Mateusza 12,35]]
-
-[[Ewangelia Mateusza 12,36]]
-
-[[Ewangelia Mateusza 12,37]]
 
 ## Po przeanalizowaniu różnych fragmentów dotyczących nauczania
 - zacząłem uznawać dotychczasowe blokady, które widziałem za niesłuszne
