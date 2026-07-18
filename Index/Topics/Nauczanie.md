@@ -1,4 +1,4 @@
-﻿## Tydzień temu w sobotę było nasze zgromadzenia
+## Tydzień temu w sobotę było nasze zgromadzenia
 - Tego dnia nasi kochani Ernest, Anitka i Eryk wracali z wczasów
 - Pan ich trochę przycisnął
 - Klucz, którego potrzebowali, znajdował się na zgromadzeniu kościoła
@@ -220,6 +220,18 @@ TNP:
 ## Szczególne doświadczenie, konkretna data
 
 ## Życie w grzechu
+[[1 List Jana 3,6]]
+> Każdy więc , kto w nim trwa, nie grzeszy. Każdy, kto grzeszy, nie widział go ani go nie poznał.
+
+[[1 List Jana 3,7]]
+> Dzieci, niech was nikt nie zwodzi. Kto czyni sprawiedliwość, jest sprawiedliwy, tak jak i on jest sprawiedliwy.
+
+[[1 List Jana 3,8]]
+> Kto popełnia grzech, jest z diabła, gdyż diabeł od początku grzeszy. Po to objawił się Syn Boży, aby zniszczyć dzieła diabła.
+
+[[1 List Jana 3,9]]
+> Każdy, kto się narodził z Boga, nie popełnia grzechu, bo jego nasienie w nim pozostaje i nie może grzeszyć, gdyż narodził się z Boga.
+
 
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
 [[2 List do Koryntian 5,17]]
@@ -247,6 +259,9 @@ TNP:
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
 ## Kochanie braci
+[[1 List Jana 3,10]]
+> Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata.
+
 - Deszcz czy słońce, miło znów zobaczyć się
 
 ## Po owocu poznaje się drzewo
@@ -493,4 +508,3 @@ A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego br
 - To tylko Pan wie
 - Nie wiem co po dzisiaj powiedza mi bracia starsi, nie wiem co powiecie mi Wy, a przede wszystlim nie wiem co powie mi Bóg
 - Będę szedł tam gdzie mnie będzie kierował mój Pan i modlił się o mądrość, żeby nie zbaczać ani na prawo ani na lewo. AMEN
-

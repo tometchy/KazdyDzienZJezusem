@@ -176,6 +176,14 @@ TNP:
 ## Szczególne doświadczenie, konkretna data
 
 ## Życie w grzechu
+[[1 List Jana 3,6]]
+
+[[1 List Jana 3,7]]
+
+[[1 List Jana 3,8]]
+
+[[1 List Jana 3,9]]
+
 
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
 [[2 List do Koryntian 5,17]]
@@ -196,6 +204,8 @@ TNP:
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
 ## Kochanie braci
+[[1 List Jana 3,10]]
+
 - Deszcz czy słońce, miło znów zobaczyć się
 
 ## Po owocu poznaje się drzewo
