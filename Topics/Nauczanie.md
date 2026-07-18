@@ -173,6 +173,7 @@ TNP:
 - Gdy na ten temat wyjdzie nauczać brat, który go zgłębia od 30 lat, siłą rzeczy omówi go lepiej
 - Ja zatrzymam się pokrótce na fragmentach, które mnie w trakcie moich dociekań szczególnie zastanowiły
 
+## Szczególne doświadczenie, konkretna data
 
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
 FRAGMENTY
