@@ -190,6 +190,14 @@
 [[Dzieje Apostolskie 18,26]]
 > Zaczął on odważnie mówić w synagodze. Gdy go usłyszeli Akwila i Pryscylla, przyjęli go do siebie i dokładniej wytłumaczyli drogę Boga.
 
+---
+
+[[List Jakuba 3,17]]
+> Mądrość zaś, która jest z góry, jest przede wszystkim czysta, następnie pokojowo usposobiona, łagodna, ustępliwa, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna.
+
+TNP:
+> Ale mądrość, która jest z góry, najpierw jest prawdziwie * czysta, następnie pokojowo usposobiona, łagodna **, dająca się przekonać ***, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna. Rz 12,9; Flp 1,11; 1P 1,22 * gr.: men - partykuła wzmacniająca; ** lub: łagodnie skłaniająca do posłuchu; *** uległa, nie uparta (nie oporna) na argumenty
+
 ### Każdego rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
 
 [[Dzieje Apostolskie 17,1]]
@@ -208,14 +216,6 @@
 
 [[Dzieje Apostolskie 17,11]]
 > Ci byli szlachetniejsi od tych w Tesalonice, gdyż przyjęli słowo Boże z całą gotowością i codziennie badali Pisma, czy tak się sprawy mają.
-
-#### A jak tu przyjdzie Zac Poonen, powie wspaniałe kazanie, a popełni w nim jakiś błąd, to podejść porozmawiać i omówić temat
-
-[[List Jakuba 3,17]]
-> Mądrość zaś, która jest z góry, jest przede wszystkim czysta, następnie pokojowo usposobiona, łagodna, ustępliwa, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna.
-
-TNP:
-> Ale mądrość, która jest z góry, najpierw jest prawdziwie * czysta, następnie pokojowo usposobiona, łagodna **, dająca się przekonać ***, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna. Rz 12,9; Flp 1,11; 1P 1,22 * gr.: men - partykuła wzmacniająca; ** lub: łagodnie skłaniająca do posłuchu; *** uległa, nie uparta (nie oporna) na argumenty
 
 ## Po przeanalizowaniu różnych fragmentów dotyczących nauczania
 - zacząłem uznawać dotychczasowe blokady, które widziałem za niesłuszne
