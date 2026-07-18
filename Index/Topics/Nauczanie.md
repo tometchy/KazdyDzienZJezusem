@@ -302,6 +302,8 @@ TNP:
 [[2 List do Koryntian 5,18]]
 > A wszystko to jest z Boga, który nas pojednał ze sobą przez Jezusa Chrystusa i dał nam służbę pojednania.
 
+---
+
 [[List do Efezjan 4,20]]
 > Lecz wy nie tak nauczyliście się Chrystusa;
 

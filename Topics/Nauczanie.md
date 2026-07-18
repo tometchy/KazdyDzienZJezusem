@@ -243,6 +243,8 @@ TNP:
 
 [[2 List do Koryntian 5,18]]
 
+---
+
 [[List do Efezjan 4,20]]
 
 [[List do Efezjan 4,21]]
