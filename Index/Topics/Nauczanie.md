@@ -201,7 +201,7 @@ TNP:
 
 ## Na jakiej podstawie mam mieć pewność, że jestem nowo narodzony, że jestem Świątynią Ducha Świętego
 
-### Chciałbym zachęcić każdego do zadania sobie tego samego pytania
+### Chciałbym zachęcić każdego do zadania sobie tego samego pytania i szukanai uczciwie odpowiedzi
 
 ### Chociaż przestrzegam, że u mnie spowodowało to smutek trwających ładnych kilka miesięcy, dopóki nie udało mi się uczciwie przed sobą, na podstawie Słowa Bożego uznać z pokojem, że jestem
 
