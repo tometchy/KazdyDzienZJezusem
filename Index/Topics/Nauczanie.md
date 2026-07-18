@@ -397,6 +397,9 @@ TNP:
 --- 
 
 ### Co mówi mi Duch
+[[List do Rzymian 8,15]]
+> Gdyż nie otrzymaliście ducha niewoli, aby znowu się bać, ale otrzymaliście Ducha usynowienia, przez którego wołamy: Abba, Ojcze!
+
 [[List do Rzymian 8,16]]
 > Ten to Duch poświadcza naszemu duchowi, że jesteśmy dziećmi Bożymi.
 

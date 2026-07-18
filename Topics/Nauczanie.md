@@ -315,6 +315,8 @@ TNP:
 --- 
 
 ### Co mówi mi Duch
+[[List do Rzymian 8,15]]
+
 [[List do Rzymian 8,16]]
 
 Kor 4,15, Ga 3,24
