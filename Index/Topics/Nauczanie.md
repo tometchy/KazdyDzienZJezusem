@@ -435,6 +435,7 @@ TNP:
 ## Może już nie pamiętacie, ale zacząłem od tego, że tydzień temu w sobotę mnie Pan Przycisnął
 - Ostatnie nabożeństwo, posługa brata Waldka z 3 rozdzialu Listu Jakuba, fragmenty o języku, 
 - moje myśli, które popłynęły dalej niż omawiany fragment
+
 [[List Jakuba 4,17]]
 > Kto więc umie dobrze czynić, a nie czyni, popełnia grzech.
 
