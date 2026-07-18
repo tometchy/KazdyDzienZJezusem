@@ -430,43 +430,9 @@ TNP:
 - Jak to rozumieć?
 - O katolickiej rodzinie, o pewnosci katolikow, moze swiadkow, a nawet mnie samego... przed nawróceniem
 
-
-
-
-
-## 6. Wewnętrzne świadectwo Ducha Świętego
-
-> „Ten właśnie Duch świadczy wespół z duchem naszym, że dziećmi Bożymi jesteśmy.” — List do Rzymian 8:16
-
-Niektórzy odczuwają to bardzo wyraźnie, inni mniej emocjonalnie. Biblia jednak mówi o pewnym wewnętrznym przekonaniu, że należymy do Boga.
-
-> „Jeśli więc ktoś jest w Chrystusie, nowym jest stworzeniem...” — Drugi List do Koryntian 5:17
-
-## 8. Miłość do Słowa Bożego
-
-> „Jak nowo narodzone niemowlęta zapragnijcie niesfałszowanego duchowego mleka...” — Pierwszy List Piotra 2:2
-
-Pojawia się pragnienie poznawania Boga przez Pismo.
-
----
-
-### Co ciekawe: Biblia kieruje uwagę bardziej na owoce niż na przeżycie
-
-W rozmowie Jezusa z Nikodem o nowonarodzeniu (J 3) nie ma pytania: „Czy pamiętasz moment, kiedy się narodziłeś?”. Nacisk jest raczej na to, czy widać działanie Ducha w życiu człowieka.
-
-Dlatego biblijne pytanie brzmi mniej: **„Czy miałem kiedyś odpowiednie doświadczenie?”**, a bardziej: **„Czy dziś widać we mnie oznaki nowego życia od Boga?”**
-
-Najwięcej praktycznych „testów” nowonarodzenia znajdziesz w Pierwszy List Jana, który został napisany właśnie po to, aby wierzący mogli rozpoznać, czy rzeczywiście mają życie wieczne (1 J 5:13).
-
----
-
-
-
-
-
-
-## Jak mnie Pan Przycisnął
-- Ostatnie nabożeństwo, posługa brata Waldka, moje myśli, które popłynęły dalej niż omawiany fragment
+## Może już nie pamiętacie, ale zacząłem od tego, że tydzień temu w sobotę mnie Pan Przycisnął
+- Ostatnie nabożeństwo, posługa brata Waldka z 3 rozdzialu Listu Jakuba, fragmenty o języku, 
+- moje myśli, które popłynęły dalej niż omawiany fragment
 [[List Jakuba 4,17]]
 > Kto więc umie dobrze czynić, a nie czyni, popełnia grzech.
 
