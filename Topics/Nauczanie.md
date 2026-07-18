@@ -436,4 +436,5 @@ A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego br
 
 ### Czy to znaczy, że będę teraz regulanie stawał na tym miejscu, w posłudze Słowa?
 - To tylko Pan wie
-- Będę szedł tam gdzie mnie będzie kierował mój Pan modlił o mądrość, żeby nie zbaczać ani na prawo ani na lewo. AMEN
+- Nie wiem co po dzisiaj powiedza mi bracia starsi, nie wiem co powiecie mi Wy, a przede wszystlim nie wiem co powie mi Bóg
+- Będę szedł tam gdzie mnie będzie kierował mój Pan i modlił się o mądrość, żeby nie zbaczać ani na prawo ani na lewo. AMEN
