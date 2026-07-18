@@ -242,6 +242,7 @@ TNP:
 - Ja zatrzymam się pokrótce na fragmentach, które mnie w trakcie moich dociekań szczególnie zastanowiły
 
 ## Szczególne doświadczenie, konkretna data
+- Doświadczenie przed nawróceniem w trakcie medytacji
 
 ## Życie w grzechu
 [[1 List Jana 1,5]]
