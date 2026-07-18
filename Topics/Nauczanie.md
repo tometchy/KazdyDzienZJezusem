@@ -86,6 +86,8 @@
 
 ---
 
+- Jest to więc szczególna rola, nie dla każdego i, jak to rozumiem, w żadnym wypadku nie dla kobiet
+
 [[1 List do Koryntian 14,34]]
 
 [[1 List do Koryntian 14,35]]

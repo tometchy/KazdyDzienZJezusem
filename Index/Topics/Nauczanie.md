@@ -103,6 +103,8 @@
 
 ---
 
+- Jest to więc szczególna rola, nie dla każdego i, jak to rozumiem, w żadnym wypadku nie dla kobiet
+
 [[1 List do Koryntian 14,34]]
 > Niech wasze kobiety milczą w kościołach. Bo nie pozwala się im mówić, ale mają być poddane, jak też prawo mówi.
 
