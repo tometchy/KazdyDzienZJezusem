@@ -225,6 +225,9 @@ FRAGMENTY
 - przykład ze świadectwa brata Pawła Jurkowskiego
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
+## Kochanie braci
+- Deszcz czy słońce
+
 ## Po owocu poznaje się drzewo
 [[Ewangelia Mateusza 12,33]]
 > Sprawcie, aby drzewo było dobre i jego owoc dobry, albo sprawcie, aby drzewo było złe i jego owoc zły. Po owocu bowiem poznaje się drzewo.

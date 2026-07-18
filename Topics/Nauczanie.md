@@ -181,6 +181,9 @@ FRAGMENTY
 - przykład ze świadectwa brata Pawła Jurkowskiego
 - przykład jak się na nowo przedstawiłem przyjaciółce
 
+## Kochanie braci
+- Deszcz czy słońce
+
 ## Po owocu poznaje się drzewo
 [[Ewangelia Mateusza 12,33]]
 
