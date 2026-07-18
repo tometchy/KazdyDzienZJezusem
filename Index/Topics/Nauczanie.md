@@ -237,8 +237,8 @@ FRAGMENTY
 [[List do Galacjan 5,23]]
 > Łagodność, powściągliwość. Przeciwko takim nie ma prawa.
 
-karpos (owos) - mianownik w liczbie pojedynczej
-esti (jest) - 3. osoba liczby pojedynczej czasu teraźniejszego
+- karpos (owos), mianownik w liczbie pojedynczej
+- esti (jest), 3. osoba liczby pojedynczej czasu teraźniejszego
 
 --- 
 
