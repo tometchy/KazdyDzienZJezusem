@@ -331,13 +331,17 @@ TNP:
 [[1 List Jana 3,10]]
 > Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata.
 
-4:20
-Jeśli ktoś powiedziałby, że miłuje Boga, a nienawidziłby[27] swojego brata, jest kłamcą; kto bowiem nie miłuje swojego brata, którego widzi, jak może miłować Boga, którego nie widzi?
+---
 
-4:21
-A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata.
+[[1 List Jana 4,20]]
+> Jeśli ktoś mówi: Miłuję Boga, a nienawidzi swego brata, jest kłamcą. Kto bowiem nie miłuje swego brata, którego widzi, jak może miłować Boga, którego nie widzi?
 
-- Deszcz czy słońce, miło znów zobaczyć się
+[[1 List Jana 4,21]]
+> A takie przykazanie mamy od niego, aby ten, kto miłuje Boga, miłował też swego brata.
+
+- Przychodzenie do zboru
+- Bracia na poście
+- Deszcz czy słońce, miło znów zobaczyć się, z bajki Witaj Franklin, kto był na ostatnim piątkowym zgromadzeniu wie dlaczego akurat ta mi się skojarzyła
 
 ## Po owocu poznaje się drzewo
 [[Ewangelia Mateusza 12,33]]

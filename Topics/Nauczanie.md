@@ -264,13 +264,15 @@ TNP:
 
 [[1 List Jana 3,10]]
 
-4:20
-Jeśli ktoś powiedziałby, że miłuje Boga, a nienawidziłby[27] swojego brata, jest kłamcą; kto bowiem nie miłuje swojego brata, którego widzi, jak może miłować Boga, którego nie widzi?
+---
 
-4:21
-A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata.
+[[1 List Jana 4,20]]
 
-- Deszcz czy słońce, miło znów zobaczyć się
+[[1 List Jana 4,21]]
+
+- Przychodzenie do zboru
+- Bracia na poście
+- Deszcz czy słońce, miło znów zobaczyć się, z bajki Witaj Franklin, kto był na ostatnim piątkowym zgromadzeniu wie dlaczego akurat ta mi się skojarzyła
 
 ## Po owocu poznaje się drzewo
 [[Ewangelia Mateusza 12,33]]
