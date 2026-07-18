@@ -152,6 +152,8 @@ TNP:
 - ale pomyślałem o kluczowym, oczywistym warunku
 
 ### Nauczanie, żeby było budujące dla kościoła musi być od Ducha Świętego
+- niewierzący mają wiedzę z Biblii
+- chatgpt ma wiedzę z Biblii
 - Żeby nauczanie było od Ducha Świętego, osoba, która je mówi musi być Świątynia Ducha Świętego
 - Mój dociekliwy umysł zadał mi problematyczne pytanie
 
