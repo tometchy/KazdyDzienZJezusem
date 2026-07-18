@@ -133,15 +133,73 @@
 [[Dzieje Apostolskie 18,26]]
 > Zaczął on odważnie mówić w synagodze. Gdy go usłyszeli Akwila i Pryscylla, przyjęli go do siebie i dokładniej wytłumaczyli drogę Boga.
 
-### Każdego rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
-
 1 Księga Samuela 16,6-7
 > A gdy przyszli, ujrzał Eliaba i powiedział: Na pewno stoi przed PANEM jego pomazaniec.
 > Lecz PAN powiedział do Samuela: Nie patrz na jego urodę ani na jego wysoki wzrost, gdyż go odrzuciłem. PAN bowiem nie patrzy na to, na co patrzy człowiek, bo człowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce.
 
+### Każdego rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
+
+[[Dzieje Apostolskie 17,1]]
+> A gdy przeszli Amfipolis i Apolonię, przybyli do Tesaloniki, gdzie była synagoga żydowska.
+
+[[Dzieje Apostolskie 17,2]]
+> Wtedy Paweł według swego zwyczaju wszedł do nich i przez trzy szabaty rozprawiał z nimi na podstawie Pisma;
+
+[[Dzieje Apostolskie 17,3]]
+> Wyjaśniając i nauczając, że Chrystus musiał cierpieć i powstać z martwych oraz: Ten Jezus, którego wam głoszę, jest Chrystusem.
+
+[[Dzieje Apostolskie 17,10]]
+> Zaraz w nocy bracia wysłali Pawła i Sylasa do Berei. Kiedy tam przybyli, weszli do synagogi żydowskiej.
+
+[[Dzieje Apostolskie 17,11]]
+> Ci byli szlachetniejsi od tych w Tesalonice, gdyż przyjęli słowo Boże z całą gotowością i codziennie badali Pisma, czy tak się sprawy mają.
+
+#### A jak tu przyjdzie Zac Poonen, powie wspaniałe kazanie, a popełni w nim jakiś błąd, to podejść porozmawiać i omówić temat
+
+[[List Jakuba 3,17]]
+> Mądrość zaś, która jest z góry, jest przede wszystkim czysta, następnie pokojowo usposobiona, łagodna, ustępliwa, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna.
+
+TNP:
+> Ale mądrość, która jest z góry, najpierw jest prawdziwie * czysta, następnie pokojowo usposobiona, łagodna **, dająca się przekonać ***, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna. Rz 12,9; Flp 1,11; 1P 1,22 * gr.: men - partykuła wzmacniająca; ** lub: łagodnie skłaniająca do posłuchu; *** uległa, nie uparta (nie oporna) na argumenty
+
 ## Ja to rozumiem, że to oznacza szczególne branie odpowiedzialności za to co się mówi
 
+- Te fragmenty uważam dotyczą każdego, każdy zda sprawę, ale w szczególnie surowy sposób nauczyciele
 
+[[List Jakuba 3,10]]
+> Z tych samych ust wychodzi błogosławieństwo i przekleństwo. Tak być nie powinno, moi bracia.
+
+[[Ewangelia Mateusza 12,34]]
+> Plemię żmijowe! Jakże możecie mówić dobre rzeczy, będąc złymi? Gdyż z obfitości serca mówią usta.
+
+[[Ewangelia Mateusza 12,35]]
+> Dobry człowiek wydobywa z dobrego skarbca serca dobre rzeczy , a zły człowiek wydobywa ze złego skarbca złe rzeczy .
+
+[[Ewangelia Mateusza 12,36]]
+> Ale mówię wam, że z każdego bezużytecznego słowa, które wypowiedzą ludzie, zdadzą sprawę w dzień sądu.
+
+[[Ewangelia Mateusza 12,37]]
+> Bo na podstawie twoich słów będziesz usprawiedliwiony i na podstawie twoich słów będziesz potępiony.
+
+## Po przeanalizowaniu różnych fragmentów dotyczących nauczania
+- zacząłem uznawać dotychczasowe blokady, które widziałem za niesłuszne
+- przyjmować to, że Pan słowami różnych Sług swoich mnie tu prowadzi
+- ale pomyślałem o kluczowym, oczywistym warunku
+
+### Nauczanie, żeby było budujące dla kościoła musi być od Ducha Świętego
+- Żeby nauczanie było od Ducha Świętego, osoba, która je mówi musi być Świątynia Ducha Świętego
+- Mój dociekliwy umysł zadał mi problematyczne pytanie
+
+## Na jakiej podstawie mam mieć pewność, że jestem nowo narodzony, że jestem Świątynią Ducha Świętego
+
+### Chciałbym zachęcić każdego do zadania sobie tego samego pytania
+
+### Chociaż przestrzegam, że u mnie spowodowało to smutek trwających ładnych kilka miesięcy, dopóki nie udało mi się uczciwie przed sobą, na podstawie Słowa Bożego uznać z pokojem, że jestem
+
+## Bracie, siostro, na jakiej podstawie masz pewność, że jesteś Nowonarodzony? **Czy to są Biblijne podstawy?**
+
+[[Ewangelia Jana 3,3]]
+> Odpowiedział mu Jezus: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi na nowo, nie może ujrzeć królestwa Bożego.
 
 Rz 12,7
 
@@ -378,3 +436,22 @@ W rozmowie Jezusa z Nikodem o nowonarodzeniu (J 3) nie ma pytania: „Czy pamię
 Dlatego biblijne pytanie brzmi mniej: **„Czy miałem kiedyś odpowiednie doświadczenie?”**, a bardziej: **„Czy dziś widać we mnie oznaki nowego życia od Boga?”**
 
 Najwięcej praktycznych „testów” nowonarodzenia znajdziesz w Pierwszy List Jana, który został napisany właśnie po to, aby wierzący mogli rozpoznać, czy rzeczywiście mają życie wieczne (1 J 5:13).
+
+---
+
+4:19
+My Go miłujemy, bo On nas pierwszy[26] umiłował.
+Przypisy
+
+    [26]
+    Greckie: protos - pierwszy w czasie lub miejscu, główny
+
+4:20
+Jeśli ktoś powiedziałby, że miłuje Boga, a nienawidziłby[27] swojego brata, jest kłamcą; kto bowiem nie miłuje swojego brata, którego widzi, jak może miłować Boga, którego nie widzi?
+Przypisy
+
+    [27]
+    Greckie: miseo - nie cierpieć, gardzić, wzdrygać się, kochać kogoś lub coś mniej od drugiego, nienawidzić.
+
+4:21
+A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata.
