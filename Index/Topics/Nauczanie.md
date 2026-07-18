@@ -379,6 +379,9 @@ TNP:
 [[Ewangelia Mateusza 12,34]]
 > Plemię żmijowe! Jakże możecie mówić dobre rzeczy, będąc złymi? Gdyż z obfitości serca mówią usta.
 
+[[Ewangelia Mateusza 12,35]]
+> Dobry człowiek wydobywa z dobrego skarbca serca dobre rzeczy , a zły człowiek wydobywa ze złego skarbca złe rzeczy .
+
 ### Kto pamięta ile owoców Ducha Świętego jest wymienionych w Liście do Galacjan
 - Sprawdźmy razem
 

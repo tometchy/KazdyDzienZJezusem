@@ -300,6 +300,8 @@ TNP:
 
 [[Ewangelia Mateusza 12,34]]
 
+[[Ewangelia Mateusza 12,35]]
+
 ### Kto pamięta ile owoców Ducha Świętego jest wymienionych w Liście do Galacjan
 - Sprawdźmy razem
 
