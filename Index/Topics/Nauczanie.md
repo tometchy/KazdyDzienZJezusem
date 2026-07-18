@@ -1,4 +1,4 @@
-## Tydzień temu w sobotę było nasze zgromadzenia
+﻿## Tydzień temu w sobotę było nasze zgromadzenia
 - Tego dnia nasi kochani Ernest, Anitka i Eryk wracali z wczasów
 - Pan ich trochę przycisnął
 - Klucz, którego potrzebowali, znajdował się na zgromadzeniu kościoła
@@ -270,6 +270,12 @@ TNP:
 [[1 List Jana 3,10]]
 > Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata.
 
+4:20
+Jeśli ktoś powiedziałby, że miłuje Boga, a nienawidziłby[27] swojego brata, jest kłamcą; kto bowiem nie miłuje swojego brata, którego widzi, jak może miłować Boga, którego nie widzi?
+
+4:21
+A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata.
+
 - Deszcz czy słońce, miło znów zobaczyć się
 
 ## Po owocu poznaje się drzewo
@@ -487,22 +493,9 @@ Najwięcej praktycznych „testów” nowonarodzenia znajdziesz w Pierwszy List 
 
 ---
 
-4:19
-My Go miłujemy, bo On nas pierwszy[26] umiłował.
-Przypisy
 
-    [26]
-    Greckie: protos - pierwszy w czasie lub miejscu, główny
 
-4:20
-Jeśli ktoś powiedziałby, że miłuje Boga, a nienawidziłby[27] swojego brata, jest kłamcą; kto bowiem nie miłuje swojego brata, którego widzi, jak może miłować Boga, którego nie widzi?
-Przypisy
 
-    [27]
-    Greckie: miseo - nie cierpieć, gardzić, wzdrygać się, kochać kogoś lub coś mniej od drugiego, nienawidzić.
-
-4:21
-A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata.
 
 
 ## Jak mnie Pan Przycisnął
@@ -512,7 +505,8 @@ A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego br
 
 - Rozmowa z Karolem o Duchu Bożym Współświadczącym mojemu Duchowi, pokój który otrzymałem
 
-### Czy to znaczy, że będę teraz regulanie stawał na tym miejscu, w posłudze Słowa?
+### Czy to znaczy, że będę teraz regulanie stawał na tym miejscu?
 - To tylko Pan wie
 - Nie wiem co po dzisiaj powiedza mi bracia starsi, nie wiem co powiecie mi Wy, a przede wszystlim nie wiem co powie mi Bóg
 - Będę szedł tam gdzie mnie będzie kierował mój Pan i modlił się o mądrość, żeby nie zbaczać ani na prawo ani na lewo. AMEN
+
