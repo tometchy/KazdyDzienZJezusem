@@ -198,7 +198,7 @@
 TNP:
 > Ale mądrość, która jest z góry, najpierw jest prawdziwie * czysta, następnie pokojowo usposobiona, łagodna **, dająca się przekonać ***, pełna miłosierdzia i dobrych owoców, bezstronna i nieobłudna. Rz 12,9; Flp 1,11; 1P 1,22 * gr.: men - partykuła wzmacniająca; ** lub: łagodnie skłaniająca do posłuchu; *** uległa, nie uparta (nie oporna) na argumenty
 
-### Każdego rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
+### A każdego z nas rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
 
 [[Dzieje Apostolskie 17,1]]
 > A gdy przeszli Amfipolis i Apolonię, przybyli do Tesaloniki, gdzie była synagoga żydowska.
