@@ -1,5 +1,5 @@
 ## Tydzień temu w sobotę było nasze zgromadzenia
-- Tego nasi kochani Ernest, Anitka i Eryk wracali z wczasów
+- Tego dnia nasi kochani Ernest, Anitka i Eryk wracali z wczasów
 - Pan ich trochę przycisnął
 - Klucz, którego potrzebowali, znajdował się na zgromadzeniu kościoła
 - Nawiązuję do tego, ponieważ tego dnia, Pan mnie również przycisnął, ale żeby opowiedzieć jak dokładnie, muszę najpierw się trochę cofnąć w czasie
@@ -31,54 +31,86 @@
 > 5. A gdy to zrobisz, podążaj za Opatrznością tak dalece, jak zgadza się ona ze Słowem i ani kroku dalej. Taki też jest punkt widzenia opisany przez psalmistę. Zaufaj Panu i czyń dobrze. Rozkoszuj się Panem, a da Ci czego życzy sobie serce Twoje. Powierz Panu drogę swoją, zaufaj Mu, a On wszystko dobrze uczyni. Zdaj się w milczeniu na Pana i złóż w nim nadzieję.
 
 ## Jestem młody, czy to jest przeszkodą
-[[1 List do Tymoteusza 4,12]]
-
 - Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
 - Na poście braterskim specjalnie mnie złapał młody brat i zapytał
+
+[[1 List do Tymoteusza 4,12]]
+
+- Podobno wiek Pana Jezusa, Jana Chrzciciela
 
 ## Krótko chodzę z Panem, czy to jest przeszkodą
 
 [[Dzieje Apostolskie 9,20]]
 
-- Podobno wiek Pana Jezusa, Jana Chrzciciela
-
 ## Ogólnie spojrzałem na temat nauczania i podział na nauczanie przez każdego i rolę nauczyciela
 
-1 List do Koryntian 12,28:
-> I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie **nauczycieli**, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków.
+### Pouczać się wzajemnie ma każdy nawet kobiety
 
-List do Efezjan 4,10-11:
-> Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko. I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i **nauczycieli**,
+#### W zborze
+[[List do Kolosan 3,16]]
 
-Dzieje Apostolskie 13,1
-> A byli w Antiochii, w zborze, który tam był, pewni prorocy i **nauczyciele** jak: Barnaba i Symeon, zwany Niger, i Lucjusz Cyrenejczyk, i Manaen, który był też wychowany z Herodem tetrarchą, i Saul.
+[[List do Hebrajczyków 10,24]]
 
-### Każdy nawet kobiety
+[[List do Hebrajczyków 10,25]]
+
+#### Nawet poza zborem
+[[1 List Piotra 3,15]]
 
 ### Rola nauczyciela, tylko powołani, nigdy kobiety
+[[List Jakuba 3,1]]
 
-## O co chodzi z ty surowszym sądem/wyrokiem
+[[1 List do Koryntian 12,28]]
+
+[[1 List do Koryntian 12,29]]
+
+[[1 List do Koryntian 12,30]]
+
+[[List do Efezjan 4,10]]
+
+[[List do Efezjan 4,11]]
+
+[[Dzieje Apostolskie 13,1]]
+
+[[1 Kor 14,34]]
+
+[[1 Kor 14,35]]
+
+## O co chodzi z tym surowszym sądem/wyrokiem
 - Nie jest to szczegółowo wytłumaczone, ale jest pewna bardzo istotna informacja
 - Donald Doss, adwentysta z filmu Przełęcz Ocalonych
 - Andrzej Gołota
-- 
----
 
-(1 Kor 13:8,9,10)
+[[List Jakuba 3,1]]
 
-Apollos był:
-„człowiekiem wymownym i biegłym w Pismach”
-(Dz 18:24)
-„znał tylko chrzest Jana”
-(Dz 18:25)
-Czyli nauczał rzeczy prawdziwych, ale niepełnych. Pryscylla i Akwila musieli:
-„wyłożyć mu dokładniej drogę Bożą.”
-(Dz 18:26)
+[[List Jakuba 3,2]]
 
-1 Sm 16:6–7
-Samuel uważa, że Eliab na pewno jest wybrańcem Boga.
+## Czy to znaczy, że nauczycielowi nie wolno się pomylić
 
+[[List Jakuba 3,9]]
 
+[[List Jakuba 3,10]]
+
+[[List Jakuba 3,11]]
+
+[[1 Kor 13,8]]
+
+[[1 Kor 13,9]]
+
+[[1 Kor 13,10]]
+
+[[Dzieje Apostolskie 18,24]]
+
+[[Dzieje Apostolskie 18,25]]
+
+[[Dzieje Apostolskie 18,26]]
+
+### Każdego rolą jest badać, nie ważne czy przemawiam tu ja, Karol, Zac Poonen, czy ktokolwiek inny
+
+1 Księga Samuela 16,6-7
+> A gdy przyszli, ujrzał Eliaba i powiedział: Na pewno stoi przed PANEM jego pomazaniec.
+> Lecz PAN powiedział do Samuela: Nie patrz na jego urodę ani na jego wysoki wzrost, gdyż go odrzuciłem. PAN bowiem nie patrzy na to, na co patrzy człowiek, bo człowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce.
+
+## Ja to rozumiem, że to oznacza szczególne branie odpowiedzialności za to co się mówi
 
 
 
