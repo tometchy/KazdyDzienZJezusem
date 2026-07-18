@@ -184,6 +184,9 @@ TNP:
 
 [[1 List Jana 3,9]]
 
+[[1 List Jana 5,18]]
+
+[[1 List Jana 5,19]]
 
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
 [[2 List do Koryntian 5,17]]

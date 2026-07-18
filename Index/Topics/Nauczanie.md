@@ -232,6 +232,11 @@ TNP:
 [[1 List Jana 3,9]]
 > Każdy, kto się narodził z Boga, nie popełnia grzechu, bo jego nasienie w nim pozostaje i nie może grzeszyć, gdyż narodził się z Boga.
 
+[[1 List Jana 5,18]]
+> Wiemy, że każdy, kto się narodził z Boga, nie grzeszy, ale kto się narodził z Boga, zachowuje samego siebie, a zły go nie dotyka.
+
+[[1 List Jana 5,19]]
+> Wiemy, że jesteśmy z Boga, a cały świat tkwi w niegodziwości.
 
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
 [[2 List do Koryntian 5,17]]
