@@ -10,10 +10,10 @@
 ***didaskalos***, BG: nauczyciel 50, mistrz 6
 ***rabbi***, BG: mistrz 14
 
-- Podzieliłem się, że od kilku lat mam wrażenie, że Pan przygotowuje mnie do takiej posługi, ale, że to kiedyś
+- Podzieliłem się, że od kilku lat mam wrażenie, że Pan przygotowuje mnie do takiej posługi, robię sobie notatki, ale, że to kiedyś
 - Teraz jestem za młody, za krótko chodzę z Panem
 - Ten temat ciągle wracał, starsi nawet z innych zborów jak Paweł Jurkowski czy Paweł Krystkiewicz
-- Był to dla mnie istotne, że różne osoby, które chodzą lata z Panem, których porady bardzo sobie cenię, są jednogłośne, mówią niezależnie to samo, zachęcając, aby stawał w tym miejscu
+- Było to dla mnie istotne, że różne osoby, które chodzą lata z Panem, których porady bardzo sobie cenię, są jednogłośne, mówią niezależnie to samo, zachęcając, aby stawał w tym miejscu
 - Postanowiłem jednak czekać aż będę miał pewność, że Bóg mnie tutaj stawia i prosić Boga o mądrość, żebym to zrozumiał
 
 [[List Jakuba 1,5]]
@@ -418,3 +418,14 @@ Przypisy
 
 4:21
 A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata.
+
+
+## Jak mnie Pan Przycisnął
+- Ostatnie nabożeństwo, posługa brata Waldka, moje myśli, które popłynęły dalej niż omawiany fragment
+[[List Jakuba 4,17]]
+
+- Rozmowa z Karolem o Duchu Bożym Współświadczącym mojemu Duchowi, pokój który otrzymałem
+
+### Czy to znaczy, że będę teraz regulanie stawał na tym miejscu, w posłudze Słowa?
+- To tylko Pan wie
+- Będę szedł tam gdzie mnie będzie kierował mój Pan modlił o mądrość, żeby nie zbaczać ani na prawo ani na lewo. AMEN
