@@ -176,6 +176,10 @@ TNP:
 ## Szczególne doświadczenie, konkretna data
 
 ## Życie w grzechu
+[[1 List Jana 1,5]]
+
+[[1 List Jana 1,6]]
+
 [[1 List Jana 3,6]]
 
 [[1 List Jana 3,7]]

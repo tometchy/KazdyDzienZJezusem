@@ -1,4 +1,4 @@
-﻿## Tydzień temu w sobotę było nasze zgromadzenia
+## Tydzień temu w sobotę było nasze zgromadzenia
 - Tego dnia nasi kochani Ernest, Anitka i Eryk wracali z wczasów
 - Pan ich trochę przycisnął
 - Klucz, którego potrzebowali, znajdował się na zgromadzeniu kościoła
@@ -220,6 +220,12 @@ TNP:
 ## Szczególne doświadczenie, konkretna data
 
 ## Życie w grzechu
+[[1 List Jana 1,5]]
+> Przesłanie zaś, które słyszeliśmy od niego i wam zwiastujemy, jest takie: Bóg jest światłością i nie ma w nim żadnej ciemności.
+
+[[1 List Jana 1,6]]
+> Jeśli mówimy, że mamy z nim społeczność, a chodzimy w ciemności, kłamiemy i nie czynimy prawdy.
+
 [[1 List Jana 3,6]]
 > Każdy więc , kto w nim trwa, nie grzeszy. Każdy, kto grzeszy, nie widział go ani go nie poznał.
 
@@ -509,4 +515,3 @@ Najwięcej praktycznych „testów” nowonarodzenia znajdziesz w Pierwszy List 
 - To tylko Pan wie
 - Nie wiem co po dzisiaj powiedza mi bracia starsi, nie wiem co powiecie mi Wy, a przede wszystlim nie wiem co powie mi Bóg
 - Będę szedł tam gdzie mnie będzie kierował mój Pan i modlił się o mądrość, żeby nie zbaczać ani na prawo ani na lewo. AMEN
-

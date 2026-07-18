@@ -1,4 +1,4 @@
-﻿W Nowym Testamencie wymienione są z imienia lub funkcji następujące prorokinie:
+W Nowym Testamencie wymienione są z imienia lub funkcji następujące prorokinie:
 
 * Anna (Łk 2,36-38): Córka Fanuela z pokolenia Asera. Jako sędziwa wdowa stale przebywała w świątyni. Rozpoznała w malutkim Jezusie Mesjasza i publicznie głosiła o Nim wszystkim, którzy oczekiwali wyzwolenia Jerozolimy.
 * Cztery córki diakona Filipa (Dz 21,8-9): Mieszkały w Cezarei i były pannami. Łukasz Ewangelista krótko notuje w Dziejach Apostolskich, że wszystkie cztery posiadały dar proroctwa i posługiwały nim we wczesnym Kościele.
@@ -10,6 +10,5 @@ Możemy dokładniej przeanalizować:
 * Co dokładnie Anna powiedziała w świątyni na temat Jezusa
 * Jakie były kryteria rozróżniania prawdziwych i fałszywych proroctw w tamtym okresie
 * Jaki status społeczny miały córki Filipa w Cezarei
-
 
 
