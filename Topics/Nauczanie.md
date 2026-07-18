@@ -33,7 +33,7 @@
 ## Jestem młody, czy to jest przeszkodą
 - Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
 - Na poście braterskim specjalnie mnie złapał młody brat i zapytał
-- Dla zobrazowania skali nasz Łukasz Królikowski jest 10 lat młodszy
+- Dla zobrazowania skali nasz Łukasz Królikowski jest 10 lat młodszy. Gdy on zaczynał chodzić, ja zaczynałem swoje poważne nałogi. Chwilę zaraz o tym powiem.
 
 [[1 List do Tymoteusza 4,12]]
 
@@ -175,8 +175,22 @@ TNP:
 
 ## Szczególne doświadczenie, konkretna data
 
+## Życie w grzechu
+
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
-FRAGMENTY
+[[2 List do Koryntian 5,17]]
+
+[[2 List do Koryntian 5,18]]
+
+[[List do Efezjan 4,20]]
+
+[[List do Efezjan 4,21]]
+
+[[List do Efezjan 4,22]]
+
+[[List do Efezjan 4,23]]
+
+[[List do Efezjan 4,24]]
 
 - przykład ze świadectwa brata Pawła Jurkowskiego
 - przykład jak się na nowo przedstawiłem przyjaciółce

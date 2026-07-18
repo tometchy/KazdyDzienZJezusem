@@ -36,7 +36,7 @@
 ## Jestem młody, czy to jest przeszkodą
 - Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
 - Na poście braterskim specjalnie mnie złapał młody brat i zapytał
-- Dla zobrazowania skali nasz Łukasz Królikowski jest 10 lat młodszy
+- Dla zobrazowania skali nasz Łukasz Królikowski jest 10 lat młodszy. Gdy on zaczynał chodzić, ja zaczynałem swoje poważne nałogi. Chwilę zaraz o tym powiem.
 
 [[1 List do Tymoteusza 4,12]]
 > Niech nikt nie lekceważy twego młodego wieku; lecz bądź dla wierzących przykładem w mowie, w postępowaniu, w miłości, w duchu, w wierze, w czystości.
@@ -219,8 +219,29 @@ TNP:
 
 ## Szczególne doświadczenie, konkretna data
 
+## Życie w grzechu
+
 ## Nowe życie, nowy człowiek, na nowo się urodził, jest zupełnie inny
-FRAGMENTY
+[[2 List do Koryntian 5,17]]
+> Tak więc jeśli ktoś jest w Chrystusie, nowym jest stworzeniem; to , co stare, przeminęło, oto wszystko stało się nowe.
+
+[[2 List do Koryntian 5,18]]
+> A wszystko to jest z Boga, który nas pojednał ze sobą przez Jezusa Chrystusa i dał nam służbę pojednania.
+
+[[List do Efezjan 4,20]]
+> Lecz wy nie tak nauczyliście się Chrystusa;
+
+[[List do Efezjan 4,21]]
+> Jeśli tylko słyszeliście go i byliście pouczeni przez niego, zgodnie z prawdą, jaka jest w Jezusie;
+
+[[List do Efezjan 4,22]]
+> Że – co się tyczy poprzedniego postępowania – powinniście zrzucić z siebie starego człowieka, który ulega zepsuciu przez zwodnicze żądze;
+
+[[List do Efezjan 4,23]]
+> I odnowić się w duchu waszego umysłu;
+
+[[List do Efezjan 4,24]]
+> I przyoblec się w nowego człowieka, który jest stworzony według Boga w sprawiedliwości i w prawdziwej świętości.
 
 - przykład ze świadectwa brata Pawła Jurkowskiego
 - przykład jak się na nowo przedstawiłem przyjaciółce
