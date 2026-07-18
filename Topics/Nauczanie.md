@@ -33,6 +33,7 @@
 ## Jestem młody, czy to jest przeszkodą
 - Faktem jest, że jestem młody, ale nie tak młody, jak wyglądam
 - Na poście braterskim specjalnie mnie złapał młody brat i zapytał
+- Dla zobrazowania skali nasz Łukasz Królikowski jest 10 lat młodszy
 
 [[1 List do Tymoteusza 4,12]]
 
