@@ -226,6 +226,22 @@ TNP:
 [[1 List Jana 1,6]]
 > Jeśli mówimy, że mamy z nim społeczność, a chodzimy w ciemności, kłamiemy i nie czynimy prawdy.
 
+---
+
+[[1 List Jana 2,3]]
+> A po tym poznajemy, że go znamy, jeśli zachowujemy jego przykazania.
+
+[[1 List Jana 2,4]]
+> Kto mówi: Znam go, a nie zachowuje jego przykazań, jest kłamcą i nie ma w nim prawdy.
+
+[[1 List Jana 2,5]]
+> Lecz kto zachowuje jego słowo, w nim prawdziwie wypełniła się miłość Boga. Po tym poznajemy, że w nim jesteśmy.
+
+[[1 List Jana 2,6]]
+> Kto mówi, że w nim trwa, powinien sam postępować tak, jak on postępował.
+
+---
+
 [[1 List Jana 3,6]]
 > Każdy więc , kto w nim trwa, nie grzeszy. Każdy, kto grzeszy, nie widział go ani go nie poznał.
 
@@ -237,6 +253,8 @@ TNP:
 
 [[1 List Jana 3,9]]
 > Każdy, kto się narodził z Boga, nie popełnia grzechu, bo jego nasienie w nim pozostaje i nie może grzeszyć, gdyż narodził się z Boga.
+
+---
 
 [[1 List Jana 5,18]]
 > Wiemy, że każdy, kto się narodził z Boga, nie grzeszy, ale kto się narodził z Boga, zachowuje samego siebie, a zły go nie dotyka.

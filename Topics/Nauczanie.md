@@ -180,6 +180,18 @@ TNP:
 
 [[1 List Jana 1,6]]
 
+---
+
+[[1 List Jana 2,3]]
+
+[[1 List Jana 2,4]]
+
+[[1 List Jana 2,5]]
+
+[[1 List Jana 2,6]]
+
+---
+
 [[1 List Jana 3,6]]
 
 [[1 List Jana 3,7]]
@@ -187,6 +199,8 @@ TNP:
 [[1 List Jana 3,8]]
 
 [[1 List Jana 3,9]]
+
+---
 
 [[1 List Jana 5,18]]
 
