@@ -281,6 +281,11 @@ TNP:
 
 ---
 
+[[1 List Jana 3,24]]
+> Bo kto zachowuje jego przykazania, mieszka w nim, a on w nim. A wiemy, że w nas mieszka, przez Ducha, którego nam dał.
+
+---
+
 [[1 List Jana 5,18]]
 > Wiemy, że każdy, kto się narodził z Boga, nie grzeszy, ale kto się narodził z Boga, zachowuje samego siebie, a zły go nie dotyka.
 
@@ -330,6 +335,28 @@ TNP:
 
 [[1 List Jana 3,10]]
 > Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata.
+
+[[1 List Jana 3,14]]
+> My wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci. Kto nie miłuje brata, pozostaje w śmierci.
+
+[[1 List Jana 3,15]]
+> Każdy, kto nienawidzi swego brata, jest mordercą, a wiecie, że żaden morderca nie ma życia wiecznego zostającego w sobie.
+
+[[1 List Jana 3,16]]
+> Po tym poznaliśmy miłość Boga , że on oddał za nas swoje życie. My również powinniśmy oddawać życie za braci.
+
+---
+[[1 List Jana 4,7]]
+> Umiłowani, miłujmy się wzajemnie, gdyż miłość jest z Boga i każdy, kto miłuje, narodził się z Boga i zna Boga.
+
+[[1 List Jana 4,8]]
+> Kto nie miłuje, nie zna Boga, gdyż Bóg jest miłością.
+
+[[1 List Jana 4,11]]
+> Umiłowani, jeśli Bóg tak nas umiłował, to i my powinniśmy się wzajemnie miłować.
+
+[[1 List Jana 4,12]]
+> Boga nikt nigdy nie widział, ale jeśli miłujemy się wzajemnie, Bóg w nas mieszka, a jego miłość jest w nas doskonała.
 
 ---
 

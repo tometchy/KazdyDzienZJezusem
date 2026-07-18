@@ -227,6 +227,10 @@ TNP:
 
 ---
 
+[[1 List Jana 3,24]]
+
+---
+
 [[1 List Jana 5,18]]
 
 [[1 List Jana 5,19]]
@@ -263,6 +267,21 @@ TNP:
 ---
 
 [[1 List Jana 3,10]]
+
+[[1 List Jana 3,14]]
+
+[[1 List Jana 3,15]]
+
+[[1 List Jana 3,16]]
+
+---
+[[1 List Jana 4,7]]
+
+[[1 List Jana 4,8]]
+
+[[1 List Jana 4,11]]
+
+[[1 List Jana 4,12]]
 
 ---
 
