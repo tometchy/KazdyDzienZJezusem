@@ -40,3 +40,6 @@ Cloudflare Tunnel:
 ```bash
 ./scripts/install-all.sh
 ```
+
+ToDo:
+- Word file on disk as metadata, but in yaml info addtional name for linking original wording
