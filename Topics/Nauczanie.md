@@ -364,4 +364,5 @@ TNP:
 ### Czy to znaczy, że będę teraz regulanie stawał na tym miejscu?
 - To tylko Pan wie
 - Nie wiem co po dzisiaj powiedza mi bracia starsi, nie wiem co powiecie mi Wy, a przede wszystlim nie wiem co powie mi Bóg
-- Będę szedł tam gdzie mnie będzie kierował mój Pan i modlił się o mądrość, żeby nie zbaczać ani na prawo ani na lewo. AMEN
+- Ale chcę iść tam gdzie mnie kieruje mój Pan i modlić się o mądrość, żeby nie zbaczać ani na prawo ani na lewo.
+- AMEN
