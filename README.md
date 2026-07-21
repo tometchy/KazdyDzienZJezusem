@@ -12,23 +12,14 @@ Main setup script:
 ./setup.sh
 ```
 
-Generate the full New Testament:
-
-```bash
-./setup.sh --all
-```
-
-Generate specific verses only:
-
-```bash
-./setup.sh --vers jhn3,16 1co13,4
-```
-
 Regenerate only topic markdowns, without Quartz or stack changes:
 
 ```bash
 ./setup.sh --topics-only
 ```
+
+The Docker image now prebuilds the NT and topic HTML layers during `podman build`.
+Runtime startup only copies the baked HTML into the mounted `IndexHtml/` directory and serves it.
 
 Cloudflare Tunnel:
 

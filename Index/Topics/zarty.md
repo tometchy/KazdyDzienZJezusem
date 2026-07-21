@@ -1,0 +1,2 @@
+﻿- kazda wiadomosc w komunimatorze jest na biezaco analizowana
+

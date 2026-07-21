@@ -1,4 +1,4 @@
-## Tydzień temu w sobotę było nasze zgromadzenia
+﻿## Tydzień temu w sobotę było nasze zgromadzenia
 - Tego dnia nasi kochani Ernest, Anitka i Eryk wracali z wczasów
 - Pan ich trochę przycisnął
 - Klucz, którego potrzebowali, znajdował się na zgromadzeniu kościoła
@@ -451,3 +451,4 @@ TNP:
 - Nie wiem co po dzisiaj powiedza mi bracia starsi, nie wiem co powiecie mi Wy, a przede wszystlim nie wiem co powie mi Bóg
 - Ale chcę iść tam gdzie mnie kieruje mój Pan i modlić się o mądrość, żeby nie zbaczać ani na prawo ani na lewo.
 - AMEN
+

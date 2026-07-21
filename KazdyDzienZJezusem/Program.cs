@@ -68,6 +68,12 @@ var topicFiles = Directory.Exists(sourceTopicsPath)
         .ToList()
     : new List<string>();
 
+var includeTopicsLink = topicFiles.Count > 0
+    || string.Equals(
+        Environment.GetEnvironmentVariable("KAZDY_DZIEN_INCLUDE_TOPICS_LINK"),
+        "1",
+        StringComparison.Ordinal);
+
 var needsRedis = generateContent || topicFiles.Count > 0;
 ConnectionMultiplexer? redisConnection = needsRedis ? ConnectionMultiplexer.Connect("localhost,allowAdmin=true") : null;
 IDatabase? redis = redisConnection?.GetDatabase();
@@ -568,7 +574,7 @@ if (generateContent)
     }
 }
 
-var topicIndexLink = generateContent && topicFiles.Count > 0 ? "- [[Topics]]\n" : "";
+var topicIndexLink = generateContent && includeTopicsLink ? "- [[Topics]]\n" : "";
 
 if (generateContent)
 {

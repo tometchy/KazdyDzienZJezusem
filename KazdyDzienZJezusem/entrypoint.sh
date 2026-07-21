@@ -1,37 +1,19 @@
 #!/bin/sh
-set -e
+set -eu
 
-redis-server --dir /data --save "" --pidfile /tmp/redis.pid --logfile /tmp/redis.log --daemonize yes
+SOURCE_ROOT="/opt/prebuilt/IndexHtml"
+TARGET_ROOT="/data-out/IndexHtml"
 
-# czekamy az dane sie zaladuja (nie tylko ping)
-attempts=0
-until redis-cli EXISTS gnt:John:1:1 2>/dev/null | grep -q 1; do
-  attempts=$((attempts + 1))
-  if [ "$attempts" -ge 100 ]; then
-    echo "Redis nie wystartowal poprawnie. Log:"
-    cat /tmp/redis.log || true
-    exit 1
-  fi
-  sleep 0.1
-done
-
-if [ -n "${KAZDY_DZIEN_ARGS:-}" ]; then
-  # shellcheck disable=SC2086
-  set -- $KAZDY_DZIEN_ARGS "$@"
-fi
-
-if ! dotnet KazdyDzienZJezusem.dll "$@"; then
-  echo "Quartz build failed; stopping container."
+if [ ! -d "$SOURCE_ROOT" ]; then
+  echo "Missing prebuilt site: $SOURCE_ROOT"
   exit 1
 fi
 
-if [ ! -f /data-out/IndexHtml/index.html ]; then
-  echo "Quartz HTML was not generated: /data-out/IndexHtml/index.html is missing"
-  exit 1
-fi
+mkdir -p /data-out
+rm -rf "$TARGET_ROOT"
+cp -a "$SOURCE_ROOT" "$TARGET_ROOT"
 
 echo "Serving /data-out/IndexHtml on http://0.0.0.0:8080"
-
 
 shutdown() {
   echo "Stopping..."
@@ -39,10 +21,6 @@ shutdown() {
   if [ -n "${server_pid:-}" ]; then
     kill "$server_pid" 2>/dev/null || true
     wait "$server_pid" 2>/dev/null || true
-  fi
-
-  if [ -f /tmp/redis.pid ]; then
-    redis-cli shutdown nosave >/dev/null 2>&1 || kill "$(cat /tmp/redis.pid)" 2>/dev/null || true
   fi
 }
 
