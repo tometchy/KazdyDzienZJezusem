@@ -34,3 +34,4 @@ Cloudflare Tunnel:
 
 ToDo:
 - Word file on disk as metadata, but in yaml info addtional name for linking original wording
+- fakty, wnioski, tezy, argumenty/kontrargumenty, komentarze Biblii, references
