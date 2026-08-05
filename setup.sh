@@ -71,16 +71,12 @@ run_step() {
   step_name="$1"
   shift
 
-  log_file="$(mktemp)"
-  if "$@" >"$log_file" 2>&1; then
+  if "$@"; then
     echo "$step_name done."
-    rm -f "$log_file"
     return 0
   fi
 
   echo "$step_name failed:"
-  tail -n 50 "$log_file" || true
-  rm -f "$log_file"
   return 1
 }
 
@@ -103,7 +99,7 @@ wait_for_site() {
 cd "$REPO_DIR"
 
 if [ "$VERBOSE" -eq 1 ]; then
-  run_step_streaming "Build" podman build -t kazdy-dzien . -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest"
+  run_step_streaming "Build" podman build -t kazdy-dzien -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest" .
   run_step_streaming "Push" podman push --authfile ~/.config/containers/auth.json "$IMAGE:latest"
   echo "Remove stale container..."
   podman rm -f kazdy-dzien >/dev/null 2>&1 || true
@@ -117,8 +113,8 @@ if [ "$VERBOSE" -eq 1 ]; then
   exit 0
 fi
 
-run_step "Build" podman build -q -t kazdy-dzien . -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest"
-run_step "Push" podman push -q --authfile ~/.config/containers/auth.json "$IMAGE:latest"
+run_step "Build" podman build -t kazdy-dzien -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest" .
+run_step "Push" podman push --authfile ~/.config/containers/auth.json "$IMAGE:latest"
 
 echo "Remove compose project containers..."
 podman ps -aq --filter label=io.podman.compose.project=kazdydzienzjezusem | xargs -r podman rm -f >/dev/null 2>&1 || true
