@@ -1,1 +1,1 @@
-ł
+Połączyć z każdego dnia
