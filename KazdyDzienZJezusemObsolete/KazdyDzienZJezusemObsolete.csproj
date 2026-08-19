@@ -7,6 +7,8 @@
         <Nullable>enable</Nullable>
         
         <RuntimeIdentifier Condition="'$(DOTNET_RUNNING_IN_CONTAINER)' != 'true'">linux-arm64</RuntimeIdentifier>
+        
+        <RootNamespace>KazdyDzienZJezusem</RootNamespace>
     </PropertyGroup>
 
 
