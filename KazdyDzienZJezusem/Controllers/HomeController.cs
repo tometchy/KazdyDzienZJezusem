@@ -6,12 +6,17 @@ namespace KazdyDzienZJezusem.Controllers;
 
 public class HomeController : Controller
 {
-    public IActionResult Index()
+    public IActionResult Biblia()
     {
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult Ojcowie()
+    {
+        return View();
+    }
+
+    public IActionResult Teksty()
     {
         return View();
     }
