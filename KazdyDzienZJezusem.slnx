@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Infr/">
+    <File Path="load-the-bible.py" />
+    <File Path="podman-build.sh" />
+  </Folder>
   <Project Path="KazdyDzienZJezusem/KazdyDzienZJezusem.csproj" />
 </Solution>
