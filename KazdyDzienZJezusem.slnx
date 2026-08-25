@@ -1,7 +1,9 @@
 <Solution>
   <Folder Name="/Infr/">
+    <File Path="compose.yaml" />
     <File Path="load-the-bible.py" />
-    <File Path="podman-build.sh" />
+    <File Path="podman-down.sh" />
+    <File Path="podman-up.sh" />
   </Folder>
   <Project Path="KazdyDzienZJezusem/KazdyDzienZJezusem.csproj" />
 </Solution>
