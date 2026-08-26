@@ -96,17 +96,29 @@ wait_for_site() {
   echo "Site is available."
 }
 
+remove_existing_stack() {
+  echo "Compose down..."
+  if ! podman compose -f compose.yaml down; then
+    echo "Compose down reported an error; removing remaining project containers explicitly."
+  fi
+
+  project_containers="$(podman ps -aq --filter label=io.podman.compose.project=kazdydzienzjezusem)"
+  if [ -n "$project_containers" ]; then
+    # shellcheck disable=SC2086
+    podman rm -f $project_containers
+  fi
+
+  # Remove the legacy pre-Compose container name as well, if it exists.
+  podman rm -f kazdy-dzien >/dev/null 2>&1 || true
+  echo "Existing stack removed."
+}
+
 cd "$REPO_DIR"
 
 if [ "$VERBOSE" -eq 1 ]; then
   run_step_streaming "Build" podman build -t kazdy-dzien -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest" .
   run_step_streaming "Push" podman push --authfile ~/.config/containers/auth.json "$IMAGE:latest"
-  echo "Remove stale container..."
-  podman rm -f kazdy-dzien >/dev/null 2>&1 || true
-  echo "Remove stale container done."
-  echo "Compose down..."
-  podman compose -f compose.yaml down >/dev/null 2>&1 || true
-  echo "Compose down done."
+  remove_existing_stack
   run_step_streaming "Compose pull" podman compose -f compose.yaml pull
   run_step_streaming "Compose up" podman compose -f compose.yaml up -d
   wait_for_site
@@ -115,17 +127,7 @@ fi
 
 run_step "Build" podman build -t kazdy-dzien -f KazdyDzienZJezusem/Dockerfile -t "$IMAGE:latest" .
 run_step "Push" podman push --authfile ~/.config/containers/auth.json "$IMAGE:latest"
-
-echo "Remove compose project containers..."
-podman ps -aq --filter label=io.podman.compose.project=kazdydzienzjezusem | xargs -r podman rm -f >/dev/null 2>&1 || true
-echo "Remove compose project containers done."
-
-echo "Remove stale container..."
-podman rm -f kazdy-dzien >/dev/null 2>&1 || true
-echo "Remove stale container done."
-echo "Compose down..."
-podman compose -f compose.yaml down >/dev/null 2>&1 || true
-echo "Compose down done."
+remove_existing_stack
 run_step "Compose pull" podman compose -f compose.yaml pull
 run_step "Compose up" podman compose -f compose.yaml up -d
 wait_for_site
