@@ -1,0 +1,79 @@
+@model BibleVerseComparisonViewModel
+@{
+    var navigationTranslation = Model.SourceTranslation
+        ?? Model.Translations.First(item => item.Text is not null).Translation;
+    ViewData["Title"] = $"{Model.Book.Abbreviation} {Model.Chapter},{Model.Verse}";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a asp-action="Index" up-follow>Biblia</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a asp-action="Translation"
+               asp-route-translation="@navigationTranslation.Code"
+               up-follow>@navigationTranslation.Code</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a asp-action="Book"
+               asp-route-translation="@navigationTranslation.Code"
+               asp-route-book="@Model.Book.Abbreviation"
+               up-follow>@Model.Book.Abbreviation</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a asp-action="Chapter"
+               asp-route-translation="@navigationTranslation.Code"
+               asp-route-book="@Model.Book.Abbreviation"
+               asp-route-chapter="@Model.Chapter"
+               up-follow>Rozdział @Model.Chapter</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">Werset @Model.Verse</li>
+    </ol>
+</nav>
+
+<div class="bible-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2">Porównanie przekładów</p>
+    <h1 class="display-6 fw-semibold">
+        @Model.Book.Name <span class="text-nowrap">@Model.Chapter,@Model.Verse</span>
+    </h1>
+</div>
+
+<div class="translation-comparison">
+    @foreach (var item in Model.Translations)
+    {
+        <section class="translation-verse-card">
+            <div class="translation-verse-heading">
+                <h2 class="h5 mb-0">@item.Translation.Code</h2>
+                @if (item.Text is not null)
+                {
+                    <a asp-action="Chapter"
+                       asp-route-translation="@item.Translation.Code"
+                       asp-route-book="@Model.Book.Abbreviation"
+                       asp-route-chapter="@Model.Chapter"
+                       asp-fragment="@($"w{Model.Verse}")"
+                       up-follow>Otwórz rozdział</a>
+                }
+            </div>
+            @if (item.Text is not null)
+            {
+                <p class="translation-verse-text mb-0">
+                    <span class="translation-verse-number">@Model.Verse</span>
+                    @item.Text
+                </p>
+            }
+            else
+            {
+                <p class="mb-0 text-secondary">Ten werset nie występuje w tym przekładzie.</p>
+            }
+        </section>
+    }
+</div>
+
+<a class="btn btn-outline-primary mt-4"
+   asp-action="Chapter"
+   asp-route-translation="@navigationTranslation.Code"
+   asp-route-book="@Model.Book.Abbreviation"
+   asp-route-chapter="@Model.Chapter"
+   asp-fragment="@($"w{Model.Verse}")"
+   up-follow>← Wróć do rozdziału</a>

@@ -1,5 +1,18 @@
 ## Usage
 
+Generate the file-backed Bible data before building the application:
+
+```bash
+python3 convert-input-to-output.py
+```
+
+The generated `output/` directory remains at the repository root. The web
+project links `output/**/*.yml` as content and copies it to `Bible/` beside the
+application DLL during both IDE builds and `dotnet publish`. The container
+therefore receives the same data inside the image and does not need a volume or
+a Redis process. Rebuild or republish the application after regenerating the
+YAML files.
+
 Install everything and start the stack:
 
 ```bash

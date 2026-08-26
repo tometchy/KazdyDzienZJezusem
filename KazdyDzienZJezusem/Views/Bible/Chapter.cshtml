@@ -1,0 +1,118 @@
+@model BibleChapterViewModel
+@{
+    ViewData["Title"] = $"{Model.Book.Abbreviation} {Model.Chapter} — {Model.Translation.Code}";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a asp-action="Index" up-follow>Biblia</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a asp-action="Translation"
+               asp-route-translation="@Model.Translation.Code"
+               up-follow>@Model.Translation.Code</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a asp-action="Book"
+               asp-route-translation="@Model.Translation.Code"
+               asp-route-book="@Model.Book.Abbreviation"
+               up-follow>@Model.Book.Abbreviation</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">Rozdział @Model.Chapter</li>
+    </ol>
+</nav>
+
+<div class="bible-heading bible-chapter-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2">@Model.Translation.Code</p>
+    <h1 class="display-6 fw-semibold">@Model.Book.Name @Model.Chapter</h1>
+</div>
+
+<div class="chapter-navigation" aria-label="Nawigacja między rozdziałami">
+    @if (Model.PreviousChapter is int previousChapter)
+    {
+        <a class="btn btn-outline-secondary"
+           asp-action="Chapter"
+           asp-route-translation="@Model.Translation.Code"
+           asp-route-book="@Model.Book.Abbreviation"
+           asp-route-chapter="@previousChapter"
+           up-follow>← Rozdział @previousChapter</a>
+    }
+    else
+    {
+        <span></span>
+    }
+
+    <a class="btn btn-outline-primary"
+       asp-action="Book"
+       asp-route-translation="@Model.Translation.Code"
+       asp-route-book="@Model.Book.Abbreviation"
+       up-follow>Wszystkie rozdziały</a>
+
+    @if (Model.NextChapter is int nextChapter)
+    {
+        <a class="btn btn-outline-secondary"
+           asp-action="Chapter"
+           asp-route-translation="@Model.Translation.Code"
+           asp-route-book="@Model.Book.Abbreviation"
+           asp-route-chapter="@nextChapter"
+           up-follow>Rozdział @nextChapter →</a>
+    }
+    else
+    {
+        <span></span>
+    }
+</div>
+
+<article class="verse-list" aria-label="@Model.Book.Name, rozdział @Model.Chapter">
+    @foreach (var verse in Model.Verses)
+    {
+        <div class="bible-verse" id="@($"w{verse.Number}")">
+            <a class="verse-number"
+               asp-action="Verse"
+               asp-route-book="@Model.Book.Abbreviation"
+               asp-route-chapter="@Model.Chapter"
+               asp-route-verse="@verse.Number"
+               asp-route-sourceTranslation="@Model.Translation.Code"
+               aria-label="Porównaj @Model.Book.Abbreviation @Model.Chapter,@verse.Number we wszystkich przekładach"
+               up-follow>@verse.Number</a>
+            <span class="verse-text">@verse.Text</span>
+        </div>
+    }
+</article>
+
+<div class="chapter-navigation chapter-navigation-bottom" aria-label="Nawigacja między rozdziałami">
+    @if (Model.PreviousChapter is int bottomPreviousChapter)
+    {
+        <a class="btn btn-outline-secondary"
+           asp-action="Chapter"
+           asp-route-translation="@Model.Translation.Code"
+           asp-route-book="@Model.Book.Abbreviation"
+           asp-route-chapter="@bottomPreviousChapter"
+           up-follow>← Rozdział @bottomPreviousChapter</a>
+    }
+    else
+    {
+        <span></span>
+    }
+
+    <a class="btn btn-outline-primary"
+       asp-action="Book"
+       asp-route-translation="@Model.Translation.Code"
+       asp-route-book="@Model.Book.Abbreviation"
+       up-follow>Wszystkie rozdziały</a>
+
+    @if (Model.NextChapter is int bottomNextChapter)
+    {
+        <a class="btn btn-outline-secondary"
+           asp-action="Chapter"
+           asp-route-translation="@Model.Translation.Code"
+           asp-route-book="@Model.Book.Abbreviation"
+           asp-route-chapter="@bottomNextChapter"
+           up-follow>Rozdział @bottomNextChapter →</a>
+    }
+    else
+    {
+        <span></span>
+    }
+</div>

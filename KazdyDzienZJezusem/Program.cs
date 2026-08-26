@@ -2,6 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton(new KazdyDzienZJezusem.Services.BibleRepository(
+    Path.Combine(AppContext.BaseDirectory, "Bible")));
 
 var app = builder.Build();
 
@@ -20,11 +22,7 @@ app.UseAuthorization();
 
 app.MapStaticAssets();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{action=Biblia}/{id?}",
-    defaults: new { controller = "Home" })
+app.MapControllers()
     .WithStaticAssets();
-
 
 app.Run();

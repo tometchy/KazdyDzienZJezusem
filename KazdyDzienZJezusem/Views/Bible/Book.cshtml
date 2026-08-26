@@ -1,0 +1,38 @@
+@model BibleChapterListViewModel
+@{
+    ViewData["Title"] = $"{Model.Book.Name} — {Model.Translation.Code}";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a asp-action="Index" up-follow>Biblia</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a asp-action="Translation"
+               asp-route-translation="@Model.Translation.Code"
+               up-follow>@Model.Translation.Code</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">@Model.Book.Abbreviation</li>
+    </ol>
+</nav>
+
+<div class="bible-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2">
+        @Model.Translation.Code · @Model.Book.Abbreviation
+    </p>
+    <h1 class="display-6 fw-semibold">@Model.Book.Name</h1>
+    <p class="lead text-secondary">Wybierz rozdział.</p>
+</div>
+
+<div class="chapter-grid" aria-label="Rozdziały">
+    @foreach (var chapter in Model.Chapters)
+    {
+        <a class="btn btn-outline-primary chapter-button"
+           asp-action="Chapter"
+           asp-route-translation="@Model.Translation.Code"
+           asp-route-book="@Model.Book.Abbreviation"
+           asp-route-chapter="@chapter"
+           up-follow>@chapter</a>
+    }
+</div>
