@@ -1,9 +1,13 @@
+using KazdyDzienZJezusem.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddSingleton(new KazdyDzienZJezusem.Services.BibleRepository(
-    Path.Combine(AppContext.BaseDirectory, "Bible")));
+builder.Services.AddSingleton<IBibleFileSystem, PhysicalBibleFileSystem>();
+builder.Services.AddSingleton(serviceProvider => new BibleRepository(
+    Path.Combine(AppContext.BaseDirectory, "Bible"),
+    serviceProvider.GetRequiredService<IBibleFileSystem>()));
 
 var app = builder.Build();
 
@@ -26,3 +30,7 @@ app.MapControllers()
     .WithStaticAssets();
 
 app.Run();
+
+public partial class Program
+{
+}

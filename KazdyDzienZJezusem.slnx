@@ -7,4 +7,5 @@
     <File Path="podman-up.sh" />
   </Folder>
   <Project Path="KazdyDzienZJezusem/KazdyDzienZJezusem.csproj" />
+  <Project Path="KazdyDzienZJezusem.Tests/KazdyDzienZJezusem.Tests.csproj" />
 </Solution>

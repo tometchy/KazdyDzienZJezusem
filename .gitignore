@@ -815,3 +815,6 @@ Index/*
 !Index/Topics/
 !Index/Topics/**
 IndexHtml/
+
+# Verify snapshot test output
+*.received.*

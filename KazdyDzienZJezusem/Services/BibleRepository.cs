@@ -86,20 +86,22 @@ public sealed class BibleRepository
     ];
 
     private readonly string _rootPath;
+    private readonly IBibleFileSystem _fileSystem;
     private readonly ConcurrentDictionary<ChapterKey, IReadOnlyList<BibleVerse>> _chapterCache = new();
 
-    public BibleRepository(string rootPath)
+    public BibleRepository(string rootPath, IBibleFileSystem fileSystem)
     {
         _rootPath = Path.GetFullPath(rootPath);
+        _fileSystem = fileSystem;
 
-        if (!Directory.Exists(_rootPath))
+        if (!_fileSystem.DirectoryExists(_rootPath))
         {
             throw new DirectoryNotFoundException(
                 $"Bible data directory was not found: {_rootPath}");
         }
 
         var missingTranslations = Translations
-            .Where(translation => !Directory.Exists(GetTranslationPath(translation)))
+            .Where(translation => !_fileSystem.DirectoryExists(GetTranslationPath(translation)))
             .Select(translation => translation.Code)
             .ToArray();
 
@@ -119,22 +121,22 @@ public sealed class BibleRepository
         book => string.Equals(book.Abbreviation, abbreviation, StringComparison.OrdinalIgnoreCase));
 
     public IReadOnlyList<BibleBook> GetBooks(BibleTranslation translation) => Books
-        .Where(book => Directory.Exists(GetBookPath(translation, book)))
+        .Where(book => _fileSystem.DirectoryExists(GetBookPath(translation, book)))
         .ToArray();
 
     public bool HasBook(BibleTranslation translation, BibleBook book) =>
-        Directory.Exists(GetBookPath(translation, book));
+        _fileSystem.DirectoryExists(GetBookPath(translation, book));
 
     public IReadOnlyList<int> GetChapters(BibleTranslation translation, BibleBook book)
     {
         var bookPath = GetBookPath(translation, book);
-        if (!Directory.Exists(bookPath))
+        if (!_fileSystem.DirectoryExists(bookPath))
         {
             return [];
         }
 
-        return Directory
-            .EnumerateFiles(bookPath, "*.yml", SearchOption.TopDirectoryOnly)
+        return _fileSystem
+            .EnumerateFiles(bookPath, "*.yml")
             .Select(Path.GetFileNameWithoutExtension)
             .Select(fileName => int.TryParse(fileName, NumberStyles.None, CultureInfo.InvariantCulture, out var chapter)
                 ? chapter
@@ -146,7 +148,7 @@ public sealed class BibleRepository
     }
 
     public bool HasChapter(BibleTranslation translation, BibleBook book, int chapter) =>
-        File.Exists(GetChapterPath(translation, book, chapter));
+        _fileSystem.FileExists(GetChapterPath(translation, book, chapter));
 
     public IReadOnlyList<BibleVerse> GetChapter(
         BibleTranslation translation,
@@ -179,7 +181,7 @@ public sealed class BibleRepository
         int chapter)
     {
         var path = GetChapterPath(translation, book, chapter);
-        if (!File.Exists(path))
+        if (!_fileSystem.FileExists(path))
         {
             return [];
         }
@@ -188,7 +190,7 @@ public sealed class BibleRepository
         var seenVerses = new HashSet<int>();
         var verses = new List<BibleVerse>();
 
-        foreach (var line in File.ReadLines(path))
+        foreach (var line in _fileSystem.ReadLines(path))
         {
             if (string.IsNullOrWhiteSpace(line))
             {

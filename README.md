@@ -13,6 +13,40 @@ therefore receives the same data inside the image and does not need a volume or
 a Redis process. Rebuild or republish the application after regenerating the
 YAML files.
 
+## Page snapshot tests
+
+The xUnit tests verify the complete HTML of the Bible index and the
+`/Biblia/TNP/1Kor/1` chapter page with Verify snapshots. The same test methods
+and the same `.verified.html` files are used in both modes.
+
+The default mode starts the application in-process and replaces its Bible file
+system with an in-memory stub, so no separately running application is needed:
+
+```bash
+dotnet test --project KazdyDzienZJezusem.Tests/KazdyDzienZJezusem.Tests.csproj
+```
+
+For E2E mode, start the current application from the IDE with its HTTP profile,
+then point the tests at that address:
+
+```bash
+KDJ_E2E_BASE_URL=http://localhost:5267 \
+  dotnet test --project KazdyDzienZJezusem.Tests/KazdyDzienZJezusem.Tests.csproj
+```
+
+The container published by `compose.yaml` is exposed on port `8081`, so the
+equivalent command for an already running container is:
+
+```bash
+KDJ_E2E_BASE_URL=http://localhost:8081 \
+  dotnet test --project KazdyDzienZJezusem.Tests/KazdyDzienZJezusem.Tests.csproj
+```
+
+When a page change is intentional, first run the deterministic stubbed mode,
+review the generated `*.received.html` diff, and accept it as the new Verify
+snapshot. E2E mode should only compare the running application with those
+already accepted snapshots.
+
 Install everything and start the stack:
 
 ```bash
