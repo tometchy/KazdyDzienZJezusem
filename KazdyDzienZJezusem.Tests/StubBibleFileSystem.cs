@@ -4,8 +4,8 @@ namespace KazdyDzienZJezusem.Tests;
 
 public sealed class StubBibleFileSystem : IBibleFileSystem
 {
-    private const string StubbedBook = "TNP/1Kor";
-    private const string StubbedChapter = $"{StubbedBook}/1.yml";
+    private const string CorinthiansBook = "TNP/1Kor";
+    private const string CorinthiansChapter = $"{CorinthiansBook}/1.yml";
 
     private static readonly HashSet<string> TranslationDirectories =
     [
@@ -15,40 +15,69 @@ public sealed class StubBibleFileSystem : IBibleFileSystem
         "UBG"
     ];
 
-    private static readonly string[] ChapterOneLines =
-        ChapterOne.Split('\n', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
+    private static readonly int[] CorinthiansChapters = Enumerable.Range(1, 16).ToArray();
+    private static readonly int[] GenesisChapters = [1];
+    private static readonly int[] RevelationChapters = Enumerable.Range(1, 22).ToArray();
+
+    private static readonly IReadOnlyDictionary<string, int[]> ChaptersByBook =
+        new Dictionary<string, int[]>(StringComparer.Ordinal)
+        {
+            [CorinthiansBook] = CorinthiansChapters,
+            ["UBG/Rdz"] = GenesisChapters,
+            ["KJV/Rdz"] = GenesisChapters,
+            ["UBG/Ob"] = RevelationChapters,
+            ["TNP/Ob"] = RevelationChapters,
+            ["TR/Ob"] = RevelationChapters,
+            ["KJV/Ob"] = RevelationChapters
+        };
+
+    private static readonly IReadOnlyDictionary<string, string[]> LinesByChapter =
+        new Dictionary<string, string[]>(StringComparer.Ordinal)
+        {
+            [CorinthiansChapter] = ToLines(ChapterOne),
+            ["UBG/Rdz/1.yml"] = ToLines(UbgGenesisChapterOne),
+            ["KJV/Rdz/1.yml"] = ToLines(KjvGenesisChapterOne),
+            ["UBG/Ob/15.yml"] = ToLines(UbgRevelationChapterFifteen),
+            ["TNP/Ob/15.yml"] = ToLines(TnpRevelationChapterFifteen),
+            ["TR/Ob/15.yml"] = ToLines(TrRevelationChapterFifteen),
+            ["KJV/Ob/15.yml"] = ToLines(KjvRevelationChapterFifteen)
+        };
 
     public bool DirectoryExists(string path)
     {
         var relativePath = GetBibleRelativePath(path);
         return relativePath.Length == 0
                || TranslationDirectories.Contains(relativePath)
-               || relativePath == StubbedBook;
+               || ChaptersByBook.ContainsKey(relativePath);
     }
 
     public IEnumerable<string> EnumerateFiles(string path, string searchPattern)
     {
-        if (GetBibleRelativePath(path) != StubbedBook || searchPattern != "*.yml")
+        var relativePath = GetBibleRelativePath(path);
+        if (searchPattern != "*.yml" || !ChaptersByBook.TryGetValue(relativePath, out var chapters))
         {
             return [];
         }
 
-        return Enumerable.Range(1, 16)
+        return chapters
             .Select(chapter => Path.Combine(path, $"{chapter}.yml"));
     }
 
     public bool FileExists(string path) =>
-        GetBibleRelativePath(path) == StubbedChapter;
+        LinesByChapter.ContainsKey(GetBibleRelativePath(path));
 
     public IEnumerable<string> ReadLines(string path)
     {
-        if (!FileExists(path))
+        if (!LinesByChapter.TryGetValue(GetBibleRelativePath(path), out var lines))
         {
             throw new FileNotFoundException("The requested chapter is not part of the test stub.", path);
         }
 
-        return ChapterOneLines;
+        return lines;
     }
+
+    private static string[] ToLines(string chapter) =>
+        chapter.Split('\n', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
 
     private static string GetBibleRelativePath(string path)
     {
@@ -63,6 +92,58 @@ public sealed class StubBibleFileSystem : IBibleFileSystem
         return normalizedPath[(bibleDirectoryIndex + "/Bible".Length)..]
             .TrimStart('/');
     }
+
+    private const string UbgGenesisChapterOne = """
+        "Rdz1,1": "Na początku Bóg stworzył niebo i ziemię."
+        """;
+
+    private const string KjvGenesisChapterOne = """
+        "Rdz1,1": "In the beginning God created the heaven and the earth."
+        """;
+
+    private const string UbgRevelationChapterFifteen = """
+        "Ob15,1": "Potem zobaczyłem inny znak na niebie, wielki i zadziwiający: siedmiu aniołów, którzy mieli siedem plag ostatecznych, bo przez nie dopełnił się gniew Boga."
+        "Ob15,2": "I zobaczyłem jakby morze szklane zmieszane z ogniem i tych, którzy odnieśli zwycięstwo nad bestią, nad jej wizerunkiem, nad jej znamieniem i nad liczbą jej imienia, stojących nad szklanym morzem, mających harfy Boga."
+        "Ob15,3": "I śpiewali pieśń Mojżesza, sługi Boga, i pieśń Baranka: Wielkie i zadziwiające są twoje dzieła, Panie Boże Wszechmogący. Sprawiedliwe i prawdziwe są twoje drogi, o Królu świętych;"
+        "Ob15,4": "Któż by się nie bał ciebie, Panie, i nie uwielbił twego imienia? Bo ty jedynie jesteś święty, bo wszystkie narody przyjdą i oddadzą tobie pokłon, bo objawiły się twoje wyroki."
+        "Ob15,5": "Potem zobaczyłem, a oto została otwarta świątynia Przybytku Świadectwa w niebie."
+        "Ob15,6": "I wyszło ze świątyni siedmiu aniołów mających siedem plag, ubranych w czysty, lśniący len i przepasanych na piersi złotymi pasami."
+        "Ob15,7": "A jedno z czterech stworzeń dało siedmiu aniołom siedem złotych czasz pełnych gniewu Boga, który żyje na wieki wieków."
+        "Ob15,8": "I napełniła się świątynia dymem od chwały Boga i jego mocy. I nikt nie mógł wejść do świątyni, dopóki nie dopełniło się siedem plag siedmiu aniołów."
+        """;
+
+    private const string TnpRevelationChapterFifteen = """
+        "Ob15,1": "I zobaczyłem inny znak na niebie, wielki i dziwny: siedmiu aniołów, którzy mają siedem ostatnich plag, gdyż po nich zakończy się gniew Boga."
+        "Ob15,2": "I widziałem jakby szklane morze, zmieszane z ogniem, i zwyciężających z dzikim zwierzęciem i z jego obrazem, i z jego znamieniem, i z liczbą jego imienia, stojących na szklanym morzu, mających harfy Boga."
+        "Ob15,3": "I śpiewają pieśń Mojżesza, sługi Boga, i pieśń Baranka, mówiąc: Wielkie i dziwne są Twoje dzieła, PANIE, Boże Wszechmogący! Sprawiedliwe i prawdziwe są Twoje drogi, o Królu świętych!"
+        "Ob15,4": "Kto by się Ciebie nie bał, PANIE?! I nie oddał chwały Twojemu imieniu? Bo Ty jedynie jesteś święty, gdyż wszystkie narody przyjdą i oddadzą pokłon przed Tobą, bo zostały ujawnione Twoje sprawiedliwe dzieła."
+        "Ob15,5": "I po tym zobaczyłem, a oto została otwarta świątynia namiotu świadectwa w niebie,"
+        "Ob15,6": "I wyszło ze świątyni siedmiu aniołów, mających siedem plag, którzy są przyodziani w czysty i lśniący len oraz przepasani na piersiach złotymi pasami."
+        "Ob15,7": "I jedno z czterech stworzeń dało siedmiu aniołom siedem złotych czasz, które są pełne gniewu Boga, żyjącego na wieki wieków."
+        "Ob15,8": "I napełniona została świątynia dymem chwały Boga i od Jego mocy, i nikt nie mógł wejść do świątyni, póki nie skończy się siedem plag siedmiu aniołów."
+        """;
+
+    private const string TrRevelationChapterFifteen = """
+        "Ob15,1": "Καὶ εἶδον ἄλλο σημεῖον ἐν τῷ οὐρανῷ μέγα καὶ θαυμαστόν, ἀγγέλους ἑπτὰ ἔχοντας πληγὰς ἑπτὰ τὰς ἐσχάτας, ὅτι ἐν αὐταῖς ἐτελέσθη ὁ θυμὸς τοῦ Θεοῦ."
+        "Ob15,2": "Καὶ εἶδον ὡς θάλασσαν ὑαλίνην μεμιγμένην πυρί, καὶ τοὺς νικῶντας ἐκ τοῦ θηρίου καὶ ἐκ τῆς εἰκόνος αὐτοῦ καὶ ἐκ τοῦ χαράγματος αὐτοῦ, ἐκ τοῦ ἀριθμοῦ τοῦ ὀνόματος αὐτοῦ, ἑστῶτας ἐπὶ τὴν θάλασσαν τὴν ὑαλίνην, ἔχοντας κιθάρας τοῦ Θεοῦ."
+        "Ob15,3": "καὶ ᾄδουσι τὴν ᾠδὴν Μωσέως τοῦ δούλου τοῦ Θεοῦ, καὶ τὴν ᾠδὴν τοῦ ἀρνίου, λέγοντες, Μεγάλα καὶ θαυμαστὰ τὰ ἔργα σου, Κύριε ὁ Θεὸς ὁ παντοκράτωρ· δίκαιαι καὶ ἀληθιναὶ αἱ ὁδοί σου, ὁ βασιλεὺς τῶν ἁγίων."
+        "Ob15,4": "τίς οὐ μὴ φοβηθῇ σε, Κύριε, καὶ δοξάσῃ τὸ ὄνομά σου; ὅτι μόνος ὅσιος· ὅτι πάντα τὰ ἔθνη ἥξουσι καὶ προσκυνήσουσιν ἐνώπιόν σου, ὅτι τὰ δικαιώματά σου ἐφανερώθησαν."
+        "Ob15,5": "Καὶ μετὰ ταῦτα εἶδον, καὶ ἰδού, ἠνοίγη ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου ἐν τῷ οὐρανῷ·"
+        "Ob15,6": "καὶ ἐξῆλθον οἱ ἑπτὰ ἄγγελοι ἔχοντες τὰς ἑπτὰ πληγὰς ἐκ τοῦ ναοῦ, ἐνδεδυμένοι λίνον καθαρὸν καὶ λαμπρόν, καὶ περιεζωσμένοι περὶ τὰ στήθη ζώνας χρυσᾶς."
+        "Ob15,7": "καὶ ἓν ἐκ τῶν τεσσάρων ζώων ἔδωκε τοῖς ἑπτὰ ἀγγέλοις ἑπτὰ φιάλας χρυσᾶς γεμούσας τοῦ θυμοῦ τοῦ Θεοῦ τοῦ ζῶντος εἰς τοὺς αἰῶνας τῶν αἰώνων."
+        "Ob15,8": "καὶ ἐγεμίσθη ὁ ναὸς καπνοῦ ἐκ τῆς δόξης τοῦ Θεοῦ, καὶ ἐκ τῆς δυνάμεως αὐτοῦ· καὶ οὐδεὶς ἠδύνατο εἰσελθεῖν εἰς τὸν ναόν, ἄχρι τελεσθῶσιν αἱ ἑπτὰ πληγαὶ τῶν ἑπτὰ ἀγγέλων."
+        """;
+
+    private const string KjvRevelationChapterFifteen = """
+        "Ob15,1": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God."
+        "Ob15,2": "And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, [and] over the number of his name, stand on the sea of glass, having the harps of God."
+        "Ob15,3": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints."
+        "Ob15,4": "Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] holy: for all nations shall come and worship before thee; for thy judgments are made manifest."
+        "Ob15,5": "And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:"
+        "Ob15,6": "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles."
+        "Ob15,7": "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever."
+        "Ob15,8": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled."
+        """;
 
     private const string ChapterOne = """
         "1Kor1,1": "Paweł, powołany apostoł Jezusa Chrystusa z woli Boga, i Sostenes, brat,"

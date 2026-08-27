@@ -15,9 +15,12 @@ YAML files.
 
 ## Page snapshot tests
 
-The xUnit tests verify the complete HTML of the Bible index and the
-`/Biblia/TNP/1Kor/1` chapter page with Verify snapshots. The same test methods
-and the same `.verified.html` files are used in both modes.
+The xUnit tests verify the complete HTML of the Bible index, the
+`/Biblia/TNP/1Kor/1` chapter page, a representative chapter from every
+translation, and verse-comparison pages. The comparison coverage includes both
+a verse available in every translation and one available in only some
+translations. The same test methods and the same `.verified.html` files are used
+in both modes.
 
 The default mode starts the application in-process and replaces its Bible file
 system with an in-memory stub, so no separately running application is needed:

@@ -13,6 +13,30 @@ public sealed class BiblePageTests(PageTestHost host) : IClassFixture<PageTestHo
     public Task Chapter_page_matches_snapshot() =>
         VerifyPage("/Biblia/TNP/1Kor/1");
 
+    [Fact]
+    public Task Ubg_chapter_page_matches_snapshot() =>
+        VerifyPage("/Biblia/UBG/Ob/15");
+
+    [Fact]
+    public Task Tnp_chapter_page_matches_snapshot() =>
+        VerifyPage("/Biblia/TNP/Ob/15");
+
+    [Fact]
+    public Task Tr_chapter_page_matches_snapshot() =>
+        VerifyPage("/Biblia/TR/Ob/15");
+
+    [Fact]
+    public Task Kjv_chapter_page_matches_snapshot() =>
+        VerifyPage("/Biblia/KJV/Ob/15");
+
+    [Fact]
+    public Task Verse_comparison_with_all_translations_matches_snapshot() =>
+        VerifyPage("/Biblia/Werset/Ob/15/1?sourceTranslation=UBG");
+
+    [Fact]
+    public Task Verse_comparison_with_partial_translation_coverage_matches_snapshot() =>
+        VerifyPage("/Biblia/Werset/Rdz/1/1?sourceTranslation=UBG");
+
     private async Task VerifyPage(string path)
     {
         using var response = await host.Client.GetAsync(
