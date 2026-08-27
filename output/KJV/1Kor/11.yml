@@ -1,34 +1,102 @@
-"1Kor11,1": "Be ye followers of me, even as I also [am] of Christ."
-"1Kor11,2": "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered [them] to you."
-"1Kor11,3": "But I would have you know, that the head of every man is Christ; and the head of the woman [is] the man; and the head of Christ [is] God."
-"1Kor11,4": "Every man praying or prophesying, having [his] head covered, dishonoureth his head."
-"1Kor11,5": "But every woman that prayeth or prophesieth with [her] head uncovered dishonoureth her head: for that is even all one as if she were shaven."
-"1Kor11,6": "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered."
-"1Kor11,7": "For a man indeed ought not to cover [his] head, forasmuch as he is the image and glory of God: but the woman is the glory of the man."
-"1Kor11,8": "For the man is not of the woman; but the woman of the man."
-"1Kor11,9": "Neither was the man created for the woman; but the woman for the man."
-"1Kor11,10": "For this cause ought the woman to have power on [her] head because of the angels."
-"1Kor11,11": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord."
-"1Kor11,12": "For as the woman [is] of the man, even so [is] the man also by the woman; but all things of God."
-"1Kor11,13": "Judge in yourselves: is it comely that a woman pray unto God uncovered?"
-"1Kor11,14": "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?"
-"1Kor11,15": "But if a woman have long hair, it is a glory to her: for [her] hair is given her for a covering."
-"1Kor11,16": "But if any man seem to be contentious, we have no such custom, neither the churches of God."
-"1Kor11,17": "Now in this that I declare [unto you] I praise [you] not, that ye come together not for the better, but for the worse."
-"1Kor11,18": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it."
-"1Kor11,19": "For there must be also heresies among you, that they which are approved may be made manifest among you."
-"1Kor11,20": "When ye come together therefore into one place, [this] is not to eat the Lord's supper."
-"1Kor11,21": "For in eating every one taketh before [other] his own supper: and one is hungry, and another is drunken."
-"1Kor11,22": "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise [you] not."
-"1Kor11,23": "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the [same] night in which he was betrayed took bread:"
-"1Kor11,24": "And when he had given thanks, he brake [it], and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me."
-"1Kor11,25": "After the same manner also [he took] the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink [it], in remembrance of me."
-"1Kor11,26": "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come."
-"1Kor11,27": "Wherefore whosoever shall eat this bread, and drink [this] cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord."
-"1Kor11,28": "But let a man examine himself, and so let him eat of [that] bread, and drink of [that] cup."
-"1Kor11,29": "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body."
-"1Kor11,30": "For this cause many [are] weak and sickly among you, and many sleep."
-"1Kor11,31": "For if we would judge ourselves, we should not be judged."
-"1Kor11,32": "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world."
-"1Kor11,33": "Wherefore, my brethren, when ye come together to eat, tarry one for another."
-"1Kor11,34": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come."
+"1Kor11,1":
+  text: "Be ye followers of me, even as I also [am] of Christ."
+  tags: []
+"1Kor11,2":
+  text: "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered [them] to you."
+  tags: []
+"1Kor11,3":
+  text: "But I would have you know, that the head of every man is Christ; and the head of the woman [is] the man; and the head of Christ [is] God."
+  tags: []
+"1Kor11,4":
+  text: "Every man praying or prophesying, having [his] head covered, dishonoureth his head."
+  tags: []
+"1Kor11,5":
+  text: "But every woman that prayeth or prophesieth with [her] head uncovered dishonoureth her head: for that is even all one as if she were shaven."
+  tags: []
+"1Kor11,6":
+  text: "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered."
+  tags: []
+"1Kor11,7":
+  text: "For a man indeed ought not to cover [his] head, forasmuch as he is the image and glory of God: but the woman is the glory of the man."
+  tags: []
+"1Kor11,8":
+  text: "For the man is not of the woman; but the woman of the man."
+  tags: []
+"1Kor11,9":
+  text: "Neither was the man created for the woman; but the woman for the man."
+  tags: []
+"1Kor11,10":
+  text: "For this cause ought the woman to have power on [her] head because of the angels."
+  tags: []
+"1Kor11,11":
+  text: "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord."
+  tags: []
+"1Kor11,12":
+  text: "For as the woman [is] of the man, even so [is] the man also by the woman; but all things of God."
+  tags: []
+"1Kor11,13":
+  text: "Judge in yourselves: is it comely that a woman pray unto God uncovered?"
+  tags: []
+"1Kor11,14":
+  text: "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?"
+  tags: []
+"1Kor11,15":
+  text: "But if a woman have long hair, it is a glory to her: for [her] hair is given her for a covering."
+  tags: []
+"1Kor11,16":
+  text: "But if any man seem to be contentious, we have no such custom, neither the churches of God."
+  tags: []
+"1Kor11,17":
+  text: "Now in this that I declare [unto you] I praise [you] not, that ye come together not for the better, but for the worse."
+  tags: []
+"1Kor11,18":
+  text: "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it."
+  tags: []
+"1Kor11,19":
+  text: "For there must be also heresies among you, that they which are approved may be made manifest among you."
+  tags: []
+"1Kor11,20":
+  text: "When ye come together therefore into one place, [this] is not to eat the Lord's supper."
+  tags: []
+"1Kor11,21":
+  text: "For in eating every one taketh before [other] his own supper: and one is hungry, and another is drunken."
+  tags: []
+"1Kor11,22":
+  text: "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise [you] not."
+  tags: []
+"1Kor11,23":
+  text: "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the [same] night in which he was betrayed took bread:"
+  tags: []
+"1Kor11,24":
+  text: "And when he had given thanks, he brake [it], and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me."
+  tags: []
+"1Kor11,25":
+  text: "After the same manner also [he took] the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink [it], in remembrance of me."
+  tags: []
+"1Kor11,26":
+  text: "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come."
+  tags: []
+"1Kor11,27":
+  text: "Wherefore whosoever shall eat this bread, and drink [this] cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord."
+  tags: []
+"1Kor11,28":
+  text: "But let a man examine himself, and so let him eat of [that] bread, and drink of [that] cup."
+  tags: []
+"1Kor11,29":
+  text: "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body."
+  tags: []
+"1Kor11,30":
+  text: "For this cause many [are] weak and sickly among you, and many sleep."
+  tags: []
+"1Kor11,31":
+  text: "For if we would judge ourselves, we should not be judged."
+  tags: []
+"1Kor11,32":
+  text: "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world."
+  tags: []
+"1Kor11,33":
+  text: "Wherefore, my brethren, when ye come together to eat, tarry one for another."
+  tags: []
+"1Kor11,34":
+  text: "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come."
+  tags: []

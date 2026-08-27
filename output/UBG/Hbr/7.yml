@@ -1,28 +1,84 @@
-"Hbr7,1": "Ten bowiem Melchizedek, król Salemu, kapłan Boga najwyższego, wyszedł na spotkanie Abrahama wracającego po rozgromieniu królów i pobłogosławił go."
-"Hbr7,2": "Jemu też Abraham wydzielił dziesięcinę ze wszystkiego. Jest on najpierw, według tłumaczenia, królem sprawiedliwości, potem też królem Salemu, co znaczy król pokoju."
-"Hbr7,3": "Bez ojca, bez matki, bez rodowodu, niemający ani początku dni, ani końca życia, ale upodobniony do Syna Bożego, pozostaje kapłanem na zawsze."
-"Hbr7,4": "Rozważcie więc, jak wielki był ten, któremu sam patriarcha Abraham dał dziesięcinę z łupu."
-"Hbr7,5": "Wprawdzie ci z synów Lewiego, którzy otrzymują urząd kapłański, mają nakaz zgodnie z prawem pobierać dziesięcinę od ludu, to jest od swoich braci, chociaż wywodzą się z lędźwi Abrahama;"
-"Hbr7,6": "Lecz ten, który nie wywodził się z ich rodu, otrzymał dziesięcinę od Abrahama i pobłogosławił temu, który miał obietnice."
-"Hbr7,7": "A jest to rzecz bezsporna, że mniejszy otrzymuje błogosławieństwo od większego."
-"Hbr7,8": "Ponadto tu biorą dziesięciny ludzie, którzy umierają, tam zaś ten, o którym zaświadczono, że żyje."
-"Hbr7,9": "I jeśli tak można powiedzieć, także Lewi, który otrzymuje dziesięciny, dał dziesięcinę w Abrahamie."
-"Hbr7,10": "Był bowiem jeszcze w lędźwiach swego ojca, gdy Melchizedek wyszedł mu na spotkanie."
-"Hbr7,11": "Gdyby więc doskonałość była osiągalna przez kapłaństwo lewickie – gdyż lud otrzymał prawo oparte na nim – to jaka byłaby jeszcze potrzeba, aby pojawił się inny kapłan według porządku Melchizedeka, a nie był mianowany według porządku Aarona?"
-"Hbr7,12": "A skoro zmienia się kapłaństwo, musi też nastąpić zmiana prawa."
-"Hbr7,13": "Ten zaś, o którym się to mówi, należał do innego pokolenia, z którego nikt nie służył przy ołtarzu."
-"Hbr7,14": "Wiadomo bowiem, że nasz Pan pochodził z pokolenia Judy, o którym to pokoleniu odnośnie kapłaństwa Mojżesz nic nie mówi."
-"Hbr7,15": "Jest to jeszcze bardziej oczywiste, skoro na podobieństwo Melchizedeka pojawia się inny kapłan;"
-"Hbr7,16": "Który stał się nim nie według cielesnego przykazania prawa, ale według mocy niezniszczalnego życia."
-"Hbr7,17": "Tak bowiem świadczy: Ty jesteś kapłanem na wieki według porządku Melchizedeka."
-"Hbr7,18": "Zostało więc zniesione poprzednie przykazanie z powodu jego słabości i nieużyteczności."
-"Hbr7,19": "Prawo bowiem nie uczyniło niczego doskonałym, ale na jego miejsce została wprowadzona lepsza nadzieja, przez którą zbliżamy się do Boga."
-"Hbr7,20": "A stało się to nie bez złożenia przysięgi."
-"Hbr7,21": "Tamci bowiem zostali kapłanami bez przysięgi, ten zaś na podstawie przysięgi tego, który powiedział do niego: Przysiągł Pan i nie będzie żałował: Ty jesteś kapłanem na wieki według porządku Melchizedeka;"
-"Hbr7,22": "O tyle też Jezus stał się poręczycielem lepszego przymierza."
-"Hbr7,23": "A wprawdzie tamtych kapłanów było wielu, gdyż śmierć nie pozwoliła im trwać na zawsze."
-"Hbr7,24": "Ten zaś, ponieważ trwa na wieki, ma kapłaństwo nieprzemijające."
-"Hbr7,25": "Dlatego też całkowicie może zbawić tych, którzy przez niego przychodzą do Boga, bo zawsze żyje, aby wstawiać się za nimi."
-"Hbr7,26": "Takiego to przystało nam mieć najwyższego kapłana: świętego, niewinnego, nieskalanego, oddzielonego od grzeszników i wywyższonego ponad niebiosa;"
-"Hbr7,27": "Który nie musi codziennie, jak tamci najwyżsi kapłani, składać ofiar najpierw za własne grzechy, a potem za grzechy ludu. Uczynił to bowiem raz, ofiarując samego siebie."
-"Hbr7,28": "Prawo bowiem ustanawiało najwyższymi kapłanami ludzi, którzy podlegają słabościom, słowo zaś przysięgi, która nastąpiła po prawie, ustanowiło Syna doskonałego na wieki."
+"Hbr7,1":
+  text: "Ten bowiem Melchizedek, król Salemu, kapłan Boga najwyższego, wyszedł na spotkanie Abrahama wracającego po rozgromieniu królów i pobłogosławił go."
+  tags: []
+"Hbr7,2":
+  text: "Jemu też Abraham wydzielił dziesięcinę ze wszystkiego. Jest on najpierw, według tłumaczenia, królem sprawiedliwości, potem też królem Salemu, co znaczy król pokoju."
+  tags: []
+"Hbr7,3":
+  text: "Bez ojca, bez matki, bez rodowodu, niemający ani początku dni, ani końca życia, ale upodobniony do Syna Bożego, pozostaje kapłanem na zawsze."
+  tags: []
+"Hbr7,4":
+  text: "Rozważcie więc, jak wielki był ten, któremu sam patriarcha Abraham dał dziesięcinę z łupu."
+  tags: []
+"Hbr7,5":
+  text: "Wprawdzie ci z synów Lewiego, którzy otrzymują urząd kapłański, mają nakaz zgodnie z prawem pobierać dziesięcinę od ludu, to jest od swoich braci, chociaż wywodzą się z lędźwi Abrahama;"
+  tags: []
+"Hbr7,6":
+  text: "Lecz ten, który nie wywodził się z ich rodu, otrzymał dziesięcinę od Abrahama i pobłogosławił temu, który miał obietnice."
+  tags: []
+"Hbr7,7":
+  text: "A jest to rzecz bezsporna, że mniejszy otrzymuje błogosławieństwo od większego."
+  tags: []
+"Hbr7,8":
+  text: "Ponadto tu biorą dziesięciny ludzie, którzy umierają, tam zaś ten, o którym zaświadczono, że żyje."
+  tags: []
+"Hbr7,9":
+  text: "I jeśli tak można powiedzieć, także Lewi, który otrzymuje dziesięciny, dał dziesięcinę w Abrahamie."
+  tags: []
+"Hbr7,10":
+  text: "Był bowiem jeszcze w lędźwiach swego ojca, gdy Melchizedek wyszedł mu na spotkanie."
+  tags: []
+"Hbr7,11":
+  text: "Gdyby więc doskonałość była osiągalna przez kapłaństwo lewickie – gdyż lud otrzymał prawo oparte na nim – to jaka byłaby jeszcze potrzeba, aby pojawił się inny kapłan według porządku Melchizedeka, a nie był mianowany według porządku Aarona?"
+  tags: []
+"Hbr7,12":
+  text: "A skoro zmienia się kapłaństwo, musi też nastąpić zmiana prawa."
+  tags: []
+"Hbr7,13":
+  text: "Ten zaś, o którym się to mówi, należał do innego pokolenia, z którego nikt nie służył przy ołtarzu."
+  tags: []
+"Hbr7,14":
+  text: "Wiadomo bowiem, że nasz Pan pochodził z pokolenia Judy, o którym to pokoleniu odnośnie kapłaństwa Mojżesz nic nie mówi."
+  tags: []
+"Hbr7,15":
+  text: "Jest to jeszcze bardziej oczywiste, skoro na podobieństwo Melchizedeka pojawia się inny kapłan;"
+  tags: []
+"Hbr7,16":
+  text: "Który stał się nim nie według cielesnego przykazania prawa, ale według mocy niezniszczalnego życia."
+  tags: []
+"Hbr7,17":
+  text: "Tak bowiem świadczy: Ty jesteś kapłanem na wieki według porządku Melchizedeka."
+  tags: []
+"Hbr7,18":
+  text: "Zostało więc zniesione poprzednie przykazanie z powodu jego słabości i nieużyteczności."
+  tags: []
+"Hbr7,19":
+  text: "Prawo bowiem nie uczyniło niczego doskonałym, ale na jego miejsce została wprowadzona lepsza nadzieja, przez którą zbliżamy się do Boga."
+  tags: []
+"Hbr7,20":
+  text: "A stało się to nie bez złożenia przysięgi."
+  tags: []
+"Hbr7,21":
+  text: "Tamci bowiem zostali kapłanami bez przysięgi, ten zaś na podstawie przysięgi tego, który powiedział do niego: Przysiągł Pan i nie będzie żałował: Ty jesteś kapłanem na wieki według porządku Melchizedeka;"
+  tags: []
+"Hbr7,22":
+  text: "O tyle też Jezus stał się poręczycielem lepszego przymierza."
+  tags: []
+"Hbr7,23":
+  text: "A wprawdzie tamtych kapłanów było wielu, gdyż śmierć nie pozwoliła im trwać na zawsze."
+  tags: []
+"Hbr7,24":
+  text: "Ten zaś, ponieważ trwa na wieki, ma kapłaństwo nieprzemijające."
+  tags: []
+"Hbr7,25":
+  text: "Dlatego też całkowicie może zbawić tych, którzy przez niego przychodzą do Boga, bo zawsze żyje, aby wstawiać się za nimi."
+  tags: []
+"Hbr7,26":
+  text: "Takiego to przystało nam mieć najwyższego kapłana: świętego, niewinnego, nieskalanego, oddzielonego od grzeszników i wywyższonego ponad niebiosa;"
+  tags: []
+"Hbr7,27":
+  text: "Który nie musi codziennie, jak tamci najwyżsi kapłani, składać ofiar najpierw za własne grzechy, a potem za grzechy ludu. Uczynił to bowiem raz, ofiarując samego siebie."
+  tags: []
+"Hbr7,28":
+  text: "Prawo bowiem ustanawiało najwyższymi kapłanami ludzi, którzy podlegają słabościom, słowo zaś przysięgi, która nastąpiła po prawie, ustanowiło Syna doskonałego na wieki."
+  tags: []

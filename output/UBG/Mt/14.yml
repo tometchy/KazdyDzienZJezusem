@@ -1,36 +1,108 @@
-"Mt14,1": "W tym czasie tetrarcha Herod usłyszał wieść o Jezusie."
-"Mt14,2": "I powiedział swoim sługom: To jest Jan Chrzciciel. On zmartwychwstał i dlatego cuda dokonują się przez niego."
-"Mt14,3": "Herod bowiem schwytał Jana, związał go i wtrącił do więzienia z powodu Herodiady, żony swego brata Filipa."
-"Mt14,4": "Bo Jan mówił mu: Nie wolno ci jej mieć."
-"Mt14,5": "I chciał go zabić, ale bał się ludu, bo uważano go za proroka."
-"Mt14,6": "A gdy obchodzono dzień urodzin Heroda, córka Herodiady tańczyła wśród gości i spodobała się Herodowi."
-"Mt14,7": "Dlatego pod przysięgą obiecał jej dać, o cokolwiek poprosi."
-"Mt14,8": "A ona, namówiona przedtem przez swoją matkę, powiedziała: Daj mi tu na misie głowę Jana Chrzciciela."
-"Mt14,9": "I zasmucił się król, ale ze względu na przysięgę i współbiesiadników kazał jej dać."
-"Mt14,10": "A posławszy kata, ściął Jana w więzieniu."
-"Mt14,11": "I przyniesiono jego głowę na misie, i dano dziewczynie, a ona zaniosła ją swojej matce."
-"Mt14,12": "Potem przyszli jego uczniowie, zabrali ciało i pogrzebali je, a poszedłszy, powiedzieli o tym Jezusowi."
-"Mt14,13": "A Jezus, usłyszawszy to, oddalił się stamtąd łodzią na miejsce odludne, żeby być na osobności. Kiedy ludzie o tym usłyszeli, pieszo poszli za nim z miast."
-"Mt14,14": "Gdy Jezus wyszedł z łodzi, zobaczył wielki tłum, ulitował się nad nimi i uzdrawiał ich chorych."
-"Mt14,15": "A gdy nastał wieczór, podeszli do niego jego uczniowie i powiedzieli: Miejsce to jest puste, a pora już późna. Odpraw tych ludzi, aby poszli do wiosek i kupili sobie żywności."
-"Mt14,16": "Lecz Jezus im odpowiedział: Nie muszą odchodzić, wy dajcie im jeść."
-"Mt14,17": "A oni mu powiedzieli: Nie mamy tu nic prócz pięciu chlebów i dwóch ryb."
-"Mt14,18": "On powiedział: Przynieście mi je tutaj."
-"Mt14,19": "Wtedy nakazał ludziom usiąść na trawie, wziął te pięć chlebów i dwie ryby, a spojrzawszy w niebo, pobłogosławił i łamiąc chleby, dawał uczniom, a uczniowie ludziom."
-"Mt14,20": "I jedli wszyscy do syta. I zebrali z pozostałych kawałków dwanaście pełnych koszy."
-"Mt14,21": "A tych, którzy jedli, było około pięciu tysięcy mężczyzn, nie licząc kobiet i dzieci."
-"Mt14,22": "Zaraz też Jezus przymusił swoich uczniów, aby wsiedli do łodzi i wyprzedzili go na drugi brzeg, a on tymczasem odprawi tłumy."
-"Mt14,23": "A odprawiwszy je, wszedł sam na górę, aby się modlić. A gdy nastał wieczór, nadal był tam sam."
-"Mt14,24": "Łódź tymczasem była już na środku morza, miotana przez fale, bo wiatr był przeciwny."
-"Mt14,25": "Lecz o czwartej straży nocnej przyszedł do nich Jezus, idąc po morzu."
-"Mt14,26": "A uczniowie, gdy ujrzeli go idącego po morzu, przerazili się i powiedzieli: To zjawa! I krzyknęli ze strachu."
-"Mt14,27": "Ale Jezus zaraz do nich powiedział: Ufajcie, to ja jestem! Nie bójcie się!"
-"Mt14,28": "Piotr odezwał się do niego: Panie, jeśli to jesteś ty, każ mi przyjść do siebie po wodzie."
-"Mt14,29": "A on powiedział: Przyjdź! I Piotr, wyszedłszy z łodzi, szedł po wodzie, aby przyjść do Jezusa."
-"Mt14,30": "Lecz widząc gwałtowny wiatr, zląkł się, a gdy zaczął tonąć, krzyknął: Panie, ratuj mnie!"
-"Mt14,31": "Jezus natychmiast wyciągnął rękę, uchwycił go i powiedział: Człowieku małej wiary, dlaczego zwątpiłeś?"
-"Mt14,32": "A gdy wsiedli do łodzi, wiatr się uciszył."
-"Mt14,33": "Ci zaś, którzy byli w łodzi, podeszli i oddali mu pokłon, mówiąc: Naprawdę jesteś Synem Bożym."
-"Mt14,34": "I przeprawiwszy się, przybyli do ziemi Genezaret."
-"Mt14,35": "A ludzie z tamtych okolic, poznawszy go, rozesłali wiadomość po całej okolicy i przyniesiono do niego wszystkich chorych."
-"Mt14,36": "I prosili go, aby mogli dotknąć tylko brzegu jego szaty, a ci, którzy dotknęli, zostali uzdrowieni."
+"Mt14,1":
+  text: "W tym czasie tetrarcha Herod usłyszał wieść o Jezusie."
+  tags: []
+"Mt14,2":
+  text: "I powiedział swoim sługom: To jest Jan Chrzciciel. On zmartwychwstał i dlatego cuda dokonują się przez niego."
+  tags: []
+"Mt14,3":
+  text: "Herod bowiem schwytał Jana, związał go i wtrącił do więzienia z powodu Herodiady, żony swego brata Filipa."
+  tags: []
+"Mt14,4":
+  text: "Bo Jan mówił mu: Nie wolno ci jej mieć."
+  tags: []
+"Mt14,5":
+  text: "I chciał go zabić, ale bał się ludu, bo uważano go za proroka."
+  tags: []
+"Mt14,6":
+  text: "A gdy obchodzono dzień urodzin Heroda, córka Herodiady tańczyła wśród gości i spodobała się Herodowi."
+  tags: []
+"Mt14,7":
+  text: "Dlatego pod przysięgą obiecał jej dać, o cokolwiek poprosi."
+  tags: []
+"Mt14,8":
+  text: "A ona, namówiona przedtem przez swoją matkę, powiedziała: Daj mi tu na misie głowę Jana Chrzciciela."
+  tags: []
+"Mt14,9":
+  text: "I zasmucił się król, ale ze względu na przysięgę i współbiesiadników kazał jej dać."
+  tags: []
+"Mt14,10":
+  text: "A posławszy kata, ściął Jana w więzieniu."
+  tags: []
+"Mt14,11":
+  text: "I przyniesiono jego głowę na misie, i dano dziewczynie, a ona zaniosła ją swojej matce."
+  tags: []
+"Mt14,12":
+  text: "Potem przyszli jego uczniowie, zabrali ciało i pogrzebali je, a poszedłszy, powiedzieli o tym Jezusowi."
+  tags: []
+"Mt14,13":
+  text: "A Jezus, usłyszawszy to, oddalił się stamtąd łodzią na miejsce odludne, żeby być na osobności. Kiedy ludzie o tym usłyszeli, pieszo poszli za nim z miast."
+  tags: []
+"Mt14,14":
+  text: "Gdy Jezus wyszedł z łodzi, zobaczył wielki tłum, ulitował się nad nimi i uzdrawiał ich chorych."
+  tags: []
+"Mt14,15":
+  text: "A gdy nastał wieczór, podeszli do niego jego uczniowie i powiedzieli: Miejsce to jest puste, a pora już późna. Odpraw tych ludzi, aby poszli do wiosek i kupili sobie żywności."
+  tags: []
+"Mt14,16":
+  text: "Lecz Jezus im odpowiedział: Nie muszą odchodzić, wy dajcie im jeść."
+  tags: []
+"Mt14,17":
+  text: "A oni mu powiedzieli: Nie mamy tu nic prócz pięciu chlebów i dwóch ryb."
+  tags: []
+"Mt14,18":
+  text: "On powiedział: Przynieście mi je tutaj."
+  tags: []
+"Mt14,19":
+  text: "Wtedy nakazał ludziom usiąść na trawie, wziął te pięć chlebów i dwie ryby, a spojrzawszy w niebo, pobłogosławił i łamiąc chleby, dawał uczniom, a uczniowie ludziom."
+  tags: []
+"Mt14,20":
+  text: "I jedli wszyscy do syta. I zebrali z pozostałych kawałków dwanaście pełnych koszy."
+  tags: []
+"Mt14,21":
+  text: "A tych, którzy jedli, było około pięciu tysięcy mężczyzn, nie licząc kobiet i dzieci."
+  tags: []
+"Mt14,22":
+  text: "Zaraz też Jezus przymusił swoich uczniów, aby wsiedli do łodzi i wyprzedzili go na drugi brzeg, a on tymczasem odprawi tłumy."
+  tags: []
+"Mt14,23":
+  text: "A odprawiwszy je, wszedł sam na górę, aby się modlić. A gdy nastał wieczór, nadal był tam sam."
+  tags: []
+"Mt14,24":
+  text: "Łódź tymczasem była już na środku morza, miotana przez fale, bo wiatr był przeciwny."
+  tags: []
+"Mt14,25":
+  text: "Lecz o czwartej straży nocnej przyszedł do nich Jezus, idąc po morzu."
+  tags: []
+"Mt14,26":
+  text: "A uczniowie, gdy ujrzeli go idącego po morzu, przerazili się i powiedzieli: To zjawa! I krzyknęli ze strachu."
+  tags: []
+"Mt14,27":
+  text: "Ale Jezus zaraz do nich powiedział: Ufajcie, to ja jestem! Nie bójcie się!"
+  tags: []
+"Mt14,28":
+  text: "Piotr odezwał się do niego: Panie, jeśli to jesteś ty, każ mi przyjść do siebie po wodzie."
+  tags: []
+"Mt14,29":
+  text: "A on powiedział: Przyjdź! I Piotr, wyszedłszy z łodzi, szedł po wodzie, aby przyjść do Jezusa."
+  tags: []
+"Mt14,30":
+  text: "Lecz widząc gwałtowny wiatr, zląkł się, a gdy zaczął tonąć, krzyknął: Panie, ratuj mnie!"
+  tags: []
+"Mt14,31":
+  text: "Jezus natychmiast wyciągnął rękę, uchwycił go i powiedział: Człowieku małej wiary, dlaczego zwątpiłeś?"
+  tags: []
+"Mt14,32":
+  text: "A gdy wsiedli do łodzi, wiatr się uciszył."
+  tags: []
+"Mt14,33":
+  text: "Ci zaś, którzy byli w łodzi, podeszli i oddali mu pokłon, mówiąc: Naprawdę jesteś Synem Bożym."
+  tags: []
+"Mt14,34":
+  text: "I przeprawiwszy się, przybyli do ziemi Genezaret."
+  tags: []
+"Mt14,35":
+  text: "A ludzie z tamtych okolic, poznawszy go, rozesłali wiadomość po całej okolicy i przyniesiono do niego wszystkich chorych."
+  tags: []
+"Mt14,36":
+  text: "I prosili go, aby mogli dotknąć tylko brzegu jego szaty, a ci, którzy dotknęli, zostali uzdrowieni."
+  tags: []

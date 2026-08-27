@@ -1,19 +1,57 @@
-"Ha3,1": "Modlitwa proroka Habakuka na Syggajon."
-"Ha3,2": "PANIE, usłyszałem twoją wieść i uląkłem się. PANIE, ożyw swoje dzieło w środku lat, objaw je w środku lat; w gniewie pamiętaj o miłosierdziu."
-"Ha3,3": "Bóg szedł z Temanu, Święty z góry Paran, Sela! Jego majestat okrył niebiosa, ziemia była pełna jego chwały."
-"Ha3,4": "Jego blask był jak światłość, rogi wychodziły z jego rąk, a tam była ukryta jego moc."
-"Ha3,5": "Przed nim szła zaraza, płonące węgle szły przed jego nogami."
-"Ha3,6": "Stanął i zmierzył ziemię, spojrzał i rozproszył narody; góry wieczyste zostały skruszone, skłoniły się pagórki dawne. Jego drogi są wieczne."
-"Ha3,7": "Widziałem namioty Kuszanu dotknięte uciskiem, a zasłony ziemi Midian drżały."
-"Ha3,8": "Czy PAN rozgniewał się przeciwko rzekom? Czy skierowałeś przeciwko rzekom swój gniew? Czy przeciwko morzu zwróciło się twoje oburzenie, gdy jechałeś na swoich koniach i na swoich rydwanach zbawienia?"
-"Ha3,9": "Twój łuk został obnażony z powodu przysięgi wypowiedzianej pokoleniom. Sela. Podzieliłeś ziemię rzekami."
-"Ha3,10": "Widziały cię góry i zadrżały, ulewa wód przeminęła. Przepaść wydała swój głos, wysoko podniosła swoje ręce."
-"Ha3,11": "Słońce i księżyc zatrzymały się w swoim przybytku, szli przy blasku twoich strzał i przy blasku twojej lśniącej włóczni."
-"Ha3,12": "W gniewie deptałeś ziemię, w zapalczywości młóciłeś pogan."
-"Ha3,13": "Wyruszyłeś, aby wybawić swój lud, by ze swoim pomazańcem go wybawić; zraniłeś głowę z domu niegodziwego, odkrywając fundament aż do szyi. Sela."
-"Ha3,14": "Jego oszczepami przebiłeś głowę jego wsi; burzyli się jak wicher, aby mnie rozproszyć; cieszyli się, jakby mieli potajemnie pożreć ubogiego."
-"Ha3,15": "Jechałeś przez morze na swoich koniach, przez skupisko wielkich wód."
-"Ha3,16": "Gdy to usłyszałem, zatrzęsło się moje wnętrze, na ten głos zadrżały moje wargi. Zgnilizna przeniknęła moje kości i cały się trząsłem, słysząc, że mam odpocząć w dniu utrapienia. Gdy nadciągnie na ten lud, zgładzi ich swoim wojskiem."
-"Ha3,17": "Choćby drzewo figowe nie zakwitło i nie było plonu w winnicach, choćby i owoc oliwy zawiódł, i pola nie przyniosły żywności, trzoda zniknęła z owczarni, i nie było bydła w oborach;"
-"Ha3,18": "Ja jednak będę się radował w PANU, rozraduję się w Bogu mojego zbawienia."
-"Ha3,19": "Pan BÓG jest moją siłą i uczyni moje nogi jak nogi łań, i sprawi, że będę chodzić po wyżynach. Przewodnikowi chóru, na moje instrumenty strunowe."
+"Ha3,1":
+  text: "Modlitwa proroka Habakuka na Syggajon."
+  tags: []
+"Ha3,2":
+  text: "PANIE, usłyszałem twoją wieść i uląkłem się. PANIE, ożyw swoje dzieło w środku lat, objaw je w środku lat; w gniewie pamiętaj o miłosierdziu."
+  tags: []
+"Ha3,3":
+  text: "Bóg szedł z Temanu, Święty z góry Paran, Sela! Jego majestat okrył niebiosa, ziemia była pełna jego chwały."
+  tags: []
+"Ha3,4":
+  text: "Jego blask był jak światłość, rogi wychodziły z jego rąk, a tam była ukryta jego moc."
+  tags: []
+"Ha3,5":
+  text: "Przed nim szła zaraza, płonące węgle szły przed jego nogami."
+  tags: []
+"Ha3,6":
+  text: "Stanął i zmierzył ziemię, spojrzał i rozproszył narody; góry wieczyste zostały skruszone, skłoniły się pagórki dawne. Jego drogi są wieczne."
+  tags: []
+"Ha3,7":
+  text: "Widziałem namioty Kuszanu dotknięte uciskiem, a zasłony ziemi Midian drżały."
+  tags: []
+"Ha3,8":
+  text: "Czy PAN rozgniewał się przeciwko rzekom? Czy skierowałeś przeciwko rzekom swój gniew? Czy przeciwko morzu zwróciło się twoje oburzenie, gdy jechałeś na swoich koniach i na swoich rydwanach zbawienia?"
+  tags: []
+"Ha3,9":
+  text: "Twój łuk został obnażony z powodu przysięgi wypowiedzianej pokoleniom. Sela. Podzieliłeś ziemię rzekami."
+  tags: []
+"Ha3,10":
+  text: "Widziały cię góry i zadrżały, ulewa wód przeminęła. Przepaść wydała swój głos, wysoko podniosła swoje ręce."
+  tags: []
+"Ha3,11":
+  text: "Słońce i księżyc zatrzymały się w swoim przybytku, szli przy blasku twoich strzał i przy blasku twojej lśniącej włóczni."
+  tags: []
+"Ha3,12":
+  text: "W gniewie deptałeś ziemię, w zapalczywości młóciłeś pogan."
+  tags: []
+"Ha3,13":
+  text: "Wyruszyłeś, aby wybawić swój lud, by ze swoim pomazańcem go wybawić; zraniłeś głowę z domu niegodziwego, odkrywając fundament aż do szyi. Sela."
+  tags: []
+"Ha3,14":
+  text: "Jego oszczepami przebiłeś głowę jego wsi; burzyli się jak wicher, aby mnie rozproszyć; cieszyli się, jakby mieli potajemnie pożreć ubogiego."
+  tags: []
+"Ha3,15":
+  text: "Jechałeś przez morze na swoich koniach, przez skupisko wielkich wód."
+  tags: []
+"Ha3,16":
+  text: "Gdy to usłyszałem, zatrzęsło się moje wnętrze, na ten głos zadrżały moje wargi. Zgnilizna przeniknęła moje kości i cały się trząsłem, słysząc, że mam odpocząć w dniu utrapienia. Gdy nadciągnie na ten lud, zgładzi ich swoim wojskiem."
+  tags: []
+"Ha3,17":
+  text: "Choćby drzewo figowe nie zakwitło i nie było plonu w winnicach, choćby i owoc oliwy zawiódł, i pola nie przyniosły żywności, trzoda zniknęła z owczarni, i nie było bydła w oborach;"
+  tags: []
+"Ha3,18":
+  text: "Ja jednak będę się radował w PANU, rozraduję się w Bogu mojego zbawienia."
+  tags: []
+"Ha3,19":
+  text: "Pan BÓG jest moją siłą i uczyni moje nogi jak nogi łań, i sprawi, że będę chodzić po wyżynach. Przewodnikowi chóru, na moje instrumenty strunowe."
+  tags: []

@@ -1,29 +1,87 @@
-"Hi20,1": "A Sofar Naamita odpowiedział i rzekł:"
-"Hi20,2": "Dlatego też moje rozterki sprawiają, że odpowiadam i czynię to z powodu mojego pobudzenia we mnie."
-"Hi20,3": "Słyszę zniewagę, która mnie napomina, lecz duch mój według mojego zrozumienia sprawia, że odpowiadam:"
-"Hi20,4": "Czy wiesz o tym, co od wieków, od umieszczenia człowieka na ziemi jest znane,"
-"Hi20,5": "Że krótkie jest wiwatowanie niegodziwych, a radość obłudnika trwa tylko chwilę?"
-"Hi20,6": "Choćby jego wyniosłość dosięgała niebios, a jego głowa – dotykała chmury,"
-"Hi20,7": "Ginął na zawsze jak jego odchody, a widzący go mówili: Gdzie on jest?"
-"Hi20,8": "Taki ulatuje jak sen i już go nie znajdą; zostanie odpędzony jak nocne widzenie."
-"Hi20,9": "Ogląda go oko i ponownie tego nie uczyni; i nie ujrzy go już więcej jego miejsce."
-"Hi20,10": "Jego synowie muszą zabiegać o przychylność ubogich, jego ręce muszą zwrócić jego bogactwo."
-"Hi20,11": "Choć jego kości były pełne młodzieńczej siły, jednak wraz z nim spoczęła w prochu."
-"Hi20,12": "Choć słodkie jest w jego ustach zło i chociaż chował je pod swoim językiem;"
-"Hi20,13": "Chociaż zachowywał je i nie opuszczał go, i zatrzymywał je pośrodku swojego podniebienia;"
-"Hi20,14": "To jednak jego chleb we wnętrznościach przemieniał się i stawał się żółcią żmii w jego wnętrzu."
-"Hi20,15": "Połknął taki bogactwa i zwymiotował je; Bóg wyparł je z jego brzucha."
-"Hi20,16": "Wessał jad żmii, zabił go język węża."
-"Hi20,17": "Nie zobaczy już rzek, potoków, strumieni miodu i masła."
-"Hi20,18": "Musi oddać swój zysk, a nawet nie przełknął go; i nie nacieszy się wartością swego wynagrodzenia."
-"Hi20,19": "Bo gnębił i opuszczał w potrzebie ubogich, przemocą zagrabił dom, którego nie zbudował."
-"Hi20,20": "Bo nie znał umiaru w swoim wnętrzu, nie dał ujść temu, czego pragnął."
-"Hi20,21": "Nic nie pozostało z jego posiłku, dlatego też nie ostoi się jego mienie."
-"Hi20,22": "W obfitości jego dostatku spadło na niego utrapienie. Cała siła nieszczęścia przychodzi do niego."
-"Hi20,23": "Gdy będzie miał czym napełnić swój brzuch, Bóg ześle na niego zapalczywość swojego gniewu, i ześle go na niego i w jego wnętrzności."
-"Hi20,24": "Gdy będzie uciekał przed żelazną bronią, przeszyje go strzała z łuku spiżowego."
-"Hi20,25": "Wyciągnie ją i wyjdzie mu z pleców także grot pokryty jego żółcią – i przyjdzie na niego zgroza."
-"Hi20,26": "Całkowita ciemność jest zaczajona, aby skryć jego skarby. Pożre go ogień przez nikogo nie wzniecony, pochłonie to, co pozostawione w jego namiocie."
-"Hi20,27": "Niebiosa odsłonią jego nieprawość, a ziemia powstanie przeciwko niemu."
-"Hi20,28": "Porwie zasoby jego domu, rozpłyną się w dniu Jego gniewu."
-"Hi20,29": "Taki dział człowieka niegodziwego jest od Boga i dziedzictwo zapowiedziane mu przez Boga."
+"Hi20,1":
+  text: "A Sofar Naamita odpowiedział i rzekł:"
+  tags: []
+"Hi20,2":
+  text: "Dlatego też moje rozterki sprawiają, że odpowiadam i czynię to z powodu mojego pobudzenia we mnie."
+  tags: []
+"Hi20,3":
+  text: "Słyszę zniewagę, która mnie napomina, lecz duch mój według mojego zrozumienia sprawia, że odpowiadam:"
+  tags: []
+"Hi20,4":
+  text: "Czy wiesz o tym, co od wieków, od umieszczenia człowieka na ziemi jest znane,"
+  tags: []
+"Hi20,5":
+  text: "Że krótkie jest wiwatowanie niegodziwych, a radość obłudnika trwa tylko chwilę?"
+  tags: []
+"Hi20,6":
+  text: "Choćby jego wyniosłość dosięgała niebios, a jego głowa – dotykała chmury,"
+  tags: []
+"Hi20,7":
+  text: "Ginął na zawsze jak jego odchody, a widzący go mówili: Gdzie on jest?"
+  tags: []
+"Hi20,8":
+  text: "Taki ulatuje jak sen i już go nie znajdą; zostanie odpędzony jak nocne widzenie."
+  tags: []
+"Hi20,9":
+  text: "Ogląda go oko i ponownie tego nie uczyni; i nie ujrzy go już więcej jego miejsce."
+  tags: []
+"Hi20,10":
+  text: "Jego synowie muszą zabiegać o przychylność ubogich, jego ręce muszą zwrócić jego bogactwo."
+  tags: []
+"Hi20,11":
+  text: "Choć jego kości były pełne młodzieńczej siły, jednak wraz z nim spoczęła w prochu."
+  tags: []
+"Hi20,12":
+  text: "Choć słodkie jest w jego ustach zło i chociaż chował je pod swoim językiem;"
+  tags: []
+"Hi20,13":
+  text: "Chociaż zachowywał je i nie opuszczał go, i zatrzymywał je pośrodku swojego podniebienia;"
+  tags: []
+"Hi20,14":
+  text: "To jednak jego chleb we wnętrznościach przemieniał się i stawał się żółcią żmii w jego wnętrzu."
+  tags: []
+"Hi20,15":
+  text: "Połknął taki bogactwa i zwymiotował je; Bóg wyparł je z jego brzucha."
+  tags: []
+"Hi20,16":
+  text: "Wessał jad żmii, zabił go język węża."
+  tags: []
+"Hi20,17":
+  text: "Nie zobaczy już rzek, potoków, strumieni miodu i masła."
+  tags: []
+"Hi20,18":
+  text: "Musi oddać swój zysk, a nawet nie przełknął go; i nie nacieszy się wartością swego wynagrodzenia."
+  tags: []
+"Hi20,19":
+  text: "Bo gnębił i opuszczał w potrzebie ubogich, przemocą zagrabił dom, którego nie zbudował."
+  tags: []
+"Hi20,20":
+  text: "Bo nie znał umiaru w swoim wnętrzu, nie dał ujść temu, czego pragnął."
+  tags: []
+"Hi20,21":
+  text: "Nic nie pozostało z jego posiłku, dlatego też nie ostoi się jego mienie."
+  tags: []
+"Hi20,22":
+  text: "W obfitości jego dostatku spadło na niego utrapienie. Cała siła nieszczęścia przychodzi do niego."
+  tags: []
+"Hi20,23":
+  text: "Gdy będzie miał czym napełnić swój brzuch, Bóg ześle na niego zapalczywość swojego gniewu, i ześle go na niego i w jego wnętrzności."
+  tags: []
+"Hi20,24":
+  text: "Gdy będzie uciekał przed żelazną bronią, przeszyje go strzała z łuku spiżowego."
+  tags: []
+"Hi20,25":
+  text: "Wyciągnie ją i wyjdzie mu z pleców także grot pokryty jego żółcią – i przyjdzie na niego zgroza."
+  tags: []
+"Hi20,26":
+  text: "Całkowita ciemność jest zaczajona, aby skryć jego skarby. Pożre go ogień przez nikogo nie wzniecony, pochłonie to, co pozostawione w jego namiocie."
+  tags: []
+"Hi20,27":
+  text: "Niebiosa odsłonią jego nieprawość, a ziemia powstanie przeciwko niemu."
+  tags: []
+"Hi20,28":
+  text: "Porwie zasoby jego domu, rozpłyną się w dniu Jego gniewu."
+  tags: []
+"Hi20,29":
+  text: "Taki dział człowieka niegodziwego jest od Boga i dziedzictwo zapowiedziane mu przez Boga."
+  tags: []

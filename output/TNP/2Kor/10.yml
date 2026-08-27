@@ -1,18 +1,54 @@
-"2Kor10,1": "A ja sam, Paweł, zachęcam was przez łagodność i życzliwość Chrystusa, ja, który obecny wśród was osobiście, prawdziwie jestem pokorny, lecz nieobecny, podobno jestem śmiały wobec was."
-"2Kor10,2": "Proszę więc, abym będąc obecny, nie musiał być pobudzony tą śmiałością, zgodnie z tym, jaką śmiałość zamierzam okazać względem niektórych, tych, którzy myślą o nas, że chodzimy według ciała."
-"2Kor10,3": "Albowiem chodząc w ciele, nie walczymy według ciała,"
-"2Kor10,4": "Albowiem broń naszej kampanii wojennej nie jest cielesna, ale mocna Bogiem, by niszczyć miejsca warowne,"
-"2Kor10,5": "Niszcząc zamysły i wszelką wyniosłość, która podnosi się przeciw poznaniu Boga, i zniewalając każdą myśl do posłuszeństwa Chrystusowi,"
-"2Kor10,6": "Mając też gotowość ukarać wszelkie nieposłuszeństwo, dopóki wasze posłuszeństwo nie stanie się całkowite."
-"2Kor10,7": "Patrzycie tylko na to, co jest przed oczyma. Jeśli ktoś jest przekonany, że sam jest Chrystusa, to niech ponownie rozważy sam w sobie, że tak jak on jest Chrystusa, tak i my jesteśmy Chrystusa."
-"2Kor10,8": "Albowiem jeślibym i nieco więcej chlubił się z naszej władzy, którą dał nam Pan dla zbudowania, a nie dla zniszczenia was, nie zostanę zawstydzony,"
-"2Kor10,9": "Aby nie wydawało się wam, że was straszę moimi listami."
-"2Kor10,10": "Albowiem mówi ktoś: Listy jego wprawdzie są ważkie i potężne, ale cielesna obecność słaba i słowo nic nie znaczące."
-"2Kor10,11": "Taki niech się liczy z tym, że jacy jesteśmy w słowach przekazanych listami, będąc nieobecni, takimi i w czynie, będąc obecni."
-"2Kor10,12": "Nie ośmielamy się bowiem zaliczyć siebie lub porównać; oni jednak nie rozumują właściwie, gdy sami siebie sobą mierzą i siebie samych z sobą porównują."
-"2Kor10,13": "My natomiast wcale nie będziemy chlubić się ponad miarę, ale zgodnie z miarą, której wzorzec przydzielił nam Bóg, aby tą miarą dotrzeć aż do was."
-"2Kor10,14": "Bo my sami nie docieramy do was ponad miarę, bo przybyliśmy aż do was jako pierwsi z Ewangelią Chrystusa."
-"2Kor10,15": "I nie chlubimy się ponad miarę cudzym trudem, ale mamy nadzieję, że wraz ze wzrostem w was wiary waszej, i my urośniemy według naszego wzorca aż do obfitowania,"
-"2Kor10,16": "Aby ogłosić Ewangelię poza waszymi granicami, a nie chlubić się z rzeczy dokonanych według cudzego wzorca."
-"2Kor10,17": "Ten więc kto się chlubi, niech się chlubi w PANU."
-"2Kor10,18": "Albowiem nie ten, co sam siebie poleca, jest doświadczony, ale ten, którego poleca PAN."
+"2Kor10,1":
+  text: "A ja sam, Paweł, zachęcam was przez łagodność i życzliwość Chrystusa, ja, który obecny wśród was osobiście, prawdziwie jestem pokorny, lecz nieobecny, podobno jestem śmiały wobec was."
+  tags: []
+"2Kor10,2":
+  text: "Proszę więc, abym będąc obecny, nie musiał być pobudzony tą śmiałością, zgodnie z tym, jaką śmiałość zamierzam okazać względem niektórych, tych, którzy myślą o nas, że chodzimy według ciała."
+  tags: []
+"2Kor10,3":
+  text: "Albowiem chodząc w ciele, nie walczymy według ciała,"
+  tags: []
+"2Kor10,4":
+  text: "Albowiem broń naszej kampanii wojennej nie jest cielesna, ale mocna Bogiem, by niszczyć miejsca warowne,"
+  tags: []
+"2Kor10,5":
+  text: "Niszcząc zamysły i wszelką wyniosłość, która podnosi się przeciw poznaniu Boga, i zniewalając każdą myśl do posłuszeństwa Chrystusowi,"
+  tags: []
+"2Kor10,6":
+  text: "Mając też gotowość ukarać wszelkie nieposłuszeństwo, dopóki wasze posłuszeństwo nie stanie się całkowite."
+  tags: []
+"2Kor10,7":
+  text: "Patrzycie tylko na to, co jest przed oczyma. Jeśli ktoś jest przekonany, że sam jest Chrystusa, to niech ponownie rozważy sam w sobie, że tak jak on jest Chrystusa, tak i my jesteśmy Chrystusa."
+  tags: []
+"2Kor10,8":
+  text: "Albowiem jeślibym i nieco więcej chlubił się z naszej władzy, którą dał nam Pan dla zbudowania, a nie dla zniszczenia was, nie zostanę zawstydzony,"
+  tags: []
+"2Kor10,9":
+  text: "Aby nie wydawało się wam, że was straszę moimi listami."
+  tags: []
+"2Kor10,10":
+  text: "Albowiem mówi ktoś: Listy jego wprawdzie są ważkie i potężne, ale cielesna obecność słaba i słowo nic nie znaczące."
+  tags: []
+"2Kor10,11":
+  text: "Taki niech się liczy z tym, że jacy jesteśmy w słowach przekazanych listami, będąc nieobecni, takimi i w czynie, będąc obecni."
+  tags: []
+"2Kor10,12":
+  text: "Nie ośmielamy się bowiem zaliczyć siebie lub porównać; oni jednak nie rozumują właściwie, gdy sami siebie sobą mierzą i siebie samych z sobą porównują."
+  tags: []
+"2Kor10,13":
+  text: "My natomiast wcale nie będziemy chlubić się ponad miarę, ale zgodnie z miarą, której wzorzec przydzielił nam Bóg, aby tą miarą dotrzeć aż do was."
+  tags: []
+"2Kor10,14":
+  text: "Bo my sami nie docieramy do was ponad miarę, bo przybyliśmy aż do was jako pierwsi z Ewangelią Chrystusa."
+  tags: []
+"2Kor10,15":
+  text: "I nie chlubimy się ponad miarę cudzym trudem, ale mamy nadzieję, że wraz ze wzrostem w was wiary waszej, i my urośniemy według naszego wzorca aż do obfitowania,"
+  tags: []
+"2Kor10,16":
+  text: "Aby ogłosić Ewangelię poza waszymi granicami, a nie chlubić się z rzeczy dokonanych według cudzego wzorca."
+  tags: []
+"2Kor10,17":
+  text: "Ten więc kto się chlubi, niech się chlubi w PANU."
+  tags: []
+"2Kor10,18":
+  text: "Albowiem nie ten, co sam siebie poleca, jest doświadczony, ale ten, którego poleca PAN."
+  tags: []

@@ -1,15 +1,45 @@
-"Ezd9,1": "A gdy zakończono to wszystko, przystąpili do mnie naczelnicy, mówiąc: Lud Izraela, kapłani i Lewici nie odłączyli się od narodów tych ziem; postępują według obrzydliwości Kananejczyków, Chetytów, Peryzzytów, Jebusytów, Ammonitów, Moabitów, Egipcjan i Amorytów."
-"Ezd9,2": "Pobrali bowiem ich córki dla siebie i swoich synów, tak że święte nasienie pomieszało się z ludami tych ziem, a w tym grzechu przodowali naczelnicy i przywódcy."
-"Ezd9,3": "Gdy to usłyszałem, rozdarłem swoją szatę i swój płaszcz i rwałem włosy ze swojej głowy i brody i siedziałem osłupiony."
-"Ezd9,4": "I zgromadzili się wokoło mnie wszyscy, którzy drżeli przed słowem Boga Izraela z powodu przestępstwa tych, którzy powrócili z niewoli, a ja siedziałem osłupiony aż do ofiary wieczornej."
-"Ezd9,5": "Ale w czasie ofiary wieczornej wstałem ze swego przygnębienia i w rozdartej szacie i płaszczu upadłem na kolana i wyciągnąłem swoje ręce do PANA, swojego Boga;"
-"Ezd9,6": "I powiedziałem: Mój Boże! Wstydzę się i nie śmiem podnieść twarzy do ciebie, mój Boże. Nasze nieprawości bowiem urosły ponad głowę, a nasz grzech dosięgnął aż nieba."
-"Ezd9,7": "Od dni naszych ojców aż do dziś tkwimy w wielkim grzechu, a z powodu naszych nieprawości my, nasi królowie i nasi kapłani zostaliśmy wydani w ręce królów tych ziem pod miecz w niewolę, na łup i wstyd na twarzy, jak to jest dzisiaj."
-"Ezd9,8": "Ale teraz, jakby na krótką chwilę, PAN, nasz Bóg, okazał nam łaskę, bo pozostawił nam resztkę ocalonych i dał nam mieszkanie w swoim miejscu świętym, aby nasz Bóg oświecił nasze oczy i podarował nam trochę wytchnienia od naszej niewoli."
-"Ezd9,9": "Chociaż bowiem byliśmy niewolnikami, nasz Bóg nie opuścił nas w naszej niewoli, lecz okazał nam łaskę wobec królów Persji, aby dać nam wytchnienie, abyśmy wznieśli dom naszego Boga i naprawili jego spustoszenie, i aby dać nam mur ochrony w Judzie i Jerozolimie."
-"Ezd9,10": "Teraz więc, o nasz Boże, co powiemy po tym wszystkim? Opuściliśmy bowiem twoje przykazania;"
-"Ezd9,11": "Które nadałeś przez swoje sługi, proroków, mówiąc: Ziemia, do której wchodzicie, by ją wziąć w posiadanie, jest ziemią nieczystą, splamioną nieczystością ludu tych ziem przez jego obrzydliwości, który swoją nieczystością napełnił ją od końca do końca."
-"Ezd9,12": "Dlatego nie dawajcie swoich córek ich synom ani nie bierzcie ich córek dla swoich synów, ani nie szukajcie nigdy pokoju z nimi ani ich pomyślności, abyście się wzmocnili i spożywali dobra tej ziemi oraz pozostawili ją w dziedzictwo swoim synom na wieki."
-"Ezd9,13": "A po tym wszystkim, co spadło na nas za nasze złe czyny i nasz wielki grzech, chociaż ty, nasz Boże, wymierzyłeś nam karę mniejszą niż nasze nieprawości i dałeś nam takie wybawienie;"
-"Ezd9,14": "Czy mamy znowu przekraczać twoje przykazania i spowinowacać się z tymi obrzydliwymi narodami? Czy nie rozgniewasz się na nas aż do naszego wyniszczenia, tak że nie zostaną spośród nas ani resztka, ani ocaleni?"
-"Ezd9,15": "PANIE, Boże Izraela, ty jesteś sprawiedliwy, bo pozostajemy ocaleni, jak się to dziś okazuje. Oto stoimy przed tobą w naszym przewinieniu, choć z tego powodu nie godzi się stać przed tobą."
+"Ezd9,1":
+  text: "A gdy zakończono to wszystko, przystąpili do mnie naczelnicy, mówiąc: Lud Izraela, kapłani i Lewici nie odłączyli się od narodów tych ziem; postępują według obrzydliwości Kananejczyków, Chetytów, Peryzzytów, Jebusytów, Ammonitów, Moabitów, Egipcjan i Amorytów."
+  tags: []
+"Ezd9,2":
+  text: "Pobrali bowiem ich córki dla siebie i swoich synów, tak że święte nasienie pomieszało się z ludami tych ziem, a w tym grzechu przodowali naczelnicy i przywódcy."
+  tags: []
+"Ezd9,3":
+  text: "Gdy to usłyszałem, rozdarłem swoją szatę i swój płaszcz i rwałem włosy ze swojej głowy i brody i siedziałem osłupiony."
+  tags: []
+"Ezd9,4":
+  text: "I zgromadzili się wokoło mnie wszyscy, którzy drżeli przed słowem Boga Izraela z powodu przestępstwa tych, którzy powrócili z niewoli, a ja siedziałem osłupiony aż do ofiary wieczornej."
+  tags: []
+"Ezd9,5":
+  text: "Ale w czasie ofiary wieczornej wstałem ze swego przygnębienia i w rozdartej szacie i płaszczu upadłem na kolana i wyciągnąłem swoje ręce do PANA, swojego Boga;"
+  tags: []
+"Ezd9,6":
+  text: "I powiedziałem: Mój Boże! Wstydzę się i nie śmiem podnieść twarzy do ciebie, mój Boże. Nasze nieprawości bowiem urosły ponad głowę, a nasz grzech dosięgnął aż nieba."
+  tags: []
+"Ezd9,7":
+  text: "Od dni naszych ojców aż do dziś tkwimy w wielkim grzechu, a z powodu naszych nieprawości my, nasi królowie i nasi kapłani zostaliśmy wydani w ręce królów tych ziem pod miecz w niewolę, na łup i wstyd na twarzy, jak to jest dzisiaj."
+  tags: []
+"Ezd9,8":
+  text: "Ale teraz, jakby na krótką chwilę, PAN, nasz Bóg, okazał nam łaskę, bo pozostawił nam resztkę ocalonych i dał nam mieszkanie w swoim miejscu świętym, aby nasz Bóg oświecił nasze oczy i podarował nam trochę wytchnienia od naszej niewoli."
+  tags: []
+"Ezd9,9":
+  text: "Chociaż bowiem byliśmy niewolnikami, nasz Bóg nie opuścił nas w naszej niewoli, lecz okazał nam łaskę wobec królów Persji, aby dać nam wytchnienie, abyśmy wznieśli dom naszego Boga i naprawili jego spustoszenie, i aby dać nam mur ochrony w Judzie i Jerozolimie."
+  tags: []
+"Ezd9,10":
+  text: "Teraz więc, o nasz Boże, co powiemy po tym wszystkim? Opuściliśmy bowiem twoje przykazania;"
+  tags: []
+"Ezd9,11":
+  text: "Które nadałeś przez swoje sługi, proroków, mówiąc: Ziemia, do której wchodzicie, by ją wziąć w posiadanie, jest ziemią nieczystą, splamioną nieczystością ludu tych ziem przez jego obrzydliwości, który swoją nieczystością napełnił ją od końca do końca."
+  tags: []
+"Ezd9,12":
+  text: "Dlatego nie dawajcie swoich córek ich synom ani nie bierzcie ich córek dla swoich synów, ani nie szukajcie nigdy pokoju z nimi ani ich pomyślności, abyście się wzmocnili i spożywali dobra tej ziemi oraz pozostawili ją w dziedzictwo swoim synom na wieki."
+  tags: []
+"Ezd9,13":
+  text: "A po tym wszystkim, co spadło na nas za nasze złe czyny i nasz wielki grzech, chociaż ty, nasz Boże, wymierzyłeś nam karę mniejszą niż nasze nieprawości i dałeś nam takie wybawienie;"
+  tags: []
+"Ezd9,14":
+  text: "Czy mamy znowu przekraczać twoje przykazania i spowinowacać się z tymi obrzydliwymi narodami? Czy nie rozgniewasz się na nas aż do naszego wyniszczenia, tak że nie zostaną spośród nas ani resztka, ani ocaleni?"
+  tags: []
+"Ezd9,15":
+  text: "PANIE, Boże Izraela, ty jesteś sprawiedliwy, bo pozostajemy ocaleni, jak się to dziś okazuje. Oto stoimy przed tobą w naszym przewinieniu, choć z tego powodu nie godzi się stać przed tobą."
+  tags: []

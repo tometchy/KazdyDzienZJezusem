@@ -1,38 +1,114 @@
-"Łk3,1": "A w piętnastym roku panowania cesarza Tyberiusza, gdy Poncjusz Piłat był namiestnikiem Judei, Herod tetrarchą Galilei, jego brat Filip tetrarchą Iturei i ziemi Trachonu, a Lizaniasz tetrarchą Abileny;"
-"Łk3,2": "Za najwyższych kapłanów Annasza i Kajfasza doszło słowo Boże do Jana, syna Zachariasza, na pustyni."
-"Łk3,3": "I obchodził całą okolicę nad Jordanem, głosząc chrzest pokuty na przebaczenie grzechów."
-"Łk3,4": "Jak jest napisane w księdze słów proroka Izajasza: Głos wołającego na pustyni: Przygotujcie drogę Pana, prostujcie jego ścieżki."
-"Łk3,5": "Każda dolina będzie wypełniona, a każda góra i pagórek będą obniżone; to, co krzywe, wyprostuje się, a wyboiste drogi będą gładkie."
-"Łk3,6": "I ujrzy wszelkie ciało zbawienie Boże."
-"Łk3,7": "Mówił więc do tłumów, które przychodziły, aby ich ochrzcił: Plemię żmijowe, któż was ostrzegł, żebyście uciekali przed przyszłym gniewem?"
-"Łk3,8": "Wydajcie więc owoce godne pokuty i nie zaczynajcie sobie wmawiać: Naszym ojcem jest Abraham. Mówię wam bowiem, że Bóg i z tych kamieni może wzbudzić dzieci Abrahamowi."
-"Łk3,9": "A już siekiera do korzenia drzew jest przyłożona. Każde drzewo, które nie wydaje dobrego owocu, zostaje wycięte i wrzucone w ogień."
-"Łk3,10": "I pytali go ludzie: Cóż więc mamy czynić?"
-"Łk3,11": "A on im odpowiedział: Kto ma dwie szaty, niech da temu, który nie ma, a kto ma pożywienie, niech uczyni tak samo."
-"Łk3,12": "Przyszli też celnicy, aby się ochrzcić, i pytali go: Nauczycielu, cóż mamy czynić?"
-"Łk3,13": "A on im odpowiedział: Nie pobierajcie nic więcej ponad to, co wam wyznaczono."
-"Łk3,14": "Pytali go też żołnierze: A my co mamy czynić? I odpowiedział im: Wobec nikogo nie używajcie przemocy, nikogo fałszywie nie oskarżajcie i poprzestawajcie na waszym żołdzie."
-"Łk3,15": "A gdy ludzie trwali w oczekiwaniu i wszyscy myśleli w swych sercach o Janie, czy może on nie jest Chrystusem;"
-"Łk3,16": "Odpowiedział Jan wszystkim: Ja was chrzczę wodą, lecz idzie mocniejszy ode mnie, któremu nie jestem godny rozwiązać rzemyka u jego sandałów. On będzie was chrzcił Duchem Świętym i ogniem."
-"Łk3,17": "Ma on swoje wiejadło w ręku i wyczyści swoje klepisko, i zgromadzi pszenicę do swego spichlerza, ale plewy spali w ogniu nieugaszonym."
-"Łk3,18": "A tak głosząc, dawał ludziom jeszcze wiele innych napomnień."
-"Łk3,19": "Lecz tetrarcha Herod, strofowany przez niego z powodu Herodiady, żony swego brata Filipa, i z powodu wszystkich złych czynów, których się dopuścił;"
-"Łk3,20": "Dodał do wszystkiego i to, że wtrącił Jana do więzienia."
-"Łk3,21": "I stało się tak, że kiedy wszyscy ludzie byli ochrzczeni, również Jezus został ochrzczony, a gdy się modlił, otworzyło się niebo;"
-"Łk3,22": "I zstąpił na niego Duch Święty w kształcie cielesnym jak gołębica, a z nieba rozległ się głos: Ty jesteś moim umiłowanym Synem, w tobie mam upodobanie."
-"Łk3,23": "A Jezus miał około trzydziestu lat. Był, jak sądzono, synem Józefa, syna Helego;"
-"Łk3,24": "Syna Mattata, syna Lewiego, syna Melchiego, syna Jannaja, syna Józefa;"
-"Łk3,25": "Syna Matatiasza, syna Amosa, syna Nahuma, syna Esliego, syna Naggaja;"
-"Łk3,26": "Syna Maata, syna Matatiasza, syna Semei, syna Józefa, syna Judy;"
-"Łk3,27": "Syna Joanana, syna Resy, syna Zorobabela, syna Salatiela, syna Neriego;"
-"Łk3,28": "Syna Melchiego, syna Addiego, syna Kosama, syna Elmadama, syna Era;"
-"Łk3,29": "Syna Jozego, syna Eliezera, syna Jorima, syna Mattata, syna Lewiego;"
-"Łk3,30": "Syna Symeona, syna Judy, syna Józefa, syna Jonana, syna Eliakima;"
-"Łk3,31": "Syna Meleasza, syna Menny, syna Mattata, syna Natana, syna Dawida;"
-"Łk3,32": "Syna Jessego, syna Obeda, syna Booza, syna Salmona, syna Naassona;"
-"Łk3,33": "Syna Aminadaba, syna Arama, syna Esroma, syna Faresa, syna Judy;"
-"Łk3,34": "Syna Jakuba, syna Izaaka, syna Abrahama, syna Tarego, syna Nachora;"
-"Łk3,35": "Syna Serucha, syna Ragaua, syna Faleka, syna Hebera, syna Sali;"
-"Łk3,36": "Syna Kainana, syna Arfaksada, syna Sema, syna Noego, syna Lamecha;"
-"Łk3,37": "Syna Matusali, syna Enocha, syna Jareta, syna Maleleela, syna Kainana;"
-"Łk3,38": "Syna Enosa, syna Seta, syna Adama, syna Boga."
+"Łk3,1":
+  text: "A w piętnastym roku panowania cesarza Tyberiusza, gdy Poncjusz Piłat był namiestnikiem Judei, Herod tetrarchą Galilei, jego brat Filip tetrarchą Iturei i ziemi Trachonu, a Lizaniasz tetrarchą Abileny;"
+  tags: []
+"Łk3,2":
+  text: "Za najwyższych kapłanów Annasza i Kajfasza doszło słowo Boże do Jana, syna Zachariasza, na pustyni."
+  tags: []
+"Łk3,3":
+  text: "I obchodził całą okolicę nad Jordanem, głosząc chrzest pokuty na przebaczenie grzechów."
+  tags: []
+"Łk3,4":
+  text: "Jak jest napisane w księdze słów proroka Izajasza: Głos wołającego na pustyni: Przygotujcie drogę Pana, prostujcie jego ścieżki."
+  tags: []
+"Łk3,5":
+  text: "Każda dolina będzie wypełniona, a każda góra i pagórek będą obniżone; to, co krzywe, wyprostuje się, a wyboiste drogi będą gładkie."
+  tags: []
+"Łk3,6":
+  text: "I ujrzy wszelkie ciało zbawienie Boże."
+  tags: []
+"Łk3,7":
+  text: "Mówił więc do tłumów, które przychodziły, aby ich ochrzcił: Plemię żmijowe, któż was ostrzegł, żebyście uciekali przed przyszłym gniewem?"
+  tags: []
+"Łk3,8":
+  text: "Wydajcie więc owoce godne pokuty i nie zaczynajcie sobie wmawiać: Naszym ojcem jest Abraham. Mówię wam bowiem, że Bóg i z tych kamieni może wzbudzić dzieci Abrahamowi."
+  tags: []
+"Łk3,9":
+  text: "A już siekiera do korzenia drzew jest przyłożona. Każde drzewo, które nie wydaje dobrego owocu, zostaje wycięte i wrzucone w ogień."
+  tags: []
+"Łk3,10":
+  text: "I pytali go ludzie: Cóż więc mamy czynić?"
+  tags: []
+"Łk3,11":
+  text: "A on im odpowiedział: Kto ma dwie szaty, niech da temu, który nie ma, a kto ma pożywienie, niech uczyni tak samo."
+  tags: []
+"Łk3,12":
+  text: "Przyszli też celnicy, aby się ochrzcić, i pytali go: Nauczycielu, cóż mamy czynić?"
+  tags: []
+"Łk3,13":
+  text: "A on im odpowiedział: Nie pobierajcie nic więcej ponad to, co wam wyznaczono."
+  tags: []
+"Łk3,14":
+  text: "Pytali go też żołnierze: A my co mamy czynić? I odpowiedział im: Wobec nikogo nie używajcie przemocy, nikogo fałszywie nie oskarżajcie i poprzestawajcie na waszym żołdzie."
+  tags: []
+"Łk3,15":
+  text: "A gdy ludzie trwali w oczekiwaniu i wszyscy myśleli w swych sercach o Janie, czy może on nie jest Chrystusem;"
+  tags: []
+"Łk3,16":
+  text: "Odpowiedział Jan wszystkim: Ja was chrzczę wodą, lecz idzie mocniejszy ode mnie, któremu nie jestem godny rozwiązać rzemyka u jego sandałów. On będzie was chrzcił Duchem Świętym i ogniem."
+  tags: []
+"Łk3,17":
+  text: "Ma on swoje wiejadło w ręku i wyczyści swoje klepisko, i zgromadzi pszenicę do swego spichlerza, ale plewy spali w ogniu nieugaszonym."
+  tags: []
+"Łk3,18":
+  text: "A tak głosząc, dawał ludziom jeszcze wiele innych napomnień."
+  tags: []
+"Łk3,19":
+  text: "Lecz tetrarcha Herod, strofowany przez niego z powodu Herodiady, żony swego brata Filipa, i z powodu wszystkich złych czynów, których się dopuścił;"
+  tags: []
+"Łk3,20":
+  text: "Dodał do wszystkiego i to, że wtrącił Jana do więzienia."
+  tags: []
+"Łk3,21":
+  text: "I stało się tak, że kiedy wszyscy ludzie byli ochrzczeni, również Jezus został ochrzczony, a gdy się modlił, otworzyło się niebo;"
+  tags: []
+"Łk3,22":
+  text: "I zstąpił na niego Duch Święty w kształcie cielesnym jak gołębica, a z nieba rozległ się głos: Ty jesteś moim umiłowanym Synem, w tobie mam upodobanie."
+  tags: []
+"Łk3,23":
+  text: "A Jezus miał około trzydziestu lat. Był, jak sądzono, synem Józefa, syna Helego;"
+  tags: []
+"Łk3,24":
+  text: "Syna Mattata, syna Lewiego, syna Melchiego, syna Jannaja, syna Józefa;"
+  tags: []
+"Łk3,25":
+  text: "Syna Matatiasza, syna Amosa, syna Nahuma, syna Esliego, syna Naggaja;"
+  tags: []
+"Łk3,26":
+  text: "Syna Maata, syna Matatiasza, syna Semei, syna Józefa, syna Judy;"
+  tags: []
+"Łk3,27":
+  text: "Syna Joanana, syna Resy, syna Zorobabela, syna Salatiela, syna Neriego;"
+  tags: []
+"Łk3,28":
+  text: "Syna Melchiego, syna Addiego, syna Kosama, syna Elmadama, syna Era;"
+  tags: []
+"Łk3,29":
+  text: "Syna Jozego, syna Eliezera, syna Jorima, syna Mattata, syna Lewiego;"
+  tags: []
+"Łk3,30":
+  text: "Syna Symeona, syna Judy, syna Józefa, syna Jonana, syna Eliakima;"
+  tags: []
+"Łk3,31":
+  text: "Syna Meleasza, syna Menny, syna Mattata, syna Natana, syna Dawida;"
+  tags: []
+"Łk3,32":
+  text: "Syna Jessego, syna Obeda, syna Booza, syna Salmona, syna Naassona;"
+  tags: []
+"Łk3,33":
+  text: "Syna Aminadaba, syna Arama, syna Esroma, syna Faresa, syna Judy;"
+  tags: []
+"Łk3,34":
+  text: "Syna Jakuba, syna Izaaka, syna Abrahama, syna Tarego, syna Nachora;"
+  tags: []
+"Łk3,35":
+  text: "Syna Serucha, syna Ragaua, syna Faleka, syna Hebera, syna Sali;"
+  tags: []
+"Łk3,36":
+  text: "Syna Kainana, syna Arfaksada, syna Sema, syna Noego, syna Lamecha;"
+  tags: []
+"Łk3,37":
+  text: "Syna Matusali, syna Enocha, syna Jareta, syna Maleleela, syna Kainana;"
+  tags: []
+"Łk3,38":
+  text: "Syna Enosa, syna Seta, syna Adama, syna Boga."
+  tags: []

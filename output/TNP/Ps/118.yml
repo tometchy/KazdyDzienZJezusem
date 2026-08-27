@@ -1,29 +1,87 @@
-"Ps118,1": "Wysławiajcie JHWH, ponieważ jest dobry, ponieważ miłosierdzie Jego trwa na wieki!"
-"Ps118,2": "Niech powie teraz Izrael, że Jego miłosierdzie trwa na wieki."
-"Ps118,3": "Niech powie teraz dom Aarona, że Jego miłosierdzie trwa na wieki."
-"Ps118,4": "Niech powiedzą teraz ci, którzy się boją JHWH, że Jego miłosierdzie trwa na wieki."
-"Ps118,5": "Wzywałem JH[WH] w udręce; JH[WH] mnie wysłuchał i postawił mnie na miejscu przestronnym."
-"Ps118,6": "JHWH jest ze mną, nie będę się bał; co może mi uczynić człowiek?"
-"Ps118,7": "JHWH jest ze mną jako pomagający mi, i to ja spojrzę z góry na tych, którzy mnie nienawidzą."
-"Ps118,8": "Lepiej ufać JHWH, niż polegać na człowieku."
-"Ps118,9": "Lepiej ufać JHWH, niż polegać na książętach."
-"Ps118,10": "Wszystkie narody mnie otoczyły, ale w imię JHWH rozciąłem je."
-"Ps118,11": "Otoczyły mnie. O tak! Otoczyły mnie, ale w imię JHWH rozciąłem je."
-"Ps118,12": "Otoczyły mnie jak pszczoły, ale zgasły jak ogień z cierni, bo w imię JHWH rozciąłem je."
-"Ps118,13": "Popchnięto mnie silnie, bym upadł, ale JHWH mi pomógł."
-"Ps118,14": "JH[WH] jest moją mocą i pieśnią, On stał się moim zbawieniem."
-"Ps118,15": "Okrzyk radości i zbawienia w namiotach sprawiedliwych: Prawica JHWH działa potężnie!"
-"Ps118,16": "Prawica JHWH jest wywyższona, prawica JHWH działa potężnie."
-"Ps118,17": "Nie umrę, lecz będę żył i będę wyliczał dzieła JH[WH]."
-"Ps118,18": "JH[WH] ukarał mnie surowo, ale nie wydał mnie na śmierć."
-"Ps118,19": "Otwórzcie mi bramy sprawiedliwości, a wejdę przez nie i będę wysławiał JH[WH]."
-"Ps118,20": "To jest brama JHWH, przez nią wejdą sprawiedliwi."
-"Ps118,21": "Będę Cię wysławiać, bo mnie wysłuchałeś i stałeś się dla mnie zbawieniem."
-"Ps118,22": "Kamień, który odrzucili budujący, stał się kamieniem węgielnym."
-"Ps118,23": "Od JHWH to się stało i jest to cudowne w naszych oczach."
-"Ps118,24": "To jest dzień, który JHWH uczynił, weselmy się i radujmy się w nim."
-"Ps118,25": "Proszę, JHWH, wybaw teraz; proszę, JHWH, ześlij pomyślność teraz."
-"Ps118,26": "Błogosławiony ten, który przychodzi w imię JHWH; błogosławimy wam z domu JHWH."
-"Ps118,27": "JHWH to Bóg, On niech nas oświeci; przywiążcie ofiary sznurami do narożników ołtarza."
-"Ps118,28": "Ty jesteś moim Bogiem, pragnę Cię wysławiać; mój Boże, pragnę Cię wywyższać."
-"Ps118,29": "Wysławiajcie JHWH, bo jest dobry, bo Jego miłosierdzie trwa na wieki."
+"Ps118,1":
+  text: "Wysławiajcie JHWH, ponieważ jest dobry, ponieważ miłosierdzie Jego trwa na wieki!"
+  tags: []
+"Ps118,2":
+  text: "Niech powie teraz Izrael, że Jego miłosierdzie trwa na wieki."
+  tags: []
+"Ps118,3":
+  text: "Niech powie teraz dom Aarona, że Jego miłosierdzie trwa na wieki."
+  tags: []
+"Ps118,4":
+  text: "Niech powiedzą teraz ci, którzy się boją JHWH, że Jego miłosierdzie trwa na wieki."
+  tags: []
+"Ps118,5":
+  text: "Wzywałem JH[WH] w udręce; JH[WH] mnie wysłuchał i postawił mnie na miejscu przestronnym."
+  tags: []
+"Ps118,6":
+  text: "JHWH jest ze mną, nie będę się bał; co może mi uczynić człowiek?"
+  tags: []
+"Ps118,7":
+  text: "JHWH jest ze mną jako pomagający mi, i to ja spojrzę z góry na tych, którzy mnie nienawidzą."
+  tags: []
+"Ps118,8":
+  text: "Lepiej ufać JHWH, niż polegać na człowieku."
+  tags: []
+"Ps118,9":
+  text: "Lepiej ufać JHWH, niż polegać na książętach."
+  tags: []
+"Ps118,10":
+  text: "Wszystkie narody mnie otoczyły, ale w imię JHWH rozciąłem je."
+  tags: []
+"Ps118,11":
+  text: "Otoczyły mnie. O tak! Otoczyły mnie, ale w imię JHWH rozciąłem je."
+  tags: []
+"Ps118,12":
+  text: "Otoczyły mnie jak pszczoły, ale zgasły jak ogień z cierni, bo w imię JHWH rozciąłem je."
+  tags: []
+"Ps118,13":
+  text: "Popchnięto mnie silnie, bym upadł, ale JHWH mi pomógł."
+  tags: []
+"Ps118,14":
+  text: "JH[WH] jest moją mocą i pieśnią, On stał się moim zbawieniem."
+  tags: []
+"Ps118,15":
+  text: "Okrzyk radości i zbawienia w namiotach sprawiedliwych: Prawica JHWH działa potężnie!"
+  tags: []
+"Ps118,16":
+  text: "Prawica JHWH jest wywyższona, prawica JHWH działa potężnie."
+  tags: []
+"Ps118,17":
+  text: "Nie umrę, lecz będę żył i będę wyliczał dzieła JH[WH]."
+  tags: []
+"Ps118,18":
+  text: "JH[WH] ukarał mnie surowo, ale nie wydał mnie na śmierć."
+  tags: []
+"Ps118,19":
+  text: "Otwórzcie mi bramy sprawiedliwości, a wejdę przez nie i będę wysławiał JH[WH]."
+  tags: []
+"Ps118,20":
+  text: "To jest brama JHWH, przez nią wejdą sprawiedliwi."
+  tags: []
+"Ps118,21":
+  text: "Będę Cię wysławiać, bo mnie wysłuchałeś i stałeś się dla mnie zbawieniem."
+  tags: []
+"Ps118,22":
+  text: "Kamień, który odrzucili budujący, stał się kamieniem węgielnym."
+  tags: []
+"Ps118,23":
+  text: "Od JHWH to się stało i jest to cudowne w naszych oczach."
+  tags: []
+"Ps118,24":
+  text: "To jest dzień, który JHWH uczynił, weselmy się i radujmy się w nim."
+  tags: []
+"Ps118,25":
+  text: "Proszę, JHWH, wybaw teraz; proszę, JHWH, ześlij pomyślność teraz."
+  tags: []
+"Ps118,26":
+  text: "Błogosławiony ten, który przychodzi w imię JHWH; błogosławimy wam z domu JHWH."
+  tags: []
+"Ps118,27":
+  text: "JHWH to Bóg, On niech nas oświeci; przywiążcie ofiary sznurami do narożników ołtarza."
+  tags: []
+"Ps118,28":
+  text: "Ty jesteś moim Bogiem, pragnę Cię wysławiać; mój Boże, pragnę Cię wywyższać."
+  tags: []
+"Ps118,29":
+  text: "Wysławiajcie JHWH, bo jest dobry, bo Jego miłosierdzie trwa na wieki."
+  tags: []

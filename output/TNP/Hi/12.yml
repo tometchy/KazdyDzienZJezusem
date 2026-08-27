@@ -1,25 +1,75 @@
-"Hi12,1": "A Hiob odpowiedział i rzekł:"
-"Hi12,2": "Niewątpliwie wiem, że wy jesteście ludźmi i wraz z wami zginie mądrość."
-"Hi12,3": "Lecz ja mam rozum, jak i wy, i ja nie jestem od was gorszy. I komu nie są znane sprawy takie jak te?"
-"Hi12,4": "Stałem się pośmiewiskiem dla swojego przyjaciela; ja, który wołam do Boga, a On odpowiada; jako sprawiedliwy i nienaganny stałem się szyderstwem."
-"Hi12,5": "Płonącą pochodnią pogardy jest myśl butnego, ciosem dla chwiejących się na nogach"
-"Hi12,6": "Spokojne są namioty łupieżców i bezpieczeństwo dla drażniących Boga – dla tego, który nosi boga w swojej ręce."
-"Hi12,7": "A jednak, zapytaj proszę zwierząt, a pouczą cię, i ptaków niebios – a wyjaśnią ci."
-"Hi12,8": "Albo mów z ziemią, a ona cię pouczy, i opowiedzą ci ryby morza."
-"Hi12,9": "Kto spośród nich wszystkich nie wie tego, że ręka JHWH to uczyniła?"
-"Hi12,10": "W Jego ręku jest dusza każdej istoty żywej i tchnienie w ciele każdego człowieka."
-"Hi12,11": "Czy ucho nie ma badać słów, jak podniebienie próbuje smaku pożywienia?"
-"Hi12,12": "U sędziwych jest mądrość, a w długości dni roztropność."
-"Hi12,13": "Z Nim jest mądrość i siła, do Niego należy rada i roztropność."
-"Hi12,14": "Oto co On zburzy, to nie zostanie odbudowane; gdy zamyka człowieka, to on nie zostanie uwolniony."
-"Hi12,15": "Oto wstrzymuje wody i wysychają, a gdy je wypuści, to przemieniają ziemię."
-"Hi12,16": "Z Nim jest moc i rozsądek. Do Niego należy zwiedziony i zwodziciel."
-"Hi12,17": "Sprawia, że doradcy odchodzą boso, a sędziów czyni głupcami."
-"Hi12,18": "Rozwiązuje dekrety królów i zawiązuje przepaskę wokół ich bioder."
-"Hi12,19": "Sprawia, że kapłani odchodzą boso i przewraca niezachwianych."
-"Hi12,20": "Odbiera mowę doświadczonym, a starców pozbawia rozeznania."
-"Hi12,21": "Na dostojników wylewa pogardę, a rozluźnia pas mocarzy."
-"Hi12,22": "On odsłania głębie okryte ciemnością i wyprowadza na światło cień śmierci."
-"Hi12,23": "Czyni narody wielkimi i gubi je, rozprzestrzenia narody i rozprasza je."
-"Hi12,24": "On pozbawia rozumu naczelników ludów ziemi i sprawia, że błądzą w pustce bezdroży;"
-"Hi12,25": "I chodzą po omacku w ciemności, bez światła, i sprawia, że błąkają się jak pijani."
+"Hi12,1":
+  text: "A Hiob odpowiedział i rzekł:"
+  tags: []
+"Hi12,2":
+  text: "Niewątpliwie wiem, że wy jesteście ludźmi i wraz z wami zginie mądrość."
+  tags: []
+"Hi12,3":
+  text: "Lecz ja mam rozum, jak i wy, i ja nie jestem od was gorszy. I komu nie są znane sprawy takie jak te?"
+  tags: []
+"Hi12,4":
+  text: "Stałem się pośmiewiskiem dla swojego przyjaciela; ja, który wołam do Boga, a On odpowiada; jako sprawiedliwy i nienaganny stałem się szyderstwem."
+  tags: []
+"Hi12,5":
+  text: "Płonącą pochodnią pogardy jest myśl butnego, ciosem dla chwiejących się na nogach"
+  tags: []
+"Hi12,6":
+  text: "Spokojne są namioty łupieżców i bezpieczeństwo dla drażniących Boga – dla tego, który nosi boga w swojej ręce."
+  tags: []
+"Hi12,7":
+  text: "A jednak, zapytaj proszę zwierząt, a pouczą cię, i ptaków niebios – a wyjaśnią ci."
+  tags: []
+"Hi12,8":
+  text: "Albo mów z ziemią, a ona cię pouczy, i opowiedzą ci ryby morza."
+  tags: []
+"Hi12,9":
+  text: "Kto spośród nich wszystkich nie wie tego, że ręka JHWH to uczyniła?"
+  tags: []
+"Hi12,10":
+  text: "W Jego ręku jest dusza każdej istoty żywej i tchnienie w ciele każdego człowieka."
+  tags: []
+"Hi12,11":
+  text: "Czy ucho nie ma badać słów, jak podniebienie próbuje smaku pożywienia?"
+  tags: []
+"Hi12,12":
+  text: "U sędziwych jest mądrość, a w długości dni roztropność."
+  tags: []
+"Hi12,13":
+  text: "Z Nim jest mądrość i siła, do Niego należy rada i roztropność."
+  tags: []
+"Hi12,14":
+  text: "Oto co On zburzy, to nie zostanie odbudowane; gdy zamyka człowieka, to on nie zostanie uwolniony."
+  tags: []
+"Hi12,15":
+  text: "Oto wstrzymuje wody i wysychają, a gdy je wypuści, to przemieniają ziemię."
+  tags: []
+"Hi12,16":
+  text: "Z Nim jest moc i rozsądek. Do Niego należy zwiedziony i zwodziciel."
+  tags: []
+"Hi12,17":
+  text: "Sprawia, że doradcy odchodzą boso, a sędziów czyni głupcami."
+  tags: []
+"Hi12,18":
+  text: "Rozwiązuje dekrety królów i zawiązuje przepaskę wokół ich bioder."
+  tags: []
+"Hi12,19":
+  text: "Sprawia, że kapłani odchodzą boso i przewraca niezachwianych."
+  tags: []
+"Hi12,20":
+  text: "Odbiera mowę doświadczonym, a starców pozbawia rozeznania."
+  tags: []
+"Hi12,21":
+  text: "Na dostojników wylewa pogardę, a rozluźnia pas mocarzy."
+  tags: []
+"Hi12,22":
+  text: "On odsłania głębie okryte ciemnością i wyprowadza na światło cień śmierci."
+  tags: []
+"Hi12,23":
+  text: "Czyni narody wielkimi i gubi je, rozprzestrzenia narody i rozprasza je."
+  tags: []
+"Hi12,24":
+  text: "On pozbawia rozumu naczelników ludów ziemi i sprawia, że błądzą w pustce bezdroży;"
+  tags: []
+"Hi12,25":
+  text: "I chodzą po omacku w ciemności, bez światła, i sprawia, że błąkają się jak pijani."
+  tags: []

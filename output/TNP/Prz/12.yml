@@ -1,28 +1,84 @@
-"Prz12,1": "Kto kocha karność, kocha wiedzę, a kto nienawidzi upomnienia, jest głupi."
-"Prz12,2": "Dobry człowiek zyska łaskę JHWH, ale JHWH potępi człowieka przebiegłego."
-"Prz12,3": "Człowiek nie umocni się niegodziwością, lecz korzeń sprawiedliwych nie zostanie poruszony."
-"Prz12,4": "Dzielna żona jest koroną swojego męża, ale ta, przynosząca hańbę, jest jak zgnilizna w jego kościach."
-"Prz12,5": "Myśli sprawiedliwych są prawe, a rady niegodziwych zdradliwe."
-"Prz12,6": "Słowa niegodziwych są czyhaniem na krew, lecz usta prawych ocalą ich."
-"Prz12,7": "Niegodziwi zostają powaleni i już ich nie ma, a dom sprawiedliwych się ostoi."
-"Prz12,8": "Chwali się człowieka według jego roztropnych ust, a kto jest chwiejnego serca, będzie w pogardzie."
-"Prz12,9": "Lepiej być lekceważonym i mieć swojego sługę, niż uważać się za ważnego, a nie mieć chleba."
-"Prz12,10": "Sprawiedliwy dba o życie swojego bydła, a wnętrze niegodziwych jest okrutne."
-"Prz12,11": "Kto uprawia swoją rolę, nasyci się chlebem, a kto gna za próżnującym, jest pozbawiony rozumu."
-"Prz12,12": "Pragnieniem nikczemnych jest łup złych, a korzeń sprawiedliwych daje umocnienie."
-"Prz12,13": "Przestępstwo nikczemnego jest pułapką jego warg, a sprawiedliwy wyjdzie z niedoli."
-"Prz12,14": "Człowiek nasyci się dobrem z owocu swoich ust, a dorobek ludzkich rąk wróci do niego."
-"Prz12,15": "Droga głupca wydaje się prawa w jego oczach, ale kto słucha rady, jest mądry."
-"Prz12,16": "Głupiec w tym samym dniu ujawnia swój gniew, lecz roztropny skrywa hańbę."
-"Prz12,17": "Kto rozgłasza prawdę, wypowiada to, co słuszne, lecz fałszywy świadek – oszustwo."
-"Prz12,18": "Jest taki, który mówi bezmyślnie, jego słowa przeszywają jak miecz, lecz język mądrych jest lekarstwem."
-"Prz12,19": "Prawdomówne wargi będą trwać wiecznie, ale język kłamliwy tak długo jak chwila."
-"Prz12,20": "Podstęp jest w sercu knujących zło, lecz w doradzających pokój – radość."
-"Prz12,21": "Sprawiedliwego nie spotka żadna krzywda, ale niegodziwi będą pełni udręki."
-"Prz12,22": "Obrzydliwością dla JHWH są wargi kłamliwe, ale z postępującymi wiernie – Jego łaska."
-"Prz12,23": "Człowiek roztropny ukrywa wiedzę, a serce głupców rozgłasza głupotę."
-"Prz12,24": "Ręka pilnych będzie rządziła, a ręka leniwa będzie odrabiała pańszczyznę."
-"Prz12,25": "Troska w sercu człowieka przygnębia je, a dobre słowo je rozwesela."
-"Prz12,26": "Sprawiedliwy rozeznaje swojego bliźniego, a droga niegodziwych prowadzi ich na manowce."
-"Prz12,27": "Leniwy nie upiecze swojej zwierzyny, ale mienie człowieka pilnego jest cenne."
-"Prz12,28": "Na ścieżce sprawiedliwości jest życie, a na jej szlaku nie ma śmierci."
+"Prz12,1":
+  text: "Kto kocha karność, kocha wiedzę, a kto nienawidzi upomnienia, jest głupi."
+  tags: []
+"Prz12,2":
+  text: "Dobry człowiek zyska łaskę JHWH, ale JHWH potępi człowieka przebiegłego."
+  tags: []
+"Prz12,3":
+  text: "Człowiek nie umocni się niegodziwością, lecz korzeń sprawiedliwych nie zostanie poruszony."
+  tags: []
+"Prz12,4":
+  text: "Dzielna żona jest koroną swojego męża, ale ta, przynosząca hańbę, jest jak zgnilizna w jego kościach."
+  tags: []
+"Prz12,5":
+  text: "Myśli sprawiedliwych są prawe, a rady niegodziwych zdradliwe."
+  tags: []
+"Prz12,6":
+  text: "Słowa niegodziwych są czyhaniem na krew, lecz usta prawych ocalą ich."
+  tags: []
+"Prz12,7":
+  text: "Niegodziwi zostają powaleni i już ich nie ma, a dom sprawiedliwych się ostoi."
+  tags: []
+"Prz12,8":
+  text: "Chwali się człowieka według jego roztropnych ust, a kto jest chwiejnego serca, będzie w pogardzie."
+  tags: []
+"Prz12,9":
+  text: "Lepiej być lekceważonym i mieć swojego sługę, niż uważać się za ważnego, a nie mieć chleba."
+  tags: []
+"Prz12,10":
+  text: "Sprawiedliwy dba o życie swojego bydła, a wnętrze niegodziwych jest okrutne."
+  tags: []
+"Prz12,11":
+  text: "Kto uprawia swoją rolę, nasyci się chlebem, a kto gna za próżnującym, jest pozbawiony rozumu."
+  tags: []
+"Prz12,12":
+  text: "Pragnieniem nikczemnych jest łup złych, a korzeń sprawiedliwych daje umocnienie."
+  tags: []
+"Prz12,13":
+  text: "Przestępstwo nikczemnego jest pułapką jego warg, a sprawiedliwy wyjdzie z niedoli."
+  tags: []
+"Prz12,14":
+  text: "Człowiek nasyci się dobrem z owocu swoich ust, a dorobek ludzkich rąk wróci do niego."
+  tags: []
+"Prz12,15":
+  text: "Droga głupca wydaje się prawa w jego oczach, ale kto słucha rady, jest mądry."
+  tags: []
+"Prz12,16":
+  text: "Głupiec w tym samym dniu ujawnia swój gniew, lecz roztropny skrywa hańbę."
+  tags: []
+"Prz12,17":
+  text: "Kto rozgłasza prawdę, wypowiada to, co słuszne, lecz fałszywy świadek – oszustwo."
+  tags: []
+"Prz12,18":
+  text: "Jest taki, który mówi bezmyślnie, jego słowa przeszywają jak miecz, lecz język mądrych jest lekarstwem."
+  tags: []
+"Prz12,19":
+  text: "Prawdomówne wargi będą trwać wiecznie, ale język kłamliwy tak długo jak chwila."
+  tags: []
+"Prz12,20":
+  text: "Podstęp jest w sercu knujących zło, lecz w doradzających pokój – radość."
+  tags: []
+"Prz12,21":
+  text: "Sprawiedliwego nie spotka żadna krzywda, ale niegodziwi będą pełni udręki."
+  tags: []
+"Prz12,22":
+  text: "Obrzydliwością dla JHWH są wargi kłamliwe, ale z postępującymi wiernie – Jego łaska."
+  tags: []
+"Prz12,23":
+  text: "Człowiek roztropny ukrywa wiedzę, a serce głupców rozgłasza głupotę."
+  tags: []
+"Prz12,24":
+  text: "Ręka pilnych będzie rządziła, a ręka leniwa będzie odrabiała pańszczyznę."
+  tags: []
+"Prz12,25":
+  text: "Troska w sercu człowieka przygnębia je, a dobre słowo je rozwesela."
+  tags: []
+"Prz12,26":
+  text: "Sprawiedliwy rozeznaje swojego bliźniego, a droga niegodziwych prowadzi ich na manowce."
+  tags: []
+"Prz12,27":
+  text: "Leniwy nie upiecze swojej zwierzyny, ale mienie człowieka pilnego jest cenne."
+  tags: []
+"Prz12,28":
+  text: "Na ścieżce sprawiedliwości jest życie, a na jej szlaku nie ma śmierci."
+  tags: []

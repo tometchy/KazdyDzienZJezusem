@@ -1,31 +1,93 @@
-"Rz3,1": "Jaka jest więc wyższość Żyda? Albo jaki jest zysk z obrzezania?"
-"Rz3,2": "Wielki pod każdym względem. Przede wszystkim ten, że im powierzone zostały Słowa Boga."
-"Rz3,3": "Cóż bowiem, jeżeli niektórzy nie uwierzyli? Czy ich niewiara zniszczy wierność Boga?"
-"Rz3,4": "Z pewnością nie; ale Bóg jest prawdomówny, a każdy człowiek to kłamca, tak jak jest napisane: Abyś został uznany za sprawiedliwego w swoich słowach i zwyciężył, gdy będziesz sądzony."
-"Rz3,5": "Jeśli więc nasza niesprawiedliwość daje dowód sprawiedliwości Boga, co powiemy? Czy Bóg jest niesprawiedliwy, gdy okazuje gniew? Po ludzku mówię."
-"Rz3,6": "Z pewnością nie; bo jak Bóg osądzi świat?"
-"Rz3,7": "Jeśli bowiem przez moje kłamstwo prawda Boża bardziej obfitowała ku Jego chwale, dlaczego więc ja jeszcze jestem sądzony jako grzesznik?"
-"Rz3,8": "I czy nie tak właśnie nas spotwarzają, i tak twierdzą o nas, że my mówimy: Uczyńmy złe rzeczy, aby przyszły dobre? Wyrok na takich jest zgodny z prawem."
-"Rz3,9": "Cóż więc, górujemy nad nimi? Wcale nie; bo wcześniej wysunęliśmy zarzut, że Żydzi, a także Grecy, wszyscy są pod grzechem,"
-"Rz3,10": "Tak jak jest napisane: Nie ma sprawiedliwego, ani jednego;"
-"Rz3,11": "Nie ma, kto by pojmował, nie ma, kto by szukał Boga;"
-"Rz3,12": "Wszyscy zboczyli, wszyscy razem zostali uznani za nieużytecznych, nie ma, kto by czynił dobro, nie ma ani jednego;"
-"Rz3,13": "Grobem otwartym jest ich gardło, swoimi językami mówią podstępnie; jad żmij na ich wargach;"
-"Rz3,14": "Usta ich pełne są przekleństwa i goryczy;"
-"Rz3,15": "Nogi ich są prędkie do rozlewu krwi;"
-"Rz3,16": "Zniszczenie i nędza na ich drogach,"
-"Rz3,17": "A drogi pokoju nie poznali;"
-"Rz3,18": "Nie ma bojaźni Bożej przed ich oczami."
-"Rz3,19": "A wiemy, że cokolwiek Prawo mówi, mówi to tym, którzy są pod Prawem, aby wszelkie usta zostały zamknięte i aby cały świat okazał się winny przed Bogiem,"
-"Rz3,20": "Dlatego że z uczynków Prawa żadne ciało nie będzie uznane za sprawiedliwe przed Jego obliczem, gdyż przez Prawo jest dogłębne poznanie grzechu."
-"Rz3,21": "Lecz teraz, niezależnie od Prawa, została ukazana sprawiedliwość Boga, poświadczana przez Prawo i Proroków;"
-"Rz3,22": "Sprawiedliwość Boga przez wiarę w Jezusa Chrystusa, dla wszystkich i wobec wszystkich wierzących, nie ma bowiem różnicy;"
-"Rz3,23": "Bo wszyscy zgrzeszyli i są pozbawiani chwały Bożej."
-"Rz3,24": "I są uznawani za sprawiedliwych za darmo z Jego łaski przez odkupienie w Chrystusie Jezusie,"
-"Rz3,25": "Którego Bóg ustanowił jako ofiarę przebłagalną, przez wiarę, w Jego krwi, dla wykazania dowodu swojej sprawiedliwości przez odpuszczenie wcześniej popełnionych grzechów w czasie Bożej cierpliwości,"
-"Rz3,26": "Dla wykazania dowodu swojej sprawiedliwości w teraźniejszym czasie, tak by On był sprawiedliwy i usprawiedliwiający tego, który jest z wiary w Jezusa."
-"Rz3,27": "Gdzie więc jest chluba? Została wykluczona. Przez jakie prawo? Uczynków? Nie, ale przez prawo wiary."
-"Rz3,28": "Dlatego rozumiemy, że człowiek jest uznawany za sprawiedliwego przez wiarę, bez uczynków prawa."
-"Rz3,29": "Czy Bóg jest tylko Bogiem Żydów? Czy nie pogan także? Tak – także i pogan."
-"Rz3,30": "Bo jeden jest Bóg, który usprawiedliwi obrzezanie z wiary i nieobrzezanie przez tę wiarę."
-"Rz3,31": "Czy więc Prawo niszczymy przez tę wiarę? Z pewnością nie! Prawo umacniamy."
+"Rz3,1":
+  text: "Jaka jest więc wyższość Żyda? Albo jaki jest zysk z obrzezania?"
+  tags: []
+"Rz3,2":
+  text: "Wielki pod każdym względem. Przede wszystkim ten, że im powierzone zostały Słowa Boga."
+  tags: []
+"Rz3,3":
+  text: "Cóż bowiem, jeżeli niektórzy nie uwierzyli? Czy ich niewiara zniszczy wierność Boga?"
+  tags: []
+"Rz3,4":
+  text: "Z pewnością nie; ale Bóg jest prawdomówny, a każdy człowiek to kłamca, tak jak jest napisane: Abyś został uznany za sprawiedliwego w swoich słowach i zwyciężył, gdy będziesz sądzony."
+  tags: []
+"Rz3,5":
+  text: "Jeśli więc nasza niesprawiedliwość daje dowód sprawiedliwości Boga, co powiemy? Czy Bóg jest niesprawiedliwy, gdy okazuje gniew? Po ludzku mówię."
+  tags: []
+"Rz3,6":
+  text: "Z pewnością nie; bo jak Bóg osądzi świat?"
+  tags: []
+"Rz3,7":
+  text: "Jeśli bowiem przez moje kłamstwo prawda Boża bardziej obfitowała ku Jego chwale, dlaczego więc ja jeszcze jestem sądzony jako grzesznik?"
+  tags: []
+"Rz3,8":
+  text: "I czy nie tak właśnie nas spotwarzają, i tak twierdzą o nas, że my mówimy: Uczyńmy złe rzeczy, aby przyszły dobre? Wyrok na takich jest zgodny z prawem."
+  tags: []
+"Rz3,9":
+  text: "Cóż więc, górujemy nad nimi? Wcale nie; bo wcześniej wysunęliśmy zarzut, że Żydzi, a także Grecy, wszyscy są pod grzechem,"
+  tags: []
+"Rz3,10":
+  text: "Tak jak jest napisane: Nie ma sprawiedliwego, ani jednego;"
+  tags: []
+"Rz3,11":
+  text: "Nie ma, kto by pojmował, nie ma, kto by szukał Boga;"
+  tags: []
+"Rz3,12":
+  text: "Wszyscy zboczyli, wszyscy razem zostali uznani za nieużytecznych, nie ma, kto by czynił dobro, nie ma ani jednego;"
+  tags: []
+"Rz3,13":
+  text: "Grobem otwartym jest ich gardło, swoimi językami mówią podstępnie; jad żmij na ich wargach;"
+  tags: []
+"Rz3,14":
+  text: "Usta ich pełne są przekleństwa i goryczy;"
+  tags: []
+"Rz3,15":
+  text: "Nogi ich są prędkie do rozlewu krwi;"
+  tags: []
+"Rz3,16":
+  text: "Zniszczenie i nędza na ich drogach,"
+  tags: []
+"Rz3,17":
+  text: "A drogi pokoju nie poznali;"
+  tags: []
+"Rz3,18":
+  text: "Nie ma bojaźni Bożej przed ich oczami."
+  tags: []
+"Rz3,19":
+  text: "A wiemy, że cokolwiek Prawo mówi, mówi to tym, którzy są pod Prawem, aby wszelkie usta zostały zamknięte i aby cały świat okazał się winny przed Bogiem,"
+  tags: []
+"Rz3,20":
+  text: "Dlatego że z uczynków Prawa żadne ciało nie będzie uznane za sprawiedliwe przed Jego obliczem, gdyż przez Prawo jest dogłębne poznanie grzechu."
+  tags: []
+"Rz3,21":
+  text: "Lecz teraz, niezależnie od Prawa, została ukazana sprawiedliwość Boga, poświadczana przez Prawo i Proroków;"
+  tags: []
+"Rz3,22":
+  text: "Sprawiedliwość Boga przez wiarę w Jezusa Chrystusa, dla wszystkich i wobec wszystkich wierzących, nie ma bowiem różnicy;"
+  tags: []
+"Rz3,23":
+  text: "Bo wszyscy zgrzeszyli i są pozbawiani chwały Bożej."
+  tags: []
+"Rz3,24":
+  text: "I są uznawani za sprawiedliwych za darmo z Jego łaski przez odkupienie w Chrystusie Jezusie,"
+  tags: []
+"Rz3,25":
+  text: "Którego Bóg ustanowił jako ofiarę przebłagalną, przez wiarę, w Jego krwi, dla wykazania dowodu swojej sprawiedliwości przez odpuszczenie wcześniej popełnionych grzechów w czasie Bożej cierpliwości,"
+  tags: []
+"Rz3,26":
+  text: "Dla wykazania dowodu swojej sprawiedliwości w teraźniejszym czasie, tak by On był sprawiedliwy i usprawiedliwiający tego, który jest z wiary w Jezusa."
+  tags: []
+"Rz3,27":
+  text: "Gdzie więc jest chluba? Została wykluczona. Przez jakie prawo? Uczynków? Nie, ale przez prawo wiary."
+  tags: []
+"Rz3,28":
+  text: "Dlatego rozumiemy, że człowiek jest uznawany za sprawiedliwego przez wiarę, bez uczynków prawa."
+  tags: []
+"Rz3,29":
+  text: "Czy Bóg jest tylko Bogiem Żydów? Czy nie pogan także? Tak – także i pogan."
+  tags: []
+"Rz3,30":
+  text: "Bo jeden jest Bóg, który usprawiedliwi obrzezanie z wiary i nieobrzezanie przez tę wiarę."
+  tags: []
+"Rz3,31":
+  text: "Czy więc Prawo niszczymy przez tę wiarę? Z pewnością nie! Prawo umacniamy."
+  tags: []

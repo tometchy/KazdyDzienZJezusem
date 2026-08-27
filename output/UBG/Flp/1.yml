@@ -1,30 +1,90 @@
-"Flp1,1": "Paweł i Tymoteusz, słudzy Jezusa Chrystusa, do wszystkich świętych w Chrystusie Jezusie, którzy są w Filippi, wraz z biskupami i diakonami."
-"Flp1,2": "Łaska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa."
-"Flp1,3": "Dziękuję memu Bogu, ilekroć was wspominam;"
-"Flp1,4": "Zawsze w każdej mojej modlitwie prosząc z radością za was wszystkich;"
-"Flp1,5": "Za wasz współudział w ewangelii od pierwszego dnia aż do chwili obecnej;"
-"Flp1,6": "Będąc tego pewien, że ten, który rozpoczął w was dobre dzieło, dokończy je do dnia Jezusa Chrystusa."
-"Flp1,7": "Słuszne jest, abym tak myślał o was wszystkich, dlatego że mam was w moim sercu, bo w moim więzieniu, jak i w obronie i utwierdzaniu ewangelii wszyscy jesteście ze mną uczestnikami łaski."
-"Flp1,8": "Bóg bowiem jest mi świadkiem, jak tęsknię do was wszystkich najgłębszymi uczuciami Jezusa Chrystusa."
-"Flp1,9": "I o to się modlę, aby wasza miłość coraz bardziej obfitowała w poznanie i we wszelkie zrozumienie;"
-"Flp1,10": "Abyście mogli rozpoznać to, co lepsze, żebyście byli szczerzy i bez zarzutu na dzień Chrystusa;"
-"Flp1,11": "Napełnieni owocami sprawiedliwości, które przynosicie przez Jezusa Chrystusa ku chwale i czci Boga."
-"Flp1,12": "A chcę, bracia, abyście wiedzieli, że to, co mnie spotkało, spowodowało jeszcze większe rozkrzewienie ewangelii;"
-"Flp1,13": "Tak że moje więzy z powodu Chrystusa stały się znane w całym pałacu i u wszystkich innych."
-"Flp1,14": "A wielu braci w Panu nabrało otuchy z powodu moich więzów i z większą odwagą, bez lęku zaczęło głosić słowo."
-"Flp1,15": "Niektórzy wprawdzie z zazdrości i sporu, inni zaś z dobrej woli głoszą Chrystusa."
-"Flp1,16": "Jedni ze sporu głoszą Chrystusa nieszczerze, sądząc, że dodadzą ucisku moim więzom;"
-"Flp1,17": "Inni zaś z miłości, wiedząc, że jestem przeznaczony do obrony ewangelii."
-"Flp1,18": "Cóż więc? Mimo wszystko każdym sposobem, czy obłudnie, czy szczerze, Chrystus jest głoszony. Z tego się raduję i będę się radował."
-"Flp1,19": "Wiem bowiem, że to doprowadzi do mojego zbawienia dzięki waszej modlitwie i pomocy Ducha Jezusa Chrystusa;"
-"Flp1,20": "Zgodnie z moim gorliwym oczekiwaniem i nadzieją, że w niczym nie będę zawstydzony, lecz z całą odwagą, jak zawsze, tak i teraz, uwielbiony będzie Chrystus w moim ciele, czy to przez życie, czy przez śmierć."
-"Flp1,21": "Dla mnie bowiem życie to Chrystus, a śmierć to zysk."
-"Flp1,22": "Lecz jeśli życie w ciele jest dla mnie owocem mojej pracy, to nie wiem, co mam wybrać."
-"Flp1,23": "Jedno i drugie bowiem mnie naciska: chcę odejść i być z Chrystusem, bo to o wiele lepsze;"
-"Flp1,24": "Lecz pozostać w ciele jest bardziej potrzebne ze względu na was."
-"Flp1,25": "A będąc tego pewien, wiem, że pozostanę i będę z wami wszystkimi dla waszego rozwoju i radości wiary;"
-"Flp1,26": "Aby obfitowała wasza chluba w Chrystusie Jezusie ze mnie, gdy znowu przybędę do was."
-"Flp1,27": "Tylko postępujcie jak przystoi na ewangelię Chrystusa, abym czy przyjdę i zobaczę was, czy nie przyjdę, słyszał o was, że trwacie w jednym duchu, jednomyślnie walcząc o wiarę ewangelii;"
-"Flp1,28": "I w niczym nie dając się zastraszyć przeciwnikom. Dla nich jest to dowód zguby, a dla was zbawienia, i to od Boga."
-"Flp1,29": "Gdyż wam dla Chrystusa dane jest nie tylko w niego wierzyć, ale też dla niego cierpieć;"
-"Flp1,30": "Staczając tę samą walkę, którą widzieliście we mnie, i o której słyszycie, że teraz we mnie się toczy."
+"Flp1,1":
+  text: "Paweł i Tymoteusz, słudzy Jezusa Chrystusa, do wszystkich świętych w Chrystusie Jezusie, którzy są w Filippi, wraz z biskupami i diakonami."
+  tags: []
+"Flp1,2":
+  text: "Łaska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa."
+  tags: []
+"Flp1,3":
+  text: "Dziękuję memu Bogu, ilekroć was wspominam;"
+  tags: []
+"Flp1,4":
+  text: "Zawsze w każdej mojej modlitwie prosząc z radością za was wszystkich;"
+  tags: []
+"Flp1,5":
+  text: "Za wasz współudział w ewangelii od pierwszego dnia aż do chwili obecnej;"
+  tags: []
+"Flp1,6":
+  text: "Będąc tego pewien, że ten, który rozpoczął w was dobre dzieło, dokończy je do dnia Jezusa Chrystusa."
+  tags: []
+"Flp1,7":
+  text: "Słuszne jest, abym tak myślał o was wszystkich, dlatego że mam was w moim sercu, bo w moim więzieniu, jak i w obronie i utwierdzaniu ewangelii wszyscy jesteście ze mną uczestnikami łaski."
+  tags: []
+"Flp1,8":
+  text: "Bóg bowiem jest mi świadkiem, jak tęsknię do was wszystkich najgłębszymi uczuciami Jezusa Chrystusa."
+  tags: []
+"Flp1,9":
+  text: "I o to się modlę, aby wasza miłość coraz bardziej obfitowała w poznanie i we wszelkie zrozumienie;"
+  tags: []
+"Flp1,10":
+  text: "Abyście mogli rozpoznać to, co lepsze, żebyście byli szczerzy i bez zarzutu na dzień Chrystusa;"
+  tags: []
+"Flp1,11":
+  text: "Napełnieni owocami sprawiedliwości, które przynosicie przez Jezusa Chrystusa ku chwale i czci Boga."
+  tags: []
+"Flp1,12":
+  text: "A chcę, bracia, abyście wiedzieli, że to, co mnie spotkało, spowodowało jeszcze większe rozkrzewienie ewangelii;"
+  tags: []
+"Flp1,13":
+  text: "Tak że moje więzy z powodu Chrystusa stały się znane w całym pałacu i u wszystkich innych."
+  tags: []
+"Flp1,14":
+  text: "A wielu braci w Panu nabrało otuchy z powodu moich więzów i z większą odwagą, bez lęku zaczęło głosić słowo."
+  tags: []
+"Flp1,15":
+  text: "Niektórzy wprawdzie z zazdrości i sporu, inni zaś z dobrej woli głoszą Chrystusa."
+  tags: []
+"Flp1,16":
+  text: "Jedni ze sporu głoszą Chrystusa nieszczerze, sądząc, że dodadzą ucisku moim więzom;"
+  tags: []
+"Flp1,17":
+  text: "Inni zaś z miłości, wiedząc, że jestem przeznaczony do obrony ewangelii."
+  tags: []
+"Flp1,18":
+  text: "Cóż więc? Mimo wszystko każdym sposobem, czy obłudnie, czy szczerze, Chrystus jest głoszony. Z tego się raduję i będę się radował."
+  tags: []
+"Flp1,19":
+  text: "Wiem bowiem, że to doprowadzi do mojego zbawienia dzięki waszej modlitwie i pomocy Ducha Jezusa Chrystusa;"
+  tags: []
+"Flp1,20":
+  text: "Zgodnie z moim gorliwym oczekiwaniem i nadzieją, że w niczym nie będę zawstydzony, lecz z całą odwagą, jak zawsze, tak i teraz, uwielbiony będzie Chrystus w moim ciele, czy to przez życie, czy przez śmierć."
+  tags: []
+"Flp1,21":
+  text: "Dla mnie bowiem życie to Chrystus, a śmierć to zysk."
+  tags: []
+"Flp1,22":
+  text: "Lecz jeśli życie w ciele jest dla mnie owocem mojej pracy, to nie wiem, co mam wybrać."
+  tags: []
+"Flp1,23":
+  text: "Jedno i drugie bowiem mnie naciska: chcę odejść i być z Chrystusem, bo to o wiele lepsze;"
+  tags: []
+"Flp1,24":
+  text: "Lecz pozostać w ciele jest bardziej potrzebne ze względu na was."
+  tags: []
+"Flp1,25":
+  text: "A będąc tego pewien, wiem, że pozostanę i będę z wami wszystkimi dla waszego rozwoju i radości wiary;"
+  tags: []
+"Flp1,26":
+  text: "Aby obfitowała wasza chluba w Chrystusie Jezusie ze mnie, gdy znowu przybędę do was."
+  tags: []
+"Flp1,27":
+  text: "Tylko postępujcie jak przystoi na ewangelię Chrystusa, abym czy przyjdę i zobaczę was, czy nie przyjdę, słyszał o was, że trwacie w jednym duchu, jednomyślnie walcząc o wiarę ewangelii;"
+  tags: []
+"Flp1,28":
+  text: "I w niczym nie dając się zastraszyć przeciwnikom. Dla nich jest to dowód zguby, a dla was zbawienia, i to od Boga."
+  tags: []
+"Flp1,29":
+  text: "Gdyż wam dla Chrystusa dane jest nie tylko w niego wierzyć, ale też dla niego cierpieć;"
+  tags: []
+"Flp1,30":
+  text: "Staczając tę samą walkę, którą widzieliście we mnie, i o której słyszycie, że teraz we mnie się toczy."
+  tags: []

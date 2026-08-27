@@ -1,28 +1,84 @@
-"1Tes5,1": "But of the times and the seasons, brethren, ye have no need that I write unto you."
-"1Tes5,2": "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night."
-"1Tes5,3": "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape."
-"1Tes5,4": "But ye, brethren, are not in darkness, that that day should overtake you as a thief."
-"1Tes5,5": "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness."
-"1Tes5,6": "Therefore let us not sleep, as [do] others; but let us watch and be sober."
-"1Tes5,7": "For they that sleep sleep in the night; and they that be drunken are drunken in the night."
-"1Tes5,8": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
-"1Tes5,9": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
-"1Tes5,10": "Who died for us, that, whether we wake or sleep, we should live together with him."
-"1Tes5,11": "Wherefore comfort yourselves together, and edify one another, even as also ye do."
-"1Tes5,12": "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"
-"1Tes5,13": "And to esteem them very highly in love for their work's sake. [And] be at peace among yourselves."
-"1Tes5,14": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all [men]."
-"1Tes5,15": "See that none render evil for evil unto any [man]; but ever follow that which is good, both among yourselves, and to all [men]."
-"1Tes5,16": "Rejoice evermore."
-"1Tes5,17": "Pray without ceasing."
-"1Tes5,18": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
-"1Tes5,19": "Quench not the Spirit."
-"1Tes5,20": "Despise not prophesyings."
-"1Tes5,21": "Prove all things; hold fast that which is good."
-"1Tes5,22": "Abstain from all appearance of evil."
-"1Tes5,23": "And the very God of peace sanctify you wholly; and [I pray God] your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
-"1Tes5,24": "Faithful [is] he that calleth you, who also will do [it]."
-"1Tes5,25": "Brethren, pray for us."
-"1Tes5,26": "Greet all the brethren with an holy kiss."
-"1Tes5,27": "I charge you by the Lord that this epistle be read unto all the holy brethren."
-"1Tes5,28": "The grace of our Lord Jesus Christ [be] with you. Amen."
+"1Tes5,1":
+  text: "But of the times and the seasons, brethren, ye have no need that I write unto you."
+  tags: []
+"1Tes5,2":
+  text: "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night."
+  tags: []
+"1Tes5,3":
+  text: "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape."
+  tags: []
+"1Tes5,4":
+  text: "But ye, brethren, are not in darkness, that that day should overtake you as a thief."
+  tags: []
+"1Tes5,5":
+  text: "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness."
+  tags: []
+"1Tes5,6":
+  text: "Therefore let us not sleep, as [do] others; but let us watch and be sober."
+  tags: []
+"1Tes5,7":
+  text: "For they that sleep sleep in the night; and they that be drunken are drunken in the night."
+  tags: []
+"1Tes5,8":
+  text: "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
+  tags: []
+"1Tes5,9":
+  text: "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
+  tags: []
+"1Tes5,10":
+  text: "Who died for us, that, whether we wake or sleep, we should live together with him."
+  tags: []
+"1Tes5,11":
+  text: "Wherefore comfort yourselves together, and edify one another, even as also ye do."
+  tags: []
+"1Tes5,12":
+  text: "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"
+  tags: []
+"1Tes5,13":
+  text: "And to esteem them very highly in love for their work's sake. [And] be at peace among yourselves."
+  tags: []
+"1Tes5,14":
+  text: "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all [men]."
+  tags: []
+"1Tes5,15":
+  text: "See that none render evil for evil unto any [man]; but ever follow that which is good, both among yourselves, and to all [men]."
+  tags: []
+"1Tes5,16":
+  text: "Rejoice evermore."
+  tags: []
+"1Tes5,17":
+  text: "Pray without ceasing."
+  tags: []
+"1Tes5,18":
+  text: "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+  tags: []
+"1Tes5,19":
+  text: "Quench not the Spirit."
+  tags: []
+"1Tes5,20":
+  text: "Despise not prophesyings."
+  tags: []
+"1Tes5,21":
+  text: "Prove all things; hold fast that which is good."
+  tags: []
+"1Tes5,22":
+  text: "Abstain from all appearance of evil."
+  tags: []
+"1Tes5,23":
+  text: "And the very God of peace sanctify you wholly; and [I pray God] your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
+  tags: []
+"1Tes5,24":
+  text: "Faithful [is] he that calleth you, who also will do [it]."
+  tags: []
+"1Tes5,25":
+  text: "Brethren, pray for us."
+  tags: []
+"1Tes5,26":
+  text: "Greet all the brethren with an holy kiss."
+  tags: []
+"1Tes5,27":
+  text: "I charge you by the Lord that this epistle be read unto all the holy brethren."
+  tags: []
+"1Tes5,28":
+  text: "The grace of our Lord Jesus Christ [be] with you. Amen."
+  tags: []

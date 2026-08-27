@@ -1,20 +1,60 @@
-"Ps9,1": "I will praise [thee], O LORD, with my whole heart; I will shew forth all thy marvellous works."
-"Ps9,2": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High."
-"Ps9,3": "When mine enemies are turned back, they shall fall and perish at thy presence."
-"Ps9,4": "For thou hast maintained my right and my cause; thou satest in the throne judging right."
-"Ps9,5": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
-"Ps9,6": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them."
-"Ps9,7": "But the LORD shall endure for ever: he hath prepared his throne for judgment."
-"Ps9,8": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness."
-"Ps9,9": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble."
-"Ps9,10": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
-"Ps9,11": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings."
-"Ps9,12": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
-"Ps9,13": "Have mercy upon me, O LORD; consider my trouble [which I suffer] of them that hate me, thou that liftest me up from the gates of death:"
-"Ps9,14": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation."
-"Ps9,15": "The heathen are sunk down in the pit [that] they made: in the net which they hid is their own foot taken."
-"Ps9,16": "The LORD is known [by] the judgment [which] he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
-"Ps9,17": "The wicked shall be turned into hell, [and] all the nations that forget God."
-"Ps9,18": "For the needy shall not alway be forgotten: the expectation of the poor shall [not] perish for ever."
-"Ps9,19": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight."
-"Ps9,20": "Put them in fear, O LORD: [that] the nations may know themselves [to be but] men. Selah."
+"Ps9,1":
+  text: "I will praise [thee], O LORD, with my whole heart; I will shew forth all thy marvellous works."
+  tags: []
+"Ps9,2":
+  text: "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High."
+  tags: []
+"Ps9,3":
+  text: "When mine enemies are turned back, they shall fall and perish at thy presence."
+  tags: []
+"Ps9,4":
+  text: "For thou hast maintained my right and my cause; thou satest in the throne judging right."
+  tags: []
+"Ps9,5":
+  text: "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
+  tags: []
+"Ps9,6":
+  text: "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them."
+  tags: []
+"Ps9,7":
+  text: "But the LORD shall endure for ever: he hath prepared his throne for judgment."
+  tags: []
+"Ps9,8":
+  text: "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness."
+  tags: []
+"Ps9,9":
+  text: "The LORD also will be a refuge for the oppressed, a refuge in times of trouble."
+  tags: []
+"Ps9,10":
+  text: "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
+  tags: []
+"Ps9,11":
+  text: "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings."
+  tags: []
+"Ps9,12":
+  text: "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
+  tags: []
+"Ps9,13":
+  text: "Have mercy upon me, O LORD; consider my trouble [which I suffer] of them that hate me, thou that liftest me up from the gates of death:"
+  tags: []
+"Ps9,14":
+  text: "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation."
+  tags: []
+"Ps9,15":
+  text: "The heathen are sunk down in the pit [that] they made: in the net which they hid is their own foot taken."
+  tags: []
+"Ps9,16":
+  text: "The LORD is known [by] the judgment [which] he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
+  tags: []
+"Ps9,17":
+  text: "The wicked shall be turned into hell, [and] all the nations that forget God."
+  tags: []
+"Ps9,18":
+  text: "For the needy shall not alway be forgotten: the expectation of the poor shall [not] perish for ever."
+  tags: []
+"Ps9,19":
+  text: "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight."
+  tags: []
+"Ps9,20":
+  text: "Put them in fear, O LORD: [that] the nations may know themselves [to be but] men. Selah."
+  tags: []

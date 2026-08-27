@@ -1,32 +1,96 @@
-"Rdz10,1": "Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
-"Rdz10,2": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
-"Rdz10,3": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
-"Rdz10,4": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
-"Rdz10,5": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."
-"Rdz10,6": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
-"Rdz10,7": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan."
-"Rdz10,8": "And Cush begat Nimrod: he began to be a mighty one in the earth."
-"Rdz10,9": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD."
-"Rdz10,10": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
-"Rdz10,11": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
-"Rdz10,12": "And Resen between Nineveh and Calah: the same [is] a great city."
-"Rdz10,13": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,"
-"Rdz10,14": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim."
-"Rdz10,15": "And Canaan begat Sidon his firstborn, and Heth,"
-"Rdz10,16": "And the Jebusite, and the Amorite, and the Girgasite,"
-"Rdz10,17": "And the Hivite, and the Arkite, and the Sinite,"
-"Rdz10,18": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."
-"Rdz10,19": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."
-"Rdz10,20": "These [are] the sons of Ham, after their families, after their tongues, in their countries, [and] in their nations."
-"Rdz10,21": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were [children] born."
-"Rdz10,22": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
-"Rdz10,23": "And the children of Aram; Uz, and Hul, and Gether, and Mash."
-"Rdz10,24": "And Arphaxad begat Salah; and Salah begat Eber."
-"Rdz10,25": "And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother's name [was] Joktan."
-"Rdz10,26": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
-"Rdz10,27": "And Hadoram, and Uzal, and Diklah,"
-"Rdz10,28": "And Obal, and Abimael, and Sheba,"
-"Rdz10,29": "And Ophir, and Havilah, and Jobab: all these [were] the sons of Joktan."
-"Rdz10,30": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east."
-"Rdz10,31": "These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations."
-"Rdz10,32": "These [are] the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood."
+"Rdz10,1":
+  text: "Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
+  tags: []
+"Rdz10,2":
+  text: "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
+  tags: []
+"Rdz10,3":
+  text: "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
+  tags: []
+"Rdz10,4":
+  text: "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+  tags: []
+"Rdz10,5":
+  text: "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."
+  tags: []
+"Rdz10,6":
+  text: "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
+  tags: []
+"Rdz10,7":
+  text: "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan."
+  tags: []
+"Rdz10,8":
+  text: "And Cush begat Nimrod: he began to be a mighty one in the earth."
+  tags: []
+"Rdz10,9":
+  text: "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD."
+  tags: []
+"Rdz10,10":
+  text: "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+  tags: []
+"Rdz10,11":
+  text: "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
+  tags: []
+"Rdz10,12":
+  text: "And Resen between Nineveh and Calah: the same [is] a great city."
+  tags: []
+"Rdz10,13":
+  text: "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,"
+  tags: []
+"Rdz10,14":
+  text: "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim."
+  tags: []
+"Rdz10,15":
+  text: "And Canaan begat Sidon his firstborn, and Heth,"
+  tags: []
+"Rdz10,16":
+  text: "And the Jebusite, and the Amorite, and the Girgasite,"
+  tags: []
+"Rdz10,17":
+  text: "And the Hivite, and the Arkite, and the Sinite,"
+  tags: []
+"Rdz10,18":
+  text: "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."
+  tags: []
+"Rdz10,19":
+  text: "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."
+  tags: []
+"Rdz10,20":
+  text: "These [are] the sons of Ham, after their families, after their tongues, in their countries, [and] in their nations."
+  tags: []
+"Rdz10,21":
+  text: "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were [children] born."
+  tags: []
+"Rdz10,22":
+  text: "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
+  tags: []
+"Rdz10,23":
+  text: "And the children of Aram; Uz, and Hul, and Gether, and Mash."
+  tags: []
+"Rdz10,24":
+  text: "And Arphaxad begat Salah; and Salah begat Eber."
+  tags: []
+"Rdz10,25":
+  text: "And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother's name [was] Joktan."
+  tags: []
+"Rdz10,26":
+  text: "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
+  tags: []
+"Rdz10,27":
+  text: "And Hadoram, and Uzal, and Diklah,"
+  tags: []
+"Rdz10,28":
+  text: "And Obal, and Abimael, and Sheba,"
+  tags: []
+"Rdz10,29":
+  text: "And Ophir, and Havilah, and Jobab: all these [were] the sons of Joktan."
+  tags: []
+"Rdz10,30":
+  text: "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east."
+  tags: []
+"Rdz10,31":
+  text: "These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations."
+  tags: []
+"Rdz10,32":
+  text: "These [are] the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood."
+  tags: []

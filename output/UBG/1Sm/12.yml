@@ -1,25 +1,75 @@
-"1Sm12,1": "Wtedy Samuel przemówił do całego Izraela: Posłuchałem waszego głosu we wszystkim, o czym mi mówiliście, i ustanowiłem nad wami króla."
-"1Sm12,2": "A teraz król chodzi przed wami. Ja zaś zestarzałem się i osiwiałem. Oto moi synowie są z wami, a ja chodziłem przed wami od mojej młodości aż do dziś."
-"1Sm12,3": "Oto jestem tu. Świadczcie przeciwko mnie przed PANEM i przed jego pomazańcem: Czy komu zabrałem wołu? Czy komu zabrałem osła? Czy kogoś oszukałem? Czy kogoś uciskałem? Czy z czyjejś ręki przyjąłem podarunek, aby na coś przymknąć oczy? Jeśli tak, oddam wam wszystko."
-"1Sm12,4": "I odpowiedzieli: Nie oszukałeś nas ani nie uciskałeś nas, ani nie wziąłeś żadnej rzeczy z niczyjej ręki."
-"1Sm12,5": "Wtedy powiedział do nich: PAN jest świadkiem przeciwko wam, świadkiem jest też dzisiaj pomazaniec, że nic nie znaleźliście w mojej ręce. A oni odpowiedzieli: On jest świadkiem."
-"1Sm12,6": "Samuel przemówił dalej do ludu: To PAN, który ustanowił Mojżesza i Aarona i który wyprowadził waszych ojców z ziemi Egiptu."
-"1Sm12,7": "Dlatego teraz stańcie, abym spierał się z wami przed PANEM o wszystkie sprawiedliwe dzieła PANA, które czynił wam i waszym ojcom."
-"1Sm12,8": "Gdy Jakub przybył do Egiptu, a wasi ojcowie wołali do PANA, posłał PAN Mojżesza i Aarona, którzy wyprowadzili waszych ojców z Egiptu i posadzili ich na tym miejscu."
-"1Sm12,9": "A gdy zapomnieli PANA, swego Boga, wydał ich w ręce Sisery, dowódcy wojska Chasoru, w ręce Filistynów i w ręce króla Moabu, a oni walczyli z nimi."
-"1Sm12,10": "Lecz gdy wołali do PANA, mówiąc: Zgrzeszyliśmy, bo opuściliśmy PANA i służyliśmy Baalom i Asztartom. Teraz jednak wybaw nas z rąk naszych wrogów, a będziemy tobie służyli;"
-"1Sm12,11": "Wtedy PAN posłał Jerubbaala, Bedana, Jeftego i Samuela i wyrwał was z rąk waszych wrogów, którzy was otaczali, i mieszkaliście bezpiecznie."
-"1Sm12,12": "A gdy widzieliście, że Nachasz, król synów Ammona, nadciągnął przeciwko wam, powiedzieliście do mnie: Nie tak, lecz król będzie panował nad nami. Choć PAN, wasz Bóg, był waszym królem."
-"1Sm12,13": "Teraz więc oto jest król, którego sobie wybraliście, którego żądaliście. Oto PAN ustanowił nad wami króla."
-"1Sm12,14": "Jeśli będziecie się bali PANA, jemu służyli, słuchali jego głosu i nie sprzeciwiali się słowu PANA, wtedy i wy, i król, który panuje nad wami, będziecie szczęśliwie chodzić za PANEM, swoim Bogiem."
-"1Sm12,15": "Lecz jeśli nie będziecie słuchać głosu PANA, a sprzeciwicie się słowu PANA, to ręka PANA będzie przeciwko wam, tak jak była przeciwko waszym ojcom."
-"1Sm12,16": "Teraz stójcie więc i zobaczcie tę wielką rzecz, którą PAN uczyni na waszych oczach."
-"1Sm12,17": "Czy nie dziś są żniwa pszeniczne? Będę wzywał PANA, a on ześle grzmoty i deszcz, abyście poznali i zobaczyli, jak wielka jest wasza niegodziwość, której się dopuściliście w oczach PANA, żądając dla siebie króla."
-"1Sm12,18": "Samuel wołał więc do PANA, a PAN zesłał grzmoty i deszcz tego samego dnia. I cały lud bardzo bał się PANA i Samuela."
-"1Sm12,19": "Wtedy cały lud powiedział do Samuela: Módl się za swoimi sługami do PANA, swego Boga, abyśmy nie pomarli. Dodaliśmy bowiem do wszystkich naszych grzechów to zło, że prosiliśmy dla siebie o króla."
-"1Sm12,20": "Samuel odpowiedział ludowi: Nie bójcie się. Wprawdzie uczyniliście całe to zło. Nie odstępujcie jednak od PANA, lecz służcie PANU z całego swego serca;"
-"1Sm12,21": "A nie zbaczajcie z tej drogi, by iść za marnościami, które w niczym wam nie pomogą ani was nie wybawią, gdyż są marnością."
-"1Sm12,22": "PAN bowiem nie opuści swego ludu przez wzgląd na swoje wielkie imię, gdyż spodobało się PANU uczynić was swoim ludem."
-"1Sm12,23": "A jeśli chodzi o mnie, nie daj Boże, bym miał grzeszyć przeciw PANU, przestając się modlić za was. Przeciwnie, będę was uczył dobrej i prostej drogi."
-"1Sm12,24": "Tylko bójcie się PANA i służcie mu w prawdzie z całego swego serca. Spójrzcie, jak wielkie rzeczy wam uczynił."
-"1Sm12,25": "Lecz jeśli będziecie trwać w niegodziwości, to zarówno wy, jak i wasz król zginiecie."
+"1Sm12,1":
+  text: "Wtedy Samuel przemówił do całego Izraela: Posłuchałem waszego głosu we wszystkim, o czym mi mówiliście, i ustanowiłem nad wami króla."
+  tags: []
+"1Sm12,2":
+  text: "A teraz król chodzi przed wami. Ja zaś zestarzałem się i osiwiałem. Oto moi synowie są z wami, a ja chodziłem przed wami od mojej młodości aż do dziś."
+  tags: []
+"1Sm12,3":
+  text: "Oto jestem tu. Świadczcie przeciwko mnie przed PANEM i przed jego pomazańcem: Czy komu zabrałem wołu? Czy komu zabrałem osła? Czy kogoś oszukałem? Czy kogoś uciskałem? Czy z czyjejś ręki przyjąłem podarunek, aby na coś przymknąć oczy? Jeśli tak, oddam wam wszystko."
+  tags: []
+"1Sm12,4":
+  text: "I odpowiedzieli: Nie oszukałeś nas ani nie uciskałeś nas, ani nie wziąłeś żadnej rzeczy z niczyjej ręki."
+  tags: []
+"1Sm12,5":
+  text: "Wtedy powiedział do nich: PAN jest świadkiem przeciwko wam, świadkiem jest też dzisiaj pomazaniec, że nic nie znaleźliście w mojej ręce. A oni odpowiedzieli: On jest świadkiem."
+  tags: []
+"1Sm12,6":
+  text: "Samuel przemówił dalej do ludu: To PAN, który ustanowił Mojżesza i Aarona i który wyprowadził waszych ojców z ziemi Egiptu."
+  tags: []
+"1Sm12,7":
+  text: "Dlatego teraz stańcie, abym spierał się z wami przed PANEM o wszystkie sprawiedliwe dzieła PANA, które czynił wam i waszym ojcom."
+  tags: []
+"1Sm12,8":
+  text: "Gdy Jakub przybył do Egiptu, a wasi ojcowie wołali do PANA, posłał PAN Mojżesza i Aarona, którzy wyprowadzili waszych ojców z Egiptu i posadzili ich na tym miejscu."
+  tags: []
+"1Sm12,9":
+  text: "A gdy zapomnieli PANA, swego Boga, wydał ich w ręce Sisery, dowódcy wojska Chasoru, w ręce Filistynów i w ręce króla Moabu, a oni walczyli z nimi."
+  tags: []
+"1Sm12,10":
+  text: "Lecz gdy wołali do PANA, mówiąc: Zgrzeszyliśmy, bo opuściliśmy PANA i służyliśmy Baalom i Asztartom. Teraz jednak wybaw nas z rąk naszych wrogów, a będziemy tobie służyli;"
+  tags: []
+"1Sm12,11":
+  text: "Wtedy PAN posłał Jerubbaala, Bedana, Jeftego i Samuela i wyrwał was z rąk waszych wrogów, którzy was otaczali, i mieszkaliście bezpiecznie."
+  tags: []
+"1Sm12,12":
+  text: "A gdy widzieliście, że Nachasz, król synów Ammona, nadciągnął przeciwko wam, powiedzieliście do mnie: Nie tak, lecz król będzie panował nad nami. Choć PAN, wasz Bóg, był waszym królem."
+  tags: []
+"1Sm12,13":
+  text: "Teraz więc oto jest król, którego sobie wybraliście, którego żądaliście. Oto PAN ustanowił nad wami króla."
+  tags: []
+"1Sm12,14":
+  text: "Jeśli będziecie się bali PANA, jemu służyli, słuchali jego głosu i nie sprzeciwiali się słowu PANA, wtedy i wy, i król, który panuje nad wami, będziecie szczęśliwie chodzić za PANEM, swoim Bogiem."
+  tags: []
+"1Sm12,15":
+  text: "Lecz jeśli nie będziecie słuchać głosu PANA, a sprzeciwicie się słowu PANA, to ręka PANA będzie przeciwko wam, tak jak była przeciwko waszym ojcom."
+  tags: []
+"1Sm12,16":
+  text: "Teraz stójcie więc i zobaczcie tę wielką rzecz, którą PAN uczyni na waszych oczach."
+  tags: []
+"1Sm12,17":
+  text: "Czy nie dziś są żniwa pszeniczne? Będę wzywał PANA, a on ześle grzmoty i deszcz, abyście poznali i zobaczyli, jak wielka jest wasza niegodziwość, której się dopuściliście w oczach PANA, żądając dla siebie króla."
+  tags: []
+"1Sm12,18":
+  text: "Samuel wołał więc do PANA, a PAN zesłał grzmoty i deszcz tego samego dnia. I cały lud bardzo bał się PANA i Samuela."
+  tags: []
+"1Sm12,19":
+  text: "Wtedy cały lud powiedział do Samuela: Módl się za swoimi sługami do PANA, swego Boga, abyśmy nie pomarli. Dodaliśmy bowiem do wszystkich naszych grzechów to zło, że prosiliśmy dla siebie o króla."
+  tags: []
+"1Sm12,20":
+  text: "Samuel odpowiedział ludowi: Nie bójcie się. Wprawdzie uczyniliście całe to zło. Nie odstępujcie jednak od PANA, lecz służcie PANU z całego swego serca;"
+  tags: []
+"1Sm12,21":
+  text: "A nie zbaczajcie z tej drogi, by iść za marnościami, które w niczym wam nie pomogą ani was nie wybawią, gdyż są marnością."
+  tags: []
+"1Sm12,22":
+  text: "PAN bowiem nie opuści swego ludu przez wzgląd na swoje wielkie imię, gdyż spodobało się PANU uczynić was swoim ludem."
+  tags: []
+"1Sm12,23":
+  text: "A jeśli chodzi o mnie, nie daj Boże, bym miał grzeszyć przeciw PANU, przestając się modlić za was. Przeciwnie, będę was uczył dobrej i prostej drogi."
+  tags: []
+"1Sm12,24":
+  text: "Tylko bójcie się PANA i służcie mu w prawdzie z całego swego serca. Spójrzcie, jak wielkie rzeczy wam uczynił."
+  tags: []
+"1Sm12,25":
+  text: "Lecz jeśli będziecie trwać w niegodziwości, to zarówno wy, jak i wasz król zginiecie."
+  tags: []

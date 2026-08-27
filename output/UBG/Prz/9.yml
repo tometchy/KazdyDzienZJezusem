@@ -1,18 +1,54 @@
-"Prz9,1": "Mądrość zbudowała sobie dom i wyciosała siedem słupów;"
-"Prz9,2": "Zabiła swoje bydło, zmieszała wino i zastawiła stół;"
-"Prz9,3": "Rozesłała swoje służące, woła na szczytach najwyższych miejsc miasta:"
-"Prz9,4": "Ktokolwiek jest prostym, niech wstąpi; a do nierozumnego mówi:"
-"Prz9,5": "Chodźcie, jedzcie mój chleb i pijcie wino, które zmieszałam."
-"Prz9,6": "Porzućcie głupotę, a będziecie żyli, i chodźcie drogą roztropności."
-"Prz9,7": "Kto upomina szydercę, ściąga na siebie hańbę, a kto strofuje niegodziwego, ten się plami."
-"Prz9,8": "Nie strofuj szydercy, aby cię nie znienawidził; strofuj mądrego, a będzie cię miłował."
-"Prz9,9": "Upomnij mądrego, a będzie mądrzejszy; poucz sprawiedliwego, a pomnoży swą wiedzę."
-"Prz9,10": "Początkiem mądrości jest bojaźń PANA, a wiedza o tym, co święte, to rozum."
-"Prz9,11": "Bo dzięki mnie rozmnożą się twoje dni i przedłużą się lata twojego życia."
-"Prz9,12": "Jeśli będziesz mądry, tobie samemu będzie służyła twoja mądrość; a jeśli szydercą, sam poniesiesz szkodę."
-"Prz9,13": "Głupia kobieta jest wrzaskliwa, prosta i nic nie rozumie;"
-"Prz9,14": "Siedzi u drzwi swego domu, na krześle, na wysokich miejscach w mieście;"
-"Prz9,15": "Aby wołać na przechodzących, którzy idą prosto swoimi ścieżkami:"
-"Prz9,16": "Ktokolwiek jest prosty, niech wstąpi; a do nierozumnego mówi:"
-"Prz9,17": "Kradzione wody są słodkie, a chleb jedzony pokątnie smaczny."
-"Prz9,18": "Ale on nie wie, że tam są umarli, że jej zaproszeni są w głębinach piekła."
+"Prz9,1":
+  text: "Mądrość zbudowała sobie dom i wyciosała siedem słupów;"
+  tags: []
+"Prz9,2":
+  text: "Zabiła swoje bydło, zmieszała wino i zastawiła stół;"
+  tags: []
+"Prz9,3":
+  text: "Rozesłała swoje służące, woła na szczytach najwyższych miejsc miasta:"
+  tags: []
+"Prz9,4":
+  text: "Ktokolwiek jest prostym, niech wstąpi; a do nierozumnego mówi:"
+  tags: []
+"Prz9,5":
+  text: "Chodźcie, jedzcie mój chleb i pijcie wino, które zmieszałam."
+  tags: []
+"Prz9,6":
+  text: "Porzućcie głupotę, a będziecie żyli, i chodźcie drogą roztropności."
+  tags: []
+"Prz9,7":
+  text: "Kto upomina szydercę, ściąga na siebie hańbę, a kto strofuje niegodziwego, ten się plami."
+  tags: []
+"Prz9,8":
+  text: "Nie strofuj szydercy, aby cię nie znienawidził; strofuj mądrego, a będzie cię miłował."
+  tags: []
+"Prz9,9":
+  text: "Upomnij mądrego, a będzie mądrzejszy; poucz sprawiedliwego, a pomnoży swą wiedzę."
+  tags: []
+"Prz9,10":
+  text: "Początkiem mądrości jest bojaźń PANA, a wiedza o tym, co święte, to rozum."
+  tags: []
+"Prz9,11":
+  text: "Bo dzięki mnie rozmnożą się twoje dni i przedłużą się lata twojego życia."
+  tags: []
+"Prz9,12":
+  text: "Jeśli będziesz mądry, tobie samemu będzie służyła twoja mądrość; a jeśli szydercą, sam poniesiesz szkodę."
+  tags: []
+"Prz9,13":
+  text: "Głupia kobieta jest wrzaskliwa, prosta i nic nie rozumie;"
+  tags: []
+"Prz9,14":
+  text: "Siedzi u drzwi swego domu, na krześle, na wysokich miejscach w mieście;"
+  tags: []
+"Prz9,15":
+  text: "Aby wołać na przechodzących, którzy idą prosto swoimi ścieżkami:"
+  tags: []
+"Prz9,16":
+  text: "Ktokolwiek jest prosty, niech wstąpi; a do nierozumnego mówi:"
+  tags: []
+"Prz9,17":
+  text: "Kradzione wody są słodkie, a chleb jedzony pokątnie smaczny."
+  tags: []
+"Prz9,18":
+  text: "Ale on nie wie, że tam są umarli, że jej zaproszeni są w głębinach piekła."
+  tags: []

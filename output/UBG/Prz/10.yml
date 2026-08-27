@@ -1,32 +1,96 @@
-"Prz10,1": "Przysłowia Salomona. Mądry syn sprawia ojcu radość, a głupi syn jest zgryzotą swojej matki."
-"Prz10,2": "Skarby niegodziwości nie przynoszą pożytku, lecz sprawiedliwość uwalnia od śmierci."
-"Prz10,3": "PAN nie pozwoli, by dusza sprawiedliwego cierpiała głód, a rozproszy majątek niegodziwych."
-"Prz10,4": "Leniwa ręka prowadzi do nędzy, a ręka pracowita ubogaca."
-"Prz10,5": "Kto zbiera w lecie, jest synem roztropnym; syn, który śpi w czasie żniwa, przynosi hańbę."
-"Prz10,6": "Błogosławieństwa są na głowie sprawiedliwego, a usta niegodziwych kryją nieprawość."
-"Prz10,7": "Pamięć sprawiedliwego jest błogosławiona, a imię niegodziwych zgnije."
-"Prz10,8": "Człowiek mądrego serca przyjmuje przykazania, a gadatliwy głupiec upadnie."
-"Prz10,9": "Kto postępuje uczciwie, postępuje bezpiecznie, a kto jest przewrotny w swoich drogach, zostanie ujawniony."
-"Prz10,10": "Kto mruga okiem, przynosi cierpienie, a gadatliwy głupiec upadnie."
-"Prz10,11": "Usta sprawiedliwego są źródłem życia, a usta niegodziwych kryją nieprawość."
-"Prz10,12": "Nienawiść wznieca kłótnie, a miłość zakrywa wszystkie grzechy."
-"Prz10,13": "Na wargach rozumnego znajduje się mądrość, a kij na grzbiecie nierozumnego."
-"Prz10,14": "Mądrzy gromadzą wiedzę, a usta głupiego grożą zniszczeniem."
-"Prz10,15": "Majątek bogacza jest jego warownym miastem, a zniszczeniem ubogich jest ich nędza."
-"Prz10,16": "Praca sprawiedliwego prowadzi do życia, a dochód niegodziwych do grzechu."
-"Prz10,17": "Kto przestrzega karności, idzie ścieżką życia, a kto gardzi upomnieniem, błądzi."
-"Prz10,18": "Kto kryje nienawiść kłamliwymi wargami i kto rozgłasza oszczerstwo, jest głupcem."
-"Prz10,19": "Wielomówność nie bywa bez grzechu, a kto powściąga swoje wargi, jest roztropny."
-"Prz10,20": "Język sprawiedliwego jest wybornym srebrem, a serce niegodziwych jest mało warte."
-"Prz10,21": "Wargi sprawiedliwego żywią wielu, a głupi umierają przez brak rozumu."
-"Prz10,22": "Błogosławieństwo PANA wzbogaca i nie przynosi ze sobą zmartwień."
-"Prz10,23": "Dla głupiego popełnić haniebny czyn to zabawa, a człowiek roztropny trzyma się mądrości."
-"Prz10,24": "Niegodziwego spotka to, czego się boi, a sprawiedliwym Bóg daje to, czego pragną."
-"Prz10,25": "Jak wicher przemija, tak niegodziwy nie przetrwa, a sprawiedliwy ma wieczny fundament."
-"Prz10,26": "Czym ocet dla zębów i dym dla oczu, tym jest leniwy dla tych, którzy go posyłają."
-"Prz10,27": "Bojaźń PANA przedłuża dni, a lata niegodziwego będą skrócone."
-"Prz10,28": "Oczekiwanie sprawiedliwych przynosi radość, a nadzieja niegodziwych zginie."
-"Prz10,29": "Droga PANA jest mocą dla prawego, a zgubą dla czyniących nieprawość."
-"Prz10,30": "Sprawiedliwy nigdy się nie zachwieje, a niegodziwi nie będą mieszkać na ziemi."
-"Prz10,31": "Usta sprawiedliwego wydają mądrość, a język przewrotny będzie wycięty."
-"Prz10,32": "Wargi sprawiedliwego wiedzą, co wypada, a usta niegodziwych są przewrotne."
+"Prz10,1":
+  text: "Przysłowia Salomona. Mądry syn sprawia ojcu radość, a głupi syn jest zgryzotą swojej matki."
+  tags: []
+"Prz10,2":
+  text: "Skarby niegodziwości nie przynoszą pożytku, lecz sprawiedliwość uwalnia od śmierci."
+  tags: []
+"Prz10,3":
+  text: "PAN nie pozwoli, by dusza sprawiedliwego cierpiała głód, a rozproszy majątek niegodziwych."
+  tags: []
+"Prz10,4":
+  text: "Leniwa ręka prowadzi do nędzy, a ręka pracowita ubogaca."
+  tags: []
+"Prz10,5":
+  text: "Kto zbiera w lecie, jest synem roztropnym; syn, który śpi w czasie żniwa, przynosi hańbę."
+  tags: []
+"Prz10,6":
+  text: "Błogosławieństwa są na głowie sprawiedliwego, a usta niegodziwych kryją nieprawość."
+  tags: []
+"Prz10,7":
+  text: "Pamięć sprawiedliwego jest błogosławiona, a imię niegodziwych zgnije."
+  tags: []
+"Prz10,8":
+  text: "Człowiek mądrego serca przyjmuje przykazania, a gadatliwy głupiec upadnie."
+  tags: []
+"Prz10,9":
+  text: "Kto postępuje uczciwie, postępuje bezpiecznie, a kto jest przewrotny w swoich drogach, zostanie ujawniony."
+  tags: []
+"Prz10,10":
+  text: "Kto mruga okiem, przynosi cierpienie, a gadatliwy głupiec upadnie."
+  tags: []
+"Prz10,11":
+  text: "Usta sprawiedliwego są źródłem życia, a usta niegodziwych kryją nieprawość."
+  tags: []
+"Prz10,12":
+  text: "Nienawiść wznieca kłótnie, a miłość zakrywa wszystkie grzechy."
+  tags: []
+"Prz10,13":
+  text: "Na wargach rozumnego znajduje się mądrość, a kij na grzbiecie nierozumnego."
+  tags: []
+"Prz10,14":
+  text: "Mądrzy gromadzą wiedzę, a usta głupiego grożą zniszczeniem."
+  tags: []
+"Prz10,15":
+  text: "Majątek bogacza jest jego warownym miastem, a zniszczeniem ubogich jest ich nędza."
+  tags: []
+"Prz10,16":
+  text: "Praca sprawiedliwego prowadzi do życia, a dochód niegodziwych do grzechu."
+  tags: []
+"Prz10,17":
+  text: "Kto przestrzega karności, idzie ścieżką życia, a kto gardzi upomnieniem, błądzi."
+  tags: []
+"Prz10,18":
+  text: "Kto kryje nienawiść kłamliwymi wargami i kto rozgłasza oszczerstwo, jest głupcem."
+  tags: []
+"Prz10,19":
+  text: "Wielomówność nie bywa bez grzechu, a kto powściąga swoje wargi, jest roztropny."
+  tags: []
+"Prz10,20":
+  text: "Język sprawiedliwego jest wybornym srebrem, a serce niegodziwych jest mało warte."
+  tags: []
+"Prz10,21":
+  text: "Wargi sprawiedliwego żywią wielu, a głupi umierają przez brak rozumu."
+  tags: []
+"Prz10,22":
+  text: "Błogosławieństwo PANA wzbogaca i nie przynosi ze sobą zmartwień."
+  tags: []
+"Prz10,23":
+  text: "Dla głupiego popełnić haniebny czyn to zabawa, a człowiek roztropny trzyma się mądrości."
+  tags: []
+"Prz10,24":
+  text: "Niegodziwego spotka to, czego się boi, a sprawiedliwym Bóg daje to, czego pragną."
+  tags: []
+"Prz10,25":
+  text: "Jak wicher przemija, tak niegodziwy nie przetrwa, a sprawiedliwy ma wieczny fundament."
+  tags: []
+"Prz10,26":
+  text: "Czym ocet dla zębów i dym dla oczu, tym jest leniwy dla tych, którzy go posyłają."
+  tags: []
+"Prz10,27":
+  text: "Bojaźń PANA przedłuża dni, a lata niegodziwego będą skrócone."
+  tags: []
+"Prz10,28":
+  text: "Oczekiwanie sprawiedliwych przynosi radość, a nadzieja niegodziwych zginie."
+  tags: []
+"Prz10,29":
+  text: "Droga PANA jest mocą dla prawego, a zgubą dla czyniących nieprawość."
+  tags: []
+"Prz10,30":
+  text: "Sprawiedliwy nigdy się nie zachwieje, a niegodziwi nie będą mieszkać na ziemi."
+  tags: []
+"Prz10,31":
+  text: "Usta sprawiedliwego wydają mądrość, a język przewrotny będzie wycięty."
+  tags: []
+"Prz10,32":
+  text: "Wargi sprawiedliwego wiedzą, co wypada, a usta niegodziwych są przewrotne."
+  tags: []

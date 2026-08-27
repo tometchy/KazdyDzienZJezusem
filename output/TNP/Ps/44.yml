@@ -1,26 +1,78 @@
-"Ps44,1": "Boże, na własne uszy usłyszeliśmy, nasi ojcowie opowiadali nam o tym, czego dokonałeś za ich dni, za dni, dawnych."
-"Ps44,2": "Ty własną ręką wziąłeś w posiadanie narody, a ich osadziłeś; zadałeś rany ludom i wyrzuciłeś je."
-"Ps44,3": "Bo nie zajęli ziemi swoim mieczem ani nie wybawiło ich własne ramię, lecz Twoja prawica i Twoje ramię, i światło Twojego oblicza, bo upodobałeś ich sobie."
-"Ps44,4": "Ty sam jesteś moim Królem, o Boże; zarządź zwycięstwo Jakuba."
-"Ps44,5": "Dzięki Tobie napieramy na naszych wrogów, za sprawą Twojego imienia zdepczemy tych, którzy powstają przeciwko nam."
-"Ps44,6": "Nie zaufam bowiem mojemu łukowi i nie wybawi mnie mój miecz;"
-"Ps44,7": "Lecz Ty nas wybawiłeś od naszych wrogów i zawstydziłeś tych, którzy nas nienawidzą."
-"Ps44,8": "Każdego dnia chlubimy się w Bogu, a Twoje imię będziemy sławić na wieki. Sela."
-"Ps44,9": "A jednak odrzuciłeś i zawstydziłeś nas, i nie wyruszasz z naszymi wojskami."
-"Ps44,10": "Sprawiłeś, że poddaliśmy tyły przed wrogiem, a ci, którzy nas nienawidzą, zdobyli sobie łup."
-"Ps44,11": "Wydałeś nas jak owce na żer i rozproszyłeś nas wśród pogan."
-"Ps44,12": "Sprzedałeś swój lud za bezcen i nie powiększyłeś na nich zysku."
-"Ps44,13": "Wystawiłeś nas na wzgardę naszym sąsiadom, na szyderstwo i pośmiewisko tym, którzy nas otaczają."
-"Ps44,14": "Sprawiłeś, że staliśmy się przysłowiem wśród pogan, potrząsaniem głową pośród ludów."
-"Ps44,15": "Cały dzień moja hańba jest przede mną, a wstyd okrywa mi twarz;"
-"Ps44,16": "Z powodu głosu tego, który gardzi i bluźni, z powodu wroga i tego, który się mści."
-"Ps44,17": "To wszystko na nas przyszło, a jednak nie zapomnieliśmy o Tobie i nie sprzeniewierzyliśmy się Twojemu przymierzu."
-"Ps44,18": "Nasze serce nie odwróciło się wstecz, ani nasze kroki nie zboczyły z Twojej ścieżki;"
-"Ps44,19": "Chociaż rozbiłeś nas w miejscu szakali i okryłeś nas cieniem śmierci."
-"Ps44,20": "Gdybyśmy zapomnieli imienia naszego Boga i wyciągnęli nasze ręce do obcego boga;"
-"Ps44,21": "Czy Bóg by tego nie odkrył? Przecież On zna tajemnice serca."
-"Ps44,22": "Lecz z powodu Ciebie przez cały dzień jesteśmy mordowani, policzyli nas jak owce przeznaczone na rzeź."
-"Ps44,23": "Przebudź się; dlaczego śpisz, PANIE? Obudź się, nie odrzucaj nas na wieki."
-"Ps44,24": "Dlaczego ukrywasz swoje oblicze i zapominasz o naszym utrapieniu i ucisku?"
-"Ps44,25": "Ponieważ nasza dusza zanurzyła się w prochu, nasz brzuch przylgnął do ziemi."
-"Ps44,26": "Powstań nam na pomoc, odkup nas ze względu na Twoje miłosierdzie."
+"Ps44,1":
+  text: "Boże, na własne uszy usłyszeliśmy, nasi ojcowie opowiadali nam o tym, czego dokonałeś za ich dni, za dni, dawnych."
+  tags: []
+"Ps44,2":
+  text: "Ty własną ręką wziąłeś w posiadanie narody, a ich osadziłeś; zadałeś rany ludom i wyrzuciłeś je."
+  tags: []
+"Ps44,3":
+  text: "Bo nie zajęli ziemi swoim mieczem ani nie wybawiło ich własne ramię, lecz Twoja prawica i Twoje ramię, i światło Twojego oblicza, bo upodobałeś ich sobie."
+  tags: []
+"Ps44,4":
+  text: "Ty sam jesteś moim Królem, o Boże; zarządź zwycięstwo Jakuba."
+  tags: []
+"Ps44,5":
+  text: "Dzięki Tobie napieramy na naszych wrogów, za sprawą Twojego imienia zdepczemy tych, którzy powstają przeciwko nam."
+  tags: []
+"Ps44,6":
+  text: "Nie zaufam bowiem mojemu łukowi i nie wybawi mnie mój miecz;"
+  tags: []
+"Ps44,7":
+  text: "Lecz Ty nas wybawiłeś od naszych wrogów i zawstydziłeś tych, którzy nas nienawidzą."
+  tags: []
+"Ps44,8":
+  text: "Każdego dnia chlubimy się w Bogu, a Twoje imię będziemy sławić na wieki. Sela."
+  tags: []
+"Ps44,9":
+  text: "A jednak odrzuciłeś i zawstydziłeś nas, i nie wyruszasz z naszymi wojskami."
+  tags: []
+"Ps44,10":
+  text: "Sprawiłeś, że poddaliśmy tyły przed wrogiem, a ci, którzy nas nienawidzą, zdobyli sobie łup."
+  tags: []
+"Ps44,11":
+  text: "Wydałeś nas jak owce na żer i rozproszyłeś nas wśród pogan."
+  tags: []
+"Ps44,12":
+  text: "Sprzedałeś swój lud za bezcen i nie powiększyłeś na nich zysku."
+  tags: []
+"Ps44,13":
+  text: "Wystawiłeś nas na wzgardę naszym sąsiadom, na szyderstwo i pośmiewisko tym, którzy nas otaczają."
+  tags: []
+"Ps44,14":
+  text: "Sprawiłeś, że staliśmy się przysłowiem wśród pogan, potrząsaniem głową pośród ludów."
+  tags: []
+"Ps44,15":
+  text: "Cały dzień moja hańba jest przede mną, a wstyd okrywa mi twarz;"
+  tags: []
+"Ps44,16":
+  text: "Z powodu głosu tego, który gardzi i bluźni, z powodu wroga i tego, który się mści."
+  tags: []
+"Ps44,17":
+  text: "To wszystko na nas przyszło, a jednak nie zapomnieliśmy o Tobie i nie sprzeniewierzyliśmy się Twojemu przymierzu."
+  tags: []
+"Ps44,18":
+  text: "Nasze serce nie odwróciło się wstecz, ani nasze kroki nie zboczyły z Twojej ścieżki;"
+  tags: []
+"Ps44,19":
+  text: "Chociaż rozbiłeś nas w miejscu szakali i okryłeś nas cieniem śmierci."
+  tags: []
+"Ps44,20":
+  text: "Gdybyśmy zapomnieli imienia naszego Boga i wyciągnęli nasze ręce do obcego boga;"
+  tags: []
+"Ps44,21":
+  text: "Czy Bóg by tego nie odkrył? Przecież On zna tajemnice serca."
+  tags: []
+"Ps44,22":
+  text: "Lecz z powodu Ciebie przez cały dzień jesteśmy mordowani, policzyli nas jak owce przeznaczone na rzeź."
+  tags: []
+"Ps44,23":
+  text: "Przebudź się; dlaczego śpisz, PANIE? Obudź się, nie odrzucaj nas na wieki."
+  tags: []
+"Ps44,24":
+  text: "Dlaczego ukrywasz swoje oblicze i zapominasz o naszym utrapieniu i ucisku?"
+  tags: []
+"Ps44,25":
+  text: "Ponieważ nasza dusza zanurzyła się w prochu, nasz brzuch przylgnął do ziemi."
+  tags: []
+"Ps44,26":
+  text: "Powstań nam na pomoc, odkup nas ze względu na Twoje miłosierdzie."
+  tags: []

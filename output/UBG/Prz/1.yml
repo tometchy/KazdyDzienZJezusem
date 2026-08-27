@@ -1,33 +1,99 @@
-"Prz1,1": "Przysłowia Salomona, syna Dawida, króla Izraela;"
-"Prz1,2": "Do poznania mądrości i karności, do zrozumienia słów roztropnych;"
-"Prz1,3": "Do zdobycia pouczenia w mądrości, w sprawiedliwości, w sądzie i w prawości;"
-"Prz1,4": "Do udzielenia prostym rozwagi, a młodemu – wiedzy i roztropności."
-"Prz1,5": "Mądry posłucha i przybędzie mu wiedzy, a rozumny nabędzie rad;"
-"Prz1,6": "Aby rozumieć przysłowia i ich wykładnię, słowa mądrych i ich zagadki."
-"Prz1,7": "Bojaźń PANA jest początkiem wiedzy, ale głupcy gardzą mądrością i karnością."
-"Prz1,8": "Synu mój, słuchaj pouczenia swego ojca i nie odrzucaj nauki swojej matki;"
-"Prz1,9": "Bo one będą wdzięczną ozdobą na twojej głowie i kosztownym łańcuchem na szyi."
-"Prz1,10": "Synu mój, jeśli grzesznicy cię namawiają, nie pozwalaj."
-"Prz1,11": "Jeśli mówią: Chodź z nami, czyhajmy na krew, zaczajmy się na niewinnego bez powodu;"
-"Prz1,12": "Pożremy ich żywcem jak grób, całych, jak zstępujących do dołu;"
-"Prz1,13": "Znajdziemy wszelkie kosztowności, napełnimy swoje domy łupem;"
-"Prz1,14": "Dziel z nami swój los; miejmy wszyscy jedną sakiewkę."
-"Prz1,15": "Synu mój, nie wyruszaj z nimi w drogę; powstrzymaj swoją nogę od ich ścieżki."
-"Prz1,16": "Ich nogi bowiem biegną do zła i spieszą się do przelania krwi."
-"Prz1,17": "Na próżno zastawia się sieci na oczach wszelkiego ptactwa."
-"Prz1,18": "Oni też czyhają na własną krew, czają się na własne życie."
-"Prz1,19": "Takie są ścieżki każdego, który jest chciwy zysku; swojemu właścicielowi taki zysk odbiera życie."
-"Prz1,20": "Mądrość woła na dworze, podnosi swój głos na ulicach."
-"Prz1,21": "Woła w największym zgiełku, u wrót bram, w mieście wygłasza swoje słowa:"
-"Prz1,22": "Jak długo, prości, będziecie kochać głupotę, szydercy – lubować się w swoim szyderstwie, a głupi – nienawidzić wiedzy?"
-"Prz1,23": "Nawróćcie się na moje upomnienie; oto wyleję na was mojego ducha, oznajmię wam moje słowa."
-"Prz1,24": "Ponieważ wołałam, a odmawialiście; wyciągałam rękę, a nikt nie zważał;"
-"Prz1,25": "Owszem, odrzuciliście całą moją radę i nie chcieliście przyjąć mojego upomnienia;"
-"Prz1,26": "Dlatego będę się śmiać z waszego nieszczęścia, będę szydzić z was, gdy przyjdzie to, czego się boicie."
-"Prz1,27": "Gdy nadejdzie jak spustoszenie to, czego się boicie, i gdy wasze nieszczęście nadciągnie jak wicher, gdy nadejdzie na was ucisk i cierpienie;"
-"Prz1,28": "Wtedy będą mnie wzywać, a nie wysłucham; będą mnie szukać pilnie, lecz mnie nie znajdą."
-"Prz1,29": "Bo znienawidzili wiedzę i nie wybrali bojaźni PANA;"
-"Prz1,30": "Ani nie chcieli mojej rady, ale gardzili każdym moim upomnieniem."
-"Prz1,31": "Dlatego spożyją owoc swoich dróg i będą nasyceni swymi radami."
-"Prz1,32": "Bo odstępstwo prostych zabije ich i szczęście głupich zgubi ich."
-"Prz1,33": "Ale kto mnie słucha, będzie mieszkać bezpiecznie i będzie wolny od strachu przed złem."
+"Prz1,1":
+  text: "Przysłowia Salomona, syna Dawida, króla Izraela;"
+  tags: []
+"Prz1,2":
+  text: "Do poznania mądrości i karności, do zrozumienia słów roztropnych;"
+  tags: []
+"Prz1,3":
+  text: "Do zdobycia pouczenia w mądrości, w sprawiedliwości, w sądzie i w prawości;"
+  tags: []
+"Prz1,4":
+  text: "Do udzielenia prostym rozwagi, a młodemu – wiedzy i roztropności."
+  tags: []
+"Prz1,5":
+  text: "Mądry posłucha i przybędzie mu wiedzy, a rozumny nabędzie rad;"
+  tags: []
+"Prz1,6":
+  text: "Aby rozumieć przysłowia i ich wykładnię, słowa mądrych i ich zagadki."
+  tags: []
+"Prz1,7":
+  text: "Bojaźń PANA jest początkiem wiedzy, ale głupcy gardzą mądrością i karnością."
+  tags: []
+"Prz1,8":
+  text: "Synu mój, słuchaj pouczenia swego ojca i nie odrzucaj nauki swojej matki;"
+  tags: []
+"Prz1,9":
+  text: "Bo one będą wdzięczną ozdobą na twojej głowie i kosztownym łańcuchem na szyi."
+  tags: []
+"Prz1,10":
+  text: "Synu mój, jeśli grzesznicy cię namawiają, nie pozwalaj."
+  tags: []
+"Prz1,11":
+  text: "Jeśli mówią: Chodź z nami, czyhajmy na krew, zaczajmy się na niewinnego bez powodu;"
+  tags: []
+"Prz1,12":
+  text: "Pożremy ich żywcem jak grób, całych, jak zstępujących do dołu;"
+  tags: []
+"Prz1,13":
+  text: "Znajdziemy wszelkie kosztowności, napełnimy swoje domy łupem;"
+  tags: []
+"Prz1,14":
+  text: "Dziel z nami swój los; miejmy wszyscy jedną sakiewkę."
+  tags: []
+"Prz1,15":
+  text: "Synu mój, nie wyruszaj z nimi w drogę; powstrzymaj swoją nogę od ich ścieżki."
+  tags: []
+"Prz1,16":
+  text: "Ich nogi bowiem biegną do zła i spieszą się do przelania krwi."
+  tags: []
+"Prz1,17":
+  text: "Na próżno zastawia się sieci na oczach wszelkiego ptactwa."
+  tags: []
+"Prz1,18":
+  text: "Oni też czyhają na własną krew, czają się na własne życie."
+  tags: []
+"Prz1,19":
+  text: "Takie są ścieżki każdego, który jest chciwy zysku; swojemu właścicielowi taki zysk odbiera życie."
+  tags: []
+"Prz1,20":
+  text: "Mądrość woła na dworze, podnosi swój głos na ulicach."
+  tags: []
+"Prz1,21":
+  text: "Woła w największym zgiełku, u wrót bram, w mieście wygłasza swoje słowa:"
+  tags: []
+"Prz1,22":
+  text: "Jak długo, prości, będziecie kochać głupotę, szydercy – lubować się w swoim szyderstwie, a głupi – nienawidzić wiedzy?"
+  tags: []
+"Prz1,23":
+  text: "Nawróćcie się na moje upomnienie; oto wyleję na was mojego ducha, oznajmię wam moje słowa."
+  tags: []
+"Prz1,24":
+  text: "Ponieważ wołałam, a odmawialiście; wyciągałam rękę, a nikt nie zważał;"
+  tags: []
+"Prz1,25":
+  text: "Owszem, odrzuciliście całą moją radę i nie chcieliście przyjąć mojego upomnienia;"
+  tags: []
+"Prz1,26":
+  text: "Dlatego będę się śmiać z waszego nieszczęścia, będę szydzić z was, gdy przyjdzie to, czego się boicie."
+  tags: []
+"Prz1,27":
+  text: "Gdy nadejdzie jak spustoszenie to, czego się boicie, i gdy wasze nieszczęście nadciągnie jak wicher, gdy nadejdzie na was ucisk i cierpienie;"
+  tags: []
+"Prz1,28":
+  text: "Wtedy będą mnie wzywać, a nie wysłucham; będą mnie szukać pilnie, lecz mnie nie znajdą."
+  tags: []
+"Prz1,29":
+  text: "Bo znienawidzili wiedzę i nie wybrali bojaźni PANA;"
+  tags: []
+"Prz1,30":
+  text: "Ani nie chcieli mojej rady, ale gardzili każdym moim upomnieniem."
+  tags: []
+"Prz1,31":
+  text: "Dlatego spożyją owoc swoich dróg i będą nasyceni swymi radami."
+  tags: []
+"Prz1,32":
+  text: "Bo odstępstwo prostych zabije ich i szczęście głupich zgubi ich."
+  tags: []
+"Prz1,33":
+  text: "Ale kto mnie słucha, będzie mieszkać bezpiecznie i będzie wolny od strachu przed złem."
+  tags: []

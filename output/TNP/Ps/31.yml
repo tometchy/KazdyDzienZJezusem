@@ -1,24 +1,72 @@
-"Ps31,1": "Dla przewodnika chóru. Psalm Dawida. W Tobie, JHWH, pokładam nadzieję, obym nigdy nie został zawstydzony, wyzwól mnie w swojej sprawiedliwości."
-"Ps31,2": "Skłoń ku mnie swoje ucho, jak najszybciej mnie ocal; bądź mi ufortyfikowaną skałą, miejscem warownym, abyś mnie wybawił."
-"Ps31,3": "Ty bowiem jesteś moją ścianą skalną i warownią; dlatego przez wzgląd na Twoje imię kieruj mną i prowadź."
-"Ps31,4": "Wyciągnij mnie z sieci, którą zastawili na mnie, bo Ty jesteś moją twierdzą."
-"Ps31,5": "W Twoje ręce powierzę mojego ducha; odkupiłeś mnie, JHWH, Boże wierny."
-"Ps31,6": "Znienawidziłem tych, którzy zważają na próżne marności, bo ja w JHWH pokładam ufność."
-"Ps31,7": "Będę się radował i weselił w Twoim miłosierdziu, bo widziałeś moje utrapienie i poznałeś udręki mojej duszy;"
-"Ps31,8": "I nie wydałeś mnie w ręce wroga, postawiłeś moje nogi na miejscu przestronnym."
-"Ps31,9": "Bądź dla mnie miłosierny, JHWH, bo jestem udręczony, z żalu słabnie moje oko, a także moja dusza i moje wnętrze."
-"Ps31,10": "W bólu bowiem wypełniło się moje życie, a moje lata na wzdychaniu; moja siła osłabła z powodu mojej nieprawości, a moje kości wyschły."
-"Ps31,11": "Stałem się pośmiewiskiem dla wszystkich moich wrogów, a zwłaszcza dla moich sąsiadów, i przerażeniem dla tych, którzy mnie znają; ci, którzy mnie widzą na ulicy, uciekają przede mną."
-"Ps31,12": "Zostałem zapomniany jak umarły, w sercu stałem się jak rozbite naczynie."
-"Ps31,13": "Słyszę bowiem złowrogi szept wielu; groza dookoła; gdy razem naradzają się przeciwko mnie, knują, jak odebrać mi życie."
-"Ps31,14": "Ale ja zaufałem Tobie, JHWH; powiedziałem: Ty jesteś moim Bogiem."
-"Ps31,15": "Mój czas jest w Twoim ręku, wyrwij mnie z ręki moich wrogów i od tych, którzy mnie prześladują."
-"Ps31,16": "Rozjaśnij swoje oblicze nad Twoim sługą, wybaw mnie w Twoim miłosierdziu."
-"Ps31,17": "JHWH, niech nie doznam wstydu, ponieważ Cię wzywałem; niech niegodziwi się zawstydzą i niech zamilkną w Szeolu."
-"Ps31,18": "Niech zaniemówią wargi wypowiadające kłamstwo, które zuchwale, butnie z pogardą mówią przeciwko sprawiedliwemu."
-"Ps31,19": "Jak wielka jest Twoja dobroć, którą gromadzisz dla bojących się Ciebie i okazujesz ją tym, co ufają Tobie wobec synów ludzkich."
-"Ps31,20": "Schowasz ich pod osłoną Twojej obecności przed atakiem człowieka, ochronisz ich w namiocie przed kłótliwym językiem."
-"Ps31,21": "Błogosławiony niech będzie JHWH, ponieważ okazał mi cudownie swoją łaskę w mieście warownym."
-"Ps31,22": "A ja powiedziałem w moim popłochu: Odrzuciłeś mnie sprzed Twoich oczu; a jednak wysłuchałeś głosu moich błagań o przychylność, gdy wołałem do Ciebie."
-"Ps31,23": "Miłujcie JHWH, wszyscy Jego święci, bo JHWH strzeże wiernych, a postępującemu dumnie odpłaci obficie."
-"Ps31,24": "Bądźcie mocni i niech wasze serce będzie odważne, wy wszyscy, którzy pokładacie nadzieję w JHWH."
+"Ps31,1":
+  text: "Dla przewodnika chóru. Psalm Dawida. W Tobie, JHWH, pokładam nadzieję, obym nigdy nie został zawstydzony, wyzwól mnie w swojej sprawiedliwości."
+  tags: []
+"Ps31,2":
+  text: "Skłoń ku mnie swoje ucho, jak najszybciej mnie ocal; bądź mi ufortyfikowaną skałą, miejscem warownym, abyś mnie wybawił."
+  tags: []
+"Ps31,3":
+  text: "Ty bowiem jesteś moją ścianą skalną i warownią; dlatego przez wzgląd na Twoje imię kieruj mną i prowadź."
+  tags: []
+"Ps31,4":
+  text: "Wyciągnij mnie z sieci, którą zastawili na mnie, bo Ty jesteś moją twierdzą."
+  tags: []
+"Ps31,5":
+  text: "W Twoje ręce powierzę mojego ducha; odkupiłeś mnie, JHWH, Boże wierny."
+  tags: []
+"Ps31,6":
+  text: "Znienawidziłem tych, którzy zważają na próżne marności, bo ja w JHWH pokładam ufność."
+  tags: []
+"Ps31,7":
+  text: "Będę się radował i weselił w Twoim miłosierdziu, bo widziałeś moje utrapienie i poznałeś udręki mojej duszy;"
+  tags: []
+"Ps31,8":
+  text: "I nie wydałeś mnie w ręce wroga, postawiłeś moje nogi na miejscu przestronnym."
+  tags: []
+"Ps31,9":
+  text: "Bądź dla mnie miłosierny, JHWH, bo jestem udręczony, z żalu słabnie moje oko, a także moja dusza i moje wnętrze."
+  tags: []
+"Ps31,10":
+  text: "W bólu bowiem wypełniło się moje życie, a moje lata na wzdychaniu; moja siła osłabła z powodu mojej nieprawości, a moje kości wyschły."
+  tags: []
+"Ps31,11":
+  text: "Stałem się pośmiewiskiem dla wszystkich moich wrogów, a zwłaszcza dla moich sąsiadów, i przerażeniem dla tych, którzy mnie znają; ci, którzy mnie widzą na ulicy, uciekają przede mną."
+  tags: []
+"Ps31,12":
+  text: "Zostałem zapomniany jak umarły, w sercu stałem się jak rozbite naczynie."
+  tags: []
+"Ps31,13":
+  text: "Słyszę bowiem złowrogi szept wielu; groza dookoła; gdy razem naradzają się przeciwko mnie, knują, jak odebrać mi życie."
+  tags: []
+"Ps31,14":
+  text: "Ale ja zaufałem Tobie, JHWH; powiedziałem: Ty jesteś moim Bogiem."
+  tags: []
+"Ps31,15":
+  text: "Mój czas jest w Twoim ręku, wyrwij mnie z ręki moich wrogów i od tych, którzy mnie prześladują."
+  tags: []
+"Ps31,16":
+  text: "Rozjaśnij swoje oblicze nad Twoim sługą, wybaw mnie w Twoim miłosierdziu."
+  tags: []
+"Ps31,17":
+  text: "JHWH, niech nie doznam wstydu, ponieważ Cię wzywałem; niech niegodziwi się zawstydzą i niech zamilkną w Szeolu."
+  tags: []
+"Ps31,18":
+  text: "Niech zaniemówią wargi wypowiadające kłamstwo, które zuchwale, butnie z pogardą mówią przeciwko sprawiedliwemu."
+  tags: []
+"Ps31,19":
+  text: "Jak wielka jest Twoja dobroć, którą gromadzisz dla bojących się Ciebie i okazujesz ją tym, co ufają Tobie wobec synów ludzkich."
+  tags: []
+"Ps31,20":
+  text: "Schowasz ich pod osłoną Twojej obecności przed atakiem człowieka, ochronisz ich w namiocie przed kłótliwym językiem."
+  tags: []
+"Ps31,21":
+  text: "Błogosławiony niech będzie JHWH, ponieważ okazał mi cudownie swoją łaskę w mieście warownym."
+  tags: []
+"Ps31,22":
+  text: "A ja powiedziałem w moim popłochu: Odrzuciłeś mnie sprzed Twoich oczu; a jednak wysłuchałeś głosu moich błagań o przychylność, gdy wołałem do Ciebie."
+  tags: []
+"Ps31,23":
+  text: "Miłujcie JHWH, wszyscy Jego święci, bo JHWH strzeże wiernych, a postępującemu dumnie odpłaci obficie."
+  tags: []
+"Ps31,24":
+  text: "Bądźcie mocni i niech wasze serce będzie odważne, wy wszyscy, którzy pokładacie nadzieję w JHWH."
+  tags: []

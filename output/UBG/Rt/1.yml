@@ -1,22 +1,66 @@
-"Rt1,1": "Zdarzyło się, że w czasach, kiedy rządzili sędziowie, nastał głód na ziemi. I pewien człowiek z Betlejem judzkiego wyruszył wraz ze swoją żoną i dwoma synami, aby zamieszkać w ziemi Moabu."
-"Rt1,2": "Ten człowiek miał na imię Elimelech, jego żona – Noemi, a jego dwaj synowie – Machlon i Kilion. Byli oni Efratejczykami z Betlejem judzkiego. Przybyli do ziemi Moabu i tam zamieszkali."
-"Rt1,3": "Potem umarł Elimelech, mąż Noemi, a ona pozostała sama z dwoma synami."
-"Rt1,4": "Ci pojęli sobie za żony Moabitki: jedna miała na imię Orfa, a druga – Rut. I mieszkali tam około dziesięciu lat."
-"Rt1,5": "Potem obaj, Machlon i Kilion, również umarli; i tak kobieta ta pozostała sama bez swoich dwóch synów i bez męża."
-"Rt1,6": "Wtedy powstała wraz ze swoimi synowymi, aby wrócić z ziemi Moabu, gdyż usłyszała w ziemi Moabu, że PAN nawiedził swój lud i dał mu chleb."
-"Rt1,7": "Wyszła więc z miejsca, w którym była, a wraz z nią jej dwie synowe i udały się w drogę powrotną do ziemi Judy."
-"Rt1,8": "I powiedziała Noemi do swych dwóch synowych: Idźcie, niech każda z was powróci do domu swojej matki. Niech PAN okaże wam miłosierdzie, tak jak okazałyście je zmarłym i mnie."
-"Rt1,9": "Niech PAN sprawi, aby każda z was znalazła pokój w domu swego męża. I pocałowała je, a one podniosły głosy i zapłakały."
-"Rt1,10": "I mówiły do niej: Wrócimy raczej z tobą do twego ludu."
-"Rt1,11": "Lecz Noemi odpowiedziała: Zawróćcie, moje córki. Czemu chcecie iść ze mną? Czy mam jeszcze w swoim łonie synów, którzy zostaliby waszymi mężami?"
-"Rt1,12": "Zawróćcie, moje córki, idźcie, bo jestem zbyt stara, aby wyjść za mąż. A nawet gdybym powiedziała: mam jeszcze nadzieję, to choćbym tej nocy wyszła za mąż i również urodziła synów;"
-"Rt1,13": "Czy czekałybyście na nich, aż dorosną? Czy ze względu na nich pozostałybyście bez męża? Nie, moje córki. Odczuwam bowiem wielką gorycz ze względu na was, gdyż ręka PANA obróciła się przeciwko mnie."
-"Rt1,14": "A one znowu podniosły głosy i zaczęły płakać. I Orfa pocałowała swoją teściową, ale Rut pozostała przy niej."
-"Rt1,15": "Wtedy Noemi powiedziała do niej: Oto twoja szwagierka wróciła do swego ludu i do swoich bogów. Wróć także ty za swoją szwagierką."
-"Rt1,16": "Rut jednak odpowiedziała: Nie nalegaj na mnie, abym cię opuściła i odeszła od ciebie. Gdziekolwiek bowiem pójdziesz i ja pójdę, a gdziekolwiek zamieszkasz i ja zamieszkam. Twój lud będzie moim ludem, a twój Bóg będzie moim Bogiem."
-"Rt1,17": "Gdzie ty umrzesz, tam i ja umrę, i tam będę pogrzebana. Niech mi to PAN uczyni i niech do tego dorzuci, jeśli coś innego niż śmierć oddzieli mnie od ciebie."
-"Rt1,18": "A gdy Noemi widziała, że uparła się, aby z nią iść, przestała jej odradzać."
-"Rt1,19": "I szły obie razem, aż przyszły do Betlejem. A gdy przybyły do Betlejem, całe miasto ogarnęło poruszenie z ich powodu i mówiono: Czy to jest Noemi?"
-"Rt1,20": "Lecz ona powiedziała do nich: Nie nazywajcie mnie Noemi, lecz nazywajcie mnie Mara, ponieważ Wszechmogący napełnił mnie wielką goryczą."
-"Rt1,21": "Wyszłam stąd pełna, a PAN sprowadził mnie pustą. Czemu nazywacie mnie Noemi, skoro PAN wystąpił przeciwko mnie i Wszechmogący sprowadził na mnie nieszczęście?"
-"Rt1,22": "Wróciła więc Noemi, a z nią Rut Moabitka, jej synowa, która wróciła z krainy Moabu. A przyszły do Betlejem na początku żniw jęczmienia."
+"Rt1,1":
+  text: "Zdarzyło się, że w czasach, kiedy rządzili sędziowie, nastał głód na ziemi. I pewien człowiek z Betlejem judzkiego wyruszył wraz ze swoją żoną i dwoma synami, aby zamieszkać w ziemi Moabu."
+  tags: []
+"Rt1,2":
+  text: "Ten człowiek miał na imię Elimelech, jego żona – Noemi, a jego dwaj synowie – Machlon i Kilion. Byli oni Efratejczykami z Betlejem judzkiego. Przybyli do ziemi Moabu i tam zamieszkali."
+  tags: []
+"Rt1,3":
+  text: "Potem umarł Elimelech, mąż Noemi, a ona pozostała sama z dwoma synami."
+  tags: []
+"Rt1,4":
+  text: "Ci pojęli sobie za żony Moabitki: jedna miała na imię Orfa, a druga – Rut. I mieszkali tam około dziesięciu lat."
+  tags: []
+"Rt1,5":
+  text: "Potem obaj, Machlon i Kilion, również umarli; i tak kobieta ta pozostała sama bez swoich dwóch synów i bez męża."
+  tags: []
+"Rt1,6":
+  text: "Wtedy powstała wraz ze swoimi synowymi, aby wrócić z ziemi Moabu, gdyż usłyszała w ziemi Moabu, że PAN nawiedził swój lud i dał mu chleb."
+  tags: []
+"Rt1,7":
+  text: "Wyszła więc z miejsca, w którym była, a wraz z nią jej dwie synowe i udały się w drogę powrotną do ziemi Judy."
+  tags: []
+"Rt1,8":
+  text: "I powiedziała Noemi do swych dwóch synowych: Idźcie, niech każda z was powróci do domu swojej matki. Niech PAN okaże wam miłosierdzie, tak jak okazałyście je zmarłym i mnie."
+  tags: []
+"Rt1,9":
+  text: "Niech PAN sprawi, aby każda z was znalazła pokój w domu swego męża. I pocałowała je, a one podniosły głosy i zapłakały."
+  tags: []
+"Rt1,10":
+  text: "I mówiły do niej: Wrócimy raczej z tobą do twego ludu."
+  tags: []
+"Rt1,11":
+  text: "Lecz Noemi odpowiedziała: Zawróćcie, moje córki. Czemu chcecie iść ze mną? Czy mam jeszcze w swoim łonie synów, którzy zostaliby waszymi mężami?"
+  tags: []
+"Rt1,12":
+  text: "Zawróćcie, moje córki, idźcie, bo jestem zbyt stara, aby wyjść za mąż. A nawet gdybym powiedziała: mam jeszcze nadzieję, to choćbym tej nocy wyszła za mąż i również urodziła synów;"
+  tags: []
+"Rt1,13":
+  text: "Czy czekałybyście na nich, aż dorosną? Czy ze względu na nich pozostałybyście bez męża? Nie, moje córki. Odczuwam bowiem wielką gorycz ze względu na was, gdyż ręka PANA obróciła się przeciwko mnie."
+  tags: []
+"Rt1,14":
+  text: "A one znowu podniosły głosy i zaczęły płakać. I Orfa pocałowała swoją teściową, ale Rut pozostała przy niej."
+  tags: []
+"Rt1,15":
+  text: "Wtedy Noemi powiedziała do niej: Oto twoja szwagierka wróciła do swego ludu i do swoich bogów. Wróć także ty za swoją szwagierką."
+  tags: []
+"Rt1,16":
+  text: "Rut jednak odpowiedziała: Nie nalegaj na mnie, abym cię opuściła i odeszła od ciebie. Gdziekolwiek bowiem pójdziesz i ja pójdę, a gdziekolwiek zamieszkasz i ja zamieszkam. Twój lud będzie moim ludem, a twój Bóg będzie moim Bogiem."
+  tags: []
+"Rt1,17":
+  text: "Gdzie ty umrzesz, tam i ja umrę, i tam będę pogrzebana. Niech mi to PAN uczyni i niech do tego dorzuci, jeśli coś innego niż śmierć oddzieli mnie od ciebie."
+  tags: []
+"Rt1,18":
+  text: "A gdy Noemi widziała, że uparła się, aby z nią iść, przestała jej odradzać."
+  tags: []
+"Rt1,19":
+  text: "I szły obie razem, aż przyszły do Betlejem. A gdy przybyły do Betlejem, całe miasto ogarnęło poruszenie z ich powodu i mówiono: Czy to jest Noemi?"
+  tags: []
+"Rt1,20":
+  text: "Lecz ona powiedziała do nich: Nie nazywajcie mnie Noemi, lecz nazywajcie mnie Mara, ponieważ Wszechmogący napełnił mnie wielką goryczą."
+  tags: []
+"Rt1,21":
+  text: "Wyszłam stąd pełna, a PAN sprowadził mnie pustą. Czemu nazywacie mnie Noemi, skoro PAN wystąpił przeciwko mnie i Wszechmogący sprowadził na mnie nieszczęście?"
+  tags: []
+"Rt1,22":
+  text: "Wróciła więc Noemi, a z nią Rut Moabitka, jej synowa, która wróciła z krainy Moabu. A przyszły do Betlejem na początku żniw jęczmienia."
+  tags: []

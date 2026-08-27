@@ -1,33 +1,99 @@
-"Hi33,1": "Teraz więc, Hiobie, posłuchaj, proszę, mojej mowy i nadstaw uszu na wszystkie moje słowa."
-"Hi33,2": "Oto teraz otworzyłem swoje usta, a mój język będzie mówił pod podniebieniem."
-"Hi33,3": "Moje słowa pochodzą ze szczerości mego serca, a moje wargi wyraźnie wypowiedzą wiedzę."
-"Hi33,4": "Duch Boży stworzył mnie, tchnienie Wszechmocnego ożywiło mnie."
-"Hi33,5": "Jeśli możesz, odpowiedz mi; przygotuj się i stań przede mną."
-"Hi33,6": "Oto ja, według twoich słów, odpowiem ci za Boga, chociaż też jestem z błota ulepiony."
-"Hi33,7": "Oto mój strach nie zatrwoży cię, a moja ręka nie zaciąży na tobie."
-"Hi33,8": "Ty jednak powiedziałeś mi do uszu, słyszałem dźwięk twoich słów:"
-"Hi33,9": "Jestem czysty, bez przestępstwa, jestem niewinny i nie ma we mnie nieprawości."
-"Hi33,10": "Oto on znajduje zarzuty przeciwko mnie i uważa mnie za swego wroga."
-"Hi33,11": "Zakuł moje nogi w dyby, a zważa na wszystkie moje ścieżki."
-"Hi33,12": "Otóż w tym nie jesteś sprawiedliwy. Powiem ci, że Bóg jest większy od człowieka."
-"Hi33,13": "Dlaczego z nim się spierasz? Przecież on nie tłumaczy się z żadnych swoich spraw."
-"Hi33,14": "Bóg bowiem mówi raz i drugi, ale człowiek tego nie dostrzega."
-"Hi33,15": "We śnie, w nocnym widzeniu, gdy twardy sen spada na ludzi, w czasie drzemki na łóżku;"
-"Hi33,16": "Wtedy otwiera ucho ludzkie i pieczętuje ich pouczenie;"
-"Hi33,17": "Aby odwieść człowieka od złego czynu i zabrać od niego pychę."
-"Hi33,18": "Powstrzymuje jego duszę od dołu, a jego życie chroni przed śmiercią od miecza."
-"Hi33,19": "Karze go też cierpieniem na jego łożu i bólem we wszystkich jego kościach;"
-"Hi33,20": "Tak że jego życiu obrzydza chleb, a jego duszy przysmaki."
-"Hi33,21": "Jego ciało niszczeje nie do poznania, a wystają jego kości, które nie były widoczne."
-"Hi33,22": "Jego dusza zbliża się do grobu, a jego życie do niosących śmierć."
-"Hi33,23": "Jeśli będzie przy nim jakiś anioł, pośrednik, jeden z tysiąca, aby oznajmić człowiekowi jego powinność;"
-"Hi33,24": "Wtedy zlituje się nad nim i powie: Wybaw go od zejścia do dołu, bo znalazłem okup."
-"Hi33,25": "I jego ciało odzyska dziecięcą świeżość, wróci do dni swojej młodości."
-"Hi33,26": "Będzie się modlił do Boga i on przyjmie go łaskawie, ujrzy jego oblicze z radością i przywróci człowiekowi jego sprawiedliwość;"
-"Hi33,27": "Spojrzy na ludzi i jeśli ktoś powie: Zgrzeszyłem, wypaczyłem to, co prawe, i to nie było dla mnie korzystne;"
-"Hi33,28": "On wybawi jego duszę od zejścia do dołu, a jego życie ujrzy światło."
-"Hi33,29": "Wszystko to czyni Bóg z człowiekiem kilkakrotnie;"
-"Hi33,30": "Aby odwrócić jego duszę od dołu i aby był oświecony światłem żyjących."
-"Hi33,31": "Zważ na to, Hiobie, słuchaj mnie; milcz, a ja będę mówił."
-"Hi33,32": "Jeśli jednak masz coś do powiedzenia, odpowiedz mi; mów, bo chciałbym cię usprawiedliwić."
-"Hi33,33": "A jeśli nie, słuchaj mnie; milcz, a nauczę cię mądrości."
+"Hi33,1":
+  text: "Teraz więc, Hiobie, posłuchaj, proszę, mojej mowy i nadstaw uszu na wszystkie moje słowa."
+  tags: []
+"Hi33,2":
+  text: "Oto teraz otworzyłem swoje usta, a mój język będzie mówił pod podniebieniem."
+  tags: []
+"Hi33,3":
+  text: "Moje słowa pochodzą ze szczerości mego serca, a moje wargi wyraźnie wypowiedzą wiedzę."
+  tags: []
+"Hi33,4":
+  text: "Duch Boży stworzył mnie, tchnienie Wszechmocnego ożywiło mnie."
+  tags: []
+"Hi33,5":
+  text: "Jeśli możesz, odpowiedz mi; przygotuj się i stań przede mną."
+  tags: []
+"Hi33,6":
+  text: "Oto ja, według twoich słów, odpowiem ci za Boga, chociaż też jestem z błota ulepiony."
+  tags: []
+"Hi33,7":
+  text: "Oto mój strach nie zatrwoży cię, a moja ręka nie zaciąży na tobie."
+  tags: []
+"Hi33,8":
+  text: "Ty jednak powiedziałeś mi do uszu, słyszałem dźwięk twoich słów:"
+  tags: []
+"Hi33,9":
+  text: "Jestem czysty, bez przestępstwa, jestem niewinny i nie ma we mnie nieprawości."
+  tags: []
+"Hi33,10":
+  text: "Oto on znajduje zarzuty przeciwko mnie i uważa mnie za swego wroga."
+  tags: []
+"Hi33,11":
+  text: "Zakuł moje nogi w dyby, a zważa na wszystkie moje ścieżki."
+  tags: []
+"Hi33,12":
+  text: "Otóż w tym nie jesteś sprawiedliwy. Powiem ci, że Bóg jest większy od człowieka."
+  tags: []
+"Hi33,13":
+  text: "Dlaczego z nim się spierasz? Przecież on nie tłumaczy się z żadnych swoich spraw."
+  tags: []
+"Hi33,14":
+  text: "Bóg bowiem mówi raz i drugi, ale człowiek tego nie dostrzega."
+  tags: []
+"Hi33,15":
+  text: "We śnie, w nocnym widzeniu, gdy twardy sen spada na ludzi, w czasie drzemki na łóżku;"
+  tags: []
+"Hi33,16":
+  text: "Wtedy otwiera ucho ludzkie i pieczętuje ich pouczenie;"
+  tags: []
+"Hi33,17":
+  text: "Aby odwieść człowieka od złego czynu i zabrać od niego pychę."
+  tags: []
+"Hi33,18":
+  text: "Powstrzymuje jego duszę od dołu, a jego życie chroni przed śmiercią od miecza."
+  tags: []
+"Hi33,19":
+  text: "Karze go też cierpieniem na jego łożu i bólem we wszystkich jego kościach;"
+  tags: []
+"Hi33,20":
+  text: "Tak że jego życiu obrzydza chleb, a jego duszy przysmaki."
+  tags: []
+"Hi33,21":
+  text: "Jego ciało niszczeje nie do poznania, a wystają jego kości, które nie były widoczne."
+  tags: []
+"Hi33,22":
+  text: "Jego dusza zbliża się do grobu, a jego życie do niosących śmierć."
+  tags: []
+"Hi33,23":
+  text: "Jeśli będzie przy nim jakiś anioł, pośrednik, jeden z tysiąca, aby oznajmić człowiekowi jego powinność;"
+  tags: []
+"Hi33,24":
+  text: "Wtedy zlituje się nad nim i powie: Wybaw go od zejścia do dołu, bo znalazłem okup."
+  tags: []
+"Hi33,25":
+  text: "I jego ciało odzyska dziecięcą świeżość, wróci do dni swojej młodości."
+  tags: []
+"Hi33,26":
+  text: "Będzie się modlił do Boga i on przyjmie go łaskawie, ujrzy jego oblicze z radością i przywróci człowiekowi jego sprawiedliwość;"
+  tags: []
+"Hi33,27":
+  text: "Spojrzy na ludzi i jeśli ktoś powie: Zgrzeszyłem, wypaczyłem to, co prawe, i to nie było dla mnie korzystne;"
+  tags: []
+"Hi33,28":
+  text: "On wybawi jego duszę od zejścia do dołu, a jego życie ujrzy światło."
+  tags: []
+"Hi33,29":
+  text: "Wszystko to czyni Bóg z człowiekiem kilkakrotnie;"
+  tags: []
+"Hi33,30":
+  text: "Aby odwrócić jego duszę od dołu i aby był oświecony światłem żyjących."
+  tags: []
+"Hi33,31":
+  text: "Zważ na to, Hiobie, słuchaj mnie; milcz, a ja będę mówił."
+  tags: []
+"Hi33,32":
+  text: "Jeśli jednak masz coś do powiedzenia, odpowiedz mi; mów, bo chciałbym cię usprawiedliwić."
+  tags: []
+"Hi33,33":
+  text: "A jeśli nie, słuchaj mnie; milcz, a nauczę cię mądrości."
+  tags: []

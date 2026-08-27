@@ -1,24 +1,72 @@
-"Joz12,1": "A oto królowie ziemi, których pobili synowie Izraela i posiedli ich ziemię za Jordanem na wschodzie, od rzeki Arnon aż do góry Hermon, i całą równinę na wschodzie:"
-"Joz12,2": "Sichon, król Amorytów, który mieszkał w Cheszbonie, a panował od Aroeru, leżącego nad brzegiem rzeki Arnon, i od połowy tej rzeki oraz połowy Gileadu aż do rzeki Jabbok, granicy synów Ammona;"
-"Joz12,3": "A od równin aż do morza Kinneret na wschodzie, i aż do Morza Równiny, czyli Morza Słonego, na wschód, w kierunku Bet-Jeszimot, i od południa pod górę Pisga."
-"Joz12,4": "I obszar Oga, króla Baszanu, który pozostał z Refaitów i mieszkał w Asztarot i w Edrei;"
-"Joz12,5": "Panował on na górze Hermon, i w Salce oraz w całym Baszanie aż do granic Geszurytów i Maakatytów i nad połową Gileadu, granicą Sichona, króla Cheszbonu."
-"Joz12,6": "Pobił ich Mojżesz, sługa PANA, wraz z synami Izraela. I Mojżesz, sługa PANA, dał tę ziemię w posiadanie Rubenitom i Gadytom, i połowie pokolenia Manassesa."
-"Joz12,7": "A oto królowie ziemi, których pobili Jozue i synowie Izraela po zachodniej stronie Jordanu, od Baal-Gad w dolinie Libanu aż do góry Chalak, która wznosi się ku Seirowi, a których obszar Jozue dał pokoleniom Izraela w posiadanie według ich przydziałów;"
-"Joz12,8": "Na górach, na równinach, na polach, na nizinach, na pustyni i na południowej ziemi; ziemie Chetytów, Amorytów, Kananejczyków, Peryzzytów, Chiwwitów i Jebusytów."
-"Joz12,9": "Król Jerycha – jeden; król Aj, które jest obok Betel – jeden."
-"Joz12,10": "Król Jerozolimy – jeden; król Hebronu – jeden."
-"Joz12,11": "Król Jarmutu – jeden; król Lakisz – jeden."
-"Joz12,12": "Król Eglonu – jeden; król Gezer – jeden."
-"Joz12,13": "Król Debir – jeden; król Gederu – jeden."
-"Joz12,14": "Król Chormy – jeden; król Aradu – jeden."
-"Joz12,15": "Król Libny – jeden; król Adullam – jeden."
-"Joz12,16": "Król Makkedy – jeden; król Betel – jeden."
-"Joz12,17": "Król Tappuach – jeden; król Cheferu – jeden."
-"Joz12,18": "Król Afek – jeden; król Laszaronu – jeden."
-"Joz12,19": "Król Madonu – jeden; król Chasoru – jeden."
-"Joz12,20": "Król Szimron-Meronu – jeden; król Achszafu – jeden."
-"Joz12,21": "Król Tanaku – jeden; król Megiddo – jeden."
-"Joz12,22": "Król Kedeszu – jeden; król Jokneamu z Karmelu – jeden."
-"Joz12,23": "Król Doru z krainy Dor – jeden; król narodów z Gilgal – jeden."
-"Joz12,24": "Król Tirsy – jeden. Wszystkich królów było trzydziestu jeden."
+"Joz12,1":
+  text: "A oto królowie ziemi, których pobili synowie Izraela i posiedli ich ziemię za Jordanem na wschodzie, od rzeki Arnon aż do góry Hermon, i całą równinę na wschodzie:"
+  tags: []
+"Joz12,2":
+  text: "Sichon, król Amorytów, który mieszkał w Cheszbonie, a panował od Aroeru, leżącego nad brzegiem rzeki Arnon, i od połowy tej rzeki oraz połowy Gileadu aż do rzeki Jabbok, granicy synów Ammona;"
+  tags: []
+"Joz12,3":
+  text: "A od równin aż do morza Kinneret na wschodzie, i aż do Morza Równiny, czyli Morza Słonego, na wschód, w kierunku Bet-Jeszimot, i od południa pod górę Pisga."
+  tags: []
+"Joz12,4":
+  text: "I obszar Oga, króla Baszanu, który pozostał z Refaitów i mieszkał w Asztarot i w Edrei;"
+  tags: []
+"Joz12,5":
+  text: "Panował on na górze Hermon, i w Salce oraz w całym Baszanie aż do granic Geszurytów i Maakatytów i nad połową Gileadu, granicą Sichona, króla Cheszbonu."
+  tags: []
+"Joz12,6":
+  text: "Pobił ich Mojżesz, sługa PANA, wraz z synami Izraela. I Mojżesz, sługa PANA, dał tę ziemię w posiadanie Rubenitom i Gadytom, i połowie pokolenia Manassesa."
+  tags: []
+"Joz12,7":
+  text: "A oto królowie ziemi, których pobili Jozue i synowie Izraela po zachodniej stronie Jordanu, od Baal-Gad w dolinie Libanu aż do góry Chalak, która wznosi się ku Seirowi, a których obszar Jozue dał pokoleniom Izraela w posiadanie według ich przydziałów;"
+  tags: []
+"Joz12,8":
+  text: "Na górach, na równinach, na polach, na nizinach, na pustyni i na południowej ziemi; ziemie Chetytów, Amorytów, Kananejczyków, Peryzzytów, Chiwwitów i Jebusytów."
+  tags: []
+"Joz12,9":
+  text: "Król Jerycha – jeden; król Aj, które jest obok Betel – jeden."
+  tags: []
+"Joz12,10":
+  text: "Król Jerozolimy – jeden; król Hebronu – jeden."
+  tags: []
+"Joz12,11":
+  text: "Król Jarmutu – jeden; król Lakisz – jeden."
+  tags: []
+"Joz12,12":
+  text: "Król Eglonu – jeden; król Gezer – jeden."
+  tags: []
+"Joz12,13":
+  text: "Król Debir – jeden; król Gederu – jeden."
+  tags: []
+"Joz12,14":
+  text: "Król Chormy – jeden; król Aradu – jeden."
+  tags: []
+"Joz12,15":
+  text: "Król Libny – jeden; król Adullam – jeden."
+  tags: []
+"Joz12,16":
+  text: "Król Makkedy – jeden; król Betel – jeden."
+  tags: []
+"Joz12,17":
+  text: "Król Tappuach – jeden; król Cheferu – jeden."
+  tags: []
+"Joz12,18":
+  text: "Król Afek – jeden; król Laszaronu – jeden."
+  tags: []
+"Joz12,19":
+  text: "Król Madonu – jeden; król Chasoru – jeden."
+  tags: []
+"Joz12,20":
+  text: "Król Szimron-Meronu – jeden; król Achszafu – jeden."
+  tags: []
+"Joz12,21":
+  text: "Król Tanaku – jeden; król Megiddo – jeden."
+  tags: []
+"Joz12,22":
+  text: "Król Kedeszu – jeden; król Jokneamu z Karmelu – jeden."
+  tags: []
+"Joz12,23":
+  text: "Król Doru z krainy Dor – jeden; król narodów z Gilgal – jeden."
+  tags: []
+"Joz12,24":
+  text: "Król Tirsy – jeden. Wszystkich królów było trzydziestu jeden."
+  tags: []

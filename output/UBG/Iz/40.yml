@@ -1,31 +1,93 @@
-"Iz40,1": "Pocieszajcie, pocieszajcie mój lud, mówi wasz Bóg."
-"Iz40,2": "Przemawiajcie do serca Jerozolimy, wołajcie do niej, że dopełnił się jej postanowiony czas, że została przebaczona jej nieprawość, bo otrzymała z ręki PANA w dwójnasób za wszystkie swoje grzechy."
-"Iz40,3": "Głos wołającego na pustyni: Przygotujcie drogę PANA, prostujcie na pustyni ścieżkę naszego Boga."
-"Iz40,4": "Każda dolina niech będzie podniesiona, a każda góra i każdy pagórek – obniżone. To, co krzywe, niech się wyprostuje, a wyboiste miejsca niech będą równiną."
-"Iz40,5": "Wtedy objawi się chwała PANA i ujrzy to razem wszelkie ciało. Tak bowiem mówiły usta PANA."
-"Iz40,6": "Głos przemówił: Wołaj. I zapytano: Co mam wołać? Wszelkie ciało jest trawą, a cały jego wdzięk jak kwiat polny."
-"Iz40,7": "Trawa usycha, kwiat więdnie, gdy wiatr PANA powieje na nie. Zaprawdę ludzie są trawą."
-"Iz40,8": "Trawa usycha, kwiat więdnie, ale słowo naszego Boga trwa na wieki."
-"Iz40,9": "Wstąp na wysoką górę, Syjonie, który opowiadasz dobre wieści. Podnieś mocno swój głos, Jerozolimo, która opowiadasz dobre wieści; podnieś go, nie bój się, powiedz miastom Judy: Oto wasz Bóg."
-"Iz40,10": "Oto Pan BÓG przyjdzie z mocą, jego ramię będzie panować. Oto jego zapłata z nim, a jego dzieło przed nim."
-"Iz40,11": "Jak pasterz będzie pasł swoją trzodę, swoim ramieniem zgromadzi baranki, na swoim łonie będzie je nosił, a ciężarne poprowadzi ostrożnie."
-"Iz40,12": "Kto zmierzył wody swoją garścią, a niebiosa piędzią wymierzył? Kto miarą odmierzył proch ziemi? Kto zważył góry na wadze, a pagórki na szalach?"
-"Iz40,13": "Kto kierował Duchem PANA, a kto był jego doradcą, aby go pouczać?"
-"Iz40,14": "Kogo się radził, aby nabyć rozumu? Kto pouczył go o ścieżkach sądu? Kto nauczył go wiedzy i wskazał mu drogę roztropności?"
-"Iz40,15": "Oto narody są jak kropla w wiadrze, znaczą tyle, co pyłek na wadze. Oto porywa wyspy jak bardzo małą rzecz."
-"Iz40,16": "I Libanu nie wystarczy na ogień ani jego zwierzyny nie wystarczy na całopalenie."
-"Iz40,17": "Wszystkie narody przed nim są niczym; uważa je za nicość i marność."
-"Iz40,18": "Do kogo więc przyrównacie Boga? A jaką podobiznę z nim porównacie?"
-"Iz40,19": "Rzemieślnik odlewa posąg, a złotnik powleka go złotem i odlewa do niego srebrne łańcuszki."
-"Iz40,20": "Kogo z powodu ubóstwa nie stać na ofiarę, wybiera drzewo, które nie próchnieje; wyszukuje zdolnego rzemieślnika, aby przygotował rzeźbiony posąg, który się nie chwieje."
-"Iz40,21": "Czy nie wiecie? Czy nie słyszeliście? Czy wam nie opowiadano od początku? Czy nie zrozumieliście tego od założenia fundamentów ziemi?"
-"Iz40,22": "To ten, który zasiada nad okręgiem ziemi – jej mieszkańcy są jak szarańcza; ten, który rozpostarł niebiosa jak zasłonę i rozciągnął je jak namiot mieszkalny;"
-"Iz40,23": "Ten, który książąt obraca wniwecz, sędziów ziemi czyni nicością."
-"Iz40,24": "Nie będą wszczepieni ani posiani ani ich pień nie zakorzeni się w ziemi; powieje na nich, wnet usychają, a wicher unosi ich jak ściernisko."
-"Iz40,25": "Do kogo więc mnie przyrównacie, abym był do niego podobny? – mówi Święty."
-"Iz40,26": "Podnieście w górę swoje oczy i patrzcie: Kto stworzył te rzeczy? Ten, kto wyprowadza ich zastępy według liczby i to wszystko po imieniu nazywa, według ogromu jego siły i wielkiej potęgi, tak że ani jedna z nich nie zginie?"
-"Iz40,27": "Czemu więc mówisz, Jakubie, i twierdzisz, Izraelu: Zakryta jest moja droga przed PANEM, a moja sprawa nie dociera do mego Boga?"
-"Iz40,28": "Czy nie wiesz? Czy nie słyszałeś, że wieczny Bóg, PAN, Stwórca krańców ziemi, nie ustaje ani się nie męczy i że jego mądrość jest niezgłębiona?"
-"Iz40,29": "On dodaje siły spracowanemu i przymnaża mocy temu, który nie ma żadnej siły."
-"Iz40,30": "Młodzież ustaje i mdleje, a młodzieńcy potykają się i padają;"
-"Iz40,31": "Ale ci, którzy oczekują PANA, nabiorą nowych sił; wzbiją się na skrzydłach jak orły, będą biec, a się nie zmęczą, będą chodzić, a nie ustaną."
+"Iz40,1":
+  text: "Pocieszajcie, pocieszajcie mój lud, mówi wasz Bóg."
+  tags: []
+"Iz40,2":
+  text: "Przemawiajcie do serca Jerozolimy, wołajcie do niej, że dopełnił się jej postanowiony czas, że została przebaczona jej nieprawość, bo otrzymała z ręki PANA w dwójnasób za wszystkie swoje grzechy."
+  tags: []
+"Iz40,3":
+  text: "Głos wołającego na pustyni: Przygotujcie drogę PANA, prostujcie na pustyni ścieżkę naszego Boga."
+  tags: []
+"Iz40,4":
+  text: "Każda dolina niech będzie podniesiona, a każda góra i każdy pagórek – obniżone. To, co krzywe, niech się wyprostuje, a wyboiste miejsca niech będą równiną."
+  tags: []
+"Iz40,5":
+  text: "Wtedy objawi się chwała PANA i ujrzy to razem wszelkie ciało. Tak bowiem mówiły usta PANA."
+  tags: []
+"Iz40,6":
+  text: "Głos przemówił: Wołaj. I zapytano: Co mam wołać? Wszelkie ciało jest trawą, a cały jego wdzięk jak kwiat polny."
+  tags: []
+"Iz40,7":
+  text: "Trawa usycha, kwiat więdnie, gdy wiatr PANA powieje na nie. Zaprawdę ludzie są trawą."
+  tags: []
+"Iz40,8":
+  text: "Trawa usycha, kwiat więdnie, ale słowo naszego Boga trwa na wieki."
+  tags: []
+"Iz40,9":
+  text: "Wstąp na wysoką górę, Syjonie, który opowiadasz dobre wieści. Podnieś mocno swój głos, Jerozolimo, która opowiadasz dobre wieści; podnieś go, nie bój się, powiedz miastom Judy: Oto wasz Bóg."
+  tags: []
+"Iz40,10":
+  text: "Oto Pan BÓG przyjdzie z mocą, jego ramię będzie panować. Oto jego zapłata z nim, a jego dzieło przed nim."
+  tags: []
+"Iz40,11":
+  text: "Jak pasterz będzie pasł swoją trzodę, swoim ramieniem zgromadzi baranki, na swoim łonie będzie je nosił, a ciężarne poprowadzi ostrożnie."
+  tags: []
+"Iz40,12":
+  text: "Kto zmierzył wody swoją garścią, a niebiosa piędzią wymierzył? Kto miarą odmierzył proch ziemi? Kto zważył góry na wadze, a pagórki na szalach?"
+  tags: []
+"Iz40,13":
+  text: "Kto kierował Duchem PANA, a kto był jego doradcą, aby go pouczać?"
+  tags: []
+"Iz40,14":
+  text: "Kogo się radził, aby nabyć rozumu? Kto pouczył go o ścieżkach sądu? Kto nauczył go wiedzy i wskazał mu drogę roztropności?"
+  tags: []
+"Iz40,15":
+  text: "Oto narody są jak kropla w wiadrze, znaczą tyle, co pyłek na wadze. Oto porywa wyspy jak bardzo małą rzecz."
+  tags: []
+"Iz40,16":
+  text: "I Libanu nie wystarczy na ogień ani jego zwierzyny nie wystarczy na całopalenie."
+  tags: []
+"Iz40,17":
+  text: "Wszystkie narody przed nim są niczym; uważa je za nicość i marność."
+  tags: []
+"Iz40,18":
+  text: "Do kogo więc przyrównacie Boga? A jaką podobiznę z nim porównacie?"
+  tags: []
+"Iz40,19":
+  text: "Rzemieślnik odlewa posąg, a złotnik powleka go złotem i odlewa do niego srebrne łańcuszki."
+  tags: []
+"Iz40,20":
+  text: "Kogo z powodu ubóstwa nie stać na ofiarę, wybiera drzewo, które nie próchnieje; wyszukuje zdolnego rzemieślnika, aby przygotował rzeźbiony posąg, który się nie chwieje."
+  tags: []
+"Iz40,21":
+  text: "Czy nie wiecie? Czy nie słyszeliście? Czy wam nie opowiadano od początku? Czy nie zrozumieliście tego od założenia fundamentów ziemi?"
+  tags: []
+"Iz40,22":
+  text: "To ten, który zasiada nad okręgiem ziemi – jej mieszkańcy są jak szarańcza; ten, który rozpostarł niebiosa jak zasłonę i rozciągnął je jak namiot mieszkalny;"
+  tags: []
+"Iz40,23":
+  text: "Ten, który książąt obraca wniwecz, sędziów ziemi czyni nicością."
+  tags: []
+"Iz40,24":
+  text: "Nie będą wszczepieni ani posiani ani ich pień nie zakorzeni się w ziemi; powieje na nich, wnet usychają, a wicher unosi ich jak ściernisko."
+  tags: []
+"Iz40,25":
+  text: "Do kogo więc mnie przyrównacie, abym był do niego podobny? – mówi Święty."
+  tags: []
+"Iz40,26":
+  text: "Podnieście w górę swoje oczy i patrzcie: Kto stworzył te rzeczy? Ten, kto wyprowadza ich zastępy według liczby i to wszystko po imieniu nazywa, według ogromu jego siły i wielkiej potęgi, tak że ani jedna z nich nie zginie?"
+  tags: []
+"Iz40,27":
+  text: "Czemu więc mówisz, Jakubie, i twierdzisz, Izraelu: Zakryta jest moja droga przed PANEM, a moja sprawa nie dociera do mego Boga?"
+  tags: []
+"Iz40,28":
+  text: "Czy nie wiesz? Czy nie słyszałeś, że wieczny Bóg, PAN, Stwórca krańców ziemi, nie ustaje ani się nie męczy i że jego mądrość jest niezgłębiona?"
+  tags: []
+"Iz40,29":
+  text: "On dodaje siły spracowanemu i przymnaża mocy temu, który nie ma żadnej siły."
+  tags: []
+"Iz40,30":
+  text: "Młodzież ustaje i mdleje, a młodzieńcy potykają się i padają;"
+  tags: []
+"Iz40,31":
+  text: "Ale ci, którzy oczekują PANA, nabiorą nowych sił; wzbiją się na skrzydłach jak orły, będą biec, a się nie zmęczą, będą chodzić, a nie ustaną."
+  tags: []

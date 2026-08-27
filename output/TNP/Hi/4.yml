@@ -1,21 +1,63 @@
-"Hi4,1": "Wtedy Elifaz Temańczyk odpowiedział i rzekł:"
-"Hi4,2": "Gdyby spróbować powiedzieć ci słowo, czy będziesz zniecierpliwionym? Lecz kto zdoła powstrzymać się od słów?"
-"Hi4,3": "Oto ty sam nauczałeś wielu i ręce słabe umocniłeś."
-"Hi4,4": "Twoje wypowiedzi podnosiły upadającego, a drżące kolana wzmacniałeś."
-"Hi4,5": "A teraz, przyszło to na ciebie i nie wytrzymujesz, uderzyło cię to i jesteś zatrwożony."
-"Hi4,6": "Czy twoja bogobojność nie była twoją ufnością, twoją nadzieją i nienagannością twoich dróg?"
-"Hi4,7": "Przypomnij sobie, proszę: Kto był tym niewinnym, który zginął? A gdzie prawi zostali wytępieni?"
-"Hi4,8": "Według tego, co widziałem, ci, którzy orzą zło i sieją cierpienie, zbiorą je jako plon."
-"Hi4,9": "Od tchnienia Boga giną i od powiewu Jego gniewu niszczeją."
-"Hi4,10": "Ryk lwa, głos młodego lwa i kły lwiątek łamią się."
-"Hi4,11": "Lwi samiec ginie z powodu braku łupu i młode lwicy rozpraszają się."
-"Hi4,12": "Ale potajemnie zostało przyniesione do mnie słowo, a moje ucho pochwyciło Jego szept."
-"Hi4,13": "W rozmyślaniu o nocnych widzeniach, gdy twardy sen spada na ludzi;"
-"Hi4,14": "Ogarnęła mnie trwoga i drżenie, i sen sprawił, że bardzo przeraziły się moje kości."
-"Hi4,15": "I wiatr powiał na moją twarz, zjeżył się włos na moim ciele."
-"Hi4,16": "Ktoś stanął, lecz nie rozpoznałem jego wyglądu, tylko jakąś postać przed moimi oczami; nastała cisza, a potem usłyszałem głos:"
-"Hi4,17": "Czy śmiertelny człowiek może być sprawiedliwszy niż Bóg? Czy mąż może być czystszy niż jego Stwórca?"
-"Hi4,18": "Oto nie ufa swoim sługom i w swoich aniołach dostrzega brak;"
-"Hi4,19": "O ileż bardziej w mieszkańcach domów z gliny, których fundament posadowiony jest na prochu – łatwiej ich zgnieść niż mola."
-"Hi4,20": "Od poranka aż do wieczora są rozbici; giną bez śladu, na zawsze."
-"Hi4,21": "Czy nie wyrywa się ich sznura? Umierają, i to nie w mądrości."
+"Hi4,1":
+  text: "Wtedy Elifaz Temańczyk odpowiedział i rzekł:"
+  tags: []
+"Hi4,2":
+  text: "Gdyby spróbować powiedzieć ci słowo, czy będziesz zniecierpliwionym? Lecz kto zdoła powstrzymać się od słów?"
+  tags: []
+"Hi4,3":
+  text: "Oto ty sam nauczałeś wielu i ręce słabe umocniłeś."
+  tags: []
+"Hi4,4":
+  text: "Twoje wypowiedzi podnosiły upadającego, a drżące kolana wzmacniałeś."
+  tags: []
+"Hi4,5":
+  text: "A teraz, przyszło to na ciebie i nie wytrzymujesz, uderzyło cię to i jesteś zatrwożony."
+  tags: []
+"Hi4,6":
+  text: "Czy twoja bogobojność nie była twoją ufnością, twoją nadzieją i nienagannością twoich dróg?"
+  tags: []
+"Hi4,7":
+  text: "Przypomnij sobie, proszę: Kto był tym niewinnym, który zginął? A gdzie prawi zostali wytępieni?"
+  tags: []
+"Hi4,8":
+  text: "Według tego, co widziałem, ci, którzy orzą zło i sieją cierpienie, zbiorą je jako plon."
+  tags: []
+"Hi4,9":
+  text: "Od tchnienia Boga giną i od powiewu Jego gniewu niszczeją."
+  tags: []
+"Hi4,10":
+  text: "Ryk lwa, głos młodego lwa i kły lwiątek łamią się."
+  tags: []
+"Hi4,11":
+  text: "Lwi samiec ginie z powodu braku łupu i młode lwicy rozpraszają się."
+  tags: []
+"Hi4,12":
+  text: "Ale potajemnie zostało przyniesione do mnie słowo, a moje ucho pochwyciło Jego szept."
+  tags: []
+"Hi4,13":
+  text: "W rozmyślaniu o nocnych widzeniach, gdy twardy sen spada na ludzi;"
+  tags: []
+"Hi4,14":
+  text: "Ogarnęła mnie trwoga i drżenie, i sen sprawił, że bardzo przeraziły się moje kości."
+  tags: []
+"Hi4,15":
+  text: "I wiatr powiał na moją twarz, zjeżył się włos na moim ciele."
+  tags: []
+"Hi4,16":
+  text: "Ktoś stanął, lecz nie rozpoznałem jego wyglądu, tylko jakąś postać przed moimi oczami; nastała cisza, a potem usłyszałem głos:"
+  tags: []
+"Hi4,17":
+  text: "Czy śmiertelny człowiek może być sprawiedliwszy niż Bóg? Czy mąż może być czystszy niż jego Stwórca?"
+  tags: []
+"Hi4,18":
+  text: "Oto nie ufa swoim sługom i w swoich aniołach dostrzega brak;"
+  tags: []
+"Hi4,19":
+  text: "O ileż bardziej w mieszkańcach domów z gliny, których fundament posadowiony jest na prochu – łatwiej ich zgnieść niż mola."
+  tags: []
+"Hi4,20":
+  text: "Od poranka aż do wieczora są rozbici; giną bez śladu, na zawsze."
+  tags: []
+"Hi4,21":
+  text: "Czy nie wyrywa się ich sznura? Umierają, i to nie w mądrości."
+  tags: []

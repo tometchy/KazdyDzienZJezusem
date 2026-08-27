@@ -1,33 +1,99 @@
-"Hi36,1": "A Elihu mówił dalej:"
-"Hi36,2": "Wytrzymaj ze mną troszkę, a oznajmię ci, że jest więcej słów od Boga."
-"Hi36,3": "Z daleka wezmę moją wiedzę i oddam sprawiedliwość memu Stwórcy."
-"Hi36,4": "Bo naprawdę moje słowa nie są kłamstwem, a ktoś z kompletną wiedzą jest przed tobą."
-"Hi36,5": "Oto Bóg jest mocny i nie gardzi nikim. On jest potężny mocą serca."
-"Hi36,6": "Nie zachowuje przy życiu niegodziwych, a ubogim nadaje prawa."
-"Hi36,7": "Nie odwraca swoich oczu od sprawiedliwego, ale sadza ich na wieki razem z królami na tronie – i wywyższa ich."
-"Hi36,8": "A jeśli są zakuci okowami, schwytani zostali w powrozy utrapienia;"
-"Hi36,9": "To wtedy oznajmia im ich czyny i przestępstwa – bo się wzmogły."
-"Hi36,10": "I otwiera ich uszy na pouczenie, i mówi, żeby odwrócili się od nieprawości."
-"Hi36,11": "Jeśli będą posłuszni i będą Mu służyć, dopełnią swoich dni w dobrobycie, a swoje lata w rozkoszach."
-"Hi36,12": "Ale jeśli nie usłuchają, od miecza zginą, umrą bez poznania."
-"Hi36,13": "Lecz ludzie obłudnego serca gromadzą gniew, nie wołają o pomoc, gdy ich wiąże."
-"Hi36,14": "Niech w młodości umiera ich dusza i ich życie zaniknie wśród nierządników."
-"Hi36,15": "Wyrywa ubogiego w jego utrapieniu i otwiera ich uszy w ucisku."
-"Hi36,16": "I również ciebie uwodzi z paszczy niedoli na miejsce przestronne, gdzie nie ma ograniczeń, a blat twojego stołu napełni tłustością."
-"Hi36,17": "Lecz ty jesteś pełen niegodziwego sądu, sąd i prawo cię powstrzymają."
-"Hi36,18": "Tak, aby gniew nie nęcił cię do szyderstwa i wielki okup cię nie zwiódł."
-"Hi36,19": "Czy ułoży ci to wszystko twoje bogactwo? Nie w ucisku! Nie pomogą też ci wszystkie wysiłki mocy."
-"Hi36,20": "Nie tęsknij za nocą, by usuwać ludzi z ich miejsc."
-"Hi36,21": "Strzeż się, abyś nie zwracał się ku nieprawości, gdyż to jednak ją wybrałeś niż utrapienie."
-"Hi36,22": "Oto Bóg działa wzniośle w swojej potędze, ktojest takim nauczycielem jak On?"
-"Hi36,23": "Kto wytycza dla Niego drogę? A kto Mu powie: Popełniłeś nieprawość?"
-"Hi36,24": "Pamiętaj, abyś wysławiał Jego dzieło, o którym śpiewali ludzie!"
-"Hi36,25": "Cała ludzkość je widzi, człowiek przypatruje się im z daleka."
-"Hi36,26": "Oto Bóg jest wzniosły i nie możemy poznać liczby Jego lat, a jest ona niezbadana."
-"Hi36,27": "Bo On zatrzymuje krople wód, które filtrują deszcz z Jego mgły;"
-"Hi36,28": "Którym spływają chmury, kapią obficie na ludzi."
-"Hi36,29": "Kto może naprawdę zrozumieć rozmieszczenie chmur i grzmoty Jego namiotu?"
-"Hi36,30": "Oto rozciąga nad nim swoją światłość i okrywa głębiny morza."
-"Hi36,31": "Bo przez nie sądzi narody i daje im pokarm w obfitości."
-"Hi36,32": "W swoich dłoniach ukrywa błyskawicę i rozkazuje, wskazując jej na cel uderzenia."
-"Hi36,33": "Ogłasza nad Nim burzę Jego huk, nawet bydło ostrzega o wzmagającej się burzy."
+"Hi36,1":
+  text: "A Elihu mówił dalej:"
+  tags: []
+"Hi36,2":
+  text: "Wytrzymaj ze mną troszkę, a oznajmię ci, że jest więcej słów od Boga."
+  tags: []
+"Hi36,3":
+  text: "Z daleka wezmę moją wiedzę i oddam sprawiedliwość memu Stwórcy."
+  tags: []
+"Hi36,4":
+  text: "Bo naprawdę moje słowa nie są kłamstwem, a ktoś z kompletną wiedzą jest przed tobą."
+  tags: []
+"Hi36,5":
+  text: "Oto Bóg jest mocny i nie gardzi nikim. On jest potężny mocą serca."
+  tags: []
+"Hi36,6":
+  text: "Nie zachowuje przy życiu niegodziwych, a ubogim nadaje prawa."
+  tags: []
+"Hi36,7":
+  text: "Nie odwraca swoich oczu od sprawiedliwego, ale sadza ich na wieki razem z królami na tronie – i wywyższa ich."
+  tags: []
+"Hi36,8":
+  text: "A jeśli są zakuci okowami, schwytani zostali w powrozy utrapienia;"
+  tags: []
+"Hi36,9":
+  text: "To wtedy oznajmia im ich czyny i przestępstwa – bo się wzmogły."
+  tags: []
+"Hi36,10":
+  text: "I otwiera ich uszy na pouczenie, i mówi, żeby odwrócili się od nieprawości."
+  tags: []
+"Hi36,11":
+  text: "Jeśli będą posłuszni i będą Mu służyć, dopełnią swoich dni w dobrobycie, a swoje lata w rozkoszach."
+  tags: []
+"Hi36,12":
+  text: "Ale jeśli nie usłuchają, od miecza zginą, umrą bez poznania."
+  tags: []
+"Hi36,13":
+  text: "Lecz ludzie obłudnego serca gromadzą gniew, nie wołają o pomoc, gdy ich wiąże."
+  tags: []
+"Hi36,14":
+  text: "Niech w młodości umiera ich dusza i ich życie zaniknie wśród nierządników."
+  tags: []
+"Hi36,15":
+  text: "Wyrywa ubogiego w jego utrapieniu i otwiera ich uszy w ucisku."
+  tags: []
+"Hi36,16":
+  text: "I również ciebie uwodzi z paszczy niedoli na miejsce przestronne, gdzie nie ma ograniczeń, a blat twojego stołu napełni tłustością."
+  tags: []
+"Hi36,17":
+  text: "Lecz ty jesteś pełen niegodziwego sądu, sąd i prawo cię powstrzymają."
+  tags: []
+"Hi36,18":
+  text: "Tak, aby gniew nie nęcił cię do szyderstwa i wielki okup cię nie zwiódł."
+  tags: []
+"Hi36,19":
+  text: "Czy ułoży ci to wszystko twoje bogactwo? Nie w ucisku! Nie pomogą też ci wszystkie wysiłki mocy."
+  tags: []
+"Hi36,20":
+  text: "Nie tęsknij za nocą, by usuwać ludzi z ich miejsc."
+  tags: []
+"Hi36,21":
+  text: "Strzeż się, abyś nie zwracał się ku nieprawości, gdyż to jednak ją wybrałeś niż utrapienie."
+  tags: []
+"Hi36,22":
+  text: "Oto Bóg działa wzniośle w swojej potędze, ktojest takim nauczycielem jak On?"
+  tags: []
+"Hi36,23":
+  text: "Kto wytycza dla Niego drogę? A kto Mu powie: Popełniłeś nieprawość?"
+  tags: []
+"Hi36,24":
+  text: "Pamiętaj, abyś wysławiał Jego dzieło, o którym śpiewali ludzie!"
+  tags: []
+"Hi36,25":
+  text: "Cała ludzkość je widzi, człowiek przypatruje się im z daleka."
+  tags: []
+"Hi36,26":
+  text: "Oto Bóg jest wzniosły i nie możemy poznać liczby Jego lat, a jest ona niezbadana."
+  tags: []
+"Hi36,27":
+  text: "Bo On zatrzymuje krople wód, które filtrują deszcz z Jego mgły;"
+  tags: []
+"Hi36,28":
+  text: "Którym spływają chmury, kapią obficie na ludzi."
+  tags: []
+"Hi36,29":
+  text: "Kto może naprawdę zrozumieć rozmieszczenie chmur i grzmoty Jego namiotu?"
+  tags: []
+"Hi36,30":
+  text: "Oto rozciąga nad nim swoją światłość i okrywa głębiny morza."
+  tags: []
+"Hi36,31":
+  text: "Bo przez nie sądzi narody i daje im pokarm w obfitości."
+  tags: []
+"Hi36,32":
+  text: "W swoich dłoniach ukrywa błyskawicę i rozkazuje, wskazując jej na cel uderzenia."
+  tags: []
+"Hi36,33":
+  text: "Ogłasza nad Nim burzę Jego huk, nawet bydło ostrzega o wzmagającej się burzy."
+  tags: []

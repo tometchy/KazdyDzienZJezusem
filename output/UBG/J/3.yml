@@ -1,36 +1,108 @@
-"J3,1": "A był pewien człowiek z faryzeuszy, imieniem Nikodem, dostojnik żydowski."
-"J3,2": "Przyszedł on do Jezusa w nocy i powiedział: Mistrzu, wiemy, że przyszedłeś od Boga jako nauczyciel. Nikt bowiem nie mógłby czynić tych cudów, które ty czynisz, gdyby Bóg z nim nie był."
-"J3,3": "Odpowiedział mu Jezus: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi na nowo, nie może ujrzeć królestwa Bożego."
-"J3,4": "Nikodem zapytał go: Jakże może się człowiek narodzić, będąc stary? Czy może powtórnie wejść do łona swojej matki i narodzić się?"
-"J3,5": "Jezus odpowiedział: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi z wody i z Ducha, nie może wejść do królestwa Bożego."
-"J3,6": "Co się narodziło z ciała, jest ciałem, a co się narodziło z Ducha, jest duchem."
-"J3,7": "Nie dziw się, że ci powiedziałem: Musicie się na nowo narodzić."
-"J3,8": "Wiatr wieje, gdzie chce, i słyszysz jego głos, ale nie wiesz, skąd przychodzi i dokąd zmierza. Tak jest z każdym, kto się narodził z Ducha."
-"J3,9": "Nikodem go zapytał: Jakże się to może stać?"
-"J3,10": "Odpowiedział mu Jezus: Ty jesteś nauczycielem w Izraelu, a tego nie wiesz?"
-"J3,11": "Zaprawdę, zaprawdę powiadam ci, że co wiemy, to mówimy, a co widzieliśmy, o tym świadczymy, ale nie przyjmujecie naszego świadectwa."
-"J3,12": "Jeśli nie wierzycie, gdy wam mówiłem o ziemskich sprawach, jakże uwierzycie, jeśli będę wam mówił o niebieskich?"
-"J3,13": "A nikt nie wstąpił do nieba, tylko ten, który zstąpił z nieba, Syn Człowieczy, który jest w niebie."
-"J3,14": "A jak Mojżesz wywyższył węża na pustyni, tak musi być wywyższony Syn Człowieczy;"
-"J3,15": "Aby każdy, kto w niego wierzy, nie zginął, ale miał życie wieczne."
-"J3,16": "Tak bowiem Bóg umiłował świat, że dał swego jednorodzonego Syna, aby każdy, kto w niego wierzy, nie zginął, ale miał życie wieczne."
-"J3,17": "Bo Bóg nie posłał swego Syna na świat, aby potępił świat, lecz aby świat był przez niego zbawiony."
-"J3,18": "Kto wierzy w niego, nie będzie potępiony, ale kto nie wierzy, już jest potępiony, bo nie uwierzył w imię jednorodzonego Syna Bożego."
-"J3,19": "A potępienie polega na tym, że światłość przyszła na świat, lecz ludzie umiłowali ciemność bardziej niż światłość, bo ich uczynki były złe."
-"J3,20": "Każdy bowiem, kto źle czyni, nienawidzi światłości i nie idzie do światłości, aby jego uczynki nie były zganione."
-"J3,21": "Lecz kto czyni prawdę, przychodzi do światłości, aby jego uczynki były jawne, że w Bogu są dokonane."
-"J3,22": "Potem Jezus przyszedł wraz ze swymi uczniami do Judei i tam przemieszkiwał z nimi, i chrzcił."
-"J3,23": "Także Jan chrzcił w Ainon, blisko Salim, bo było tam wiele wody. A ludzie przychodzili i chrzcili się."
-"J3,24": "Jan bowiem jeszcze nie był wtrącony do więzienia."
-"J3,25": "Wtedy wszczęła się dyskusja między uczniami Jana i Żydami o oczyszczaniu."
-"J3,26": "I przyszli do Jana, i powiedzieli mu: Mistrzu, ten, który był z tobą za Jordanem, o którym ty dałeś świadectwo, oto on chrzci, a wszyscy idą do niego."
-"J3,27": "Odpowiedział Jan: Człowiek nie może otrzymać niczego, jeśli mu nie będzie dane z nieba."
-"J3,28": "Wy sami jesteście mi świadkami, że powiedziałem: Ja nie jestem Chrystusem, ale jestem posłany przed nim."
-"J3,29": "Kto ma oblubienicę, ten jest oblubieńcem, a przyjaciel oblubieńca, który stoi i słucha go, raduje się niezmiernie z powodu głosu oblubieńca. Dlatego ta moja radość stała się pełna."
-"J3,30": "On musi wzrastać, a ja stawać się mniejszym."
-"J3,31": "Kto przyszedł z góry, jest nad wszystkimi. Kto jest z ziemi, jest ziemski i mówi ziemskie rzeczy. Ten, który przyszedł z nieba, jest nad wszystkimi."
-"J3,32": "A świadczy o tym, co widział i słyszał, ale nikt nie przyjmuje jego świadectwa."
-"J3,33": "Kto przyjmuje jego świadectwo, ten zapieczętował, że Bóg jest prawdziwy."
-"J3,34": "Ten bowiem, którego Bóg posłał, mówi słowa Boże, bo Bóg daje mu Ducha bez miary."
-"J3,35": "Ojciec miłuje Syna i wszystko dał w jego ręce."
-"J3,36": "Kto wierzy w Syna, ma życie wieczne, ale kto nie wierzy Synowi, nie ujrzy życia, lecz gniew Boży zostaje na nim."
+"J3,1":
+  text: "A był pewien człowiek z faryzeuszy, imieniem Nikodem, dostojnik żydowski."
+  tags: []
+"J3,2":
+  text: "Przyszedł on do Jezusa w nocy i powiedział: Mistrzu, wiemy, że przyszedłeś od Boga jako nauczyciel. Nikt bowiem nie mógłby czynić tych cudów, które ty czynisz, gdyby Bóg z nim nie był."
+  tags: []
+"J3,3":
+  text: "Odpowiedział mu Jezus: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi na nowo, nie może ujrzeć królestwa Bożego."
+  tags: []
+"J3,4":
+  text: "Nikodem zapytał go: Jakże może się człowiek narodzić, będąc stary? Czy może powtórnie wejść do łona swojej matki i narodzić się?"
+  tags: []
+"J3,5":
+  text: "Jezus odpowiedział: Zaprawdę, zaprawdę powiadam ci: Jeśli się ktoś nie narodzi z wody i z Ducha, nie może wejść do królestwa Bożego."
+  tags: []
+"J3,6":
+  text: "Co się narodziło z ciała, jest ciałem, a co się narodziło z Ducha, jest duchem."
+  tags: []
+"J3,7":
+  text: "Nie dziw się, że ci powiedziałem: Musicie się na nowo narodzić."
+  tags: []
+"J3,8":
+  text: "Wiatr wieje, gdzie chce, i słyszysz jego głos, ale nie wiesz, skąd przychodzi i dokąd zmierza. Tak jest z każdym, kto się narodził z Ducha."
+  tags: []
+"J3,9":
+  text: "Nikodem go zapytał: Jakże się to może stać?"
+  tags: []
+"J3,10":
+  text: "Odpowiedział mu Jezus: Ty jesteś nauczycielem w Izraelu, a tego nie wiesz?"
+  tags: []
+"J3,11":
+  text: "Zaprawdę, zaprawdę powiadam ci, że co wiemy, to mówimy, a co widzieliśmy, o tym świadczymy, ale nie przyjmujecie naszego świadectwa."
+  tags: []
+"J3,12":
+  text: "Jeśli nie wierzycie, gdy wam mówiłem o ziemskich sprawach, jakże uwierzycie, jeśli będę wam mówił o niebieskich?"
+  tags: []
+"J3,13":
+  text: "A nikt nie wstąpił do nieba, tylko ten, który zstąpił z nieba, Syn Człowieczy, który jest w niebie."
+  tags: []
+"J3,14":
+  text: "A jak Mojżesz wywyższył węża na pustyni, tak musi być wywyższony Syn Człowieczy;"
+  tags: []
+"J3,15":
+  text: "Aby każdy, kto w niego wierzy, nie zginął, ale miał życie wieczne."
+  tags: []
+"J3,16":
+  text: "Tak bowiem Bóg umiłował świat, że dał swego jednorodzonego Syna, aby każdy, kto w niego wierzy, nie zginął, ale miał życie wieczne."
+  tags: []
+"J3,17":
+  text: "Bo Bóg nie posłał swego Syna na świat, aby potępił świat, lecz aby świat był przez niego zbawiony."
+  tags: []
+"J3,18":
+  text: "Kto wierzy w niego, nie będzie potępiony, ale kto nie wierzy, już jest potępiony, bo nie uwierzył w imię jednorodzonego Syna Bożego."
+  tags: []
+"J3,19":
+  text: "A potępienie polega na tym, że światłość przyszła na świat, lecz ludzie umiłowali ciemność bardziej niż światłość, bo ich uczynki były złe."
+  tags: []
+"J3,20":
+  text: "Każdy bowiem, kto źle czyni, nienawidzi światłości i nie idzie do światłości, aby jego uczynki nie były zganione."
+  tags: []
+"J3,21":
+  text: "Lecz kto czyni prawdę, przychodzi do światłości, aby jego uczynki były jawne, że w Bogu są dokonane."
+  tags: []
+"J3,22":
+  text: "Potem Jezus przyszedł wraz ze swymi uczniami do Judei i tam przemieszkiwał z nimi, i chrzcił."
+  tags: []
+"J3,23":
+  text: "Także Jan chrzcił w Ainon, blisko Salim, bo było tam wiele wody. A ludzie przychodzili i chrzcili się."
+  tags: []
+"J3,24":
+  text: "Jan bowiem jeszcze nie był wtrącony do więzienia."
+  tags: []
+"J3,25":
+  text: "Wtedy wszczęła się dyskusja między uczniami Jana i Żydami o oczyszczaniu."
+  tags: []
+"J3,26":
+  text: "I przyszli do Jana, i powiedzieli mu: Mistrzu, ten, który był z tobą za Jordanem, o którym ty dałeś świadectwo, oto on chrzci, a wszyscy idą do niego."
+  tags: []
+"J3,27":
+  text: "Odpowiedział Jan: Człowiek nie może otrzymać niczego, jeśli mu nie będzie dane z nieba."
+  tags: []
+"J3,28":
+  text: "Wy sami jesteście mi świadkami, że powiedziałem: Ja nie jestem Chrystusem, ale jestem posłany przed nim."
+  tags: []
+"J3,29":
+  text: "Kto ma oblubienicę, ten jest oblubieńcem, a przyjaciel oblubieńca, który stoi i słucha go, raduje się niezmiernie z powodu głosu oblubieńca. Dlatego ta moja radość stała się pełna."
+  tags: []
+"J3,30":
+  text: "On musi wzrastać, a ja stawać się mniejszym."
+  tags: []
+"J3,31":
+  text: "Kto przyszedł z góry, jest nad wszystkimi. Kto jest z ziemi, jest ziemski i mówi ziemskie rzeczy. Ten, który przyszedł z nieba, jest nad wszystkimi."
+  tags: []
+"J3,32":
+  text: "A świadczy o tym, co widział i słyszał, ale nikt nie przyjmuje jego świadectwa."
+  tags: []
+"J3,33":
+  text: "Kto przyjmuje jego świadectwo, ten zapieczętował, że Bóg jest prawdziwy."
+  tags: []
+"J3,34":
+  text: "Ten bowiem, którego Bóg posłał, mówi słowa Boże, bo Bóg daje mu Ducha bez miary."
+  tags: []
+"J3,35":
+  text: "Ojciec miłuje Syna i wszystko dał w jego ręce."
+  tags: []
+"J3,36":
+  text: "Kto wierzy w Syna, ma życie wieczne, ale kto nie wierzy Synowi, nie ujrzy życia, lecz gniew Boży zostaje na nim."
+  tags: []

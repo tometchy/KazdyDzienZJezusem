@@ -1,39 +1,117 @@
-"Ne10,1": "A oto ci, którzy pieczętowali: Nehemiasz, Tirszata, syn Chakaliasza, następnie Sedekiasz;"
-"Ne10,2": "Serajasz, Azariasz, Jeremiasz;"
-"Ne10,3": "Paszchur, Amariasz, Malkiasz;"
-"Ne10,4": "Chattusz, Szebaniasz, Malluk;"
-"Ne10,5": "Charim, Meremot, Obadiasz;"
-"Ne10,6": "Daniel, Ginneton, Baruch;"
-"Ne10,7": "Meszullam, Abiasz, Mijamin;"
-"Ne10,8": "Maazjasz, Bilgaj i Szemajasz. To byli kapłani."
-"Ne10,9": "A Lewici: Jeszua, syn Azaniasza, Binnuj, jeden z synów Chenadada, Kadmiel;"
-"Ne10,10": "I bracia ich: Szebaniasz, Hodiasz, Kelita, Pelajasz, Chanan;"
-"Ne10,11": "Mika, Rechob, Chaszabiasz;"
-"Ne10,12": "Zakkur, Szerebiasz, Szebaniasz;"
-"Ne10,13": "Hodiasz, Bani i Beninu."
-"Ne10,14": "Naczelnicy ludu: Parosz, Pachat-Moab, Elam, Zattu, Bani;"
-"Ne10,15": "Bunni, Azgad, Bebaj;"
-"Ne10,16": "Adoniasz, Bigwaj, Adin;"
-"Ne10,17": "Ater, Ezechiasz, Azzur;"
-"Ne10,18": "Hodiasz, Chaszum, Besaj;"
-"Ne10,19": "Charif, Anatot, Nebaj;"
-"Ne10,20": "Magpiasz, Meszullam, Chezir;"
-"Ne10,21": "Meszezabeel, Sadok, Jaddua;"
-"Ne10,22": "Pelatiasz, Chanan, Anajasz;"
-"Ne10,23": "Ozeasz, Chananiasz, Chaszub;"
-"Ne10,24": "Hallochesz, Pilcha, Szobek;"
-"Ne10,25": "Rechum, Chaszabna, Maasejasz;"
-"Ne10,26": "I Achiasz, Chanan, Anan;"
-"Ne10,27": "Malluk, Charim i Baana."
-"Ne10,28": "A pozostali z ludu, kapłani, Lewici, odźwierni, śpiewacy, Netinici i wszyscy, którzy odłączyli się od narodów tych ziem do prawa Bożego: ich żony, synowie i córki, każdy zdolny i rozumny;"
-"Ne10,29": "Przyłączyli się do swoich braci i do swoich dostojników, zobowiązując się pod klątwą i przysięgą, że będą postępować według prawa Bożego, które zostało nadane przez Mojżesza, sługę Boga, że będą zachowywać i wypełniać wszystkie przykazania PANA, naszego Pana, oraz jego sądy i ustawy;"
-"Ne10,30": "I że nie damy naszych córek narodom tej ziemi ani ich córek nie weźmiemy dla naszych synów."
-"Ne10,31": "A jeśli ludy tej ziemi będą przynosiły na sprzedaż w dzień szabatu jakikolwiek towar albo zboże, nie będziemy brać od nich w szabat ani w święto. Siódmego roku zaniechamy uprawy ziemi oraz żądania wszelkiego długu."
-"Ne10,32": "Ustanowiliśmy sobie też zobowiązanie, że każdego roku będziemy dawać jedną trzecią sykla na służbę w domu naszego Boga;"
-"Ne10,33": "Na chleb pokładny, na nieustanną ofiarę z pokarmów, na nieustanne całopalenia, w szabaty, w dni nowiu, w święta uroczyste, na rzeczy święte, na przebłagalne ofiary za grzech dla Izraela i na wszelkie prace w domu naszego Boga."
-"Ne10,34": "Rzuciliśmy też losy w sprawie ofiary drewna: kapłani, Lewici i lud, aby przynoszono je do domu naszego Boga według rodów, rokrocznie w oznaczonym czasie, aby było spalane na ołtarzu PANA, naszego Boga, jak jest napisane w Prawie."
-"Ne10,35": "Będziemy też rokrocznie przynosić do domu PANA pierwociny naszej ziemi i pierwociny wszelkiego owocu każdego drzewa;"
-"Ne10,36": "I pierworodnych naszych synów, pierworodne naszego bydła, jak jest napisane w Prawie, i pierworodne naszych wołów i owiec – będziemy przynosić do domu naszego Boga, do kapłanów służących w domu naszego Boga."
-"Ne10,37": "Również pierwociny naszych ciast i ofiar podniesionych, owoc wszelkiego drzewa, moszczu i oliwy – przyniesiemy to do kapłanów, do komnat domu naszego Boga, a dziesięcinę naszej ziemi do Lewitów, aby ci Lewici otrzymali dziesięcinę z naszej pracy we wszystkich miastach."
-"Ne10,38": "Kapłan, syn Aarona, będzie z Lewitami, gdy będą oni pobierać dziesięcinę. A Lewici wniosą dziesięcinę z dziesięciny do domu naszego Boga, do komnat skarbca."
-"Ne10,39": "Do tych bowiem komnat synowie Izraela i Lewiego mają przynosić ofiarę zboża, moszczu i oliwy, tam gdzie są naczynia świątyni, kapłani pełniący służbę, odźwierni i śpiewacy. Tak oto nie zaniedbamy domu naszego Boga."
+"Ne10,1":
+  text: "A oto ci, którzy pieczętowali: Nehemiasz, Tirszata, syn Chakaliasza, następnie Sedekiasz;"
+  tags: []
+"Ne10,2":
+  text: "Serajasz, Azariasz, Jeremiasz;"
+  tags: []
+"Ne10,3":
+  text: "Paszchur, Amariasz, Malkiasz;"
+  tags: []
+"Ne10,4":
+  text: "Chattusz, Szebaniasz, Malluk;"
+  tags: []
+"Ne10,5":
+  text: "Charim, Meremot, Obadiasz;"
+  tags: []
+"Ne10,6":
+  text: "Daniel, Ginneton, Baruch;"
+  tags: []
+"Ne10,7":
+  text: "Meszullam, Abiasz, Mijamin;"
+  tags: []
+"Ne10,8":
+  text: "Maazjasz, Bilgaj i Szemajasz. To byli kapłani."
+  tags: []
+"Ne10,9":
+  text: "A Lewici: Jeszua, syn Azaniasza, Binnuj, jeden z synów Chenadada, Kadmiel;"
+  tags: []
+"Ne10,10":
+  text: "I bracia ich: Szebaniasz, Hodiasz, Kelita, Pelajasz, Chanan;"
+  tags: []
+"Ne10,11":
+  text: "Mika, Rechob, Chaszabiasz;"
+  tags: []
+"Ne10,12":
+  text: "Zakkur, Szerebiasz, Szebaniasz;"
+  tags: []
+"Ne10,13":
+  text: "Hodiasz, Bani i Beninu."
+  tags: []
+"Ne10,14":
+  text: "Naczelnicy ludu: Parosz, Pachat-Moab, Elam, Zattu, Bani;"
+  tags: []
+"Ne10,15":
+  text: "Bunni, Azgad, Bebaj;"
+  tags: []
+"Ne10,16":
+  text: "Adoniasz, Bigwaj, Adin;"
+  tags: []
+"Ne10,17":
+  text: "Ater, Ezechiasz, Azzur;"
+  tags: []
+"Ne10,18":
+  text: "Hodiasz, Chaszum, Besaj;"
+  tags: []
+"Ne10,19":
+  text: "Charif, Anatot, Nebaj;"
+  tags: []
+"Ne10,20":
+  text: "Magpiasz, Meszullam, Chezir;"
+  tags: []
+"Ne10,21":
+  text: "Meszezabeel, Sadok, Jaddua;"
+  tags: []
+"Ne10,22":
+  text: "Pelatiasz, Chanan, Anajasz;"
+  tags: []
+"Ne10,23":
+  text: "Ozeasz, Chananiasz, Chaszub;"
+  tags: []
+"Ne10,24":
+  text: "Hallochesz, Pilcha, Szobek;"
+  tags: []
+"Ne10,25":
+  text: "Rechum, Chaszabna, Maasejasz;"
+  tags: []
+"Ne10,26":
+  text: "I Achiasz, Chanan, Anan;"
+  tags: []
+"Ne10,27":
+  text: "Malluk, Charim i Baana."
+  tags: []
+"Ne10,28":
+  text: "A pozostali z ludu, kapłani, Lewici, odźwierni, śpiewacy, Netinici i wszyscy, którzy odłączyli się od narodów tych ziem do prawa Bożego: ich żony, synowie i córki, każdy zdolny i rozumny;"
+  tags: []
+"Ne10,29":
+  text: "Przyłączyli się do swoich braci i do swoich dostojników, zobowiązując się pod klątwą i przysięgą, że będą postępować według prawa Bożego, które zostało nadane przez Mojżesza, sługę Boga, że będą zachowywać i wypełniać wszystkie przykazania PANA, naszego Pana, oraz jego sądy i ustawy;"
+  tags: []
+"Ne10,30":
+  text: "I że nie damy naszych córek narodom tej ziemi ani ich córek nie weźmiemy dla naszych synów."
+  tags: []
+"Ne10,31":
+  text: "A jeśli ludy tej ziemi będą przynosiły na sprzedaż w dzień szabatu jakikolwiek towar albo zboże, nie będziemy brać od nich w szabat ani w święto. Siódmego roku zaniechamy uprawy ziemi oraz żądania wszelkiego długu."
+  tags: []
+"Ne10,32":
+  text: "Ustanowiliśmy sobie też zobowiązanie, że każdego roku będziemy dawać jedną trzecią sykla na służbę w domu naszego Boga;"
+  tags: []
+"Ne10,33":
+  text: "Na chleb pokładny, na nieustanną ofiarę z pokarmów, na nieustanne całopalenia, w szabaty, w dni nowiu, w święta uroczyste, na rzeczy święte, na przebłagalne ofiary za grzech dla Izraela i na wszelkie prace w domu naszego Boga."
+  tags: []
+"Ne10,34":
+  text: "Rzuciliśmy też losy w sprawie ofiary drewna: kapłani, Lewici i lud, aby przynoszono je do domu naszego Boga według rodów, rokrocznie w oznaczonym czasie, aby było spalane na ołtarzu PANA, naszego Boga, jak jest napisane w Prawie."
+  tags: []
+"Ne10,35":
+  text: "Będziemy też rokrocznie przynosić do domu PANA pierwociny naszej ziemi i pierwociny wszelkiego owocu każdego drzewa;"
+  tags: []
+"Ne10,36":
+  text: "I pierworodnych naszych synów, pierworodne naszego bydła, jak jest napisane w Prawie, i pierworodne naszych wołów i owiec – będziemy przynosić do domu naszego Boga, do kapłanów służących w domu naszego Boga."
+  tags: []
+"Ne10,37":
+  text: "Również pierwociny naszych ciast i ofiar podniesionych, owoc wszelkiego drzewa, moszczu i oliwy – przyniesiemy to do kapłanów, do komnat domu naszego Boga, a dziesięcinę naszej ziemi do Lewitów, aby ci Lewici otrzymali dziesięcinę z naszej pracy we wszystkich miastach."
+  tags: []
+"Ne10,38":
+  text: "Kapłan, syn Aarona, będzie z Lewitami, gdy będą oni pobierać dziesięcinę. A Lewici wniosą dziesięcinę z dziesięciny do domu naszego Boga, do komnat skarbca."
+  tags: []
+"Ne10,39":
+  text: "Do tych bowiem komnat synowie Izraela i Lewiego mają przynosić ofiarę zboża, moszczu i oliwy, tam gdzie są naczynia świątyni, kapłani pełniący służbę, odźwierni i śpiewacy. Tak oto nie zaniedbamy domu naszego Boga."
+  tags: []

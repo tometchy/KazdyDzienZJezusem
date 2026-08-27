@@ -1,20 +1,60 @@
-"Mt28,1": "A później po sabacie, gdy rozjaśniało się na pierwszy dzień tygodnia, przyszła Maria Magdalena i inna Maria, aby obejrzeć grób."
-"Mt28,2": "I oto nastało wielkie trzęsienie ziemi; bo anioł PANA zstąpił z nieba, podszedł i odtoczył kamień od wejścia, i usiadł na nim."
-"Mt28,3": "A jego postać podobna była błyskawicy, a odzienie jego białe jakby śnieg."
-"Mt28,4": "A ze strachu przed nim zadrżeli stróże, i stali się jakby martwi."
-"Mt28,5": "A anioł zwrócił się do kobiet, mówiąc: Wy się nie bójcie; wiem, że szukacie Jezusa ukrzyżowanego."
-"Mt28,6": "Nie ma Go tu; bowiem został wzbudzony z martwych, jak powiedział; chodźcie, zobaczcie miejsce, gdzie Pan był położony."
-"Mt28,7": "I idźcie szybko, i powiedzcie Jego uczniom, że został wzbudzony z martwych; i oto poprzedza was do Galilei; tam Go zobaczycie; oto wam powiedziałem."
-"Mt28,8": "I szybko wyszły z grobowca; z bojaźnią i z wielką radością pobiegły oznajmić to Jego uczniom."
-"Mt28,9": "A gdy szły, aby to oznajmić Jego uczniom, oto Jezus wyszedł im na spotkanie, mówiąc: Witajcie! A one zbliżyły się i uchwyciły się Jego stóp, i oddały Mu pokłon."
-"Mt28,10": "Wtedy Jezus powiedział im: Nie bójcie się; idźcie, powiedzcie moim braciom, aby poszli do Galilei, a tam mnie zobaczą."
-"Mt28,11": "A gdy one szły, oto niektórzy ze straży przyszli do miasta i oznajmili arcykapłanom wszystko, co się stało."
-"Mt28,12": "A ci, gdy zebrali się ze starszymi, po naradzie dali odpowiednią ilość srebrników żołnierzom, mówiąc:"
-"Mt28,13": "Powiedźcie, że uczniowie Jego w nocy przyszli, i gdy spaliśmy, ukradli Jego ciało."
-"Mt28,14": "A gdyby namiestnik o tym usłyszał, my go przekonamy, i wybawimy was od kłopotów."
-"Mt28,15": "A oni wzięli srebrniki, i uczynili jak ich pouczono. I rozniosła się ta wieść pomiędzy Żydami aż do dnia dzisiejszego."
-"Mt28,16": "A jedenastu uczniów poszło do Galilei na górę, gdzie wyznaczył im Jezus."
-"Mt28,17": "A gdy Go ujrzeli, oddali Mu pokłon; jednak niektórzy wahali się."
-"Mt28,18": "A Jezus podszedł, i mówiąc do nich, powiedział: Dana mi jest wszelka władza w niebie i na ziemi."
-"Mt28,19": "Idąc więc, uczyńcie uczniami wszystkie narody, chrzcząc ich w imię Ojca i Syna, i Ducha Świętego,"
-"Mt28,20": "Ucząc ich przestrzegać wszystkiego, co wam przykazałem. A oto ja jestem z wami po wszystkie dni aż do końca tego wieku. Amen."
+"Mt28,1":
+  text: "A później po sabacie, gdy rozjaśniało się na pierwszy dzień tygodnia, przyszła Maria Magdalena i inna Maria, aby obejrzeć grób."
+  tags: []
+"Mt28,2":
+  text: "I oto nastało wielkie trzęsienie ziemi; bo anioł PANA zstąpił z nieba, podszedł i odtoczył kamień od wejścia, i usiadł na nim."
+  tags: []
+"Mt28,3":
+  text: "A jego postać podobna była błyskawicy, a odzienie jego białe jakby śnieg."
+  tags: []
+"Mt28,4":
+  text: "A ze strachu przed nim zadrżeli stróże, i stali się jakby martwi."
+  tags: []
+"Mt28,5":
+  text: "A anioł zwrócił się do kobiet, mówiąc: Wy się nie bójcie; wiem, że szukacie Jezusa ukrzyżowanego."
+  tags: []
+"Mt28,6":
+  text: "Nie ma Go tu; bowiem został wzbudzony z martwych, jak powiedział; chodźcie, zobaczcie miejsce, gdzie Pan był położony."
+  tags: []
+"Mt28,7":
+  text: "I idźcie szybko, i powiedzcie Jego uczniom, że został wzbudzony z martwych; i oto poprzedza was do Galilei; tam Go zobaczycie; oto wam powiedziałem."
+  tags: []
+"Mt28,8":
+  text: "I szybko wyszły z grobowca; z bojaźnią i z wielką radością pobiegły oznajmić to Jego uczniom."
+  tags: []
+"Mt28,9":
+  text: "A gdy szły, aby to oznajmić Jego uczniom, oto Jezus wyszedł im na spotkanie, mówiąc: Witajcie! A one zbliżyły się i uchwyciły się Jego stóp, i oddały Mu pokłon."
+  tags: []
+"Mt28,10":
+  text: "Wtedy Jezus powiedział im: Nie bójcie się; idźcie, powiedzcie moim braciom, aby poszli do Galilei, a tam mnie zobaczą."
+  tags: []
+"Mt28,11":
+  text: "A gdy one szły, oto niektórzy ze straży przyszli do miasta i oznajmili arcykapłanom wszystko, co się stało."
+  tags: []
+"Mt28,12":
+  text: "A ci, gdy zebrali się ze starszymi, po naradzie dali odpowiednią ilość srebrników żołnierzom, mówiąc:"
+  tags: []
+"Mt28,13":
+  text: "Powiedźcie, że uczniowie Jego w nocy przyszli, i gdy spaliśmy, ukradli Jego ciało."
+  tags: []
+"Mt28,14":
+  text: "A gdyby namiestnik o tym usłyszał, my go przekonamy, i wybawimy was od kłopotów."
+  tags: []
+"Mt28,15":
+  text: "A oni wzięli srebrniki, i uczynili jak ich pouczono. I rozniosła się ta wieść pomiędzy Żydami aż do dnia dzisiejszego."
+  tags: []
+"Mt28,16":
+  text: "A jedenastu uczniów poszło do Galilei na górę, gdzie wyznaczył im Jezus."
+  tags: []
+"Mt28,17":
+  text: "A gdy Go ujrzeli, oddali Mu pokłon; jednak niektórzy wahali się."
+  tags: []
+"Mt28,18":
+  text: "A Jezus podszedł, i mówiąc do nich, powiedział: Dana mi jest wszelka władza w niebie i na ziemi."
+  tags: []
+"Mt28,19":
+  text: "Idąc więc, uczyńcie uczniami wszystkie narody, chrzcząc ich w imię Ojca i Syna, i Ducha Świętego,"
+  tags: []
+"Mt28,20":
+  text: "Ucząc ich przestrzegać wszystkiego, co wam przykazałem. A oto ja jestem z wami po wszystkie dni aż do końca tego wieku. Amen."
+  tags: []

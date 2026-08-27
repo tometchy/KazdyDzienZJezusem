@@ -1,18 +1,54 @@
-"Ps83,1": "Keep not thou silence, O God: hold not thy peace, and be not still, O God."
-"Ps83,2": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head."
-"Ps83,3": "They have taken crafty counsel against thy people, and consulted against thy hidden ones."
-"Ps83,4": "They have said, Come, and let us cut them off from [being] a nation; that the name of Israel may be no more in remembrance."
-"Ps83,5": "For they have consulted together with one consent: they are confederate against thee:"
-"Ps83,6": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;"
-"Ps83,7": "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;"
-"Ps83,8": "Assur also is joined with them: they have holpen the children of Lot. Selah."
-"Ps83,9": "Do unto them as [unto] the Midianites; as [to] Sisera, as [to] Jabin, at the brook of Kison:"
-"Ps83,10": "[Which] perished at En-dor: they became [as] dung for the earth."
-"Ps83,11": "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:"
-"Ps83,12": "Who said, Let us take to ourselves the houses of God in possession."
-"Ps83,13": "O my God, make them like a wheel; as the stubble before the wind."
-"Ps83,14": "As the fire burneth a wood, and as the flame setteth the mountains on fire;"
-"Ps83,15": "So persecute them with thy tempest, and make them afraid with thy storm."
-"Ps83,16": "Fill their faces with shame; that they may seek thy name, O LORD."
-"Ps83,17": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:"
-"Ps83,18": "That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most high over all the earth."
+"Ps83,1":
+  text: "Keep not thou silence, O God: hold not thy peace, and be not still, O God."
+  tags: []
+"Ps83,2":
+  text: "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head."
+  tags: []
+"Ps83,3":
+  text: "They have taken crafty counsel against thy people, and consulted against thy hidden ones."
+  tags: []
+"Ps83,4":
+  text: "They have said, Come, and let us cut them off from [being] a nation; that the name of Israel may be no more in remembrance."
+  tags: []
+"Ps83,5":
+  text: "For they have consulted together with one consent: they are confederate against thee:"
+  tags: []
+"Ps83,6":
+  text: "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;"
+  tags: []
+"Ps83,7":
+  text: "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;"
+  tags: []
+"Ps83,8":
+  text: "Assur also is joined with them: they have holpen the children of Lot. Selah."
+  tags: []
+"Ps83,9":
+  text: "Do unto them as [unto] the Midianites; as [to] Sisera, as [to] Jabin, at the brook of Kison:"
+  tags: []
+"Ps83,10":
+  text: "[Which] perished at En-dor: they became [as] dung for the earth."
+  tags: []
+"Ps83,11":
+  text: "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:"
+  tags: []
+"Ps83,12":
+  text: "Who said, Let us take to ourselves the houses of God in possession."
+  tags: []
+"Ps83,13":
+  text: "O my God, make them like a wheel; as the stubble before the wind."
+  tags: []
+"Ps83,14":
+  text: "As the fire burneth a wood, and as the flame setteth the mountains on fire;"
+  tags: []
+"Ps83,15":
+  text: "So persecute them with thy tempest, and make them afraid with thy storm."
+  tags: []
+"Ps83,16":
+  text: "Fill their faces with shame; that they may seek thy name, O LORD."
+  tags: []
+"Ps83,17":
+  text: "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:"
+  tags: []
+"Ps83,18":
+  text: "That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most high over all the earth."
+  tags: []

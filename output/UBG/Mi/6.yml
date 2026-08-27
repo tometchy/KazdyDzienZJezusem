@@ -1,16 +1,48 @@
-"Mi6,1": "Słuchajcie tego, co mówi PAN: Wstań, spieraj się z górami i niech pagórki słuchają twego głosu."
-"Mi6,2": "Słuchajcie, góry, sporu PANA, i najmocniejsze fundamenty ziemi, bo PAN wiedzie spór ze swoim ludem i rozprawia się z Jerozolimą."
-"Mi6,3": "Mój ludu, cóż ci uczyniłem? W czym ci się uprzykrzyłem? Zeznaj przeciwko mnie."
-"Mi6,4": "Wyprowadziłem cię bowiem z ziemi Egiptu, odkupiłem cię z domu niewolników i posłałem przed tobą Mojżesza, Aarona i Miriam."
-"Mi6,5": "Mój ludu! Wspomnij teraz, co zamierzał Balak, król Moabu, a co mu odpowiedział Balaam, syn Beora; wspomnij też, co się działo od Szittim aż do Gilgal, abyś poznał sprawiedliwość PANA."
-"Mi6,6": "Z czym mam się stawić przed PANEM i pokłonić się Bogu najwyższemu? Czy mam stawić się przed nim z ofiarami całopalnymi i jednorocznymi cielcami?"
-"Mi6,7": "Czy PAN ma upodobanie w tysiącach baranów i w dziesiątkach tysięcy strumieni oliwy? Czy mam mu dać swego pierworodnego za mój występek, owoc mego łona za grzech mojej duszy?"
-"Mi6,8": "On ci oznajmił, człowieku, co jest dobre i czego PAN żąda od ciebie: jedynie tego, byś czynił sprawiedliwie, kochał miłosierdzie i pokornie chodził z twoim Bogiem."
-"Mi6,9": "Głos PANA woła do miasta (ale roztropny sam ujrzy twoje imię): Słuchajcie rózgi i tego, kto ją ustanowił."
-"Mi6,10": "Czy jeszcze są w domu bezbożnego skarby niesprawiedliwe i miara niesprawiedliwa i obrzydliwa?"
-"Mi6,11": "Czy mam usprawiedliwić oszukańczą wagę i worek fałszywych odważników?"
-"Mi6,12": "Jego bogacze są pełni zdzierstwa, jego mieszkańcy mówią kłamstwo i ich język w ich ustach jest kłamliwy."
-"Mi6,13": "Dlatego też dotknę cię chorobą, uderzę cię i zniszczę z powodu twoich grzechów."
-"Mi6,14": "Będziesz jeść, ale się nie nasycisz; twoje poniżenie będzie w środku ciebie. Pochwycisz, ale nie ocalisz, a co ocalisz, wydam pod miecz."
-"Mi6,15": "Będziesz siał, ale nie będziesz żął; będziesz tłoczył oliwki, ale nie namaścisz się oliwą; będziesz wyciskał moszcz, ale nie napijesz się wina."
-"Mi6,16": "Przestrzegacie bowiem ustaw Omriego i wszystkich czynów domu Achaba i postępujecie według ich rad. Dlatego cię wydam na spustoszenie i jego mieszkańców na pośmiewisko. Będziecie więc nosić hańbę mego ludu."
+"Mi6,1":
+  text: "Słuchajcie tego, co mówi PAN: Wstań, spieraj się z górami i niech pagórki słuchają twego głosu."
+  tags: []
+"Mi6,2":
+  text: "Słuchajcie, góry, sporu PANA, i najmocniejsze fundamenty ziemi, bo PAN wiedzie spór ze swoim ludem i rozprawia się z Jerozolimą."
+  tags: []
+"Mi6,3":
+  text: "Mój ludu, cóż ci uczyniłem? W czym ci się uprzykrzyłem? Zeznaj przeciwko mnie."
+  tags: []
+"Mi6,4":
+  text: "Wyprowadziłem cię bowiem z ziemi Egiptu, odkupiłem cię z domu niewolników i posłałem przed tobą Mojżesza, Aarona i Miriam."
+  tags: []
+"Mi6,5":
+  text: "Mój ludu! Wspomnij teraz, co zamierzał Balak, król Moabu, a co mu odpowiedział Balaam, syn Beora; wspomnij też, co się działo od Szittim aż do Gilgal, abyś poznał sprawiedliwość PANA."
+  tags: []
+"Mi6,6":
+  text: "Z czym mam się stawić przed PANEM i pokłonić się Bogu najwyższemu? Czy mam stawić się przed nim z ofiarami całopalnymi i jednorocznymi cielcami?"
+  tags: []
+"Mi6,7":
+  text: "Czy PAN ma upodobanie w tysiącach baranów i w dziesiątkach tysięcy strumieni oliwy? Czy mam mu dać swego pierworodnego za mój występek, owoc mego łona za grzech mojej duszy?"
+  tags: []
+"Mi6,8":
+  text: "On ci oznajmił, człowieku, co jest dobre i czego PAN żąda od ciebie: jedynie tego, byś czynił sprawiedliwie, kochał miłosierdzie i pokornie chodził z twoim Bogiem."
+  tags: []
+"Mi6,9":
+  text: "Głos PANA woła do miasta (ale roztropny sam ujrzy twoje imię): Słuchajcie rózgi i tego, kto ją ustanowił."
+  tags: []
+"Mi6,10":
+  text: "Czy jeszcze są w domu bezbożnego skarby niesprawiedliwe i miara niesprawiedliwa i obrzydliwa?"
+  tags: []
+"Mi6,11":
+  text: "Czy mam usprawiedliwić oszukańczą wagę i worek fałszywych odważników?"
+  tags: []
+"Mi6,12":
+  text: "Jego bogacze są pełni zdzierstwa, jego mieszkańcy mówią kłamstwo i ich język w ich ustach jest kłamliwy."
+  tags: []
+"Mi6,13":
+  text: "Dlatego też dotknę cię chorobą, uderzę cię i zniszczę z powodu twoich grzechów."
+  tags: []
+"Mi6,14":
+  text: "Będziesz jeść, ale się nie nasycisz; twoje poniżenie będzie w środku ciebie. Pochwycisz, ale nie ocalisz, a co ocalisz, wydam pod miecz."
+  tags: []
+"Mi6,15":
+  text: "Będziesz siał, ale nie będziesz żął; będziesz tłoczył oliwki, ale nie namaścisz się oliwą; będziesz wyciskał moszcz, ale nie napijesz się wina."
+  tags: []
+"Mi6,16":
+  text: "Przestrzegacie bowiem ustaw Omriego i wszystkich czynów domu Achaba i postępujecie według ich rad. Dlatego cię wydam na spustoszenie i jego mieszkańców na pośmiewisko. Będziecie więc nosić hańbę mego ludu."
+  tags: []

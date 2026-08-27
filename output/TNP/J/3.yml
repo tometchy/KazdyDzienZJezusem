@@ -1,36 +1,108 @@
-"J3,1": "A był pewien człowiek wśród faryzeuszy o imieniu Nikodem, przywódca żydowski."
-"J3,2": "Ten przyszedł w nocy do Jezusa i powiedział do Niego: Rabbi! Wiemy, że przyszedłeś od Boga jako nauczyciel; bo nikt takich cudownych znaków czynić nie może, które Ty czynisz, gdyby Bóg z nim nie był."
-"J3,3": "Jezus w odpowiedzi, rzekł mu: Zaprawdę, zaprawdę mówię ci: Jeśli ktoś nie zostanie zrodzony z góry, nie może zobaczyć Królestwa Bożego."
-"J3,4": "Nikodem powiedział do Niego: Jak może człowiek zostać zrodzonym, będąc starcem? Nie może on powtórnie wejść do łona swojej matki i zostać zrodzonym."
-"J3,5": "Jezus odpowiedział: Zaprawdę, zaprawdę mówię ci: Jeśli ktoś nie zostanie zrodzony z wody i z Ducha, nie może wejść do Królestwa Bożego."
-"J3,6": "Co jest zrodzone z ciała, jest ciałem, a co jest zrodzone z Ducha, jest duchem."
-"J3,7": "Nie dziw się, że ci powiedziałem, że konieczne jest, abyście zostali zrodzeni z góry."
-"J3,8": "Wiatr wieje gdzie chce i szum jego słyszysz, ale nie wiesz skąd przychodzi i dokąd idzie; tak jest z każdym, kto jest zrodzony z Ducha."
-"J3,9": "Nikodem w odpowiedzi, zapytał Go: Jak to się może stać?"
-"J3,10": "Jezus w odpowiedzi, rzekł mu: Ty jesteś nauczycielem Izraela, a tego nie wiesz?"
-"J3,11": "Zaprawdę, zaprawdę mówię ci, że co wiemy, to mówimy, i co widzieliśmy, o tym świadczymy, a naszego świadectwa nie przyjmujecie."
-"J3,12": "Jeśli nie wierzycie, gdy wam powiedziałem o sprawach ziemskich, to jak uwierzycie, jeśli mówiłbym wam o sprawach niebiańskich?"
-"J3,13": "I nikt nie wstępuje do nieba, tylko Ten, który zstąpił z nieba, Syn Człowieczy, który jest w niebie."
-"J3,14": "I jak Mojżesz wywyższył węża na pustyni, tak właśnie musi zostać wywyższony Syn Człowieczy,"
-"J3,15": "Aby każdy, wierzący w Niego, nie zginął, ale miał życie wieczne."
-"J3,16": "W ten właśnie sposób Bóg umiłował świat, że dał swojego jednorodzonego Syna, aby każdy, wierzący w Niego, nie zginął, ale miał życie wieczne."
-"J3,17": "Bo nie posłał Bóg swojego Syna na świat, aby sądził świat, lecz by świat został przez Niego zbawiony."
-"J3,18": "Wierzący w Niego, nie podlega osądzeniu; ale kto nie wierzy, już jest osądzony, dlatego że nie wierzy w imię jednorodzonego Syna Bożego."
-"J3,19": "To natomiast jest sąd, że światłość przyszła na świat, a ludzie bardziej umiłowali ciemność niż światłość; bo ich czyny były złe."
-"J3,20": "Każdy bowiem, kto podle czyni, nienawidzi światłości i nie przychodzi do światłości, aby czyny jego nie zostały obnażone."
-"J3,21": "Lecz kto czyni prawdę, przychodzi do światłości, aby czyny jego zostały ujawnione, że są dokonane w Bogu."
-"J3,22": "Potem przyszedł Jezus i Jego uczniowie do ziemi judzkiej; i tam przebywał z nimi i chrzcił."
-"J3,23": "A chrzcił i Jan w Ainon, blisko Salim, bo było tam wiele wody, i ludzie przychodzili i byli chrzczeni."
-"J3,24": "Bo Jan jeszcze nie był wtrącony do więzienia."
-"J3,25": "Powstał więc spór między uczniami Jana a Żydami o oczyszczenie."
-"J3,26": "I przyszli do Jana, i powiedzieli do niego: Rabbi! Ten, który był z tobą za Jordanem, o którym ty zaświadczyłeś, Ten oto chrzci, i wszyscy przychodzą do Niego."
-"J3,27": "Jan w odpowiedzi, rzekł: Nie może człowiek nic wziąć, jeśli nie byłoby mu to dane z nieba."
-"J3,28": "Wy sami mi poświadczacie, że powiedziałem: Ja nie jestem Mesjaszem, ale jestem posłany przed Nim."
-"J3,29": "Ten, kto ma oblubienicę, jest oblubieńcem; a przyjaciel oblubieńca, ten, który stoi i go słucha, raduje się niezmiernie z powodu głosu oblubieńca. Dlatego też ta moja radość jest pełna."
-"J3,30": "On musi wzrastać, ja natomiast stawać się mniejszym."
-"J3,31": "Ten, który przychodzi z góry, jest ponad wszystkimi. Kto z ziemi, jest ziemski i po ziemsku mówi; kto z nieba przychodzi, jest ponad wszystkimi."
-"J3,32": "A co widział i słyszał, o tym świadczy, a świadectwa Jego nikt nie przyjmuje."
-"J3,33": "Ten, kto przyjął Jego świadectwo, przypieczętował tym samym, że Bóg jest prawdomówny."
-"J3,34": "Ten bowiem, którego Bóg posłał, mówi Słowa Boże; gdyż Bóg daje Ducha bez miary."
-"J3,35": "Ojciec miłuje Syna i wszystko powierzył w Jego ręce."
-"J3,36": "Wierzący w Syna, ma życie wieczne; a kto jest nieposłuszny Synowi, nie zobaczy życia, lecz gniew Boży pozostaje na nim."
+"J3,1":
+  text: "A był pewien człowiek wśród faryzeuszy o imieniu Nikodem, przywódca żydowski."
+  tags: []
+"J3,2":
+  text: "Ten przyszedł w nocy do Jezusa i powiedział do Niego: Rabbi! Wiemy, że przyszedłeś od Boga jako nauczyciel; bo nikt takich cudownych znaków czynić nie może, które Ty czynisz, gdyby Bóg z nim nie był."
+  tags: []
+"J3,3":
+  text: "Jezus w odpowiedzi, rzekł mu: Zaprawdę, zaprawdę mówię ci: Jeśli ktoś nie zostanie zrodzony z góry, nie może zobaczyć Królestwa Bożego."
+  tags: []
+"J3,4":
+  text: "Nikodem powiedział do Niego: Jak może człowiek zostać zrodzonym, będąc starcem? Nie może on powtórnie wejść do łona swojej matki i zostać zrodzonym."
+  tags: []
+"J3,5":
+  text: "Jezus odpowiedział: Zaprawdę, zaprawdę mówię ci: Jeśli ktoś nie zostanie zrodzony z wody i z Ducha, nie może wejść do Królestwa Bożego."
+  tags: []
+"J3,6":
+  text: "Co jest zrodzone z ciała, jest ciałem, a co jest zrodzone z Ducha, jest duchem."
+  tags: []
+"J3,7":
+  text: "Nie dziw się, że ci powiedziałem, że konieczne jest, abyście zostali zrodzeni z góry."
+  tags: []
+"J3,8":
+  text: "Wiatr wieje gdzie chce i szum jego słyszysz, ale nie wiesz skąd przychodzi i dokąd idzie; tak jest z każdym, kto jest zrodzony z Ducha."
+  tags: []
+"J3,9":
+  text: "Nikodem w odpowiedzi, zapytał Go: Jak to się może stać?"
+  tags: []
+"J3,10":
+  text: "Jezus w odpowiedzi, rzekł mu: Ty jesteś nauczycielem Izraela, a tego nie wiesz?"
+  tags: []
+"J3,11":
+  text: "Zaprawdę, zaprawdę mówię ci, że co wiemy, to mówimy, i co widzieliśmy, o tym świadczymy, a naszego świadectwa nie przyjmujecie."
+  tags: []
+"J3,12":
+  text: "Jeśli nie wierzycie, gdy wam powiedziałem o sprawach ziemskich, to jak uwierzycie, jeśli mówiłbym wam o sprawach niebiańskich?"
+  tags: []
+"J3,13":
+  text: "I nikt nie wstępuje do nieba, tylko Ten, który zstąpił z nieba, Syn Człowieczy, który jest w niebie."
+  tags: []
+"J3,14":
+  text: "I jak Mojżesz wywyższył węża na pustyni, tak właśnie musi zostać wywyższony Syn Człowieczy,"
+  tags: []
+"J3,15":
+  text: "Aby każdy, wierzący w Niego, nie zginął, ale miał życie wieczne."
+  tags: []
+"J3,16":
+  text: "W ten właśnie sposób Bóg umiłował świat, że dał swojego jednorodzonego Syna, aby każdy, wierzący w Niego, nie zginął, ale miał życie wieczne."
+  tags: []
+"J3,17":
+  text: "Bo nie posłał Bóg swojego Syna na świat, aby sądził świat, lecz by świat został przez Niego zbawiony."
+  tags: []
+"J3,18":
+  text: "Wierzący w Niego, nie podlega osądzeniu; ale kto nie wierzy, już jest osądzony, dlatego że nie wierzy w imię jednorodzonego Syna Bożego."
+  tags: []
+"J3,19":
+  text: "To natomiast jest sąd, że światłość przyszła na świat, a ludzie bardziej umiłowali ciemność niż światłość; bo ich czyny były złe."
+  tags: []
+"J3,20":
+  text: "Każdy bowiem, kto podle czyni, nienawidzi światłości i nie przychodzi do światłości, aby czyny jego nie zostały obnażone."
+  tags: []
+"J3,21":
+  text: "Lecz kto czyni prawdę, przychodzi do światłości, aby czyny jego zostały ujawnione, że są dokonane w Bogu."
+  tags: []
+"J3,22":
+  text: "Potem przyszedł Jezus i Jego uczniowie do ziemi judzkiej; i tam przebywał z nimi i chrzcił."
+  tags: []
+"J3,23":
+  text: "A chrzcił i Jan w Ainon, blisko Salim, bo było tam wiele wody, i ludzie przychodzili i byli chrzczeni."
+  tags: []
+"J3,24":
+  text: "Bo Jan jeszcze nie był wtrącony do więzienia."
+  tags: []
+"J3,25":
+  text: "Powstał więc spór między uczniami Jana a Żydami o oczyszczenie."
+  tags: []
+"J3,26":
+  text: "I przyszli do Jana, i powiedzieli do niego: Rabbi! Ten, który był z tobą za Jordanem, o którym ty zaświadczyłeś, Ten oto chrzci, i wszyscy przychodzą do Niego."
+  tags: []
+"J3,27":
+  text: "Jan w odpowiedzi, rzekł: Nie może człowiek nic wziąć, jeśli nie byłoby mu to dane z nieba."
+  tags: []
+"J3,28":
+  text: "Wy sami mi poświadczacie, że powiedziałem: Ja nie jestem Mesjaszem, ale jestem posłany przed Nim."
+  tags: []
+"J3,29":
+  text: "Ten, kto ma oblubienicę, jest oblubieńcem; a przyjaciel oblubieńca, ten, który stoi i go słucha, raduje się niezmiernie z powodu głosu oblubieńca. Dlatego też ta moja radość jest pełna."
+  tags: []
+"J3,30":
+  text: "On musi wzrastać, ja natomiast stawać się mniejszym."
+  tags: []
+"J3,31":
+  text: "Ten, który przychodzi z góry, jest ponad wszystkimi. Kto z ziemi, jest ziemski i po ziemsku mówi; kto z nieba przychodzi, jest ponad wszystkimi."
+  tags: []
+"J3,32":
+  text: "A co widział i słyszał, o tym świadczy, a świadectwa Jego nikt nie przyjmuje."
+  tags: []
+"J3,33":
+  text: "Ten, kto przyjął Jego świadectwo, przypieczętował tym samym, że Bóg jest prawdomówny."
+  tags: []
+"J3,34":
+  text: "Ten bowiem, którego Bóg posłał, mówi Słowa Boże; gdyż Bóg daje Ducha bez miary."
+  tags: []
+"J3,35":
+  text: "Ojciec miłuje Syna i wszystko powierzył w Jego ręce."
+  tags: []
+"J3,36":
+  text: "Wierzący w Syna, ma życie wieczne; a kto jest nieposłuszny Synowi, nie zobaczy życia, lecz gniew Boży pozostaje na nim."
+  tags: []

@@ -1,27 +1,81 @@
-"Jk1,1": "Jakub, sługa Boga i Pana Jezusa Chrystusa, przesyła pozdrowienia dwunastu pokoleniom, które są w rozproszeniu."
-"Jk1,2": "Poczytujcie to sobie za największą radość, moi bracia, gdy rozmaite próby przechodzicie;"
-"Jk1,3": "Wiedząc, że doświadczenie waszej wiary wyrabia cierpliwość."
-"Jk1,4": "Cierpliwość zaś niech dopełni swego dzieła, abyście byli doskonali i zupełni, niemający żadnych braków."
-"Jk1,5": "A jeśli komuś z was brakuje mądrości, niech prosi Boga, który daje wszystkim obficie i bez wypominania, a będzie mu dana."
-"Jk1,6": "Ale niech prosi z wiarą, bez powątpiewania. Kto bowiem wątpi, podobny jest do fali morskiej pędzonej przez wiatr i miotanej tu i tam."
-"Jk1,7": "Człowiek taki niech nie myśli, że coś otrzyma od Pana."
-"Jk1,8": "Człowiek umysłu dwoistego jest niestały we wszystkich swoich drogach."
-"Jk1,9": "Niech ubogi brat chlubi się ze swojego wywyższenia;"
-"Jk1,10": "A bogaty ze swego poniżenia, bo przeminie jak kwiat trawy."
-"Jk1,11": "Jak bowiem wzeszło palące słońce, wysuszyło trawę, a kwiat jej opadł i zginęło piękno jego wyglądu, tak też bogaty zmarnieje na swoich drogach."
-"Jk1,12": "Błogosławiony człowiek, który znosi próbę, bo gdy zostanie wypróbowany, otrzyma koronę życia, którą obiecał Pan tym, którzy go miłują."
-"Jk1,13": "Niech nikt, gdy jest kuszony, nie mówi: Jestem kuszony przez Boga. Bóg bowiem nie może być kuszony do złego ani sam nikogo nie kusi."
-"Jk1,14": "Lecz każdy jest kuszony przez własną pożądliwość, która go pociąga i nęci."
-"Jk1,15": "Następnie pożądliwość, gdy pocznie, rodzi grzech, a grzech, gdy będzie wykonany, rodzi śmierć."
-"Jk1,16": "Nie błądźcie, moi umiłowani bracia!"
-"Jk1,17": "Wszelki dar dobry i wszelki dar doskonały pochodzi z góry i zstępuje od Ojca światłości, u którego nie ma zmiany ani cienia zmienności."
-"Jk1,18": "Ze swojej woli zrodził nas słowem prawdy, abyśmy byli jakby pierwocinami jego stworzeń."
-"Jk1,19": "Tak więc, moi umiłowani bracia, niech każdy człowiek będzie skory do słuchania, nieskory do mówienia i nieskory do gniewu."
-"Jk1,20": "Gniew bowiem człowieka nie wykonuje sprawiedliwości Bożej."
-"Jk1,21": "Odrzućcie więc wszelką plugawość oraz bezmiar zła i z łagodnością przyjmijcie zaszczepione w was słowo, które może zbawić wasze dusze."
-"Jk1,22": "Bądźcie więc wykonawcami słowa, a nie tylko słuchaczami, oszukującymi samych siebie."
-"Jk1,23": "Jeśli bowiem ktoś jest słuchaczem słowa, a nie wykonawcą, podobny jest do człowieka, który przygląda się w lustrze swemu naturalnemu obliczu."
-"Jk1,24": "Bo przyjrzał się sobie, odszedł i zaraz zapomniał, jakim był."
-"Jk1,25": "Lecz kto wpatruje się w doskonałe prawo wolności i trwa w nim, nie jest słuchaczem, który zapomina, lecz wykonawcą dzieła, ten będzie błogosławiony w swoim działaniu."
-"Jk1,26": "Jeśli ktoś wśród was sądzi, że jest pobożny, a nie powściąga swego języka, lecz oszukuje swe serce, tego pobożność jest próżna."
-"Jk1,27": "Czysta i nieskalana pobożność u Boga i Ojca polega na tym, aby przychodzić z pomocą sierotom i wdowom w ich utrapieniu i zachować samego siebie nieskażonym przez świat."
+"Jk1,1":
+  text: "Jakub, sługa Boga i Pana Jezusa Chrystusa, przesyła pozdrowienia dwunastu pokoleniom, które są w rozproszeniu."
+  tags: []
+"Jk1,2":
+  text: "Poczytujcie to sobie za największą radość, moi bracia, gdy rozmaite próby przechodzicie;"
+  tags: []
+"Jk1,3":
+  text: "Wiedząc, że doświadczenie waszej wiary wyrabia cierpliwość."
+  tags: []
+"Jk1,4":
+  text: "Cierpliwość zaś niech dopełni swego dzieła, abyście byli doskonali i zupełni, niemający żadnych braków."
+  tags: []
+"Jk1,5":
+  text: "A jeśli komuś z was brakuje mądrości, niech prosi Boga, który daje wszystkim obficie i bez wypominania, a będzie mu dana."
+  tags: []
+"Jk1,6":
+  text: "Ale niech prosi z wiarą, bez powątpiewania. Kto bowiem wątpi, podobny jest do fali morskiej pędzonej przez wiatr i miotanej tu i tam."
+  tags: []
+"Jk1,7":
+  text: "Człowiek taki niech nie myśli, że coś otrzyma od Pana."
+  tags: []
+"Jk1,8":
+  text: "Człowiek umysłu dwoistego jest niestały we wszystkich swoich drogach."
+  tags: []
+"Jk1,9":
+  text: "Niech ubogi brat chlubi się ze swojego wywyższenia;"
+  tags: []
+"Jk1,10":
+  text: "A bogaty ze swego poniżenia, bo przeminie jak kwiat trawy."
+  tags: []
+"Jk1,11":
+  text: "Jak bowiem wzeszło palące słońce, wysuszyło trawę, a kwiat jej opadł i zginęło piękno jego wyglądu, tak też bogaty zmarnieje na swoich drogach."
+  tags: []
+"Jk1,12":
+  text: "Błogosławiony człowiek, który znosi próbę, bo gdy zostanie wypróbowany, otrzyma koronę życia, którą obiecał Pan tym, którzy go miłują."
+  tags: []
+"Jk1,13":
+  text: "Niech nikt, gdy jest kuszony, nie mówi: Jestem kuszony przez Boga. Bóg bowiem nie może być kuszony do złego ani sam nikogo nie kusi."
+  tags: []
+"Jk1,14":
+  text: "Lecz każdy jest kuszony przez własną pożądliwość, która go pociąga i nęci."
+  tags: []
+"Jk1,15":
+  text: "Następnie pożądliwość, gdy pocznie, rodzi grzech, a grzech, gdy będzie wykonany, rodzi śmierć."
+  tags: []
+"Jk1,16":
+  text: "Nie błądźcie, moi umiłowani bracia!"
+  tags: []
+"Jk1,17":
+  text: "Wszelki dar dobry i wszelki dar doskonały pochodzi z góry i zstępuje od Ojca światłości, u którego nie ma zmiany ani cienia zmienności."
+  tags: []
+"Jk1,18":
+  text: "Ze swojej woli zrodził nas słowem prawdy, abyśmy byli jakby pierwocinami jego stworzeń."
+  tags: []
+"Jk1,19":
+  text: "Tak więc, moi umiłowani bracia, niech każdy człowiek będzie skory do słuchania, nieskory do mówienia i nieskory do gniewu."
+  tags: []
+"Jk1,20":
+  text: "Gniew bowiem człowieka nie wykonuje sprawiedliwości Bożej."
+  tags: []
+"Jk1,21":
+  text: "Odrzućcie więc wszelką plugawość oraz bezmiar zła i z łagodnością przyjmijcie zaszczepione w was słowo, które może zbawić wasze dusze."
+  tags: []
+"Jk1,22":
+  text: "Bądźcie więc wykonawcami słowa, a nie tylko słuchaczami, oszukującymi samych siebie."
+  tags: []
+"Jk1,23":
+  text: "Jeśli bowiem ktoś jest słuchaczem słowa, a nie wykonawcą, podobny jest do człowieka, który przygląda się w lustrze swemu naturalnemu obliczu."
+  tags: []
+"Jk1,24":
+  text: "Bo przyjrzał się sobie, odszedł i zaraz zapomniał, jakim był."
+  tags: []
+"Jk1,25":
+  text: "Lecz kto wpatruje się w doskonałe prawo wolności i trwa w nim, nie jest słuchaczem, który zapomina, lecz wykonawcą dzieła, ten będzie błogosławiony w swoim działaniu."
+  tags: []
+"Jk1,26":
+  text: "Jeśli ktoś wśród was sądzi, że jest pobożny, a nie powściąga swego języka, lecz oszukuje swe serce, tego pobożność jest próżna."
+  tags: []
+"Jk1,27":
+  text: "Czysta i nieskalana pobożność u Boga i Ojca polega na tym, aby przychodzić z pomocą sierotom i wdowom w ich utrapieniu i zachować samego siebie nieskażonym przez świat."
+  tags: []

@@ -1,25 +1,75 @@
-"1P2,1": "Odłożywszy więc od siebie wszelką złość i wszelką zdradę, i obłudę, i zazdrość, i wszelką obmowę,"
-"1P2,2": "Jak nowo narodzone niemowlęta, zapragnijcie usilnie niesfałszowanego, duchowego mleka, abyście przez nie otrzymali wzrost,"
-"1P2,3": "Jeśli tylko skosztowaliście, że dobrotliwy jest Pan."
-"1P2,4": "Zbliżając się do Niego, do kamienia żywego, przez ludzi wprawdzie odrzuconego, ale u Boga wybranego i kosztownego,"
-"1P2,5": "I wy sami, jako żywe kamienie, jesteście budowani w dom duchowy, w kapłaństwo święte, by przez Jezusa Chrystusa przynieść Bogu godne przyjęcia duchowe ofiary."
-"1P2,6": "Dlatego i to zawiera się w Piśmie: Oto kładę na Syjonie kamień węgielny, wybrany, kosztowny; a wierzący w Niego, z pewnością nie zostanie zawstydzony."
-"1P2,7": "Zatem dla was wierzących to zaszczyt; ale dla nieposłusznych, ten kamień, który odrzucili budujący stał się głowicą węgła i kamieniem potknięcia, i skałą zgorszenia,"
-"1P2,8": "O który potykają się ci, którzy są nieposłuszni Słowu, na co są też przeznaczeni."
-"1P2,9": "Ale wy jesteście rodem wybranym, królewskim kapłaństwem, narodem świętym, ludem nabytym na własność, abyście ogłosili cnoty Tego, który powołał was z ciemności do przedziwnego swojego światła;"
-"1P2,10": "Wy dawniej nie byliście ludem, ale teraz jesteście ludem Boga; nieobjęci miłosierdziem, ale teraz zostaliście miłosierdziem objęci."
-"1P2,11": "Umiłowani! Proszę was, abyście jako obcy i wychodźcy, wstrzymywali się od cielesnych pożądliwości, które walczą przeciwko duszy,"
-"1P2,12": "Prowadząc szlachetne życie między poganami, aby ci, którzy was obmówili jako złoczyńców, przyglądając się waszym dobrym czynom, wychwalili Boga w dzień nawiedzenia."
-"1P2,13": "Bądźcie więc ulegli wszelkiemu ludzkiemu porządkowi ze względu na Pana, czy to królowi, jako najwyższemu,"
-"1P2,14": "Czy to namiestnikom, którzy są posłani przez niego dla karania istotnie zło czyniących, lecz na pochwałę dobrze czyniących."
-"1P2,15": "Gdyż taka jest wola Boża, abyście dobrze czyniąc, zamykali usta bezmyślnych ludzi, którzy nie mają poznania."
-"1P2,16": "Jako wolni, i to nie jak ci, którzy mają wolność za zasłonę zła, ale jako niewolnicy Boga."
-"1P2,17": "Wszystkich szanujcie, braterstwo miłujcie, Boga się bójcie, króla czcijcie."
-"1P2,18": "Domownicy! Bądźcie ulegli z wszelką bojaźnią panom, nie tylko dobrym i łagodnym, ale i pokrętnym."
-"1P2,19": "To bowiem jest łaska, jeśli ktoś z powodu sumienia, dla Boga znosi utrapienie, cierpiąc niesprawiedliwie."
-"1P2,20": "Bo co to za chwała, jeśli grzesząc znosicie, gdy was policzkują? Ale jeśli znosicie to, cierpiąc za dobre czyny, to jest łaska u Boga."
-"1P2,21": "Do tego bowiem zostaliście wezwani, ponieważ i Chrystus cierpiał za nas, zostawiając nam przykład, abyśmy poszli Jego śladami."
-"1P2,22": "On grzechu nie popełnił i nie znaleziono zdrady w Jego ustach,"
-"1P2,23": "On, gdy Mu złorzeczono, nie odwzajemniał się złorzeczeniem, gdy cierpiał nie groził, ale powierzał się Temu, który sprawiedliwie sądzi,"
-"1P2,24": "On grzechy nasze sam na ciele swoim poniósł na drzewo, abyśmy jako umarli grzechom, żyli dla sprawiedliwości. Jego sińce uleczyły was."
-"1P2,25": "Byliście bowiem jak błąkające się owce; ale teraz zostaliście zawróceni do pasterza i stróża dusz waszych."
+"1P2,1":
+  text: "Odłożywszy więc od siebie wszelką złość i wszelką zdradę, i obłudę, i zazdrość, i wszelką obmowę,"
+  tags: []
+"1P2,2":
+  text: "Jak nowo narodzone niemowlęta, zapragnijcie usilnie niesfałszowanego, duchowego mleka, abyście przez nie otrzymali wzrost,"
+  tags: []
+"1P2,3":
+  text: "Jeśli tylko skosztowaliście, że dobrotliwy jest Pan."
+  tags: []
+"1P2,4":
+  text: "Zbliżając się do Niego, do kamienia żywego, przez ludzi wprawdzie odrzuconego, ale u Boga wybranego i kosztownego,"
+  tags: []
+"1P2,5":
+  text: "I wy sami, jako żywe kamienie, jesteście budowani w dom duchowy, w kapłaństwo święte, by przez Jezusa Chrystusa przynieść Bogu godne przyjęcia duchowe ofiary."
+  tags: []
+"1P2,6":
+  text: "Dlatego i to zawiera się w Piśmie: Oto kładę na Syjonie kamień węgielny, wybrany, kosztowny; a wierzący w Niego, z pewnością nie zostanie zawstydzony."
+  tags: []
+"1P2,7":
+  text: "Zatem dla was wierzących to zaszczyt; ale dla nieposłusznych, ten kamień, który odrzucili budujący stał się głowicą węgła i kamieniem potknięcia, i skałą zgorszenia,"
+  tags: []
+"1P2,8":
+  text: "O który potykają się ci, którzy są nieposłuszni Słowu, na co są też przeznaczeni."
+  tags: []
+"1P2,9":
+  text: "Ale wy jesteście rodem wybranym, królewskim kapłaństwem, narodem świętym, ludem nabytym na własność, abyście ogłosili cnoty Tego, który powołał was z ciemności do przedziwnego swojego światła;"
+  tags: []
+"1P2,10":
+  text: "Wy dawniej nie byliście ludem, ale teraz jesteście ludem Boga; nieobjęci miłosierdziem, ale teraz zostaliście miłosierdziem objęci."
+  tags: []
+"1P2,11":
+  text: "Umiłowani! Proszę was, abyście jako obcy i wychodźcy, wstrzymywali się od cielesnych pożądliwości, które walczą przeciwko duszy,"
+  tags: []
+"1P2,12":
+  text: "Prowadząc szlachetne życie między poganami, aby ci, którzy was obmówili jako złoczyńców, przyglądając się waszym dobrym czynom, wychwalili Boga w dzień nawiedzenia."
+  tags: []
+"1P2,13":
+  text: "Bądźcie więc ulegli wszelkiemu ludzkiemu porządkowi ze względu na Pana, czy to królowi, jako najwyższemu,"
+  tags: []
+"1P2,14":
+  text: "Czy to namiestnikom, którzy są posłani przez niego dla karania istotnie zło czyniących, lecz na pochwałę dobrze czyniących."
+  tags: []
+"1P2,15":
+  text: "Gdyż taka jest wola Boża, abyście dobrze czyniąc, zamykali usta bezmyślnych ludzi, którzy nie mają poznania."
+  tags: []
+"1P2,16":
+  text: "Jako wolni, i to nie jak ci, którzy mają wolność za zasłonę zła, ale jako niewolnicy Boga."
+  tags: []
+"1P2,17":
+  text: "Wszystkich szanujcie, braterstwo miłujcie, Boga się bójcie, króla czcijcie."
+  tags: []
+"1P2,18":
+  text: "Domownicy! Bądźcie ulegli z wszelką bojaźnią panom, nie tylko dobrym i łagodnym, ale i pokrętnym."
+  tags: []
+"1P2,19":
+  text: "To bowiem jest łaska, jeśli ktoś z powodu sumienia, dla Boga znosi utrapienie, cierpiąc niesprawiedliwie."
+  tags: []
+"1P2,20":
+  text: "Bo co to za chwała, jeśli grzesząc znosicie, gdy was policzkują? Ale jeśli znosicie to, cierpiąc za dobre czyny, to jest łaska u Boga."
+  tags: []
+"1P2,21":
+  text: "Do tego bowiem zostaliście wezwani, ponieważ i Chrystus cierpiał za nas, zostawiając nam przykład, abyśmy poszli Jego śladami."
+  tags: []
+"1P2,22":
+  text: "On grzechu nie popełnił i nie znaleziono zdrady w Jego ustach,"
+  tags: []
+"1P2,23":
+  text: "On, gdy Mu złorzeczono, nie odwzajemniał się złorzeczeniem, gdy cierpiał nie groził, ale powierzał się Temu, który sprawiedliwie sądzi,"
+  tags: []
+"1P2,24":
+  text: "On grzechy nasze sam na ciele swoim poniósł na drzewo, abyśmy jako umarli grzechom, żyli dla sprawiedliwości. Jego sińce uleczyły was."
+  tags: []
+"1P2,25":
+  text: "Byliście bowiem jak błąkające się owce; ale teraz zostaliście zawróceni do pasterza i stróża dusz waszych."
+  tags: []

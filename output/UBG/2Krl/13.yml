@@ -1,25 +1,75 @@
-"2Krl13,1": "W dwudziestym trzecim roku Joasza, syna Achazjasza, króla Judy, Jehoachaz, syn Jehu, zaczął królować nad Izraelem w Samarii i królował siedemnaście lat."
-"2Krl13,2": "A czynił to, co złe w oczach PANA, naśladując grzechy Jeroboama, syna Nebata, który przywiódł Izraela do grzechu, i nie odstąpił od nich."
-"2Krl13,3": "I zapalił się gniew PANA przeciw Izraelowi, i wydał go w rękę Chazaela, króla Syrii, i w rękę Ben-Hadada, syna Chazaela, po wszystkie ich dni."
-"2Krl13,4": "Ale gdy Jehoachaz błagał PANA, PAN go wysłuchał. Widział bowiem ucisk Izraela dręczonego przez króla Syrii."
-"2Krl13,5": "I PAN dał Izraelowi wybawcę, tak że wyszli spod ręki Syryjczyków, i synowie Izraela mieszkali w swoich namiotach jak dawniej."
-"2Krl13,6": "Jednakże nie odstąpili od grzechów domu Jeroboama, który przywiódł Izraela do grzechu, ale chodzili w nich. A do tego jeszcze w Samarii został gaj."
-"2Krl13,7": "I Jehoachazowi nie pozostało więcej wojska jak tylko pięćdziesięciu jeźdźców, dziesięć rydwanów i dziesięć tysięcy pieszych, gdyż król Syrii wytracił ich i starł w proch."
-"2Krl13,8": "A pozostałe dzieje Jehoachaza i wszystko, co czynił, oraz jego potęga, czy nie są zapisane w kronikach królów Izraela?"
-"2Krl13,9": "I Jehoachaz zasnął ze swymi ojcami, i pogrzebano go w Samarii, a jego syn Joasz królował w jego miejsce."
-"2Krl13,10": "W trzydziestym siódmym roku Joasza, króla Judy, Jehoasz, syn Jehoachaza, zaczął królować nad Izraelem w Samarii i królował szesnaście lat;"
-"2Krl13,11": "I czynił to, co złe w oczach PANA, nie odstępując od żadnych grzechów Jeroboama, syna Nebata, który przywiódł Izraela do grzechu – ale chodząc w nich."
-"2Krl13,12": "A pozostałe dzieje Joasza i wszystko, co czynił, oraz jego potęga – to, jak walczył z Amazjaszem, królem Judy, czy nie są zapisane w kronikach królów Izraela?"
-"2Krl13,13": "I Joasz zasnął ze swymi ojcami, a Jeroboam zasiadł na jego tronie. I Joasz został pogrzebany w Samarii razem z królami Izraela."
-"2Krl13,14": "A Elizeusz zapadł na ciężką chorobę, na którą miał umrzeć. Przyszedł do niego Joasz, król Izraela, i płakał nad nim, mówiąc: Mój ojcze, mój ojcze! Rydwanie Izraela i jego jeźdźcze!"
-"2Krl13,15": "Wtedy Elizeusz powiedział mu: Weź łuk i strzały. Wziął więc łuk i strzały."
-"2Krl13,16": "Potem powiedział do króla Izraela: Weź łuk w rękę. I wziął go w rękę. Elizeusz zaś położył swoje ręce na ręce króla."
-"2Krl13,17": "I powiedział: Otwórz okno na wschód. A gdy je otworzył, Elizeusz polecił: Strzelaj! I strzelił, a on powiedział: Strzała wybawienia PANA i strzała wybawienia od Syryjczyków. Pobijesz bowiem Syryjczyków w Afek doszczętnie."
-"2Krl13,18": "Następnie powiedział: Weź strzały! I wziął. Wtedy rzekł do króla Izraela: Uderz w ziemię! I uderzył trzy razy, i zaprzestał."
-"2Krl13,19": "Wtedy mąż Boży rozgniewał się na niego i powiedział: Trzeba było uderzyć pięć lub sześć razy. Wtedy byś pokonał Syrię doszczętnie. Lecz teraz pokonasz Syrię tylko trzy razy."
-"2Krl13,20": "Potem Elizeusz umarł i pogrzebali go. A z nastaniem roku moabskie zgraje napadły na ziemię."
-"2Krl13,21": "I zdarzyło się, że gdy grzebano pewnego człowieka, zobaczyli taką zgraję. Wrzucili więc tego człowieka do grobu Elizeusza. A gdy ten człowiek został tam wrzucony, dotknął kości Elizeusza, ożył i wstał na nogi."
-"2Krl13,22": "Chazael zaś, król Syrii, uciskał lud Izraela po wszystkie dni Jehoachaza."
-"2Krl13,23": "PAN jednak zlitował się nad nimi, był dla nich miłosierny i zwrócił się ku nim ze względu na swoje przymierze z Abrahamem, Izaakiem i Jakubem. Nie chciał ich wytracić ani nie odrzucił ich sprzed swego oblicza aż dotąd."
-"2Krl13,24": "I Chazael, król Syrii, umarł, a jego syn Ben-Hadad królował w jego miejsce."
-"2Krl13,25": "Jehoasz, syn Jehoachaza, znowu odebrał z ręki Ben-Hadada, syna Chazaela, te miasta, które podczas wojny ten zabrał z ręki jego ojca Jehoachaza. Joasz pokonał go trzy razy i odzyskał miasta Izraela."
+"2Krl13,1":
+  text: "W dwudziestym trzecim roku Joasza, syna Achazjasza, króla Judy, Jehoachaz, syn Jehu, zaczął królować nad Izraelem w Samarii i królował siedemnaście lat."
+  tags: []
+"2Krl13,2":
+  text: "A czynił to, co złe w oczach PANA, naśladując grzechy Jeroboama, syna Nebata, który przywiódł Izraela do grzechu, i nie odstąpił od nich."
+  tags: []
+"2Krl13,3":
+  text: "I zapalił się gniew PANA przeciw Izraelowi, i wydał go w rękę Chazaela, króla Syrii, i w rękę Ben-Hadada, syna Chazaela, po wszystkie ich dni."
+  tags: []
+"2Krl13,4":
+  text: "Ale gdy Jehoachaz błagał PANA, PAN go wysłuchał. Widział bowiem ucisk Izraela dręczonego przez króla Syrii."
+  tags: []
+"2Krl13,5":
+  text: "I PAN dał Izraelowi wybawcę, tak że wyszli spod ręki Syryjczyków, i synowie Izraela mieszkali w swoich namiotach jak dawniej."
+  tags: []
+"2Krl13,6":
+  text: "Jednakże nie odstąpili od grzechów domu Jeroboama, który przywiódł Izraela do grzechu, ale chodzili w nich. A do tego jeszcze w Samarii został gaj."
+  tags: []
+"2Krl13,7":
+  text: "I Jehoachazowi nie pozostało więcej wojska jak tylko pięćdziesięciu jeźdźców, dziesięć rydwanów i dziesięć tysięcy pieszych, gdyż król Syrii wytracił ich i starł w proch."
+  tags: []
+"2Krl13,8":
+  text: "A pozostałe dzieje Jehoachaza i wszystko, co czynił, oraz jego potęga, czy nie są zapisane w kronikach królów Izraela?"
+  tags: []
+"2Krl13,9":
+  text: "I Jehoachaz zasnął ze swymi ojcami, i pogrzebano go w Samarii, a jego syn Joasz królował w jego miejsce."
+  tags: []
+"2Krl13,10":
+  text: "W trzydziestym siódmym roku Joasza, króla Judy, Jehoasz, syn Jehoachaza, zaczął królować nad Izraelem w Samarii i królował szesnaście lat;"
+  tags: []
+"2Krl13,11":
+  text: "I czynił to, co złe w oczach PANA, nie odstępując od żadnych grzechów Jeroboama, syna Nebata, który przywiódł Izraela do grzechu – ale chodząc w nich."
+  tags: []
+"2Krl13,12":
+  text: "A pozostałe dzieje Joasza i wszystko, co czynił, oraz jego potęga – to, jak walczył z Amazjaszem, królem Judy, czy nie są zapisane w kronikach królów Izraela?"
+  tags: []
+"2Krl13,13":
+  text: "I Joasz zasnął ze swymi ojcami, a Jeroboam zasiadł na jego tronie. I Joasz został pogrzebany w Samarii razem z królami Izraela."
+  tags: []
+"2Krl13,14":
+  text: "A Elizeusz zapadł na ciężką chorobę, na którą miał umrzeć. Przyszedł do niego Joasz, król Izraela, i płakał nad nim, mówiąc: Mój ojcze, mój ojcze! Rydwanie Izraela i jego jeźdźcze!"
+  tags: []
+"2Krl13,15":
+  text: "Wtedy Elizeusz powiedział mu: Weź łuk i strzały. Wziął więc łuk i strzały."
+  tags: []
+"2Krl13,16":
+  text: "Potem powiedział do króla Izraela: Weź łuk w rękę. I wziął go w rękę. Elizeusz zaś położył swoje ręce na ręce króla."
+  tags: []
+"2Krl13,17":
+  text: "I powiedział: Otwórz okno na wschód. A gdy je otworzył, Elizeusz polecił: Strzelaj! I strzelił, a on powiedział: Strzała wybawienia PANA i strzała wybawienia od Syryjczyków. Pobijesz bowiem Syryjczyków w Afek doszczętnie."
+  tags: []
+"2Krl13,18":
+  text: "Następnie powiedział: Weź strzały! I wziął. Wtedy rzekł do króla Izraela: Uderz w ziemię! I uderzył trzy razy, i zaprzestał."
+  tags: []
+"2Krl13,19":
+  text: "Wtedy mąż Boży rozgniewał się na niego i powiedział: Trzeba było uderzyć pięć lub sześć razy. Wtedy byś pokonał Syrię doszczętnie. Lecz teraz pokonasz Syrię tylko trzy razy."
+  tags: []
+"2Krl13,20":
+  text: "Potem Elizeusz umarł i pogrzebali go. A z nastaniem roku moabskie zgraje napadły na ziemię."
+  tags: []
+"2Krl13,21":
+  text: "I zdarzyło się, że gdy grzebano pewnego człowieka, zobaczyli taką zgraję. Wrzucili więc tego człowieka do grobu Elizeusza. A gdy ten człowiek został tam wrzucony, dotknął kości Elizeusza, ożył i wstał na nogi."
+  tags: []
+"2Krl13,22":
+  text: "Chazael zaś, król Syrii, uciskał lud Izraela po wszystkie dni Jehoachaza."
+  tags: []
+"2Krl13,23":
+  text: "PAN jednak zlitował się nad nimi, był dla nich miłosierny i zwrócił się ku nim ze względu na swoje przymierze z Abrahamem, Izaakiem i Jakubem. Nie chciał ich wytracić ani nie odrzucił ich sprzed swego oblicza aż dotąd."
+  tags: []
+"2Krl13,24":
+  text: "I Chazael, król Syrii, umarł, a jego syn Ben-Hadad królował w jego miejsce."
+  tags: []
+"2Krl13,25":
+  text: "Jehoasz, syn Jehoachaza, znowu odebrał z ręki Ben-Hadada, syna Chazaela, te miasta, które podczas wojny ten zabrał z ręki jego ojca Jehoachaza. Joasz pokonał go trzy razy i odzyskał miasta Izraela."
+  tags: []

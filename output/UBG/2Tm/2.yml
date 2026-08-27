@@ -1,26 +1,78 @@
-"2Tm2,1": "Ty więc, mój synu, wzmacniaj się w łasce, która jest w Chrystusie Jezusie."
-"2Tm2,2": "A co słyszałeś ode mnie wobec wielu świadków, to powierz wiernym ludziom, którzy będą zdolni nauczać także innych."
-"2Tm2,3": "Dlatego znoś trudy jak dobry żołnierz Jezusa Chrystusa."
-"2Tm2,4": "Nikt, kto pełni służbę żołnierską, nie wikła się w sprawy tego życia, aby podobać się temu, który go powołał na żołnierza."
-"2Tm2,5": "Również jeśli ktoś staje do zapasów, nie otrzymuje korony, jeżeli nie walczy prawidłowo."
-"2Tm2,6": "Rolnik, który pracuje, jako pierwszy powinien korzystać z plonów."
-"2Tm2,7": "Rozważ, co mówię, a niech Pan ci da zrozumienie we wszystkim."
-"2Tm2,8": "Pamiętaj, że Jezus Chrystus, potomek Dawida, powstał z martwych według mojej ewangelii;"
-"2Tm2,9": "Dla której znoszę cierpienia jak złoczyńca, aż do więzów, ale słowo Boże nie jest związane."
-"2Tm2,10": "Dlatego wszystko znoszę przez wzgląd na wybranych, aby i oni dostąpili zbawienia, które jest w Chrystusie Jezusie wraz z wieczną chwałą."
-"2Tm2,11": "Wiarygodne to słowa. Jeśli bowiem z nim umarliśmy, z nim też będziemy żyć."
-"2Tm2,12": "Jeśli cierpimy, z nim też będziemy królować, jeśli się go wyprzemy, i on się nas wyprze."
-"2Tm2,13": "Jeśli jesteśmy niewierni, on pozostaje wierny, bo samego siebie wyprzeć się nie może."
-"2Tm2,14": "To wszystko przypominaj, zaklinając ich przed Panem, aby się nie wdawali w spory o słowa, bo to niczemu nie służy, tylko prowadzi do zguby słuchaczy."
-"2Tm2,15": "Staraj się, abyś stanął przed Bogiem jako wypróbowany pracownik, który nie ma się czego wstydzić i który dobrze rozkłada słowo prawdy."
-"2Tm2,16": "Unikaj zaś pospolitej, czczej gadaniny, bo prowadzi ona do coraz większej bezbożności."
-"2Tm2,17": "A ich mowa szerzy się jak gangrena. Do nich należą Hymenajos i Filetos;"
-"2Tm2,18": "Którzy pobłądzili w sprawie prawdy, mówiąc, że zmartwychwstanie już nastąpiło, i wywracają wiarę niektórych."
-"2Tm2,19": "Mimo to fundament Boży stoi niewzruszony, mając taką pieczęć: Zna Pan tych, którzy należą do niego, oraz: Niech odstąpi od nieprawości każdy, kto wzywa imienia Chrystusa."
-"2Tm2,20": "W wielkim zaś domu znajdują się nie tylko naczynia złote i srebrne, lecz także drewniane i gliniane, niektóre do użytku zaszczytnego, a inne do niezaszczytnego."
-"2Tm2,21": "Jeśli więc ktoś oczyści samego siebie z tego wszystkiego, będzie naczyniem do użytku zaszczytnego, uświęconym i użytecznym dla Pana, przygotowanym do każdego dobrego czynu."
-"2Tm2,22": "Uciekaj też od młodzieńczych pożądliwości, a zabiegaj o sprawiedliwość, wiarę, miłość, pokój wraz z tymi, którzy wzywają Pana z czystego serca."
-"2Tm2,23": "Unikaj zaś głupich i niedouczonych rozmów, wiedząc, że rodzą kłótnie."
-"2Tm2,24": "A sługa Pana nie powinien wdawać się w kłótnie, lecz ma być uprzejmy względem wszystkich, zdolny do nauczania, cierpliwie znoszący złych;"
-"2Tm2,25": "Łagodnie nauczający tych, którzy się sprzeciwiają; może kiedyś Bóg da im pokutę, aby uznali prawdę;"
-"2Tm2,26": "Oprzytomnieli i wyrwali się z sideł diabła, przez którego zostali schwytani do pełnienia jego woli."
+"2Tm2,1":
+  text: "Ty więc, mój synu, wzmacniaj się w łasce, która jest w Chrystusie Jezusie."
+  tags: []
+"2Tm2,2":
+  text: "A co słyszałeś ode mnie wobec wielu świadków, to powierz wiernym ludziom, którzy będą zdolni nauczać także innych."
+  tags: []
+"2Tm2,3":
+  text: "Dlatego znoś trudy jak dobry żołnierz Jezusa Chrystusa."
+  tags: []
+"2Tm2,4":
+  text: "Nikt, kto pełni służbę żołnierską, nie wikła się w sprawy tego życia, aby podobać się temu, który go powołał na żołnierza."
+  tags: []
+"2Tm2,5":
+  text: "Również jeśli ktoś staje do zapasów, nie otrzymuje korony, jeżeli nie walczy prawidłowo."
+  tags: []
+"2Tm2,6":
+  text: "Rolnik, który pracuje, jako pierwszy powinien korzystać z plonów."
+  tags: []
+"2Tm2,7":
+  text: "Rozważ, co mówię, a niech Pan ci da zrozumienie we wszystkim."
+  tags: []
+"2Tm2,8":
+  text: "Pamiętaj, że Jezus Chrystus, potomek Dawida, powstał z martwych według mojej ewangelii;"
+  tags: []
+"2Tm2,9":
+  text: "Dla której znoszę cierpienia jak złoczyńca, aż do więzów, ale słowo Boże nie jest związane."
+  tags: []
+"2Tm2,10":
+  text: "Dlatego wszystko znoszę przez wzgląd na wybranych, aby i oni dostąpili zbawienia, które jest w Chrystusie Jezusie wraz z wieczną chwałą."
+  tags: []
+"2Tm2,11":
+  text: "Wiarygodne to słowa. Jeśli bowiem z nim umarliśmy, z nim też będziemy żyć."
+  tags: []
+"2Tm2,12":
+  text: "Jeśli cierpimy, z nim też będziemy królować, jeśli się go wyprzemy, i on się nas wyprze."
+  tags: []
+"2Tm2,13":
+  text: "Jeśli jesteśmy niewierni, on pozostaje wierny, bo samego siebie wyprzeć się nie może."
+  tags: []
+"2Tm2,14":
+  text: "To wszystko przypominaj, zaklinając ich przed Panem, aby się nie wdawali w spory o słowa, bo to niczemu nie służy, tylko prowadzi do zguby słuchaczy."
+  tags: []
+"2Tm2,15":
+  text: "Staraj się, abyś stanął przed Bogiem jako wypróbowany pracownik, który nie ma się czego wstydzić i który dobrze rozkłada słowo prawdy."
+  tags: []
+"2Tm2,16":
+  text: "Unikaj zaś pospolitej, czczej gadaniny, bo prowadzi ona do coraz większej bezbożności."
+  tags: []
+"2Tm2,17":
+  text: "A ich mowa szerzy się jak gangrena. Do nich należą Hymenajos i Filetos;"
+  tags: []
+"2Tm2,18":
+  text: "Którzy pobłądzili w sprawie prawdy, mówiąc, że zmartwychwstanie już nastąpiło, i wywracają wiarę niektórych."
+  tags: []
+"2Tm2,19":
+  text: "Mimo to fundament Boży stoi niewzruszony, mając taką pieczęć: Zna Pan tych, którzy należą do niego, oraz: Niech odstąpi od nieprawości każdy, kto wzywa imienia Chrystusa."
+  tags: []
+"2Tm2,20":
+  text: "W wielkim zaś domu znajdują się nie tylko naczynia złote i srebrne, lecz także drewniane i gliniane, niektóre do użytku zaszczytnego, a inne do niezaszczytnego."
+  tags: []
+"2Tm2,21":
+  text: "Jeśli więc ktoś oczyści samego siebie z tego wszystkiego, będzie naczyniem do użytku zaszczytnego, uświęconym i użytecznym dla Pana, przygotowanym do każdego dobrego czynu."
+  tags: []
+"2Tm2,22":
+  text: "Uciekaj też od młodzieńczych pożądliwości, a zabiegaj o sprawiedliwość, wiarę, miłość, pokój wraz z tymi, którzy wzywają Pana z czystego serca."
+  tags: []
+"2Tm2,23":
+  text: "Unikaj zaś głupich i niedouczonych rozmów, wiedząc, że rodzą kłótnie."
+  tags: []
+"2Tm2,24":
+  text: "A sługa Pana nie powinien wdawać się w kłótnie, lecz ma być uprzejmy względem wszystkich, zdolny do nauczania, cierpliwie znoszący złych;"
+  tags: []
+"2Tm2,25":
+  text: "Łagodnie nauczający tych, którzy się sprzeciwiają; może kiedyś Bóg da im pokutę, aby uznali prawdę;"
+  tags: []
+"2Tm2,26":
+  text: "Oprzytomnieli i wyrwali się z sideł diabła, przez którego zostali schwytani do pełnienia jego woli."
+  tags: []

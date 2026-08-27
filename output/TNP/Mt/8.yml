@@ -1,34 +1,102 @@
-"Mt8,1": "A gdy zszedł z góry, podążały za Nim wielkie tłumy;"
-"Mt8,2": "I oto przyszedł trędowaty, i oddał Mu pokłon, mówiąc: Panie! Jeślibyś chciał, możesz mnie oczyścić."
-"Mt8,3": "I Jezus wyciągnął rękę, i dotknął go, mówiąc: Chcę, zostań oczyszczony; i natychmiast został oczyszczony ze swojego trądu."
-"Mt8,4": "I Jezus powiedział do niego: Uważaj, abyś nikomu o tym nie mówił, ale idź, pokaż siebie kapłanowi, i ofiaruj dar, który nakazał Mojżesz, na świadectwo dla nich."
-"Mt8,5": "A gdy Jezus wszedł do Kafarnaum, przyszedł do Niego setnik i prosił Go, mówiąc:"
-"Mt8,6": "Panie! Sługa mój leży w domu sparaliżowany i strasznie cierpi."
-"Mt8,7": "A Jezus powiedział do niego: Ja przyjdę i uzdrowię go."
-"Mt8,8": "A setnik odpowiedział, mówiąc: Panie! Nie jestem godny, abyś wszedł pod mój dach, ale powiedz tylko słowo, a będzie uzdrowiony mój sługa."
-"Mt8,9": "Bo i ja jestem człowiekiem podległym władzy innego i mam pod sobą żołnierzy. Mówię jednemu: Idź, a idzie; a drugiemu: Przyjdź, a przychodzi; a swojemu słudze: Czyń to, a czyni."
-"Mt8,10": "A gdy Jezus to usłyszał, pełen podziwu powiedział do tych, którzy szli za Nim: Zaprawdę mówię wam, nawet w Izraelu nie znalazłem tak wielkiej wiary."
-"Mt8,11": "A mówię wam: Wielu przyjdzie ze wschodu i z zachodu, i spoczną przy stole z Abrahamem, Izaakiem i Jakubem w Królestwie Niebios."
-"Mt8,12": "Lecz synowie Królestwa zostaną wyrzuceni w ciemność zewnętrzną. Tam będzie płacz i zgrzytanie zębów."
-"Mt8,13": "I Jezus powiedział setnikowi: Idź, i jak uwierzyłeś, tak niech ci się stanie. I w tej godzinie jego sługa został uzdrowiony."
-"Mt8,14": "A gdy Jezus przyszedł do domu Piotra, ujrzał jego teściową złożoną chorobą i gorączkującą."
-"Mt8,15": "I dotknął jej ręki, i opuściła ją gorączka. A ona wstała i usługiwała im."
-"Mt8,16": "A gdy nastał wieczór, przyprowadzili do Niego wielu opętanych; i wypędził duchy słowem, i uzdrowił wszystkich, którzy mieli się źle;"
-"Mt8,17": "Aby wypełniło się to, co zostało powiedziane przez proroka Izajasza, mówiącego: On wziął na siebie nasze słabości i poniósł nasze choroby."
-"Mt8,18": "Jezus natomiast, widząc wokół siebie wielkie tłumy, rozkazał odpłynąć na drugą stronę."
-"Mt8,19": "I podszedł jeden uczony w Piśmie, i powiedział do Niego: Nauczycielu! Pójdę za Tobą, dokądkolwiek byś poszedł."
-"Mt8,20": "A Jezus mówi do niego: Lisy mają nory, a ptaki na niebie gniazda; ale Syn Człowieczy nie ma, gdzie by skłonił głowę."
-"Mt8,21": "A inny z Jego uczniów powiedział do Niego: Panie! Pozwól mi najpierw odejść i pogrzebać mojego ojca."
-"Mt8,22": "Ale Jezus powiedział mu: Pójdź za mną i pozwól umarłym pogrzebać swoich umarłych."
-"Mt8,23": "I gdy On wstąpił do łodzi, weszli za Nim i Jego uczniowie."
-"Mt8,24": "A oto wielkie trzęsienie stało się na morzu, tak że fale przykrywały łódź. On natomiast spał."
-"Mt8,25": "I podeszli Jego uczniowie, i obudzili Go, mówiąc: Panie, ratuj nas! Giniemy!"
-"Mt8,26": "I powiedział do nich: Czemu jesteście przestraszeni? O małej wiary! Wtedy wstał, skarcił wiatr i morze; i nastała wielka cisza."
-"Mt8,27": "A ludzie dziwili się, mówiąc: Kim jest Ten, że Mu i wiatry, i morze są posłuszne?"
-"Mt8,28": "I gdy przybył na drugą stronę do krainy Gergezeńczyków, wyszli Mu na spotkanie dwaj opętani przez demony, wyszli z grobowców, bardzo groźni, tak że nie było mocnego, aby przejść tą drogą."
-"Mt8,29": "A oto wrzeszczeli, mówiąc: Co nam i Tobie, Jezusie, Synu Boży?! Przyszedłeś tu przed czasem nas dręczyć?!"
-"Mt8,30": "A w oddaleniu od nich była wypasana wielka trzoda świń."
-"Mt8,31": "Wówczas demony prosiły Go, mówiąc: Jeśli nas wyganiasz, pozwól nam wejść w tę trzodę świń."
-"Mt8,32": "I powiedział im: Odejdźcie. A one wyszły, i weszły w trzodę świń, i oto ruszyła cała trzoda świń w dół urwiska, w morze, i zginęły w wodach."
-"Mt8,33": "Pasterze natomiast uciekli, i gdy odeszli do miasta, opowiedzieli wszystko, i to, co stało się z opętanymi."
-"Mt8,34": "A oto całe miasto wyszło na spotkanie Jezusa, a gdy Go ujrzeli, prosili, aby odszedł z ich granic."
+"Mt8,1":
+  text: "A gdy zszedł z góry, podążały za Nim wielkie tłumy;"
+  tags: []
+"Mt8,2":
+  text: "I oto przyszedł trędowaty, i oddał Mu pokłon, mówiąc: Panie! Jeślibyś chciał, możesz mnie oczyścić."
+  tags: []
+"Mt8,3":
+  text: "I Jezus wyciągnął rękę, i dotknął go, mówiąc: Chcę, zostań oczyszczony; i natychmiast został oczyszczony ze swojego trądu."
+  tags: []
+"Mt8,4":
+  text: "I Jezus powiedział do niego: Uważaj, abyś nikomu o tym nie mówił, ale idź, pokaż siebie kapłanowi, i ofiaruj dar, który nakazał Mojżesz, na świadectwo dla nich."
+  tags: []
+"Mt8,5":
+  text: "A gdy Jezus wszedł do Kafarnaum, przyszedł do Niego setnik i prosił Go, mówiąc:"
+  tags: []
+"Mt8,6":
+  text: "Panie! Sługa mój leży w domu sparaliżowany i strasznie cierpi."
+  tags: []
+"Mt8,7":
+  text: "A Jezus powiedział do niego: Ja przyjdę i uzdrowię go."
+  tags: []
+"Mt8,8":
+  text: "A setnik odpowiedział, mówiąc: Panie! Nie jestem godny, abyś wszedł pod mój dach, ale powiedz tylko słowo, a będzie uzdrowiony mój sługa."
+  tags: []
+"Mt8,9":
+  text: "Bo i ja jestem człowiekiem podległym władzy innego i mam pod sobą żołnierzy. Mówię jednemu: Idź, a idzie; a drugiemu: Przyjdź, a przychodzi; a swojemu słudze: Czyń to, a czyni."
+  tags: []
+"Mt8,10":
+  text: "A gdy Jezus to usłyszał, pełen podziwu powiedział do tych, którzy szli za Nim: Zaprawdę mówię wam, nawet w Izraelu nie znalazłem tak wielkiej wiary."
+  tags: []
+"Mt8,11":
+  text: "A mówię wam: Wielu przyjdzie ze wschodu i z zachodu, i spoczną przy stole z Abrahamem, Izaakiem i Jakubem w Królestwie Niebios."
+  tags: []
+"Mt8,12":
+  text: "Lecz synowie Królestwa zostaną wyrzuceni w ciemność zewnętrzną. Tam będzie płacz i zgrzytanie zębów."
+  tags: []
+"Mt8,13":
+  text: "I Jezus powiedział setnikowi: Idź, i jak uwierzyłeś, tak niech ci się stanie. I w tej godzinie jego sługa został uzdrowiony."
+  tags: []
+"Mt8,14":
+  text: "A gdy Jezus przyszedł do domu Piotra, ujrzał jego teściową złożoną chorobą i gorączkującą."
+  tags: []
+"Mt8,15":
+  text: "I dotknął jej ręki, i opuściła ją gorączka. A ona wstała i usługiwała im."
+  tags: []
+"Mt8,16":
+  text: "A gdy nastał wieczór, przyprowadzili do Niego wielu opętanych; i wypędził duchy słowem, i uzdrowił wszystkich, którzy mieli się źle;"
+  tags: []
+"Mt8,17":
+  text: "Aby wypełniło się to, co zostało powiedziane przez proroka Izajasza, mówiącego: On wziął na siebie nasze słabości i poniósł nasze choroby."
+  tags: []
+"Mt8,18":
+  text: "Jezus natomiast, widząc wokół siebie wielkie tłumy, rozkazał odpłynąć na drugą stronę."
+  tags: []
+"Mt8,19":
+  text: "I podszedł jeden uczony w Piśmie, i powiedział do Niego: Nauczycielu! Pójdę za Tobą, dokądkolwiek byś poszedł."
+  tags: []
+"Mt8,20":
+  text: "A Jezus mówi do niego: Lisy mają nory, a ptaki na niebie gniazda; ale Syn Człowieczy nie ma, gdzie by skłonił głowę."
+  tags: []
+"Mt8,21":
+  text: "A inny z Jego uczniów powiedział do Niego: Panie! Pozwól mi najpierw odejść i pogrzebać mojego ojca."
+  tags: []
+"Mt8,22":
+  text: "Ale Jezus powiedział mu: Pójdź za mną i pozwól umarłym pogrzebać swoich umarłych."
+  tags: []
+"Mt8,23":
+  text: "I gdy On wstąpił do łodzi, weszli za Nim i Jego uczniowie."
+  tags: []
+"Mt8,24":
+  text: "A oto wielkie trzęsienie stało się na morzu, tak że fale przykrywały łódź. On natomiast spał."
+  tags: []
+"Mt8,25":
+  text: "I podeszli Jego uczniowie, i obudzili Go, mówiąc: Panie, ratuj nas! Giniemy!"
+  tags: []
+"Mt8,26":
+  text: "I powiedział do nich: Czemu jesteście przestraszeni? O małej wiary! Wtedy wstał, skarcił wiatr i morze; i nastała wielka cisza."
+  tags: []
+"Mt8,27":
+  text: "A ludzie dziwili się, mówiąc: Kim jest Ten, że Mu i wiatry, i morze są posłuszne?"
+  tags: []
+"Mt8,28":
+  text: "I gdy przybył na drugą stronę do krainy Gergezeńczyków, wyszli Mu na spotkanie dwaj opętani przez demony, wyszli z grobowców, bardzo groźni, tak że nie było mocnego, aby przejść tą drogą."
+  tags: []
+"Mt8,29":
+  text: "A oto wrzeszczeli, mówiąc: Co nam i Tobie, Jezusie, Synu Boży?! Przyszedłeś tu przed czasem nas dręczyć?!"
+  tags: []
+"Mt8,30":
+  text: "A w oddaleniu od nich była wypasana wielka trzoda świń."
+  tags: []
+"Mt8,31":
+  text: "Wówczas demony prosiły Go, mówiąc: Jeśli nas wyganiasz, pozwól nam wejść w tę trzodę świń."
+  tags: []
+"Mt8,32":
+  text: "I powiedział im: Odejdźcie. A one wyszły, i weszły w trzodę świń, i oto ruszyła cała trzoda świń w dół urwiska, w morze, i zginęły w wodach."
+  tags: []
+"Mt8,33":
+  text: "Pasterze natomiast uciekli, i gdy odeszli do miasta, opowiedzieli wszystko, i to, co stało się z opętanymi."
+  tags: []
+"Mt8,34":
+  text: "A oto całe miasto wyszło na spotkanie Jezusa, a gdy Go ujrzeli, prosili, aby odszedł z ich granic."
+  tags: []

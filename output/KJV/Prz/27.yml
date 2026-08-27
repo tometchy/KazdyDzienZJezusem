@@ -1,27 +1,81 @@
-"Prz27,1": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth."
-"Prz27,2": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
-"Prz27,3": "A stone [is] heavy, and the sand weighty; but a fool's wrath [is] heavier than them both."
-"Prz27,4": "Wrath [is] cruel, and anger [is] outrageous; but who [is] able to stand before envy?"
-"Prz27,5": "Open rebuke [is] better than secret love."
-"Prz27,6": "Faithful [are] the wounds of a friend; but the kisses of an enemy [are] deceitful."
-"Prz27,7": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
-"Prz27,8": "As a bird that wandereth from her nest, so [is] a man that wandereth from his place."
-"Prz27,9": "Ointment and perfume rejoice the heart: so [doth] the sweetness of a man's friend by hearty counsel."
-"Prz27,10": "Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: [for] better [is] a neighbour [that is] near than a brother far off."
-"Prz27,11": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me."
-"Prz27,12": "A prudent [man] foreseeth the evil, [and] hideth himself; [but] the simple pass on, [and] are punished."
-"Prz27,13": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
-"Prz27,14": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
-"Prz27,15": "A continual dropping in a very rainy day and a contentious woman are alike."
-"Prz27,16": "Whosoever hideth her hideth the wind, and the ointment of his right hand, [which] bewrayeth [itself]."
-"Prz27,17": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
-"Prz27,18": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
-"Prz27,19": "As in water face [answereth] to face, so the heart of man to man."
-"Prz27,20": "Hell and destruction are never full; so the eyes of man are never satisfied."
-"Prz27,21": "[As] the fining pot for silver, and the furnace for gold; so [is] a man to his praise."
-"Prz27,22": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, [yet] will not his foolishness depart from him."
-"Prz27,23": "Be thou diligent to know the state of thy flocks, [and] look well to thy herds."
-"Prz27,24": "For riches [are] not for ever: and doth the crown [endure] to every generation?"
-"Prz27,25": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
-"Prz27,26": "The lambs [are] for thy clothing, and the goats [are] the price of the field."
-"Prz27,27": "And [thou shalt have] goats' milk enough for thy food, for the food of thy household, and [for] the maintenance for thy maidens."
+"Prz27,1":
+  text: "Boast not thyself of to morrow; for thou knowest not what a day may bring forth."
+  tags: []
+"Prz27,2":
+  text: "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
+  tags: []
+"Prz27,3":
+  text: "A stone [is] heavy, and the sand weighty; but a fool's wrath [is] heavier than them both."
+  tags: []
+"Prz27,4":
+  text: "Wrath [is] cruel, and anger [is] outrageous; but who [is] able to stand before envy?"
+  tags: []
+"Prz27,5":
+  text: "Open rebuke [is] better than secret love."
+  tags: []
+"Prz27,6":
+  text: "Faithful [are] the wounds of a friend; but the kisses of an enemy [are] deceitful."
+  tags: []
+"Prz27,7":
+  text: "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
+  tags: []
+"Prz27,8":
+  text: "As a bird that wandereth from her nest, so [is] a man that wandereth from his place."
+  tags: []
+"Prz27,9":
+  text: "Ointment and perfume rejoice the heart: so [doth] the sweetness of a man's friend by hearty counsel."
+  tags: []
+"Prz27,10":
+  text: "Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: [for] better [is] a neighbour [that is] near than a brother far off."
+  tags: []
+"Prz27,11":
+  text: "My son, be wise, and make my heart glad, that I may answer him that reproacheth me."
+  tags: []
+"Prz27,12":
+  text: "A prudent [man] foreseeth the evil, [and] hideth himself; [but] the simple pass on, [and] are punished."
+  tags: []
+"Prz27,13":
+  text: "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
+  tags: []
+"Prz27,14":
+  text: "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
+  tags: []
+"Prz27,15":
+  text: "A continual dropping in a very rainy day and a contentious woman are alike."
+  tags: []
+"Prz27,16":
+  text: "Whosoever hideth her hideth the wind, and the ointment of his right hand, [which] bewrayeth [itself]."
+  tags: []
+"Prz27,17":
+  text: "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+  tags: []
+"Prz27,18":
+  text: "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
+  tags: []
+"Prz27,19":
+  text: "As in water face [answereth] to face, so the heart of man to man."
+  tags: []
+"Prz27,20":
+  text: "Hell and destruction are never full; so the eyes of man are never satisfied."
+  tags: []
+"Prz27,21":
+  text: "[As] the fining pot for silver, and the furnace for gold; so [is] a man to his praise."
+  tags: []
+"Prz27,22":
+  text: "Though thou shouldest bray a fool in a mortar among wheat with a pestle, [yet] will not his foolishness depart from him."
+  tags: []
+"Prz27,23":
+  text: "Be thou diligent to know the state of thy flocks, [and] look well to thy herds."
+  tags: []
+"Prz27,24":
+  text: "For riches [are] not for ever: and doth the crown [endure] to every generation?"
+  tags: []
+"Prz27,25":
+  text: "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
+  tags: []
+"Prz27,26":
+  text: "The lambs [are] for thy clothing, and the goats [are] the price of the field."
+  tags: []
+"Prz27,27":
+  text: "And [thou shalt have] goats' milk enough for thy food, for the food of thy household, and [for] the maintenance for thy maidens."
+  tags: []

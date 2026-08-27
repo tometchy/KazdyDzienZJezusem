@@ -1,24 +1,72 @@
-"1Krn3,1": "Oto synowie Dawida, którzy urodzili mu się w Hebronie: pierworodny Ammon z Achinoam, Jizreelitki, drugi Daniel z Abigail, Karmelitki;"
-"1Krn3,2": "Trzeci Absalom, syn Maaki, córki Talmaja, króla Geszuru, czwarty Adoniasz, syn Chaggity;"
-"1Krn3,3": "Piąty Szefatiasz z Abitali, szósty Jitream z jego żony Egli."
-"1Krn3,4": "Tych sześciu urodziło mu się w Hebronie, gdzie królował przez siedem lat i sześć miesięcy. A trzydzieści trzy lata królował w Jerozolimie."
-"1Krn3,5": "Ci zaś urodzili mu się w Jerozolimie: Szima, Szobab, Natan i Salomon – ci czterej z Batszui, córki Ammiela."
-"1Krn3,6": "I Ibchar, Eliszama, Elifelet;"
-"1Krn3,7": "Nogah, Nefeg, Jafia;"
-"1Krn3,8": "Eliszama, Eliada i Elifelet – dziewięciu."
-"1Krn3,9": "Ci wszyscy byli synami Dawida, nie licząc synów z nałożnic, a ich siostrą była Tamar."
-"1Krn3,10": "Synem Salomona był Roboam, a jego synem Abia, jego synem Asa, jego synem Jehoszafat;"
-"1Krn3,11": "Jego synem Joram, jego synem Achazjasz, jego synem Joasz;"
-"1Krn3,12": "Jego synem Amazjasz, jego synem Azariasz, jego synem Jotam;"
-"1Krn3,13": "Jego synem Achaz, jego synem Ezechiasz, jego synem Manasses;"
-"1Krn3,14": "Jego synem Amon, jego synem Jozjasz;"
-"1Krn3,15": "A synami Jozjasza byli: pierworodny Jochanan, drugi Joakim, trzeci Sedekiasz, czwarty Szallum."
-"1Krn3,16": "Synowie Joakima: jego syn Jechoniasz i jego syn Sedekiasz."
-"1Krn3,17": "Synowie Jechoniasza: Assir, jego syn Szealatiel;"
-"1Krn3,18": "Malkiram, Pedajasz, Szeneassar, Jekamiasz, Hoszama i Nedabiasz."
-"1Krn3,19": "Synowie Pedajasza: Zorobabel, Szimei. Synowie Zorobabela: Meszullam i Chananiasz, a ich siostra – Szelomit;"
-"1Krn3,20": "I Chaszuba, Ohel, Berechiasz, Chasadiasz i Juszabchesed – pięciu."
-"1Krn3,21": "Synowie Chananiasza: Pelatiasz i Jesajasz. Synowie Refajasza, synowie Arnana, synowie Obadiasza, synowie Szekaniasza."
-"1Krn3,22": "Synowie Szekaniasza: Szemajasz; a synowie Szemajasza: Chattusz, Jigal, Bariach, Neariasz i Szafat – sześciu."
-"1Krn3,23": "Synowie Neariasza: Elioenaj, Ezechiasz i Azrikam – trzech."
-"1Krn3,24": "Synowie Elioenaja: Hodawiasz, Eliaszib, Pelajasz, Akkub, Jochanan, Delajasz, Anani – siedmiu."
+"1Krn3,1":
+  text: "Oto synowie Dawida, którzy urodzili mu się w Hebronie: pierworodny Ammon z Achinoam, Jizreelitki, drugi Daniel z Abigail, Karmelitki;"
+  tags: []
+"1Krn3,2":
+  text: "Trzeci Absalom, syn Maaki, córki Talmaja, króla Geszuru, czwarty Adoniasz, syn Chaggity;"
+  tags: []
+"1Krn3,3":
+  text: "Piąty Szefatiasz z Abitali, szósty Jitream z jego żony Egli."
+  tags: []
+"1Krn3,4":
+  text: "Tych sześciu urodziło mu się w Hebronie, gdzie królował przez siedem lat i sześć miesięcy. A trzydzieści trzy lata królował w Jerozolimie."
+  tags: []
+"1Krn3,5":
+  text: "Ci zaś urodzili mu się w Jerozolimie: Szima, Szobab, Natan i Salomon – ci czterej z Batszui, córki Ammiela."
+  tags: []
+"1Krn3,6":
+  text: "I Ibchar, Eliszama, Elifelet;"
+  tags: []
+"1Krn3,7":
+  text: "Nogah, Nefeg, Jafia;"
+  tags: []
+"1Krn3,8":
+  text: "Eliszama, Eliada i Elifelet – dziewięciu."
+  tags: []
+"1Krn3,9":
+  text: "Ci wszyscy byli synami Dawida, nie licząc synów z nałożnic, a ich siostrą była Tamar."
+  tags: []
+"1Krn3,10":
+  text: "Synem Salomona był Roboam, a jego synem Abia, jego synem Asa, jego synem Jehoszafat;"
+  tags: []
+"1Krn3,11":
+  text: "Jego synem Joram, jego synem Achazjasz, jego synem Joasz;"
+  tags: []
+"1Krn3,12":
+  text: "Jego synem Amazjasz, jego synem Azariasz, jego synem Jotam;"
+  tags: []
+"1Krn3,13":
+  text: "Jego synem Achaz, jego synem Ezechiasz, jego synem Manasses;"
+  tags: []
+"1Krn3,14":
+  text: "Jego synem Amon, jego synem Jozjasz;"
+  tags: []
+"1Krn3,15":
+  text: "A synami Jozjasza byli: pierworodny Jochanan, drugi Joakim, trzeci Sedekiasz, czwarty Szallum."
+  tags: []
+"1Krn3,16":
+  text: "Synowie Joakima: jego syn Jechoniasz i jego syn Sedekiasz."
+  tags: []
+"1Krn3,17":
+  text: "Synowie Jechoniasza: Assir, jego syn Szealatiel;"
+  tags: []
+"1Krn3,18":
+  text: "Malkiram, Pedajasz, Szeneassar, Jekamiasz, Hoszama i Nedabiasz."
+  tags: []
+"1Krn3,19":
+  text: "Synowie Pedajasza: Zorobabel, Szimei. Synowie Zorobabela: Meszullam i Chananiasz, a ich siostra – Szelomit;"
+  tags: []
+"1Krn3,20":
+  text: "I Chaszuba, Ohel, Berechiasz, Chasadiasz i Juszabchesed – pięciu."
+  tags: []
+"1Krn3,21":
+  text: "Synowie Chananiasza: Pelatiasz i Jesajasz. Synowie Refajasza, synowie Arnana, synowie Obadiasza, synowie Szekaniasza."
+  tags: []
+"1Krn3,22":
+  text: "Synowie Szekaniasza: Szemajasz; a synowie Szemajasza: Chattusz, Jigal, Bariach, Neariasz i Szafat – sześciu."
+  tags: []
+"1Krn3,23":
+  text: "Synowie Neariasza: Elioenaj, Ezechiasz i Azrikam – trzech."
+  tags: []
+"1Krn3,24":
+  text: "Synowie Elioenaja: Hodawiasz, Eliaszib, Pelajasz, Akkub, Jochanan, Delajasz, Anani – siedmiu."
+  tags: []

@@ -1,25 +1,75 @@
-"Hi12,1": "Potem Hiob odpowiedział:"
-"Hi12,2": "Doprawdy jesteście ludem i wraz z wami zginie mądrość."
-"Hi12,3": "Ale ja również mam rozum, jak i wy, i nie jestem od was gorszy. Kto nie zna tych rzeczy?"
-"Hi12,4": "Jestem pośmiewiskiem dla swojego przyjaciela; ja, który wołam do Boga, a on odpowiada; sprawiedliwy i doskonały jest pośmiewiskiem."
-"Hi12,5": "Ten, który jest bliski upadku, to pochodnia wzgardzona w umyśle tego, który żyje w pokoju."
-"Hi12,6": "Namioty łupieżców są spokojne i bezpieczni są ci, którzy drażnią Boga, a którym Bóg obficie daje w ręce."
-"Hi12,7": "Ale zapytaj zwierząt, a one cię pouczą, i ptaków nieba, a powiedzą tobie."
-"Hi12,8": "Albo rozmawiaj z ziemią, a ona cię nauczy, i opowiedzą ci ryby morskie."
-"Hi12,9": "Któż spośród nich wszystkich nie wie, że ręka PANA to wykonała?"
-"Hi12,10": "W jego ręku jest dusza wszelkiej istoty żywej i duch wszelkiego człowieka."
-"Hi12,11": "Czy ucho nie bada mowy, a podniebienie nie smakuje pokarmu?"
-"Hi12,12": "U starców jest mądrość, a w długości dni roztropność."
-"Hi12,13": "Ale u niego jest mądrość i siła, u niego rada i roztropność."
-"Hi12,14": "Oto on burzy, a nikt nie może odbudować, zamyka człowieka, a nikt nie może otworzyć."
-"Hi12,15": "Oto gdy zatrzyma wody, wysychają, gdy je wypuści, wywracają ziemię."
-"Hi12,16": "U niego jest moc i mądrość. Do niego należy zwiedziony i zwodziciel."
-"Hi12,17": "Pozbawia radców mądrości i sędziów czyni głupcami."
-"Hi12,18": "Rozwiązuje więzy królów i przepasuje ich biodra pasem."
-"Hi12,19": "Odprowadza złupionych książąt i wywraca mocarzy."
-"Hi12,20": "Odbiera mowę prawdomównym i zabiera starcom rozsądek."
-"Hi12,21": "Wylewa pogardę na książąt i osłabia siły mocarzy."
-"Hi12,22": "On odsłania głębokie rzeczy z ciemności i wyprowadza na światło cień śmierci."
-"Hi12,23": "Rozmnaża narody i wytraca je, rozszerza narody i pomniejsza je."
-"Hi12,24": "On zabiera serca przełożonym ludu ziemi i sprawia, że błądzą po pustyni bezdrożnej;"
-"Hi12,25": "I chodzą po omacku w ciemności bez światła, i sprawia, że zataczają się jak pijani."
+"Hi12,1":
+  text: "Potem Hiob odpowiedział:"
+  tags: []
+"Hi12,2":
+  text: "Doprawdy jesteście ludem i wraz z wami zginie mądrość."
+  tags: []
+"Hi12,3":
+  text: "Ale ja również mam rozum, jak i wy, i nie jestem od was gorszy. Kto nie zna tych rzeczy?"
+  tags: []
+"Hi12,4":
+  text: "Jestem pośmiewiskiem dla swojego przyjaciela; ja, który wołam do Boga, a on odpowiada; sprawiedliwy i doskonały jest pośmiewiskiem."
+  tags: []
+"Hi12,5":
+  text: "Ten, który jest bliski upadku, to pochodnia wzgardzona w umyśle tego, który żyje w pokoju."
+  tags: []
+"Hi12,6":
+  text: "Namioty łupieżców są spokojne i bezpieczni są ci, którzy drażnią Boga, a którym Bóg obficie daje w ręce."
+  tags: []
+"Hi12,7":
+  text: "Ale zapytaj zwierząt, a one cię pouczą, i ptaków nieba, a powiedzą tobie."
+  tags: []
+"Hi12,8":
+  text: "Albo rozmawiaj z ziemią, a ona cię nauczy, i opowiedzą ci ryby morskie."
+  tags: []
+"Hi12,9":
+  text: "Któż spośród nich wszystkich nie wie, że ręka PANA to wykonała?"
+  tags: []
+"Hi12,10":
+  text: "W jego ręku jest dusza wszelkiej istoty żywej i duch wszelkiego człowieka."
+  tags: []
+"Hi12,11":
+  text: "Czy ucho nie bada mowy, a podniebienie nie smakuje pokarmu?"
+  tags: []
+"Hi12,12":
+  text: "U starców jest mądrość, a w długości dni roztropność."
+  tags: []
+"Hi12,13":
+  text: "Ale u niego jest mądrość i siła, u niego rada i roztropność."
+  tags: []
+"Hi12,14":
+  text: "Oto on burzy, a nikt nie może odbudować, zamyka człowieka, a nikt nie może otworzyć."
+  tags: []
+"Hi12,15":
+  text: "Oto gdy zatrzyma wody, wysychają, gdy je wypuści, wywracają ziemię."
+  tags: []
+"Hi12,16":
+  text: "U niego jest moc i mądrość. Do niego należy zwiedziony i zwodziciel."
+  tags: []
+"Hi12,17":
+  text: "Pozbawia radców mądrości i sędziów czyni głupcami."
+  tags: []
+"Hi12,18":
+  text: "Rozwiązuje więzy królów i przepasuje ich biodra pasem."
+  tags: []
+"Hi12,19":
+  text: "Odprowadza złupionych książąt i wywraca mocarzy."
+  tags: []
+"Hi12,20":
+  text: "Odbiera mowę prawdomównym i zabiera starcom rozsądek."
+  tags: []
+"Hi12,21":
+  text: "Wylewa pogardę na książąt i osłabia siły mocarzy."
+  tags: []
+"Hi12,22":
+  text: "On odsłania głębokie rzeczy z ciemności i wyprowadza na światło cień śmierci."
+  tags: []
+"Hi12,23":
+  text: "Rozmnaża narody i wytraca je, rozszerza narody i pomniejsza je."
+  tags: []
+"Hi12,24":
+  text: "On zabiera serca przełożonym ludu ziemi i sprawia, że błądzą po pustyni bezdrożnej;"
+  tags: []
+"Hi12,25":
+  text: "I chodzą po omacku w ciemności bez światła, i sprawia, że zataczają się jak pijani."
+  tags: []

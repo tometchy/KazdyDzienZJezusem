@@ -1,33 +1,99 @@
-"J16,1": "To wam powiedziałem, abyście nie zostali złamani."
-"J16,2": "Wyłączać was będą z synagog; a nawet nadchodzi godzina, że każdy, kto was zabije, będzie uważał, że pełni służbę Bogu."
-"J16,3": "A to wam uczynią, gdyż nie poznali Ojca, ani mnie."
-"J16,4": "Lecz to wam powiedziałem, abyście, gdy przyjdzie ta godzina, przypomnieli sobie, że to ja wam powiedziałem; a nie mówiłem wam tego od początku, bo byłem z wami."
-"J16,5": "A teraz idę do Tego, który mnie posłał, a nikt z was nie pyta mnie: Dokąd idziesz?"
-"J16,6": "Ale dlatego, że o tym wam mówię, smutek zaczął napełniać wasze serce."
-"J16,7": "Lecz ja wam mówię prawdę: Pożyteczniej jest dla was, abym ja odszedł. Bo jeśli nie odejdę, Opiekun nie przyjdzie do was; ale jeśli odejdę, poślę Go do was."
-"J16,8": "A On, gdy przyjdzie, wykaże, że świat jest w błędzie odnośnie grzechu i odnośnie sprawiedliwości, i odnośnie sądu;"
-"J16,9": "Odnośnie grzechu, gdyż prawdziwie nie uwierzyli we mnie;"
-"J16,10": "Odnośnie sprawiedliwości także, gdyż idę do Ojca mojego i już mnie nie ujrzycie;"
-"J16,11": "Odnośnie sądu natomiast, bo przywódca tego świata jest osądzony."
-"J16,12": "Mam wam jeszcze wiele do powiedzenia, ale teraz nie możecie tego znieść."
-"J16,13": "Lecz gdy przyjdzie On, Duch Prawdy, wprowadzi was we wszelką prawdę; bo nie sam od siebie mówić będzie, ale cokolwiek usłyszy, mówić będzie i oznajmi wam o tym, co ma nadejść."
-"J16,14": "On mnie otoczy chwałą, gdyż z mego weźmie i wam oznajmi."
-"J16,15": "Wszystko, to co ma Ojciec, jest moje; dlatego powiedziałem, że z mego weźmie, i wam oznajmi."
-"J16,16": "Jeszcze chwila, a nie ujrzycie mnie i znowu chwila, a ujrzycie mnie, bo ja idę do Ojca."
-"J16,17": "Mówili więc do siebie nawzajem niektórzy z Jego uczniów: Co znaczy to, o czym nam mówi: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie, i że ja odchodzę do Ojca?"
-"J16,18": "Powiedzieli więc: Co to znaczy, gdy mówi: Chwila? Nie rozumiemy tego, co mówi."
-"J16,19": "Jezus więc poznał, że Go chcieli zapytać, i powiedział im: Pytacie się między sobą o to, co powiedziałem: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie."
-"J16,20": "Zaprawdę, zaprawdę mówię wam: Wy będziecie płakać i narzekać, a świat będzie się weselił; wy zostaniecie zasmuceni, ale smutek wasz obróci się w radość."
-"J16,21": "Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina; lecz gdy urodzi dziecko, już nie pamięta o cierpieniu, z powodu radości, że człowiek został zrodzony na świat."
-"J16,22": "Teraz więc i wy wprawdzie smucicie się; lecz ponownie ujrzę was, a będzie się radowało wasze serce, i nikt nie odbierze wam waszej radości."
-"J16,23": "A w tym dniu, o nic nie będziecie mnie pytać. Zaprawdę, zaprawdę mówię wam: O cokolwiek prosilibyście Ojca w moim imieniu, da wam."
-"J16,24": "Aż do teraz o nic nie prosiliście w moim imieniu; proście, a otrzymacie, aby radość wasza była pełna."
-"J16,25": "To mówiłem wam w podobieństwach; nadchodzi godzina, gdy już więcej nie będę mówić wam w podobieństwach, lecz otwarcie oznajmię wam o moim Ojcu."
-"J16,26": "W tym dniu będziecie prosić w moim imieniu; a nie mówię wam, że ja będę prosił Ojca za wami;"
-"J16,27": "Sam bowiem Ojciec miłuje was, dlatego że wy mnie umiłowaliście i wierzyliście, że ja wyszedłem od Boga."
-"J16,28": "Wyszedłem od Ojca i przyszedłem na świat; ponownie opuszczam świat i idę do Ojca."
-"J16,29": "Jego uczniowie powiedzieli do Niego: Oto teraz otwarcie mówisz i nie mówisz już do nas żadnego podobieństwa;"
-"J16,30": "Teraz wiemy, że wszystko wiesz i nie potrzebujesz, by ktoś Ciebie pytał. Na tej podstawie wierzymy, że wyszedłeś od Boga."
-"J16,31": "Jezus odpowiedział im: Dopiero teraz wierzycie?"
-"J16,32": "Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną."
-"J16,33": "To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat."
+"J16,1":
+  text: "To wam powiedziałem, abyście nie zostali złamani."
+  tags: []
+"J16,2":
+  text: "Wyłączać was będą z synagog; a nawet nadchodzi godzina, że każdy, kto was zabije, będzie uważał, że pełni służbę Bogu."
+  tags: []
+"J16,3":
+  text: "A to wam uczynią, gdyż nie poznali Ojca, ani mnie."
+  tags: []
+"J16,4":
+  text: "Lecz to wam powiedziałem, abyście, gdy przyjdzie ta godzina, przypomnieli sobie, że to ja wam powiedziałem; a nie mówiłem wam tego od początku, bo byłem z wami."
+  tags: []
+"J16,5":
+  text: "A teraz idę do Tego, który mnie posłał, a nikt z was nie pyta mnie: Dokąd idziesz?"
+  tags: []
+"J16,6":
+  text: "Ale dlatego, że o tym wam mówię, smutek zaczął napełniać wasze serce."
+  tags: []
+"J16,7":
+  text: "Lecz ja wam mówię prawdę: Pożyteczniej jest dla was, abym ja odszedł. Bo jeśli nie odejdę, Opiekun nie przyjdzie do was; ale jeśli odejdę, poślę Go do was."
+  tags: []
+"J16,8":
+  text: "A On, gdy przyjdzie, wykaże, że świat jest w błędzie odnośnie grzechu i odnośnie sprawiedliwości, i odnośnie sądu;"
+  tags: []
+"J16,9":
+  text: "Odnośnie grzechu, gdyż prawdziwie nie uwierzyli we mnie;"
+  tags: []
+"J16,10":
+  text: "Odnośnie sprawiedliwości także, gdyż idę do Ojca mojego i już mnie nie ujrzycie;"
+  tags: []
+"J16,11":
+  text: "Odnośnie sądu natomiast, bo przywódca tego świata jest osądzony."
+  tags: []
+"J16,12":
+  text: "Mam wam jeszcze wiele do powiedzenia, ale teraz nie możecie tego znieść."
+  tags: []
+"J16,13":
+  text: "Lecz gdy przyjdzie On, Duch Prawdy, wprowadzi was we wszelką prawdę; bo nie sam od siebie mówić będzie, ale cokolwiek usłyszy, mówić będzie i oznajmi wam o tym, co ma nadejść."
+  tags: []
+"J16,14":
+  text: "On mnie otoczy chwałą, gdyż z mego weźmie i wam oznajmi."
+  tags: []
+"J16,15":
+  text: "Wszystko, to co ma Ojciec, jest moje; dlatego powiedziałem, że z mego weźmie, i wam oznajmi."
+  tags: []
+"J16,16":
+  text: "Jeszcze chwila, a nie ujrzycie mnie i znowu chwila, a ujrzycie mnie, bo ja idę do Ojca."
+  tags: []
+"J16,17":
+  text: "Mówili więc do siebie nawzajem niektórzy z Jego uczniów: Co znaczy to, o czym nam mówi: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie, i że ja odchodzę do Ojca?"
+  tags: []
+"J16,18":
+  text: "Powiedzieli więc: Co to znaczy, gdy mówi: Chwila? Nie rozumiemy tego, co mówi."
+  tags: []
+"J16,19":
+  text: "Jezus więc poznał, że Go chcieli zapytać, i powiedział im: Pytacie się między sobą o to, co powiedziałem: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie."
+  tags: []
+"J16,20":
+  text: "Zaprawdę, zaprawdę mówię wam: Wy będziecie płakać i narzekać, a świat będzie się weselił; wy zostaniecie zasmuceni, ale smutek wasz obróci się w radość."
+  tags: []
+"J16,21":
+  text: "Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina; lecz gdy urodzi dziecko, już nie pamięta o cierpieniu, z powodu radości, że człowiek został zrodzony na świat."
+  tags: []
+"J16,22":
+  text: "Teraz więc i wy wprawdzie smucicie się; lecz ponownie ujrzę was, a będzie się radowało wasze serce, i nikt nie odbierze wam waszej radości."
+  tags: []
+"J16,23":
+  text: "A w tym dniu, o nic nie będziecie mnie pytać. Zaprawdę, zaprawdę mówię wam: O cokolwiek prosilibyście Ojca w moim imieniu, da wam."
+  tags: []
+"J16,24":
+  text: "Aż do teraz o nic nie prosiliście w moim imieniu; proście, a otrzymacie, aby radość wasza była pełna."
+  tags: []
+"J16,25":
+  text: "To mówiłem wam w podobieństwach; nadchodzi godzina, gdy już więcej nie będę mówić wam w podobieństwach, lecz otwarcie oznajmię wam o moim Ojcu."
+  tags: []
+"J16,26":
+  text: "W tym dniu będziecie prosić w moim imieniu; a nie mówię wam, że ja będę prosił Ojca za wami;"
+  tags: []
+"J16,27":
+  text: "Sam bowiem Ojciec miłuje was, dlatego że wy mnie umiłowaliście i wierzyliście, że ja wyszedłem od Boga."
+  tags: []
+"J16,28":
+  text: "Wyszedłem od Ojca i przyszedłem na świat; ponownie opuszczam świat i idę do Ojca."
+  tags: []
+"J16,29":
+  text: "Jego uczniowie powiedzieli do Niego: Oto teraz otwarcie mówisz i nie mówisz już do nas żadnego podobieństwa;"
+  tags: []
+"J16,30":
+  text: "Teraz wiemy, że wszystko wiesz i nie potrzebujesz, by ktoś Ciebie pytał. Na tej podstawie wierzymy, że wyszedłeś od Boga."
+  tags: []
+"J16,31":
+  text: "Jezus odpowiedział im: Dopiero teraz wierzycie?"
+  tags: []
+"J16,32":
+  text: "Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną."
+  tags: []
+"J16,33":
+  text: "To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat."
+  tags: []

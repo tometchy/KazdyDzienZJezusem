@@ -1,31 +1,93 @@
-"Wj22,1": "Jeśli ktoś ukradnie wołu lub owcę i zabije je albo sprzeda, odda pięć wołów za jednego wołu i cztery owce za jedną owcę."
-"Wj22,2": "Jeśli złodziej zostanie przyłapany przy włamaniu i tak pobity, że umrze, ten, kto zabił, nie będzie winien przelanej krwi."
-"Wj22,3": "Jeśli to zrobi po wschodzie słońca, będzie winien krwi, gdyż złodziej powinien wypłacić odszkodowanie. Jeśli nic nie ma, będzie sprzedany za swoją kradzież."
-"Wj22,4": "Jeśli zostaną znalezione w jego ręku skradzione dobra jeszcze żywe, czy to wół, czy osioł, czy owca, zwróci podwójnie."
-"Wj22,5": "Gdyby ktoś wypasł pole lub winnicę, bo puścił swoje bydło, aby się pasło na cudzym polu, wypłaci odszkodowanie z najlepszych plonów swego pola i z najlepszych plonów swej winnicy."
-"Wj22,6": "Jeśli wybuchnie ogień, a trafi na ciernie i spali stóg lub zboże na pniu, lub samo pole, ten, co wzniecił ogień, musi wypłacić odszkodowanie."
-"Wj22,7": "Jeśli ktoś da swemu bliźniemu pieniądze lub przedmioty do przechowania i zostanie to ukradzione z domu tego człowieka, to jeśli złodziej zostanie znaleziony, zwróci podwójnie."
-"Wj22,8": "Jeśli złodziej nie zostanie znaleziony, pan tego domu stawi się przed sędziami, by okazało się, czy nie wyciągnął ręki po własność swego bliźniego."
-"Wj22,9": "W każdej spornej sprawie o wołu, osła, owcę, szatę czy jakąkolwiek zgubę, gdyby ktoś powiedział, że to jest jego, sprawa obydwu ma trafić do sędziów; kogo sędziowie uznają winnym, ten wynagrodzi podwójnie swemu bliźniemu."
-"Wj22,10": "Jeśli ktoś odda swemu bliźniemu na przechowanie osła, wołu, owcę lub inne zwierzę, a ono zdechnie, zostanie okaleczone lub uprowadzone i nikt tego nie zobaczy;"
-"Wj22,11": "Wówczas przysięga przed PANEM rozstrzygnie między obydwoma, że nie wyciągnął ręki po własność swego bliźniego. Właściciel przyjmie tę przysięgę, a drugi nie wypłaci odszkodowania."
-"Wj22,12": "Jeśli jednak to zostało mu skradzione, wypłaci właścicielowi odszkodowanie."
-"Wj22,13": "Jeśli zostało rozszarpane, to przyniesie je jako dowód, a za rozszarpane nie zapłaci."
-"Wj22,14": "Jeśli ktoś pożyczy zwierzę od swego bliźniego, a ono zostanie okaleczone lub zdechnie podczas nieobecności jego właściciela, musi wypłacić odszkodowanie."
-"Wj22,15": "Jeśli jego właściciel był przy nim, nie zapłaci; a jeśli było wynajęte, zapłaci tylko za wynajem."
-"Wj22,16": "Jeśli ktoś uwiedzie dziewicę, która nie jest poślubiona, i położy się z nią, musi jej dać posag i weźmie ją sobie za żonę."
-"Wj22,17": "Jeśli jej ojciec żadną miarą nie zgodzi się dać mu jej, odważy pieniądze według zwyczaju panieńskiego posagu."
-"Wj22,18": "Nie zostawisz czarownicy przy życiu."
-"Wj22,19": "Każdy, kto spółkuje ze zwierzęciem, poniesie śmierć."
-"Wj22,20": "Kto składa ofiary bogom, poza samym PANEM, zostanie stracony."
-"Wj22,21": "Nie zrobisz krzywdy przybyszowi ani nie będziesz go uciskać, gdyż i wy byliście przybyszami w ziemi Egiptu."
-"Wj22,22": "Nie będziecie dręczyć żadnej wdowy ani sieroty."
-"Wj22,23": "Jeśli będziesz je dręczył, a one będą wołać do mnie, na pewno wysłucham ich wołania."
-"Wj22,24": "Wtedy rozpali się mój gniew i pobiję was mieczem, i wasze żony będą wdowami, a wasi synowie sierotami."
-"Wj22,25": "Jeśli pożyczysz pieniądze ubogiemu z mego ludu, który mieszka wśród was, nie postąpisz wobec niego jak lichwiarz, nie będziesz go obciążać lichwą."
-"Wj22,26": "Jeśli weźmiesz w zastaw szatę twego bliźniego, oddasz mu ją przed zachodem słońca;"
-"Wj22,27": "Bo to ubranie jest jedynym okryciem jego ciała, w tym też śpi. Jeśli będzie do mnie wołał, wysłucham go, bo jestem litościwy."
-"Wj22,28": "Nie będziesz złorzeczyć sędziom, a przełożonego twego ludu nie będziesz przeklinać."
-"Wj22,29": "Nie będziesz zwlekał ze złożeniem pierwocin twego zboża i płynnych zbiorów. Oddasz mi pierworodnego z twoich synów."
-"Wj22,30": "To samo zrobisz z twoimi wołami i owcami. Siedem dni pierworodny będzie ze swoją matką, a ósmego dnia oddasz mi go."
-"Wj22,31": "Będziecie dla mnie świętym ludem i nie będziecie jeść mięsa rozszarpanego na polu; wyrzucicie je psom."
+"Wj22,1":
+  text: "Jeśli ktoś ukradnie wołu lub owcę i zabije je albo sprzeda, odda pięć wołów za jednego wołu i cztery owce za jedną owcę."
+  tags: []
+"Wj22,2":
+  text: "Jeśli złodziej zostanie przyłapany przy włamaniu i tak pobity, że umrze, ten, kto zabił, nie będzie winien przelanej krwi."
+  tags: []
+"Wj22,3":
+  text: "Jeśli to zrobi po wschodzie słońca, będzie winien krwi, gdyż złodziej powinien wypłacić odszkodowanie. Jeśli nic nie ma, będzie sprzedany za swoją kradzież."
+  tags: []
+"Wj22,4":
+  text: "Jeśli zostaną znalezione w jego ręku skradzione dobra jeszcze żywe, czy to wół, czy osioł, czy owca, zwróci podwójnie."
+  tags: []
+"Wj22,5":
+  text: "Gdyby ktoś wypasł pole lub winnicę, bo puścił swoje bydło, aby się pasło na cudzym polu, wypłaci odszkodowanie z najlepszych plonów swego pola i z najlepszych plonów swej winnicy."
+  tags: []
+"Wj22,6":
+  text: "Jeśli wybuchnie ogień, a trafi na ciernie i spali stóg lub zboże na pniu, lub samo pole, ten, co wzniecił ogień, musi wypłacić odszkodowanie."
+  tags: []
+"Wj22,7":
+  text: "Jeśli ktoś da swemu bliźniemu pieniądze lub przedmioty do przechowania i zostanie to ukradzione z domu tego człowieka, to jeśli złodziej zostanie znaleziony, zwróci podwójnie."
+  tags: []
+"Wj22,8":
+  text: "Jeśli złodziej nie zostanie znaleziony, pan tego domu stawi się przed sędziami, by okazało się, czy nie wyciągnął ręki po własność swego bliźniego."
+  tags: []
+"Wj22,9":
+  text: "W każdej spornej sprawie o wołu, osła, owcę, szatę czy jakąkolwiek zgubę, gdyby ktoś powiedział, że to jest jego, sprawa obydwu ma trafić do sędziów; kogo sędziowie uznają winnym, ten wynagrodzi podwójnie swemu bliźniemu."
+  tags: []
+"Wj22,10":
+  text: "Jeśli ktoś odda swemu bliźniemu na przechowanie osła, wołu, owcę lub inne zwierzę, a ono zdechnie, zostanie okaleczone lub uprowadzone i nikt tego nie zobaczy;"
+  tags: []
+"Wj22,11":
+  text: "Wówczas przysięga przed PANEM rozstrzygnie między obydwoma, że nie wyciągnął ręki po własność swego bliźniego. Właściciel przyjmie tę przysięgę, a drugi nie wypłaci odszkodowania."
+  tags: []
+"Wj22,12":
+  text: "Jeśli jednak to zostało mu skradzione, wypłaci właścicielowi odszkodowanie."
+  tags: []
+"Wj22,13":
+  text: "Jeśli zostało rozszarpane, to przyniesie je jako dowód, a za rozszarpane nie zapłaci."
+  tags: []
+"Wj22,14":
+  text: "Jeśli ktoś pożyczy zwierzę od swego bliźniego, a ono zostanie okaleczone lub zdechnie podczas nieobecności jego właściciela, musi wypłacić odszkodowanie."
+  tags: []
+"Wj22,15":
+  text: "Jeśli jego właściciel był przy nim, nie zapłaci; a jeśli było wynajęte, zapłaci tylko za wynajem."
+  tags: []
+"Wj22,16":
+  text: "Jeśli ktoś uwiedzie dziewicę, która nie jest poślubiona, i położy się z nią, musi jej dać posag i weźmie ją sobie za żonę."
+  tags: []
+"Wj22,17":
+  text: "Jeśli jej ojciec żadną miarą nie zgodzi się dać mu jej, odważy pieniądze według zwyczaju panieńskiego posagu."
+  tags: []
+"Wj22,18":
+  text: "Nie zostawisz czarownicy przy życiu."
+  tags: []
+"Wj22,19":
+  text: "Każdy, kto spółkuje ze zwierzęciem, poniesie śmierć."
+  tags: []
+"Wj22,20":
+  text: "Kto składa ofiary bogom, poza samym PANEM, zostanie stracony."
+  tags: []
+"Wj22,21":
+  text: "Nie zrobisz krzywdy przybyszowi ani nie będziesz go uciskać, gdyż i wy byliście przybyszami w ziemi Egiptu."
+  tags: []
+"Wj22,22":
+  text: "Nie będziecie dręczyć żadnej wdowy ani sieroty."
+  tags: []
+"Wj22,23":
+  text: "Jeśli będziesz je dręczył, a one będą wołać do mnie, na pewno wysłucham ich wołania."
+  tags: []
+"Wj22,24":
+  text: "Wtedy rozpali się mój gniew i pobiję was mieczem, i wasze żony będą wdowami, a wasi synowie sierotami."
+  tags: []
+"Wj22,25":
+  text: "Jeśli pożyczysz pieniądze ubogiemu z mego ludu, który mieszka wśród was, nie postąpisz wobec niego jak lichwiarz, nie będziesz go obciążać lichwą."
+  tags: []
+"Wj22,26":
+  text: "Jeśli weźmiesz w zastaw szatę twego bliźniego, oddasz mu ją przed zachodem słońca;"
+  tags: []
+"Wj22,27":
+  text: "Bo to ubranie jest jedynym okryciem jego ciała, w tym też śpi. Jeśli będzie do mnie wołał, wysłucham go, bo jestem litościwy."
+  tags: []
+"Wj22,28":
+  text: "Nie będziesz złorzeczyć sędziom, a przełożonego twego ludu nie będziesz przeklinać."
+  tags: []
+"Wj22,29":
+  text: "Nie będziesz zwlekał ze złożeniem pierwocin twego zboża i płynnych zbiorów. Oddasz mi pierworodnego z twoich synów."
+  tags: []
+"Wj22,30":
+  text: "To samo zrobisz z twoimi wołami i owcami. Siedem dni pierworodny będzie ze swoją matką, a ósmego dnia oddasz mi go."
+  tags: []
+"Wj22,31":
+  text: "Będziecie dla mnie świętym ludem i nie będziecie jeść mięsa rozszarpanego na polu; wyrzucicie je psom."
+  tags: []

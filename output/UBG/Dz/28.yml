@@ -1,31 +1,93 @@
-"Dz28,1": "Po ocaleniu dowiedzieli się, że ta wyspa nazywa się Malta."
-"Dz28,2": "A barbarzyńcy okazali nam niezwykłą życzliwość. Rozpalili bowiem ognisko i przyjęli nas, bo padał deszcz i było zimno."
-"Dz28,3": "A gdy Paweł nazbierał naręcze chrustu i nałożył na ogień, na skutek gorąca wypełzła żmija i uczepiła się jego ręki."
-"Dz28,4": "Kiedy barbarzyńcy zobaczyli gada wiszącego u jego ręki, mówili między sobą: Ten człowiek na pewno jest mordercą, bo choć wyszedł cało z morza, zemsta nie pozwala mu żyć."
-"Dz28,5": "Lecz on strząsnął gada w ogień i nie doznał nic złego."
-"Dz28,6": "A oni oczekiwali, że spuchnie albo nagle padnie martwy. Lecz gdy długo czekali i widzieli, że nic złego mu się nie stało, zmienili zdanie i mówili, że jest bogiem."
-"Dz28,7": "W pobliżu tego miejsca znajdowały się posiadłości naczelnika wyspy, imieniem Publiusz, który nas przyjął i przez trzy dni po przyjacielsku gościł."
-"Dz28,8": "A ojciec Publiusza leżał, bo miał gorączkę i czerwonkę. Paweł poszedł do niego i modlił się, a położywszy na nim ręce, uzdrowił go."
-"Dz28,9": "Po tym wydarzeniu przychodzili również inni chorzy z wyspy i byli uzdrawiani."
-"Dz28,10": "Okazali nam oni wielki szacunek, a gdy mieliśmy odpływać, dali wszystko, co nam było potrzebne."
-"Dz28,11": "Po trzech miesiącach odpłynęliśmy na statku aleksandryjskim z godłem Kastora i Polluksa, który przezimował na tej wyspie."
-"Dz28,12": "Przybywszy do Syrakuz, pozostaliśmy tam trzy dni."
-"Dz28,13": "Stamtąd, płynąc łukiem, dotarliśmy do Regium. Po upływie jednego dnia, gdy powiał wiatr południowy, nazajutrz przypłynęliśmy do Puteoli."
-"Dz28,14": "Tam spotkaliśmy braci, którzy nas uprosili, żebyśmy pozostali u nich siedem dni. I tak udaliśmy się do Rzymu."
-"Dz28,15": "Tamtejsi bracia, gdy usłyszeli o nas, wyszli nam naprzeciw aż do Forum Appiusza i do Trzech Gospód. Kiedy Paweł ich zobaczył, podziękował Bogu i nabrał otuchy."
-"Dz28,16": "A gdy przybyliśmy do Rzymu, setnik oddał więźniów dowódcy wojska, ale Pawłowi pozwolono mieszkać osobno z żołnierzem, który go pilnował."
-"Dz28,17": "Po trzech dniach Paweł zaprosił przywódców żydowskich. Kiedy się zeszli, powiedział do nich: Mężowie bracia, nic nie uczyniłem przeciwko ludowi i zwyczajom ojczystym, a jednak zostałem wydany w Jerozolimie jako więzień w ręce Rzymian;"
-"Dz28,18": "Którzy po przesłuchaniu chcieli mnie wypuścić, bo nie było we mnie nic zasługującego na śmierć."
-"Dz28,19": "Lecz gdy Żydzi się temu sprzeciwiali, musiałem odwołać się do cesarza, nie chcąc jednak w czymkolwiek oskarżać mego narodu."
-"Dz28,20": "Dlatego też zaprosiłem was, aby się z wami zobaczyć i porozmawiać, bo z powodu nadziei Izraela jestem związany tym łańcuchem."
-"Dz28,21": "Lecz oni powiedzieli do niego: Nie otrzymaliśmy z Judei żadnych listów o tobie ani żaden z przybyłych braci nie oznajmił, ani nie mówił o tobie nic złego."
-"Dz28,22": "Pragniemy jednak od ciebie usłyszeć, co myślisz, bo wiemy o tym stronnictwie, że wszędzie mówią przeciwko niemu."
-"Dz28,23": "Wyznaczyli mu dzień i przyszło wielu do niego do kwatery, a on od rana do wieczora przytaczał im świadectwa o królestwie Bożym i przekonywał o Jezusie na podstawie Prawa Mojżesza i Proroków."
-"Dz28,24": "I niektórzy uwierzyli temu, co mówił, a inni nie uwierzyli."
-"Dz28,25": "Poróżnieni ze sobą rozeszli się, gdy Paweł powiedział to jedno: Słusznie Duch Święty powiedział przez proroka Izajasza do naszych ojców:"
-"Dz28,26": "Idź do tego ludu i mów: Słuchając, będziecie słyszeć, ale nie zrozumiecie, i patrząc, będziecie widzieć, ale nie zobaczycie."
-"Dz28,27": "Utyło bowiem serce tego ludu, stępiały ich uszy i zamknęli swe oczy, żeby oczami nie widzieli ani uszami nie słyszeli, a sercem nie zrozumieli i nie nawrócili się, i żebym ich nie uzdrowił."
-"Dz28,28": "Niech wam więc będzie wiadome, że poganom zostało posłane to zbawienie Boże, a oni będą słuchać."
-"Dz28,29": "A gdy to powiedział, Żydzi odeszli, wiodąc ze sobą zacięty spór."
-"Dz28,30": "Przez całe dwa lata Paweł mieszkał w wynajętym mieszkaniu i przyjmował wszystkich, którzy przychodzili do niego;"
-"Dz28,31": "Głosząc królestwo Boże i nauczając tego, co dotyczy Pana Jezusa Chrystusa, ze wszelką odwagą i bez przeszkód."
+"Dz28,1":
+  text: "Po ocaleniu dowiedzieli się, że ta wyspa nazywa się Malta."
+  tags: []
+"Dz28,2":
+  text: "A barbarzyńcy okazali nam niezwykłą życzliwość. Rozpalili bowiem ognisko i przyjęli nas, bo padał deszcz i było zimno."
+  tags: []
+"Dz28,3":
+  text: "A gdy Paweł nazbierał naręcze chrustu i nałożył na ogień, na skutek gorąca wypełzła żmija i uczepiła się jego ręki."
+  tags: []
+"Dz28,4":
+  text: "Kiedy barbarzyńcy zobaczyli gada wiszącego u jego ręki, mówili między sobą: Ten człowiek na pewno jest mordercą, bo choć wyszedł cało z morza, zemsta nie pozwala mu żyć."
+  tags: []
+"Dz28,5":
+  text: "Lecz on strząsnął gada w ogień i nie doznał nic złego."
+  tags: []
+"Dz28,6":
+  text: "A oni oczekiwali, że spuchnie albo nagle padnie martwy. Lecz gdy długo czekali i widzieli, że nic złego mu się nie stało, zmienili zdanie i mówili, że jest bogiem."
+  tags: []
+"Dz28,7":
+  text: "W pobliżu tego miejsca znajdowały się posiadłości naczelnika wyspy, imieniem Publiusz, który nas przyjął i przez trzy dni po przyjacielsku gościł."
+  tags: []
+"Dz28,8":
+  text: "A ojciec Publiusza leżał, bo miał gorączkę i czerwonkę. Paweł poszedł do niego i modlił się, a położywszy na nim ręce, uzdrowił go."
+  tags: []
+"Dz28,9":
+  text: "Po tym wydarzeniu przychodzili również inni chorzy z wyspy i byli uzdrawiani."
+  tags: []
+"Dz28,10":
+  text: "Okazali nam oni wielki szacunek, a gdy mieliśmy odpływać, dali wszystko, co nam było potrzebne."
+  tags: []
+"Dz28,11":
+  text: "Po trzech miesiącach odpłynęliśmy na statku aleksandryjskim z godłem Kastora i Polluksa, który przezimował na tej wyspie."
+  tags: []
+"Dz28,12":
+  text: "Przybywszy do Syrakuz, pozostaliśmy tam trzy dni."
+  tags: []
+"Dz28,13":
+  text: "Stamtąd, płynąc łukiem, dotarliśmy do Regium. Po upływie jednego dnia, gdy powiał wiatr południowy, nazajutrz przypłynęliśmy do Puteoli."
+  tags: []
+"Dz28,14":
+  text: "Tam spotkaliśmy braci, którzy nas uprosili, żebyśmy pozostali u nich siedem dni. I tak udaliśmy się do Rzymu."
+  tags: []
+"Dz28,15":
+  text: "Tamtejsi bracia, gdy usłyszeli o nas, wyszli nam naprzeciw aż do Forum Appiusza i do Trzech Gospód. Kiedy Paweł ich zobaczył, podziękował Bogu i nabrał otuchy."
+  tags: []
+"Dz28,16":
+  text: "A gdy przybyliśmy do Rzymu, setnik oddał więźniów dowódcy wojska, ale Pawłowi pozwolono mieszkać osobno z żołnierzem, który go pilnował."
+  tags: []
+"Dz28,17":
+  text: "Po trzech dniach Paweł zaprosił przywódców żydowskich. Kiedy się zeszli, powiedział do nich: Mężowie bracia, nic nie uczyniłem przeciwko ludowi i zwyczajom ojczystym, a jednak zostałem wydany w Jerozolimie jako więzień w ręce Rzymian;"
+  tags: []
+"Dz28,18":
+  text: "Którzy po przesłuchaniu chcieli mnie wypuścić, bo nie było we mnie nic zasługującego na śmierć."
+  tags: []
+"Dz28,19":
+  text: "Lecz gdy Żydzi się temu sprzeciwiali, musiałem odwołać się do cesarza, nie chcąc jednak w czymkolwiek oskarżać mego narodu."
+  tags: []
+"Dz28,20":
+  text: "Dlatego też zaprosiłem was, aby się z wami zobaczyć i porozmawiać, bo z powodu nadziei Izraela jestem związany tym łańcuchem."
+  tags: []
+"Dz28,21":
+  text: "Lecz oni powiedzieli do niego: Nie otrzymaliśmy z Judei żadnych listów o tobie ani żaden z przybyłych braci nie oznajmił, ani nie mówił o tobie nic złego."
+  tags: []
+"Dz28,22":
+  text: "Pragniemy jednak od ciebie usłyszeć, co myślisz, bo wiemy o tym stronnictwie, że wszędzie mówią przeciwko niemu."
+  tags: []
+"Dz28,23":
+  text: "Wyznaczyli mu dzień i przyszło wielu do niego do kwatery, a on od rana do wieczora przytaczał im świadectwa o królestwie Bożym i przekonywał o Jezusie na podstawie Prawa Mojżesza i Proroków."
+  tags: []
+"Dz28,24":
+  text: "I niektórzy uwierzyli temu, co mówił, a inni nie uwierzyli."
+  tags: []
+"Dz28,25":
+  text: "Poróżnieni ze sobą rozeszli się, gdy Paweł powiedział to jedno: Słusznie Duch Święty powiedział przez proroka Izajasza do naszych ojców:"
+  tags: []
+"Dz28,26":
+  text: "Idź do tego ludu i mów: Słuchając, będziecie słyszeć, ale nie zrozumiecie, i patrząc, będziecie widzieć, ale nie zobaczycie."
+  tags: []
+"Dz28,27":
+  text: "Utyło bowiem serce tego ludu, stępiały ich uszy i zamknęli swe oczy, żeby oczami nie widzieli ani uszami nie słyszeli, a sercem nie zrozumieli i nie nawrócili się, i żebym ich nie uzdrowił."
+  tags: []
+"Dz28,28":
+  text: "Niech wam więc będzie wiadome, że poganom zostało posłane to zbawienie Boże, a oni będą słuchać."
+  tags: []
+"Dz28,29":
+  text: "A gdy to powiedział, Żydzi odeszli, wiodąc ze sobą zacięty spór."
+  tags: []
+"Dz28,30":
+  text: "Przez całe dwa lata Paweł mieszkał w wynajętym mieszkaniu i przyjmował wszystkich, którzy przychodzili do niego;"
+  tags: []
+"Dz28,31":
+  text: "Głosząc królestwo Boże i nauczając tego, co dotyczy Pana Jezusa Chrystusa, ze wszelką odwagą i bez przeszkód."
+  tags: []

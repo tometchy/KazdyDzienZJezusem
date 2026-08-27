@@ -1,30 +1,90 @@
-"Mt11,1": "Kiedy Jezus skończył rozkazywać swoim dwunastu uczniom, odszedł stamtąd, aby nauczać i głosić w ich miastach."
-"Mt11,2": "A gdy Jan usłyszał w więzieniu o czynach Chrystusa, posłał dwóch ze swoich uczniów;"
-"Mt11,3": "Z pytaniem: Czy ty jesteś tym, który ma przyjść, czy mamy oczekiwać innego?"
-"Mt11,4": "A Jezus odpowiedział im: Idźcie i oznajmijcie Janowi, co słyszycie i widzicie."
-"Mt11,5": "Ślepi widzą, chromi chodzą, trędowaci zostają oczyszczeni, głusi słyszą, umarli zmartwychwstają, a ubogim opowiadana jest ewangelia."
-"Mt11,6": "A błogosławiony jest ten, kto się nie zgorszy z mojego powodu."
-"Mt11,7": "A gdy odeszli, Jezus zaczął mówić do tłumów o Janie: Co wyszliście oglądać na pustyni? Trzcinę kołyszącą się na wietrze?"
-"Mt11,8": "Ale co wyszliście zobaczyć? Człowieka ubranego w miękkie szaty? Oto ci, którzy noszą miękkie szaty, są w domach królewskich."
-"Mt11,9": "Ale co wyszliście zobaczyć? Proroka? Owszem, mówię wam, nawet więcej niż proroka."
-"Mt11,10": "Bo on jest tym, o którym jest napisane: Oto ja posyłam mego posłańca przed twoim obliczem, który przygotuje twoją drogę przed tobą."
-"Mt11,11": "Zaprawdę powiadam wam: Nie powstał z tych, którzy rodzą się z kobiet, większy od Jana Chrzciciela. Ale ten, kto jest najmniejszy w królestwie niebieskim, jest większy niż on."
-"Mt11,12": "A od dni Jana Chrzciciela aż dotąd królestwo niebieskie doznaje gwałtu i gwałtownicy je zdobywają."
-"Mt11,13": "Bo wszyscy Prorocy i Prawo prorokowali aż do Jana."
-"Mt11,14": "A jeśli chcecie to przyjąć, on jest Eliaszem, który miał przyjść."
-"Mt11,15": "Kto ma uszy do słuchania, niech słucha."
-"Mt11,16": "Ale do kogo przyrównam to pokolenie? Podobne jest do dzieci, które siedzą na rynku i wołają na swoich towarzyszy:"
-"Mt11,17": "Graliśmy wam na flecie, a nie tańczyliście; śpiewaliśmy pieśni żałobne, a nie płakaliście."
-"Mt11,18": "Przyszedł bowiem Jan, nie jadł i nie pił, a mówią: Ma demona."
-"Mt11,19": "Przyszedł Syn Człowieczy, jedząc i pijąc, a mówią: Oto żarłok i pijak, przyjaciel celników i grzeszników. Lecz usprawiedliwiona jest mądrość przez swoje dzieci."
-"Mt11,20": "Wtedy zaczął ganić miasta, w których działo się najwięcej jego cudów, że nie pokutowały, mówiąc:"
-"Mt11,21": "Biada tobie, Korozain! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie działy się te cuda, które się w was dokonały, dawno by w worze i popiele pokutowały."
-"Mt11,22": "Ale mówię wam: Lżej będzie Tyrowi i Sydonowi w dniu sądu niż wam."
-"Mt11,23": "A ty, Kafarnaum, które jesteś wywyższone aż do nieba, aż do piekła będziesz strącone. Bo gdyby w Sodomie działy się cuda, które się w tobie dokonały, przetrwałaby aż do dziś."
-"Mt11,24": "Ale mówię wam: Lżej będzie ziemi Sodomy w dzień sądu niż tobie."
-"Mt11,25": "W tym czasie Jezus powiedział: Wysławiam cię, Ojcze, Panie nieba i ziemi, że zakryłeś te sprawy przed mądrymi i roztropnymi, a objawiłeś je niemowlętom."
-"Mt11,26": "Tak, Ojcze, gdyż tak się tobie upodobało."
-"Mt11,27": "Wszystko zostało mi dane od mego Ojca i nikt nie zna Syna, tylko Ojciec, ani nikt nie zna Ojca, tylko Syn i ten, komu Syn zechce objawić."
-"Mt11,28": "Przyjdźcie do mnie wszyscy, którzy jesteście spracowani i obciążeni, a ja wam dam odpoczynek."
-"Mt11,29": "Weźcie na siebie moje jarzmo i uczcie się ode mnie, że jestem cichy i pokornego serca, a znajdziecie odpoczynek dla waszych dusz."
-"Mt11,30": "Moje jarzmo bowiem jest przyjemne, a moje brzemię lekkie."
+"Mt11,1":
+  text: "Kiedy Jezus skończył rozkazywać swoim dwunastu uczniom, odszedł stamtąd, aby nauczać i głosić w ich miastach."
+  tags: []
+"Mt11,2":
+  text: "A gdy Jan usłyszał w więzieniu o czynach Chrystusa, posłał dwóch ze swoich uczniów;"
+  tags: []
+"Mt11,3":
+  text: "Z pytaniem: Czy ty jesteś tym, który ma przyjść, czy mamy oczekiwać innego?"
+  tags: []
+"Mt11,4":
+  text: "A Jezus odpowiedział im: Idźcie i oznajmijcie Janowi, co słyszycie i widzicie."
+  tags: []
+"Mt11,5":
+  text: "Ślepi widzą, chromi chodzą, trędowaci zostają oczyszczeni, głusi słyszą, umarli zmartwychwstają, a ubogim opowiadana jest ewangelia."
+  tags: []
+"Mt11,6":
+  text: "A błogosławiony jest ten, kto się nie zgorszy z mojego powodu."
+  tags: []
+"Mt11,7":
+  text: "A gdy odeszli, Jezus zaczął mówić do tłumów o Janie: Co wyszliście oglądać na pustyni? Trzcinę kołyszącą się na wietrze?"
+  tags: []
+"Mt11,8":
+  text: "Ale co wyszliście zobaczyć? Człowieka ubranego w miękkie szaty? Oto ci, którzy noszą miękkie szaty, są w domach królewskich."
+  tags: []
+"Mt11,9":
+  text: "Ale co wyszliście zobaczyć? Proroka? Owszem, mówię wam, nawet więcej niż proroka."
+  tags: []
+"Mt11,10":
+  text: "Bo on jest tym, o którym jest napisane: Oto ja posyłam mego posłańca przed twoim obliczem, który przygotuje twoją drogę przed tobą."
+  tags: []
+"Mt11,11":
+  text: "Zaprawdę powiadam wam: Nie powstał z tych, którzy rodzą się z kobiet, większy od Jana Chrzciciela. Ale ten, kto jest najmniejszy w królestwie niebieskim, jest większy niż on."
+  tags: []
+"Mt11,12":
+  text: "A od dni Jana Chrzciciela aż dotąd królestwo niebieskie doznaje gwałtu i gwałtownicy je zdobywają."
+  tags: []
+"Mt11,13":
+  text: "Bo wszyscy Prorocy i Prawo prorokowali aż do Jana."
+  tags: []
+"Mt11,14":
+  text: "A jeśli chcecie to przyjąć, on jest Eliaszem, który miał przyjść."
+  tags: []
+"Mt11,15":
+  text: "Kto ma uszy do słuchania, niech słucha."
+  tags: []
+"Mt11,16":
+  text: "Ale do kogo przyrównam to pokolenie? Podobne jest do dzieci, które siedzą na rynku i wołają na swoich towarzyszy:"
+  tags: []
+"Mt11,17":
+  text: "Graliśmy wam na flecie, a nie tańczyliście; śpiewaliśmy pieśni żałobne, a nie płakaliście."
+  tags: []
+"Mt11,18":
+  text: "Przyszedł bowiem Jan, nie jadł i nie pił, a mówią: Ma demona."
+  tags: []
+"Mt11,19":
+  text: "Przyszedł Syn Człowieczy, jedząc i pijąc, a mówią: Oto żarłok i pijak, przyjaciel celników i grzeszników. Lecz usprawiedliwiona jest mądrość przez swoje dzieci."
+  tags: []
+"Mt11,20":
+  text: "Wtedy zaczął ganić miasta, w których działo się najwięcej jego cudów, że nie pokutowały, mówiąc:"
+  tags: []
+"Mt11,21":
+  text: "Biada tobie, Korozain! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie działy się te cuda, które się w was dokonały, dawno by w worze i popiele pokutowały."
+  tags: []
+"Mt11,22":
+  text: "Ale mówię wam: Lżej będzie Tyrowi i Sydonowi w dniu sądu niż wam."
+  tags: []
+"Mt11,23":
+  text: "A ty, Kafarnaum, które jesteś wywyższone aż do nieba, aż do piekła będziesz strącone. Bo gdyby w Sodomie działy się cuda, które się w tobie dokonały, przetrwałaby aż do dziś."
+  tags: []
+"Mt11,24":
+  text: "Ale mówię wam: Lżej będzie ziemi Sodomy w dzień sądu niż tobie."
+  tags: []
+"Mt11,25":
+  text: "W tym czasie Jezus powiedział: Wysławiam cię, Ojcze, Panie nieba i ziemi, że zakryłeś te sprawy przed mądrymi i roztropnymi, a objawiłeś je niemowlętom."
+  tags: []
+"Mt11,26":
+  text: "Tak, Ojcze, gdyż tak się tobie upodobało."
+  tags: []
+"Mt11,27":
+  text: "Wszystko zostało mi dane od mego Ojca i nikt nie zna Syna, tylko Ojciec, ani nikt nie zna Ojca, tylko Syn i ten, komu Syn zechce objawić."
+  tags: []
+"Mt11,28":
+  text: "Przyjdźcie do mnie wszyscy, którzy jesteście spracowani i obciążeni, a ja wam dam odpoczynek."
+  tags: []
+"Mt11,29":
+  text: "Weźcie na siebie moje jarzmo i uczcie się ode mnie, że jestem cichy i pokornego serca, a znajdziecie odpoczynek dla waszych dusz."
+  tags: []
+"Mt11,30":
+  text: "Moje jarzmo bowiem jest przyjemne, a moje brzemię lekkie."
+  tags: []

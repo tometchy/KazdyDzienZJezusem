@@ -1,36 +1,108 @@
-"Wj21,1": "A oto prawa, które im przedstawisz."
-"Wj21,2": "Jeśli kupisz niewolnika – Hebrajczyka, sześć lat będzie ci służyć, a w siódmym roku wyjdzie na wolność bez wykupu."
-"Wj21,3": "Jeśli sam przyszedł, sam odejdzie; a jeśli miał żonę, jego żona odejdzie z nim."
-"Wj21,4": "Jeśli jego pan dał mu żonę, a ona urodziła mu synów lub córki, to jego żona i dzieci będą należały do jego pana, a on odejdzie sam."
-"Wj21,5": "A jeśli niewolnik powie: Kocham mojego pana, moją żonę i moich synów, nie wyjdę na wolność;"
-"Wj21,6": "Wtedy jego pan zaprowadzi go do sędziów i przyprowadzi go do drzwi albo do ich słupka; i jego pan szydłem przekłuje mu ucho, i będzie jego niewolnikiem na zawsze."
-"Wj21,7": "Jeśli zaś kto sprzeda swoją córkę, aby była niewolnicą, nie odejdzie ona, jak odchodzą niewolnicy."
-"Wj21,8": "Jeśli się nie spodoba swemu panu, który zamierzał ją poślubić, niech pozwoli, aby została odkupiona. Nie ma prawa sprzedać jej obcemu ludowi, ponieważ zrobiłby jej krzywdę."
-"Wj21,9": "A jeśli przeznaczył ją dla swego syna, to postąpi z nią według prawa córek."
-"Wj21,10": "Jeśli weźmie sobie za żonę jeszcze inną, nie umniejszy jej pożywienia, jej ubrania ani prawa małżeńskiego."
-"Wj21,11": "A jeśli nie zapewni jej tych trzech rzeczy, wtedy wyjdzie ona darmo bez okupu."
-"Wj21,12": "Kto uderzy człowieka tak, że ten umrze, poniesie śmierć;"
-"Wj21,13": "A jeśli nie czyhał na niego, ale Bóg podał go w jego rękę, wyznaczę miejsce, do którego będzie mógł uciec."
-"Wj21,14": "Ale jeśli ktoś czyha na swego bliźniego i podstępnie go zabija, to nawet od mojego ołtarza go weźmiesz, aby umarł."
-"Wj21,15": "Kto uderzy swego ojca albo swoją matkę, poniesie śmierć."
-"Wj21,16": "Kto uprowadzi człowieka i sprzeda go lub zostanie on znaleziony w jego ręku, poniesie śmierć."
-"Wj21,17": "Kto złorzeczy swemu ojcu lub swojej matce, poniesie śmierć."
-"Wj21,18": "A jeśli mężczyźni się pokłócą i jeden uderzy drugiego kamieniem lub pięścią, tak że ten nie umrze, ale musi położyć się w łóżku;"
-"Wj21,19": "To jeśli wstanie i będzie mógł chodzić po ulicy o lasce, ten, który uderzył, będzie niewinny; wypłaci mu tylko odszkodowanie i będzie łożyć na jego leczenie."
-"Wj21,20": "Jeśli zaś ktoś uderzy kijem swego niewolnika lub swoją niewolnicę tak, że umrą pod jego ręką, musi ponieść karę;"
-"Wj21,21": "Jeśli jednak niewolnik zostaje przy życiu dzień lub dwa, nie będzie karany; bo niewolnik to jego pieniądze."
-"Wj21,22": "Jeśli mężczyźni się pokłócą i uderzą kobietę brzemienną, tak że wyjdzie z niej płód, jednak bez żadnej szkody, to musi ponieść karę, jaką nałoży na niego mąż tej kobiety, a da według uznania sędziów."
-"Wj21,23": "Jeśli jednak dojdzie do szkody, wtedy dasz życie za życie;"
-"Wj21,24": "Oko za oko, ząb za ząb, rękę za rękę, nogę za nogę;"
-"Wj21,25": "Oparzenie za oparzenie, ranę za ranę, siniec za siniec."
-"Wj21,26": "Jeśli ktoś uderzy w oko swego niewolnika lub w oko swojej niewolnicy, tak że je wybije, za jego oko wypuści go na wolność."
-"Wj21,27": "Jeśli też ktoś wybije ząb swemu niewolnikowi lub ząb swojej niewolnicy, za jego ząb wypuści go na wolność."
-"Wj21,28": "Jeśli czyjś wół ubodzie na śmierć mężczyznę lub kobietę, ten wół musi zostać ukamienowany, a jego mięsa nie wolno jeść. Właściciel wołu zaś będzie niewinny."
-"Wj21,29": "Jeśli jednak wół bódł przedtem i ostrzegano o tym jego właściciela, ten zaś nie pilnował go, i wół zabił mężczyznę lub kobietę, wół będzie ukamienowany i jego właściciel poniesie śmierć."
-"Wj21,30": "Jeśli nałożono mu karę pieniężną, wtedy da za swoją duszę okup, jaki na niego nałożą."
-"Wj21,31": "Choćby ubódł syna lub córkę, postąpią z nim według tego samego prawa."
-"Wj21,32": "Jeśli wół ubodzie niewolnika lub niewolnicę, da ich panu trzydzieści syklów srebra, a wół będzie ukamienowany."
-"Wj21,33": "Jeśli ktoś zostawi studnię odkrytą lub jeśli ktoś wykopie studnię i nie nakryje jej, a wpadnie w nią wół lub osioł;"
-"Wj21,34": "Właściciel tej studni musi wyrównać stratę i wynagrodzi ich właścicielowi, a zdechłe zwierzę będzie należeć do niego."
-"Wj21,35": "Także jeśli czyjś wół ubodzie na śmierć wołu jego sąsiada, wtedy sprzedadzą żywego wołu i podzielą się zapłatą za niego; podzielą się też tym zdechłym."
-"Wj21,36": "Ale jeśli było wiadomo, że ten wół bódł przedtem, a jego właściciel nie pilnował go, musi oddać wołu za wołu, a zdechłe zwierzę będzie należeć do niego."
+"Wj21,1":
+  text: "A oto prawa, które im przedstawisz."
+  tags: []
+"Wj21,2":
+  text: "Jeśli kupisz niewolnika – Hebrajczyka, sześć lat będzie ci służyć, a w siódmym roku wyjdzie na wolność bez wykupu."
+  tags: []
+"Wj21,3":
+  text: "Jeśli sam przyszedł, sam odejdzie; a jeśli miał żonę, jego żona odejdzie z nim."
+  tags: []
+"Wj21,4":
+  text: "Jeśli jego pan dał mu żonę, a ona urodziła mu synów lub córki, to jego żona i dzieci będą należały do jego pana, a on odejdzie sam."
+  tags: []
+"Wj21,5":
+  text: "A jeśli niewolnik powie: Kocham mojego pana, moją żonę i moich synów, nie wyjdę na wolność;"
+  tags: []
+"Wj21,6":
+  text: "Wtedy jego pan zaprowadzi go do sędziów i przyprowadzi go do drzwi albo do ich słupka; i jego pan szydłem przekłuje mu ucho, i będzie jego niewolnikiem na zawsze."
+  tags: []
+"Wj21,7":
+  text: "Jeśli zaś kto sprzeda swoją córkę, aby była niewolnicą, nie odejdzie ona, jak odchodzą niewolnicy."
+  tags: []
+"Wj21,8":
+  text: "Jeśli się nie spodoba swemu panu, który zamierzał ją poślubić, niech pozwoli, aby została odkupiona. Nie ma prawa sprzedać jej obcemu ludowi, ponieważ zrobiłby jej krzywdę."
+  tags: []
+"Wj21,9":
+  text: "A jeśli przeznaczył ją dla swego syna, to postąpi z nią według prawa córek."
+  tags: []
+"Wj21,10":
+  text: "Jeśli weźmie sobie za żonę jeszcze inną, nie umniejszy jej pożywienia, jej ubrania ani prawa małżeńskiego."
+  tags: []
+"Wj21,11":
+  text: "A jeśli nie zapewni jej tych trzech rzeczy, wtedy wyjdzie ona darmo bez okupu."
+  tags: []
+"Wj21,12":
+  text: "Kto uderzy człowieka tak, że ten umrze, poniesie śmierć;"
+  tags: []
+"Wj21,13":
+  text: "A jeśli nie czyhał na niego, ale Bóg podał go w jego rękę, wyznaczę miejsce, do którego będzie mógł uciec."
+  tags: []
+"Wj21,14":
+  text: "Ale jeśli ktoś czyha na swego bliźniego i podstępnie go zabija, to nawet od mojego ołtarza go weźmiesz, aby umarł."
+  tags: []
+"Wj21,15":
+  text: "Kto uderzy swego ojca albo swoją matkę, poniesie śmierć."
+  tags: []
+"Wj21,16":
+  text: "Kto uprowadzi człowieka i sprzeda go lub zostanie on znaleziony w jego ręku, poniesie śmierć."
+  tags: []
+"Wj21,17":
+  text: "Kto złorzeczy swemu ojcu lub swojej matce, poniesie śmierć."
+  tags: []
+"Wj21,18":
+  text: "A jeśli mężczyźni się pokłócą i jeden uderzy drugiego kamieniem lub pięścią, tak że ten nie umrze, ale musi położyć się w łóżku;"
+  tags: []
+"Wj21,19":
+  text: "To jeśli wstanie i będzie mógł chodzić po ulicy o lasce, ten, który uderzył, będzie niewinny; wypłaci mu tylko odszkodowanie i będzie łożyć na jego leczenie."
+  tags: []
+"Wj21,20":
+  text: "Jeśli zaś ktoś uderzy kijem swego niewolnika lub swoją niewolnicę tak, że umrą pod jego ręką, musi ponieść karę;"
+  tags: []
+"Wj21,21":
+  text: "Jeśli jednak niewolnik zostaje przy życiu dzień lub dwa, nie będzie karany; bo niewolnik to jego pieniądze."
+  tags: []
+"Wj21,22":
+  text: "Jeśli mężczyźni się pokłócą i uderzą kobietę brzemienną, tak że wyjdzie z niej płód, jednak bez żadnej szkody, to musi ponieść karę, jaką nałoży na niego mąż tej kobiety, a da według uznania sędziów."
+  tags: []
+"Wj21,23":
+  text: "Jeśli jednak dojdzie do szkody, wtedy dasz życie za życie;"
+  tags: []
+"Wj21,24":
+  text: "Oko za oko, ząb za ząb, rękę za rękę, nogę za nogę;"
+  tags: []
+"Wj21,25":
+  text: "Oparzenie za oparzenie, ranę za ranę, siniec za siniec."
+  tags: []
+"Wj21,26":
+  text: "Jeśli ktoś uderzy w oko swego niewolnika lub w oko swojej niewolnicy, tak że je wybije, za jego oko wypuści go na wolność."
+  tags: []
+"Wj21,27":
+  text: "Jeśli też ktoś wybije ząb swemu niewolnikowi lub ząb swojej niewolnicy, za jego ząb wypuści go na wolność."
+  tags: []
+"Wj21,28":
+  text: "Jeśli czyjś wół ubodzie na śmierć mężczyznę lub kobietę, ten wół musi zostać ukamienowany, a jego mięsa nie wolno jeść. Właściciel wołu zaś będzie niewinny."
+  tags: []
+"Wj21,29":
+  text: "Jeśli jednak wół bódł przedtem i ostrzegano o tym jego właściciela, ten zaś nie pilnował go, i wół zabił mężczyznę lub kobietę, wół będzie ukamienowany i jego właściciel poniesie śmierć."
+  tags: []
+"Wj21,30":
+  text: "Jeśli nałożono mu karę pieniężną, wtedy da za swoją duszę okup, jaki na niego nałożą."
+  tags: []
+"Wj21,31":
+  text: "Choćby ubódł syna lub córkę, postąpią z nim według tego samego prawa."
+  tags: []
+"Wj21,32":
+  text: "Jeśli wół ubodzie niewolnika lub niewolnicę, da ich panu trzydzieści syklów srebra, a wół będzie ukamienowany."
+  tags: []
+"Wj21,33":
+  text: "Jeśli ktoś zostawi studnię odkrytą lub jeśli ktoś wykopie studnię i nie nakryje jej, a wpadnie w nią wół lub osioł;"
+  tags: []
+"Wj21,34":
+  text: "Właściciel tej studni musi wyrównać stratę i wynagrodzi ich właścicielowi, a zdechłe zwierzę będzie należeć do niego."
+  tags: []
+"Wj21,35":
+  text: "Także jeśli czyjś wół ubodzie na śmierć wołu jego sąsiada, wtedy sprzedadzą żywego wołu i podzielą się zapłatą za niego; podzielą się też tym zdechłym."
+  tags: []
+"Wj21,36":
+  text: "Ale jeśli było wiadomo, że ten wół bódł przedtem, a jego właściciel nie pilnował go, musi oddać wołu za wołu, a zdechłe zwierzę będzie należeć do niego."
+  tags: []

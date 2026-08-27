@@ -1,17 +1,51 @@
-"Hi42,1": "Wtedy Hiob odpowiedział PANU:"
-"Hi42,2": "Wiem, że ty wszystko możesz i że żaden twój zamysł nie może być powstrzymany."
-"Hi42,3": "Kim jest ten, który zaciemnia radę bez wiedzy? Właśnie dlatego mówiłem to, czego nie rozumiałem; mówiłem o rzeczach zbyt cudownych, których nie mogłem pojąć."
-"Hi42,4": "Wysłuchaj, proszę, a będę mówił; będę cię pytał, a ty mnie pouczysz."
-"Hi42,5": "Dotąd tylko moje ucho słyszało o tobie, lecz teraz moje oko cię ujrzało."
-"Hi42,6": "Dlatego żałuję i pokutuję w prochu i popiele."
-"Hi42,7": "A gdy PAN wypowiedział te słowa do Hioba, powiedział PAN do Elifaza z Temanu: Mój gniew zapłonął przeciw tobie i przeciw dwom twoim przyjaciołom, ponieważ nie mówiliście o mnie prawdy jak mój sługa Hiob."
-"Hi42,8": "Teraz więc weźcie sobie siedem cielców i siedem baranów, idźcie do mego sługi Hioba i złóżcie całopalenie za siebie; a Hiob, mój sługa, będzie się modlił za was, bo jego przyjmę, abym nie uczynił z wami według waszej głupoty. Nie mówiliście bowiem o mnie prawdy jak mój sługa Hiob."
-"Hi42,9": "Poszli więc Elifaz z Temanu, Bildad z Szuach i Sofar z Naamy i uczynili, jak PAN im rozkazał. PAN także przyjął Hioba."
-"Hi42,10": "PAN przywrócił to, co zostało zabrane Hiobowi, gdy się modlił za swoich przyjaciół. PAN także pomnożył Hiobowi w dwójnasób wszystko, co miał."
-"Hi42,11": "Wtedy zeszli się do niego wszyscy jego bracia, wszystkie jego siostry i wszyscy dawni znajomi i jedli z nim chleb w jego domu. Ubolewali nad nim i pocieszali go z powodu wszystkich nieszczęść, które PAN sprowadził na niego. Każdy dał mu po jednym srebrniku i każdy po jednym złotym kolczyku."
-"Hi42,12": "I tak PAN błogosławił ostatnie lata Hioba bardziej niż początkowe. Miał bowiem czternaście tysięcy owiec, sześć tysięcy wielbłądów, tysiąc jarzm wołów i tysiąc oślic."
-"Hi42,13": "Miał też siedmiu synów i trzy córki."
-"Hi42,14": "I nadał pierwszej imię Jemima, drugiej Kecja i trzeciej Kerenhappuk."
-"Hi42,15": "W całej ziemi nie można było znaleźć kobiet tak pięknych jak córki Hioba. Ich ojciec dał im dziedzictwo wśród ich braci."
-"Hi42,16": "Potem Hiob żył jeszcze sto czterdzieści lat i oglądał swoich synów i synów swoich synów aż do czwartego pokolenia."
-"Hi42,17": "I umarł Hiob stary i syty dni."
+"Hi42,1":
+  text: "Wtedy Hiob odpowiedział PANU:"
+  tags: []
+"Hi42,2":
+  text: "Wiem, że ty wszystko możesz i że żaden twój zamysł nie może być powstrzymany."
+  tags: []
+"Hi42,3":
+  text: "Kim jest ten, który zaciemnia radę bez wiedzy? Właśnie dlatego mówiłem to, czego nie rozumiałem; mówiłem o rzeczach zbyt cudownych, których nie mogłem pojąć."
+  tags: []
+"Hi42,4":
+  text: "Wysłuchaj, proszę, a będę mówił; będę cię pytał, a ty mnie pouczysz."
+  tags: []
+"Hi42,5":
+  text: "Dotąd tylko moje ucho słyszało o tobie, lecz teraz moje oko cię ujrzało."
+  tags: []
+"Hi42,6":
+  text: "Dlatego żałuję i pokutuję w prochu i popiele."
+  tags: []
+"Hi42,7":
+  text: "A gdy PAN wypowiedział te słowa do Hioba, powiedział PAN do Elifaza z Temanu: Mój gniew zapłonął przeciw tobie i przeciw dwom twoim przyjaciołom, ponieważ nie mówiliście o mnie prawdy jak mój sługa Hiob."
+  tags: []
+"Hi42,8":
+  text: "Teraz więc weźcie sobie siedem cielców i siedem baranów, idźcie do mego sługi Hioba i złóżcie całopalenie za siebie; a Hiob, mój sługa, będzie się modlił za was, bo jego przyjmę, abym nie uczynił z wami według waszej głupoty. Nie mówiliście bowiem o mnie prawdy jak mój sługa Hiob."
+  tags: []
+"Hi42,9":
+  text: "Poszli więc Elifaz z Temanu, Bildad z Szuach i Sofar z Naamy i uczynili, jak PAN im rozkazał. PAN także przyjął Hioba."
+  tags: []
+"Hi42,10":
+  text: "PAN przywrócił to, co zostało zabrane Hiobowi, gdy się modlił za swoich przyjaciół. PAN także pomnożył Hiobowi w dwójnasób wszystko, co miał."
+  tags: []
+"Hi42,11":
+  text: "Wtedy zeszli się do niego wszyscy jego bracia, wszystkie jego siostry i wszyscy dawni znajomi i jedli z nim chleb w jego domu. Ubolewali nad nim i pocieszali go z powodu wszystkich nieszczęść, które PAN sprowadził na niego. Każdy dał mu po jednym srebrniku i każdy po jednym złotym kolczyku."
+  tags: []
+"Hi42,12":
+  text: "I tak PAN błogosławił ostatnie lata Hioba bardziej niż początkowe. Miał bowiem czternaście tysięcy owiec, sześć tysięcy wielbłądów, tysiąc jarzm wołów i tysiąc oślic."
+  tags: []
+"Hi42,13":
+  text: "Miał też siedmiu synów i trzy córki."
+  tags: []
+"Hi42,14":
+  text: "I nadał pierwszej imię Jemima, drugiej Kecja i trzeciej Kerenhappuk."
+  tags: []
+"Hi42,15":
+  text: "W całej ziemi nie można było znaleźć kobiet tak pięknych jak córki Hioba. Ich ojciec dał im dziedzictwo wśród ich braci."
+  tags: []
+"Hi42,16":
+  text: "Potem Hiob żył jeszcze sto czterdzieści lat i oglądał swoich synów i synów swoich synów aż do czwartego pokolenia."
+  tags: []
+"Hi42,17":
+  text: "I umarł Hiob stary i syty dni."
+  tags: []

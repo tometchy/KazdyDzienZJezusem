@@ -1,28 +1,84 @@
-"Hbr9,1": "Wprawdzie więc i pierwsze przymierze miało przepisy o służbie Bożej i ziemskie miejsce święte."
-"Hbr9,2": "Albowiem został wzniesiony pierwszy przybytek, który w części zwanej miejscem świętym miał świecznik, stół i chleby ofiarne."
-"Hbr9,3": "A za drugą zasłoną przybytku była część zwana Świętym Świętych,"
-"Hbr9,4": "Mająca złotą kadzielnicę i Arkę Przymierza, całą przykrytą złotem, w której był złoty dzban z manną, laska Aarona, która zakwitła i tablice przymierza."
-"Hbr9,5": "Nad nią natomiast byli cherubini chwały, którzy zacieniali przebłagalnię, o których teraz nie ma potrzeby szczegółowo mówić."
-"Hbr9,6": "Tak więc zostało to urządzone, że wprawdzie do pierwszej części przybytku wchodzą zawsze kapłani pełniący służbę,"
-"Hbr9,7": "Lecz do drugiej, raz w roku jedynie arcykapłan, i to nie bez krwi, którą ofiaruje za samego siebie i za nieświadome błędy ludu."
-"Hbr9,8": "Przez to Duch Święty oznajmia, że nie jest jeszcze ukazana droga do Świętego Świętych, dopóki istnieje pierwszy przybytek,"
-"Hbr9,9": "Co jest przykładem teraźniejszego czasu, w którym składane są dary i ofiary, nie mogące uczynić doskonałym w sumieniu tego, który pełni służbę,"
-"Hbr9,10": "Która polega tylko na pokarmach i napojach, i różnych obmywaniach, i przepisach co do ciała, nałożonych aż do czasu naprawy."
-"Hbr9,11": "Lecz Chrystus przyszedł jako arcykapłan przyszłych dóbr, wszedł przez większy i doskonalszy przybytek, nie uczyniony ręką, to jest nienależący do tego, co stworzone;"
-"Hbr9,12": "Ani przez krew kozłów i cieląt, ale przez swoją własną krew, wszedł raz na zawsze do Świętego Świętych, uzyskując wieczne odkupienie."
-"Hbr9,13": "Bo jeżeli krew wołów i kozłów, i popiół jałówki przez pokropienie uświęcają nieczystych ku oczyszczeniu ciała,"
-"Hbr9,14": "O ileż bardziej krew Chrystusa, który przez Ducha wiecznego samego siebie ofiarował bez skazy Bogu, oczyści wasze sumienie od martwych uczynków, by służyć Bogu żywemu?"
-"Hbr9,15": "Dlatego też jest pośrednikiem nowego przymierza, aby na skutek śmierci, która nastąpiła dla odkupienia przestępstw popełnionych za pierwszego przymierza, ci, którzy są powołani, wzięli obietnicę dziedzictwa wiecznego."
-"Hbr9,16": "Albowiem tam, gdzie jest przymierze, ten, który je zawarł, musi uśmiercać ofiarę."
-"Hbr9,17": "Bo przymierze nabiera mocy po śmierci złożonej ofiary tego, który je zawiera. Jeśli ofiara żyje, przymierze nie obowiązuje."
-"Hbr9,18": "Dlatego także pierwsze przymierze nie jest poświęcone bez przelania krwi."
-"Hbr9,19": "Bo gdy Mojżesz ogłosił całemu ludowi wszystkie przykazania Prawa, wziął krew cieląt i kozłów z wodą, ze szkarłatną wełną, z hizopem, pokropił też sam zwój i cały lud,"
-"Hbr9,20": "I powiedział: To jest krew przymierza, które Bóg na korzyść was przykazał."
-"Hbr9,21": "I podobnie pokropił krwią przybytek i wszystkie naczynia należące do służby Bożej."
-"Hbr9,22": "A według Prawa niemal wszystko jest oczyszczane krwią i nie ma odpuszczenia grzechów bez rozlania krwi."
-"Hbr9,23": "Było więc prawdziwie konieczne, aby obrazy tych rzeczy, które są w niebiosach były tak właśnie oczyszczane, a same rzeczy niebiańskie, lepszymi ofiarami od tamtych."
-"Hbr9,24": "Chrystus bowiem wszedł nie do uczynionego ręką Świętego Świętych, które byłoby odbiciem prawdziwego, lecz do samego nieba, aby teraz być obecnym w naszym imieniu przed obliczem Boga;"
-"Hbr9,25": "I nie po to, by wiele razy ofiarowywać samego siebie, tak jak arcykapłan wchodzi do Świętego Świętych co roku z cudzą krwią,"
-"Hbr9,26": "Bo inaczej musiałby wielokrotnie od założenia świata cierpieć, lecz teraz na końcu wieków jest objawiony raz dla zmazania grzechu przez ofiarowanie samego siebie."
-"Hbr9,27": "A jak postanowiono ludziom raz umrzeć, a potem sąd,"
-"Hbr9,28": "Tak i Chrystus, raz będąc ofiarowany, aby wziąć na siebie grzechy wielu, drugi raz, już bez żadnego związku z grzechem, zostanie ukazany tym, którzy Go oczekują ku zbawieniu."
+"Hbr9,1":
+  text: "Wprawdzie więc i pierwsze przymierze miało przepisy o służbie Bożej i ziemskie miejsce święte."
+  tags: []
+"Hbr9,2":
+  text: "Albowiem został wzniesiony pierwszy przybytek, który w części zwanej miejscem świętym miał świecznik, stół i chleby ofiarne."
+  tags: []
+"Hbr9,3":
+  text: "A za drugą zasłoną przybytku była część zwana Świętym Świętych,"
+  tags: []
+"Hbr9,4":
+  text: "Mająca złotą kadzielnicę i Arkę Przymierza, całą przykrytą złotem, w której był złoty dzban z manną, laska Aarona, która zakwitła i tablice przymierza."
+  tags: []
+"Hbr9,5":
+  text: "Nad nią natomiast byli cherubini chwały, którzy zacieniali przebłagalnię, o których teraz nie ma potrzeby szczegółowo mówić."
+  tags: []
+"Hbr9,6":
+  text: "Tak więc zostało to urządzone, że wprawdzie do pierwszej części przybytku wchodzą zawsze kapłani pełniący służbę,"
+  tags: []
+"Hbr9,7":
+  text: "Lecz do drugiej, raz w roku jedynie arcykapłan, i to nie bez krwi, którą ofiaruje za samego siebie i za nieświadome błędy ludu."
+  tags: []
+"Hbr9,8":
+  text: "Przez to Duch Święty oznajmia, że nie jest jeszcze ukazana droga do Świętego Świętych, dopóki istnieje pierwszy przybytek,"
+  tags: []
+"Hbr9,9":
+  text: "Co jest przykładem teraźniejszego czasu, w którym składane są dary i ofiary, nie mogące uczynić doskonałym w sumieniu tego, który pełni służbę,"
+  tags: []
+"Hbr9,10":
+  text: "Która polega tylko na pokarmach i napojach, i różnych obmywaniach, i przepisach co do ciała, nałożonych aż do czasu naprawy."
+  tags: []
+"Hbr9,11":
+  text: "Lecz Chrystus przyszedł jako arcykapłan przyszłych dóbr, wszedł przez większy i doskonalszy przybytek, nie uczyniony ręką, to jest nienależący do tego, co stworzone;"
+  tags: []
+"Hbr9,12":
+  text: "Ani przez krew kozłów i cieląt, ale przez swoją własną krew, wszedł raz na zawsze do Świętego Świętych, uzyskując wieczne odkupienie."
+  tags: []
+"Hbr9,13":
+  text: "Bo jeżeli krew wołów i kozłów, i popiół jałówki przez pokropienie uświęcają nieczystych ku oczyszczeniu ciała,"
+  tags: []
+"Hbr9,14":
+  text: "O ileż bardziej krew Chrystusa, który przez Ducha wiecznego samego siebie ofiarował bez skazy Bogu, oczyści wasze sumienie od martwych uczynków, by służyć Bogu żywemu?"
+  tags: []
+"Hbr9,15":
+  text: "Dlatego też jest pośrednikiem nowego przymierza, aby na skutek śmierci, która nastąpiła dla odkupienia przestępstw popełnionych za pierwszego przymierza, ci, którzy są powołani, wzięli obietnicę dziedzictwa wiecznego."
+  tags: []
+"Hbr9,16":
+  text: "Albowiem tam, gdzie jest przymierze, ten, który je zawarł, musi uśmiercać ofiarę."
+  tags: []
+"Hbr9,17":
+  text: "Bo przymierze nabiera mocy po śmierci złożonej ofiary tego, który je zawiera. Jeśli ofiara żyje, przymierze nie obowiązuje."
+  tags: []
+"Hbr9,18":
+  text: "Dlatego także pierwsze przymierze nie jest poświęcone bez przelania krwi."
+  tags: []
+"Hbr9,19":
+  text: "Bo gdy Mojżesz ogłosił całemu ludowi wszystkie przykazania Prawa, wziął krew cieląt i kozłów z wodą, ze szkarłatną wełną, z hizopem, pokropił też sam zwój i cały lud,"
+  tags: []
+"Hbr9,20":
+  text: "I powiedział: To jest krew przymierza, które Bóg na korzyść was przykazał."
+  tags: []
+"Hbr9,21":
+  text: "I podobnie pokropił krwią przybytek i wszystkie naczynia należące do służby Bożej."
+  tags: []
+"Hbr9,22":
+  text: "A według Prawa niemal wszystko jest oczyszczane krwią i nie ma odpuszczenia grzechów bez rozlania krwi."
+  tags: []
+"Hbr9,23":
+  text: "Było więc prawdziwie konieczne, aby obrazy tych rzeczy, które są w niebiosach były tak właśnie oczyszczane, a same rzeczy niebiańskie, lepszymi ofiarami od tamtych."
+  tags: []
+"Hbr9,24":
+  text: "Chrystus bowiem wszedł nie do uczynionego ręką Świętego Świętych, które byłoby odbiciem prawdziwego, lecz do samego nieba, aby teraz być obecnym w naszym imieniu przed obliczem Boga;"
+  tags: []
+"Hbr9,25":
+  text: "I nie po to, by wiele razy ofiarowywać samego siebie, tak jak arcykapłan wchodzi do Świętego Świętych co roku z cudzą krwią,"
+  tags: []
+"Hbr9,26":
+  text: "Bo inaczej musiałby wielokrotnie od założenia świata cierpieć, lecz teraz na końcu wieków jest objawiony raz dla zmazania grzechu przez ofiarowanie samego siebie."
+  tags: []
+"Hbr9,27":
+  text: "A jak postanowiono ludziom raz umrzeć, a potem sąd,"
+  tags: []
+"Hbr9,28":
+  text: "Tak i Chrystus, raz będąc ofiarowany, aby wziąć na siebie grzechy wielu, drugi raz, już bez żadnego związku z grzechem, zostanie ukazany tym, którzy Go oczekują ku zbawieniu."
+  tags: []

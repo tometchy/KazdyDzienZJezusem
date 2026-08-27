@@ -1,36 +1,108 @@
-"Prz8,1": "Czyż mądrość nie woła i rozum nie wydaje swojego głosu?"
-"Prz8,2": "Stoi na szczycie wzniesień, przy drodze, na rozstajach ścieżek."
-"Prz8,3": "Przy bramach, u wylotu miasta, u wejścia, od drzwi krzyczy:"
-"Prz8,4": "Do was wołam, mężowie i głos mój wznoszę do synów ludzkich."
-"Prz8,5": "Prości, nauczcie się rozwagi, a wy, głupi, bądźcie rozumnego serca."
-"Prz8,6": "Słuchajcie, bo mówię o rzeczach wzniosłych, a usta moje otworzą się, aby głosić prawość."
-"Prz8,7": "Bo moje podniebienie mówi prawdę, a niegodziwością brzydzą się moje usta."
-"Prz8,8": "Sprawiedliwe są wszystkie słowa moich ust; nie ma w nich nic krętego ani przewrotnego."
-"Prz8,9": "Wszystkie są proste dla rozumnego i prawe dla tych, którzy znajdują poznanie."
-"Prz8,10": "Przyjmijcie moje pouczenie a nie srebro i raczej poznanie niech będzie wybierane niż wyborneˀ złoto."
-"Prz8,11": "Bo lepsza jest mądrość niż perły i żadne pragnienia jej nie dorównają."
-"Prz8,12": "Ja, mądrość, mieszkam z rozwagą i odkrywam zamysły poznania."
-"Prz8,13": "Bojaźń JHWH to nienawiść do zła. Ja nienawidzę dumy i wyniosłości, złej drogi i przewrotnych ust."
-"Prz8,14": "U mnie jest rada i zdrowy rozsądek, ja jestem roztropnością i moja jest moc."
-"Prz8,15": "Dzięki mnie królowie rządzą, a ci którzy władają nakazują sprawiedliwość."
-"Prz8,16": "Dzięki mnie panują książęta i dostojnicy, wszyscy ci zasądzają sprawiedliwość."
-"Prz8,17": "Ja miłuję tych, którzy mnie miłują, a ci, którzy szukają mnie gorliwie, znajdą mnie."
-"Prz8,18": "Przy mnie jest bogactwo i chwała, trwałe dobra i sprawiedliwość."
-"Prz8,19": "Mój owoc jest lepszy niż złoto, nawet niż najczystsze złoto, a moje plony niech raczej są wybierane niż srebro."
-"Prz8,20": "Chodzę ścieżką sprawiedliwości, środkiem dróg prawa;"
-"Prz8,21": "Aby ci, którzy mnie miłują, dostali jako dziedzictwo majątek – bo ja napełnię ich skarbce."
-"Prz8,22": "JHWH wydał mnie, początek swojej drogi, przed swoimi prastarymi dziełami."
-"Prz8,23": "Przed wiekami zostałam ustanowiona; przed prastarym początkiem ziemi;"
-"Prz8,24": "Gdy jeszcze nie było głębin, zostałam zrodzona, kiedy jeszcze nie było źródeł obfitujących w wody."
-"Prz8,25": "Zanim góry zostały posadowione, zanim były pagórki, zostałam zrodzona."
-"Prz8,26": "Gdy jeszcze nie uczynił ziemi ani otwartych przestrzeni, ani początków pyłu świata;"
-"Prz8,27": "Kiedy przygotowywał niebiosa, ja tam byłam; gdy odmierzał okrąg nad powierzchnią głębi;"
-"Prz8,28": "Gdy w górze utwierdzał obłoki i umacniał źródła głębin;"
-"Prz8,29": "Gdy On ustanawiał morzu granice, by wody nie przekraczały brzegu, kiedy żłobił fundamenty ziemi;"
-"Prz8,30": "Byłam przy Nim mistrzynią i byłam Jego rozkoszą dzień w dzień, igrając w każdym czasie przed Nim;"
-"Prz8,31": "Igrając po świecie na Jego ziemi, rozkoszując się razem z synami ludzkimi."
-"Prz8,32": "A teraz, synowie, słuchajcie mnie, bo szczęśliwi są ci, którzy strzegą moich dróg."
-"Prz8,33": "Słuchajcie pouczenia i bądźcie mądrzy, i nie zaniedbujcie go."
-"Prz8,34": "Szczęśliwy człowiek, który mnie słucha, by czuwać u moich drzwi dzień w dzień i strzec progów moich bram."
-"Prz8,35": "Bo kto mnie znalazł, znalazł życie i otrzymał łaskę od JHWH."
-"Prz8,36": "Ale kto grzeszy przeciwko mnie, wyrządza krzywdę swojej duszy; wszyscy, którzy mnie nienawidzą, miłują śmierć."
+"Prz8,1":
+  text: "Czyż mądrość nie woła i rozum nie wydaje swojego głosu?"
+  tags: []
+"Prz8,2":
+  text: "Stoi na szczycie wzniesień, przy drodze, na rozstajach ścieżek."
+  tags: []
+"Prz8,3":
+  text: "Przy bramach, u wylotu miasta, u wejścia, od drzwi krzyczy:"
+  tags: []
+"Prz8,4":
+  text: "Do was wołam, mężowie i głos mój wznoszę do synów ludzkich."
+  tags: []
+"Prz8,5":
+  text: "Prości, nauczcie się rozwagi, a wy, głupi, bądźcie rozumnego serca."
+  tags: []
+"Prz8,6":
+  text: "Słuchajcie, bo mówię o rzeczach wzniosłych, a usta moje otworzą się, aby głosić prawość."
+  tags: []
+"Prz8,7":
+  text: "Bo moje podniebienie mówi prawdę, a niegodziwością brzydzą się moje usta."
+  tags: []
+"Prz8,8":
+  text: "Sprawiedliwe są wszystkie słowa moich ust; nie ma w nich nic krętego ani przewrotnego."
+  tags: []
+"Prz8,9":
+  text: "Wszystkie są proste dla rozumnego i prawe dla tych, którzy znajdują poznanie."
+  tags: []
+"Prz8,10":
+  text: "Przyjmijcie moje pouczenie a nie srebro i raczej poznanie niech będzie wybierane niż wyborneˀ złoto."
+  tags: []
+"Prz8,11":
+  text: "Bo lepsza jest mądrość niż perły i żadne pragnienia jej nie dorównają."
+  tags: []
+"Prz8,12":
+  text: "Ja, mądrość, mieszkam z rozwagą i odkrywam zamysły poznania."
+  tags: []
+"Prz8,13":
+  text: "Bojaźń JHWH to nienawiść do zła. Ja nienawidzę dumy i wyniosłości, złej drogi i przewrotnych ust."
+  tags: []
+"Prz8,14":
+  text: "U mnie jest rada i zdrowy rozsądek, ja jestem roztropnością i moja jest moc."
+  tags: []
+"Prz8,15":
+  text: "Dzięki mnie królowie rządzą, a ci którzy władają nakazują sprawiedliwość."
+  tags: []
+"Prz8,16":
+  text: "Dzięki mnie panują książęta i dostojnicy, wszyscy ci zasądzają sprawiedliwość."
+  tags: []
+"Prz8,17":
+  text: "Ja miłuję tych, którzy mnie miłują, a ci, którzy szukają mnie gorliwie, znajdą mnie."
+  tags: []
+"Prz8,18":
+  text: "Przy mnie jest bogactwo i chwała, trwałe dobra i sprawiedliwość."
+  tags: []
+"Prz8,19":
+  text: "Mój owoc jest lepszy niż złoto, nawet niż najczystsze złoto, a moje plony niech raczej są wybierane niż srebro."
+  tags: []
+"Prz8,20":
+  text: "Chodzę ścieżką sprawiedliwości, środkiem dróg prawa;"
+  tags: []
+"Prz8,21":
+  text: "Aby ci, którzy mnie miłują, dostali jako dziedzictwo majątek – bo ja napełnię ich skarbce."
+  tags: []
+"Prz8,22":
+  text: "JHWH wydał mnie, początek swojej drogi, przed swoimi prastarymi dziełami."
+  tags: []
+"Prz8,23":
+  text: "Przed wiekami zostałam ustanowiona; przed prastarym początkiem ziemi;"
+  tags: []
+"Prz8,24":
+  text: "Gdy jeszcze nie było głębin, zostałam zrodzona, kiedy jeszcze nie było źródeł obfitujących w wody."
+  tags: []
+"Prz8,25":
+  text: "Zanim góry zostały posadowione, zanim były pagórki, zostałam zrodzona."
+  tags: []
+"Prz8,26":
+  text: "Gdy jeszcze nie uczynił ziemi ani otwartych przestrzeni, ani początków pyłu świata;"
+  tags: []
+"Prz8,27":
+  text: "Kiedy przygotowywał niebiosa, ja tam byłam; gdy odmierzał okrąg nad powierzchnią głębi;"
+  tags: []
+"Prz8,28":
+  text: "Gdy w górze utwierdzał obłoki i umacniał źródła głębin;"
+  tags: []
+"Prz8,29":
+  text: "Gdy On ustanawiał morzu granice, by wody nie przekraczały brzegu, kiedy żłobił fundamenty ziemi;"
+  tags: []
+"Prz8,30":
+  text: "Byłam przy Nim mistrzynią i byłam Jego rozkoszą dzień w dzień, igrając w każdym czasie przed Nim;"
+  tags: []
+"Prz8,31":
+  text: "Igrając po świecie na Jego ziemi, rozkoszując się razem z synami ludzkimi."
+  tags: []
+"Prz8,32":
+  text: "A teraz, synowie, słuchajcie mnie, bo szczęśliwi są ci, którzy strzegą moich dróg."
+  tags: []
+"Prz8,33":
+  text: "Słuchajcie pouczenia i bądźcie mądrzy, i nie zaniedbujcie go."
+  tags: []
+"Prz8,34":
+  text: "Szczęśliwy człowiek, który mnie słucha, by czuwać u moich drzwi dzień w dzień i strzec progów moich bram."
+  tags: []
+"Prz8,35":
+  text: "Bo kto mnie znalazł, znalazł życie i otrzymał łaskę od JHWH."
+  tags: []
+"Prz8,36":
+  text: "Ale kto grzeszy przeciwko mnie, wyrządza krzywdę swojej duszy; wszyscy, którzy mnie nienawidzą, miłują śmierć."
+  tags: []

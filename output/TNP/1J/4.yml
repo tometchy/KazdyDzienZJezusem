@@ -1,21 +1,63 @@
-"1J4,1": "Umiłowani! Nie każdemu duchowi wierzcie, ale doświadczajcie duchy, czy są z Boga. Bo wielu fałszywych proroków wyszło na świat."
-"1J4,2": "Ducha Bożego poznawajcie po tym: wszelki duch, który wyznaje Jezusa Chrystusa, że przyszedł w ciele, jest z Boga."
-"1J4,3": "A wszelki duch, który nie wyznaje Jezusa Chrystusa, że przyszedł w ciele, nie jest z Boga; to jest duch antychrysta, o którym słyszeliście, że przychodzi i teraz już jest na świecie."
-"1J4,4": "Wy dzieciątka jesteście z Boga i zwyciężyliście ich; bo Ten, który jest w was, większy jest od tego, który jest w świecie."
-"1J4,5": "Oni są ze świata, dlatego mówią jak ludzie ze świata, a świat ich słucha."
-"1J4,6": "My jesteśmy z Boga. Kto zna Boga, słucha nas; kto nie jest z Boga, nie słucha nas. Po tym poznajemy ducha prawdy i ducha błędu."
-"1J4,7": "Umiłowani! Miłujmy jedni drugich, gdyż miłość jest z Boga; a każdy kto miłuje, z Boga jest zrodzony i zna Boga."
-"1J4,8": "Kto nie miłuje, nie poznał Boga; ponieważ Bóg jest miłością."
-"1J4,9": "W tym uwidoczniła się miłość Boga do nas, że Syna swojego jednorodzonego posłał Bóg na świat, abyśmy przez Niego żyli."
-"1J4,10": "W tym wyraża się miłość, że nie my umiłowaliśmy Boga, ale że On nas umiłował i posłał swojego Syna jako ofiarę przebłagalną za nasze grzechy."
-"1J4,11": "Umiłowani! Jeżeli Bóg nas tak umiłował, i my powinniśmy miłować jedni drugich."
-"1J4,12": "Boga nikt nigdy nie widział. Jeśli miłujemy jedni drugich, Bóg w nas trwa, a Jego miłość jest w nas doprowadzona do pełni."
-"1J4,13": "Po tym poznajemy, że w Nim trwamy i On w nas, że z Ducha swojego nam dał."
-"1J4,14": "A my widzieliśmy i zaświadczymy, że Ojciec posłał Syna, jako Zbawiciela świata."
-"1J4,15": "Ktokolwiek wyznałby, że Jezus jest Synem Boga, w nim trwa Bóg, a on w Bogu."
-"1J4,16": "A my poznaliśmy i uwierzyliśmy miłości, którą Bóg ma wobec nas. Bóg jest miłością i kto trwa w miłości, trwa w Bogu, a Bóg trwa w nim."
-"1J4,17": "W tym miłość jest doprowadzona do pełni w nas, abyśmy mieli ufną odwagę w dniu sądu; bo tak jak On jest i my jesteśmy w tym świecie."
-"1J4,18": "W miłości nie ma bojaźni, lecz doskonała miłość wyrzuca bojaźń na zewnątrz, gdyż bojaźń drży przed karą; a kto się boi, nie jest doskonały w miłości."
-"1J4,19": "My Go miłujemy, bo On nas pierwszy umiłował."
-"1J4,20": "Jeśli ktoś powiedziałby, że miłuje Boga, a nienawidziłby swojego brata, jest kłamcą; kto bowiem nie miłuje swojego brata, którego widzi, jak może miłować Boga, którego nie widzi?"
-"1J4,21": "A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata."
+"1J4,1":
+  text: "Umiłowani! Nie każdemu duchowi wierzcie, ale doświadczajcie duchy, czy są z Boga. Bo wielu fałszywych proroków wyszło na świat."
+  tags: []
+"1J4,2":
+  text: "Ducha Bożego poznawajcie po tym: wszelki duch, który wyznaje Jezusa Chrystusa, że przyszedł w ciele, jest z Boga."
+  tags: []
+"1J4,3":
+  text: "A wszelki duch, który nie wyznaje Jezusa Chrystusa, że przyszedł w ciele, nie jest z Boga; to jest duch antychrysta, o którym słyszeliście, że przychodzi i teraz już jest na świecie."
+  tags: []
+"1J4,4":
+  text: "Wy dzieciątka jesteście z Boga i zwyciężyliście ich; bo Ten, który jest w was, większy jest od tego, który jest w świecie."
+  tags: []
+"1J4,5":
+  text: "Oni są ze świata, dlatego mówią jak ludzie ze świata, a świat ich słucha."
+  tags: []
+"1J4,6":
+  text: "My jesteśmy z Boga. Kto zna Boga, słucha nas; kto nie jest z Boga, nie słucha nas. Po tym poznajemy ducha prawdy i ducha błędu."
+  tags: []
+"1J4,7":
+  text: "Umiłowani! Miłujmy jedni drugich, gdyż miłość jest z Boga; a każdy kto miłuje, z Boga jest zrodzony i zna Boga."
+  tags: []
+"1J4,8":
+  text: "Kto nie miłuje, nie poznał Boga; ponieważ Bóg jest miłością."
+  tags: []
+"1J4,9":
+  text: "W tym uwidoczniła się miłość Boga do nas, że Syna swojego jednorodzonego posłał Bóg na świat, abyśmy przez Niego żyli."
+  tags: []
+"1J4,10":
+  text: "W tym wyraża się miłość, że nie my umiłowaliśmy Boga, ale że On nas umiłował i posłał swojego Syna jako ofiarę przebłagalną za nasze grzechy."
+  tags: []
+"1J4,11":
+  text: "Umiłowani! Jeżeli Bóg nas tak umiłował, i my powinniśmy miłować jedni drugich."
+  tags: []
+"1J4,12":
+  text: "Boga nikt nigdy nie widział. Jeśli miłujemy jedni drugich, Bóg w nas trwa, a Jego miłość jest w nas doprowadzona do pełni."
+  tags: []
+"1J4,13":
+  text: "Po tym poznajemy, że w Nim trwamy i On w nas, że z Ducha swojego nam dał."
+  tags: []
+"1J4,14":
+  text: "A my widzieliśmy i zaświadczymy, że Ojciec posłał Syna, jako Zbawiciela świata."
+  tags: []
+"1J4,15":
+  text: "Ktokolwiek wyznałby, że Jezus jest Synem Boga, w nim trwa Bóg, a on w Bogu."
+  tags: []
+"1J4,16":
+  text: "A my poznaliśmy i uwierzyliśmy miłości, którą Bóg ma wobec nas. Bóg jest miłością i kto trwa w miłości, trwa w Bogu, a Bóg trwa w nim."
+  tags: []
+"1J4,17":
+  text: "W tym miłość jest doprowadzona do pełni w nas, abyśmy mieli ufną odwagę w dniu sądu; bo tak jak On jest i my jesteśmy w tym świecie."
+  tags: []
+"1J4,18":
+  text: "W miłości nie ma bojaźni, lecz doskonała miłość wyrzuca bojaźń na zewnątrz, gdyż bojaźń drży przed karą; a kto się boi, nie jest doskonały w miłości."
+  tags: []
+"1J4,19":
+  text: "My Go miłujemy, bo On nas pierwszy umiłował."
+  tags: []
+"1J4,20":
+  text: "Jeśli ktoś powiedziałby, że miłuje Boga, a nienawidziłby swojego brata, jest kłamcą; kto bowiem nie miłuje swojego brata, którego widzi, jak może miłować Boga, którego nie widzi?"
+  tags: []
+"1J4,21":
+  text: "A to przykazanie mamy od Niego, by ten, kto miłuje Boga, miłował i swojego brata."
+  tags: []

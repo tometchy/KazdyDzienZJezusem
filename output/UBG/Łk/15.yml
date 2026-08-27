@@ -1,32 +1,96 @@
-"Łk15,1": "I zbliżali się do niego wszyscy celnicy i grzesznicy, aby go słuchać."
-"Łk15,2": "A faryzeusze i uczeni w Piśmie szemrali, mówiąc: Ten człowiek przyjmuje grzeszników i jada z nimi."
-"Łk15,3": "I opowiedział im taką przypowieść:"
-"Łk15,4": "Któż z was, gdy ma sto owiec, a zgubi jedną z nich, nie zostawia dziewięćdziesięciu dziewięciu na pustyni i nie idzie za zgubioną, aż ją znajdzie?"
-"Łk15,5": "Kiedy ją znajdzie, wkłada na swoje ramiona i raduje się."
-"Łk15,6": "A przyszedłszy do domu, zwołuje przyjaciół i sąsiadów i mówi im: Cieszcie się ze mną, bo znalazłem moją zgubioną owcę."
-"Łk15,7": "Mówię wam, że podobnie w niebie większa będzie radość z jednego pokutującego grzesznika niż z dziewięćdziesięciu dziewięciu sprawiedliwych, którzy nie potrzebują pokuty."
-"Łk15,8": "Albo która kobieta, mając dziesięć monet, jeśli zgubi jedną, nie zapala świecy, nie zamiata domu i nie szuka pilnie, aż ją znajdzie?"
-"Łk15,9": "A znalazłszy, zwołuje przyjaciółki i sąsiadki i mówi: Cieszcie się ze mną, bo znalazłam monetę, którą zgubiłam."
-"Łk15,10": "Podobnie, mówię wam, będzie radość przed aniołami Boga z jednego pokutującego grzesznika."
-"Łk15,11": "Powiedział też: Pewien człowiek miał dwóch synów."
-"Łk15,12": "I powiedział młodszy z nich do ojca: Ojcze, daj mi część majątku, która na mnie przypada. Podzielił więc majątek między nich."
-"Łk15,13": "Po kilku dniach młodszy syn, zabrawszy wszystko, odjechał w dalekie strony i roztrwonił tam swój majątek, żyjąc rozpustnie."
-"Łk15,14": "A gdy wszystko wydał, nastał wielki głód w tych stronach, a on zaczął cierpieć niedostatek."
-"Łk15,15": "Poszedł więc i przystał do jednego z obywateli tych stron, który posłał go na swoje pola, aby pasł świnie."
-"Łk15,16": "I pragnął napełnić swój żołądek strąkami, które jadały świnie, ale nikt mu nie dawał."
-"Łk15,17": "Wtedy opamiętał się i powiedział: Iluż to najemników mego ojca ma pod dostatkiem chleba, a ja z głodu ginę."
-"Łk15,18": "Wstanę więc i pójdę do mego ojca, i powiem mu: Ojcze, zgrzeszyłem przeciwko niebu i względem ciebie;"
-"Łk15,19": "I nie jestem już godny nazywać się twoim synem. Zrób ze mnie jednego ze swoich najemników."
-"Łk15,20": "Wtedy wstał i poszedł do swego ojca. A gdy był jeszcze daleko, zobaczył go jego ojciec i użalił się nad nim, a podbiegłszy, rzucił mu się na szyję i ucałował go."
-"Łk15,21": "I powiedział do niego syn: Ojcze, zgrzeszyłem przeciwko niebu i przed tobą; nie jestem już godny nazywać się twoim synem."
-"Łk15,22": "Lecz ojciec powiedział do swoich sług: Przynieście najlepszą szatę i ubierzcie go; dajcie mu też pierścień na rękę i obuwie na nogi."
-"Łk15,23": "Przyprowadźcie tłuste cielę i zabijcie; jedzmy i radujmy się."
-"Łk15,24": "Ten mój syn bowiem był martwy, a znowu żyje, zaginął, a został znaleziony. I zaczęli się weselić."
-"Łk15,25": "Tymczasem jego starszy syn był na polu. Gdy wracał i był blisko domu, usłyszał muzykę i tańce."
-"Łk15,26": "Zawołał więc jednego ze sług i pytał, co to wszystko znaczy."
-"Łk15,27": "A on mu odpowiedział: Twój brat powrócił, a twój ojciec zabił tłuste cielę, ponieważ odzyskał go zdrowego."
-"Łk15,28": "Wtedy rozgniewał się i nie chciał wejść. Jego ojciec jednak wyszedł i namawiał go."
-"Łk15,29": "A on odpowiedział ojcu: Oto tyle lat ci służę i nigdy nie przekroczyłem twego przykazania, jednak nigdy nie dałeś mi koźlęcia, abym się weselił z moimi przyjaciółmi."
-"Łk15,30": "Ale kiedy wrócił ten twój syn, który roztrwonił twój majątek z nierządnicami, zabiłeś dla niego tłuste cielę."
-"Łk15,31": "A on mu odpowiedział: Synu, ty zawsze jesteś ze mną i wszystkie moje dobra należą do ciebie."
-"Łk15,32": "Lecz trzeba było weselić się i radować, że ten twój brat był martwy, a znowu żyje, zaginął, a został znaleziony."
+"Łk15,1":
+  text: "I zbliżali się do niego wszyscy celnicy i grzesznicy, aby go słuchać."
+  tags: []
+"Łk15,2":
+  text: "A faryzeusze i uczeni w Piśmie szemrali, mówiąc: Ten człowiek przyjmuje grzeszników i jada z nimi."
+  tags: []
+"Łk15,3":
+  text: "I opowiedział im taką przypowieść:"
+  tags: []
+"Łk15,4":
+  text: "Któż z was, gdy ma sto owiec, a zgubi jedną z nich, nie zostawia dziewięćdziesięciu dziewięciu na pustyni i nie idzie za zgubioną, aż ją znajdzie?"
+  tags: []
+"Łk15,5":
+  text: "Kiedy ją znajdzie, wkłada na swoje ramiona i raduje się."
+  tags: []
+"Łk15,6":
+  text: "A przyszedłszy do domu, zwołuje przyjaciół i sąsiadów i mówi im: Cieszcie się ze mną, bo znalazłem moją zgubioną owcę."
+  tags: []
+"Łk15,7":
+  text: "Mówię wam, że podobnie w niebie większa będzie radość z jednego pokutującego grzesznika niż z dziewięćdziesięciu dziewięciu sprawiedliwych, którzy nie potrzebują pokuty."
+  tags: []
+"Łk15,8":
+  text: "Albo która kobieta, mając dziesięć monet, jeśli zgubi jedną, nie zapala świecy, nie zamiata domu i nie szuka pilnie, aż ją znajdzie?"
+  tags: []
+"Łk15,9":
+  text: "A znalazłszy, zwołuje przyjaciółki i sąsiadki i mówi: Cieszcie się ze mną, bo znalazłam monetę, którą zgubiłam."
+  tags: []
+"Łk15,10":
+  text: "Podobnie, mówię wam, będzie radość przed aniołami Boga z jednego pokutującego grzesznika."
+  tags: []
+"Łk15,11":
+  text: "Powiedział też: Pewien człowiek miał dwóch synów."
+  tags: []
+"Łk15,12":
+  text: "I powiedział młodszy z nich do ojca: Ojcze, daj mi część majątku, która na mnie przypada. Podzielił więc majątek między nich."
+  tags: []
+"Łk15,13":
+  text: "Po kilku dniach młodszy syn, zabrawszy wszystko, odjechał w dalekie strony i roztrwonił tam swój majątek, żyjąc rozpustnie."
+  tags: []
+"Łk15,14":
+  text: "A gdy wszystko wydał, nastał wielki głód w tych stronach, a on zaczął cierpieć niedostatek."
+  tags: []
+"Łk15,15":
+  text: "Poszedł więc i przystał do jednego z obywateli tych stron, który posłał go na swoje pola, aby pasł świnie."
+  tags: []
+"Łk15,16":
+  text: "I pragnął napełnić swój żołądek strąkami, które jadały świnie, ale nikt mu nie dawał."
+  tags: []
+"Łk15,17":
+  text: "Wtedy opamiętał się i powiedział: Iluż to najemników mego ojca ma pod dostatkiem chleba, a ja z głodu ginę."
+  tags: []
+"Łk15,18":
+  text: "Wstanę więc i pójdę do mego ojca, i powiem mu: Ojcze, zgrzeszyłem przeciwko niebu i względem ciebie;"
+  tags: []
+"Łk15,19":
+  text: "I nie jestem już godny nazywać się twoim synem. Zrób ze mnie jednego ze swoich najemników."
+  tags: []
+"Łk15,20":
+  text: "Wtedy wstał i poszedł do swego ojca. A gdy był jeszcze daleko, zobaczył go jego ojciec i użalił się nad nim, a podbiegłszy, rzucił mu się na szyję i ucałował go."
+  tags: []
+"Łk15,21":
+  text: "I powiedział do niego syn: Ojcze, zgrzeszyłem przeciwko niebu i przed tobą; nie jestem już godny nazywać się twoim synem."
+  tags: []
+"Łk15,22":
+  text: "Lecz ojciec powiedział do swoich sług: Przynieście najlepszą szatę i ubierzcie go; dajcie mu też pierścień na rękę i obuwie na nogi."
+  tags: []
+"Łk15,23":
+  text: "Przyprowadźcie tłuste cielę i zabijcie; jedzmy i radujmy się."
+  tags: []
+"Łk15,24":
+  text: "Ten mój syn bowiem był martwy, a znowu żyje, zaginął, a został znaleziony. I zaczęli się weselić."
+  tags: []
+"Łk15,25":
+  text: "Tymczasem jego starszy syn był na polu. Gdy wracał i był blisko domu, usłyszał muzykę i tańce."
+  tags: []
+"Łk15,26":
+  text: "Zawołał więc jednego ze sług i pytał, co to wszystko znaczy."
+  tags: []
+"Łk15,27":
+  text: "A on mu odpowiedział: Twój brat powrócił, a twój ojciec zabił tłuste cielę, ponieważ odzyskał go zdrowego."
+  tags: []
+"Łk15,28":
+  text: "Wtedy rozgniewał się i nie chciał wejść. Jego ojciec jednak wyszedł i namawiał go."
+  tags: []
+"Łk15,29":
+  text: "A on odpowiedział ojcu: Oto tyle lat ci służę i nigdy nie przekroczyłem twego przykazania, jednak nigdy nie dałeś mi koźlęcia, abym się weselił z moimi przyjaciółmi."
+  tags: []
+"Łk15,30":
+  text: "Ale kiedy wrócił ten twój syn, który roztrwonił twój majątek z nierządnicami, zabiłeś dla niego tłuste cielę."
+  tags: []
+"Łk15,31":
+  text: "A on mu odpowiedział: Synu, ty zawsze jesteś ze mną i wszystkie moje dobra należą do ciebie."
+  tags: []
+"Łk15,32":
+  text: "Lecz trzeba było weselić się i radować, że ten twój brat był martwy, a znowu żyje, zaginął, a został znaleziony."
+  tags: []

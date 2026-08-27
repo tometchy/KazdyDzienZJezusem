@@ -1,26 +1,78 @@
-"Hi3,1": "Po tym Hiob otworzył swoje usta i przeklął swój dzień."
-"Hi3,2": "I odpowiedział Hiob, i tak mówił:"
-"Hi3,3": "Oby zginął dzień, w którym zostałem zrodzony, i noc, w którą powiedziano: Został poczęty mężczyzna!"
-"Hi3,4": "Oby ten dzień stał się ciemnością, oby o niego nie troszczył się Bóg z wysokości i oby nie promieniała nad nim jutrzenka!"
-"Hi3,5": "Oby go pomściły ciemność i cień śmierci. Oby rozsiadł się na nim obłok i przeraziły mroki dnia!"
-"Hi3,6": "Oby tą nocą zawładnęła ciemność, oby nie była radosna wśród dni roku i nie weszła w poczet miesięcy!"
-"Hi3,7": "O, gdybyż ta noc była niepłodna, oby nie wkroczył w nią radosny śpiew!"
-"Hi3,8": "Oby ją oznaczyli ci, którzy przeklinają dzień, ci, którzy są gotowi pobudzić Lewiatana."
-"Hi3,9": "Oby stały się ciemne gwiazdy świtania! Oby wypatrywała światła i nie było go; i nie zobaczyła promieni świtu;"
-"Hi3,10": "Bo nie zamknęła przede mną drzwi łona i nie ukryła cierpienia przed moimi oczami."
-"Hi3,11": "Dlaczego nie umarłem już w łonie, nie wyszedłem z łona – i nie zginąłem?"
-"Hi3,12": "Czemu przyjęły mnie kolana? I dlaczego przyjęły mnie piersi – abym ssał?"
-"Hi3,13": "Tak, teraz leżałbym i był cicho, wtedy spałbym i odpoczywał;"
-"Hi3,14": "Z królami i radcami ziemi, którzy budowali dla siebie dzisiejsze ruiny;"
-"Hi3,15": "Lub z władcami, którzy mieli złoto, napełniający niegdyś swoje domy srebrem;"
-"Hi3,16": "Lub czemu nie stałem się jak pogrzebany, martwy płód, jak niemowlęta, które nie widziały światła?"
-"Hi3,17": "Tam bezbożni przestają szaleć, i tam odpoczywają zmęczeni bez siły."
-"Hi3,18": "Razem spoczywają tam więźniowie i nie słyszą głosu ciemiężcy."
-"Hi3,19": "Mały i wielki – tam on jest. Także niewolnik uwolniony od swojego pana."
-"Hi3,20": "Dlaczego nieszczęśnikowi dane jest światło, a życie rozgoryczonym na duszy;"
-"Hi3,21": "Tym, którzy wyczekują śmierci, a jej nie ma, choć szukają jej bardziej niż ukrytych skarbów;"
-"Hi3,22": "Którzy bardzo się radują i cieszą, kiedy znajdują grób?"
-"Hi3,23": "Człowiekowi, przed którym droga została zakryta i którego Bóg zewsząd osaczył?"
-"Hi3,24": "Bo przed jedzeniem nachodzi mnie wzdychanie, a moje jęki wylewają się jak woda;"
-"Hi3,25": "Bo strach, którego się obawiałem, spadł na mnie, a to, czego się lękałem, przyszło do mnie."
-"Hi3,26": "Nie wytchnąłem, ani nie miałem spokoju, ani nie miałem odpoczynku – a nagle nadeszła trwoga."
+"Hi3,1":
+  text: "Po tym Hiob otworzył swoje usta i przeklął swój dzień."
+  tags: []
+"Hi3,2":
+  text: "I odpowiedział Hiob, i tak mówił:"
+  tags: []
+"Hi3,3":
+  text: "Oby zginął dzień, w którym zostałem zrodzony, i noc, w którą powiedziano: Został poczęty mężczyzna!"
+  tags: []
+"Hi3,4":
+  text: "Oby ten dzień stał się ciemnością, oby o niego nie troszczył się Bóg z wysokości i oby nie promieniała nad nim jutrzenka!"
+  tags: []
+"Hi3,5":
+  text: "Oby go pomściły ciemność i cień śmierci. Oby rozsiadł się na nim obłok i przeraziły mroki dnia!"
+  tags: []
+"Hi3,6":
+  text: "Oby tą nocą zawładnęła ciemność, oby nie była radosna wśród dni roku i nie weszła w poczet miesięcy!"
+  tags: []
+"Hi3,7":
+  text: "O, gdybyż ta noc była niepłodna, oby nie wkroczył w nią radosny śpiew!"
+  tags: []
+"Hi3,8":
+  text: "Oby ją oznaczyli ci, którzy przeklinają dzień, ci, którzy są gotowi pobudzić Lewiatana."
+  tags: []
+"Hi3,9":
+  text: "Oby stały się ciemne gwiazdy świtania! Oby wypatrywała światła i nie było go; i nie zobaczyła promieni świtu;"
+  tags: []
+"Hi3,10":
+  text: "Bo nie zamknęła przede mną drzwi łona i nie ukryła cierpienia przed moimi oczami."
+  tags: []
+"Hi3,11":
+  text: "Dlaczego nie umarłem już w łonie, nie wyszedłem z łona – i nie zginąłem?"
+  tags: []
+"Hi3,12":
+  text: "Czemu przyjęły mnie kolana? I dlaczego przyjęły mnie piersi – abym ssał?"
+  tags: []
+"Hi3,13":
+  text: "Tak, teraz leżałbym i był cicho, wtedy spałbym i odpoczywał;"
+  tags: []
+"Hi3,14":
+  text: "Z królami i radcami ziemi, którzy budowali dla siebie dzisiejsze ruiny;"
+  tags: []
+"Hi3,15":
+  text: "Lub z władcami, którzy mieli złoto, napełniający niegdyś swoje domy srebrem;"
+  tags: []
+"Hi3,16":
+  text: "Lub czemu nie stałem się jak pogrzebany, martwy płód, jak niemowlęta, które nie widziały światła?"
+  tags: []
+"Hi3,17":
+  text: "Tam bezbożni przestają szaleć, i tam odpoczywają zmęczeni bez siły."
+  tags: []
+"Hi3,18":
+  text: "Razem spoczywają tam więźniowie i nie słyszą głosu ciemiężcy."
+  tags: []
+"Hi3,19":
+  text: "Mały i wielki – tam on jest. Także niewolnik uwolniony od swojego pana."
+  tags: []
+"Hi3,20":
+  text: "Dlaczego nieszczęśnikowi dane jest światło, a życie rozgoryczonym na duszy;"
+  tags: []
+"Hi3,21":
+  text: "Tym, którzy wyczekują śmierci, a jej nie ma, choć szukają jej bardziej niż ukrytych skarbów;"
+  tags: []
+"Hi3,22":
+  text: "Którzy bardzo się radują i cieszą, kiedy znajdują grób?"
+  tags: []
+"Hi3,23":
+  text: "Człowiekowi, przed którym droga została zakryta i którego Bóg zewsząd osaczył?"
+  tags: []
+"Hi3,24":
+  text: "Bo przed jedzeniem nachodzi mnie wzdychanie, a moje jęki wylewają się jak woda;"
+  tags: []
+"Hi3,25":
+  text: "Bo strach, którego się obawiałem, spadł na mnie, a to, czego się lękałem, przyszło do mnie."
+  tags: []
+"Hi3,26":
+  text: "Nie wytchnąłem, ani nie miałem spokoju, ani nie miałem odpoczynku – a nagle nadeszła trwoga."
+  tags: []

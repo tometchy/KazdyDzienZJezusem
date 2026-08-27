@@ -1,24 +1,72 @@
-"Jr30,1": "Słowo, które doszło do Jeremiasza od PANA, mówiące:"
-"Jr30,2": "Tak mówi PAN, Bóg Izraela: Napisz sobie w księdze wszystkie słowa, które powiedziałem do ciebie."
-"Jr30,3": "Oto bowiem nadchodzą dni, mówi PAN, gdy odwrócę niewolę swego ludu Izraela i Judy, mówi PAN, i sprowadzę ich do ziemi, którą dałem ich ojcom, i posiądą ją."
-"Jr30,4": "A to są słowa, które PAN mówił o Izraelu i o Judzie:"
-"Jr30,5": "Tak mówi PAN: Słyszeliśmy głos strachu i lęku, a nie pokoju."
-"Jr30,6": "Pytajcie teraz i zobaczcie: Czy mężczyzna może rodzić? Czemu więc widzę, że każdy mężczyzna trzyma ręce na biodrach – jak u rodzącej – i że ich twarze stały się blade?"
-"Jr30,7": "Biada! Bo wielki jest ten dzień, że nie będzie mu równego. To jest czas utrapienia Jakuba, ale będzie z niego wybawiony."
-"Jr30,8": "W tym dniu bowiem, mówi PAN zastępów, złamię jego jarzmo znad twojej szyi i rozerwę twoje więzy, i cudzoziemcy już nie będą go ujarzmiać;"
-"Jr30,9": "Ale będą służyć PANU, swemu Bogu, i Dawidowi, swemu królowi, którego im wzbudzę."
-"Jr30,10": "Dlatego nie bój się, mój sługo, Jakubie, mówi PAN, nie lękaj się, Izraelu! Oto bowiem wybawię cię z daleka, twoje potomstwo z ziemi jego niewoli. Powróci Jakub, aby zaznać odpoczynku i spokoju i nikt nie będzie go straszył."
-"Jr30,11": "Ja bowiem jestem z tobą, mówi PAN, aby cię wybawić. A chociaż położę kres wszystkim narodom, wśród których cię rozproszyłem, tobie jednak nie położę kresu, ale ukarzę cię sprawiedliwie, nie zostawię cię całkiem bez kary."
-"Jr30,12": "Tak mówi PAN: Twoje zranienie jest nieuleczalne, bardzo bolesna twoja rana."
-"Jr30,13": "Nie ma nikogo, kto by bronił twojej sprawy, abyś była uleczona. Nie masz lekarstwa na gojenie ran."
-"Jr30,14": "Wszyscy twoi kochankowie zapomnieli o tobie, nie szukają cię, gdyż zraniłem cię ciosem wroga i okrutnym karaniem z powodu mnóstwa twoich nieprawości i twoich niezliczonych grzechów."
-"Jr30,15": "Czemu wołasz z powodu swej rany i ciężkiej boleści? Za ogrom twoich nieprawości i twoje niezliczone grzechy uczyniłem ci to."
-"Jr30,16": "Wszyscy jednak, co cię pożerają, zostaną pożarci; wszyscy, którzy cię uciskają, pójdą w niewolę; ci, którzy cię ograbiają, zostaną ograbieni; a wszystkich, którzy cię łupią, wydam na łup."
-"Jr30,17": "Przywrócę ci bowiem zdrowie i uleczę cię z twoich ran, mówi PAN, gdyż nazwali cię Odrzuconą, mówiąc: To jest Syjon, o który nikt się nie troszczy."
-"Jr30,18": "Tak mówi PAN: Oto odwrócę niewolę namiotów Jakuba i zlituję się nad jego mieszkaniem, i miasto zostanie odbudowane na swoim wzgórzu, a pałac wystawiony według swego porządku."
-"Jr30,19": "I rozlegnie się stamtąd dziękczynienie i głos weselących się. Rozmnożę ich i nie będzie ich ubywało, uwielbię ich i nie będą poniżeni."
-"Jr30,20": "Jego synowie będą tak jak dawniej i jego zgromadzenie będzie utwierdzone przede mną, ale ukarzę wszystkich, którzy ich trapią."
-"Jr30,21": "I z niego powstanie jego władca, panujący nad nim spośród niego wyjdzie; każę mu się zbliżyć, a przystąpi do mnie. Kim bowiem jest ten, co odważyłby się w sercu zbliżyć do mnie? – mówi PAN."
-"Jr30,22": "I będziecie moim ludem, a ja będę waszym Bogiem."
-"Jr30,23": "Oto wicher PANA zrywa się w zapalczywości, trwający wicher spadnie nad głowy bezbożnych."
-"Jr30,24": "Zapalczywość gniewu PANA nie odwróci się, aż on to uczyni i wykona zamysły swego serca. W dniach ostatecznych to zrozumiecie."
+"Jr30,1":
+  text: "Słowo, które doszło do Jeremiasza od PANA, mówiące:"
+  tags: []
+"Jr30,2":
+  text: "Tak mówi PAN, Bóg Izraela: Napisz sobie w księdze wszystkie słowa, które powiedziałem do ciebie."
+  tags: []
+"Jr30,3":
+  text: "Oto bowiem nadchodzą dni, mówi PAN, gdy odwrócę niewolę swego ludu Izraela i Judy, mówi PAN, i sprowadzę ich do ziemi, którą dałem ich ojcom, i posiądą ją."
+  tags: []
+"Jr30,4":
+  text: "A to są słowa, które PAN mówił o Izraelu i o Judzie:"
+  tags: []
+"Jr30,5":
+  text: "Tak mówi PAN: Słyszeliśmy głos strachu i lęku, a nie pokoju."
+  tags: []
+"Jr30,6":
+  text: "Pytajcie teraz i zobaczcie: Czy mężczyzna może rodzić? Czemu więc widzę, że każdy mężczyzna trzyma ręce na biodrach – jak u rodzącej – i że ich twarze stały się blade?"
+  tags: []
+"Jr30,7":
+  text: "Biada! Bo wielki jest ten dzień, że nie będzie mu równego. To jest czas utrapienia Jakuba, ale będzie z niego wybawiony."
+  tags: []
+"Jr30,8":
+  text: "W tym dniu bowiem, mówi PAN zastępów, złamię jego jarzmo znad twojej szyi i rozerwę twoje więzy, i cudzoziemcy już nie będą go ujarzmiać;"
+  tags: []
+"Jr30,9":
+  text: "Ale będą służyć PANU, swemu Bogu, i Dawidowi, swemu królowi, którego im wzbudzę."
+  tags: []
+"Jr30,10":
+  text: "Dlatego nie bój się, mój sługo, Jakubie, mówi PAN, nie lękaj się, Izraelu! Oto bowiem wybawię cię z daleka, twoje potomstwo z ziemi jego niewoli. Powróci Jakub, aby zaznać odpoczynku i spokoju i nikt nie będzie go straszył."
+  tags: []
+"Jr30,11":
+  text: "Ja bowiem jestem z tobą, mówi PAN, aby cię wybawić. A chociaż położę kres wszystkim narodom, wśród których cię rozproszyłem, tobie jednak nie położę kresu, ale ukarzę cię sprawiedliwie, nie zostawię cię całkiem bez kary."
+  tags: []
+"Jr30,12":
+  text: "Tak mówi PAN: Twoje zranienie jest nieuleczalne, bardzo bolesna twoja rana."
+  tags: []
+"Jr30,13":
+  text: "Nie ma nikogo, kto by bronił twojej sprawy, abyś była uleczona. Nie masz lekarstwa na gojenie ran."
+  tags: []
+"Jr30,14":
+  text: "Wszyscy twoi kochankowie zapomnieli o tobie, nie szukają cię, gdyż zraniłem cię ciosem wroga i okrutnym karaniem z powodu mnóstwa twoich nieprawości i twoich niezliczonych grzechów."
+  tags: []
+"Jr30,15":
+  text: "Czemu wołasz z powodu swej rany i ciężkiej boleści? Za ogrom twoich nieprawości i twoje niezliczone grzechy uczyniłem ci to."
+  tags: []
+"Jr30,16":
+  text: "Wszyscy jednak, co cię pożerają, zostaną pożarci; wszyscy, którzy cię uciskają, pójdą w niewolę; ci, którzy cię ograbiają, zostaną ograbieni; a wszystkich, którzy cię łupią, wydam na łup."
+  tags: []
+"Jr30,17":
+  text: "Przywrócę ci bowiem zdrowie i uleczę cię z twoich ran, mówi PAN, gdyż nazwali cię Odrzuconą, mówiąc: To jest Syjon, o który nikt się nie troszczy."
+  tags: []
+"Jr30,18":
+  text: "Tak mówi PAN: Oto odwrócę niewolę namiotów Jakuba i zlituję się nad jego mieszkaniem, i miasto zostanie odbudowane na swoim wzgórzu, a pałac wystawiony według swego porządku."
+  tags: []
+"Jr30,19":
+  text: "I rozlegnie się stamtąd dziękczynienie i głos weselących się. Rozmnożę ich i nie będzie ich ubywało, uwielbię ich i nie będą poniżeni."
+  tags: []
+"Jr30,20":
+  text: "Jego synowie będą tak jak dawniej i jego zgromadzenie będzie utwierdzone przede mną, ale ukarzę wszystkich, którzy ich trapią."
+  tags: []
+"Jr30,21":
+  text: "I z niego powstanie jego władca, panujący nad nim spośród niego wyjdzie; każę mu się zbliżyć, a przystąpi do mnie. Kim bowiem jest ten, co odważyłby się w sercu zbliżyć do mnie? – mówi PAN."
+  tags: []
+"Jr30,22":
+  text: "I będziecie moim ludem, a ja będę waszym Bogiem."
+  tags: []
+"Jr30,23":
+  text: "Oto wicher PANA zrywa się w zapalczywości, trwający wicher spadnie nad głowy bezbożnych."
+  tags: []
+"Jr30,24":
+  text: "Zapalczywość gniewu PANA nie odwróci się, aż on to uczyni i wykona zamysły swego serca. W dniach ostatecznych to zrozumiecie."
+  tags: []

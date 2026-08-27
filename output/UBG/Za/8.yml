@@ -1,23 +1,69 @@
-"Za8,1": "Potem doszło do mnie słowo PANA zastępów mówiące:"
-"Za8,2": "Tak mówi PAN zastępów: Byłem zazdrosny o Syjon w wielkiej gorliwości, byłem zazdrosny w wielkim gniewie."
-"Za8,3": "Tak mówi PAN: Wróciłem na Syjon i zamieszkam w Jerozolimie; a Jerozolima będzie nazwana Miastem Wiernym, a góra PANA zastępów – Górą Świętą."
-"Za8,4": "Tak mówi PAN zastępów: Jeszcze siadać będą starcy i staruszki na ulicach Jerozolimy, każdy z nich z laską w ręku z powodu podeszłego wieku."
-"Za8,5": "I ulice miasta będą pełne bawiących się na nich chłopców i dziewcząt."
-"Za8,6": "Tak mówi PAN zastępów: Jeśli w tych dniach wyda się to niemożliwe w oczach resztki tego ludu, czy będzie to też niemożliwe w moich oczach? – mówi PAN zastępów."
-"Za8,7": "Tak mówi PAN zastępów: Oto wybawię swój lud z ziemi wschodniej i z ziemi zachodniej."
-"Za8,8": "Sprowadzę go i zamieszka w Jerozolimie, i będzie moim ludem, a ja będę jego Bogiem, w prawdzie i sprawiedliwości."
-"Za8,9": "Tak mówi PAN zastępów: Niech się umocnią wasze ręce, wy, którzy słuchaliście w tych dniach słów z ust proroków, którzy byli w dniu, kiedy założono fundament domu PANA zastępów, aby świątynia została odbudowana."
-"Za8,10": "Przed tymi dniami bowiem nie była wynagrodzona praca ludzka i praca bydląt. Dla wychodzących i wchodzących nie było pokoju z powodu wroga, bo ja podburzyłem wszystkich ludzi, jednych przeciwko drugim."
-"Za8,11": "Lecz teraz nie uczynię z resztką tego ludu tak jak za dawnych dni, mówi PAN zastępów."
-"Za8,12": "Ale siewy będą rosły w pokoju, winorośl wyda swój owoc, ziemia wyda swoje plony i niebiosa także spuszczą swoją rosę, a to wszystko dam resztce tego ludu w posiadanie."
-"Za8,13": "I stanie się, że jak byliście przekleństwem wśród pogan, domu Judy i domu Izraela, tak was wybawię i będziecie błogosławieństwem. Nie bójcie się i niech się umocnią wasze ręce."
-"Za8,14": "Tak bowiem mówi PAN zastępów: Jak postanowiłem ukarać was, gdy wasi ojcowie pobudzali mnie do gniewu, mówi PAN zastępów – i nie żałowałem tego;"
-"Za8,15": "Tak znowu postanowiłem w tych dniach uczynić dobrze Jerozolimie i domowi Judy. Nie bójcie się."
-"Za8,16": "To są rzeczy, które będziecie czynić: Mówcie prawdę, każdy ze swoim bliźnim, wykonujcie sprawiedliwy i spokojny sąd w waszych bramach;"
-"Za8,17": "Nie obmyślajcie zła w sercach waszych, jeden przeciwko drugiemu, i nie lubujcie się w krzywoprzysięstwie, gdyż tego wszystkiego nienawidzę, mówi PAN."
-"Za8,18": "I doszło do mnie słowo PANA zastępów mówiące:"
-"Za8,19": "Tak mówi PAN zastępów: Post w czwartym, piątym, siódmym i dziesiątym miesiącu zamienią się dla domu Judy w radość i wesele, i w rozkoszne święta. Miłujcie więc prawdę i pokój."
-"Za8,20": "Tak mówi PAN zastępów: Jeszcze będą przychodzić narody i mieszkańcy wielu miast."
-"Za8,21": "Mieszkańcy jednego miasta pójdą do drugiego, mówiąc: Pójdźmy ochoczo przebłagać oblicze PANA i szukać PANA zastępów. Ja także pójdę."
-"Za8,22": "A tak liczne ludy i potężne narody przybędą szukać PANA zastępów w Jerozolimie i przebłagać oblicze PANA."
-"Za8,23": "Tak mówi PAN zastępów: W tych dniach dziesięciu ludzi ze wszystkich języków narodów uchwyci się poły jednego Żyda, mówiąc: Pójdziemy z wami, bo usłyszeliśmy, że Bóg jest z wami."
+"Za8,1":
+  text: "Potem doszło do mnie słowo PANA zastępów mówiące:"
+  tags: []
+"Za8,2":
+  text: "Tak mówi PAN zastępów: Byłem zazdrosny o Syjon w wielkiej gorliwości, byłem zazdrosny w wielkim gniewie."
+  tags: []
+"Za8,3":
+  text: "Tak mówi PAN: Wróciłem na Syjon i zamieszkam w Jerozolimie; a Jerozolima będzie nazwana Miastem Wiernym, a góra PANA zastępów – Górą Świętą."
+  tags: []
+"Za8,4":
+  text: "Tak mówi PAN zastępów: Jeszcze siadać będą starcy i staruszki na ulicach Jerozolimy, każdy z nich z laską w ręku z powodu podeszłego wieku."
+  tags: []
+"Za8,5":
+  text: "I ulice miasta będą pełne bawiących się na nich chłopców i dziewcząt."
+  tags: []
+"Za8,6":
+  text: "Tak mówi PAN zastępów: Jeśli w tych dniach wyda się to niemożliwe w oczach resztki tego ludu, czy będzie to też niemożliwe w moich oczach? – mówi PAN zastępów."
+  tags: []
+"Za8,7":
+  text: "Tak mówi PAN zastępów: Oto wybawię swój lud z ziemi wschodniej i z ziemi zachodniej."
+  tags: []
+"Za8,8":
+  text: "Sprowadzę go i zamieszka w Jerozolimie, i będzie moim ludem, a ja będę jego Bogiem, w prawdzie i sprawiedliwości."
+  tags: []
+"Za8,9":
+  text: "Tak mówi PAN zastępów: Niech się umocnią wasze ręce, wy, którzy słuchaliście w tych dniach słów z ust proroków, którzy byli w dniu, kiedy założono fundament domu PANA zastępów, aby świątynia została odbudowana."
+  tags: []
+"Za8,10":
+  text: "Przed tymi dniami bowiem nie była wynagrodzona praca ludzka i praca bydląt. Dla wychodzących i wchodzących nie było pokoju z powodu wroga, bo ja podburzyłem wszystkich ludzi, jednych przeciwko drugim."
+  tags: []
+"Za8,11":
+  text: "Lecz teraz nie uczynię z resztką tego ludu tak jak za dawnych dni, mówi PAN zastępów."
+  tags: []
+"Za8,12":
+  text: "Ale siewy będą rosły w pokoju, winorośl wyda swój owoc, ziemia wyda swoje plony i niebiosa także spuszczą swoją rosę, a to wszystko dam resztce tego ludu w posiadanie."
+  tags: []
+"Za8,13":
+  text: "I stanie się, że jak byliście przekleństwem wśród pogan, domu Judy i domu Izraela, tak was wybawię i będziecie błogosławieństwem. Nie bójcie się i niech się umocnią wasze ręce."
+  tags: []
+"Za8,14":
+  text: "Tak bowiem mówi PAN zastępów: Jak postanowiłem ukarać was, gdy wasi ojcowie pobudzali mnie do gniewu, mówi PAN zastępów – i nie żałowałem tego;"
+  tags: []
+"Za8,15":
+  text: "Tak znowu postanowiłem w tych dniach uczynić dobrze Jerozolimie i domowi Judy. Nie bójcie się."
+  tags: []
+"Za8,16":
+  text: "To są rzeczy, które będziecie czynić: Mówcie prawdę, każdy ze swoim bliźnim, wykonujcie sprawiedliwy i spokojny sąd w waszych bramach;"
+  tags: []
+"Za8,17":
+  text: "Nie obmyślajcie zła w sercach waszych, jeden przeciwko drugiemu, i nie lubujcie się w krzywoprzysięstwie, gdyż tego wszystkiego nienawidzę, mówi PAN."
+  tags: []
+"Za8,18":
+  text: "I doszło do mnie słowo PANA zastępów mówiące:"
+  tags: []
+"Za8,19":
+  text: "Tak mówi PAN zastępów: Post w czwartym, piątym, siódmym i dziesiątym miesiącu zamienią się dla domu Judy w radość i wesele, i w rozkoszne święta. Miłujcie więc prawdę i pokój."
+  tags: []
+"Za8,20":
+  text: "Tak mówi PAN zastępów: Jeszcze będą przychodzić narody i mieszkańcy wielu miast."
+  tags: []
+"Za8,21":
+  text: "Mieszkańcy jednego miasta pójdą do drugiego, mówiąc: Pójdźmy ochoczo przebłagać oblicze PANA i szukać PANA zastępów. Ja także pójdę."
+  tags: []
+"Za8,22":
+  text: "A tak liczne ludy i potężne narody przybędą szukać PANA zastępów w Jerozolimie i przebłagać oblicze PANA."
+  tags: []
+"Za8,23":
+  text: "Tak mówi PAN zastępów: W tych dniach dziesięciu ludzi ze wszystkich języków narodów uchwyci się poły jednego Żyda, mówiąc: Pójdziemy z wami, bo usłyszeliśmy, że Bóg jest z wami."
+  tags: []

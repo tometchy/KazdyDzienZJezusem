@@ -1,20 +1,60 @@
-"Jk5,1": "Przychodźcie teraz wy, bogaci, zapłaczcie z zawodzeniem nad utrapieniami, które przychodzą na was."
-"Jk5,2": "Bogactwo wasze zgniło, a wasze szaty zostały zjedzone przez mole."
-"Jk5,3": "Wasze złoto i srebro zaśniedziało, a ich śniedź będzie służyć za świadectwo przeciwko wam i trawić będzie wasze ciała jak ogień; zgromadziliście skarby w dniach ostatecznych."
-"Jk5,4": "Oto krzyczy wstrzymana przez was zapłata robotników, którzy zżęli wasze pola, a wołania żniwiarzy doszły do uszu PANA Zastępów."
-"Jk5,5": "Żyliście na ziemi w rozkoszach i w zbytku; utuczyliście swoje serca, jak na dzień rzezi."
-"Jk5,6": "Skazaliście i zamordowaliście sprawiedliwego. Już się wam nie przeciwstawia."
-"Jk5,7": "Dlatego, bracia, bądźcie cierpliwi aż do przyjścia Pana. Oto rolnik oczekuje na cenny plon ziemi, zachowując wobec niego cierpliwość, aż otrzyma deszcz wczesny i późny."
-"Jk5,8": "Bądźcie i wy cierpliwi, i umocnijcie swoje serca; bowiem blisko jest przyjście Pana."
-"Jk5,9": "Nie wzdychajcie, bracia, jedni na drugich, abyście nie byli osądzeni. Oto sędzia stanął u drzwi."
-"Jk5,10": "Weźcie za przykład, moi bracia, znoszenie zła i cierpliwość proroków, którzy powiedzieli słowo w imieniu PANA."
-"Jk5,11": "Oto za szczęśliwych uważamy tych, którzy wytrwali. Słyszeliście o wytrwałości Hioba i widzieliście zakończenie PANA, bo wielce miłosierny i litościwy jest PAN."
-"Jk5,12": "A przede wszystkim, bracia moi, nie przysięgajcie ani na niebo, ani na ziemię, ani jakąkolwiek inną przysięgą; ale wasze „tak” niech będzie „tak”, a wasze „nie” niech będzie „nie”; abyście nie popadli pod sąd."
-"Jk5,13": "Cierpi ktoś zło między wami? Niech się modli. Ktoś jest dobrej myśli, niech śpiewa pieśni;"
-"Jk5,14": "Choruje ktoś pośród was, niech przywoła do siebie starszych zboru i niech się modlą nad nim, gdy namaścili go olejem w imieniu Pana;"
-"Jk5,15": "A modlitwa wiary uratuje chorego i Pan go podniesie; a jeśli dopuścił się grzechów, zostaną mu odpuszczone."
-"Jk5,16": "Wyznawajcie jedni drugim upadki i módlcie się jedni za drugich, abyście zostali uzdrowieni. Wiele może usilna modlitwa sprawiedliwego."
-"Jk5,17": "Eliasz był człowiekiem podobnym do nas w swoich doświadczeniach i usilnie pomodlił się, żeby nie padał deszcz; i nie spadł deszcz na ziemię przez trzy lata i sześć miesięcy,"
-"Jk5,18": "I znowu modlił się, a niebo dało deszcz i ziemia zrodziła swój owoc."
-"Jk5,19": "Bracia! Jeśli ktoś z was zostałby odwiedziony od prawdy, a ktoś by go zawrócił,"
-"Jk5,20": "Niech wie, że kto zawrócił grzesznika z jego błędnej drogi, uratuje jego duszę od śmierci i zakryje mnóstwo grzechów."
+"Jk5,1":
+  text: "Przychodźcie teraz wy, bogaci, zapłaczcie z zawodzeniem nad utrapieniami, które przychodzą na was."
+  tags: []
+"Jk5,2":
+  text: "Bogactwo wasze zgniło, a wasze szaty zostały zjedzone przez mole."
+  tags: []
+"Jk5,3":
+  text: "Wasze złoto i srebro zaśniedziało, a ich śniedź będzie służyć za świadectwo przeciwko wam i trawić będzie wasze ciała jak ogień; zgromadziliście skarby w dniach ostatecznych."
+  tags: []
+"Jk5,4":
+  text: "Oto krzyczy wstrzymana przez was zapłata robotników, którzy zżęli wasze pola, a wołania żniwiarzy doszły do uszu PANA Zastępów."
+  tags: []
+"Jk5,5":
+  text: "Żyliście na ziemi w rozkoszach i w zbytku; utuczyliście swoje serca, jak na dzień rzezi."
+  tags: []
+"Jk5,6":
+  text: "Skazaliście i zamordowaliście sprawiedliwego. Już się wam nie przeciwstawia."
+  tags: []
+"Jk5,7":
+  text: "Dlatego, bracia, bądźcie cierpliwi aż do przyjścia Pana. Oto rolnik oczekuje na cenny plon ziemi, zachowując wobec niego cierpliwość, aż otrzyma deszcz wczesny i późny."
+  tags: []
+"Jk5,8":
+  text: "Bądźcie i wy cierpliwi, i umocnijcie swoje serca; bowiem blisko jest przyjście Pana."
+  tags: []
+"Jk5,9":
+  text: "Nie wzdychajcie, bracia, jedni na drugich, abyście nie byli osądzeni. Oto sędzia stanął u drzwi."
+  tags: []
+"Jk5,10":
+  text: "Weźcie za przykład, moi bracia, znoszenie zła i cierpliwość proroków, którzy powiedzieli słowo w imieniu PANA."
+  tags: []
+"Jk5,11":
+  text: "Oto za szczęśliwych uważamy tych, którzy wytrwali. Słyszeliście o wytrwałości Hioba i widzieliście zakończenie PANA, bo wielce miłosierny i litościwy jest PAN."
+  tags: []
+"Jk5,12":
+  text: "A przede wszystkim, bracia moi, nie przysięgajcie ani na niebo, ani na ziemię, ani jakąkolwiek inną przysięgą; ale wasze „tak” niech będzie „tak”, a wasze „nie” niech będzie „nie”; abyście nie popadli pod sąd."
+  tags: []
+"Jk5,13":
+  text: "Cierpi ktoś zło między wami? Niech się modli. Ktoś jest dobrej myśli, niech śpiewa pieśni;"
+  tags: []
+"Jk5,14":
+  text: "Choruje ktoś pośród was, niech przywoła do siebie starszych zboru i niech się modlą nad nim, gdy namaścili go olejem w imieniu Pana;"
+  tags: []
+"Jk5,15":
+  text: "A modlitwa wiary uratuje chorego i Pan go podniesie; a jeśli dopuścił się grzechów, zostaną mu odpuszczone."
+  tags: []
+"Jk5,16":
+  text: "Wyznawajcie jedni drugim upadki i módlcie się jedni za drugich, abyście zostali uzdrowieni. Wiele może usilna modlitwa sprawiedliwego."
+  tags: []
+"Jk5,17":
+  text: "Eliasz był człowiekiem podobnym do nas w swoich doświadczeniach i usilnie pomodlił się, żeby nie padał deszcz; i nie spadł deszcz na ziemię przez trzy lata i sześć miesięcy,"
+  tags: []
+"Jk5,18":
+  text: "I znowu modlił się, a niebo dało deszcz i ziemia zrodziła swój owoc."
+  tags: []
+"Jk5,19":
+  text: "Bracia! Jeśli ktoś z was zostałby odwiedziony od prawdy, a ktoś by go zawrócił,"
+  tags: []
+"Jk5,20":
+  text: "Niech wie, że kto zawrócił grzesznika z jego błędnej drogi, uratuje jego duszę od śmierci i zakryje mnóstwo grzechów."
+  tags: []

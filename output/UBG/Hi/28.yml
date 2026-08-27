@@ -1,28 +1,84 @@
-"Hi28,1": "Doprawdy, istnieją złoża, z których pochodzi srebro, i miejsca, gdzie złoto się oczyszcza."
-"Hi28,2": "Żelazo się wydobywa z ziemi, a miedź wytapia z kamienia."
-"Hi28,3": "Kładzie się kres ciemności i przeszukuje się wszystko dokładnie, kamienie leżące w ciemności i cieniu śmierci."
-"Hi28,4": "Rzeka wyleje ze swego miejsca, tak że nie sposób ją przejść, zostaje jednak zahamowana przemysłem człowieka i odchodzi."
-"Hi28,5": "Z ziemi pochodzi chleb, lecz pod nią zamienia się jakby w ogień."
-"Hi28,6": "Jej kamienie zawierają szafiry i piasek złoty;"
-"Hi28,7": "Ścieżki do nich nie zna ptak ani nie widziało jej oko sępa."
-"Hi28,8": "Nie kroczą po niej dzikie zwierzęta ani lew nią nie przeszedł."
-"Hi28,9": "Wyciąga swą rękę po krzemień, wywraca góry od korzenia;"
-"Hi28,10": "Ze skał wykuwa strumienie, a jego oko wypatruje każdej kosztownej rzeczy."
-"Hi28,11": "Nie pozwala rozlewać się rzekom, a ukryte rzeczy wywodzi na światło."
-"Hi28,12": "Ale gdzie można znaleźć mądrość? Gdzie znajduje się miejsce rozumu?"
-"Hi28,13": "Człowiek nie zna jej ceny ani nie można jej znaleźć w ziemi żyjących."
-"Hi28,14": "Głębia mówi: Nie ma jej we mnie. Morze powiada: U mnie też jej nie ma."
-"Hi28,15": "Nie nabywa się jej za szczere złoto ani nie odważa się zapłaty za nią w srebrze."
-"Hi28,16": "Nie można jej wycenić w złocie z Ofiru ani w onyksie drogocennym, ani w szafirze."
-"Hi28,17": "Złoto i kryształ nie dorównają jej, nie można jej wymienić na klejnoty z czystego złota."
-"Hi28,18": "Nie wypada wspominać o koralach i perłach, bo nabycie mądrości przewyższa perły."
-"Hi28,19": "Nie dorówna jej topaz z Etiopii i nie można jej wycenić w szczerym złocie."
-"Hi28,20": "Skąd więc mądrość pochodzi? I gdzie znajduje się miejsce rozumu?"
-"Hi28,21": "Przecież jest zakryta dla oczu wszystkich żyjących i utajona przed ptactwem niebieskim."
-"Hi28,22": "Zniszczenie i śmierć mówią: Własnymi uszami usłyszałyśmy o jej sławie."
-"Hi28,23": "Bóg rozumie jej drogę, on zna jej miejsce."
-"Hi28,24": "On bowiem patrzy na krańce ziemi i widzi wszystko, co jest pod niebem."
-"Hi28,25": "Określił wagę wiatrom i odważył miarą wody."
-"Hi28,26": "Gdy ustanowił prawo dla deszczu i drogę dla błyskawicy gromu;"
-"Hi28,27": "Wtedy ją widział i ogłosił; przygotował ją i przebadał."
-"Hi28,28": "A do człowieka powiedział: Oto bojaźń Pana, ona jest mądrością, a odstąpienie od zła jest rozumem."
+"Hi28,1":
+  text: "Doprawdy, istnieją złoża, z których pochodzi srebro, i miejsca, gdzie złoto się oczyszcza."
+  tags: []
+"Hi28,2":
+  text: "Żelazo się wydobywa z ziemi, a miedź wytapia z kamienia."
+  tags: []
+"Hi28,3":
+  text: "Kładzie się kres ciemności i przeszukuje się wszystko dokładnie, kamienie leżące w ciemności i cieniu śmierci."
+  tags: []
+"Hi28,4":
+  text: "Rzeka wyleje ze swego miejsca, tak że nie sposób ją przejść, zostaje jednak zahamowana przemysłem człowieka i odchodzi."
+  tags: []
+"Hi28,5":
+  text: "Z ziemi pochodzi chleb, lecz pod nią zamienia się jakby w ogień."
+  tags: []
+"Hi28,6":
+  text: "Jej kamienie zawierają szafiry i piasek złoty;"
+  tags: []
+"Hi28,7":
+  text: "Ścieżki do nich nie zna ptak ani nie widziało jej oko sępa."
+  tags: []
+"Hi28,8":
+  text: "Nie kroczą po niej dzikie zwierzęta ani lew nią nie przeszedł."
+  tags: []
+"Hi28,9":
+  text: "Wyciąga swą rękę po krzemień, wywraca góry od korzenia;"
+  tags: []
+"Hi28,10":
+  text: "Ze skał wykuwa strumienie, a jego oko wypatruje każdej kosztownej rzeczy."
+  tags: []
+"Hi28,11":
+  text: "Nie pozwala rozlewać się rzekom, a ukryte rzeczy wywodzi na światło."
+  tags: []
+"Hi28,12":
+  text: "Ale gdzie można znaleźć mądrość? Gdzie znajduje się miejsce rozumu?"
+  tags: []
+"Hi28,13":
+  text: "Człowiek nie zna jej ceny ani nie można jej znaleźć w ziemi żyjących."
+  tags: []
+"Hi28,14":
+  text: "Głębia mówi: Nie ma jej we mnie. Morze powiada: U mnie też jej nie ma."
+  tags: []
+"Hi28,15":
+  text: "Nie nabywa się jej za szczere złoto ani nie odważa się zapłaty za nią w srebrze."
+  tags: []
+"Hi28,16":
+  text: "Nie można jej wycenić w złocie z Ofiru ani w onyksie drogocennym, ani w szafirze."
+  tags: []
+"Hi28,17":
+  text: "Złoto i kryształ nie dorównają jej, nie można jej wymienić na klejnoty z czystego złota."
+  tags: []
+"Hi28,18":
+  text: "Nie wypada wspominać o koralach i perłach, bo nabycie mądrości przewyższa perły."
+  tags: []
+"Hi28,19":
+  text: "Nie dorówna jej topaz z Etiopii i nie można jej wycenić w szczerym złocie."
+  tags: []
+"Hi28,20":
+  text: "Skąd więc mądrość pochodzi? I gdzie znajduje się miejsce rozumu?"
+  tags: []
+"Hi28,21":
+  text: "Przecież jest zakryta dla oczu wszystkich żyjących i utajona przed ptactwem niebieskim."
+  tags: []
+"Hi28,22":
+  text: "Zniszczenie i śmierć mówią: Własnymi uszami usłyszałyśmy o jej sławie."
+  tags: []
+"Hi28,23":
+  text: "Bóg rozumie jej drogę, on zna jej miejsce."
+  tags: []
+"Hi28,24":
+  text: "On bowiem patrzy na krańce ziemi i widzi wszystko, co jest pod niebem."
+  tags: []
+"Hi28,25":
+  text: "Określił wagę wiatrom i odważył miarą wody."
+  tags: []
+"Hi28,26":
+  text: "Gdy ustanowił prawo dla deszczu i drogę dla błyskawicy gromu;"
+  tags: []
+"Hi28,27":
+  text: "Wtedy ją widział i ogłosił; przygotował ją i przebadał."
+  tags: []
+"Hi28,28":
+  text: "A do człowieka powiedział: Oto bojaźń Pana, ona jest mądrością, a odstąpienie od zła jest rozumem."
+  tags: []

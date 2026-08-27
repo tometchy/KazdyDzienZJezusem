@@ -1,31 +1,93 @@
-"Łk16,1": "Mówił też do swoich uczniów: Pewien bogaty człowiek miał szafarza, którego oskarżono przed nim, że trwoni jego dobra."
-"Łk16,2": "Zawołał go i powiedział: Cóż to słyszę o tobie? Zdaj sprawę z twego zarządzania, bo już więcej nie będziesz mógł zarządzać."
-"Łk16,3": "Wtedy szafarz powiedział sobie: Co ja zrobię, skoro mój pan pozbawia mnie zarządu? Kopać nie mogę, żebrać się wstydzę."
-"Łk16,4": "Wiem, co zrobię, żeby ludzie przyjęli mnie do swoich domów, gdy zostanę odsunięty od zarządzania."
-"Łk16,5": "Przywołał więc do siebie każdego z dłużników swego pana i zapytał pierwszego: Ile jesteś winien memu panu?"
-"Łk16,6": "A on odpowiedział: Sto baryłek oliwy. I powiedział mu: Weź swój zapis, siadaj szybko i napisz pięćdziesiąt."
-"Łk16,7": "Potem zapytał drugiego: A ty ile jesteś winien? A on mu odpowiedział: Sto korców pszenicy. I powiedział mu: Weź swój zapis i napisz osiemdziesiąt."
-"Łk16,8": "I pochwalił pan niesprawiedliwego szafarza, że roztropnie postąpił. Bo synowie tego świata w swoim pokoleniu są roztropniejsi od synów światłości."
-"Łk16,9": "I ja wam mówię: Zyskujcie sobie przyjaciół mamoną niesprawiedliwości, aby, gdy ustaniecie, przyjęto was do wiecznych przybytków."
-"Łk16,10": "Kto jest wierny w najmniejszym, i w wielkim jest wierny, a kto w najmniejszym jest niesprawiedliwy, i w wielkim jest niesprawiedliwy."
-"Łk16,11": "Jeśli więc w niesprawiedliwej mamonie nie byliście wierni, któż wam powierzy to, co prawdziwe?"
-"Łk16,12": "A jeśli w cudzym nie byliście wierni, któż wam da wasze własne?"
-"Łk16,13": "Żaden sługa nie może dwom panom służyć, gdyż albo jednego będzie nienawidził, a drugiego miłował, albo jednego będzie się trzymał, a drugim wzgardzi. Nie możecie służyć Bogu i mamonie."
-"Łk16,14": "Słuchali tego wszystkiego również faryzeusze, którzy byli chciwi, i naśmiewali się z niego."
-"Łk16,15": "I powiedział im: Wy sami siebie usprawiedliwiacie przed ludźmi, ale Bóg zna wasze serca. To bowiem, co ludzie poważają, obrzydliwością jest w oczach Boga."
-"Łk16,16": "Prawo i Prorocy byli do Jana. Odtąd jest głoszone królestwo Boże i każdy się do niego gwałtem wdziera."
-"Łk16,17": "I łatwiej jest niebu i ziemi przeminąć, niż przepaść jednej kresce prawa."
-"Łk16,18": "Każdy, kto oddala swoją żonę i żeni się z inną, cudzołoży, a kto żeni się z oddaloną przez męża, cudzołoży."
-"Łk16,19": "Był pewien bogaty człowiek, który ubierał się w purpurę i bisior i wystawnie ucztował każdego dnia."
-"Łk16,20": "Był też pewien żebrak, imieniem Łazarz, który leżał u jego wrót owrzodziały;"
-"Łk16,21": "Pragnął on nasycić się okruchami, które spadały ze stołu bogacza. Nadto i psy przychodziły i lizały jego wrzody."
-"Łk16,22": "I umarł żebrak, i został zaniesiony przez aniołów na łono Abrahama. Umarł też bogacz i został pogrzebany."
-"Łk16,23": "A będąc w piekle i cierpiąc męki, podniósł oczy i ujrzał z daleka Abrahama i Łazarza na jego łonie."
-"Łk16,24": "Wtedy zawołał: Ojcze Abrahamie, zmiłuj się nade mną i poślij Łazarza, aby umoczył koniec swego palca w wodzie i ochłodził mi język, bo cierpię męki w tym płomieniu."
-"Łk16,25": "I powiedział Abraham: Synu, wspomnij, że za życia odebrałeś swoje dobro, podobnie jak Łazarz zło. A teraz on doznaje pociechy, a ty cierpisz męki."
-"Łk16,26": "I oprócz tego wszystkiego między nami a wami jest utwierdzona wielka przepaść, aby ci, którzy chcą stąd przejść do was, nie mogli, ani stamtąd przejść do nas."
-"Łk16,27": "A on powiedział: Proszę cię więc, ojcze, abyś posłał go do domu mego ojca."
-"Łk16,28": "Mam bowiem pięciu braci – niech im da świadectwo, żeby i oni nie przyszli na to miejsce męki."
-"Łk16,29": "Lecz Abraham mu powiedział: Mają Mojżesza i Proroków, niech ich słuchają."
-"Łk16,30": "A on odpowiedział: Nie, ojcze Abrahamie, lecz jeśli ktoś z umarłych przyjdzie do nich, będą pokutować."
-"Łk16,31": "I powiedział do niego: Jeśli Mojżesza i Proroków nie słuchają, to choćby ktoś zmartwychwstał, nie uwierzą."
+"Łk16,1":
+  text: "Mówił też do swoich uczniów: Pewien bogaty człowiek miał szafarza, którego oskarżono przed nim, że trwoni jego dobra."
+  tags: []
+"Łk16,2":
+  text: "Zawołał go i powiedział: Cóż to słyszę o tobie? Zdaj sprawę z twego zarządzania, bo już więcej nie będziesz mógł zarządzać."
+  tags: []
+"Łk16,3":
+  text: "Wtedy szafarz powiedział sobie: Co ja zrobię, skoro mój pan pozbawia mnie zarządu? Kopać nie mogę, żebrać się wstydzę."
+  tags: []
+"Łk16,4":
+  text: "Wiem, co zrobię, żeby ludzie przyjęli mnie do swoich domów, gdy zostanę odsunięty od zarządzania."
+  tags: []
+"Łk16,5":
+  text: "Przywołał więc do siebie każdego z dłużników swego pana i zapytał pierwszego: Ile jesteś winien memu panu?"
+  tags: []
+"Łk16,6":
+  text: "A on odpowiedział: Sto baryłek oliwy. I powiedział mu: Weź swój zapis, siadaj szybko i napisz pięćdziesiąt."
+  tags: []
+"Łk16,7":
+  text: "Potem zapytał drugiego: A ty ile jesteś winien? A on mu odpowiedział: Sto korców pszenicy. I powiedział mu: Weź swój zapis i napisz osiemdziesiąt."
+  tags: []
+"Łk16,8":
+  text: "I pochwalił pan niesprawiedliwego szafarza, że roztropnie postąpił. Bo synowie tego świata w swoim pokoleniu są roztropniejsi od synów światłości."
+  tags: []
+"Łk16,9":
+  text: "I ja wam mówię: Zyskujcie sobie przyjaciół mamoną niesprawiedliwości, aby, gdy ustaniecie, przyjęto was do wiecznych przybytków."
+  tags: []
+"Łk16,10":
+  text: "Kto jest wierny w najmniejszym, i w wielkim jest wierny, a kto w najmniejszym jest niesprawiedliwy, i w wielkim jest niesprawiedliwy."
+  tags: []
+"Łk16,11":
+  text: "Jeśli więc w niesprawiedliwej mamonie nie byliście wierni, któż wam powierzy to, co prawdziwe?"
+  tags: []
+"Łk16,12":
+  text: "A jeśli w cudzym nie byliście wierni, któż wam da wasze własne?"
+  tags: []
+"Łk16,13":
+  text: "Żaden sługa nie może dwom panom służyć, gdyż albo jednego będzie nienawidził, a drugiego miłował, albo jednego będzie się trzymał, a drugim wzgardzi. Nie możecie służyć Bogu i mamonie."
+  tags: []
+"Łk16,14":
+  text: "Słuchali tego wszystkiego również faryzeusze, którzy byli chciwi, i naśmiewali się z niego."
+  tags: []
+"Łk16,15":
+  text: "I powiedział im: Wy sami siebie usprawiedliwiacie przed ludźmi, ale Bóg zna wasze serca. To bowiem, co ludzie poważają, obrzydliwością jest w oczach Boga."
+  tags: []
+"Łk16,16":
+  text: "Prawo i Prorocy byli do Jana. Odtąd jest głoszone królestwo Boże i każdy się do niego gwałtem wdziera."
+  tags: []
+"Łk16,17":
+  text: "I łatwiej jest niebu i ziemi przeminąć, niż przepaść jednej kresce prawa."
+  tags: []
+"Łk16,18":
+  text: "Każdy, kto oddala swoją żonę i żeni się z inną, cudzołoży, a kto żeni się z oddaloną przez męża, cudzołoży."
+  tags: []
+"Łk16,19":
+  text: "Był pewien bogaty człowiek, który ubierał się w purpurę i bisior i wystawnie ucztował każdego dnia."
+  tags: []
+"Łk16,20":
+  text: "Był też pewien żebrak, imieniem Łazarz, który leżał u jego wrót owrzodziały;"
+  tags: []
+"Łk16,21":
+  text: "Pragnął on nasycić się okruchami, które spadały ze stołu bogacza. Nadto i psy przychodziły i lizały jego wrzody."
+  tags: []
+"Łk16,22":
+  text: "I umarł żebrak, i został zaniesiony przez aniołów na łono Abrahama. Umarł też bogacz i został pogrzebany."
+  tags: []
+"Łk16,23":
+  text: "A będąc w piekle i cierpiąc męki, podniósł oczy i ujrzał z daleka Abrahama i Łazarza na jego łonie."
+  tags: []
+"Łk16,24":
+  text: "Wtedy zawołał: Ojcze Abrahamie, zmiłuj się nade mną i poślij Łazarza, aby umoczył koniec swego palca w wodzie i ochłodził mi język, bo cierpię męki w tym płomieniu."
+  tags: []
+"Łk16,25":
+  text: "I powiedział Abraham: Synu, wspomnij, że za życia odebrałeś swoje dobro, podobnie jak Łazarz zło. A teraz on doznaje pociechy, a ty cierpisz męki."
+  tags: []
+"Łk16,26":
+  text: "I oprócz tego wszystkiego między nami a wami jest utwierdzona wielka przepaść, aby ci, którzy chcą stąd przejść do was, nie mogli, ani stamtąd przejść do nas."
+  tags: []
+"Łk16,27":
+  text: "A on powiedział: Proszę cię więc, ojcze, abyś posłał go do domu mego ojca."
+  tags: []
+"Łk16,28":
+  text: "Mam bowiem pięciu braci – niech im da świadectwo, żeby i oni nie przyszli na to miejsce męki."
+  tags: []
+"Łk16,29":
+  text: "Lecz Abraham mu powiedział: Mają Mojżesza i Proroków, niech ich słuchają."
+  tags: []
+"Łk16,30":
+  text: "A on odpowiedział: Nie, ojcze Abrahamie, lecz jeśli ktoś z umarłych przyjdzie do nich, będą pokutować."
+  tags: []
+"Łk16,31":
+  text: "I powiedział do niego: Jeśli Mojżesza i Proroków nie słuchają, to choćby ktoś zmartwychwstał, nie uwierzą."
+  tags: []

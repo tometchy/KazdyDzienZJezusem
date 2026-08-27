@@ -1,39 +1,117 @@
-"Mt15,1": "Wtedy z Jerozolimy przyszli do Jezusa uczeni w Piśmie i faryzeusze i zapytali:"
-"Mt15,2": "Czemu twoi uczniowie postępują wbrew tradycji starszych? Nie myją bowiem rąk przed jedzeniem chleba."
-"Mt15,3": "A on odpowiedział im: Czemu i wy postępujecie wbrew przykazaniu Bożemu dla waszej tradycji?"
-"Mt15,4": "Bóg bowiem nakazał: Czcij swego ojca i matkę, oraz: Kto złorzeczy ojcu albo matce, niech poniesie śmierć."
-"Mt15,5": "Ale wy mówicie: Kto by powiedział ojcu albo matce: To, co powinieneś otrzymać ode mnie jako pomoc, jest darem ofiarnym;"
-"Mt15,6": "I nie uczciłby swego ojca ani matki, będzie bez winy. I tak unieważniliście przykazanie Boże przez waszą tradycję."
-"Mt15,7": "Obłudnicy, dobrze prorokował o was Izajasz:"
-"Mt15,8": "Lud ten przybliża się do mnie swymi ustami i czci mnie wargami, ale ich serce daleko jest ode mnie."
-"Mt15,9": "Lecz na próżno mnie czczą, ucząc nauk, które są przykazaniami ludzkimi."
-"Mt15,10": "Potem przywołał do siebie tłum i powiedział: Słuchajcie i zrozumiejcie."
-"Mt15,11": "Nie to, co wchodzi do ust, kala człowieka, ale co z ust wychodzi, to kala człowieka."
-"Mt15,12": "Wtedy podeszli jego uczniowie i powiedzieli do niego: Wiesz, że faryzeusze zgorszyli się, gdy usłyszeli te słowa?"
-"Mt15,13": "A on odpowiedział: Każda roślina, której nie zasadził mój Ojciec niebieski, będzie wykorzeniona."
-"Mt15,14": "Zostawcie ich! To są ślepi przewodnicy ślepych, a jeśli ślepy prowadzi ślepego, obaj w dół wpadną."
-"Mt15,15": "Wtedy Piotr powiedział do niego: Wyjaśnij nam tę przypowieść."
-"Mt15,16": "Jezus odpowiedział: Wy też jeszcze jesteście niepojętni?"
-"Mt15,17": "Jeszcze nie rozumiecie, że wszystko, co wchodzi do ust, idzie do żołądka i zostaje wydalone do ustępu?"
-"Mt15,18": "Ale to, co z ust wychodzi, pochodzi z serca i to kala człowieka."
-"Mt15,19": "Z serca bowiem pochodzą złe myśli, zabójstwa, cudzołóstwa, nierząd, kradzieże, fałszywe świadectwa, bluźnierstwa."
-"Mt15,20": "To właśnie kala człowieka. Lecz jedzenie nieumytymi rękami nie kala człowieka."
-"Mt15,21": "Potem Jezus odszedł stamtąd i udał się w okolice Tyru i Sydonu."
-"Mt15,22": "A oto kobieta kananejska, wyszedłszy z tamtych okolic, wołała do niego: Zmiłuj się nade mną, Panie, Synu Dawida! Moja córka jest ciężko dręczona przez demona."
-"Mt15,23": "On jednak nie odpowiedział jej ani słowa. Wówczas jego uczniowie podeszli i prosili go: Odpraw ją, bo woła za nami."
-"Mt15,24": "A on odpowiedział: Jestem posłany tylko do owiec zaginionych z domu Izraela."
-"Mt15,25": "Lecz ona podeszła i oddała mu pokłon, mówiąc: Panie, pomóż mi!"
-"Mt15,26": "On jednak odpowiedział: Niedobrze jest brać chleb dzieci i rzucać szczeniętom."
-"Mt15,27": "A ona powiedziała: Tak, Panie, ale i szczenięta jedzą okruchy, które spadają ze stołu ich panów."
-"Mt15,28": "Wtedy Jezus jej odpowiedział: O kobieto, wielka jest twoja wiara! Niech ci się stanie, jak chcesz. I od tej chwili jej córka była zdrowa."
-"Mt15,29": "A Jezus odszedł stamtąd i przyszedł nad Morze Galilejskie. Wszedł na górę i tam usiadł."
-"Mt15,30": "I przyszły do niego wielkie tłumy, mając ze sobą chromych, ślepych, niemych, ułomnych oraz wielu innych. Położyli ich u nóg Jezusa, a on ich uzdrowił;"
-"Mt15,31": "Tak że tłumy dziwiły się, widząc, że niemi mówią, ułomni są uzdrowieni, chromi chodzą, a ślepi widzą. I wielbili Boga Izraela."
-"Mt15,32": "Lecz Jezus przywołał swoich uczniów i powiedział: Żal mi tych ludzi, bo już trzy dni przy mnie trwają i nie mają co jeść. Nie chcę ich odprawić głodnych, aby przypadkiem nie zasłabli w drodze."
-"Mt15,33": "Wtedy jego uczniowie powiedzieli mu: Skąd na tej pustyni weźmiemy tyle chleba, aby nakarmić takie mnóstwo ludzi?"
-"Mt15,34": "Zapytał ich Jezus: Ile macie chlebów? A oni odpowiedzieli: Siedem i kilka rybek."
-"Mt15,35": "I nakazał ludziom usiąść na ziemi."
-"Mt15,36": "Potem wziął te siedem chlebów i ryby, a podziękowawszy, łamał i dawał swoim uczniom, a uczniowie ludziom."
-"Mt15,37": "I jedli wszyscy do syta, a z pozostałych kawałków zebrali siedem pełnych koszy."
-"Mt15,38": "Tych zaś, którzy jedli, było cztery tysiące mężczyzn, nie licząc kobiet i dzieci."
-"Mt15,39": "A gdy odprawił ludzi, wsiadł do łodzi i przybył w okolice Magdali."
+"Mt15,1":
+  text: "Wtedy z Jerozolimy przyszli do Jezusa uczeni w Piśmie i faryzeusze i zapytali:"
+  tags: []
+"Mt15,2":
+  text: "Czemu twoi uczniowie postępują wbrew tradycji starszych? Nie myją bowiem rąk przed jedzeniem chleba."
+  tags: []
+"Mt15,3":
+  text: "A on odpowiedział im: Czemu i wy postępujecie wbrew przykazaniu Bożemu dla waszej tradycji?"
+  tags: []
+"Mt15,4":
+  text: "Bóg bowiem nakazał: Czcij swego ojca i matkę, oraz: Kto złorzeczy ojcu albo matce, niech poniesie śmierć."
+  tags: []
+"Mt15,5":
+  text: "Ale wy mówicie: Kto by powiedział ojcu albo matce: To, co powinieneś otrzymać ode mnie jako pomoc, jest darem ofiarnym;"
+  tags: []
+"Mt15,6":
+  text: "I nie uczciłby swego ojca ani matki, będzie bez winy. I tak unieważniliście przykazanie Boże przez waszą tradycję."
+  tags: []
+"Mt15,7":
+  text: "Obłudnicy, dobrze prorokował o was Izajasz:"
+  tags: []
+"Mt15,8":
+  text: "Lud ten przybliża się do mnie swymi ustami i czci mnie wargami, ale ich serce daleko jest ode mnie."
+  tags: []
+"Mt15,9":
+  text: "Lecz na próżno mnie czczą, ucząc nauk, które są przykazaniami ludzkimi."
+  tags: []
+"Mt15,10":
+  text: "Potem przywołał do siebie tłum i powiedział: Słuchajcie i zrozumiejcie."
+  tags: []
+"Mt15,11":
+  text: "Nie to, co wchodzi do ust, kala człowieka, ale co z ust wychodzi, to kala człowieka."
+  tags: []
+"Mt15,12":
+  text: "Wtedy podeszli jego uczniowie i powiedzieli do niego: Wiesz, że faryzeusze zgorszyli się, gdy usłyszeli te słowa?"
+  tags: []
+"Mt15,13":
+  text: "A on odpowiedział: Każda roślina, której nie zasadził mój Ojciec niebieski, będzie wykorzeniona."
+  tags: []
+"Mt15,14":
+  text: "Zostawcie ich! To są ślepi przewodnicy ślepych, a jeśli ślepy prowadzi ślepego, obaj w dół wpadną."
+  tags: []
+"Mt15,15":
+  text: "Wtedy Piotr powiedział do niego: Wyjaśnij nam tę przypowieść."
+  tags: []
+"Mt15,16":
+  text: "Jezus odpowiedział: Wy też jeszcze jesteście niepojętni?"
+  tags: []
+"Mt15,17":
+  text: "Jeszcze nie rozumiecie, że wszystko, co wchodzi do ust, idzie do żołądka i zostaje wydalone do ustępu?"
+  tags: []
+"Mt15,18":
+  text: "Ale to, co z ust wychodzi, pochodzi z serca i to kala człowieka."
+  tags: []
+"Mt15,19":
+  text: "Z serca bowiem pochodzą złe myśli, zabójstwa, cudzołóstwa, nierząd, kradzieże, fałszywe świadectwa, bluźnierstwa."
+  tags: []
+"Mt15,20":
+  text: "To właśnie kala człowieka. Lecz jedzenie nieumytymi rękami nie kala człowieka."
+  tags: []
+"Mt15,21":
+  text: "Potem Jezus odszedł stamtąd i udał się w okolice Tyru i Sydonu."
+  tags: []
+"Mt15,22":
+  text: "A oto kobieta kananejska, wyszedłszy z tamtych okolic, wołała do niego: Zmiłuj się nade mną, Panie, Synu Dawida! Moja córka jest ciężko dręczona przez demona."
+  tags: []
+"Mt15,23":
+  text: "On jednak nie odpowiedział jej ani słowa. Wówczas jego uczniowie podeszli i prosili go: Odpraw ją, bo woła za nami."
+  tags: []
+"Mt15,24":
+  text: "A on odpowiedział: Jestem posłany tylko do owiec zaginionych z domu Izraela."
+  tags: []
+"Mt15,25":
+  text: "Lecz ona podeszła i oddała mu pokłon, mówiąc: Panie, pomóż mi!"
+  tags: []
+"Mt15,26":
+  text: "On jednak odpowiedział: Niedobrze jest brać chleb dzieci i rzucać szczeniętom."
+  tags: []
+"Mt15,27":
+  text: "A ona powiedziała: Tak, Panie, ale i szczenięta jedzą okruchy, które spadają ze stołu ich panów."
+  tags: []
+"Mt15,28":
+  text: "Wtedy Jezus jej odpowiedział: O kobieto, wielka jest twoja wiara! Niech ci się stanie, jak chcesz. I od tej chwili jej córka była zdrowa."
+  tags: []
+"Mt15,29":
+  text: "A Jezus odszedł stamtąd i przyszedł nad Morze Galilejskie. Wszedł na górę i tam usiadł."
+  tags: []
+"Mt15,30":
+  text: "I przyszły do niego wielkie tłumy, mając ze sobą chromych, ślepych, niemych, ułomnych oraz wielu innych. Położyli ich u nóg Jezusa, a on ich uzdrowił;"
+  tags: []
+"Mt15,31":
+  text: "Tak że tłumy dziwiły się, widząc, że niemi mówią, ułomni są uzdrowieni, chromi chodzą, a ślepi widzą. I wielbili Boga Izraela."
+  tags: []
+"Mt15,32":
+  text: "Lecz Jezus przywołał swoich uczniów i powiedział: Żal mi tych ludzi, bo już trzy dni przy mnie trwają i nie mają co jeść. Nie chcę ich odprawić głodnych, aby przypadkiem nie zasłabli w drodze."
+  tags: []
+"Mt15,33":
+  text: "Wtedy jego uczniowie powiedzieli mu: Skąd na tej pustyni weźmiemy tyle chleba, aby nakarmić takie mnóstwo ludzi?"
+  tags: []
+"Mt15,34":
+  text: "Zapytał ich Jezus: Ile macie chlebów? A oni odpowiedzieli: Siedem i kilka rybek."
+  tags: []
+"Mt15,35":
+  text: "I nakazał ludziom usiąść na ziemi."
+  tags: []
+"Mt15,36":
+  text: "Potem wziął te siedem chlebów i ryby, a podziękowawszy, łamał i dawał swoim uczniom, a uczniowie ludziom."
+  tags: []
+"Mt15,37":
+  text: "I jedli wszyscy do syta, a z pozostałych kawałków zebrali siedem pełnych koszy."
+  tags: []
+"Mt15,38":
+  text: "Tych zaś, którzy jedli, było cztery tysiące mężczyzn, nie licząc kobiet i dzieci."
+  tags: []
+"Mt15,39":
+  text: "A gdy odprawił ludzi, wsiadł do łodzi i przybył w okolice Magdali."
+  tags: []

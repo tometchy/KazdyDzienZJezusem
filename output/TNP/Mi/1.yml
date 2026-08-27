@@ -1,16 +1,48 @@
-"Mi1,1": "Słowo JHWH, które się stało do Micheasza Moreszyty za dni Joatama, Achaza i Hiskiasza, królów Judy, które widział nad Samarią i Jerozolimą."
-"Mi1,2": "Słuchajcie wszystkie narody; zastanów się ziemio, i to, co ją napełnia. Niech JHWH PAN będzie jako świadek przeciwko wam, PAN ze swojego świętego przybytku."
-"Mi1,3": "Bo oto JHWH wychodzi ze swojego miejsca, zstąpi i będzie deptał po wysokościach ziemi."
-"Mi1,4": "I rozpadną się pod Nim góry, a doliny pękną tak jak wosk wobec ognia i jak wody rozlane po zboczu."
-"Mi1,5": "To wszystko stanie się z powodu przestępstwa Jakuba i z powodu grzechów domu Izraela. Jakie jest przestępstwo Jakuba? Czy nie Samaria? Czym wyżyny Judy? Czy nie Jerozolima?"
-"Mi1,6": "I dlatego uczynię Samarię rumowiskiem na polu, miejscem pod założenie winnicy. Powrzucam w dolinę jej kamienie i odkryję jej fundamenty."
-"Mi1,7": "I wszystkie jej ryte wizerunki będą rozbite, cała zapłata dla nierządnicy zostanie spalona w ogniu i wszystkie jej bożki uczynię ruiną. Zostały zebrane z zapłaty nierządnicy, więc obrócą się w zapłatę nierządnicy."
-"Mi1,8": "Nad tym będę lamentował i płakał, chodził boso i nago. Podnoszę skowyt jak szakale i biadam jak młode strusicy;"
-"Mi1,9": "Bo jej rany są nieuleczalne, gdyż dotarły aż do Judy i kołaczą do bramy mojego ludu, aż do Jerozolimy."
-"Mi1,10": "Nie oznajmiajcie tego w Gat ani nie płaczcie gorzko. Tarzaj się w prochu w domu Afra."
-"Mi1,11": "Przejdź ty mieszkanko Szafiru w haniebnej nagości. Nie ujdzie mieszkanka Saananu; zawodzenie w Bet-Hesel odbierze od was to miejsce."
-"Mi1,12": "Tak, mieszkanko Marot, oczekiwałaś dobra, ale nieszczęście zstąpiło od JHWH aż do bramy Jerozolimy."
-"Mi1,13": "Zaprzęgaj konia do rydwanu, mieszkanko Lakisz, ty jesteś początkiem grzechu córki Syjonu, gdyż w tobie zostały znalezione przestępstwa Izraela."
-"Mi1,14": "Dlatego dasz dar na rozstanie Moreszet-Gat. Domy Akzib będą zwodnicze dla królów Izraela."
-"Mi1,15": "Jeszcze sprowadzę ci dziedzica, mieszkanko Maresz. Wkroczy aż do Adullam chwała Izraela."
-"Mi1,16": "Ogól się i ostrzyż z powodu rozkoszy swoich synów; rozszerz swoją łysinę jak u sępa, bo uprowadzili ich od ciebie do niewoli."
+"Mi1,1":
+  text: "Słowo JHWH, które się stało do Micheasza Moreszyty za dni Joatama, Achaza i Hiskiasza, królów Judy, które widział nad Samarią i Jerozolimą."
+  tags: []
+"Mi1,2":
+  text: "Słuchajcie wszystkie narody; zastanów się ziemio, i to, co ją napełnia. Niech JHWH PAN będzie jako świadek przeciwko wam, PAN ze swojego świętego przybytku."
+  tags: []
+"Mi1,3":
+  text: "Bo oto JHWH wychodzi ze swojego miejsca, zstąpi i będzie deptał po wysokościach ziemi."
+  tags: []
+"Mi1,4":
+  text: "I rozpadną się pod Nim góry, a doliny pękną tak jak wosk wobec ognia i jak wody rozlane po zboczu."
+  tags: []
+"Mi1,5":
+  text: "To wszystko stanie się z powodu przestępstwa Jakuba i z powodu grzechów domu Izraela. Jakie jest przestępstwo Jakuba? Czy nie Samaria? Czym wyżyny Judy? Czy nie Jerozolima?"
+  tags: []
+"Mi1,6":
+  text: "I dlatego uczynię Samarię rumowiskiem na polu, miejscem pod założenie winnicy. Powrzucam w dolinę jej kamienie i odkryję jej fundamenty."
+  tags: []
+"Mi1,7":
+  text: "I wszystkie jej ryte wizerunki będą rozbite, cała zapłata dla nierządnicy zostanie spalona w ogniu i wszystkie jej bożki uczynię ruiną. Zostały zebrane z zapłaty nierządnicy, więc obrócą się w zapłatę nierządnicy."
+  tags: []
+"Mi1,8":
+  text: "Nad tym będę lamentował i płakał, chodził boso i nago. Podnoszę skowyt jak szakale i biadam jak młode strusicy;"
+  tags: []
+"Mi1,9":
+  text: "Bo jej rany są nieuleczalne, gdyż dotarły aż do Judy i kołaczą do bramy mojego ludu, aż do Jerozolimy."
+  tags: []
+"Mi1,10":
+  text: "Nie oznajmiajcie tego w Gat ani nie płaczcie gorzko. Tarzaj się w prochu w domu Afra."
+  tags: []
+"Mi1,11":
+  text: "Przejdź ty mieszkanko Szafiru w haniebnej nagości. Nie ujdzie mieszkanka Saananu; zawodzenie w Bet-Hesel odbierze od was to miejsce."
+  tags: []
+"Mi1,12":
+  text: "Tak, mieszkanko Marot, oczekiwałaś dobra, ale nieszczęście zstąpiło od JHWH aż do bramy Jerozolimy."
+  tags: []
+"Mi1,13":
+  text: "Zaprzęgaj konia do rydwanu, mieszkanko Lakisz, ty jesteś początkiem grzechu córki Syjonu, gdyż w tobie zostały znalezione przestępstwa Izraela."
+  tags: []
+"Mi1,14":
+  text: "Dlatego dasz dar na rozstanie Moreszet-Gat. Domy Akzib będą zwodnicze dla królów Izraela."
+  tags: []
+"Mi1,15":
+  text: "Jeszcze sprowadzę ci dziedzica, mieszkanko Maresz. Wkroczy aż do Adullam chwała Izraela."
+  tags: []
+"Mi1,16":
+  text: "Ogól się i ostrzyż z powodu rozkoszy swoich synów; rozszerz swoją łysinę jak u sępa, bo uprowadzili ich od ciebie do niewoli."
+  tags: []

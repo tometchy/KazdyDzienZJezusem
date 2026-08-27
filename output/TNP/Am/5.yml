@@ -1,27 +1,81 @@
-"Am5,1": "Słuchajcie tego słowa, które ja jako lament wznoszę nad wami, domu Izraela!"
-"Am5,2": "Upadła i więcej nie powstanie dziewica Izraela. Została porzucona w swojej ziemi i nie ma nikogo, kto by ją podniósł."
-"Am5,3": "Bo tak mówi JHWH PAN: Miasto, które wychodziło w sile tysiąca, zachowa stu, a to, które wychodzi w sile stu, zachowa domowi Izraela dziesięciu."
-"Am5,4": "Bo tak mówi JHWH do domu Izraela: Szukajcie mnie i żyjcie!"
-"Am5,5": "Lecz nie szukajcie w Betel, nie wkraczajcie do Gilgal i nie podróżujcie do Beer-Szeby, gdyż Gilgal zostanie doszczętnie ogołocone, a Betel stanie się niczym."
-"Am5,6": "Szukajcie JHWH i żyjcie, aby nie wtargnął jak ogień w dom Józefa i nie pochłonął go, a nie będzie gaszącego dla Betel;"
-"Am5,7": "Wy, którzy sąd zamieniacie w piołun i sprawiedliwość rzucacie na ziemię;"
-"Am5,8": "On tworzy Plejady i Oriona, zamienia mrok ciemności w poranek, a dzień nocą zaciemnia; wzywa wody morza i rozlewa je po powierzchni ziemi – JHWH to Jego imię!"
-"Am5,9": "Rozbłyskuje zniszczeniem nad mocnym i ruina przychodzi na twierdzę."
-"Am5,10": "Nienawidzą tego, który upomina ich w bramie i czują odrazę, wobec tego, kto mówi prawdę."
-"Am5,11": "Dlatego, z powodu waszego deptania po ubogim i pobierania od niego daniny w zbożu, to chociaż budujecie domy z kamienia ciosanego, nie będziecie w nich mieszkać; chociaż sadzicie rozkoszne winnice, ale nie będziecie pić z nich wina."
-"Am5,12": "Bo wiem, liczne są wasze przestępstwa i rozliczne wasze grzechy: Dręczycie sprawiedliwego, bierzecie łapówkę i spychacie na bok sprawy ubogich w bramie."
-"Am5,13": "Dlatego roztropny milczy w tym czasie, bo jest to czas zły."
-"Am5,14": "Szukajcie dobra, a nie zła, abyście żyli. A wówczas JHWH, Bóg Zastępów, będzie z wami – tak jak mówicie."
-"Am5,15": "Nienawidźcie zła, a miłujcie dobro i ustanówcie sąd w bramie. Może wtedy JHWH, Bóg Zastępów, zlituje się nad resztką Józefa."
-"Am5,16": "Dlatego tak mówi JHWH Bóg Zastępów, PAN: Na wszystkich placach będzie płacz, a na wszystkich ulicach powiedzą: Biada, biada! I zawołają rolnika do żałoby, a potrafiących zawodzić – do biadania."
-"Am5,17": "I we wszystkich winnicach będzie zawodzenie, gdy przejdę pośród ciebie – mówi JHWH."
-"Am5,18": "Biada pragnącym dnia JHWH! Na cóż wam ten dzień JHWH? On jest ciemnością, a nie światłem."
-"Am5,19": "To tak jakby ktoś uciekał przed lwem, a spotkałby go niedźwiedź; albo jak gdyby wszedł do domu i oparł się ręką o ścianę, a ukąsiłby go wąż."
-"Am5,20": "Czyż nie jest ciemnością dzień JHWH, a nie światłem? I mrokiem – a nie ma w nim jasności?"
-"Am5,21": "Nienawidzę, pogardzam waszymi świętami i czuję odrazę do waszych uroczystych zgromadzeń"
-"Am5,22": "Bo jeśli będziecie mi składać całopalenia i swoje ofiary pokarmowe, nie przyjmę ich ani nie wejrzę na ofiary pojednania z waszego tuczonego bydła."
-"Am5,23": "Usuń ode mnie wrzask twoich pieśni, nie chcę słuchać melodii twoich harf."
-"Am5,24": "Niech raczej sąd spływa jak strumień wody, a sprawiedliwość jak niewysychający potok."
-"Am5,25": "Czy składaliście mi ofiary krwawe i ofiary z pokarmów na pustyni przez czterdzieści lat, domu Izraela?"
-"Am5,26": "Nosiliście raczej namiot waszego Molocha i Kijuna, wasze bożki, gwiazdę waszych bogów, których sobie uczyniliście."
-"Am5,27": "Dlatego uprowadzę was do niewoli poza Damaszek – mówi JHWH, Bóg Zastępów – to Jego imię."
+"Am5,1":
+  text: "Słuchajcie tego słowa, które ja jako lament wznoszę nad wami, domu Izraela!"
+  tags: []
+"Am5,2":
+  text: "Upadła i więcej nie powstanie dziewica Izraela. Została porzucona w swojej ziemi i nie ma nikogo, kto by ją podniósł."
+  tags: []
+"Am5,3":
+  text: "Bo tak mówi JHWH PAN: Miasto, które wychodziło w sile tysiąca, zachowa stu, a to, które wychodzi w sile stu, zachowa domowi Izraela dziesięciu."
+  tags: []
+"Am5,4":
+  text: "Bo tak mówi JHWH do domu Izraela: Szukajcie mnie i żyjcie!"
+  tags: []
+"Am5,5":
+  text: "Lecz nie szukajcie w Betel, nie wkraczajcie do Gilgal i nie podróżujcie do Beer-Szeby, gdyż Gilgal zostanie doszczętnie ogołocone, a Betel stanie się niczym."
+  tags: []
+"Am5,6":
+  text: "Szukajcie JHWH i żyjcie, aby nie wtargnął jak ogień w dom Józefa i nie pochłonął go, a nie będzie gaszącego dla Betel;"
+  tags: []
+"Am5,7":
+  text: "Wy, którzy sąd zamieniacie w piołun i sprawiedliwość rzucacie na ziemię;"
+  tags: []
+"Am5,8":
+  text: "On tworzy Plejady i Oriona, zamienia mrok ciemności w poranek, a dzień nocą zaciemnia; wzywa wody morza i rozlewa je po powierzchni ziemi – JHWH to Jego imię!"
+  tags: []
+"Am5,9":
+  text: "Rozbłyskuje zniszczeniem nad mocnym i ruina przychodzi na twierdzę."
+  tags: []
+"Am5,10":
+  text: "Nienawidzą tego, który upomina ich w bramie i czują odrazę, wobec tego, kto mówi prawdę."
+  tags: []
+"Am5,11":
+  text: "Dlatego, z powodu waszego deptania po ubogim i pobierania od niego daniny w zbożu, to chociaż budujecie domy z kamienia ciosanego, nie będziecie w nich mieszkać; chociaż sadzicie rozkoszne winnice, ale nie będziecie pić z nich wina."
+  tags: []
+"Am5,12":
+  text: "Bo wiem, liczne są wasze przestępstwa i rozliczne wasze grzechy: Dręczycie sprawiedliwego, bierzecie łapówkę i spychacie na bok sprawy ubogich w bramie."
+  tags: []
+"Am5,13":
+  text: "Dlatego roztropny milczy w tym czasie, bo jest to czas zły."
+  tags: []
+"Am5,14":
+  text: "Szukajcie dobra, a nie zła, abyście żyli. A wówczas JHWH, Bóg Zastępów, będzie z wami – tak jak mówicie."
+  tags: []
+"Am5,15":
+  text: "Nienawidźcie zła, a miłujcie dobro i ustanówcie sąd w bramie. Może wtedy JHWH, Bóg Zastępów, zlituje się nad resztką Józefa."
+  tags: []
+"Am5,16":
+  text: "Dlatego tak mówi JHWH Bóg Zastępów, PAN: Na wszystkich placach będzie płacz, a na wszystkich ulicach powiedzą: Biada, biada! I zawołają rolnika do żałoby, a potrafiących zawodzić – do biadania."
+  tags: []
+"Am5,17":
+  text: "I we wszystkich winnicach będzie zawodzenie, gdy przejdę pośród ciebie – mówi JHWH."
+  tags: []
+"Am5,18":
+  text: "Biada pragnącym dnia JHWH! Na cóż wam ten dzień JHWH? On jest ciemnością, a nie światłem."
+  tags: []
+"Am5,19":
+  text: "To tak jakby ktoś uciekał przed lwem, a spotkałby go niedźwiedź; albo jak gdyby wszedł do domu i oparł się ręką o ścianę, a ukąsiłby go wąż."
+  tags: []
+"Am5,20":
+  text: "Czyż nie jest ciemnością dzień JHWH, a nie światłem? I mrokiem – a nie ma w nim jasności?"
+  tags: []
+"Am5,21":
+  text: "Nienawidzę, pogardzam waszymi świętami i czuję odrazę do waszych uroczystych zgromadzeń"
+  tags: []
+"Am5,22":
+  text: "Bo jeśli będziecie mi składać całopalenia i swoje ofiary pokarmowe, nie przyjmę ich ani nie wejrzę na ofiary pojednania z waszego tuczonego bydła."
+  tags: []
+"Am5,23":
+  text: "Usuń ode mnie wrzask twoich pieśni, nie chcę słuchać melodii twoich harf."
+  tags: []
+"Am5,24":
+  text: "Niech raczej sąd spływa jak strumień wody, a sprawiedliwość jak niewysychający potok."
+  tags: []
+"Am5,25":
+  text: "Czy składaliście mi ofiary krwawe i ofiary z pokarmów na pustyni przez czterdzieści lat, domu Izraela?"
+  tags: []
+"Am5,26":
+  text: "Nosiliście raczej namiot waszego Molocha i Kijuna, wasze bożki, gwiazdę waszych bogów, których sobie uczyniliście."
+  tags: []
+"Am5,27":
+  text: "Dlatego uprowadzę was do niewoli poza Damaszek – mówi JHWH, Bóg Zastępów – to Jego imię."
+  tags: []

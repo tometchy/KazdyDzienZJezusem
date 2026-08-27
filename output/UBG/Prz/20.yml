@@ -1,30 +1,90 @@
-"Prz20,1": "Wino jest szydercą, mocny trunek – wrzaskliwy, a każdy, kto zostaje zwiedziony przez nie, jest niemądry."
-"Prz20,2": "Strach, który budzi król, jest jak ryk lwa; kto go rozgniewa, grzeszy przeciwko swojej duszy."
-"Prz20,3": "Zaprzestać sporu jest zaszczytem dla człowieka, ale każdy głupiec się w niego wdaje."
-"Prz20,4": "Leniwy nie orze z powodu zimna; dlatego będzie żebrać we żniwa, ale nic nie otrzyma."
-"Prz20,5": "Rada w sercu człowieka jest jak głęboka woda, lecz człowiek roztropny zaczerpnie jej."
-"Prz20,6": "Większość ludzi przechwala się swoją dobrocią, ale wiernego człowieka któż znajdzie?"
-"Prz20,7": "Sprawiedliwy postępuje uczciwie, błogosławione są po nim jego dzieci."
-"Prz20,8": "Król siedzący na swoim sędziowskim tronie rozprasza swoimi oczami wszelkie zło."
-"Prz20,9": "Któż może powiedzieć: Oczyściłem swoje serce, jestem czysty od swego grzechu?"
-"Prz20,10": "Dwojakie odważniki i dwojaka miara – obydwa budzą odrazę w PANU."
-"Prz20,11": "Nawet dziecko poznaje się po uczynkach, czy jego czyn jest czysty i prawy."
-"Prz20,12": "Ucho, które słyszy, i oko, które widzi, oba uczynił PAN."
-"Prz20,13": "Nie kochaj spania, byś nie zubożał; otwórz oczy, a nasycisz się chlebem."
-"Prz20,14": "To liche, to liche, mówi kupujący, ale chwali się, gdy odchodzi."
-"Prz20,15": "Istnieje złoto i obfitość pereł, ale wargi rozumne są kosztownym klejnotem."
-"Prz20,16": "Zabierz szatę tego, który ręczył za obcego, a od tego, który ręczył za cudzą kobietę, zabierz zastaw."
-"Prz20,17": "Chleb oszustwa smakuje człowiekowi, ale potem jego usta będą napełnione piaskiem."
-"Prz20,18": "Zamysły są utwierdzone dzięki radzie, a wojnę prowadź z rozwagą."
-"Prz20,19": "Plotkarz zdradza tajemnice; dlatego nie zadawaj się z tym, który pochlebia wargami."
-"Prz20,20": "Kto złorzeczy swemu ojcu albo matce, tego pochodnia zgaśnie w gęstych ciemnościach."
-"Prz20,21": "Dziedzictwo prędko nabyte na początku nie będzie błogosławione na końcu."
-"Prz20,22": "Nie mów: Odpłacę złem. Czekaj na PANA, a wybawi cię."
-"Prz20,23": "Dwojakie odważniki budzą odrazę w PANU, a fałszywa waga nie jest dobra."
-"Prz20,24": "Od PANA pochodzą drogi człowieka; jakże może człowiek zrozumieć własną drogę?"
-"Prz20,25": "Sidłem dla człowieka jest pożreć to, co święte, i zastanowić się dopiero po złożeniu ślubów."
-"Prz20,26": "Mądry król rozprasza niegodziwych i wywiera na nich zemstę."
-"Prz20,27": "Duch człowieka jest pochodnią PANA, która bada wszystkie skrytości wnętrza."
-"Prz20,28": "Miłosierdzie i prawda strzegą króla, a jego tron oparty jest na miłosierdziu."
-"Prz20,29": "Chlubą młodzieńców jest ich siła, a ozdobą starców – sędziwość."
-"Prz20,30": "Siność ran oczyszcza zło, a razy – głębię wnętrza."
+"Prz20,1":
+  text: "Wino jest szydercą, mocny trunek – wrzaskliwy, a każdy, kto zostaje zwiedziony przez nie, jest niemądry."
+  tags: []
+"Prz20,2":
+  text: "Strach, który budzi król, jest jak ryk lwa; kto go rozgniewa, grzeszy przeciwko swojej duszy."
+  tags: []
+"Prz20,3":
+  text: "Zaprzestać sporu jest zaszczytem dla człowieka, ale każdy głupiec się w niego wdaje."
+  tags: []
+"Prz20,4":
+  text: "Leniwy nie orze z powodu zimna; dlatego będzie żebrać we żniwa, ale nic nie otrzyma."
+  tags: []
+"Prz20,5":
+  text: "Rada w sercu człowieka jest jak głęboka woda, lecz człowiek roztropny zaczerpnie jej."
+  tags: []
+"Prz20,6":
+  text: "Większość ludzi przechwala się swoją dobrocią, ale wiernego człowieka któż znajdzie?"
+  tags: []
+"Prz20,7":
+  text: "Sprawiedliwy postępuje uczciwie, błogosławione są po nim jego dzieci."
+  tags: []
+"Prz20,8":
+  text: "Król siedzący na swoim sędziowskim tronie rozprasza swoimi oczami wszelkie zło."
+  tags: []
+"Prz20,9":
+  text: "Któż może powiedzieć: Oczyściłem swoje serce, jestem czysty od swego grzechu?"
+  tags: []
+"Prz20,10":
+  text: "Dwojakie odważniki i dwojaka miara – obydwa budzą odrazę w PANU."
+  tags: []
+"Prz20,11":
+  text: "Nawet dziecko poznaje się po uczynkach, czy jego czyn jest czysty i prawy."
+  tags: []
+"Prz20,12":
+  text: "Ucho, które słyszy, i oko, które widzi, oba uczynił PAN."
+  tags: []
+"Prz20,13":
+  text: "Nie kochaj spania, byś nie zubożał; otwórz oczy, a nasycisz się chlebem."
+  tags: []
+"Prz20,14":
+  text: "To liche, to liche, mówi kupujący, ale chwali się, gdy odchodzi."
+  tags: []
+"Prz20,15":
+  text: "Istnieje złoto i obfitość pereł, ale wargi rozumne są kosztownym klejnotem."
+  tags: []
+"Prz20,16":
+  text: "Zabierz szatę tego, który ręczył za obcego, a od tego, który ręczył za cudzą kobietę, zabierz zastaw."
+  tags: []
+"Prz20,17":
+  text: "Chleb oszustwa smakuje człowiekowi, ale potem jego usta będą napełnione piaskiem."
+  tags: []
+"Prz20,18":
+  text: "Zamysły są utwierdzone dzięki radzie, a wojnę prowadź z rozwagą."
+  tags: []
+"Prz20,19":
+  text: "Plotkarz zdradza tajemnice; dlatego nie zadawaj się z tym, który pochlebia wargami."
+  tags: []
+"Prz20,20":
+  text: "Kto złorzeczy swemu ojcu albo matce, tego pochodnia zgaśnie w gęstych ciemnościach."
+  tags: []
+"Prz20,21":
+  text: "Dziedzictwo prędko nabyte na początku nie będzie błogosławione na końcu."
+  tags: []
+"Prz20,22":
+  text: "Nie mów: Odpłacę złem. Czekaj na PANA, a wybawi cię."
+  tags: []
+"Prz20,23":
+  text: "Dwojakie odważniki budzą odrazę w PANU, a fałszywa waga nie jest dobra."
+  tags: []
+"Prz20,24":
+  text: "Od PANA pochodzą drogi człowieka; jakże może człowiek zrozumieć własną drogę?"
+  tags: []
+"Prz20,25":
+  text: "Sidłem dla człowieka jest pożreć to, co święte, i zastanowić się dopiero po złożeniu ślubów."
+  tags: []
+"Prz20,26":
+  text: "Mądry król rozprasza niegodziwych i wywiera na nich zemstę."
+  tags: []
+"Prz20,27":
+  text: "Duch człowieka jest pochodnią PANA, która bada wszystkie skrytości wnętrza."
+  tags: []
+"Prz20,28":
+  text: "Miłosierdzie i prawda strzegą króla, a jego tron oparty jest na miłosierdziu."
+  tags: []
+"Prz20,29":
+  text: "Chlubą młodzieńców jest ich siła, a ozdobą starców – sędziwość."
+  tags: []
+"Prz20,30":
+  text: "Siność ran oczyszcza zło, a razy – głębię wnętrza."
+  tags: []

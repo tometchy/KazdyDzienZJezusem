@@ -1,20 +1,60 @@
-"Ob14,1": "I zobaczyłem, a oto Baranek stał na górze Syjon, a z Nim sto czterdzieści cztery tysiące mających imię Jego Ojca napisane na swoich czołach."
-"Ob14,2": "I usłyszałem głos z nieba jak głos wielu wód, i jak głos potężnego gromu, i usłyszałem głos harfiarzy grających na swoich harfach."
-"Ob14,3": "I śpiewają jakby nową pieśń przed tronem i przed czterema stworzeniami, i przed starcami, i nikt nie mógł nauczyć się tej pieśni, jak tylko sto czterdzieści cztery tysiące tych, którzy są wykupieni z ziemi."
-"Ob14,4": "To są ci, którzy nie skalali się z kobietami, bo są dziewiczy. To są ci, którzy podążają za Barankiem, gdziekolwiek idzie. Ci zostali wykupieni z ludzi, jako pierwocina Bogu i Barankowi."
-"Ob14,5": "A w ustach ich nie znaleziono podstępu; są bowiem bez skazy przed tronem Bożym."
-"Ob14,6": "I zobaczyłem innego anioła lecącego środkiem nieba, który ma wieczną Ewangelię, aby ją głosić mieszkającym na ziemi i wszelkiemu narodowi, i plemieniu, i językowi, i ludowi,"
-"Ob14,7": "Mówiąc potężnym głosem: Bójcie się Boga i oddajcie Mu chwałę, gdyż nadeszła godzina Jego sądu i oddajcie pokłon Temu, który uczynił niebo i ziemię, morze i źródła wód."
-"Ob14,8": "A po nich szedł inny anioł, mówiąc: Upadł, upadł Babilon, miasto wielkie, gdyż winem szału swojego nierządu napoił wszystkie narody."
-"Ob14,9": "I szedł za nim trzeci anioł, mówiąc potężnym głosem: Jeśli ktoś oddaje pokłon dzikiemu zwierzęciu i jego obrazowi, i jeśli bierze znamię na swoje czoło lub na swoją rękę,"
-"Ob14,10": "To i on napije się wina Bożego wzburzenia, które jest zmieszane i nierozcieńczone w kielichu Jego gniewu, i będzie męczony w ogniu i siarce przed świętymi aniołami i przed Barankiem."
-"Ob14,11": "A dym ich męki unosi się na wieki wieków, i nie mają odpoczynku we dnie i w nocy, ci, którzy oddają pokłon dzikiemu zwierzęciu i jego obrazowi, i jeśli ktoś przyjmuje znamię jego imienia."
-"Ob14,12": "Oto tu jest wytrwałość świętych, tu są ci, którzy strzegą przykazań Boga i wiary Jezusa."
-"Ob14,13": "I usłyszałem głos z nieba, mówiący do mnie: Napisz: Błogosławieni są umarli, którzy odtąd umierają w Panu. Tak mówi Duch, aby odpoczęli od swoich trudów, a czyny ich idą za nimi."
-"Ob14,14": "I zobaczyłem, a oto biały obłok; a na obłoku siedzi ktoś podobny do Syna Człowieczego, mający na swojej głowie złoty wieniec, a w swojej ręce ostry sierp."
-"Ob14,15": "I inny anioł wyszedł ze świątyni, wołając potężnym głosem do tego, który siedzi na obłoku: Poślij twój sierp i żnij, gdyż nadeszła twoja godzina, by żąć, ponieważ dojrzało żniwo ziemi."
-"Ob14,16": "I rzucił ten, który siedział na obłoku, swój sierp na ziemię, i zżętą została ziemia."
-"Ob14,17": "A inny anioł wyszedł ze świątyni w niebie, i ma on ostry sierp."
-"Ob14,18": "I jeszcze inny anioł wyszedł od ołtarza, ma on władzę nad ogniem i zawołał, krzycząc potężnym głosem do tego, który ma ostry sierp, mówiąc: Poślij swój ostry sierp i zbierz kiście winorośli ziemi, gdyż jej winne grona już dojrzały."
-"Ob14,19": "I rzucił anioł swój sierp na ziemię, i zerwał grona winorośli ziemi, i wrzucił je do wielkiej tłoczni Bożego gniewu."
-"Ob14,20": "I deptano tłocznię poza miastem, i wyszła krew z tłoczni sięgająca aż do końskich wędzideł na tysiąc sześćset stadiów."
+"Ob14,1":
+  text: "I zobaczyłem, a oto Baranek stał na górze Syjon, a z Nim sto czterdzieści cztery tysiące mających imię Jego Ojca napisane na swoich czołach."
+  tags: []
+"Ob14,2":
+  text: "I usłyszałem głos z nieba jak głos wielu wód, i jak głos potężnego gromu, i usłyszałem głos harfiarzy grających na swoich harfach."
+  tags: []
+"Ob14,3":
+  text: "I śpiewają jakby nową pieśń przed tronem i przed czterema stworzeniami, i przed starcami, i nikt nie mógł nauczyć się tej pieśni, jak tylko sto czterdzieści cztery tysiące tych, którzy są wykupieni z ziemi."
+  tags: []
+"Ob14,4":
+  text: "To są ci, którzy nie skalali się z kobietami, bo są dziewiczy. To są ci, którzy podążają za Barankiem, gdziekolwiek idzie. Ci zostali wykupieni z ludzi, jako pierwocina Bogu i Barankowi."
+  tags: []
+"Ob14,5":
+  text: "A w ustach ich nie znaleziono podstępu; są bowiem bez skazy przed tronem Bożym."
+  tags: []
+"Ob14,6":
+  text: "I zobaczyłem innego anioła lecącego środkiem nieba, który ma wieczną Ewangelię, aby ją głosić mieszkającym na ziemi i wszelkiemu narodowi, i plemieniu, i językowi, i ludowi,"
+  tags: []
+"Ob14,7":
+  text: "Mówiąc potężnym głosem: Bójcie się Boga i oddajcie Mu chwałę, gdyż nadeszła godzina Jego sądu i oddajcie pokłon Temu, który uczynił niebo i ziemię, morze i źródła wód."
+  tags: []
+"Ob14,8":
+  text: "A po nich szedł inny anioł, mówiąc: Upadł, upadł Babilon, miasto wielkie, gdyż winem szału swojego nierządu napoił wszystkie narody."
+  tags: []
+"Ob14,9":
+  text: "I szedł za nim trzeci anioł, mówiąc potężnym głosem: Jeśli ktoś oddaje pokłon dzikiemu zwierzęciu i jego obrazowi, i jeśli bierze znamię na swoje czoło lub na swoją rękę,"
+  tags: []
+"Ob14,10":
+  text: "To i on napije się wina Bożego wzburzenia, które jest zmieszane i nierozcieńczone w kielichu Jego gniewu, i będzie męczony w ogniu i siarce przed świętymi aniołami i przed Barankiem."
+  tags: []
+"Ob14,11":
+  text: "A dym ich męki unosi się na wieki wieków, i nie mają odpoczynku we dnie i w nocy, ci, którzy oddają pokłon dzikiemu zwierzęciu i jego obrazowi, i jeśli ktoś przyjmuje znamię jego imienia."
+  tags: []
+"Ob14,12":
+  text: "Oto tu jest wytrwałość świętych, tu są ci, którzy strzegą przykazań Boga i wiary Jezusa."
+  tags: []
+"Ob14,13":
+  text: "I usłyszałem głos z nieba, mówiący do mnie: Napisz: Błogosławieni są umarli, którzy odtąd umierają w Panu. Tak mówi Duch, aby odpoczęli od swoich trudów, a czyny ich idą za nimi."
+  tags: []
+"Ob14,14":
+  text: "I zobaczyłem, a oto biały obłok; a na obłoku siedzi ktoś podobny do Syna Człowieczego, mający na swojej głowie złoty wieniec, a w swojej ręce ostry sierp."
+  tags: []
+"Ob14,15":
+  text: "I inny anioł wyszedł ze świątyni, wołając potężnym głosem do tego, który siedzi na obłoku: Poślij twój sierp i żnij, gdyż nadeszła twoja godzina, by żąć, ponieważ dojrzało żniwo ziemi."
+  tags: []
+"Ob14,16":
+  text: "I rzucił ten, który siedział na obłoku, swój sierp na ziemię, i zżętą została ziemia."
+  tags: []
+"Ob14,17":
+  text: "A inny anioł wyszedł ze świątyni w niebie, i ma on ostry sierp."
+  tags: []
+"Ob14,18":
+  text: "I jeszcze inny anioł wyszedł od ołtarza, ma on władzę nad ogniem i zawołał, krzycząc potężnym głosem do tego, który ma ostry sierp, mówiąc: Poślij swój ostry sierp i zbierz kiście winorośli ziemi, gdyż jej winne grona już dojrzały."
+  tags: []
+"Ob14,19":
+  text: "I rzucił anioł swój sierp na ziemię, i zerwał grona winorośli ziemi, i wrzucił je do wielkiej tłoczni Bożego gniewu."
+  tags: []
+"Ob14,20":
+  text: "I deptano tłocznię poza miastem, i wyszła krew z tłoczni sięgająca aż do końskich wędzideł na tysiąc sześćset stadiów."
+  tags: []

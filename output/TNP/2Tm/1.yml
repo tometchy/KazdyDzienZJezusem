@@ -1,18 +1,54 @@
-"2Tm1,1": "Paweł, apostoł Jezusa Chrystusa z woli Boga, zgodnie z obietnicą życia, które jest w Chrystusie Jezusie,"
-"2Tm1,2": "Tymoteuszowi, umiłowanemu dziecku. Łaska, miłosierdzie i pokój od Boga Ojca i Chrystusa Jezusa, Pana naszego."
-"2Tm1,3": "Wdzięczny jestem Bogu, któremu służę jak moi przodkowie z czystym sumieniem, gdy nieustannie o tobie wspominam w moich prośbach do Boga, nocą i dniem."
-"2Tm1,4": "Pragnę cię widzieć, pamiętając o twoich łzach, abym został napełniony radością,"
-"2Tm1,5": "Gdy sięgam wspomnieniem o będącej w tobie nieobłudnej wierze, która najpierw zamieszkała w twojej babce Lois i w twojej matce Eunice, a jestem przekonany, że zamieszkała i w tobie."
-"2Tm1,6": "Z tego powodu przypominam ci, abyś rozniecał dar Boży, który jest w tobie przez nałożenie moich rąk."
-"2Tm1,7": "Albowiem nie dał nam Bóg ducha tchórzostwa, ale mocy i miłości, i trzeźwego myślenia."
-"2Tm1,8": "Nie wstydź się więc świadectwa Pana naszego, ani też mnie, jego więźnia, ale podejmij wraz ze mną trud cierpienia dla Ewangelii zgodnie z mocą Boga,"
-"2Tm1,9": "Który nas zbawił i wezwał powołaniem świętym, nie według naszych uczynków, ale według swojego wcześniejszego postanowienia i łaski, danej nam w Chrystusie Jezusie przed wiecznymi czasami,"
-"2Tm1,10": "A teraz ukazanej przez pojawienie się Zbawiciela naszego Jezusa Chrystusa, który prawdziwie zgładził śmierć, a na życie i nieśmiertelność rzucił światło przez Ewangelię,"
-"2Tm1,11": "Dla której jestem ustanowiony kaznodzieją i apostołem, i nauczycielem pogan."
-"2Tm1,12": "Z tego też powodu znoszę te cierpienia; ale nie wstydzę się, gdyż wiem komu zaufałem i jestem przekonany, że jest On mocny zachować mój depozyt na ów dzień."
-"2Tm1,13": "Trzymaj się wzoru zdrowych słów, które usłyszałeś ode mnie, w wierze i miłości, która jest w Chrystusie Jezusie."
-"2Tm1,14": "Strzeż tego dobrego depozytu przez Ducha Świętego, mieszkającego w nas."
-"2Tm1,15": "Wiesz o tym, że odwrócili się ode mnie wszyscy, którzy są w Azji, a wśród nich Fygelos i Hermogenes."
-"2Tm1,16": "Oby Pan dał miłosierdzie domowi Onezyfora, bo wielokrotnie mnie pokrzepił i nie został zawstydzony moim łańcuchem,"
-"2Tm1,17": "Co więcej, będąc w Rzymie, szukał mnie bardzo gorliwie i znalazł."
-"2Tm1,18": "Oby mu Pan dał, by znalazł miłosierdzie u Pana, w tym dniu; a jak mi w Efezie usłużył, ty wiesz najlepiej."
+"2Tm1,1":
+  text: "Paweł, apostoł Jezusa Chrystusa z woli Boga, zgodnie z obietnicą życia, które jest w Chrystusie Jezusie,"
+  tags: []
+"2Tm1,2":
+  text: "Tymoteuszowi, umiłowanemu dziecku. Łaska, miłosierdzie i pokój od Boga Ojca i Chrystusa Jezusa, Pana naszego."
+  tags: []
+"2Tm1,3":
+  text: "Wdzięczny jestem Bogu, któremu służę jak moi przodkowie z czystym sumieniem, gdy nieustannie o tobie wspominam w moich prośbach do Boga, nocą i dniem."
+  tags: []
+"2Tm1,4":
+  text: "Pragnę cię widzieć, pamiętając o twoich łzach, abym został napełniony radością,"
+  tags: []
+"2Tm1,5":
+  text: "Gdy sięgam wspomnieniem o będącej w tobie nieobłudnej wierze, która najpierw zamieszkała w twojej babce Lois i w twojej matce Eunice, a jestem przekonany, że zamieszkała i w tobie."
+  tags: []
+"2Tm1,6":
+  text: "Z tego powodu przypominam ci, abyś rozniecał dar Boży, który jest w tobie przez nałożenie moich rąk."
+  tags: []
+"2Tm1,7":
+  text: "Albowiem nie dał nam Bóg ducha tchórzostwa, ale mocy i miłości, i trzeźwego myślenia."
+  tags: []
+"2Tm1,8":
+  text: "Nie wstydź się więc świadectwa Pana naszego, ani też mnie, jego więźnia, ale podejmij wraz ze mną trud cierpienia dla Ewangelii zgodnie z mocą Boga,"
+  tags: []
+"2Tm1,9":
+  text: "Który nas zbawił i wezwał powołaniem świętym, nie według naszych uczynków, ale według swojego wcześniejszego postanowienia i łaski, danej nam w Chrystusie Jezusie przed wiecznymi czasami,"
+  tags: []
+"2Tm1,10":
+  text: "A teraz ukazanej przez pojawienie się Zbawiciela naszego Jezusa Chrystusa, który prawdziwie zgładził śmierć, a na życie i nieśmiertelność rzucił światło przez Ewangelię,"
+  tags: []
+"2Tm1,11":
+  text: "Dla której jestem ustanowiony kaznodzieją i apostołem, i nauczycielem pogan."
+  tags: []
+"2Tm1,12":
+  text: "Z tego też powodu znoszę te cierpienia; ale nie wstydzę się, gdyż wiem komu zaufałem i jestem przekonany, że jest On mocny zachować mój depozyt na ów dzień."
+  tags: []
+"2Tm1,13":
+  text: "Trzymaj się wzoru zdrowych słów, które usłyszałeś ode mnie, w wierze i miłości, która jest w Chrystusie Jezusie."
+  tags: []
+"2Tm1,14":
+  text: "Strzeż tego dobrego depozytu przez Ducha Świętego, mieszkającego w nas."
+  tags: []
+"2Tm1,15":
+  text: "Wiesz o tym, że odwrócili się ode mnie wszyscy, którzy są w Azji, a wśród nich Fygelos i Hermogenes."
+  tags: []
+"2Tm1,16":
+  text: "Oby Pan dał miłosierdzie domowi Onezyfora, bo wielokrotnie mnie pokrzepił i nie został zawstydzony moim łańcuchem,"
+  tags: []
+"2Tm1,17":
+  text: "Co więcej, będąc w Rzymie, szukał mnie bardzo gorliwie i znalazł."
+  tags: []
+"2Tm1,18":
+  text: "Oby mu Pan dał, by znalazł miłosierdzie u Pana, w tym dniu; a jak mi w Efezie usłużył, ty wiesz najlepiej."
+  tags: []

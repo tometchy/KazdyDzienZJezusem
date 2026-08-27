@@ -1,23 +1,69 @@
-"2Krn11,1": "Kiedy Roboam przybył do Jerozolimy, zebrał spośród domu Judy i Beniamina sto osiemdziesiąt tysięcy mężczyzn – wyborowych wojowników – aby walczyć z Izraelem i przywrócić królestwo Roboamowi."
-"2Krn11,2": "Lecz słowo PANA doszło do Szemajasza, męża Bożego:"
-"2Krn11,3": "Powiedz Roboamowi, synowi Salomona, królowi Judy, i całemu Izraelowi w Judzie i Beniaminie:"
-"2Krn11,4": "Tak mówi PAN: Nie wyruszajcie ani nie walczcie ze swoimi braćmi. Niech każdy wróci do swego domu, bo ta rzecz wyszła ode mnie. I posłuchali słowa PANA, i zawrócili z drogi przeciw Jeroboamowi."
-"2Krn11,5": "I Roboam zamieszkał w Jerozolimie, i odbudował miasta obronne w Judzie."
-"2Krn11,6": "Odbudował Betlejem, Etam i Tekoa;"
-"2Krn11,7": "Bet-Sur, Soko i Adullam;"
-"2Krn11,8": "Gat, Mareszę i Zif;"
-"2Krn11,9": "Adoraim, Lakisz i Azekę;"
-"2Krn11,10": "Sorea, Ajjalon i Hebron, warowne miasta w Judzie i Beniaminie."
-"2Krn11,11": "A gdy wzmocnił te twierdze, ustanowił w nich dowódców i zaopatrzył w składy zboża, oliwy i wina."
-"2Krn11,12": "A w każdym mieście złożył tarcze i włócznie i bardzo je umocnił. Tak należały do niego Juda i Beniamin."
-"2Krn11,13": "Kapłani też i Lewici, którzy byli w całym Izraelu, zebrali się u niego, przybywszy ze wszystkich swoich granic."
-"2Krn11,14": "Lewici bowiem opuścili swoje pastwiska i posiadłości i przyszli do Judy i do Jerozolimy, gdyż Jeroboam i jego synowie odsunęli ich od pełnienia służby kapłańskiej dla PANA."
-"2Krn11,15": "I ustanowił sobie kapłanów na wyżynach dla kultu demonów i cielców, które sporządził."
-"2Krn11,16": "A za nimi przybywali do Jerozolimy ze wszystkich pokoleń Izraela ci, którzy zwrócili swoje serca ku szukaniu PANA, Boga Izraela, aby składać ofiary PANU, Bogu swoich ojców."
-"2Krn11,17": "I tak przez trzy lata umocnili królestwo Judy, i utwierdzili Roboama, syna Salomona. Trzy lata bowiem chodzili drogą Dawida i Salomona."
-"2Krn11,18": "Potem Roboam wziął sobie za żonę Machalat, córkę Jerimota, syna Dawida, oraz Abihail, córkę Eliaba, syna Jessego;"
-"2Krn11,19": "Która mu urodziła synów: Jeusza, Szemariasza i Zahama."
-"2Krn11,20": "A po niej wziął za żonę Maakę, córkę Absaloma, która urodziła mu Abiasza, Attaja, Zizę i Szelomita."
-"2Krn11,21": "Roboam ukochał Maakę, córkę Absaloma, najbardziej ze wszystkich swoich żon i nałożnic. Pojął bowiem osiemnaście żon i sześćdziesiąt nałożnic i spłodził dwudziestu ośmiu synów i sześćdziesiąt córek."
-"2Krn11,22": "I Roboam ustanowił na czele Abiasza, syna Maaki, aby był wodzem wśród jego braci. Zamierzał bowiem uczynić go królem."
-"2Krn11,23": "A postępując roztropnie, rozesłał wszystkich pozostałych swoich synów po wszystkich krainach Judy i Beniamina, po wszystkich miastach warownych, i zaopatrzył ich w zapasy żywności. I pragnął wielu żon."
+"2Krn11,1":
+  text: "Kiedy Roboam przybył do Jerozolimy, zebrał spośród domu Judy i Beniamina sto osiemdziesiąt tysięcy mężczyzn – wyborowych wojowników – aby walczyć z Izraelem i przywrócić królestwo Roboamowi."
+  tags: []
+"2Krn11,2":
+  text: "Lecz słowo PANA doszło do Szemajasza, męża Bożego:"
+  tags: []
+"2Krn11,3":
+  text: "Powiedz Roboamowi, synowi Salomona, królowi Judy, i całemu Izraelowi w Judzie i Beniaminie:"
+  tags: []
+"2Krn11,4":
+  text: "Tak mówi PAN: Nie wyruszajcie ani nie walczcie ze swoimi braćmi. Niech każdy wróci do swego domu, bo ta rzecz wyszła ode mnie. I posłuchali słowa PANA, i zawrócili z drogi przeciw Jeroboamowi."
+  tags: []
+"2Krn11,5":
+  text: "I Roboam zamieszkał w Jerozolimie, i odbudował miasta obronne w Judzie."
+  tags: []
+"2Krn11,6":
+  text: "Odbudował Betlejem, Etam i Tekoa;"
+  tags: []
+"2Krn11,7":
+  text: "Bet-Sur, Soko i Adullam;"
+  tags: []
+"2Krn11,8":
+  text: "Gat, Mareszę i Zif;"
+  tags: []
+"2Krn11,9":
+  text: "Adoraim, Lakisz i Azekę;"
+  tags: []
+"2Krn11,10":
+  text: "Sorea, Ajjalon i Hebron, warowne miasta w Judzie i Beniaminie."
+  tags: []
+"2Krn11,11":
+  text: "A gdy wzmocnił te twierdze, ustanowił w nich dowódców i zaopatrzył w składy zboża, oliwy i wina."
+  tags: []
+"2Krn11,12":
+  text: "A w każdym mieście złożył tarcze i włócznie i bardzo je umocnił. Tak należały do niego Juda i Beniamin."
+  tags: []
+"2Krn11,13":
+  text: "Kapłani też i Lewici, którzy byli w całym Izraelu, zebrali się u niego, przybywszy ze wszystkich swoich granic."
+  tags: []
+"2Krn11,14":
+  text: "Lewici bowiem opuścili swoje pastwiska i posiadłości i przyszli do Judy i do Jerozolimy, gdyż Jeroboam i jego synowie odsunęli ich od pełnienia służby kapłańskiej dla PANA."
+  tags: []
+"2Krn11,15":
+  text: "I ustanowił sobie kapłanów na wyżynach dla kultu demonów i cielców, które sporządził."
+  tags: []
+"2Krn11,16":
+  text: "A za nimi przybywali do Jerozolimy ze wszystkich pokoleń Izraela ci, którzy zwrócili swoje serca ku szukaniu PANA, Boga Izraela, aby składać ofiary PANU, Bogu swoich ojców."
+  tags: []
+"2Krn11,17":
+  text: "I tak przez trzy lata umocnili królestwo Judy, i utwierdzili Roboama, syna Salomona. Trzy lata bowiem chodzili drogą Dawida i Salomona."
+  tags: []
+"2Krn11,18":
+  text: "Potem Roboam wziął sobie za żonę Machalat, córkę Jerimota, syna Dawida, oraz Abihail, córkę Eliaba, syna Jessego;"
+  tags: []
+"2Krn11,19":
+  text: "Która mu urodziła synów: Jeusza, Szemariasza i Zahama."
+  tags: []
+"2Krn11,20":
+  text: "A po niej wziął za żonę Maakę, córkę Absaloma, która urodziła mu Abiasza, Attaja, Zizę i Szelomita."
+  tags: []
+"2Krn11,21":
+  text: "Roboam ukochał Maakę, córkę Absaloma, najbardziej ze wszystkich swoich żon i nałożnic. Pojął bowiem osiemnaście żon i sześćdziesiąt nałożnic i spłodził dwudziestu ośmiu synów i sześćdziesiąt córek."
+  tags: []
+"2Krn11,22":
+  text: "I Roboam ustanowił na czele Abiasza, syna Maaki, aby był wodzem wśród jego braci. Zamierzał bowiem uczynić go królem."
+  tags: []
+"2Krn11,23":
+  text: "A postępując roztropnie, rozesłał wszystkich pozostałych swoich synów po wszystkich krainach Judy i Beniamina, po wszystkich miastach warownych, i zaopatrzył ich w zapasy żywności. I pragnął wielu żon."
+  tags: []

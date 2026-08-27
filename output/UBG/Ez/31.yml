@@ -1,18 +1,54 @@
-"Ez31,1": "Potem, w jedenastym roku, w trzecim miesiącu, pierwszego dnia tego miesiąca, doszło do mnie słowo PANA mówiące:"
-"Ez31,2": "Synu człowieczy, mów do faraona, króla Egiptu, i do jego ludu: Do kogo jesteś podobny w swojej wielkości?"
-"Ez31,3": "Oto Assur był jak cedr na Libanie, o pięknych gałęziach i szeroko rzucającym cieniu, o wysokim wzroście, a jego wierzchołek był wśród gęstych gałęzi."
-"Ez31,4": "Wody dodały mu wzrostu i głębiny go wywyższyły, ich rzeki roztoczyły dokoła jego korzeń i puściły swoje strumienie ku wszystkim drzewom polnym."
-"Ez31,5": "Dlatego swym wzrostem przewyższył wszystkie drzewa polne i jego konary rozkrzewiły się, a dzięki obfitości wód rozszerzyły się jego gałęzie, które wypuścił."
-"Ez31,6": "Na jego gałęziach uwiło sobie gniazda wszelkie ptactwo niebieskie, pod jego gałęziami rodziły się wszelkie zwierzęta polne i w jego cieniu siadały wszystkie wielkie narody."
-"Ez31,7": "Był piękny w swojej wielkości przez długość swoich gałęzi, gdyż jego korzeń był nad obfitymi wodami."
-"Ez31,8": "Cedry w ogrodzie Bożym nie przewyższały go. Cyprysy nie były podobne do jego gałęzi i drzewa kasztanowe nie były podobne do jego konarów. Żadne drzewo w ogrodzie Bożym nie dorównało mu swoją pięknością."
-"Ez31,9": "Ja uczyniłem go pięknym przez mnóstwo jego gałęzi. Zazdrościły mu wszystkie drzewa Edenu, które były w ogrodzie Bożym."
-"Ez31,10": "Dlatego tak mówi Pan BÓG: Ponieważ wysoko wyrósł, wywyższył swój wierzchołek wśród gęstych gałęzi i jego serce podniosło się z powodu jego wysokości;"
-"Ez31,11": "Wydałem go w rękę najmocniejszego z narodów, aby się z nim srogo obszedł. Odrzuciłem go z powodu jego niegodziwości."
-"Ez31,12": "A cudzoziemcy, ci najsrożsi z narodów, wycięli go i porzucili. Jego gałęzie padły na górach i we wszystkich dolinach i jego konary połamały się nad wszystkimi strumieniami tej ziemi. Wszystkie ludy ziemi ustąpiły spod jego cienia i opuściły go."
-"Ez31,13": "Na jego powalonym pniu osiądzie wszelkie ptactwo niebieskie i na jego gałęziach będzie wszelki zwierz polny;"
-"Ez31,14": "Aby żadne drzewo stojące nad wodami nie wynosiło się z powodu swego wzrostu i nie wypuszczało swoich wierzchołków wśród gęstych gałęzi, i nie pyszniło się swoją wysokością żadne drzewo, które pije wodę. Ci wszyscy bowiem są wydani na śmierć, wrzuceni do najgłębszych stron ziemi, wśród synów ludzkich wraz z tymi, którzy zstępują do dołu."
-"Ez31,15": "Tak mówi Pan BÓG: W dniu, kiedy zstąpił do grobu, wzbudziłem lament, zamknąłem dla niego głębinę i wstrzymałem jej strumienie, i zastawiłem wielkie wody. Sprawiłem, że Liban okrył się ciemnością z jego powodu i z jego powodu wszystkie drzewa polne zemdlały."
-"Ez31,16": "Na huk jego upadku zadrżały narody, gdy go wrzucałem do piekła z tymi, co do dołu zstępują. Wszystkie drzewa Edenu, najwyborniejsze i najlepsze z Libanu, które piją wodę, doznają pociechy w najgłębszych stronach ziemi."
-"Ez31,17": "One także zstąpiły z nim do piekła, do zabitych mieczem, którzy byli jego ramieniem i którzy mieszkali w jego cieniu wśród narodów."
-"Ez31,18": "Do kogo byłeś podobny chwałą i wielkością między drzewami Edenu? Oto zostaniesz zrzucony wraz z drzewami Edenu do najgłębszych stron ziemi. Będziesz leżał wśród nieobrzezanych wraz z pobitymi mieczem. To jest z faraonem i całą jego rzeszą – mówi Pan BÓG."
+"Ez31,1":
+  text: "Potem, w jedenastym roku, w trzecim miesiącu, pierwszego dnia tego miesiąca, doszło do mnie słowo PANA mówiące:"
+  tags: []
+"Ez31,2":
+  text: "Synu człowieczy, mów do faraona, króla Egiptu, i do jego ludu: Do kogo jesteś podobny w swojej wielkości?"
+  tags: []
+"Ez31,3":
+  text: "Oto Assur był jak cedr na Libanie, o pięknych gałęziach i szeroko rzucającym cieniu, o wysokim wzroście, a jego wierzchołek był wśród gęstych gałęzi."
+  tags: []
+"Ez31,4":
+  text: "Wody dodały mu wzrostu i głębiny go wywyższyły, ich rzeki roztoczyły dokoła jego korzeń i puściły swoje strumienie ku wszystkim drzewom polnym."
+  tags: []
+"Ez31,5":
+  text: "Dlatego swym wzrostem przewyższył wszystkie drzewa polne i jego konary rozkrzewiły się, a dzięki obfitości wód rozszerzyły się jego gałęzie, które wypuścił."
+  tags: []
+"Ez31,6":
+  text: "Na jego gałęziach uwiło sobie gniazda wszelkie ptactwo niebieskie, pod jego gałęziami rodziły się wszelkie zwierzęta polne i w jego cieniu siadały wszystkie wielkie narody."
+  tags: []
+"Ez31,7":
+  text: "Był piękny w swojej wielkości przez długość swoich gałęzi, gdyż jego korzeń był nad obfitymi wodami."
+  tags: []
+"Ez31,8":
+  text: "Cedry w ogrodzie Bożym nie przewyższały go. Cyprysy nie były podobne do jego gałęzi i drzewa kasztanowe nie były podobne do jego konarów. Żadne drzewo w ogrodzie Bożym nie dorównało mu swoją pięknością."
+  tags: []
+"Ez31,9":
+  text: "Ja uczyniłem go pięknym przez mnóstwo jego gałęzi. Zazdrościły mu wszystkie drzewa Edenu, które były w ogrodzie Bożym."
+  tags: []
+"Ez31,10":
+  text: "Dlatego tak mówi Pan BÓG: Ponieważ wysoko wyrósł, wywyższył swój wierzchołek wśród gęstych gałęzi i jego serce podniosło się z powodu jego wysokości;"
+  tags: []
+"Ez31,11":
+  text: "Wydałem go w rękę najmocniejszego z narodów, aby się z nim srogo obszedł. Odrzuciłem go z powodu jego niegodziwości."
+  tags: []
+"Ez31,12":
+  text: "A cudzoziemcy, ci najsrożsi z narodów, wycięli go i porzucili. Jego gałęzie padły na górach i we wszystkich dolinach i jego konary połamały się nad wszystkimi strumieniami tej ziemi. Wszystkie ludy ziemi ustąpiły spod jego cienia i opuściły go."
+  tags: []
+"Ez31,13":
+  text: "Na jego powalonym pniu osiądzie wszelkie ptactwo niebieskie i na jego gałęziach będzie wszelki zwierz polny;"
+  tags: []
+"Ez31,14":
+  text: "Aby żadne drzewo stojące nad wodami nie wynosiło się z powodu swego wzrostu i nie wypuszczało swoich wierzchołków wśród gęstych gałęzi, i nie pyszniło się swoją wysokością żadne drzewo, które pije wodę. Ci wszyscy bowiem są wydani na śmierć, wrzuceni do najgłębszych stron ziemi, wśród synów ludzkich wraz z tymi, którzy zstępują do dołu."
+  tags: []
+"Ez31,15":
+  text: "Tak mówi Pan BÓG: W dniu, kiedy zstąpił do grobu, wzbudziłem lament, zamknąłem dla niego głębinę i wstrzymałem jej strumienie, i zastawiłem wielkie wody. Sprawiłem, że Liban okrył się ciemnością z jego powodu i z jego powodu wszystkie drzewa polne zemdlały."
+  tags: []
+"Ez31,16":
+  text: "Na huk jego upadku zadrżały narody, gdy go wrzucałem do piekła z tymi, co do dołu zstępują. Wszystkie drzewa Edenu, najwyborniejsze i najlepsze z Libanu, które piją wodę, doznają pociechy w najgłębszych stronach ziemi."
+  tags: []
+"Ez31,17":
+  text: "One także zstąpiły z nim do piekła, do zabitych mieczem, którzy byli jego ramieniem i którzy mieszkali w jego cieniu wśród narodów."
+  tags: []
+"Ez31,18":
+  text: "Do kogo byłeś podobny chwałą i wielkością między drzewami Edenu? Oto zostaniesz zrzucony wraz z drzewami Edenu do najgłębszych stron ziemi. Będziesz leżał wśród nieobrzezanych wraz z pobitymi mieczem. To jest z faraonem i całą jego rzeszą – mówi Pan BÓG."
+  tags: []

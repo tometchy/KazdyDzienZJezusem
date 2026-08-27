@@ -13,6 +13,19 @@ therefore receives the same data inside the image and does not need a volume or
 a Redis process. Rebuild or republish the application after regenerating the
 YAML files.
 
+Each verse is stored as a mapping with its text and an editable tag list:
+
+```yaml
+"1J1,4":
+  text: "καὶ ταῦτα γράφομεν ὑμῖν, ἵνα ἡ χαρὰ ὑμῶν ᾖ πεπληρωμένη."
+  tags: []
+```
+
+Non-empty tags use a JSON-compatible YAML flow array with double-quoted
+strings, for example `tags: ["joy", "letters of John"]`. Keep the `text` value
+and the complete `tags` array on their respective single lines. Regenerating
+the Bible data preserves tags already present for matching verses.
+
 ## Page snapshot tests
 
 The xUnit tests verify the complete HTML of the Bible index, the

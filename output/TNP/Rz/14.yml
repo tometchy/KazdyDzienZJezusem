@@ -1,23 +1,69 @@
-"Rz14,1": "A słabego w wierze przyjmujcie, ale nie aby rozsądzać poglądy."
-"Rz14,2": "Ten wierzy, że może zjeść wszystko, a ten natomiast, który jest słaby, je jarzynę."
-"Rz14,3": "Ten, który je, niech nie wzgardza tym, który nie je; a ten który nie je, niech nie sądzi tego, który je; albowiem Bóg go przyjął."
-"Rz14,4": "Kim ty jesteś, że sądzisz sługę cudzego domu? Dla własnego Pana stoi lub upada; ale zostanie postawiony; Bóg bowiem mocny jest go postawić."
-"Rz14,5": "Jeden wprawdzie osądza dzień ponad inny dzień, drugi natomiast każdy dzień osądza tak samo; każdy niech jest upewniony w swoim myśleniu."
-"Rz14,6": "Kto myśli o dniu, dla Pana myśli; a kto nie myśli o dniu, dla Pana nie myśli; kto je, dla Pana je, bo dziękuje Bogu; a kto nie je, dla Pana nie je i dziękuje Bogu."
-"Rz14,7": "Albowiem nikt z nas nie żyje dla samego siebie i nikt dla samego siebie nie umiera."
-"Rz14,8": "Bo jeżeli żyjemy, to dla Pana żyjemy; jeżeli umieramy, to dla Pana umieramy; czy więc żyjemy, czy umieramy, jesteśmy Pana."
-"Rz14,9": "Gdyż po to Chrystus i umarł, i powstał, i powrócił do życia, aby i nad martwymi, i nad żyjącymi zapanował."
-"Rz14,10": "Ty natomiast dlaczego sądzisz twojego brata? Albo dlaczego gardzisz twoim bratem? Wszyscy bowiem staniemy przed trybunałem sądu Chrystusa."
-"Rz14,11": "Napisane jest bowiem: Jako żyję Ja, mówi PAN, przede mną zegnie się wszelkie kolano i każdy język wyzna Bogu."
-"Rz14,12": "Dlatego więc każdy z nas zda z samego siebie sprawę Bogu."
-"Rz14,13": "Już więcej nie osądzajmy jedni drugich; ale raczej rozsądźmy to, aby nie kłaść przed bratem powodu do potknięcia lub zgorszenia."
-"Rz14,14": "Wiem i jestem przekonany w Panu Jezusie, że nic samo przez się nie jest skalane, ale jest skalane dla tego, kto zalicza to do skalanych."
-"Rz14,15": "A jeśli twój brat jest zasmucany z powodu pokarmu, już nie postępujesz zgodnie z miłością; nie rujnuj swoim pokarmem tego, za którego Chrystus umarł."
-"Rz14,16": "Niech więc to, co jest waszym dobrem nie będzie powodem bluźnierstw."
-"Rz14,17": "Bowiem Królestwo Boże to nie jest pokarm i napój, ale sprawiedliwość i pokój, i radość w Duchu Świętym."
-"Rz14,18": "Bo kto w tym służy Chrystusowi, miły jest Bogu i wypróbowany dla ludzi."
-"Rz14,19": "Dążmy więc do tego, co służy pokojowi i ku zbudowaniu jedni drugich."
-"Rz14,20": "Ze względu na pokarm nie niszcz dzieła Boga. Wszystko wprawdzie jest czyste, ale jest złe dla człowieka, który przez jedzenie powoduje czyjeś potknięcie."
-"Rz14,21": "Dobrze jest nie jeść mięsa i nie pić wina, i niczego, o co twój brat potykałby się, gorszył, albo słabnął."
-"Rz14,22": "Ty masz wiarę? Miej ją dla samego siebie przed Bogiem. Błogosławiony, kto nie sądzi siebie w tym, czego próbuje."
-"Rz14,23": "Ale kto wątpi, gdy je, już jest osądzony, dlatego że nie jest to z wiary; a wszystko, co nie jest z wiary, jest grzechem."
+"Rz14,1":
+  text: "A słabego w wierze przyjmujcie, ale nie aby rozsądzać poglądy."
+  tags: []
+"Rz14,2":
+  text: "Ten wierzy, że może zjeść wszystko, a ten natomiast, który jest słaby, je jarzynę."
+  tags: []
+"Rz14,3":
+  text: "Ten, który je, niech nie wzgardza tym, który nie je; a ten który nie je, niech nie sądzi tego, który je; albowiem Bóg go przyjął."
+  tags: []
+"Rz14,4":
+  text: "Kim ty jesteś, że sądzisz sługę cudzego domu? Dla własnego Pana stoi lub upada; ale zostanie postawiony; Bóg bowiem mocny jest go postawić."
+  tags: []
+"Rz14,5":
+  text: "Jeden wprawdzie osądza dzień ponad inny dzień, drugi natomiast każdy dzień osądza tak samo; każdy niech jest upewniony w swoim myśleniu."
+  tags: []
+"Rz14,6":
+  text: "Kto myśli o dniu, dla Pana myśli; a kto nie myśli o dniu, dla Pana nie myśli; kto je, dla Pana je, bo dziękuje Bogu; a kto nie je, dla Pana nie je i dziękuje Bogu."
+  tags: []
+"Rz14,7":
+  text: "Albowiem nikt z nas nie żyje dla samego siebie i nikt dla samego siebie nie umiera."
+  tags: []
+"Rz14,8":
+  text: "Bo jeżeli żyjemy, to dla Pana żyjemy; jeżeli umieramy, to dla Pana umieramy; czy więc żyjemy, czy umieramy, jesteśmy Pana."
+  tags: []
+"Rz14,9":
+  text: "Gdyż po to Chrystus i umarł, i powstał, i powrócił do życia, aby i nad martwymi, i nad żyjącymi zapanował."
+  tags: []
+"Rz14,10":
+  text: "Ty natomiast dlaczego sądzisz twojego brata? Albo dlaczego gardzisz twoim bratem? Wszyscy bowiem staniemy przed trybunałem sądu Chrystusa."
+  tags: []
+"Rz14,11":
+  text: "Napisane jest bowiem: Jako żyję Ja, mówi PAN, przede mną zegnie się wszelkie kolano i każdy język wyzna Bogu."
+  tags: []
+"Rz14,12":
+  text: "Dlatego więc każdy z nas zda z samego siebie sprawę Bogu."
+  tags: []
+"Rz14,13":
+  text: "Już więcej nie osądzajmy jedni drugich; ale raczej rozsądźmy to, aby nie kłaść przed bratem powodu do potknięcia lub zgorszenia."
+  tags: []
+"Rz14,14":
+  text: "Wiem i jestem przekonany w Panu Jezusie, że nic samo przez się nie jest skalane, ale jest skalane dla tego, kto zalicza to do skalanych."
+  tags: []
+"Rz14,15":
+  text: "A jeśli twój brat jest zasmucany z powodu pokarmu, już nie postępujesz zgodnie z miłością; nie rujnuj swoim pokarmem tego, za którego Chrystus umarł."
+  tags: []
+"Rz14,16":
+  text: "Niech więc to, co jest waszym dobrem nie będzie powodem bluźnierstw."
+  tags: []
+"Rz14,17":
+  text: "Bowiem Królestwo Boże to nie jest pokarm i napój, ale sprawiedliwość i pokój, i radość w Duchu Świętym."
+  tags: []
+"Rz14,18":
+  text: "Bo kto w tym służy Chrystusowi, miły jest Bogu i wypróbowany dla ludzi."
+  tags: []
+"Rz14,19":
+  text: "Dążmy więc do tego, co służy pokojowi i ku zbudowaniu jedni drugich."
+  tags: []
+"Rz14,20":
+  text: "Ze względu na pokarm nie niszcz dzieła Boga. Wszystko wprawdzie jest czyste, ale jest złe dla człowieka, który przez jedzenie powoduje czyjeś potknięcie."
+  tags: []
+"Rz14,21":
+  text: "Dobrze jest nie jeść mięsa i nie pić wina, i niczego, o co twój brat potykałby się, gorszył, albo słabnął."
+  tags: []
+"Rz14,22":
+  text: "Ty masz wiarę? Miej ją dla samego siebie przed Bogiem. Błogosławiony, kto nie sądzi siebie w tym, czego próbuje."
+  tags: []
+"Rz14,23":
+  text: "Ale kto wątpi, gdy je, już jest osądzony, dlatego że nie jest to z wiary; a wszystko, co nie jest z wiary, jest grzechem."
+  tags: []

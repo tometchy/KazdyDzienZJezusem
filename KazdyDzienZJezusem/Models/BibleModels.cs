@@ -4,7 +4,10 @@ public sealed record BibleTranslation(string Code, string Name, string Descripti
 
 public sealed record BibleBook(string Abbreviation, string Name, int Order);
 
-public sealed record BibleVerse(int Number, string Text);
+public sealed record BibleVerse(
+    int Number,
+    string Text,
+    IReadOnlyList<string> Tags);
 
 public sealed record BibleTranslationListViewModel(
     IReadOnlyList<BibleTranslation> Translations);

@@ -1,19 +1,57 @@
-"Ps116,1": "Miłuję PANA, bo usłyszał mój głos i moje prośby."
-"Ps116,2": "Nakłonił bowiem swego ucha ku mnie, dlatego będę go wzywał za moich dni."
-"Ps116,3": "Otoczyły mnie boleści śmierci, utrapienia piekła przeniknęły mnie; przyszły na mnie ucisk i boleść."
-"Ps116,4": "Wtedy wezwałem imienia PANA, mówiąc: PANIE, proszę, wybaw moją duszę."
-"Ps116,5": "Łaskawy jest PAN i sprawiedliwy, nasz Bóg jest miłosierny."
-"Ps116,6": "PAN strzeże ludzi prostych; byłem uciśniony, a wybawił mnie."
-"Ps116,7": "Powróć, moja duszo, do swego odpoczynku, bo PAN dobrze ci uczynił."
-"Ps116,8": "Wybawił bowiem moją duszę od śmierci, oczy moje od płaczu, moją nogę od upadku."
-"Ps116,9": "Będę chodził przed obliczem PANA w ziemi żyjących."
-"Ps116,10": "Uwierzyłem i dlatego przemówiłem; byłem bardzo strapiony."
-"Ps116,11": "Powiedziałem w zatrwożeniu: Każdy człowiek to kłamca."
-"Ps116,12": "Cóż oddam PANU za wszystkie jego dobrodziejstwa, które mi wyświadczył?"
-"Ps116,13": "Wezmę kielich zbawienia i będę wzywać imienia PANA."
-"Ps116,14": "Moje śluby złożone PANU wypełnię teraz przed całym jego ludem."
-"Ps116,15": "Cenna jest w oczach PANA śmierć jego świętych."
-"Ps116,16": "O PANIE, jestem twoim sługą; jestem twoim sługą i synem twojej służącej; rozerwałeś moje więzy."
-"Ps116,17": "Tobie złożę ofiarę chwały i będę wzywać imienia PANA."
-"Ps116,18": "Moje śluby złożone PANU wypełnię teraz przed całym jego ludem;"
-"Ps116,19": "W dziedzińcach domu PANA, pośrodku ciebie, Jeruzalem! Alleluja."
+"Ps116,1":
+  text: "Miłuję PANA, bo usłyszał mój głos i moje prośby."
+  tags: []
+"Ps116,2":
+  text: "Nakłonił bowiem swego ucha ku mnie, dlatego będę go wzywał za moich dni."
+  tags: []
+"Ps116,3":
+  text: "Otoczyły mnie boleści śmierci, utrapienia piekła przeniknęły mnie; przyszły na mnie ucisk i boleść."
+  tags: []
+"Ps116,4":
+  text: "Wtedy wezwałem imienia PANA, mówiąc: PANIE, proszę, wybaw moją duszę."
+  tags: []
+"Ps116,5":
+  text: "Łaskawy jest PAN i sprawiedliwy, nasz Bóg jest miłosierny."
+  tags: []
+"Ps116,6":
+  text: "PAN strzeże ludzi prostych; byłem uciśniony, a wybawił mnie."
+  tags: []
+"Ps116,7":
+  text: "Powróć, moja duszo, do swego odpoczynku, bo PAN dobrze ci uczynił."
+  tags: []
+"Ps116,8":
+  text: "Wybawił bowiem moją duszę od śmierci, oczy moje od płaczu, moją nogę od upadku."
+  tags: []
+"Ps116,9":
+  text: "Będę chodził przed obliczem PANA w ziemi żyjących."
+  tags: []
+"Ps116,10":
+  text: "Uwierzyłem i dlatego przemówiłem; byłem bardzo strapiony."
+  tags: []
+"Ps116,11":
+  text: "Powiedziałem w zatrwożeniu: Każdy człowiek to kłamca."
+  tags: []
+"Ps116,12":
+  text: "Cóż oddam PANU za wszystkie jego dobrodziejstwa, które mi wyświadczył?"
+  tags: []
+"Ps116,13":
+  text: "Wezmę kielich zbawienia i będę wzywać imienia PANA."
+  tags: []
+"Ps116,14":
+  text: "Moje śluby złożone PANU wypełnię teraz przed całym jego ludem."
+  tags: []
+"Ps116,15":
+  text: "Cenna jest w oczach PANA śmierć jego świętych."
+  tags: []
+"Ps116,16":
+  text: "O PANIE, jestem twoim sługą; jestem twoim sługą i synem twojej służącej; rozerwałeś moje więzy."
+  tags: []
+"Ps116,17":
+  text: "Tobie złożę ofiarę chwały i będę wzywać imienia PANA."
+  tags: []
+"Ps116,18":
+  text: "Moje śluby złożone PANU wypełnię teraz przed całym jego ludem;"
+  tags: []
+"Ps116,19":
+  text: "W dziedzińcach domu PANA, pośrodku ciebie, Jeruzalem! Alleluja."
+  tags: []

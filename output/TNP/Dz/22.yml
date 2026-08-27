@@ -1,30 +1,90 @@
-"Dz22,1": "Mężowie bracia i ojcowie! Posłuchajcie teraz mojej wobec was obrony."
-"Dz22,2": "A gdy usłyszeli, że do nich przemawia w języku hebrajskim, jeszcze bardziej się uciszyli. I mówił:"
-"Dz22,3": "Ja wprawdzie jestem Żydem, mężem urodzonym w Tarsie w Cylicji, lecz wychowanym w tym mieście u stóp Gamaliela; wykształconym dokładnie według ojczystego Prawa, będąc gorliwym wobec Boga, jakimi i wy wszyscy dzisiaj jesteście,"
-"Dz22,4": "Tym, który prześladował tę Drogę aż do kary śmierci, wiążąc i wydając do więzień zarówno mężczyzn, jak i kobiety,"
-"Dz22,5": "Jak i o tym zaświadczy arcykapłan i cała rada starszych; od których też wziąłem listy do braci w Damaszku, szedłem tam z zamiarem, by i tych, którzy tam byli, związanych, przyprowadzić do Jerozolimy, aby zostali ukarani."
-"Dz22,6": "Lecz oto co mi się stało, gdy byłem w drodze i przybliżałem się do Damaszku: Około południa nagle otoczyła mnie blaskiem wielka światłość z nieba."
-"Dz22,7": "Upadłem też na ziemię i usłyszałem głos mówiący do mnie: Saulu! Saulu! Dlaczego mnie prześladujesz?"
-"Dz22,8": "A ja odpowiedziałem: Kim jesteś, Panie? Powiedział też do mnie: Ja jestem Jezus Nazarejczyk, którego ty prześladujesz."
-"Dz22,9": "A ci, którzy byli ze mną, wprawdzie widzieli światłość i zlękli się, ale głosu do mnie mówiącego, nie zrozumieli."
-"Dz22,10": "I powiedziałem: Co mam czynić, Panie? A Pan powiedział do mnie: Wstań! Idź do Damaszku, a tam ci powiedzą o wszystkim, co ci wyznaczono, abyś uczynił."
-"Dz22,11": "Ponieważ nic nie widziałem od blasku chwały tego światła, przyszedłem do Damaszku, prowadzony za rękę przez tych, którzy byli razem ze mną."
-"Dz22,12": "A niejaki Ananiasz, mąż pobożny według Prawa, który otrzymał dobre świadectwo od wszystkich Żydów tam mieszkających,"
-"Dz22,13": "Przyszedł do mnie, stanął obok i powiedział do mnie: Saulu, bracie, przejrzyj! I ja w tej chwili spojrzałem na niego."
-"Dz22,14": "A on powiedział: Bóg ojców naszych już wcześniej swą ręką wybrał cię dla siebie, abyś poznał Jego wolę i abyś oglądał Sprawiedliwego, i usłyszał głos z Jego ust."
-"Dz22,15": "Gdyż będziesz Mu świadkiem wobec wszystkich ludzi – tego, co widziałeś i słyszałeś."
-"Dz22,16": "A teraz czemu zwlekasz? Wstań, ochrzcij się i obmyj z siebie twoje grzechy, wezwawszy imienia Pana."
-"Dz22,17": "I stało się potem, gdy wróciłem do Jerozolimy i modliłem się w świątyni, że byłem w uniesieniu."
-"Dz22,18": "I zobaczyłem Go mówiącego do mnie: Pośpiesz się i wyjdź szybko z Jerozolimy, ponieważ nie przyjmą od ciebie świadectwa o mnie."
-"Dz22,19": "A ja powiedziałem: Panie! Oni wiedzą, że to ja byłem tym, który wtrącał do więzienia i biczował po synagogach wierzących w Ciebie;"
-"Dz22,20": "I gdy była wylewana krew Szczepana, Twojego świadka, ja sam stałem obok i pochwalałem jego zabicie, i strzegłem szat tych, którzy go zabijali."
-"Dz22,21": "I powiedział do mnie: Idź, bo ja cię wyślę daleko do pogan."
-"Dz22,22": "I słuchali go aż do tego słowa, i podnieśli swój głos, mówiąc: Zgładź z ziemi takiego, bo nie jest słuszne, aby miał żyć."
-"Dz22,23": "A gdy oni krzyczeli i zrzucali odzienie, i ciskali piach w powietrze,"
-"Dz22,24": "Dowódca rozkazał prowadzić go do twierdzy, mówiąc, by przesłuchano go z zastosowaniem chłosty, aby się dowiedzieć, z jakiej przyczyny tak przeciwko niemu wołano."
-"Dz22,25": "A gdy go rozciągali i związywali rzemieniami, Paweł powiedział do stojącego obok setnika: Czy wolno wam chłostać Rzymianina i to bez sądu?"
-"Dz22,26": "Co słysząc setnik, przystąpił do dowódcy i oznajmił mu, mówiąc: Bacz, co zamierzasz czynić, albowiem człowiek ten jest Rzymianinem."
-"Dz22,27": "A gdy przystąpił dowódca, powiedział do niego: Powiedz mi, czy ty jesteś Rzymianinem? A on powiedział: Tak."
-"Dz22,28": "Dowódca również odpowiedział: Ja za wielką sumę nabyłem to obywatelstwo. A Paweł powiedział: A ja natomiast mam je od urodzenia."
-"Dz22,29": "I natychmiast odstąpili od niego ci, którzy go mieli przesłuchiwać. A dowódca zląkł się, gdy dowiedział się, że jest Rzymianinem, i że kazał go związać."
-"Dz22,30": "A następnego dnia, chcąc się dokładnie dowiedzieć, o co oskarżają go Żydzi, uwolnił go z więzów i rozkazał przyjść arcykapłanom i całemu Sanhedrynowi, a gdy sprowadził Pawła, postawił go przed nimi."
+"Dz22,1":
+  text: "Mężowie bracia i ojcowie! Posłuchajcie teraz mojej wobec was obrony."
+  tags: []
+"Dz22,2":
+  text: "A gdy usłyszeli, że do nich przemawia w języku hebrajskim, jeszcze bardziej się uciszyli. I mówił:"
+  tags: []
+"Dz22,3":
+  text: "Ja wprawdzie jestem Żydem, mężem urodzonym w Tarsie w Cylicji, lecz wychowanym w tym mieście u stóp Gamaliela; wykształconym dokładnie według ojczystego Prawa, będąc gorliwym wobec Boga, jakimi i wy wszyscy dzisiaj jesteście,"
+  tags: []
+"Dz22,4":
+  text: "Tym, który prześladował tę Drogę aż do kary śmierci, wiążąc i wydając do więzień zarówno mężczyzn, jak i kobiety,"
+  tags: []
+"Dz22,5":
+  text: "Jak i o tym zaświadczy arcykapłan i cała rada starszych; od których też wziąłem listy do braci w Damaszku, szedłem tam z zamiarem, by i tych, którzy tam byli, związanych, przyprowadzić do Jerozolimy, aby zostali ukarani."
+  tags: []
+"Dz22,6":
+  text: "Lecz oto co mi się stało, gdy byłem w drodze i przybliżałem się do Damaszku: Około południa nagle otoczyła mnie blaskiem wielka światłość z nieba."
+  tags: []
+"Dz22,7":
+  text: "Upadłem też na ziemię i usłyszałem głos mówiący do mnie: Saulu! Saulu! Dlaczego mnie prześladujesz?"
+  tags: []
+"Dz22,8":
+  text: "A ja odpowiedziałem: Kim jesteś, Panie? Powiedział też do mnie: Ja jestem Jezus Nazarejczyk, którego ty prześladujesz."
+  tags: []
+"Dz22,9":
+  text: "A ci, którzy byli ze mną, wprawdzie widzieli światłość i zlękli się, ale głosu do mnie mówiącego, nie zrozumieli."
+  tags: []
+"Dz22,10":
+  text: "I powiedziałem: Co mam czynić, Panie? A Pan powiedział do mnie: Wstań! Idź do Damaszku, a tam ci powiedzą o wszystkim, co ci wyznaczono, abyś uczynił."
+  tags: []
+"Dz22,11":
+  text: "Ponieważ nic nie widziałem od blasku chwały tego światła, przyszedłem do Damaszku, prowadzony za rękę przez tych, którzy byli razem ze mną."
+  tags: []
+"Dz22,12":
+  text: "A niejaki Ananiasz, mąż pobożny według Prawa, który otrzymał dobre świadectwo od wszystkich Żydów tam mieszkających,"
+  tags: []
+"Dz22,13":
+  text: "Przyszedł do mnie, stanął obok i powiedział do mnie: Saulu, bracie, przejrzyj! I ja w tej chwili spojrzałem na niego."
+  tags: []
+"Dz22,14":
+  text: "A on powiedział: Bóg ojców naszych już wcześniej swą ręką wybrał cię dla siebie, abyś poznał Jego wolę i abyś oglądał Sprawiedliwego, i usłyszał głos z Jego ust."
+  tags: []
+"Dz22,15":
+  text: "Gdyż będziesz Mu świadkiem wobec wszystkich ludzi – tego, co widziałeś i słyszałeś."
+  tags: []
+"Dz22,16":
+  text: "A teraz czemu zwlekasz? Wstań, ochrzcij się i obmyj z siebie twoje grzechy, wezwawszy imienia Pana."
+  tags: []
+"Dz22,17":
+  text: "I stało się potem, gdy wróciłem do Jerozolimy i modliłem się w świątyni, że byłem w uniesieniu."
+  tags: []
+"Dz22,18":
+  text: "I zobaczyłem Go mówiącego do mnie: Pośpiesz się i wyjdź szybko z Jerozolimy, ponieważ nie przyjmą od ciebie świadectwa o mnie."
+  tags: []
+"Dz22,19":
+  text: "A ja powiedziałem: Panie! Oni wiedzą, że to ja byłem tym, który wtrącał do więzienia i biczował po synagogach wierzących w Ciebie;"
+  tags: []
+"Dz22,20":
+  text: "I gdy była wylewana krew Szczepana, Twojego świadka, ja sam stałem obok i pochwalałem jego zabicie, i strzegłem szat tych, którzy go zabijali."
+  tags: []
+"Dz22,21":
+  text: "I powiedział do mnie: Idź, bo ja cię wyślę daleko do pogan."
+  tags: []
+"Dz22,22":
+  text: "I słuchali go aż do tego słowa, i podnieśli swój głos, mówiąc: Zgładź z ziemi takiego, bo nie jest słuszne, aby miał żyć."
+  tags: []
+"Dz22,23":
+  text: "A gdy oni krzyczeli i zrzucali odzienie, i ciskali piach w powietrze,"
+  tags: []
+"Dz22,24":
+  text: "Dowódca rozkazał prowadzić go do twierdzy, mówiąc, by przesłuchano go z zastosowaniem chłosty, aby się dowiedzieć, z jakiej przyczyny tak przeciwko niemu wołano."
+  tags: []
+"Dz22,25":
+  text: "A gdy go rozciągali i związywali rzemieniami, Paweł powiedział do stojącego obok setnika: Czy wolno wam chłostać Rzymianina i to bez sądu?"
+  tags: []
+"Dz22,26":
+  text: "Co słysząc setnik, przystąpił do dowódcy i oznajmił mu, mówiąc: Bacz, co zamierzasz czynić, albowiem człowiek ten jest Rzymianinem."
+  tags: []
+"Dz22,27":
+  text: "A gdy przystąpił dowódca, powiedział do niego: Powiedz mi, czy ty jesteś Rzymianinem? A on powiedział: Tak."
+  tags: []
+"Dz22,28":
+  text: "Dowódca również odpowiedział: Ja za wielką sumę nabyłem to obywatelstwo. A Paweł powiedział: A ja natomiast mam je od urodzenia."
+  tags: []
+"Dz22,29":
+  text: "I natychmiast odstąpili od niego ci, którzy go mieli przesłuchiwać. A dowódca zląkł się, gdy dowiedział się, że jest Rzymianinem, i że kazał go związać."
+  tags: []
+"Dz22,30":
+  text: "A następnego dnia, chcąc się dokładnie dowiedzieć, o co oskarżają go Żydzi, uwolnił go z więzów i rozkazał przyjść arcykapłanom i całemu Sanhedrynowi, a gdy sprowadził Pawła, postawił go przed nimi."
+  tags: []

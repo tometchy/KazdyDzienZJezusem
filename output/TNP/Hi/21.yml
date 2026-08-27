@@ -1,34 +1,102 @@
-"Hi21,1": "A Hiob odpowiedział i rzekł:"
-"Hi21,2": "Słuchajcie uważnie mojej mowy, a to niech stanie się dla mnie waszą pociechą!"
-"Hi21,3": "Znoście mnie, gdy ja będę mówił, a potem, gdy będę mówić, możesz szydzić!"
-"Hi21,4": "Czy ja moją skargę kieruję do człowieka? A jeśli tak, to dlaczego nie miałby mój duch być wzburzony?"
-"Hi21,5": "Spójrzcie na mnie i zdumiejcie się, i połóżcie rękę na swoje usta."
-"Hi21,6": "A gdy o tym sobie przypomnę, jestem przerażony, a drżenie ogarnia moje ciało."
-"Hi21,7": "Dlaczego niegodziwi żyją, starzeją się, a nawet wzrastają w siłę?"
-"Hi21,8": "Ich potomstwo utrwala się przed nimi, a wokół nich dzieci rosną na ich oczach."
-"Hi21,9": "Ich domy są bezpieczne, bez strachu i nie ma nad nimi rózgi Boga."
-"Hi21,10": "Ich byk pokrywa i nie zawodzi, ich krowa cieli się i nie roni."
-"Hi21,11": "Wypuszczają swoich małych chłopców jak stado owiec, a ich synowie radośnie skaczą wokoło."
-"Hi21,12": "Chwytają za bębenek i harfę i weselą się przy dźwięku fletu."
-"Hi21,13": "Spędzają swoje dni w dobrobycie, i w jednej chwili zstępują do Szeolu."
-"Hi21,14": "I mówią do Boga: Odejdź od nas, bo nie pragniemy poznania Twoich dróg.:"
-"Hi21,15": "Kim jest Wszechmogący, że winniśmy Mu służyć? I co zyskamy, że winniśmy spotkać się z Nim?"
-"Hi21,16": "Oto ich pomyślność nie jest w ich ręku. Rada niegodziwych daleka jest ode mnie."
-"Hi21,17": "Jak często gaśnie pochodnia niegodziwych i przychodzi na nich zguba? Jak często przydziela im ból w swoim gniewie?"
-"Hi21,18": "Jak często są jak słoma na wietrze i jak plewa, którą wicher porywa?"
-"Hi21,19": "Czy Bóg zachowuje dla jego synów jego nieprawość? Niech odpłaci mu tak, aby o tym wiedział."
-"Hi21,20": "Niech jego oczy ujrzą jego zniszczenie i niech wypiją gniew Wszechmogącego."
-"Hi21,21": "Bo jakaż jest jego rozkosz w jego domu, gdy jest już po nim, i gdy liczba jego miesięcy osiągnie kres?"
-"Hi21,22": "Czy ktoś może uczyć Boga wiedzy, gdy On sam sądzi najwyższych?"
-"Hi21,23": "Jeden umiera w pełni sił, cały spokojny i beztroski."
-"Hi21,24": "Jego wiadra są pełne mleka, a jego kości szpikiem są nawilżone."
-"Hi21,25": "A drugi umiera z goryczą w duszy, a nie skosztował szczęścia."
-"Hi21,26": "Razem leżą w prochu i obu pokrywa robactwo."
-"Hi21,27": "Oto znam wasze myśli i zamiary przeciwko mnie, przez które wyrządzacie zło."
-"Hi21,28": "Bo mówicie: Gdzie jest dom tego dostojnika? A gdzie jest ten namiot, w którym zamieszkali niegodziwi?"
-"Hi21,29": "Czy nie pytaliście o to przechodzących drogą? Czy nie chcecie poznać ich dowodów;"
-"Hi21,30": "Że niegodziwy jest zachowany na dzień nieszczęścia? Że na dzień gniewu są oni prowadzeni."
-"Hi21,31": "Kto wytyka mu w twarz jego drogę? A kto mu odpłaci za to, co on uczynił?"
-"Hi21,32": "I on zostanie zaprowadzony do grobów i nad mogiłą będzie strzeżony."
-"Hi21,33": "Słodkie są mu bryły doliny i ciągnie za sobą każdego człowieka; a przed nim idą niezliczeni."
-"Hi21,34": "Jakże więc możecie mnie pocieszać marnością, skoro w waszych odpowiedziach pozostaje fałsz?"
+"Hi21,1":
+  text: "A Hiob odpowiedział i rzekł:"
+  tags: []
+"Hi21,2":
+  text: "Słuchajcie uważnie mojej mowy, a to niech stanie się dla mnie waszą pociechą!"
+  tags: []
+"Hi21,3":
+  text: "Znoście mnie, gdy ja będę mówił, a potem, gdy będę mówić, możesz szydzić!"
+  tags: []
+"Hi21,4":
+  text: "Czy ja moją skargę kieruję do człowieka? A jeśli tak, to dlaczego nie miałby mój duch być wzburzony?"
+  tags: []
+"Hi21,5":
+  text: "Spójrzcie na mnie i zdumiejcie się, i połóżcie rękę na swoje usta."
+  tags: []
+"Hi21,6":
+  text: "A gdy o tym sobie przypomnę, jestem przerażony, a drżenie ogarnia moje ciało."
+  tags: []
+"Hi21,7":
+  text: "Dlaczego niegodziwi żyją, starzeją się, a nawet wzrastają w siłę?"
+  tags: []
+"Hi21,8":
+  text: "Ich potomstwo utrwala się przed nimi, a wokół nich dzieci rosną na ich oczach."
+  tags: []
+"Hi21,9":
+  text: "Ich domy są bezpieczne, bez strachu i nie ma nad nimi rózgi Boga."
+  tags: []
+"Hi21,10":
+  text: "Ich byk pokrywa i nie zawodzi, ich krowa cieli się i nie roni."
+  tags: []
+"Hi21,11":
+  text: "Wypuszczają swoich małych chłopców jak stado owiec, a ich synowie radośnie skaczą wokoło."
+  tags: []
+"Hi21,12":
+  text: "Chwytają za bębenek i harfę i weselą się przy dźwięku fletu."
+  tags: []
+"Hi21,13":
+  text: "Spędzają swoje dni w dobrobycie, i w jednej chwili zstępują do Szeolu."
+  tags: []
+"Hi21,14":
+  text: "I mówią do Boga: Odejdź od nas, bo nie pragniemy poznania Twoich dróg.:"
+  tags: []
+"Hi21,15":
+  text: "Kim jest Wszechmogący, że winniśmy Mu służyć? I co zyskamy, że winniśmy spotkać się z Nim?"
+  tags: []
+"Hi21,16":
+  text: "Oto ich pomyślność nie jest w ich ręku. Rada niegodziwych daleka jest ode mnie."
+  tags: []
+"Hi21,17":
+  text: "Jak często gaśnie pochodnia niegodziwych i przychodzi na nich zguba? Jak często przydziela im ból w swoim gniewie?"
+  tags: []
+"Hi21,18":
+  text: "Jak często są jak słoma na wietrze i jak plewa, którą wicher porywa?"
+  tags: []
+"Hi21,19":
+  text: "Czy Bóg zachowuje dla jego synów jego nieprawość? Niech odpłaci mu tak, aby o tym wiedział."
+  tags: []
+"Hi21,20":
+  text: "Niech jego oczy ujrzą jego zniszczenie i niech wypiją gniew Wszechmogącego."
+  tags: []
+"Hi21,21":
+  text: "Bo jakaż jest jego rozkosz w jego domu, gdy jest już po nim, i gdy liczba jego miesięcy osiągnie kres?"
+  tags: []
+"Hi21,22":
+  text: "Czy ktoś może uczyć Boga wiedzy, gdy On sam sądzi najwyższych?"
+  tags: []
+"Hi21,23":
+  text: "Jeden umiera w pełni sił, cały spokojny i beztroski."
+  tags: []
+"Hi21,24":
+  text: "Jego wiadra są pełne mleka, a jego kości szpikiem są nawilżone."
+  tags: []
+"Hi21,25":
+  text: "A drugi umiera z goryczą w duszy, a nie skosztował szczęścia."
+  tags: []
+"Hi21,26":
+  text: "Razem leżą w prochu i obu pokrywa robactwo."
+  tags: []
+"Hi21,27":
+  text: "Oto znam wasze myśli i zamiary przeciwko mnie, przez które wyrządzacie zło."
+  tags: []
+"Hi21,28":
+  text: "Bo mówicie: Gdzie jest dom tego dostojnika? A gdzie jest ten namiot, w którym zamieszkali niegodziwi?"
+  tags: []
+"Hi21,29":
+  text: "Czy nie pytaliście o to przechodzących drogą? Czy nie chcecie poznać ich dowodów;"
+  tags: []
+"Hi21,30":
+  text: "Że niegodziwy jest zachowany na dzień nieszczęścia? Że na dzień gniewu są oni prowadzeni."
+  tags: []
+"Hi21,31":
+  text: "Kto wytyka mu w twarz jego drogę? A kto mu odpłaci za to, co on uczynił?"
+  tags: []
+"Hi21,32":
+  text: "I on zostanie zaprowadzony do grobów i nad mogiłą będzie strzeżony."
+  tags: []
+"Hi21,33":
+  text: "Słodkie są mu bryły doliny i ciągnie za sobą każdego człowieka; a przed nim idą niezliczeni."
+  tags: []
+"Hi21,34":
+  text: "Jakże więc możecie mnie pocieszać marnością, skoro w waszych odpowiedziach pozostaje fałsz?"
+  tags: []

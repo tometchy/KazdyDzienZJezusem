@@ -1,22 +1,66 @@
-"Rdz8,1": "Bóg pamiętał jednak o Noem i wszystkich zwierzętach, i wszelkim bydle, które było z nim w arce, i sprowadził Bóg wiatr na ziemię, a wody zaczęły opadać."
-"Rdz8,2": "I źródła głębi i okna nieba zamknęły się, i deszcz z nieba został zatrzymany."
-"Rdz8,3": "Wody stopniowo ustępowały z powierzchni ziemi, a po upływie stu pięćdziesięciu dni wody opadły."
-"Rdz8,4": "I arka osiadła na górach Ararat w siódmym miesiącu, siedemnastego dnia tego miesiąca."
-"Rdz8,5": "A wody opadały nadal aż do dziesiątego miesiąca. I w dziesiątym miesiącu, pierwszego dnia, ukazały się szczyty gór."
-"Rdz8,6": "Po upływie czterdziestu dni Noe otworzył okno arki, które zrobił."
-"Rdz8,7": "I wypuścił kruka, który wylatywał i wracał, aż wyschły wody na ziemi."
-"Rdz8,8": "Potem wypuścił gołębicę, aby zobaczyć, czy wody opadły z powierzchni ziemi."
-"Rdz8,9": "A gdy gołębica nie znalazła dla siebie miejsca spoczynku, wróciła do niego do arki, bo wody były jeszcze na całej powierzchni ziemi. Wyciągnął więc swoją rękę, pochwycił ją i wziął do siebie do arki."
-"Rdz8,10": "A gdy odczekał jeszcze drugie siedem dni, ponownie wypuścił gołębicę z arki."
-"Rdz8,11": "I gołębica wróciła do niego pod wieczór, a oto w dziobie zerwany liść oliwny. Tak Noe poznał, że wody opadły z powierzchni ziemi."
-"Rdz8,12": "Odczekał jeszcze drugie siedem dni i wypuścił gołębicę, ale już do niego nie wróciła."
-"Rdz8,13": "W sześćset pierwszym roku, w pierwszym miesiącu, pierwszego dnia, wyschły wody na ziemi. Wtedy Noe zdjął przykrycie arki i zobaczył, że powierzchnia ziemi była sucha."
-"Rdz8,14": "A w drugim miesiącu, dwudziestego siódmego dnia tego miesiąca, wyschła ziemia."
-"Rdz8,15": "I Bóg powiedział do Noego:"
-"Rdz8,16": "Wyjdź z arki, ty i z tobą twoja żona, twoi synowie i żony twoich synów."
-"Rdz8,17": "Wyprowadź ze sobą wszystkie zwierzęta, które są z tobą, z wszelkiego ciała, ptactwa, bydła i wszelkich zwierząt pełzających, które pełzają po ziemi, i niech się rozrodzą na ziemi, niech będą płodne i niech się rozmnażają na ziemi."
-"Rdz8,18": "Wyszedł więc Noe i z nim jego synowie, jego żona i żony jego synów."
-"Rdz8,19": "Wyszły także z arki wszelkie bydlęta, wszelkie zwierzęta pełzające, wszelkie ptactwo oraz wszystko, co pełza po ziemi, według swoich rodzajów."
-"Rdz8,20": "Potem Noe zbudował ołtarz dla PANA i wziął z każdego czystego zwierzęcia i z każdego czystego ptactwa, i złożył całopalenia na tym ołtarzu."
-"Rdz8,21": "I PAN poczuł miłą woń, i PAN powiedział w swoim sercu: Nie będę więcej przeklinał ziemi z powodu człowieka, bo myśl serca człowieka jest zła od jego młodości. Nie wytracę więcej wszystkiego, co żyje, jak teraz uczyniłem."
-"Rdz8,22": "Póki ziemia będzie trwać, nie ustaną siew i żniwo, zimno i gorąco, lato i zima, dzień i noc."
+"Rdz8,1":
+  text: "Bóg pamiętał jednak o Noem i wszystkich zwierzętach, i wszelkim bydle, które było z nim w arce, i sprowadził Bóg wiatr na ziemię, a wody zaczęły opadać."
+  tags: []
+"Rdz8,2":
+  text: "I źródła głębi i okna nieba zamknęły się, i deszcz z nieba został zatrzymany."
+  tags: []
+"Rdz8,3":
+  text: "Wody stopniowo ustępowały z powierzchni ziemi, a po upływie stu pięćdziesięciu dni wody opadły."
+  tags: []
+"Rdz8,4":
+  text: "I arka osiadła na górach Ararat w siódmym miesiącu, siedemnastego dnia tego miesiąca."
+  tags: []
+"Rdz8,5":
+  text: "A wody opadały nadal aż do dziesiątego miesiąca. I w dziesiątym miesiącu, pierwszego dnia, ukazały się szczyty gór."
+  tags: []
+"Rdz8,6":
+  text: "Po upływie czterdziestu dni Noe otworzył okno arki, które zrobił."
+  tags: []
+"Rdz8,7":
+  text: "I wypuścił kruka, który wylatywał i wracał, aż wyschły wody na ziemi."
+  tags: []
+"Rdz8,8":
+  text: "Potem wypuścił gołębicę, aby zobaczyć, czy wody opadły z powierzchni ziemi."
+  tags: []
+"Rdz8,9":
+  text: "A gdy gołębica nie znalazła dla siebie miejsca spoczynku, wróciła do niego do arki, bo wody były jeszcze na całej powierzchni ziemi. Wyciągnął więc swoją rękę, pochwycił ją i wziął do siebie do arki."
+  tags: []
+"Rdz8,10":
+  text: "A gdy odczekał jeszcze drugie siedem dni, ponownie wypuścił gołębicę z arki."
+  tags: []
+"Rdz8,11":
+  text: "I gołębica wróciła do niego pod wieczór, a oto w dziobie zerwany liść oliwny. Tak Noe poznał, że wody opadły z powierzchni ziemi."
+  tags: []
+"Rdz8,12":
+  text: "Odczekał jeszcze drugie siedem dni i wypuścił gołębicę, ale już do niego nie wróciła."
+  tags: []
+"Rdz8,13":
+  text: "W sześćset pierwszym roku, w pierwszym miesiącu, pierwszego dnia, wyschły wody na ziemi. Wtedy Noe zdjął przykrycie arki i zobaczył, że powierzchnia ziemi była sucha."
+  tags: []
+"Rdz8,14":
+  text: "A w drugim miesiącu, dwudziestego siódmego dnia tego miesiąca, wyschła ziemia."
+  tags: []
+"Rdz8,15":
+  text: "I Bóg powiedział do Noego:"
+  tags: []
+"Rdz8,16":
+  text: "Wyjdź z arki, ty i z tobą twoja żona, twoi synowie i żony twoich synów."
+  tags: []
+"Rdz8,17":
+  text: "Wyprowadź ze sobą wszystkie zwierzęta, które są z tobą, z wszelkiego ciała, ptactwa, bydła i wszelkich zwierząt pełzających, które pełzają po ziemi, i niech się rozrodzą na ziemi, niech będą płodne i niech się rozmnażają na ziemi."
+  tags: []
+"Rdz8,18":
+  text: "Wyszedł więc Noe i z nim jego synowie, jego żona i żony jego synów."
+  tags: []
+"Rdz8,19":
+  text: "Wyszły także z arki wszelkie bydlęta, wszelkie zwierzęta pełzające, wszelkie ptactwo oraz wszystko, co pełza po ziemi, według swoich rodzajów."
+  tags: []
+"Rdz8,20":
+  text: "Potem Noe zbudował ołtarz dla PANA i wziął z każdego czystego zwierzęcia i z każdego czystego ptactwa, i złożył całopalenia na tym ołtarzu."
+  tags: []
+"Rdz8,21":
+  text: "I PAN poczuł miłą woń, i PAN powiedział w swoim sercu: Nie będę więcej przeklinał ziemi z powodu człowieka, bo myśl serca człowieka jest zła od jego młodości. Nie wytracę więcej wszystkiego, co żyje, jak teraz uczyniłem."
+  tags: []
+"Rdz8,22":
+  text: "Póki ziemia będzie trwać, nie ustaną siew i żniwo, zimno i gorąco, lato i zima, dzień i noc."
+  tags: []

@@ -1,16 +1,48 @@
-"Mi6,1": "Słuchajcie proszę, co mówi JHWH: Wstań, spieraj się z górami a pagórki niech słuchają twojego głosu."
-"Mi6,2": "Słuchajcie góry, sporu JHWH, i wy niewzruszone fundamenty ziemi, bo JHWH wiedzie spór ze swoim ludem i spiera się z Izraelem."
-"Mi6,3": "Mój ludu, cóż ci uczyniłem? W czym ci się uprzykrzyłem? Odpowiedz mi."
-"Mi6,4": "Bo wyprowadziłem cię z ziemi Egiptu, odkupiłem cię z domu niewolników i posłałem przed twoim obliczem Mojżesza, Aarona i Miriam."
-"Mi6,5": "Mój ludu! Wspomnij proszę, co zamierzał Balak, król Moabu, a co mu odpowiedział Balaam, syn Beora, od Szittim aż do Gilgal, abyś poznał sprawiedliwość JHWH."
-"Mi6,6": "Z czym mam się stawić przed JHWH, zgiąć się przed Bogiem z wysokości? Czy mam stawić się przed Nim z ofiarami całopalnymi z cieląt jednorocznych?"
-"Mi6,7": "Czy JHWH ma upodobanie w tysiącach baranów i miriadach strumieni oliwy? Czy dam swojego pierworodnego za mój występek, owoc mojego łona za grzech mojej duszy?"
-"Mi6,8": "Oznajmiono ci, człowieku, co jest dobre i czego JHWH żąda od ciebie, jeśli nie to: byś czynił sprawiedliwość, kochał miłosierdzie i pokornie chodził z twoim Bogiem."
-"Mi6,9": "Głos JHWH woła do miasta – rozsądek skłania do bojaźni wobec twojego imienia: Słuchajcie rózgi i tego, kto ją ustanowił."
-"Mi6,10": "Czy wciąż są w domu nieprawym skarby nieprawości i efa pomniejszona, przeklęta?"
-"Mi6,11": "Czy mam je usprawiedliwić mimo nieprawych szal, mimo trzosu z fałszywymi odważnikami?"
-"Mi6,12": "Miasto, którego bogacze są wypełnieni gwałtem, jego mieszkańcy mówią kłamstwo, a w ich ustach język ich – zdradliwy."
-"Mi6,13": "I dlatego ja uderzę cię chorobą i spustoszę z powodu twoich grzechów."
-"Mi6,14": "Ty będziesz jadł, ale się nie nasycisz; twój głód będzie w twoim wnętrzu. Odłożysz, lecz nie zachowasz, a co zachowasz, wydam pod miecz."
-"Mi6,15": "Ty będziesz siał, ale nie będziesz żął; ty wytłoczysz oliwki, ale nie namaścisz się oliwą, i moszcz – lecz nie napijesz się wina."
-"Mi6,16": "I strzegłeś ustaw Omriego i wszystkich czynów domu Achaba, i chodziliście według ich rad. Z tego względu wydam cię na spustoszenie, a jego mieszkańców na pośmiewisko. I będziecie nieść hańbę mojego ludu."
+"Mi6,1":
+  text: "Słuchajcie proszę, co mówi JHWH: Wstań, spieraj się z górami a pagórki niech słuchają twojego głosu."
+  tags: []
+"Mi6,2":
+  text: "Słuchajcie góry, sporu JHWH, i wy niewzruszone fundamenty ziemi, bo JHWH wiedzie spór ze swoim ludem i spiera się z Izraelem."
+  tags: []
+"Mi6,3":
+  text: "Mój ludu, cóż ci uczyniłem? W czym ci się uprzykrzyłem? Odpowiedz mi."
+  tags: []
+"Mi6,4":
+  text: "Bo wyprowadziłem cię z ziemi Egiptu, odkupiłem cię z domu niewolników i posłałem przed twoim obliczem Mojżesza, Aarona i Miriam."
+  tags: []
+"Mi6,5":
+  text: "Mój ludu! Wspomnij proszę, co zamierzał Balak, król Moabu, a co mu odpowiedział Balaam, syn Beora, od Szittim aż do Gilgal, abyś poznał sprawiedliwość JHWH."
+  tags: []
+"Mi6,6":
+  text: "Z czym mam się stawić przed JHWH, zgiąć się przed Bogiem z wysokości? Czy mam stawić się przed Nim z ofiarami całopalnymi z cieląt jednorocznych?"
+  tags: []
+"Mi6,7":
+  text: "Czy JHWH ma upodobanie w tysiącach baranów i miriadach strumieni oliwy? Czy dam swojego pierworodnego za mój występek, owoc mojego łona za grzech mojej duszy?"
+  tags: []
+"Mi6,8":
+  text: "Oznajmiono ci, człowieku, co jest dobre i czego JHWH żąda od ciebie, jeśli nie to: byś czynił sprawiedliwość, kochał miłosierdzie i pokornie chodził z twoim Bogiem."
+  tags: []
+"Mi6,9":
+  text: "Głos JHWH woła do miasta – rozsądek skłania do bojaźni wobec twojego imienia: Słuchajcie rózgi i tego, kto ją ustanowił."
+  tags: []
+"Mi6,10":
+  text: "Czy wciąż są w domu nieprawym skarby nieprawości i efa pomniejszona, przeklęta?"
+  tags: []
+"Mi6,11":
+  text: "Czy mam je usprawiedliwić mimo nieprawych szal, mimo trzosu z fałszywymi odważnikami?"
+  tags: []
+"Mi6,12":
+  text: "Miasto, którego bogacze są wypełnieni gwałtem, jego mieszkańcy mówią kłamstwo, a w ich ustach język ich – zdradliwy."
+  tags: []
+"Mi6,13":
+  text: "I dlatego ja uderzę cię chorobą i spustoszę z powodu twoich grzechów."
+  tags: []
+"Mi6,14":
+  text: "Ty będziesz jadł, ale się nie nasycisz; twój głód będzie w twoim wnętrzu. Odłożysz, lecz nie zachowasz, a co zachowasz, wydam pod miecz."
+  tags: []
+"Mi6,15":
+  text: "Ty będziesz siał, ale nie będziesz żął; ty wytłoczysz oliwki, ale nie namaścisz się oliwą, i moszcz – lecz nie napijesz się wina."
+  tags: []
+"Mi6,16":
+  text: "I strzegłeś ustaw Omriego i wszystkich czynów domu Achaba, i chodziliście według ich rad. Z tego względu wydam cię na spustoszenie, a jego mieszkańców na pośmiewisko. I będziecie nieść hańbę mojego ludu."
+  tags: []

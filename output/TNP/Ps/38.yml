@@ -1,22 +1,66 @@
-"Ps38,1": "JHWH, nie karć mnie w swoim gniewie i nie karz mnie w swojej zapalczywości."
-"Ps38,2": "Twoje strzały utkwiły bowiem we mnie i ciężko spadła na mnie Twoja ręka."
-"Ps38,3": "Na skutek Twojego gniewu, nie ma nic zdrowego w moim ciele, nie ma odpoczynku dla moich kości z powodu mojego grzechu."
-"Ps38,4": "Bo moje winy sięgają ponad moją głowę, są jak wielkie brzemię zbyt ciężkie dla mnie."
-"Ps38,5": "Cuchną i ropieją moje rany z powodu mojej głupoty."
-"Ps38,6": "Jestem zgarbiony i bardzo się pochyliłem, przez cały dzień chodzę smutny."
-"Ps38,7": "Moje lędźwie bowiem napełniły się żarem i nie ma nic zdrowego w moim ciele."
-"Ps38,8": "Jestem odrętwiały i bardzo przygnębiony, zawodzę z powodu jęku mojego serca."
-"Ps38,9": "PANIE, przed Tobą są wszystkie moje pragnienia i moje wzdychanie nie jest przed Tobą ukryte."
-"Ps38,10": "Moje serce się miota, opuściła mnie siła i światła moich oczu również nie ma ze mną."
-"Ps38,11": "Kochający mnie i przyjaciele trzymają się z daleka od moich ran, a moi bliscy stoją w oddali."
-"Ps38,12": "Ci, którzy szukają mojej duszy, zastawiają sidła, a ci, którzy zabiegają o moją krzywdę, mówią o zniszczeniu i przez cały dzień obmyślają podstęp."
-"Ps38,13": "Lecz ja nie słyszę jak głuchy, jestem jak niemy, który nie otwiera swoich ust."
-"Ps38,14": "I stałem się jak człowiek, który nie słyszy i nie ma w swoich ustach napomnienia."
-"Ps38,15": "Ciebie bowiem, JHWH, oczekiwałem; Ty mi odpowiesz, PANIE, mój Boże."
-"Ps38,16": "Bo powiedziałem: Niech się nie cieszą z mojego powodu; gdy moja noga się poślizgnie, niech nie wynoszą się nade mnie."
-"Ps38,17": "Ja bowiem jestem przygotowany na potknięcie i mój ból zawsze jest przede mną."
-"Ps38,18": "Wyznaję więc moją nieprawość i niepokoję się swoim grzechem."
-"Ps38,19": "Lecz moi wrogowie, którzy żyją, stali się silni; liczni stali się ci, którzy podstępnie mnie nienawidzą."
-"Ps38,20": "Odpłacają mi złem za dobro i przeciwstawiają się mi, bo kroczę za dobrem."
-"Ps38,21": "Nie opuszczaj mnie, JHWH, mój Boże, nie oddalaj się ode mnie."
-"Ps38,22": "Pośpiesz mi z pomocą, PANIE, moje zbawienie."
+"Ps38,1":
+  text: "JHWH, nie karć mnie w swoim gniewie i nie karz mnie w swojej zapalczywości."
+  tags: []
+"Ps38,2":
+  text: "Twoje strzały utkwiły bowiem we mnie i ciężko spadła na mnie Twoja ręka."
+  tags: []
+"Ps38,3":
+  text: "Na skutek Twojego gniewu, nie ma nic zdrowego w moim ciele, nie ma odpoczynku dla moich kości z powodu mojego grzechu."
+  tags: []
+"Ps38,4":
+  text: "Bo moje winy sięgają ponad moją głowę, są jak wielkie brzemię zbyt ciężkie dla mnie."
+  tags: []
+"Ps38,5":
+  text: "Cuchną i ropieją moje rany z powodu mojej głupoty."
+  tags: []
+"Ps38,6":
+  text: "Jestem zgarbiony i bardzo się pochyliłem, przez cały dzień chodzę smutny."
+  tags: []
+"Ps38,7":
+  text: "Moje lędźwie bowiem napełniły się żarem i nie ma nic zdrowego w moim ciele."
+  tags: []
+"Ps38,8":
+  text: "Jestem odrętwiały i bardzo przygnębiony, zawodzę z powodu jęku mojego serca."
+  tags: []
+"Ps38,9":
+  text: "PANIE, przed Tobą są wszystkie moje pragnienia i moje wzdychanie nie jest przed Tobą ukryte."
+  tags: []
+"Ps38,10":
+  text: "Moje serce się miota, opuściła mnie siła i światła moich oczu również nie ma ze mną."
+  tags: []
+"Ps38,11":
+  text: "Kochający mnie i przyjaciele trzymają się z daleka od moich ran, a moi bliscy stoją w oddali."
+  tags: []
+"Ps38,12":
+  text: "Ci, którzy szukają mojej duszy, zastawiają sidła, a ci, którzy zabiegają o moją krzywdę, mówią o zniszczeniu i przez cały dzień obmyślają podstęp."
+  tags: []
+"Ps38,13":
+  text: "Lecz ja nie słyszę jak głuchy, jestem jak niemy, który nie otwiera swoich ust."
+  tags: []
+"Ps38,14":
+  text: "I stałem się jak człowiek, który nie słyszy i nie ma w swoich ustach napomnienia."
+  tags: []
+"Ps38,15":
+  text: "Ciebie bowiem, JHWH, oczekiwałem; Ty mi odpowiesz, PANIE, mój Boże."
+  tags: []
+"Ps38,16":
+  text: "Bo powiedziałem: Niech się nie cieszą z mojego powodu; gdy moja noga się poślizgnie, niech nie wynoszą się nade mnie."
+  tags: []
+"Ps38,17":
+  text: "Ja bowiem jestem przygotowany na potknięcie i mój ból zawsze jest przede mną."
+  tags: []
+"Ps38,18":
+  text: "Wyznaję więc moją nieprawość i niepokoję się swoim grzechem."
+  tags: []
+"Ps38,19":
+  text: "Lecz moi wrogowie, którzy żyją, stali się silni; liczni stali się ci, którzy podstępnie mnie nienawidzą."
+  tags: []
+"Ps38,20":
+  text: "Odpłacają mi złem za dobro i przeciwstawiają się mi, bo kroczę za dobrem."
+  tags: []
+"Ps38,21":
+  text: "Nie opuszczaj mnie, JHWH, mój Boże, nie oddalaj się ode mnie."
+  tags: []
+"Ps38,22":
+  text: "Pośpiesz mi z pomocą, PANIE, moje zbawienie."
+  tags: []

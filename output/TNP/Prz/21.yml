@@ -1,31 +1,93 @@
-"Prz21,1": "Serce króla jest w ręku JHWH jak potoki wód; kieruje je, dokąd chce."
-"Prz21,2": "Każda droga człowieka wydaje się słuszna w jego oczach, ale JHWH ocenia serca."
-"Prz21,3": "Czynienie sprawiedliwości i prawa JHWH przedkłada ponad ofiarę."
-"Prz21,4": "Wyniosłe oczy i nadęte serce to lampa grzechu niegodziwych."
-"Prz21,5": "Plany pracowitego przynoszą pewny dostatek, a plany każdego działającego w pośpiechu pewne ubóstwo."
-"Prz21,6": "Wejście w posiadanie skarbów za pomocą kłamliwego języka to marność, za którą gonią poszukujący śmierci."
-"Prz21,7": "Przemoc niegodziwych porywa ich samych, bo odmawiają czynić tego, co słuszne."
-"Prz21,8": "Kręta jest droga człowieka winnego, ale dzieło czystego jest prawe."
-"Prz21,9": "Lepiej mieszkać w kącie, na dachu niż z kłótliwą żoną we wspólnym domu."
-"Prz21,10": "Dusza niegodziwego pragnie zła, a jego bliźni nie znajduje łaski w jego oczach."
-"Prz21,11": "Gdy się karze szydercę, prosty mądrzeje, a gdy uczą mądrego, przyjmuje wiedzę."
-"Prz21,12": "Sprawiedliwy zważa na dom niegodziwego i na niegodziwego kieruje nieszczęście."
-"Prz21,13": "Kto zatyka swoje ucho na wołanie ubogiego, także on będzie krzyczał, lecz nie uzyska odpowiedzi."
-"Prz21,14": "Dar przekazany w skrytości łagodzi gniew, a podarek z zanadrza – potężny gniew."
-"Prz21,15": "Sprawiedliwy cieszy się, gdy stosuje prawo, lecz na czyniących nieprawość nadejdzie zguba."
-"Prz21,16": "Człowiek, który zbacza z drogi rozsądku, odpocznie w zgromadzeniu cieni."
-"Prz21,17": "Kto kocha uciechę, będzie człowiekiem w potrzebie, a kto kocha wino i olejek, nie wzbogaci się."
-"Prz21,18": "Niegodziwy będzie okupem za sprawiedliwego, a odstępca – za prawych."
-"Prz21,19": "Lepiej mieszkać w ziemi pustynnej niż z kłótliwą i złośliwą żoną."
-"Prz21,20": "Godne pożądania zasoby i olej są w siedzibie mądrego, lecz głupi człowiek je przejada."
-"Prz21,21": "Kto podąża za sprawiedliwością i miłosierdziem, znajdzie życie, sprawiedliwość i chwałę."
-"Prz21,22": "Mądry wspiął się na mury miasta mocarzy i powalił umocnienie, któremu ufali."
-"Prz21,23": "Kto strzeże swoich ust i języka, strzeże swojej duszy przed udręką."
-"Prz21,24": "Hardy i butny szyderca – oto imię tego, kto działa z butą furii."
-"Prz21,25": "Pragnienie leniwego zabija go, bo jego ręce odmawiają pracy."
-"Prz21,26": "Przez cały dzień pożąda tęsknie, lecz sprawiedliwy daje i nie szczędzi."
-"Prz21,27": "Ofiara niegodziwych budzi odrazę, a tym bardziej, gdy jest składana w złych zamiarach."
-"Prz21,28": "Fałszywy świadek zginie, lecz kto umie słuchać, będzie przemawiał nieustannie."
-"Prz21,29": "Niegodziwy człowiek ma zatwardziałe oblicze, ale prawy – on wytycza swoje drogi."
-"Prz21,30": "Nie ma mądrości, nie ma zrozumienia, nie ma rady wobec JHWH."
-"Prz21,31": "Konia przygotowuje się na dzień bitwy, ale wybawienie zależy od JHWH."
+"Prz21,1":
+  text: "Serce króla jest w ręku JHWH jak potoki wód; kieruje je, dokąd chce."
+  tags: []
+"Prz21,2":
+  text: "Każda droga człowieka wydaje się słuszna w jego oczach, ale JHWH ocenia serca."
+  tags: []
+"Prz21,3":
+  text: "Czynienie sprawiedliwości i prawa JHWH przedkłada ponad ofiarę."
+  tags: []
+"Prz21,4":
+  text: "Wyniosłe oczy i nadęte serce to lampa grzechu niegodziwych."
+  tags: []
+"Prz21,5":
+  text: "Plany pracowitego przynoszą pewny dostatek, a plany każdego działającego w pośpiechu pewne ubóstwo."
+  tags: []
+"Prz21,6":
+  text: "Wejście w posiadanie skarbów za pomocą kłamliwego języka to marność, za którą gonią poszukujący śmierci."
+  tags: []
+"Prz21,7":
+  text: "Przemoc niegodziwych porywa ich samych, bo odmawiają czynić tego, co słuszne."
+  tags: []
+"Prz21,8":
+  text: "Kręta jest droga człowieka winnego, ale dzieło czystego jest prawe."
+  tags: []
+"Prz21,9":
+  text: "Lepiej mieszkać w kącie, na dachu niż z kłótliwą żoną we wspólnym domu."
+  tags: []
+"Prz21,10":
+  text: "Dusza niegodziwego pragnie zła, a jego bliźni nie znajduje łaski w jego oczach."
+  tags: []
+"Prz21,11":
+  text: "Gdy się karze szydercę, prosty mądrzeje, a gdy uczą mądrego, przyjmuje wiedzę."
+  tags: []
+"Prz21,12":
+  text: "Sprawiedliwy zważa na dom niegodziwego i na niegodziwego kieruje nieszczęście."
+  tags: []
+"Prz21,13":
+  text: "Kto zatyka swoje ucho na wołanie ubogiego, także on będzie krzyczał, lecz nie uzyska odpowiedzi."
+  tags: []
+"Prz21,14":
+  text: "Dar przekazany w skrytości łagodzi gniew, a podarek z zanadrza – potężny gniew."
+  tags: []
+"Prz21,15":
+  text: "Sprawiedliwy cieszy się, gdy stosuje prawo, lecz na czyniących nieprawość nadejdzie zguba."
+  tags: []
+"Prz21,16":
+  text: "Człowiek, który zbacza z drogi rozsądku, odpocznie w zgromadzeniu cieni."
+  tags: []
+"Prz21,17":
+  text: "Kto kocha uciechę, będzie człowiekiem w potrzebie, a kto kocha wino i olejek, nie wzbogaci się."
+  tags: []
+"Prz21,18":
+  text: "Niegodziwy będzie okupem za sprawiedliwego, a odstępca – za prawych."
+  tags: []
+"Prz21,19":
+  text: "Lepiej mieszkać w ziemi pustynnej niż z kłótliwą i złośliwą żoną."
+  tags: []
+"Prz21,20":
+  text: "Godne pożądania zasoby i olej są w siedzibie mądrego, lecz głupi człowiek je przejada."
+  tags: []
+"Prz21,21":
+  text: "Kto podąża za sprawiedliwością i miłosierdziem, znajdzie życie, sprawiedliwość i chwałę."
+  tags: []
+"Prz21,22":
+  text: "Mądry wspiął się na mury miasta mocarzy i powalił umocnienie, któremu ufali."
+  tags: []
+"Prz21,23":
+  text: "Kto strzeże swoich ust i języka, strzeże swojej duszy przed udręką."
+  tags: []
+"Prz21,24":
+  text: "Hardy i butny szyderca – oto imię tego, kto działa z butą furii."
+  tags: []
+"Prz21,25":
+  text: "Pragnienie leniwego zabija go, bo jego ręce odmawiają pracy."
+  tags: []
+"Prz21,26":
+  text: "Przez cały dzień pożąda tęsknie, lecz sprawiedliwy daje i nie szczędzi."
+  tags: []
+"Prz21,27":
+  text: "Ofiara niegodziwych budzi odrazę, a tym bardziej, gdy jest składana w złych zamiarach."
+  tags: []
+"Prz21,28":
+  text: "Fałszywy świadek zginie, lecz kto umie słuchać, będzie przemawiał nieustannie."
+  tags: []
+"Prz21,29":
+  text: "Niegodziwy człowiek ma zatwardziałe oblicze, ale prawy – on wytycza swoje drogi."
+  tags: []
+"Prz21,30":
+  text: "Nie ma mądrości, nie ma zrozumienia, nie ma rady wobec JHWH."
+  tags: []
+"Prz21,31":
+  text: "Konia przygotowuje się na dzień bitwy, ale wybawienie zależy od JHWH."
+  tags: []

@@ -1,25 +1,75 @@
-"Flm1,1": "Paul, a prisoner of Jesus Christ, and Timothy [our] brother, unto Philemon our dearly beloved, and fellowlabourer,"
-"Flm1,2": "And to [our] beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:"
-"Flm1,3": "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
-"Flm1,4": "I thank my God, making mention of thee always in my prayers,"
-"Flm1,5": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
-"Flm1,6": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus."
-"Flm1,7": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother."
-"Flm1,8": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
-"Flm1,9": "Yet for love's sake I rather beseech [thee], being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
-"Flm1,10": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:"
-"Flm1,11": "Which in time past was to thee unprofitable, but now profitable to thee and to me:"
-"Flm1,12": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:"
-"Flm1,13": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:"
-"Flm1,14": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly."
-"Flm1,15": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
-"Flm1,16": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?"
-"Flm1,17": "If thou count me therefore a partner, receive him as myself."
-"Flm1,18": "If he hath wronged thee, or oweth [thee] ought, put that on mine account;"
-"Flm1,19": "I Paul have written [it] with mine own hand, I will repay [it]: albeit I do not say to thee how thou owest unto me even thine own self besides."
-"Flm1,20": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord."
-"Flm1,21": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say."
-"Flm1,22": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you."
-"Flm1,23": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
-"Flm1,24": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers."
-"Flm1,25": "The grace of our Lord Jesus Christ [be] with your spirit. Amen."
+"Flm1,1":
+  text: "Paul, a prisoner of Jesus Christ, and Timothy [our] brother, unto Philemon our dearly beloved, and fellowlabourer,"
+  tags: []
+"Flm1,2":
+  text: "And to [our] beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:"
+  tags: []
+"Flm1,3":
+  text: "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
+  tags: []
+"Flm1,4":
+  text: "I thank my God, making mention of thee always in my prayers,"
+  tags: []
+"Flm1,5":
+  text: "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
+  tags: []
+"Flm1,6":
+  text: "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus."
+  tags: []
+"Flm1,7":
+  text: "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother."
+  tags: []
+"Flm1,8":
+  text: "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
+  tags: []
+"Flm1,9":
+  text: "Yet for love's sake I rather beseech [thee], being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+  tags: []
+"Flm1,10":
+  text: "I beseech thee for my son Onesimus, whom I have begotten in my bonds:"
+  tags: []
+"Flm1,11":
+  text: "Which in time past was to thee unprofitable, but now profitable to thee and to me:"
+  tags: []
+"Flm1,12":
+  text: "Whom I have sent again: thou therefore receive him, that is, mine own bowels:"
+  tags: []
+"Flm1,13":
+  text: "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:"
+  tags: []
+"Flm1,14":
+  text: "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly."
+  tags: []
+"Flm1,15":
+  text: "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
+  tags: []
+"Flm1,16":
+  text: "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?"
+  tags: []
+"Flm1,17":
+  text: "If thou count me therefore a partner, receive him as myself."
+  tags: []
+"Flm1,18":
+  text: "If he hath wronged thee, or oweth [thee] ought, put that on mine account;"
+  tags: []
+"Flm1,19":
+  text: "I Paul have written [it] with mine own hand, I will repay [it]: albeit I do not say to thee how thou owest unto me even thine own self besides."
+  tags: []
+"Flm1,20":
+  text: "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord."
+  tags: []
+"Flm1,21":
+  text: "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say."
+  tags: []
+"Flm1,22":
+  text: "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you."
+  tags: []
+"Flm1,23":
+  text: "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
+  tags: []
+"Flm1,24":
+  text: "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers."
+  tags: []
+"Flm1,25":
+  text: "The grace of our Lord Jesus Christ [be] with your spirit. Amen."
+  tags: []

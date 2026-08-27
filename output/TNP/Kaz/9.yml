@@ -1,18 +1,54 @@
-"Kaz9,1": "Bo wszystko to położyłem na swoim sercu po to, aby to wszystko wyjaśnić – że sprawiedliwi i mądrzy, i ich dzieła są w ręku Boga – także miłość, a także nienawiść. Człowiek nie wie o wszystkim, co będzie przed nim."
-"Kaz9,2": "Wszystkich spotyka to wszystko: ten sam los spotyka sprawiedliwego i niegodziwego, dobrego i czystego, i nieczystego składającego ofiarę, i tego, który nie składa ofiary, zarówno dobrego, jak i grzesznika, przysięgającego i tego, kto boi się składać przysięgi."
-"Kaz9,3": "To jest złe we wszystkim, co się dzieje pod słońcem, że ten sam los spotyka wszystkich. A też, że serce synów ludzkich jest pełne zła, a głupota tkwi w ich sercach, za ich życia, a potem idą do umarłych."
-"Kaz9,4": "Bo kto jest wybrany do grona wszystkich żyjących, ma nadzieję, gdyż lepszy jest żywy pies niż zabity lew."
-"Kaz9,5": "Bo żyjący wiedzą, że umrą, a umarli nic nie wiedzą i nie ma już dla nich zapłaty, gdyż pamięć o nich uległa zapomnieniu."
-"Kaz9,6": "Także ich miłość, a także nienawiść i zazdrość już zginęły. I już nie mają oni działu na wieki we wszystkim, co się dzieje pod słońcem."
-"Kaz9,7": "Idź więc, jedz z radością swój chleb i pij w dobrej myśli swoje wino, ponieważ Bóg już przyjął życzliwie twoje dzieła."
-"Kaz9,8": "Niech w każdym czasie twoje szaty będą zawsze białe i niech nie zabraknie olejku na twoją głowę."
-"Kaz9,9": "Dostrzeż piękno życia z kobietą, którą kochasz po wszystkie dni swojego marnego życia, jakie dał ci Bóg pod słońcem, po wszystkie dni swojej marności. Gdyż to jest twój dział w życiu i w mozole, którym się trudzisz pod słońcem."
-"Kaz9,10": "Wszystko, co twoja ręka znajdzie do zrobienia, to zrób z całej twojej mocy; bo nie ma żadnego działania, ani rozważania, ani wiedzy, ani mądrości w Szeolu, do którego ty idziesz."
-"Kaz9,11": "I obróciłem się, aby zobaczyć co dzieje się pod słońcem, że wyścig nie należy do szybkich ani wojna do dzielnych, ani żywność do mądrych, ani bogactwo do roztropnych, ani łaska do rozważnych, bo czas i przypadek spotyka ich wszystkich."
-"Kaz9,12": "Bo także człowiek nie zna swojego czasu, ale jak ryby, które są łapane w nieszczęsną sieć, i jak ptaki chwytane w sidła, tak synowie ludzcy są schwytani w nieszczęsnym czasie, który nagle na nich spada."
-"Kaz9,13": "Także to widziałem jako mądrość pod słońcem, a była ona dla mnie wielką:"
-"Kaz9,14": "Małe miasto, a w nim niewielu ludzi. I wyruszył przeciw niemu potężny król, obległ je i zbudował przeciwko niemu wielkie wały."
-"Kaz9,15": "I znalazł się w nim człowiek ubogi i mądry, który wybawił to miasto przez swoją mądrość. Jednak żaden człowiek nie pamiętał tego ubogiego człowieka."
-"Kaz9,16": "I powiedziałem ja: Lepsza jest mądrość niż siła. Lecz mądrość ubogiego jest w pogardzie, a jego słów nikt nie słucha."
-"Kaz9,17": "Słowa mądrych słuchane w ciszy są lepsze niż krzyk władcy wśród głupców."
-"Kaz9,18": "Lepsza jest mądrość niż narzędzia walki, a jeden grzesznik niszczy wiele dobrego."
+"Kaz9,1":
+  text: "Bo wszystko to położyłem na swoim sercu po to, aby to wszystko wyjaśnić – że sprawiedliwi i mądrzy, i ich dzieła są w ręku Boga – także miłość, a także nienawiść. Człowiek nie wie o wszystkim, co będzie przed nim."
+  tags: []
+"Kaz9,2":
+  text: "Wszystkich spotyka to wszystko: ten sam los spotyka sprawiedliwego i niegodziwego, dobrego i czystego, i nieczystego składającego ofiarę, i tego, który nie składa ofiary, zarówno dobrego, jak i grzesznika, przysięgającego i tego, kto boi się składać przysięgi."
+  tags: []
+"Kaz9,3":
+  text: "To jest złe we wszystkim, co się dzieje pod słońcem, że ten sam los spotyka wszystkich. A też, że serce synów ludzkich jest pełne zła, a głupota tkwi w ich sercach, za ich życia, a potem idą do umarłych."
+  tags: []
+"Kaz9,4":
+  text: "Bo kto jest wybrany do grona wszystkich żyjących, ma nadzieję, gdyż lepszy jest żywy pies niż zabity lew."
+  tags: []
+"Kaz9,5":
+  text: "Bo żyjący wiedzą, że umrą, a umarli nic nie wiedzą i nie ma już dla nich zapłaty, gdyż pamięć o nich uległa zapomnieniu."
+  tags: []
+"Kaz9,6":
+  text: "Także ich miłość, a także nienawiść i zazdrość już zginęły. I już nie mają oni działu na wieki we wszystkim, co się dzieje pod słońcem."
+  tags: []
+"Kaz9,7":
+  text: "Idź więc, jedz z radością swój chleb i pij w dobrej myśli swoje wino, ponieważ Bóg już przyjął życzliwie twoje dzieła."
+  tags: []
+"Kaz9,8":
+  text: "Niech w każdym czasie twoje szaty będą zawsze białe i niech nie zabraknie olejku na twoją głowę."
+  tags: []
+"Kaz9,9":
+  text: "Dostrzeż piękno życia z kobietą, którą kochasz po wszystkie dni swojego marnego życia, jakie dał ci Bóg pod słońcem, po wszystkie dni swojej marności. Gdyż to jest twój dział w życiu i w mozole, którym się trudzisz pod słońcem."
+  tags: []
+"Kaz9,10":
+  text: "Wszystko, co twoja ręka znajdzie do zrobienia, to zrób z całej twojej mocy; bo nie ma żadnego działania, ani rozważania, ani wiedzy, ani mądrości w Szeolu, do którego ty idziesz."
+  tags: []
+"Kaz9,11":
+  text: "I obróciłem się, aby zobaczyć co dzieje się pod słońcem, że wyścig nie należy do szybkich ani wojna do dzielnych, ani żywność do mądrych, ani bogactwo do roztropnych, ani łaska do rozważnych, bo czas i przypadek spotyka ich wszystkich."
+  tags: []
+"Kaz9,12":
+  text: "Bo także człowiek nie zna swojego czasu, ale jak ryby, które są łapane w nieszczęsną sieć, i jak ptaki chwytane w sidła, tak synowie ludzcy są schwytani w nieszczęsnym czasie, który nagle na nich spada."
+  tags: []
+"Kaz9,13":
+  text: "Także to widziałem jako mądrość pod słońcem, a była ona dla mnie wielką:"
+  tags: []
+"Kaz9,14":
+  text: "Małe miasto, a w nim niewielu ludzi. I wyruszył przeciw niemu potężny król, obległ je i zbudował przeciwko niemu wielkie wały."
+  tags: []
+"Kaz9,15":
+  text: "I znalazł się w nim człowiek ubogi i mądry, który wybawił to miasto przez swoją mądrość. Jednak żaden człowiek nie pamiętał tego ubogiego człowieka."
+  tags: []
+"Kaz9,16":
+  text: "I powiedziałem ja: Lepsza jest mądrość niż siła. Lecz mądrość ubogiego jest w pogardzie, a jego słów nikt nie słucha."
+  tags: []
+"Kaz9,17":
+  text: "Słowa mądrych słuchane w ciszy są lepsze niż krzyk władcy wśród głupców."
+  tags: []
+"Kaz9,18":
+  text: "Lepsza jest mądrość niż narzędzia walki, a jeden grzesznik niszczy wiele dobrego."
+  tags: []

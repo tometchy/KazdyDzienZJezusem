@@ -1,22 +1,66 @@
-"Ps25,1": "Unto thee, O LORD, do I lift up my soul."
-"Ps25,2": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me."
-"Ps25,3": "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause."
-"Ps25,4": "Shew me thy ways, O LORD; teach me thy paths."
-"Ps25,5": "Lead me in thy truth, and teach me: for thou [art] the God of my salvation; on thee do I wait all the day."
-"Ps25,6": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they [have been] ever of old."
-"Ps25,7": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness' sake, O LORD."
-"Ps25,8": "Good and upright [is] the LORD: therefore will he teach sinners in the way."
-"Ps25,9": "The meek will he guide in judgment: and the meek will he teach his way."
-"Ps25,10": "All the paths of the LORD [are] mercy and truth unto such as keep his covenant and his testimonies."
-"Ps25,11": "For thy name's sake, O LORD, pardon mine iniquity; for it [is] great."
-"Ps25,12": "What man [is] he that feareth the LORD? him shall he teach in the way [that] he shall choose."
-"Ps25,13": "His soul shall dwell at ease; and his seed shall inherit the earth."
-"Ps25,14": "The secret of the LORD [is] with them that fear him; and he will shew them his covenant."
-"Ps25,15": "Mine eyes [are] ever toward the LORD; for he shall pluck my feet out of the net."
-"Ps25,16": "Turn thee unto me, and have mercy upon me; for I [am] desolate and afflicted."
-"Ps25,17": "The troubles of my heart are enlarged: [O] bring thou me out of my distresses."
-"Ps25,18": "Look upon mine affliction and my pain; and forgive all my sins."
-"Ps25,19": "Consider mine enemies; for they are many; and they hate me with cruel hatred."
-"Ps25,20": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee."
-"Ps25,21": "Let integrity and uprightness preserve me; for I wait on thee."
-"Ps25,22": "Redeem Israel, O God, out of all his troubles."
+"Ps25,1":
+  text: "Unto thee, O LORD, do I lift up my soul."
+  tags: []
+"Ps25,2":
+  text: "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me."
+  tags: []
+"Ps25,3":
+  text: "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause."
+  tags: []
+"Ps25,4":
+  text: "Shew me thy ways, O LORD; teach me thy paths."
+  tags: []
+"Ps25,5":
+  text: "Lead me in thy truth, and teach me: for thou [art] the God of my salvation; on thee do I wait all the day."
+  tags: []
+"Ps25,6":
+  text: "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they [have been] ever of old."
+  tags: []
+"Ps25,7":
+  text: "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness' sake, O LORD."
+  tags: []
+"Ps25,8":
+  text: "Good and upright [is] the LORD: therefore will he teach sinners in the way."
+  tags: []
+"Ps25,9":
+  text: "The meek will he guide in judgment: and the meek will he teach his way."
+  tags: []
+"Ps25,10":
+  text: "All the paths of the LORD [are] mercy and truth unto such as keep his covenant and his testimonies."
+  tags: []
+"Ps25,11":
+  text: "For thy name's sake, O LORD, pardon mine iniquity; for it [is] great."
+  tags: []
+"Ps25,12":
+  text: "What man [is] he that feareth the LORD? him shall he teach in the way [that] he shall choose."
+  tags: []
+"Ps25,13":
+  text: "His soul shall dwell at ease; and his seed shall inherit the earth."
+  tags: []
+"Ps25,14":
+  text: "The secret of the LORD [is] with them that fear him; and he will shew them his covenant."
+  tags: []
+"Ps25,15":
+  text: "Mine eyes [are] ever toward the LORD; for he shall pluck my feet out of the net."
+  tags: []
+"Ps25,16":
+  text: "Turn thee unto me, and have mercy upon me; for I [am] desolate and afflicted."
+  tags: []
+"Ps25,17":
+  text: "The troubles of my heart are enlarged: [O] bring thou me out of my distresses."
+  tags: []
+"Ps25,18":
+  text: "Look upon mine affliction and my pain; and forgive all my sins."
+  tags: []
+"Ps25,19":
+  text: "Consider mine enemies; for they are many; and they hate me with cruel hatred."
+  tags: []
+"Ps25,20":
+  text: "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee."
+  tags: []
+"Ps25,21":
+  text: "Let integrity and uprightness preserve me; for I wait on thee."
+  tags: []
+"Ps25,22":
+  text: "Redeem Israel, O God, out of all his troubles."
+  tags: []

@@ -1,30 +1,90 @@
-"Kpł18,1": "PAN powiedział jeszcze do Mojżesza:"
-"Kpł18,2": "Przemów do synów Izraela i powiedz im: Ja jestem PAN, wasz Bóg."
-"Kpł18,3": "Nie czyńcie według zwyczajów ziemi Egiptu, w której mieszkaliście, ani według zwyczajów ziemi Kanaan, do której was prowadzę, też nie czyńcie, a według ich ustaw nie postępujcie."
-"Kpł18,4": "Wypełniajcie moje prawa i przestrzegajcie moich ustaw, abyście postępowali według nich. Ja jestem PAN, wasz Bóg."
-"Kpł18,5": "Przestrzegajcie więc moich ustaw i moich praw, bo jeśli człowiek je wypełnia, będzie przez nie żył. Ja jestem PAN."
-"Kpł18,6": "Nikt z was nie będzie zbliżał się do swojego krewnego, by odsłonić jego nagość. Ja jestem PAN."
-"Kpł18,7": "Nie będziesz odsłaniał nagości swego ojca lub matki; ona jest twoją matką, nie odkryjesz jej nagości."
-"Kpł18,8": "Nie będziesz odsłaniał nagości żony twego ojca; to jest nagość twego ojca."
-"Kpł18,9": "Nie będziesz odsłaniał nagości córki twego ojca lub córki twojej matki, czy urodziła się w domu, czy poza domem – nie odkryjesz ich nagości."
-"Kpł18,10": "Nie będziesz odsłaniał nagości córki twego syna lub nagości córki twojej córki, bo są one twoją nagością."
-"Kpł18,11": "Nie będziesz odsłaniał nagości córki żony twego ojca, która się narodziła z twego ojca, bo ona jest twoją siostrą, nie odkryjesz jej nagości."
-"Kpł18,12": "Nie będziesz odsłaniał nagości siostry twego ojca, bo jest ona bliską krewną twego ojca."
-"Kpł18,13": "Nie będziesz odsłaniał nagości siostry twojej matki, bo ona jest bliską krewną twojej matki."
-"Kpł18,14": "Nie będziesz odsłaniał nagości brata twego ojca, nie zbliżysz się do jego żony; ona jest twoją ciocią."
-"Kpł18,15": "Nie będziesz odsłaniał nagości twojej synowej; ona jest żoną twego syna, nie odkryjesz jej nagości."
-"Kpł18,16": "Nie będziesz odsłaniał nagości żony twego brata, bo to jest nagość twego brata."
-"Kpł18,17": "Nie będziesz odsłaniał nagości kobiety i jej córki; nie weźmiesz córki jej syna ani córki jej córki, aby odkryć jej nagość, bo są one jej bliskimi krewnymi. Jest to niegodziwość."
-"Kpł18,18": "Nie weźmiesz siostry twej żony, abyś jej nie trapił, odsłaniając jej nagość za jej życia."
-"Kpł18,19": "Nie zbliżaj się do kobiety, aby odsłaniać jej nagość w czasie jej odłączenia z powodu nieczystości."
-"Kpł18,20": "Nie będziesz obcował z żoną twego bliźniego, bo stałbyś się nią nieczysty."
-"Kpł18,21": "Nie pozwalaj żadnemu z twoich potomków przejść przez ogień dla Molocha, abyś nie bezcześcił imienia twego Boga. Ja jestem PAN."
-"Kpł18,22": "Nie będziesz obcował z mężczyzną jak z kobietą. Jest to obrzydliwość."
-"Kpł18,23": "Nie będziesz też obcował z żadnym zwierzęciem, bo stałbyś się tym nieczysty. Kobieta nie będzie stawać przed zwierzęciem w celu obcowania z nim. Jest to zboczenie."
-"Kpł18,24": "Nie kalajcie się tym wszystkim, gdyż tym wszystkim kalały się narody, które wypędzam przed wami."
-"Kpł18,25": "Także i ziemia stała się skalana. Nawiedziłem więc jej nieprawość w niej i ziemia zwymiotowała swoich mieszkańców."
-"Kpł18,26": "Przestrzegajcie więc moich ustaw i moich praw i nie dopuszczajcie się żadnych z tych obrzydliwości, ani rodowity mieszkaniec, ani przybysz, który gości wśród was;"
-"Kpł18,27": "(Wszystkich bowiem tych obrzydliwości dopuszczali się ludzie tej ziemi, którzy byli przed wami, i ziemia stała się skalana);"
-"Kpł18,28": "Aby was ziemia nie zwymiotowała, gdy ją zanieczyścicie, jak zwymiotowała narody, które były przed wami."
-"Kpł18,29": "Bo ktokolwiek dopuści się jakiejś z tych wszystkich obrzydliwości, wszyscy, którzy tak czynią, zostaną wykluczeni spośród swego ludu."
-"Kpł18,30": "Przestrzegajcie więc moich ustaw, aby nie czynić żadnego z obrzydliwych zwyczajów, które były czynione przed wami, abyście nie skalali się nimi. Ja jestem PAN, wasz Bóg."
+"Kpł18,1":
+  text: "PAN powiedział jeszcze do Mojżesza:"
+  tags: []
+"Kpł18,2":
+  text: "Przemów do synów Izraela i powiedz im: Ja jestem PAN, wasz Bóg."
+  tags: []
+"Kpł18,3":
+  text: "Nie czyńcie według zwyczajów ziemi Egiptu, w której mieszkaliście, ani według zwyczajów ziemi Kanaan, do której was prowadzę, też nie czyńcie, a według ich ustaw nie postępujcie."
+  tags: []
+"Kpł18,4":
+  text: "Wypełniajcie moje prawa i przestrzegajcie moich ustaw, abyście postępowali według nich. Ja jestem PAN, wasz Bóg."
+  tags: []
+"Kpł18,5":
+  text: "Przestrzegajcie więc moich ustaw i moich praw, bo jeśli człowiek je wypełnia, będzie przez nie żył. Ja jestem PAN."
+  tags: []
+"Kpł18,6":
+  text: "Nikt z was nie będzie zbliżał się do swojego krewnego, by odsłonić jego nagość. Ja jestem PAN."
+  tags: []
+"Kpł18,7":
+  text: "Nie będziesz odsłaniał nagości swego ojca lub matki; ona jest twoją matką, nie odkryjesz jej nagości."
+  tags: []
+"Kpł18,8":
+  text: "Nie będziesz odsłaniał nagości żony twego ojca; to jest nagość twego ojca."
+  tags: []
+"Kpł18,9":
+  text: "Nie będziesz odsłaniał nagości córki twego ojca lub córki twojej matki, czy urodziła się w domu, czy poza domem – nie odkryjesz ich nagości."
+  tags: []
+"Kpł18,10":
+  text: "Nie będziesz odsłaniał nagości córki twego syna lub nagości córki twojej córki, bo są one twoją nagością."
+  tags: []
+"Kpł18,11":
+  text: "Nie będziesz odsłaniał nagości córki żony twego ojca, która się narodziła z twego ojca, bo ona jest twoją siostrą, nie odkryjesz jej nagości."
+  tags: []
+"Kpł18,12":
+  text: "Nie będziesz odsłaniał nagości siostry twego ojca, bo jest ona bliską krewną twego ojca."
+  tags: []
+"Kpł18,13":
+  text: "Nie będziesz odsłaniał nagości siostry twojej matki, bo ona jest bliską krewną twojej matki."
+  tags: []
+"Kpł18,14":
+  text: "Nie będziesz odsłaniał nagości brata twego ojca, nie zbliżysz się do jego żony; ona jest twoją ciocią."
+  tags: []
+"Kpł18,15":
+  text: "Nie będziesz odsłaniał nagości twojej synowej; ona jest żoną twego syna, nie odkryjesz jej nagości."
+  tags: []
+"Kpł18,16":
+  text: "Nie będziesz odsłaniał nagości żony twego brata, bo to jest nagość twego brata."
+  tags: []
+"Kpł18,17":
+  text: "Nie będziesz odsłaniał nagości kobiety i jej córki; nie weźmiesz córki jej syna ani córki jej córki, aby odkryć jej nagość, bo są one jej bliskimi krewnymi. Jest to niegodziwość."
+  tags: []
+"Kpł18,18":
+  text: "Nie weźmiesz siostry twej żony, abyś jej nie trapił, odsłaniając jej nagość za jej życia."
+  tags: []
+"Kpł18,19":
+  text: "Nie zbliżaj się do kobiety, aby odsłaniać jej nagość w czasie jej odłączenia z powodu nieczystości."
+  tags: []
+"Kpł18,20":
+  text: "Nie będziesz obcował z żoną twego bliźniego, bo stałbyś się nią nieczysty."
+  tags: []
+"Kpł18,21":
+  text: "Nie pozwalaj żadnemu z twoich potomków przejść przez ogień dla Molocha, abyś nie bezcześcił imienia twego Boga. Ja jestem PAN."
+  tags: []
+"Kpł18,22":
+  text: "Nie będziesz obcował z mężczyzną jak z kobietą. Jest to obrzydliwość."
+  tags: []
+"Kpł18,23":
+  text: "Nie będziesz też obcował z żadnym zwierzęciem, bo stałbyś się tym nieczysty. Kobieta nie będzie stawać przed zwierzęciem w celu obcowania z nim. Jest to zboczenie."
+  tags: []
+"Kpł18,24":
+  text: "Nie kalajcie się tym wszystkim, gdyż tym wszystkim kalały się narody, które wypędzam przed wami."
+  tags: []
+"Kpł18,25":
+  text: "Także i ziemia stała się skalana. Nawiedziłem więc jej nieprawość w niej i ziemia zwymiotowała swoich mieszkańców."
+  tags: []
+"Kpł18,26":
+  text: "Przestrzegajcie więc moich ustaw i moich praw i nie dopuszczajcie się żadnych z tych obrzydliwości, ani rodowity mieszkaniec, ani przybysz, który gości wśród was;"
+  tags: []
+"Kpł18,27":
+  text: "(Wszystkich bowiem tych obrzydliwości dopuszczali się ludzie tej ziemi, którzy byli przed wami, i ziemia stała się skalana);"
+  tags: []
+"Kpł18,28":
+  text: "Aby was ziemia nie zwymiotowała, gdy ją zanieczyścicie, jak zwymiotowała narody, które były przed wami."
+  tags: []
+"Kpł18,29":
+  text: "Bo ktokolwiek dopuści się jakiejś z tych wszystkich obrzydliwości, wszyscy, którzy tak czynią, zostaną wykluczeni spośród swego ludu."
+  tags: []
+"Kpł18,30":
+  text: "Przestrzegajcie więc moich ustaw, aby nie czynić żadnego z obrzydliwych zwyczajów, które były czynione przed wami, abyście nie skalali się nimi. Ja jestem PAN, wasz Bóg."
+  tags: []

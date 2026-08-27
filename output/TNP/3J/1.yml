@@ -1,14 +1,42 @@
-"3J1,1": "Starszy, do umiłowanego Gajusa, którego miłuję w prawdzie."
-"3J1,2": "Umiłowany! Przede wszystkim modlę się, aby ci się dobrze powodziło i abyś był zdrów, tak jak dobrze powodzi się twojej duszy."
-"3J1,3": "Uradowałem się bowiem bardzo, gdy przychodzą bracia i gdy świadczą o twojej prawdzie, tak jak ty w prawdzie chodzisz."
-"3J1,4": "Nie mam większej radości nad tę, gdy słyszę, że dzieci moje chodzą w prawdzie."
-"3J1,5": "Umiłowany! Wiernie postępujesz, jeśli trudzisz się dla braci i dla obcych,"
-"3J1,6": "Którzy wydali świadectwo o twojej miłości przed zborem; a dobrze uczynisz, wysyłając ich w sposób godny Boga."
-"3J1,7": "Wyszli bowiem dla Jego imienia, nic nie biorąc od pogan."
-"3J1,8": "My więc powinniśmy takich przyjmować, aby stawać się współpracownikami prawdy."
-"3J1,9": "Pisałem do zboru, ale Diotrefes, który kocha być pierwszym z nich, nie przyjmuje nas."
-"3J1,10": "Dlatego, jeśli przyjdę, przypomnę jego dzieła, które czyni, obmawiając nas złymi słowami, i nie zadowalając się tym, sam braci nie przyjmuje, a tym, co chcieliby przyjąć, zabrania i ze zboru ich wyrzuca."
-"3J1,11": "Umiłowany! Nie naśladuj złego, lecz dobrego. Kto dobro czyni, jest z Boga; ale kto zło czyni, nie widział i nie widzi Boga."
-"3J1,12": "Demetriuszowi dane jest dobre świadectwo przez wszystkich i przez samą prawdę; i my także świadczymy, a wiesz, że świadectwo nasze jest prawdziwe."
-"3J1,13": "Wiele miałem ci pisać, ale nie chcę tego napisać atramentem i piórem."
-"3J1,14": "A mam nadzieję bezzwłocznie cię ujrzeć, a wtedy osobiście ze sobą pomówimy."
+"3J1,1":
+  text: "Starszy, do umiłowanego Gajusa, którego miłuję w prawdzie."
+  tags: []
+"3J1,2":
+  text: "Umiłowany! Przede wszystkim modlę się, aby ci się dobrze powodziło i abyś był zdrów, tak jak dobrze powodzi się twojej duszy."
+  tags: []
+"3J1,3":
+  text: "Uradowałem się bowiem bardzo, gdy przychodzą bracia i gdy świadczą o twojej prawdzie, tak jak ty w prawdzie chodzisz."
+  tags: []
+"3J1,4":
+  text: "Nie mam większej radości nad tę, gdy słyszę, że dzieci moje chodzą w prawdzie."
+  tags: []
+"3J1,5":
+  text: "Umiłowany! Wiernie postępujesz, jeśli trudzisz się dla braci i dla obcych,"
+  tags: []
+"3J1,6":
+  text: "Którzy wydali świadectwo o twojej miłości przed zborem; a dobrze uczynisz, wysyłając ich w sposób godny Boga."
+  tags: []
+"3J1,7":
+  text: "Wyszli bowiem dla Jego imienia, nic nie biorąc od pogan."
+  tags: []
+"3J1,8":
+  text: "My więc powinniśmy takich przyjmować, aby stawać się współpracownikami prawdy."
+  tags: []
+"3J1,9":
+  text: "Pisałem do zboru, ale Diotrefes, który kocha być pierwszym z nich, nie przyjmuje nas."
+  tags: []
+"3J1,10":
+  text: "Dlatego, jeśli przyjdę, przypomnę jego dzieła, które czyni, obmawiając nas złymi słowami, i nie zadowalając się tym, sam braci nie przyjmuje, a tym, co chcieliby przyjąć, zabrania i ze zboru ich wyrzuca."
+  tags: []
+"3J1,11":
+  text: "Umiłowany! Nie naśladuj złego, lecz dobrego. Kto dobro czyni, jest z Boga; ale kto zło czyni, nie widział i nie widzi Boga."
+  tags: []
+"3J1,12":
+  text: "Demetriuszowi dane jest dobre świadectwo przez wszystkich i przez samą prawdę; i my także świadczymy, a wiesz, że świadectwo nasze jest prawdziwe."
+  tags: []
+"3J1,13":
+  text: "Wiele miałem ci pisać, ale nie chcę tego napisać atramentem i piórem."
+  tags: []
+"3J1,14":
+  text: "A mam nadzieję bezzwłocznie cię ujrzeć, a wtedy osobiście ze sobą pomówimy."
+  tags: []

@@ -1,23 +1,69 @@
-"Wj5,1": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness."
-"Wj5,2": "And Pharaoh said, Who [is] the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go."
-"Wj5,3": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days' journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword."
-"Wj5,4": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
-"Wj5,5": "And Pharaoh said, Behold, the people of the land now [are] many, and ye make them rest from their burdens."
-"Wj5,6": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,"
-"Wj5,7": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves."
-"Wj5,8": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish [ought] thereof: for they [be] idle; therefore they cry, saying, Let us go [and] sacrifice to our God."
-"Wj5,9": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words."
-"Wj5,10": "And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw."
-"Wj5,11": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished."
-"Wj5,12": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw."
-"Wj5,13": "And the taskmasters hasted [them], saying, Fulfil your works, [your] daily tasks, as when there was straw."
-"Wj5,14": "And the officers of the children of Israel, which Pharaoh's taskmasters had set over them, were beaten, [and] demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?"
-"Wj5,15": "Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?"
-"Wj5,16": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants [are] beaten; but the fault [is] in thine own people."
-"Wj5,17": "But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do sacrifice to the LORD."
-"Wj5,18": "Go therefore now, [and] work; for there shall no straw be given you, yet shall ye deliver the tale of bricks."
-"Wj5,19": "And the officers of the children of Israel did see [that] they [were] in evil [case], after it was said, Ye shall not minish [ought] from your bricks of your daily task."
-"Wj5,20": "And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:"
-"Wj5,21": "And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
-"Wj5,22": "And Moses returned unto the LORD, and said, Lord, wherefore hast thou [so] evil entreated this people? why [is] it [that] thou hast sent me?"
-"Wj5,23": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
+"Wj5,1":
+  text: "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness."
+  tags: []
+"Wj5,2":
+  text: "And Pharaoh said, Who [is] the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go."
+  tags: []
+"Wj5,3":
+  text: "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days' journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword."
+  tags: []
+"Wj5,4":
+  text: "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
+  tags: []
+"Wj5,5":
+  text: "And Pharaoh said, Behold, the people of the land now [are] many, and ye make them rest from their burdens."
+  tags: []
+"Wj5,6":
+  text: "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,"
+  tags: []
+"Wj5,7":
+  text: "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves."
+  tags: []
+"Wj5,8":
+  text: "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish [ought] thereof: for they [be] idle; therefore they cry, saying, Let us go [and] sacrifice to our God."
+  tags: []
+"Wj5,9":
+  text: "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words."
+  tags: []
+"Wj5,10":
+  text: "And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw."
+  tags: []
+"Wj5,11":
+  text: "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished."
+  tags: []
+"Wj5,12":
+  text: "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw."
+  tags: []
+"Wj5,13":
+  text: "And the taskmasters hasted [them], saying, Fulfil your works, [your] daily tasks, as when there was straw."
+  tags: []
+"Wj5,14":
+  text: "And the officers of the children of Israel, which Pharaoh's taskmasters had set over them, were beaten, [and] demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?"
+  tags: []
+"Wj5,15":
+  text: "Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?"
+  tags: []
+"Wj5,16":
+  text: "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants [are] beaten; but the fault [is] in thine own people."
+  tags: []
+"Wj5,17":
+  text: "But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do sacrifice to the LORD."
+  tags: []
+"Wj5,18":
+  text: "Go therefore now, [and] work; for there shall no straw be given you, yet shall ye deliver the tale of bricks."
+  tags: []
+"Wj5,19":
+  text: "And the officers of the children of Israel did see [that] they [were] in evil [case], after it was said, Ye shall not minish [ought] from your bricks of your daily task."
+  tags: []
+"Wj5,20":
+  text: "And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:"
+  tags: []
+"Wj5,21":
+  text: "And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
+  tags: []
+"Wj5,22":
+  text: "And Moses returned unto the LORD, and said, Lord, wherefore hast thou [so] evil entreated this people? why [is] it [that] thou hast sent me?"
+  tags: []
+"Wj5,23":
+  text: "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
+  tags: []

@@ -1,31 +1,93 @@
-"J20,1": "A pierwszego dnia po sabacie, Maria Magdalena przyszła rano do grobowca, gdy jeszcze było ciemno i ujrzała odsunięty kamień od grobowca."
-"J20,2": "Pobiegła więc i przyszła do Szymona Piotra i do drugiego ucznia, którego miłował Jezus, i powiedziała im: Wzięli Pana z grobowca i nie wiemy, gdzie Go położyli."
-"J20,3": "Wyszedł więc Piotr i ten drugi uczeń, i ruszyli do grobowca."
-"J20,4": "A biegli obaj razem; lecz ten drugi uczeń pobiegł przodem, szybciej od Piotra i pierwszy przyszedł do grobowca,"
-"J20,5": "A gdy schylił się, widział leżące płótna; jednak nie wszedł."
-"J20,6": "Przyszedł więc Szymon Piotr idący za nim, wszedł do grobowca i oglądał leżące płótna,"
-"J20,7": "I chustę, która była na Jego głowie, nie leżącą razem z płótnami, ale osobno zwiniętą na jednym miejscu."
-"J20,8": "Wtedy też wszedł i ten drugi uczeń, który przybył pierwszy do grobowca, i ujrzał, i uwierzył."
-"J20,9": "Jeszcze bowiem nie zrozumieli Pisma, że On musi powstać z martwych."
-"J20,10": "I odeszli więc ponownie uczniowie do siebie."
-"J20,11": "Ale Maria stała płacząc na zewnątrz przy grobowcu. Gdy tak płakała, schyliła się do grobowca."
-"J20,12": "I ujrzała dwóch aniołów w bieli siedzących, jednego przy głowie, a drugiego przy stopach, w miejscu gdzie leżało ciało Jezusa."
-"J20,13": "A oni powiedzieli jej: Kobieto! Dlaczego płaczesz? Odpowiedziała im: Bo wzięli mojego Pana i nie wiem, gdzie Go położyli."
-"J20,14": "A gdy to powiedziała, odwróciła się i ujrzała stojącego Jezusa; a nie wiedziała, że to jest Jezus."
-"J20,15": "Jezus powiedział do niej: Kobieto! Dlaczego płaczesz? Kogo szukasz? Ona myśląc, że jest to ogrodnik, powiedziała do Niego: Panie! Jeśli ty Go przeniosłeś, powiedz mi, gdzie Go położyłeś, a ja Go wezmę."
-"J20,16": "Jezus powiedział jej: Mario! Ona gdy się obróciła, powiedziała do Niego: Rabbuni! Co wykłada się: Nauczycielu!"
-"J20,17": "Jezus powiedział do niej: Nie zatrzymuj mnie, bo jeszcze nie wstąpiłem do mojego Ojca; ale idź do moich braci i powiedz im: Wstępuję do Ojca mojego i Ojca waszego, i do Boga mojego i Boga waszego."
-"J20,18": "I przyszła Maria Magdalena, oznajmiając uczniom, że widziała Pana, i że to jej powiedział."
-"J20,19": "Gdy więc był wieczór tego właśnie dnia, pierwszego po sabacie, a drzwi były zamknięte, z powodu lęku przed Żydami, tam gdzie byli zgromadzeni uczniowie, przyszedł Jezus, stanął na środku i powiedział im: Pokój wam!"
-"J20,20": "A gdy to powiedział, pokazał im ręce i swój bok. Uradowali się więc uczniowie, widząc Pana."
-"J20,21": "Wtedy Jezus powiedział im ponownie: Pokój wam; tak jak mnie posłał Ojciec, i ja was posyłam."
-"J20,22": "A gdy to powiedział, tchnął na nich, mówiąc im: Weźcie Ducha Świętego."
-"J20,23": "Komukolwiek grzechy odpuścicie, są im odpuszczone; a komukolwiek zatrzymujecie, są zatrzymane."
-"J20,24": "A Tomasza, jednego z dwunastu, zwanego Didymos, nie było z nimi, gdy przyszedł Jezus."
-"J20,25": "I powiedzieli mu wtedy inni uczniowie: Widzieliśmy Pana. A on powiedział im: Jeśli nie ujrzę na Jego rękach śladu gwoździ i nie włożę palca swojego w ślad gwoździ, i nie włożę swojej ręki w Jego bok, nie uwierzę."
-"J20,26": "A po ośmiu dniach Jego uczniowie byli ponownie w domu, a z nimi i Tomasz. I przyszedł Jezus, gdy drzwi były zamknięte, i stanął na środku, i powiedział: Pokój wam!"
-"J20,27": "Potem powiedział Tomaszowi: Zbliż tu swój palec i zobacz moje ręce, i zbliż swoją rękę, i włóż w mój bok, i nie bądź niewierzący, lecz wierzący."
-"J20,28": "A w odpowiedzi Tomasz, rzekł do Niego: Pan mój i Bóg mój!"
-"J20,29": "Jezus powiedział mu: Dlatego że mnie widziałeś Tomaszu, uwierzyłeś; błogosławieni, którzy nie widzieli, a uwierzyli."
-"J20,30": "I wiele też innych cudownych znaków Jezus uczynił wobec swoich uczniów, które nie są zapisane w tym zwoju."
-"J20,31": "Ale te są zapisane, abyście uwierzyli, że Jezus jest Mesjaszem, Synem Boga, i żebyście wierząc mieli życie w Jego imieniu."
+"J20,1":
+  text: "A pierwszego dnia po sabacie, Maria Magdalena przyszła rano do grobowca, gdy jeszcze było ciemno i ujrzała odsunięty kamień od grobowca."
+  tags: []
+"J20,2":
+  text: "Pobiegła więc i przyszła do Szymona Piotra i do drugiego ucznia, którego miłował Jezus, i powiedziała im: Wzięli Pana z grobowca i nie wiemy, gdzie Go położyli."
+  tags: []
+"J20,3":
+  text: "Wyszedł więc Piotr i ten drugi uczeń, i ruszyli do grobowca."
+  tags: []
+"J20,4":
+  text: "A biegli obaj razem; lecz ten drugi uczeń pobiegł przodem, szybciej od Piotra i pierwszy przyszedł do grobowca,"
+  tags: []
+"J20,5":
+  text: "A gdy schylił się, widział leżące płótna; jednak nie wszedł."
+  tags: []
+"J20,6":
+  text: "Przyszedł więc Szymon Piotr idący za nim, wszedł do grobowca i oglądał leżące płótna,"
+  tags: []
+"J20,7":
+  text: "I chustę, która była na Jego głowie, nie leżącą razem z płótnami, ale osobno zwiniętą na jednym miejscu."
+  tags: []
+"J20,8":
+  text: "Wtedy też wszedł i ten drugi uczeń, który przybył pierwszy do grobowca, i ujrzał, i uwierzył."
+  tags: []
+"J20,9":
+  text: "Jeszcze bowiem nie zrozumieli Pisma, że On musi powstać z martwych."
+  tags: []
+"J20,10":
+  text: "I odeszli więc ponownie uczniowie do siebie."
+  tags: []
+"J20,11":
+  text: "Ale Maria stała płacząc na zewnątrz przy grobowcu. Gdy tak płakała, schyliła się do grobowca."
+  tags: []
+"J20,12":
+  text: "I ujrzała dwóch aniołów w bieli siedzących, jednego przy głowie, a drugiego przy stopach, w miejscu gdzie leżało ciało Jezusa."
+  tags: []
+"J20,13":
+  text: "A oni powiedzieli jej: Kobieto! Dlaczego płaczesz? Odpowiedziała im: Bo wzięli mojego Pana i nie wiem, gdzie Go położyli."
+  tags: []
+"J20,14":
+  text: "A gdy to powiedziała, odwróciła się i ujrzała stojącego Jezusa; a nie wiedziała, że to jest Jezus."
+  tags: []
+"J20,15":
+  text: "Jezus powiedział do niej: Kobieto! Dlaczego płaczesz? Kogo szukasz? Ona myśląc, że jest to ogrodnik, powiedziała do Niego: Panie! Jeśli ty Go przeniosłeś, powiedz mi, gdzie Go położyłeś, a ja Go wezmę."
+  tags: []
+"J20,16":
+  text: "Jezus powiedział jej: Mario! Ona gdy się obróciła, powiedziała do Niego: Rabbuni! Co wykłada się: Nauczycielu!"
+  tags: []
+"J20,17":
+  text: "Jezus powiedział do niej: Nie zatrzymuj mnie, bo jeszcze nie wstąpiłem do mojego Ojca; ale idź do moich braci i powiedz im: Wstępuję do Ojca mojego i Ojca waszego, i do Boga mojego i Boga waszego."
+  tags: []
+"J20,18":
+  text: "I przyszła Maria Magdalena, oznajmiając uczniom, że widziała Pana, i że to jej powiedział."
+  tags: []
+"J20,19":
+  text: "Gdy więc był wieczór tego właśnie dnia, pierwszego po sabacie, a drzwi były zamknięte, z powodu lęku przed Żydami, tam gdzie byli zgromadzeni uczniowie, przyszedł Jezus, stanął na środku i powiedział im: Pokój wam!"
+  tags: []
+"J20,20":
+  text: "A gdy to powiedział, pokazał im ręce i swój bok. Uradowali się więc uczniowie, widząc Pana."
+  tags: []
+"J20,21":
+  text: "Wtedy Jezus powiedział im ponownie: Pokój wam; tak jak mnie posłał Ojciec, i ja was posyłam."
+  tags: []
+"J20,22":
+  text: "A gdy to powiedział, tchnął na nich, mówiąc im: Weźcie Ducha Świętego."
+  tags: []
+"J20,23":
+  text: "Komukolwiek grzechy odpuścicie, są im odpuszczone; a komukolwiek zatrzymujecie, są zatrzymane."
+  tags: []
+"J20,24":
+  text: "A Tomasza, jednego z dwunastu, zwanego Didymos, nie było z nimi, gdy przyszedł Jezus."
+  tags: []
+"J20,25":
+  text: "I powiedzieli mu wtedy inni uczniowie: Widzieliśmy Pana. A on powiedział im: Jeśli nie ujrzę na Jego rękach śladu gwoździ i nie włożę palca swojego w ślad gwoździ, i nie włożę swojej ręki w Jego bok, nie uwierzę."
+  tags: []
+"J20,26":
+  text: "A po ośmiu dniach Jego uczniowie byli ponownie w domu, a z nimi i Tomasz. I przyszedł Jezus, gdy drzwi były zamknięte, i stanął na środku, i powiedział: Pokój wam!"
+  tags: []
+"J20,27":
+  text: "Potem powiedział Tomaszowi: Zbliż tu swój palec i zobacz moje ręce, i zbliż swoją rękę, i włóż w mój bok, i nie bądź niewierzący, lecz wierzący."
+  tags: []
+"J20,28":
+  text: "A w odpowiedzi Tomasz, rzekł do Niego: Pan mój i Bóg mój!"
+  tags: []
+"J20,29":
+  text: "Jezus powiedział mu: Dlatego że mnie widziałeś Tomaszu, uwierzyłeś; błogosławieni, którzy nie widzieli, a uwierzyli."
+  tags: []
+"J20,30":
+  text: "I wiele też innych cudownych znaków Jezus uczynił wobec swoich uczniów, które nie są zapisane w tym zwoju."
+  tags: []
+"J20,31":
+  text: "Ale te są zapisane, abyście uwierzyli, że Jezus jest Mesjaszem, Synem Boga, i żebyście wierząc mieli życie w Jego imieniu."
+  tags: []

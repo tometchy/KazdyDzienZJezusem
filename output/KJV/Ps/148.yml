@@ -1,14 +1,42 @@
-"Ps148,1": "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights."
-"Ps148,2": "Praise ye him, all his angels: praise ye him, all his hosts."
-"Ps148,3": "Praise ye him, sun and moon: praise him, all ye stars of light."
-"Ps148,4": "Praise him, ye heavens of heavens, and ye waters that [be] above the heavens."
-"Ps148,5": "Let them praise the name of the LORD: for he commanded, and they were created."
-"Ps148,6": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass."
-"Ps148,7": "Praise the LORD from the earth, ye dragons, and all deeps:"
-"Ps148,8": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:"
-"Ps148,9": "Mountains, and all hills; fruitful trees, and all cedars:"
-"Ps148,10": "Beasts, and all cattle; creeping things, and flying fowl:"
-"Ps148,11": "Kings of the earth, and all people; princes, and all judges of the earth:"
-"Ps148,12": "Both young men, and maidens; old men, and children:"
-"Ps148,13": "Let them praise the name of the LORD: for his name alone is excellent; his glory [is] above the earth and heaven."
-"Ps148,14": "He also exalteth the horn of his people, the praise of all his saints; [even] of the children of Israel, a people near unto him. Praise ye the LORD."
+"Ps148,1":
+  text: "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights."
+  tags: []
+"Ps148,2":
+  text: "Praise ye him, all his angels: praise ye him, all his hosts."
+  tags: []
+"Ps148,3":
+  text: "Praise ye him, sun and moon: praise him, all ye stars of light."
+  tags: []
+"Ps148,4":
+  text: "Praise him, ye heavens of heavens, and ye waters that [be] above the heavens."
+  tags: []
+"Ps148,5":
+  text: "Let them praise the name of the LORD: for he commanded, and they were created."
+  tags: []
+"Ps148,6":
+  text: "He hath also stablished them for ever and ever: he hath made a decree which shall not pass."
+  tags: []
+"Ps148,7":
+  text: "Praise the LORD from the earth, ye dragons, and all deeps:"
+  tags: []
+"Ps148,8":
+  text: "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:"
+  tags: []
+"Ps148,9":
+  text: "Mountains, and all hills; fruitful trees, and all cedars:"
+  tags: []
+"Ps148,10":
+  text: "Beasts, and all cattle; creeping things, and flying fowl:"
+  tags: []
+"Ps148,11":
+  text: "Kings of the earth, and all people; princes, and all judges of the earth:"
+  tags: []
+"Ps148,12":
+  text: "Both young men, and maidens; old men, and children:"
+  tags: []
+"Ps148,13":
+  text: "Let them praise the name of the LORD: for his name alone is excellent; his glory [is] above the earth and heaven."
+  tags: []
+"Ps148,14":
+  text: "He also exalteth the horn of his people, the praise of all his saints; [even] of the children of Israel, a people near unto him. Praise ye the LORD."
+  tags: []

@@ -1,29 +1,87 @@
-"Kaz7,1": "Lepsze jest dobre imię niż wyborny olejek, lepszy dzień śmierci niż dzień urodzenia."
-"Kaz7,2": "Lepiej iść do domu żałoby niż iść do domu biesiady, gdyż taki jest kres każdego człowieka, a żyjący niech weźmie to sobie do serca."
-"Kaz7,3": "Lepszy jest smutek niż śmiech, bo gdy oblicze jest zasmucone, serce szlachetnieje."
-"Kaz7,4": "Serce mądrych jest w domu żałoby, ale serce głupich w domu zadowolenia."
-"Kaz7,5": "Lepiej jest słuchać upomnień mądrego człowieka niż słuchać pieśni głupców."
-"Kaz7,6": "Bo jak trzask cierni płonących pod kotłem, tym jest śmiech głupca. To także jest marnością."
-"Kaz7,7": "Zaprawdę, ucisk ogłupia mądrego, a łapówka gubi serce."
-"Kaz7,8": "Lepszy jest koniec sprawy niż jej początek. Lepszy jest człowiek cierpliwego ducha niż ducha wyniosłego."
-"Kaz7,9": "Nie bądź w swoim duchu prędki do gniewu, bo gniew spoczywa w zanadrzu głupich."
-"Kaz7,10": "Nie mów: Jak to jest, że dawne dni były lepsze niż te obecne? Bo nie z mądrości o to pytasz."
-"Kaz7,11": "Lepsza jest mądrość od dziedzictwa i ona jest korzystna dla tych, którzy widzą słońce."
-"Kaz7,12": "Bo w cieniu mądrości jest jak w cieniu srebra; a korzyść z poznania jest taka: mądrość daje życie jej właścicielom."
-"Kaz7,13": "Przypatrz się dziełu Boga. Bo kto może wyprostować to, co przez Niego zostało zakrzywione?"
-"Kaz7,14": "W dniu dobrym bądź pośród dobra, a w dniu nieszczęścia rozważ: Bóg także uczynił ten dzień dokładnie jak tamten, aby człowiek nie dowiedział się tego, co będzie po nim."
-"Kaz7,15": "To wszystko ujrzałem w dniach mojej marności: Bywa, że sprawiedliwy ginie w swojej sprawiedliwości, i bywa, że niegodziwiec żyje długo w swojej niegodziwości."
-"Kaz7,16": "Nie bądź przesadnie sprawiedliwy ani zbytnio mądry. Dlaczego miałbyś się sam rujnować?"
-"Kaz7,17": "Nie bądź przesadnie niegodziwy i nie bądź głupi. Dlaczego miałbyś umrzeć nie w swoim czasie?"
-"Kaz7,18": "Dobrze jeśli będziesz się tego trzymał, a też tamtego ze swojej ręki nie wypuścisz. Bo kto boi się Boga, uniknie tego wszystkiego."
-"Kaz7,19": "Mądrość umacnia mądrego bardziej niż dziesięciu władców, którzy byli w mieście."
-"Kaz7,20": "Gdyż, nie ma na ziemi człowieka sprawiedliwego, który by czynił dobrze i nie grzeszył."
-"Kaz7,21": "Nie bierz także sobie do serca wszystkich słów, które się wypowiada, abyś nie usłyszał swojego sługi jak ci złorzeczy."
-"Kaz7,22": "Bo nierzadko ty również, o czym wie także twoje serce, wiele razy złorzeczyłeś innym."
-"Kaz7,23": "Tego wszystkiego wypróbowałem w mądrości i powiedziałem: Będę mądry! Lecz mądrość była daleko ode mnie."
-"Kaz7,24": "Odległe jest to, co było, i bardzo głębokie – kto to znajdzie?"
-"Kaz7,25": "Zwróciłem się ja i moje serce by poznawać, dociekać i szukać mądrości oraz rozeznania rzeczy; by poznać, że niegodziwość jest głupotą, a głupota – szaleństwem."
-"Kaz7,26": "I odkryłem ja, że bardziej gorzka niż śmierć jest ta kobieta, której serce jest jak sidło i sieć, a jej ręce jak pęta. Dobry przed obliczem Boga wyślizgnie się jej, ale grzesznik zostanie przez nią schwytany."
-"Kaz7,27": "Zauważ to: Odkryłem – mówi Kaznodzieja – porównując jedną rzecz z drugą, aby znaleźć rozwiązanie;"
-"Kaz7,28": "Tego moja dusza wciąż szuka, a czego nie znalazłem: Człowieka – jednego spośród tysiąca – znalazłem, a kobiety wśród nich wszystkich – nie znalazłem."
-"Kaz7,29": "Poza tym spójrz na to: Bóg uczynił człowieka prawym, lecz oni pragnęli rozlicznych wynalazków."
+"Kaz7,1":
+  text: "Lepsze jest dobre imię niż wyborny olejek, lepszy dzień śmierci niż dzień urodzenia."
+  tags: []
+"Kaz7,2":
+  text: "Lepiej iść do domu żałoby niż iść do domu biesiady, gdyż taki jest kres każdego człowieka, a żyjący niech weźmie to sobie do serca."
+  tags: []
+"Kaz7,3":
+  text: "Lepszy jest smutek niż śmiech, bo gdy oblicze jest zasmucone, serce szlachetnieje."
+  tags: []
+"Kaz7,4":
+  text: "Serce mądrych jest w domu żałoby, ale serce głupich w domu zadowolenia."
+  tags: []
+"Kaz7,5":
+  text: "Lepiej jest słuchać upomnień mądrego człowieka niż słuchać pieśni głupców."
+  tags: []
+"Kaz7,6":
+  text: "Bo jak trzask cierni płonących pod kotłem, tym jest śmiech głupca. To także jest marnością."
+  tags: []
+"Kaz7,7":
+  text: "Zaprawdę, ucisk ogłupia mądrego, a łapówka gubi serce."
+  tags: []
+"Kaz7,8":
+  text: "Lepszy jest koniec sprawy niż jej początek. Lepszy jest człowiek cierpliwego ducha niż ducha wyniosłego."
+  tags: []
+"Kaz7,9":
+  text: "Nie bądź w swoim duchu prędki do gniewu, bo gniew spoczywa w zanadrzu głupich."
+  tags: []
+"Kaz7,10":
+  text: "Nie mów: Jak to jest, że dawne dni były lepsze niż te obecne? Bo nie z mądrości o to pytasz."
+  tags: []
+"Kaz7,11":
+  text: "Lepsza jest mądrość od dziedzictwa i ona jest korzystna dla tych, którzy widzą słońce."
+  tags: []
+"Kaz7,12":
+  text: "Bo w cieniu mądrości jest jak w cieniu srebra; a korzyść z poznania jest taka: mądrość daje życie jej właścicielom."
+  tags: []
+"Kaz7,13":
+  text: "Przypatrz się dziełu Boga. Bo kto może wyprostować to, co przez Niego zostało zakrzywione?"
+  tags: []
+"Kaz7,14":
+  text: "W dniu dobrym bądź pośród dobra, a w dniu nieszczęścia rozważ: Bóg także uczynił ten dzień dokładnie jak tamten, aby człowiek nie dowiedział się tego, co będzie po nim."
+  tags: []
+"Kaz7,15":
+  text: "To wszystko ujrzałem w dniach mojej marności: Bywa, że sprawiedliwy ginie w swojej sprawiedliwości, i bywa, że niegodziwiec żyje długo w swojej niegodziwości."
+  tags: []
+"Kaz7,16":
+  text: "Nie bądź przesadnie sprawiedliwy ani zbytnio mądry. Dlaczego miałbyś się sam rujnować?"
+  tags: []
+"Kaz7,17":
+  text: "Nie bądź przesadnie niegodziwy i nie bądź głupi. Dlaczego miałbyś umrzeć nie w swoim czasie?"
+  tags: []
+"Kaz7,18":
+  text: "Dobrze jeśli będziesz się tego trzymał, a też tamtego ze swojej ręki nie wypuścisz. Bo kto boi się Boga, uniknie tego wszystkiego."
+  tags: []
+"Kaz7,19":
+  text: "Mądrość umacnia mądrego bardziej niż dziesięciu władców, którzy byli w mieście."
+  tags: []
+"Kaz7,20":
+  text: "Gdyż, nie ma na ziemi człowieka sprawiedliwego, który by czynił dobrze i nie grzeszył."
+  tags: []
+"Kaz7,21":
+  text: "Nie bierz także sobie do serca wszystkich słów, które się wypowiada, abyś nie usłyszał swojego sługi jak ci złorzeczy."
+  tags: []
+"Kaz7,22":
+  text: "Bo nierzadko ty również, o czym wie także twoje serce, wiele razy złorzeczyłeś innym."
+  tags: []
+"Kaz7,23":
+  text: "Tego wszystkiego wypróbowałem w mądrości i powiedziałem: Będę mądry! Lecz mądrość była daleko ode mnie."
+  tags: []
+"Kaz7,24":
+  text: "Odległe jest to, co było, i bardzo głębokie – kto to znajdzie?"
+  tags: []
+"Kaz7,25":
+  text: "Zwróciłem się ja i moje serce by poznawać, dociekać i szukać mądrości oraz rozeznania rzeczy; by poznać, że niegodziwość jest głupotą, a głupota – szaleństwem."
+  tags: []
+"Kaz7,26":
+  text: "I odkryłem ja, że bardziej gorzka niż śmierć jest ta kobieta, której serce jest jak sidło i sieć, a jej ręce jak pęta. Dobry przed obliczem Boga wyślizgnie się jej, ale grzesznik zostanie przez nią schwytany."
+  tags: []
+"Kaz7,27":
+  text: "Zauważ to: Odkryłem – mówi Kaznodzieja – porównując jedną rzecz z drugą, aby znaleźć rozwiązanie;"
+  tags: []
+"Kaz7,28":
+  text: "Tego moja dusza wciąż szuka, a czego nie znalazłem: Człowieka – jednego spośród tysiąca – znalazłem, a kobiety wśród nich wszystkich – nie znalazłem."
+  tags: []
+"Kaz7,29":
+  text: "Poza tym spójrz na to: Bóg uczynił człowieka prawym, lecz oni pragnęli rozlicznych wynalazków."
+  tags: []

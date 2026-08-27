@@ -1,22 +1,66 @@
-"Ps34,1": "Będę błogosławił JHWH w każdym czasie, Jego chwała zawsze będzie na moich ustach."
-"Ps34,2": "Moja dusza będzie się chlubić JHWH; pokorni to usłyszą i rozradują się."
-"Ps34,3": "Wywyższajcie JHWH ze mną i wspólnie czyńmy wielkim Jego imię."
-"Ps34,4": "Szukałem JHWH, a On mnie wysłuchał i uwolnił od wszystkich moich lęków."
-"Ps34,5": "Spojrzeli na Niego i rozpromienili się, a ich oblicza nie doznały wstydu."
-"Ps34,6": "Ten oto biedak wołał, a JHWH wysłuchał i wybawił go ze wszystkich jego utrapień."
-"Ps34,7": "Anioł JHWH rozbija obóz dookoła tych, którzy się Go boją, i ratuje ich."
-"Ps34,8": "Skosztujcie i zobaczcie jak dobry jest JHWH: Błogosławiony człowiek, który Mu ufa."
-"Ps34,9": "Bójcie się JHWH, Jego święci, bo niczego nie braknie tym, którzy się Go boją."
-"Ps34,10": "Lwięta zbiedniały i cierpią głód, lecz szukającym JHWH nie zabraknie żadnego dobra."
-"Ps34,11": "Chodźcie, synowie, słuchajcie mnie; nauczę was bojaźni JHWH."
-"Ps34,12": "Któż jest tym mężem, rozkoszującym się życiem, miłującym wiele dni, by móc oglądać dobro?"
-"Ps34,13": "Strzeż swojego języka od zła, a swoich warg od mówienia tego, co zwodnicze."
-"Ps34,14": "Odwróć się od zła i czyń dobrze, szukaj pokoju i dąż do niego."
-"Ps34,15": "Oczy JHWH są zwrócone na sprawiedliwych, a Jego uszy otwarte na ich krzyk o pomoc;"
-"Ps34,16": "Lecz oblicze JHWH jest przeciwko czyniącym zło, aby pamięć o nich wymazać z ziemi."
-"Ps34,17": "Wołają sprawiedliwi, a JHWH wysłuchuje ich i uwalnia z wszelkiego utrapienia."
-"Ps34,18": "Bliski jest JHWH tym, których serce jest złamane i uwalnia skruszonego ducha."
-"Ps34,19": "Liczne są cierpienia sprawiedliwego, ale JHWH uwalnia go od nich wszystkich."
-"Ps34,20": "Strzeże wszystkich jego kości; ani jedna z nich się nie złamała."
-"Ps34,21": "Zło zabije niegodziwego i ci, którzy nienawidzą sprawiedliwego, będą uznani za winnych;"
-"Ps34,22": "JHWH odkupi dusze swoich sług i nie będą uznani za winnych ci, którzy Mu ufają."
+"Ps34,1":
+  text: "Będę błogosławił JHWH w każdym czasie, Jego chwała zawsze będzie na moich ustach."
+  tags: []
+"Ps34,2":
+  text: "Moja dusza będzie się chlubić JHWH; pokorni to usłyszą i rozradują się."
+  tags: []
+"Ps34,3":
+  text: "Wywyższajcie JHWH ze mną i wspólnie czyńmy wielkim Jego imię."
+  tags: []
+"Ps34,4":
+  text: "Szukałem JHWH, a On mnie wysłuchał i uwolnił od wszystkich moich lęków."
+  tags: []
+"Ps34,5":
+  text: "Spojrzeli na Niego i rozpromienili się, a ich oblicza nie doznały wstydu."
+  tags: []
+"Ps34,6":
+  text: "Ten oto biedak wołał, a JHWH wysłuchał i wybawił go ze wszystkich jego utrapień."
+  tags: []
+"Ps34,7":
+  text: "Anioł JHWH rozbija obóz dookoła tych, którzy się Go boją, i ratuje ich."
+  tags: []
+"Ps34,8":
+  text: "Skosztujcie i zobaczcie jak dobry jest JHWH: Błogosławiony człowiek, który Mu ufa."
+  tags: []
+"Ps34,9":
+  text: "Bójcie się JHWH, Jego święci, bo niczego nie braknie tym, którzy się Go boją."
+  tags: []
+"Ps34,10":
+  text: "Lwięta zbiedniały i cierpią głód, lecz szukającym JHWH nie zabraknie żadnego dobra."
+  tags: []
+"Ps34,11":
+  text: "Chodźcie, synowie, słuchajcie mnie; nauczę was bojaźni JHWH."
+  tags: []
+"Ps34,12":
+  text: "Któż jest tym mężem, rozkoszującym się życiem, miłującym wiele dni, by móc oglądać dobro?"
+  tags: []
+"Ps34,13":
+  text: "Strzeż swojego języka od zła, a swoich warg od mówienia tego, co zwodnicze."
+  tags: []
+"Ps34,14":
+  text: "Odwróć się od zła i czyń dobrze, szukaj pokoju i dąż do niego."
+  tags: []
+"Ps34,15":
+  text: "Oczy JHWH są zwrócone na sprawiedliwych, a Jego uszy otwarte na ich krzyk o pomoc;"
+  tags: []
+"Ps34,16":
+  text: "Lecz oblicze JHWH jest przeciwko czyniącym zło, aby pamięć o nich wymazać z ziemi."
+  tags: []
+"Ps34,17":
+  text: "Wołają sprawiedliwi, a JHWH wysłuchuje ich i uwalnia z wszelkiego utrapienia."
+  tags: []
+"Ps34,18":
+  text: "Bliski jest JHWH tym, których serce jest złamane i uwalnia skruszonego ducha."
+  tags: []
+"Ps34,19":
+  text: "Liczne są cierpienia sprawiedliwego, ale JHWH uwalnia go od nich wszystkich."
+  tags: []
+"Ps34,20":
+  text: "Strzeże wszystkich jego kości; ani jedna z nich się nie złamała."
+  tags: []
+"Ps34,21":
+  text: "Zło zabije niegodziwego i ci, którzy nienawidzą sprawiedliwego, będą uznani za winnych;"
+  tags: []
+"Ps34,22":
+  text: "JHWH odkupi dusze swoich sług i nie będą uznani za winnych ci, którzy Mu ufają."
+  tags: []

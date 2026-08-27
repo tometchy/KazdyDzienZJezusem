@@ -1,25 +1,75 @@
-"Prz13,1": "Mądry syn przyjmuje pouczenie ojca, a szyderca nie słucha napomnienia."
-"Prz13,2": "Człowiek spożywa dobro z owocu swoich ust, a w duszy zdradliwych jest przemoc."
-"Prz13,3": "Kto strzeże swoich ust, ratuje swoją duszę; kto szeroko otwiera swoje wargi, taki będzie zniszczony."
-"Prz13,4": "Dusza leniwego pragnie, a nic nie ma, lecz dusza pilnych zostanie obficie nasycona."
-"Prz13,5": "Sprawiedliwy nienawidzi fałszywej mowy, a niegodziwy wydziela smród i wstyd."
-"Prz13,6": "Prawość strzeże drogi niewinnego, a niegodziwość zniszczy grzesznika."
-"Prz13,7": "Jest taki, który udaje bogatego, a nie ma nic; inny udaje biednego, choć ma wielki majątek."
-"Prz13,8": "Okupem za duszę człowieka bywa jego bogactwo, lecz nędzarz nie słyszy takiej groźby."
-"Prz13,9": "Cieszy blaskiem światło sprawiedliwych, a lampa niegodziwych zgaśnie."
-"Prz13,10": "Pycha wywołuje tylko spór, a mądrość jest u przyjmujących radę."
-"Prz13,11": "Bogactwo z marności – maleje, a kto gromadzi je swoją ręką – pomnaża."
-"Prz13,12": "Przewlekłe oczekiwanie sprawia smutek sercu, a spełnione pragnienie jest drzewem życia."
-"Prz13,13": "Kto gardzi Słowem Bożym, ten zginie, a kto się boi przykazania, tego nagrodzą."
-"Prz13,14": "Pouczenie mądrego jest źródłem życia, by uniknąć sideł śmierci."
-"Prz13,15": "Właściwe zrozumienie daje przychylność, a droga zdradliwych jest niezmienna."
-"Prz13,16": "Każdy roztropny postępuje z rozeznaniem, a głupi ujawnia głupotę."
-"Prz13,17": "Niegodziwy poseł wtrąca w niedolę, a wierny wysłannik jest lekarstwem."
-"Prz13,18": "Ubóstwo i hańba spotka tego, kto odrzuca karność, a kto strzeże karcenia, dozna czci."
-"Prz13,19": "Spełnione pragnienie jest słodkie dla duszy, a stronienie od zła jest odrażające dla głupców."
-"Prz13,20": "Kto przestaje z mądrymi, stanie się mądrym, a towarzyszący głupcom niszczeje."
-"Prz13,21": "Nieszczęście pędzi za grzesznikami, a sprawiedliwi zostaną nagrodzeni dobrem."
-"Prz13,22": "Dobry człowiek zostawia dziedzictwo synom swoich synów, a majątek grzeszącego jest zachowany dla sprawiedliwego."
-"Prz13,23": "Obfitą żywność daje rola ubogich, lecz i ta będzie niszczeć przez brak prawa."
-"Prz13,24": "Kto wstrzymuje swoją rózgę, nienawidzi swojego syna, a kto go kocha, wcześniej szuka jego napomnienia."
-"Prz13,25": "Sprawiedliwy je aż nasyci swoją duszę, lecz brzuch niegodziwych cierpi niedostatek."
+"Prz13,1":
+  text: "Mądry syn przyjmuje pouczenie ojca, a szyderca nie słucha napomnienia."
+  tags: []
+"Prz13,2":
+  text: "Człowiek spożywa dobro z owocu swoich ust, a w duszy zdradliwych jest przemoc."
+  tags: []
+"Prz13,3":
+  text: "Kto strzeże swoich ust, ratuje swoją duszę; kto szeroko otwiera swoje wargi, taki będzie zniszczony."
+  tags: []
+"Prz13,4":
+  text: "Dusza leniwego pragnie, a nic nie ma, lecz dusza pilnych zostanie obficie nasycona."
+  tags: []
+"Prz13,5":
+  text: "Sprawiedliwy nienawidzi fałszywej mowy, a niegodziwy wydziela smród i wstyd."
+  tags: []
+"Prz13,6":
+  text: "Prawość strzeże drogi niewinnego, a niegodziwość zniszczy grzesznika."
+  tags: []
+"Prz13,7":
+  text: "Jest taki, który udaje bogatego, a nie ma nic; inny udaje biednego, choć ma wielki majątek."
+  tags: []
+"Prz13,8":
+  text: "Okupem za duszę człowieka bywa jego bogactwo, lecz nędzarz nie słyszy takiej groźby."
+  tags: []
+"Prz13,9":
+  text: "Cieszy blaskiem światło sprawiedliwych, a lampa niegodziwych zgaśnie."
+  tags: []
+"Prz13,10":
+  text: "Pycha wywołuje tylko spór, a mądrość jest u przyjmujących radę."
+  tags: []
+"Prz13,11":
+  text: "Bogactwo z marności – maleje, a kto gromadzi je swoją ręką – pomnaża."
+  tags: []
+"Prz13,12":
+  text: "Przewlekłe oczekiwanie sprawia smutek sercu, a spełnione pragnienie jest drzewem życia."
+  tags: []
+"Prz13,13":
+  text: "Kto gardzi Słowem Bożym, ten zginie, a kto się boi przykazania, tego nagrodzą."
+  tags: []
+"Prz13,14":
+  text: "Pouczenie mądrego jest źródłem życia, by uniknąć sideł śmierci."
+  tags: []
+"Prz13,15":
+  text: "Właściwe zrozumienie daje przychylność, a droga zdradliwych jest niezmienna."
+  tags: []
+"Prz13,16":
+  text: "Każdy roztropny postępuje z rozeznaniem, a głupi ujawnia głupotę."
+  tags: []
+"Prz13,17":
+  text: "Niegodziwy poseł wtrąca w niedolę, a wierny wysłannik jest lekarstwem."
+  tags: []
+"Prz13,18":
+  text: "Ubóstwo i hańba spotka tego, kto odrzuca karność, a kto strzeże karcenia, dozna czci."
+  tags: []
+"Prz13,19":
+  text: "Spełnione pragnienie jest słodkie dla duszy, a stronienie od zła jest odrażające dla głupców."
+  tags: []
+"Prz13,20":
+  text: "Kto przestaje z mądrymi, stanie się mądrym, a towarzyszący głupcom niszczeje."
+  tags: []
+"Prz13,21":
+  text: "Nieszczęście pędzi za grzesznikami, a sprawiedliwi zostaną nagrodzeni dobrem."
+  tags: []
+"Prz13,22":
+  text: "Dobry człowiek zostawia dziedzictwo synom swoich synów, a majątek grzeszącego jest zachowany dla sprawiedliwego."
+  tags: []
+"Prz13,23":
+  text: "Obfitą żywność daje rola ubogich, lecz i ta będzie niszczeć przez brak prawa."
+  tags: []
+"Prz13,24":
+  text: "Kto wstrzymuje swoją rózgę, nienawidzi swojego syna, a kto go kocha, wcześniej szuka jego napomnienia."
+  tags: []
+"Prz13,25":
+  text: "Sprawiedliwy je aż nasyci swoją duszę, lecz brzuch niegodziwych cierpi niedostatek."
+  tags: []

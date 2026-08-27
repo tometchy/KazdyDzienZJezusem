@@ -1,10 +1,30 @@
-"Kaz11,1": "Rzucaj swój chleb na wody, bo po wielu dniach odnajdziesz go."
-"Kaz11,2": "Rozdaj dział siedmiu lub ośmiu, bo nie wiesz, co złego wydarzy się na ziemi."
-"Kaz11,3": "Gdy chmury napełniają się deszczem, spuszczają go na ziemię. Gdy drzewo upada na południe lub na północ, w miejscu, gdzie upadnie to drzewo, tam zostanie."
-"Kaz11,4": "Kto zważa na wiatr, nigdy nie będzie siał, a kto patrzy na chmury, nie będzie żąć."
-"Kaz11,5": "Jak nie wiesz, jaka jest droga ducha, i jak się kształtują kości w łonie brzemiennej, tak nie znasz spraw Boga, który wszystko czyni."
-"Kaz11,6": "Rano siej swoje ziarno, a wieczorem nie pozwól spocząć swojej ręce, gdyż nie wiesz, co się uda, czy to, czy tamto, czy też oboje będą równie dobre."
-"Kaz11,7": "Doprawdy, światło jest słodkie i miła to rzecz dla oczu widzieć słońce."
-"Kaz11,8": "A choćby człowiek żył przez wiele lat i radował się nimi wszystkimi, to niech pamięta o dniach ciemności, bo będzie ich wiele. Wszystko, co nastąpi, to tylko marność."
-"Kaz11,9": "Dlatego raduj się, młodzieńcze, w swojej młodości, niech twoje serce cieszy cię za dni twojej młodości i krocz drogami swego serca oraz według zdania swoich oczu, ale wiedz, że za to wszystko Bóg przyprowadzi cię na sąd."
-"Kaz11,10": "Usuń więc gniew ze swojego serca i odrzuć zło od swego ciała, gdyż dzieciństwo i młodość są marnością."
+"Kaz11,1":
+  text: "Rzucaj swój chleb na wody, bo po wielu dniach odnajdziesz go."
+  tags: []
+"Kaz11,2":
+  text: "Rozdaj dział siedmiu lub ośmiu, bo nie wiesz, co złego wydarzy się na ziemi."
+  tags: []
+"Kaz11,3":
+  text: "Gdy chmury napełniają się deszczem, spuszczają go na ziemię. Gdy drzewo upada na południe lub na północ, w miejscu, gdzie upadnie to drzewo, tam zostanie."
+  tags: []
+"Kaz11,4":
+  text: "Kto zważa na wiatr, nigdy nie będzie siał, a kto patrzy na chmury, nie będzie żąć."
+  tags: []
+"Kaz11,5":
+  text: "Jak nie wiesz, jaka jest droga ducha, i jak się kształtują kości w łonie brzemiennej, tak nie znasz spraw Boga, który wszystko czyni."
+  tags: []
+"Kaz11,6":
+  text: "Rano siej swoje ziarno, a wieczorem nie pozwól spocząć swojej ręce, gdyż nie wiesz, co się uda, czy to, czy tamto, czy też oboje będą równie dobre."
+  tags: []
+"Kaz11,7":
+  text: "Doprawdy, światło jest słodkie i miła to rzecz dla oczu widzieć słońce."
+  tags: []
+"Kaz11,8":
+  text: "A choćby człowiek żył przez wiele lat i radował się nimi wszystkimi, to niech pamięta o dniach ciemności, bo będzie ich wiele. Wszystko, co nastąpi, to tylko marność."
+  tags: []
+"Kaz11,9":
+  text: "Dlatego raduj się, młodzieńcze, w swojej młodości, niech twoje serce cieszy cię za dni twojej młodości i krocz drogami swego serca oraz według zdania swoich oczu, ale wiedz, że za to wszystko Bóg przyprowadzi cię na sąd."
+  tags: []
+"Kaz11,10":
+  text: "Usuń więc gniew ze swojego serca i odrzuć zło od swego ciała, gdyż dzieciństwo i młodość są marnością."
+  tags: []

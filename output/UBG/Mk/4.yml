@@ -1,41 +1,123 @@
-"Mk4,1": "I znowu zaczął nauczać nad morzem. Zgromadził się wokół niego wielki tłum, tak że wszedłszy do łodzi, siedział w niej na morzu, a wszyscy ludzie byli na brzegu."
-"Mk4,2": "A on nauczał ich wielu rzeczy w przypowieściach i mówił do nich w swojej nauce:"
-"Mk4,3": "Słuchajcie! Oto siewca wyszedł siać."
-"Mk4,4": "A gdy siał, jedno padło przy drodze, a ptaki niebieskie przyleciały i wydziobały je."
-"Mk4,5": "Inne padło na miejsca skaliste, gdzie nie miało wiele ziemi, i szybko wzeszło, bo ziemia nie była głęboka."
-"Mk4,6": "A gdy słońce wzeszło, wypaliło je, a ponieważ nie miało korzenia, uschło."
-"Mk4,7": "Inne zaś padło między ciernie, a ciernie wyrosły i zagłuszyły je, i nie wydało owocu."
-"Mk4,8": "A inne padło na dobrą ziemię i wydało bujnie wschodzący i rosnący owoc: jedno trzydziestokrotny, inne sześćdziesięciokrotny, a jeszcze inne stokrotny."
-"Mk4,9": "I mówił im: Kto ma uszy do słuchania, niech słucha."
-"Mk4,10": "A gdy był sam, pytali go ci, którzy przy nim byli z dwunastoma, o tę przypowieść."
-"Mk4,11": "A on im odpowiedział: Wam dano poznać tajemnicę królestwa Bożego. Tym zaś, którzy są na zewnątrz, wszystko podaje się w przypowieściach;"
-"Mk4,12": "Aby patrząc, patrzyli, a nie widzieli i słysząc, słyszeli, a nie zrozumieli, by się czasem nie nawrócili i nie były im przebaczone grzechy."
-"Mk4,13": "I powiedział do nich: Nie rozumiecie tej przypowieści? Jakże więc zrozumiecie wszystkie inne przypowieści?"
-"Mk4,14": "Siewca sieje słowo."
-"Mk4,15": "A ci przy drodze są tymi, którym sieje się słowo, ale gdy usłyszą, zaraz przychodzi szatan i wybiera słowo zasiane w ich sercach."
-"Mk4,16": "Podobnie ci, którzy zostali posiani na miejscach skalistych, są tymi, którzy, gdy usłyszą słowo, natychmiast je z radością przyjmują;"
-"Mk4,17": "Jednak nie mają w sobie korzenia, lecz trwają do czasu. Potem, gdy przychodzi ucisk albo prześladowanie z powodu słowa, zaraz się gorszą."
-"Mk4,18": "A ci, którzy zostali posiani między cierniami, są tymi, którzy słuchają słowa;"
-"Mk4,19": "Lecz troski tego świata, ułuda bogactwa i żądze innych rzeczy wchodzą i zagłuszają słowo, i staje się bezowocne."
-"Mk4,20": "Ci zaś, którzy zostali posiani na dobrej ziemi, są tymi, którzy słuchają słowa, przyjmują je i przynoszą owoc: jedni trzydziestokrotny, inni sześćdziesięciokrotny, a jeszcze inni stokrotny."
-"Mk4,21": "Ponadto mówił im: Czy przynosi się świecę, aby wstawić ją pod naczynie albo pod łóżko? Czy nie po to, aby ją postawić na świeczniku?"
-"Mk4,22": "Nie ma bowiem nic tajemnego, co by nie miało być ujawnione ani nic ukrytego, co by nie miało wyjść na jaw."
-"Mk4,23": "Jeśli ktoś ma uszy do słuchania, niech słucha."
-"Mk4,24": "I powiedział do nich: Uważajcie na to, czego słuchacie. Jaką miarą mierzycie, taką będzie wam odmierzone, a wam, którzy słuchacie, zostanie jeszcze dodane."
-"Mk4,25": "Kto bowiem ma, będzie mu dodane, a kto nie ma, zostanie mu zabrane nawet to, co ma."
-"Mk4,26": "I mówił: Z królestwem Bożym jest tak, jak gdyby człowiek wrzucił ziarno w ziemię."
-"Mk4,27": "Czy śpi, czy wstaje, we dnie i w nocy, ziarno wschodzi i rośnie, a on nie wie jak."
-"Mk4,28": "Bo ziemia sama z siebie wydaje plon, najpierw źdźbło, potem kłos, a potem pełne ziarno w kłosie."
-"Mk4,29": "A gdy plon dojrzeje, on zaraz zapuszcza sierp, bo nadeszło żniwo."
-"Mk4,30": "Powiedział jeszcze: Do czego przyrównamy królestwo Boże albo jaką przypowieścią je wyrazimy?"
-"Mk4,31": "Jest jak ziarno gorczycy, które, gdy zostaje wsiane w ziemię, jest najmniejsze ze wszystkich nasion na ziemi."
-"Mk4,32": "Lecz wsiane wyrasta i staje się większe od wszystkich jarzyn, i wypuszcza wielkie gałęzie, tak że ptaki niebieskie mogą się gnieździć w jego cieniu."
-"Mk4,33": "I w wielu takich przypowieściach mówił im słowo, stosownie do tego, jak mogli słuchać."
-"Mk4,34": "A bez przypowieści nie mówił do nich. Na osobności zaś wykładał wszystko swoim uczniom."
-"Mk4,35": "Tego samego dnia, gdy nastał wieczór, powiedział do nich: Przeprawmy się na drugą stronę."
-"Mk4,36": "A gdy odprawili tłum, wzięli go ze sobą, tak jak był w łodzi. Towarzyszyły mu też inne łódki."
-"Mk4,37": "Wtedy zerwał się gwałtowny wicher i fale uderzały w łódź, tak że już się napełniała."
-"Mk4,38": "A on spał w tyle łodzi na wezgłowiu. Obudzili go więc i mówili do niego: Nauczycielu, nie obchodzi cię, że giniemy?"
-"Mk4,39": "Wówczas wstał, zgromił wiatr i powiedział do morza: Milcz i uspokój się! I ustał wiatr, i nastała wielka cisza."
-"Mk4,40": "Wtedy powiedział do nich: Czemu się tak boicie? Jak to jest, że nie macie wiary?"
-"Mk4,41": "I ogarnął ich wielki strach, i mówili jeden do drugiego: Kim on jest, że nawet wiatr i morze są mu posłuszne?"
+"Mk4,1":
+  text: "I znowu zaczął nauczać nad morzem. Zgromadził się wokół niego wielki tłum, tak że wszedłszy do łodzi, siedział w niej na morzu, a wszyscy ludzie byli na brzegu."
+  tags: []
+"Mk4,2":
+  text: "A on nauczał ich wielu rzeczy w przypowieściach i mówił do nich w swojej nauce:"
+  tags: []
+"Mk4,3":
+  text: "Słuchajcie! Oto siewca wyszedł siać."
+  tags: []
+"Mk4,4":
+  text: "A gdy siał, jedno padło przy drodze, a ptaki niebieskie przyleciały i wydziobały je."
+  tags: []
+"Mk4,5":
+  text: "Inne padło na miejsca skaliste, gdzie nie miało wiele ziemi, i szybko wzeszło, bo ziemia nie była głęboka."
+  tags: []
+"Mk4,6":
+  text: "A gdy słońce wzeszło, wypaliło je, a ponieważ nie miało korzenia, uschło."
+  tags: []
+"Mk4,7":
+  text: "Inne zaś padło między ciernie, a ciernie wyrosły i zagłuszyły je, i nie wydało owocu."
+  tags: []
+"Mk4,8":
+  text: "A inne padło na dobrą ziemię i wydało bujnie wschodzący i rosnący owoc: jedno trzydziestokrotny, inne sześćdziesięciokrotny, a jeszcze inne stokrotny."
+  tags: []
+"Mk4,9":
+  text: "I mówił im: Kto ma uszy do słuchania, niech słucha."
+  tags: []
+"Mk4,10":
+  text: "A gdy był sam, pytali go ci, którzy przy nim byli z dwunastoma, o tę przypowieść."
+  tags: []
+"Mk4,11":
+  text: "A on im odpowiedział: Wam dano poznać tajemnicę królestwa Bożego. Tym zaś, którzy są na zewnątrz, wszystko podaje się w przypowieściach;"
+  tags: []
+"Mk4,12":
+  text: "Aby patrząc, patrzyli, a nie widzieli i słysząc, słyszeli, a nie zrozumieli, by się czasem nie nawrócili i nie były im przebaczone grzechy."
+  tags: []
+"Mk4,13":
+  text: "I powiedział do nich: Nie rozumiecie tej przypowieści? Jakże więc zrozumiecie wszystkie inne przypowieści?"
+  tags: []
+"Mk4,14":
+  text: "Siewca sieje słowo."
+  tags: []
+"Mk4,15":
+  text: "A ci przy drodze są tymi, którym sieje się słowo, ale gdy usłyszą, zaraz przychodzi szatan i wybiera słowo zasiane w ich sercach."
+  tags: []
+"Mk4,16":
+  text: "Podobnie ci, którzy zostali posiani na miejscach skalistych, są tymi, którzy, gdy usłyszą słowo, natychmiast je z radością przyjmują;"
+  tags: []
+"Mk4,17":
+  text: "Jednak nie mają w sobie korzenia, lecz trwają do czasu. Potem, gdy przychodzi ucisk albo prześladowanie z powodu słowa, zaraz się gorszą."
+  tags: []
+"Mk4,18":
+  text: "A ci, którzy zostali posiani między cierniami, są tymi, którzy słuchają słowa;"
+  tags: []
+"Mk4,19":
+  text: "Lecz troski tego świata, ułuda bogactwa i żądze innych rzeczy wchodzą i zagłuszają słowo, i staje się bezowocne."
+  tags: []
+"Mk4,20":
+  text: "Ci zaś, którzy zostali posiani na dobrej ziemi, są tymi, którzy słuchają słowa, przyjmują je i przynoszą owoc: jedni trzydziestokrotny, inni sześćdziesięciokrotny, a jeszcze inni stokrotny."
+  tags: []
+"Mk4,21":
+  text: "Ponadto mówił im: Czy przynosi się świecę, aby wstawić ją pod naczynie albo pod łóżko? Czy nie po to, aby ją postawić na świeczniku?"
+  tags: []
+"Mk4,22":
+  text: "Nie ma bowiem nic tajemnego, co by nie miało być ujawnione ani nic ukrytego, co by nie miało wyjść na jaw."
+  tags: []
+"Mk4,23":
+  text: "Jeśli ktoś ma uszy do słuchania, niech słucha."
+  tags: []
+"Mk4,24":
+  text: "I powiedział do nich: Uważajcie na to, czego słuchacie. Jaką miarą mierzycie, taką będzie wam odmierzone, a wam, którzy słuchacie, zostanie jeszcze dodane."
+  tags: []
+"Mk4,25":
+  text: "Kto bowiem ma, będzie mu dodane, a kto nie ma, zostanie mu zabrane nawet to, co ma."
+  tags: []
+"Mk4,26":
+  text: "I mówił: Z królestwem Bożym jest tak, jak gdyby człowiek wrzucił ziarno w ziemię."
+  tags: []
+"Mk4,27":
+  text: "Czy śpi, czy wstaje, we dnie i w nocy, ziarno wschodzi i rośnie, a on nie wie jak."
+  tags: []
+"Mk4,28":
+  text: "Bo ziemia sama z siebie wydaje plon, najpierw źdźbło, potem kłos, a potem pełne ziarno w kłosie."
+  tags: []
+"Mk4,29":
+  text: "A gdy plon dojrzeje, on zaraz zapuszcza sierp, bo nadeszło żniwo."
+  tags: []
+"Mk4,30":
+  text: "Powiedział jeszcze: Do czego przyrównamy królestwo Boże albo jaką przypowieścią je wyrazimy?"
+  tags: []
+"Mk4,31":
+  text: "Jest jak ziarno gorczycy, które, gdy zostaje wsiane w ziemię, jest najmniejsze ze wszystkich nasion na ziemi."
+  tags: []
+"Mk4,32":
+  text: "Lecz wsiane wyrasta i staje się większe od wszystkich jarzyn, i wypuszcza wielkie gałęzie, tak że ptaki niebieskie mogą się gnieździć w jego cieniu."
+  tags: []
+"Mk4,33":
+  text: "I w wielu takich przypowieściach mówił im słowo, stosownie do tego, jak mogli słuchać."
+  tags: []
+"Mk4,34":
+  text: "A bez przypowieści nie mówił do nich. Na osobności zaś wykładał wszystko swoim uczniom."
+  tags: []
+"Mk4,35":
+  text: "Tego samego dnia, gdy nastał wieczór, powiedział do nich: Przeprawmy się na drugą stronę."
+  tags: []
+"Mk4,36":
+  text: "A gdy odprawili tłum, wzięli go ze sobą, tak jak był w łodzi. Towarzyszyły mu też inne łódki."
+  tags: []
+"Mk4,37":
+  text: "Wtedy zerwał się gwałtowny wicher i fale uderzały w łódź, tak że już się napełniała."
+  tags: []
+"Mk4,38":
+  text: "A on spał w tyle łodzi na wezgłowiu. Obudzili go więc i mówili do niego: Nauczycielu, nie obchodzi cię, że giniemy?"
+  tags: []
+"Mk4,39":
+  text: "Wówczas wstał, zgromił wiatr i powiedział do morza: Milcz i uspokój się! I ustał wiatr, i nastała wielka cisza."
+  tags: []
+"Mk4,40":
+  text: "Wtedy powiedział do nich: Czemu się tak boicie? Jak to jest, że nie macie wiary?"
+  tags: []
+"Mk4,41":
+  text: "I ogarnął ich wielki strach, i mówili jeden do drugiego: Kim on jest, że nawet wiatr i morze są mu posłuszne?"
+  tags: []

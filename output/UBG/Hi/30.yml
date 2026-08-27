@@ -1,31 +1,93 @@
-"Hi30,1": "Ale teraz śmieją się ze mnie młodsi ode mnie, ci, których ojców nie uznałbym za godnych, by postawić ich z psami swojej trzody."
-"Hi30,2": "Na cóż by mi się przydała siła ich rąk, u których zginęła starość?"
-"Hi30,3": "Byli samotni z powodu niedostatku i głodu i uciekali na pustkowie ciemne, jałowe i spustoszone."
-"Hi30,4": "Zrywają sobie malwę przy krzakach i korzenie jałowcowe na pokarm."
-"Hi30,5": "Wygnano ich spośród ludzi, wołano za nimi jak za złodziejem;"
-"Hi30,6": "Tak że musieli mieszkać w rozpadlinach dolin, w jaskiniach podziemnych i skałach."
-"Hi30,7": "Między krzakami ryczeli, gromadzili się pod pokrzywami."
-"Hi30,8": "To byli synowie ludzi wzgardzonych i synowie ludzi nikczemnych, podlejsi niż proch ziemi."
-"Hi30,9": "Ale teraz jestem tematem ich pieśni, stałem się tematem ich przysłowia."
-"Hi30,10": "Brzydzą się mną i oddalają się ode mnie, nie wstydzą się pluć mi w twarz."
-"Hi30,11": "A ponieważ on rozluźnił mój sznur i upokorzył mnie, oni też rzucili przede mnie wędzidło."
-"Hi30,12": "Po mojej prawicy powstają młodzieńcy, odtrącają moje nogi i torują przeciwko mnie swoje drogi zguby."
-"Hi30,13": "Popsuli moją ścieżkę i przyczynili się do mojej nędzy, a nie mają pomocnika."
-"Hi30,14": "Napadli na mnie niczym przez szeroki wyłom i wśród spustoszenia nacierali na mnie."
-"Hi30,15": "Strach obrócił się przeciwko mnie, ściga moją duszę jak wiatr. Moje szczęście przemija jak chmura."
-"Hi30,16": "A teraz rozpływa się we mnie moja dusza, ogarnęły mnie dni cierpienia;"
-"Hi30,17": "W nocy ból przeszywa moje kości, a moje żyły nie mają odpoczynku."
-"Hi30,18": "Z powodu wielkiego cierpienia zmieniła się moja szata i ściska mnie jak kołnierz mej tuniki."
-"Hi30,19": "Wrzucił mnie w błoto, stałem się podobny do prochu i popiołu."
-"Hi30,20": "Wołam do ciebie, ale nie słuchasz mnie; staję, a na mnie nie patrzysz."
-"Hi30,21": "Stałeś się dla mnie okrutny, sprzeciwiasz mi się swoją mocną ręką."
-"Hi30,22": "Unosisz mnie na wietrze i wsadzasz mnie na niego, a rozwiewasz mój dobytek."
-"Hi30,23": "Wiem bowiem, że wydasz mnie na śmierć i do domu przeznaczonego dla wszystkich żyjących."
-"Hi30,24": "Do grobu jednak nie ściągnie swej ręki, choćby wołali, gdy będzie niszczyć."
-"Hi30,25": "Czy nie płakałem nad strapionym? Czy moja dusza nie smuciła się nad ubogim?"
-"Hi30,26": "Gdy oczekiwałem dobra, oto przyszło zło; a gdy spodziewałem się światła, przyszła ciemność."
-"Hi30,27": "Moje wnętrze zawrzało i nie uspokoiło się; zaskoczyły mnie dni utrapienia."
-"Hi30,28": "Chodzę sczerniały, ale nie od słońca; powstaję i wołam w zgromadzeniu."
-"Hi30,29": "Stałem się bratem smoków, a towarzyszem młodych strusiów."
-"Hi30,30": "Moja skóra poczerniała na mnie i moje kości są spalone od gorączki."
-"Hi30,31": "Moja harfa zamieniła się w lament, a mój flet – w głos płaczących."
+"Hi30,1":
+  text: "Ale teraz śmieją się ze mnie młodsi ode mnie, ci, których ojców nie uznałbym za godnych, by postawić ich z psami swojej trzody."
+  tags: []
+"Hi30,2":
+  text: "Na cóż by mi się przydała siła ich rąk, u których zginęła starość?"
+  tags: []
+"Hi30,3":
+  text: "Byli samotni z powodu niedostatku i głodu i uciekali na pustkowie ciemne, jałowe i spustoszone."
+  tags: []
+"Hi30,4":
+  text: "Zrywają sobie malwę przy krzakach i korzenie jałowcowe na pokarm."
+  tags: []
+"Hi30,5":
+  text: "Wygnano ich spośród ludzi, wołano za nimi jak za złodziejem;"
+  tags: []
+"Hi30,6":
+  text: "Tak że musieli mieszkać w rozpadlinach dolin, w jaskiniach podziemnych i skałach."
+  tags: []
+"Hi30,7":
+  text: "Między krzakami ryczeli, gromadzili się pod pokrzywami."
+  tags: []
+"Hi30,8":
+  text: "To byli synowie ludzi wzgardzonych i synowie ludzi nikczemnych, podlejsi niż proch ziemi."
+  tags: []
+"Hi30,9":
+  text: "Ale teraz jestem tematem ich pieśni, stałem się tematem ich przysłowia."
+  tags: []
+"Hi30,10":
+  text: "Brzydzą się mną i oddalają się ode mnie, nie wstydzą się pluć mi w twarz."
+  tags: []
+"Hi30,11":
+  text: "A ponieważ on rozluźnił mój sznur i upokorzył mnie, oni też rzucili przede mnie wędzidło."
+  tags: []
+"Hi30,12":
+  text: "Po mojej prawicy powstają młodzieńcy, odtrącają moje nogi i torują przeciwko mnie swoje drogi zguby."
+  tags: []
+"Hi30,13":
+  text: "Popsuli moją ścieżkę i przyczynili się do mojej nędzy, a nie mają pomocnika."
+  tags: []
+"Hi30,14":
+  text: "Napadli na mnie niczym przez szeroki wyłom i wśród spustoszenia nacierali na mnie."
+  tags: []
+"Hi30,15":
+  text: "Strach obrócił się przeciwko mnie, ściga moją duszę jak wiatr. Moje szczęście przemija jak chmura."
+  tags: []
+"Hi30,16":
+  text: "A teraz rozpływa się we mnie moja dusza, ogarnęły mnie dni cierpienia;"
+  tags: []
+"Hi30,17":
+  text: "W nocy ból przeszywa moje kości, a moje żyły nie mają odpoczynku."
+  tags: []
+"Hi30,18":
+  text: "Z powodu wielkiego cierpienia zmieniła się moja szata i ściska mnie jak kołnierz mej tuniki."
+  tags: []
+"Hi30,19":
+  text: "Wrzucił mnie w błoto, stałem się podobny do prochu i popiołu."
+  tags: []
+"Hi30,20":
+  text: "Wołam do ciebie, ale nie słuchasz mnie; staję, a na mnie nie patrzysz."
+  tags: []
+"Hi30,21":
+  text: "Stałeś się dla mnie okrutny, sprzeciwiasz mi się swoją mocną ręką."
+  tags: []
+"Hi30,22":
+  text: "Unosisz mnie na wietrze i wsadzasz mnie na niego, a rozwiewasz mój dobytek."
+  tags: []
+"Hi30,23":
+  text: "Wiem bowiem, że wydasz mnie na śmierć i do domu przeznaczonego dla wszystkich żyjących."
+  tags: []
+"Hi30,24":
+  text: "Do grobu jednak nie ściągnie swej ręki, choćby wołali, gdy będzie niszczyć."
+  tags: []
+"Hi30,25":
+  text: "Czy nie płakałem nad strapionym? Czy moja dusza nie smuciła się nad ubogim?"
+  tags: []
+"Hi30,26":
+  text: "Gdy oczekiwałem dobra, oto przyszło zło; a gdy spodziewałem się światła, przyszła ciemność."
+  tags: []
+"Hi30,27":
+  text: "Moje wnętrze zawrzało i nie uspokoiło się; zaskoczyły mnie dni utrapienia."
+  tags: []
+"Hi30,28":
+  text: "Chodzę sczerniały, ale nie od słońca; powstaję i wołam w zgromadzeniu."
+  tags: []
+"Hi30,29":
+  text: "Stałem się bratem smoków, a towarzyszem młodych strusiów."
+  tags: []
+"Hi30,30":
+  text: "Moja skóra poczerniała na mnie i moje kości są spalone od gorączki."
+  tags: []
+"Hi30,31":
+  text: "Moja harfa zamieniła się w lament, a mój flet – w głos płaczących."
+  tags: []

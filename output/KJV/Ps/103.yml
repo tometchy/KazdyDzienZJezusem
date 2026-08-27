@@ -1,22 +1,66 @@
-"Ps103,1": "Bless the LORD, O my soul: and all that is within me, [bless] his holy name."
-"Ps103,2": "Bless the LORD, O my soul, and forget not all his benefits:"
-"Ps103,3": "Who forgiveth all thine iniquities; who healeth all thy diseases;"
-"Ps103,4": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;"
-"Ps103,5": "Who satisfieth thy mouth with good [things; so that] thy youth is renewed like the eagle's."
-"Ps103,6": "The LORD executeth righteousness and judgment for all that are oppressed."
-"Ps103,7": "He made known his ways unto Moses, his acts unto the children of Israel."
-"Ps103,8": "The LORD [is] merciful and gracious, slow to anger, and plenteous in mercy."
-"Ps103,9": "He will not always chide: neither will he keep [his anger] for ever."
-"Ps103,10": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities."
-"Ps103,11": "For as the heaven is high above the earth, [so] great is his mercy toward them that fear him."
-"Ps103,12": "As far as the east is from the west, [so] far hath he removed our transgressions from us."
-"Ps103,13": "Like as a father pitieth [his] children, [so] the LORD pitieth them that fear him."
-"Ps103,14": "For he knoweth our frame; he remembereth that we [are] dust."
-"Ps103,15": "[As for] man, his days [are] as grass: as a flower of the field, so he flourisheth."
-"Ps103,16": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more."
-"Ps103,17": "But the mercy of the LORD [is] from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;"
-"Ps103,18": "To such as keep his covenant, and to those that remember his commandments to do them."
-"Ps103,19": "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all."
-"Ps103,20": "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word."
-"Ps103,21": "Bless ye the LORD, all [ye] his hosts; [ye] ministers of his, that do his pleasure."
-"Ps103,22": "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul."
+"Ps103,1":
+  text: "Bless the LORD, O my soul: and all that is within me, [bless] his holy name."
+  tags: []
+"Ps103,2":
+  text: "Bless the LORD, O my soul, and forget not all his benefits:"
+  tags: []
+"Ps103,3":
+  text: "Who forgiveth all thine iniquities; who healeth all thy diseases;"
+  tags: []
+"Ps103,4":
+  text: "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;"
+  tags: []
+"Ps103,5":
+  text: "Who satisfieth thy mouth with good [things; so that] thy youth is renewed like the eagle's."
+  tags: []
+"Ps103,6":
+  text: "The LORD executeth righteousness and judgment for all that are oppressed."
+  tags: []
+"Ps103,7":
+  text: "He made known his ways unto Moses, his acts unto the children of Israel."
+  tags: []
+"Ps103,8":
+  text: "The LORD [is] merciful and gracious, slow to anger, and plenteous in mercy."
+  tags: []
+"Ps103,9":
+  text: "He will not always chide: neither will he keep [his anger] for ever."
+  tags: []
+"Ps103,10":
+  text: "He hath not dealt with us after our sins; nor rewarded us according to our iniquities."
+  tags: []
+"Ps103,11":
+  text: "For as the heaven is high above the earth, [so] great is his mercy toward them that fear him."
+  tags: []
+"Ps103,12":
+  text: "As far as the east is from the west, [so] far hath he removed our transgressions from us."
+  tags: []
+"Ps103,13":
+  text: "Like as a father pitieth [his] children, [so] the LORD pitieth them that fear him."
+  tags: []
+"Ps103,14":
+  text: "For he knoweth our frame; he remembereth that we [are] dust."
+  tags: []
+"Ps103,15":
+  text: "[As for] man, his days [are] as grass: as a flower of the field, so he flourisheth."
+  tags: []
+"Ps103,16":
+  text: "For the wind passeth over it, and it is gone; and the place thereof shall know it no more."
+  tags: []
+"Ps103,17":
+  text: "But the mercy of the LORD [is] from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;"
+  tags: []
+"Ps103,18":
+  text: "To such as keep his covenant, and to those that remember his commandments to do them."
+  tags: []
+"Ps103,19":
+  text: "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all."
+  tags: []
+"Ps103,20":
+  text: "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word."
+  tags: []
+"Ps103,21":
+  text: "Bless ye the LORD, all [ye] his hosts; [ye] ministers of his, that do his pleasure."
+  tags: []
+"Ps103,22":
+  text: "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul."
+  tags: []

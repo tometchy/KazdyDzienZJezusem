@@ -1,24 +1,72 @@
-"Kpł9,1": "A ósmego dnia Mojżesz wezwał Aarona, jego synów i starszych Izraela."
-"Kpł9,2": "I powiedział do Aarona: Weź sobie młodego cielca na ofiarę za grzech i barana na całopalenie, oba bez skazy, i złóż je w ofierze przed PANEM."
-"Kpł9,3": "A do synów Izraela powiesz: Weźcie kozła z kóz na ofiarę za grzech oraz cielca i barana, jednoroczne i bez skazy, na całopalenie;"
-"Kpł9,4": "Także wołu i barana na ofiary pojednawcze, by złożyć je przed PANEM, i ofiarę pokarmową zmieszaną z oliwą; bo dziś PAN wam się ukaże."
-"Kpł9,5": "I przyprowadzili to, co Mojżesz rozkazał, przed Namiot Zgromadzenia. A cały lud zbliżył się i stanął przed PANEM."
-"Kpł9,6": "Wtedy Mojżesz powiedział: Oto co PAN nakazał wam uczynić; a ukaże się wam chwała PANA."
-"Kpł9,7": "Do Aarona zaś Mojżesz powiedział: Zbliż się do ołtarza i złóż swoją ofiarę za grzech i swoje całopalenie, i dokonaj przebłagania za siebie i lud. Złóż też ofiarę ludu i dokonaj za niego przebłagania, jak PAN rozkazał."
-"Kpł9,8": "Aaron zbliżył się więc do ołtarza i zabił cielca na ofiarę za grzech za siebie."
-"Kpł9,9": "I synowie Aarona podali mu krew, a on umoczył swój palec we krwi i pomazał nią rogi ołtarza, a resztę krwi wylał u podstawy ołtarza;"
-"Kpł9,10": "Ale tłuszcz, nerki i płat tłuszczu na wątrobie z ofiary za grzech spalił na ołtarzu, jak PAN rozkazał Mojżeszowi;"
-"Kpł9,11": "Mięso zaś i skórę spalił w ogniu poza obozem."
-"Kpł9,12": "Zabił też ofiarę całopalną, a synowie Aarona podali mu krew, którą pokropił ołtarz dokoła."
-"Kpł9,13": "Przynieśli mu też ofiarę całopalną podzieloną na części wraz z głową, a on spalił to na ołtarzu;"
-"Kpł9,14": "Obmył też wnętrzności oraz nogi i spalił je z ofiarą całopalną na ołtarzu."
-"Kpł9,15": "Potem przyprowadził ofiarę ludu. Wziął kozła przeznaczonego na ofiarę za grzech za lud, zabił go i złożył na ofiarę za grzech, tak jak poprzednio."
-"Kpł9,16": "Przyprowadził też ofiarę całopalną i uczynił z nią według przepisu."
-"Kpł9,17": "Przyprowadził też ofiarę pokarmową. Wziął z niej pełną garść i spalił na ołtarzu, oprócz ofiary całopalnej porannej."
-"Kpł9,18": "Zabił też wołu i barana jako ofiarę pojednawczą za lud. I synowie Aarona podali mu krew, którą pokropił ołtarz dokoła."
-"Kpł9,19": "Podali mu także tłuszcz z wołu i barana, ogon, tłuszcz pokrywający wnętrzności oraz nerki i płat tłuszczu na wątrobie."
-"Kpł9,20": "Włożyli też tłuszcz na mostkach, a on spalił tłuszcz na ołtarzu;"
-"Kpł9,21": "Mostki zaś i prawą łopatkę Aaron kołysał na ofiarę kołysaną przed PANEM, jak Mojżesz nakazał."
-"Kpł9,22": "Potem Aaron podniósł ręce w stronę ludu i pobłogosławił go, a po złożeniu ofiary za grzech, ofiary całopalnej i ofiary pojednawczej zszedł na dół."
-"Kpł9,23": "Wtedy Mojżesz i Aaron weszli do Namiotu Zgromadzenia, potem wyszli i pobłogosławili lud. I chwała PANA ukazała się całemu ludowi."
-"Kpł9,24": "I wyszedł ogień sprzed PANA, i strawił na ołtarzu ofiarę całopalną oraz tłuszcz. A gdy cały lud to ujrzał, krzyknął z radości i upadł na twarz."
+"Kpł9,1":
+  text: "A ósmego dnia Mojżesz wezwał Aarona, jego synów i starszych Izraela."
+  tags: []
+"Kpł9,2":
+  text: "I powiedział do Aarona: Weź sobie młodego cielca na ofiarę za grzech i barana na całopalenie, oba bez skazy, i złóż je w ofierze przed PANEM."
+  tags: []
+"Kpł9,3":
+  text: "A do synów Izraela powiesz: Weźcie kozła z kóz na ofiarę za grzech oraz cielca i barana, jednoroczne i bez skazy, na całopalenie;"
+  tags: []
+"Kpł9,4":
+  text: "Także wołu i barana na ofiary pojednawcze, by złożyć je przed PANEM, i ofiarę pokarmową zmieszaną z oliwą; bo dziś PAN wam się ukaże."
+  tags: []
+"Kpł9,5":
+  text: "I przyprowadzili to, co Mojżesz rozkazał, przed Namiot Zgromadzenia. A cały lud zbliżył się i stanął przed PANEM."
+  tags: []
+"Kpł9,6":
+  text: "Wtedy Mojżesz powiedział: Oto co PAN nakazał wam uczynić; a ukaże się wam chwała PANA."
+  tags: []
+"Kpł9,7":
+  text: "Do Aarona zaś Mojżesz powiedział: Zbliż się do ołtarza i złóż swoją ofiarę za grzech i swoje całopalenie, i dokonaj przebłagania za siebie i lud. Złóż też ofiarę ludu i dokonaj za niego przebłagania, jak PAN rozkazał."
+  tags: []
+"Kpł9,8":
+  text: "Aaron zbliżył się więc do ołtarza i zabił cielca na ofiarę za grzech za siebie."
+  tags: []
+"Kpł9,9":
+  text: "I synowie Aarona podali mu krew, a on umoczył swój palec we krwi i pomazał nią rogi ołtarza, a resztę krwi wylał u podstawy ołtarza;"
+  tags: []
+"Kpł9,10":
+  text: "Ale tłuszcz, nerki i płat tłuszczu na wątrobie z ofiary za grzech spalił na ołtarzu, jak PAN rozkazał Mojżeszowi;"
+  tags: []
+"Kpł9,11":
+  text: "Mięso zaś i skórę spalił w ogniu poza obozem."
+  tags: []
+"Kpł9,12":
+  text: "Zabił też ofiarę całopalną, a synowie Aarona podali mu krew, którą pokropił ołtarz dokoła."
+  tags: []
+"Kpł9,13":
+  text: "Przynieśli mu też ofiarę całopalną podzieloną na części wraz z głową, a on spalił to na ołtarzu;"
+  tags: []
+"Kpł9,14":
+  text: "Obmył też wnętrzności oraz nogi i spalił je z ofiarą całopalną na ołtarzu."
+  tags: []
+"Kpł9,15":
+  text: "Potem przyprowadził ofiarę ludu. Wziął kozła przeznaczonego na ofiarę za grzech za lud, zabił go i złożył na ofiarę za grzech, tak jak poprzednio."
+  tags: []
+"Kpł9,16":
+  text: "Przyprowadził też ofiarę całopalną i uczynił z nią według przepisu."
+  tags: []
+"Kpł9,17":
+  text: "Przyprowadził też ofiarę pokarmową. Wziął z niej pełną garść i spalił na ołtarzu, oprócz ofiary całopalnej porannej."
+  tags: []
+"Kpł9,18":
+  text: "Zabił też wołu i barana jako ofiarę pojednawczą za lud. I synowie Aarona podali mu krew, którą pokropił ołtarz dokoła."
+  tags: []
+"Kpł9,19":
+  text: "Podali mu także tłuszcz z wołu i barana, ogon, tłuszcz pokrywający wnętrzności oraz nerki i płat tłuszczu na wątrobie."
+  tags: []
+"Kpł9,20":
+  text: "Włożyli też tłuszcz na mostkach, a on spalił tłuszcz na ołtarzu;"
+  tags: []
+"Kpł9,21":
+  text: "Mostki zaś i prawą łopatkę Aaron kołysał na ofiarę kołysaną przed PANEM, jak Mojżesz nakazał."
+  tags: []
+"Kpł9,22":
+  text: "Potem Aaron podniósł ręce w stronę ludu i pobłogosławił go, a po złożeniu ofiary za grzech, ofiary całopalnej i ofiary pojednawczej zszedł na dół."
+  tags: []
+"Kpł9,23":
+  text: "Wtedy Mojżesz i Aaron weszli do Namiotu Zgromadzenia, potem wyszli i pobłogosławili lud. I chwała PANA ukazała się całemu ludowi."
+  tags: []
+"Kpł9,24":
+  text: "I wyszedł ogień sprzed PANA, i strawił na ołtarzu ofiarę całopalną oraz tłuszcz. A gdy cały lud to ujrzał, krzyknął z radości i upadł na twarz."
+  tags: []

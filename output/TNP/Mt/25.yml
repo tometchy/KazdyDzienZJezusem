@@ -1,46 +1,138 @@
-"Mt25,1": "Wtedy podobne będzie Królestwo Niebios do dziesięciu dziewic, które wzięły swoje lampy i wyszły na spotkanie oblubieńca."
-"Mt25,2": "A pięć z nich było roztropnych, a pięć głupich."
-"Mt25,3": "Te głupie wzięły swoje lampy, lecz nie wzięły ze sobą oliwy."
-"Mt25,4": "Lecz mądre wzięły oliwę w swoje naczynia wraz ze swoimi lampami."
-"Mt25,5": "A gdy oblubieniec zwlekał, zdrzemnęły się wszystkie i spały."
-"Mt25,6": "A w środku nocy rozległ się krzyk: Oto oblubieniec przychodzi; wychodźcie na jego spotkanie!"
-"Mt25,7": "Wtedy obudziły się wszystkie owe dziewice i uporządkowały swoje lampy."
-"Mt25,8": "A głupie powiedziały do mądrych: Dajcie nam z waszej oliwy, bo lampy nasze gasną."
-"Mt25,9": "A mądre odpowiedziały, mówiąc: Jeszcze by nam i wam nie wystarczyło; idźcie raczej do sprzedających i kupcie sobie."
-"Mt25,10": "A gdy odeszły kupować, przyszedł oblubieniec i te, które były gotowe, weszły z nim na uroczystości weselne; i drzwi zostały zamknięte."
-"Mt25,11": "Lecz później przyszły i pozostałe dziewice, mówiąc: Panie, Panie, otwórz nam!"
-"Mt25,12": "A on w odpowiedzi, rzekł: Zaprawdę mówię wam, nie znam was."
-"Mt25,13": "Czuwajcie więc; bo nie znacie dnia ani godziny, o której przyjdzie Syn Człowieczy."
-"Mt25,14": "Podobnie bowiem pewien człowiek odjeżdżając za granicę, przywołał swoje sługi i przekazał im swój dobytek;"
-"Mt25,15": "I temu wprawdzie dał pięć talentów, a temu dwa, a temu jeden, każdemu według jego możliwości, i zaraz odjechał."
-"Mt25,16": "A poszedł ten, który wziął pięć talentów, obracał nimi i uzyskał drugie pięć talentów."
-"Mt25,17": "Tak samo i ten, który wziął dwa, i on uzyskał drugie dwa."
-"Mt25,18": "A ten, który wziął jeden, odszedł, rozkopał ziemię i schował srebro swojego pana."
-"Mt25,19": "A po długim czasie przyszedł pan owych sług i rozlicza z nimi zapis rozrachunków."
-"Mt25,20": "I przystąpił ten, który wziął pięć talentów, i przyniósł dalsze pięć talentów, mówiąc: Panie! Przekazałeś mi pięć talentów, oto drugie pięć talentów zyskałem nimi."
-"Mt25,21": "A pan jego powiedział mu: Dobrze, sługo dobry i wierny! W małych byłeś wierny, ustanowię cię nad wieloma; wejdź do radości swojego pana."
-"Mt25,22": "Przystąpił także i ten, który wziął dwa talenty, i powiedział: Panie! Powierzyłeś mi dwa talenty, oto drugie dwa talenty zyskałem nimi."
-"Mt25,23": "Powiedział mu pan jego: Dobrze, sługo dobry i wierny! W małych byłeś wierny, ustanowię cię nad wieloma; wejdź do radości swojego pana."
-"Mt25,24": "A przystąpił i ten, który wziął jeden talent, i powiedział: Panie! Poznałem cię, że jesteś człowiekiem twardym, że żniesz, gdzie nie siałeś, i zbierasz, gdzie nie rozsypałeś;"
-"Mt25,25": "Bojąc się więc, odszedłem i ukryłem twój talent w ziemi; oto masz to, co jest twoje."
-"Mt25,26": "A w odpowiedzi, pan jego rzekł do niego: Sługo zły i gnuśny! Wiedziałeś, że żnę, gdzie nie siałem, i zbieram, gdzie nie rozsypywałem;"
-"Mt25,27": "Trzeba było więc złożyć moje srebro u bankierów, a ja po przyjściu, odebrałbym to, co jest moje z zyskiem."
-"Mt25,28": "Dlatego zabierzcie od niego ten talent i dajcie temu, który ma dziesięć talentów."
-"Mt25,29": "Każdemu bowiem, kto ma, będzie dane i będzie obfitować; a temu, kto nie ma, i to, co ma, zostanie mu zabrane."
-"Mt25,30": "A tego bezużytecznego sługę wyrzućcie w ciemność zewnętrzną; tam będzie płacz i zgrzytanie zębów."
-"Mt25,31": "A gdy przyjdzie Syn Człowieczy w swojej chwale, i z Nim wszyscy święci aniołowie, wtedy usiądzie na tronie swojej chwały."
-"Mt25,32": "I zostaną zebrane przed Nim wszystkie narody, i oddzieli ich, jednych od drugich, jak pasterz oddziela owce od kozłów."
-"Mt25,33": "I postawi owce po swojej prawej stronie, a kozły po lewej stronie."
-"Mt25,34": "Wtedy powie Król tym, po Jego prawej stronie: Pójdźcie, błogosławieni Ojca mojego! Odziedziczcie Królestwo przygotowane wam od założenia świata."
-"Mt25,35": "Gdyż byłem głodny, a daliście mi jeść; pragnąłem, a daliście mi pić; byłem obcym przybyszem, a przyjęliście mnie;"
-"Mt25,36": "Byłem nagi, a przyodzialiście mnie; byłem chorym, a odwiedziliście mnie; byłem w więzieniu, a przyszliście do mnie."
-"Mt25,37": "Wtedy odpowiedzą Mu sprawiedliwi, mówiąc: Panie! Kiedy widzieliśmy Cię głodnym i daliśmy Ci jeść? Albo pragnącym i daliśmy Ci pić?"
-"Mt25,38": "I kiedy widzieliśmy Cię obcym przybyszem, i przyjęliśmy Cię, lub nagim, i przyodzialiśmy Cię?"
-"Mt25,39": "I kiedy widzieliśmy Cię chorym, albo w więzieniu, i przyszliśmy do Ciebie?"
-"Mt25,40": "A w odpowiedzi, Król powie im: Zaprawdę mówię wam, cokolwiek uczyniliście jednemu z tych najmniejszych moich braci, mnie uczyniliście."
-"Mt25,41": "Potem powie i tym, którzy są po lewej stronie: Idźcie ode mnie, przeklęci w ogień wieczny, który jest przygotowany diabłu i jego aniołom."
-"Mt25,42": "Albowiem byłem głodny, a nie daliście mi jeść; pragnąłem, a nie daliście mi pić;"
-"Mt25,43": "Byłem obcym przybyszem, a nie przyjęliście mnie; byłem nagi, a nie przyodzialiście mnie; byłem chorym i w więzieniu, a nie odwiedziliście mnie."
-"Mt25,44": "Wtedy i oni Mu odpowiedzą, mówiąc: Panie! Kiedy widzieliśmy Cię głodnym albo pragnącym, albo obcym przybyszem, albo nagim, albo chorym, albo w więzieniu, i nie usłużyliśmy Ci?"
-"Mt25,45": "Wtedy odpowie im, mówiąc: Zaprawdę mówię wam, czegokolwiek nie uczyniliście jednemu z tych najmniejszych, i mnie nie uczyniliście."
-"Mt25,46": "I pójdą ci na karę wieczną; natomiast sprawiedliwi do życia wiecznego."
+"Mt25,1":
+  text: "Wtedy podobne będzie Królestwo Niebios do dziesięciu dziewic, które wzięły swoje lampy i wyszły na spotkanie oblubieńca."
+  tags: []
+"Mt25,2":
+  text: "A pięć z nich było roztropnych, a pięć głupich."
+  tags: []
+"Mt25,3":
+  text: "Te głupie wzięły swoje lampy, lecz nie wzięły ze sobą oliwy."
+  tags: []
+"Mt25,4":
+  text: "Lecz mądre wzięły oliwę w swoje naczynia wraz ze swoimi lampami."
+  tags: []
+"Mt25,5":
+  text: "A gdy oblubieniec zwlekał, zdrzemnęły się wszystkie i spały."
+  tags: []
+"Mt25,6":
+  text: "A w środku nocy rozległ się krzyk: Oto oblubieniec przychodzi; wychodźcie na jego spotkanie!"
+  tags: []
+"Mt25,7":
+  text: "Wtedy obudziły się wszystkie owe dziewice i uporządkowały swoje lampy."
+  tags: []
+"Mt25,8":
+  text: "A głupie powiedziały do mądrych: Dajcie nam z waszej oliwy, bo lampy nasze gasną."
+  tags: []
+"Mt25,9":
+  text: "A mądre odpowiedziały, mówiąc: Jeszcze by nam i wam nie wystarczyło; idźcie raczej do sprzedających i kupcie sobie."
+  tags: []
+"Mt25,10":
+  text: "A gdy odeszły kupować, przyszedł oblubieniec i te, które były gotowe, weszły z nim na uroczystości weselne; i drzwi zostały zamknięte."
+  tags: []
+"Mt25,11":
+  text: "Lecz później przyszły i pozostałe dziewice, mówiąc: Panie, Panie, otwórz nam!"
+  tags: []
+"Mt25,12":
+  text: "A on w odpowiedzi, rzekł: Zaprawdę mówię wam, nie znam was."
+  tags: []
+"Mt25,13":
+  text: "Czuwajcie więc; bo nie znacie dnia ani godziny, o której przyjdzie Syn Człowieczy."
+  tags: []
+"Mt25,14":
+  text: "Podobnie bowiem pewien człowiek odjeżdżając za granicę, przywołał swoje sługi i przekazał im swój dobytek;"
+  tags: []
+"Mt25,15":
+  text: "I temu wprawdzie dał pięć talentów, a temu dwa, a temu jeden, każdemu według jego możliwości, i zaraz odjechał."
+  tags: []
+"Mt25,16":
+  text: "A poszedł ten, który wziął pięć talentów, obracał nimi i uzyskał drugie pięć talentów."
+  tags: []
+"Mt25,17":
+  text: "Tak samo i ten, który wziął dwa, i on uzyskał drugie dwa."
+  tags: []
+"Mt25,18":
+  text: "A ten, który wziął jeden, odszedł, rozkopał ziemię i schował srebro swojego pana."
+  tags: []
+"Mt25,19":
+  text: "A po długim czasie przyszedł pan owych sług i rozlicza z nimi zapis rozrachunków."
+  tags: []
+"Mt25,20":
+  text: "I przystąpił ten, który wziął pięć talentów, i przyniósł dalsze pięć talentów, mówiąc: Panie! Przekazałeś mi pięć talentów, oto drugie pięć talentów zyskałem nimi."
+  tags: []
+"Mt25,21":
+  text: "A pan jego powiedział mu: Dobrze, sługo dobry i wierny! W małych byłeś wierny, ustanowię cię nad wieloma; wejdź do radości swojego pana."
+  tags: []
+"Mt25,22":
+  text: "Przystąpił także i ten, który wziął dwa talenty, i powiedział: Panie! Powierzyłeś mi dwa talenty, oto drugie dwa talenty zyskałem nimi."
+  tags: []
+"Mt25,23":
+  text: "Powiedział mu pan jego: Dobrze, sługo dobry i wierny! W małych byłeś wierny, ustanowię cię nad wieloma; wejdź do radości swojego pana."
+  tags: []
+"Mt25,24":
+  text: "A przystąpił i ten, który wziął jeden talent, i powiedział: Panie! Poznałem cię, że jesteś człowiekiem twardym, że żniesz, gdzie nie siałeś, i zbierasz, gdzie nie rozsypałeś;"
+  tags: []
+"Mt25,25":
+  text: "Bojąc się więc, odszedłem i ukryłem twój talent w ziemi; oto masz to, co jest twoje."
+  tags: []
+"Mt25,26":
+  text: "A w odpowiedzi, pan jego rzekł do niego: Sługo zły i gnuśny! Wiedziałeś, że żnę, gdzie nie siałem, i zbieram, gdzie nie rozsypywałem;"
+  tags: []
+"Mt25,27":
+  text: "Trzeba było więc złożyć moje srebro u bankierów, a ja po przyjściu, odebrałbym to, co jest moje z zyskiem."
+  tags: []
+"Mt25,28":
+  text: "Dlatego zabierzcie od niego ten talent i dajcie temu, który ma dziesięć talentów."
+  tags: []
+"Mt25,29":
+  text: "Każdemu bowiem, kto ma, będzie dane i będzie obfitować; a temu, kto nie ma, i to, co ma, zostanie mu zabrane."
+  tags: []
+"Mt25,30":
+  text: "A tego bezużytecznego sługę wyrzućcie w ciemność zewnętrzną; tam będzie płacz i zgrzytanie zębów."
+  tags: []
+"Mt25,31":
+  text: "A gdy przyjdzie Syn Człowieczy w swojej chwale, i z Nim wszyscy święci aniołowie, wtedy usiądzie na tronie swojej chwały."
+  tags: []
+"Mt25,32":
+  text: "I zostaną zebrane przed Nim wszystkie narody, i oddzieli ich, jednych od drugich, jak pasterz oddziela owce od kozłów."
+  tags: []
+"Mt25,33":
+  text: "I postawi owce po swojej prawej stronie, a kozły po lewej stronie."
+  tags: []
+"Mt25,34":
+  text: "Wtedy powie Król tym, po Jego prawej stronie: Pójdźcie, błogosławieni Ojca mojego! Odziedziczcie Królestwo przygotowane wam od założenia świata."
+  tags: []
+"Mt25,35":
+  text: "Gdyż byłem głodny, a daliście mi jeść; pragnąłem, a daliście mi pić; byłem obcym przybyszem, a przyjęliście mnie;"
+  tags: []
+"Mt25,36":
+  text: "Byłem nagi, a przyodzialiście mnie; byłem chorym, a odwiedziliście mnie; byłem w więzieniu, a przyszliście do mnie."
+  tags: []
+"Mt25,37":
+  text: "Wtedy odpowiedzą Mu sprawiedliwi, mówiąc: Panie! Kiedy widzieliśmy Cię głodnym i daliśmy Ci jeść? Albo pragnącym i daliśmy Ci pić?"
+  tags: []
+"Mt25,38":
+  text: "I kiedy widzieliśmy Cię obcym przybyszem, i przyjęliśmy Cię, lub nagim, i przyodzialiśmy Cię?"
+  tags: []
+"Mt25,39":
+  text: "I kiedy widzieliśmy Cię chorym, albo w więzieniu, i przyszliśmy do Ciebie?"
+  tags: []
+"Mt25,40":
+  text: "A w odpowiedzi, Król powie im: Zaprawdę mówię wam, cokolwiek uczyniliście jednemu z tych najmniejszych moich braci, mnie uczyniliście."
+  tags: []
+"Mt25,41":
+  text: "Potem powie i tym, którzy są po lewej stronie: Idźcie ode mnie, przeklęci w ogień wieczny, który jest przygotowany diabłu i jego aniołom."
+  tags: []
+"Mt25,42":
+  text: "Albowiem byłem głodny, a nie daliście mi jeść; pragnąłem, a nie daliście mi pić;"
+  tags: []
+"Mt25,43":
+  text: "Byłem obcym przybyszem, a nie przyjęliście mnie; byłem nagi, a nie przyodzialiście mnie; byłem chorym i w więzieniu, a nie odwiedziliście mnie."
+  tags: []
+"Mt25,44":
+  text: "Wtedy i oni Mu odpowiedzą, mówiąc: Panie! Kiedy widzieliśmy Cię głodnym albo pragnącym, albo obcym przybyszem, albo nagim, albo chorym, albo w więzieniu, i nie usłużyliśmy Ci?"
+  tags: []
+"Mt25,45":
+  text: "Wtedy odpowie im, mówiąc: Zaprawdę mówię wam, czegokolwiek nie uczyniliście jednemu z tych najmniejszych, i mnie nie uczyniliście."
+  tags: []
+"Mt25,46":
+  text: "I pójdą ci na karę wieczną; natomiast sprawiedliwi do życia wiecznego."
+  tags: []

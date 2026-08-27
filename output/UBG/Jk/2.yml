@@ -1,26 +1,78 @@
-"Jk2,1": "Bracia moi, niech wiara naszego Pana Jezusa Chrystusa, Pana chwały, będzie wolna od względu na osobę."
-"Jk2,2": "Gdyby bowiem na wasze zgromadzenie przyszedł człowiek ze złotym pierścieniem i we wspaniałej szacie i przyszedłby też ubogi w nędznym stroju;"
-"Jk2,3": "A wy zwrócicie oczy na tego, który ma wspaniałą szatę i powiecie: Ty usiądź tu w zaszczytnym miejscu, do ubogiego zaś powiecie: Ty stań tam lub usiądź tu u mego podnóżka;"
-"Jk2,4": "To czy nie czynicie różnicy między sobą i nie stajecie się sędziami o przewrotnych myślach?"
-"Jk2,5": "Posłuchajcie, moi umiłowani bracia: Czyż Bóg nie wybrał ubogich tego świata, aby byli bogatymi w wierze i dziedzicami królestwa, które obiecał tym, którzy go miłują?"
-"Jk2,6": "Lecz wy wzgardziliście ubogim. Czyż to nie bogaci was uciskają i nie oni ciągną was do sądów?"
-"Jk2,7": "Czyż nie oni bluźnią zaszczytnemu imieniu, od którego jesteście nazwani?"
-"Jk2,8": "A jeśli wypełniacie królewskie prawo zgodnie z Pismem: Będziesz miłował swego bliźniego jak samego siebie, dobrze czynicie."
-"Jk2,9": "Lecz jeśli macie wzgląd na osobę, popełniacie grzech i jesteście osądzeni przez prawo jako przestępcy."
-"Jk2,10": "Kto bowiem przestrzega całego prawa, a przekroczy jedno przykazanie, staje się winnym wszystkich."
-"Jk2,11": "Bo ten, który powiedział: Nie będziesz cudzołożył, powiedział też: Nie będziesz zabijał. Jeżeli więc nie cudzołożysz, ale zabijasz, jesteś przestępcą prawa."
-"Jk2,12": "Tak mówcie i tak czyńcie, jak ci, którzy mają być sądzeni przez prawo wolności."
-"Jk2,13": "Sąd bowiem bez miłosierdzia odbędzie się nad tym, który nie czynił miłosierdzia, a miłosierdzie chlubi się przeciwko sądowi."
-"Jk2,14": "Jaki z tego pożytek, moi bracia, jeśli ktoś mówi, że ma wiarę, a nie ma uczynków? Czy wiara może go zbawić?"
-"Jk2,15": "Gdyby brat albo siostra nie mieli się w co ubrać i brakowałoby im codziennego pożywienia;"
-"Jk2,16": "A ktoś z was powiedziałby im: Idźcie w pokoju, ogrzejcie się i najedzcie, a nie dalibyście im tego, czego potrzebuje ciało, jaki z tego pożytek?"
-"Jk2,17": "Tak i wiara, jeśli nie ma uczynków, martwa jest sama w sobie."
-"Jk2,18": "Lecz ktoś może powiedzieć: Ty masz wiarę, a ja mam uczynki; pokaż mi swoją wiarę bez twoich uczynków, a ja ci pokażę swoją wiarę z moich uczynków."
-"Jk2,19": "Ty wierzysz, że jest jeden Bóg, i dobrze czynisz. Demony także wierzą i drżą."
-"Jk2,20": "Czy chcesz się przekonać, marny człowieku, że wiara bez uczynków jest martwa?"
-"Jk2,21": "Czy Abraham, nasz ojciec, nie został usprawiedliwiony z uczynków, gdy ofiarował Izaaka, swego syna, na ołtarzu?"
-"Jk2,22": "Widzisz, że wiara współdziałała z jego uczynkami i przez uczynki wiara stała się doskonała."
-"Jk2,23": "I tak wypełniło się Pismo, które mówi: Uwierzył Abraham Bogu i poczytano mu to za sprawiedliwość, i został nazwany przyjacielem Boga."
-"Jk2,24": "Widzicie więc, że człowiek zostaje usprawiedliwiony z uczynków, a nie tylko z wiary."
-"Jk2,25": "Podobnie i nierządnica Rachab, czy nie z uczynków została usprawiedliwiona, gdy przyjęła wysłanników i wypuściła ich inną drogą?"
-"Jk2,26": "Jak bowiem ciało bez ducha jest martwe, tak i wiara bez uczynków jest martwa."
+"Jk2,1":
+  text: "Bracia moi, niech wiara naszego Pana Jezusa Chrystusa, Pana chwały, będzie wolna od względu na osobę."
+  tags: []
+"Jk2,2":
+  text: "Gdyby bowiem na wasze zgromadzenie przyszedł człowiek ze złotym pierścieniem i we wspaniałej szacie i przyszedłby też ubogi w nędznym stroju;"
+  tags: []
+"Jk2,3":
+  text: "A wy zwrócicie oczy na tego, który ma wspaniałą szatę i powiecie: Ty usiądź tu w zaszczytnym miejscu, do ubogiego zaś powiecie: Ty stań tam lub usiądź tu u mego podnóżka;"
+  tags: []
+"Jk2,4":
+  text: "To czy nie czynicie różnicy między sobą i nie stajecie się sędziami o przewrotnych myślach?"
+  tags: []
+"Jk2,5":
+  text: "Posłuchajcie, moi umiłowani bracia: Czyż Bóg nie wybrał ubogich tego świata, aby byli bogatymi w wierze i dziedzicami królestwa, które obiecał tym, którzy go miłują?"
+  tags: []
+"Jk2,6":
+  text: "Lecz wy wzgardziliście ubogim. Czyż to nie bogaci was uciskają i nie oni ciągną was do sądów?"
+  tags: []
+"Jk2,7":
+  text: "Czyż nie oni bluźnią zaszczytnemu imieniu, od którego jesteście nazwani?"
+  tags: []
+"Jk2,8":
+  text: "A jeśli wypełniacie królewskie prawo zgodnie z Pismem: Będziesz miłował swego bliźniego jak samego siebie, dobrze czynicie."
+  tags: []
+"Jk2,9":
+  text: "Lecz jeśli macie wzgląd na osobę, popełniacie grzech i jesteście osądzeni przez prawo jako przestępcy."
+  tags: []
+"Jk2,10":
+  text: "Kto bowiem przestrzega całego prawa, a przekroczy jedno przykazanie, staje się winnym wszystkich."
+  tags: []
+"Jk2,11":
+  text: "Bo ten, który powiedział: Nie będziesz cudzołożył, powiedział też: Nie będziesz zabijał. Jeżeli więc nie cudzołożysz, ale zabijasz, jesteś przestępcą prawa."
+  tags: []
+"Jk2,12":
+  text: "Tak mówcie i tak czyńcie, jak ci, którzy mają być sądzeni przez prawo wolności."
+  tags: []
+"Jk2,13":
+  text: "Sąd bowiem bez miłosierdzia odbędzie się nad tym, który nie czynił miłosierdzia, a miłosierdzie chlubi się przeciwko sądowi."
+  tags: []
+"Jk2,14":
+  text: "Jaki z tego pożytek, moi bracia, jeśli ktoś mówi, że ma wiarę, a nie ma uczynków? Czy wiara może go zbawić?"
+  tags: []
+"Jk2,15":
+  text: "Gdyby brat albo siostra nie mieli się w co ubrać i brakowałoby im codziennego pożywienia;"
+  tags: []
+"Jk2,16":
+  text: "A ktoś z was powiedziałby im: Idźcie w pokoju, ogrzejcie się i najedzcie, a nie dalibyście im tego, czego potrzebuje ciało, jaki z tego pożytek?"
+  tags: []
+"Jk2,17":
+  text: "Tak i wiara, jeśli nie ma uczynków, martwa jest sama w sobie."
+  tags: []
+"Jk2,18":
+  text: "Lecz ktoś może powiedzieć: Ty masz wiarę, a ja mam uczynki; pokaż mi swoją wiarę bez twoich uczynków, a ja ci pokażę swoją wiarę z moich uczynków."
+  tags: []
+"Jk2,19":
+  text: "Ty wierzysz, że jest jeden Bóg, i dobrze czynisz. Demony także wierzą i drżą."
+  tags: []
+"Jk2,20":
+  text: "Czy chcesz się przekonać, marny człowieku, że wiara bez uczynków jest martwa?"
+  tags: []
+"Jk2,21":
+  text: "Czy Abraham, nasz ojciec, nie został usprawiedliwiony z uczynków, gdy ofiarował Izaaka, swego syna, na ołtarzu?"
+  tags: []
+"Jk2,22":
+  text: "Widzisz, że wiara współdziałała z jego uczynkami i przez uczynki wiara stała się doskonała."
+  tags: []
+"Jk2,23":
+  text: "I tak wypełniło się Pismo, które mówi: Uwierzył Abraham Bogu i poczytano mu to za sprawiedliwość, i został nazwany przyjacielem Boga."
+  tags: []
+"Jk2,24":
+  text: "Widzicie więc, że człowiek zostaje usprawiedliwiony z uczynków, a nie tylko z wiary."
+  tags: []
+"Jk2,25":
+  text: "Podobnie i nierządnica Rachab, czy nie z uczynków została usprawiedliwiona, gdy przyjęła wysłanników i wypuściła ich inną drogą?"
+  tags: []
+"Jk2,26":
+  text: "Jak bowiem ciało bez ducha jest martwe, tak i wiara bez uczynków jest martwa."
+  tags: []

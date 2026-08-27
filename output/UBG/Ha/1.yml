@@ -1,17 +1,51 @@
-"Ha1,1": "Brzemię, które widział prorok Habakuk."
-"Ha1,2": "PANIE, jak długo będę wołać, a nie będziesz wysłuchiwał? Jak długo będę krzyczeć do ciebie o krzywdzie, a nie będziesz wybawiał?"
-"Ha1,3": "Czemu dopuszczasz, abym patrzył na nieprawość i widział bezprawie? Zguba i przemoc są przede mną i znajduje się ten, który roznieca spory i niezgodę."
-"Ha1,4": "Dlatego prawo jest naruszone, a nie ma już sprawiedliwości. Niegodziwy bowiem osacza sprawiedliwego, dlatego wydawane są błędne wyroki."
-"Ha1,5": "Spójrzcie na narody, zobaczcie i zdumiejcie się bardzo, gdyż dokonuję dzieła za waszych dni, w które nie uwierzycie, gdy wam o nim opowiedzą."
-"Ha1,6": "Oto bowiem wzbudzę Chaldejczyków, naród srogi i gwałtowny; przejdą przez szerokość ziemi, aby posiąść cudze miejsca zamieszkania."
-"Ha1,7": "Straszni są i groźni. Sami ustalają swój sąd i swoją wielkość."
-"Ha1,8": "Ich konie są szybsze niż lamparty, dziksze niż wilki o zmierzchu. Ich jeźdźcy rozciągną się szeroko, ich jeźdźcy przybędą z daleka, przylecą jak orzeł spieszący się na żer."
-"Ha1,9": "Każdy z nich przybędzie dla łupu. Ich twarze będą zwrócone na wschód i zgromadzą jeńców jak piasek."
-"Ha1,10": "Będą szydzić z królów, a książęta będą u nich przedmiotem pogardy. Z każdej twierdzy będą się naśmiewać, usypią wały i zdobędą ją."
-"Ha1,11": "Wtedy jego duch się odmieni, a wystąpi i zawini, myśląc, że jego moc pochodzi od jego boga."
-"Ha1,12": "Czy ty nie jesteś od wieków, PANIE, mój Boże, mój Święty? My nie umrzemy. PANIE, postawiłeś ich na sąd. Ty, nasza Skało, przeznaczyłeś ich na karanie."
-"Ha1,13": "Twoje oczy są tak czyste, że nie możesz patrzeć na zło ani widzieć bezprawia. Czemu patrzysz na czyniących przewrotność? Czemu milczysz, gdy niegodziwy pożera sprawiedliwszego niż on sam?"
-"Ha1,14": "Czemu czynisz ludzi jak ryby morskie, jak zwierzęta pełzające, które nie mają pana?"
-"Ha1,15": "Wyciąga wszystkie wędką, zagarnia je swoim niewodem i gromadzi je w swojej sieci. Dlatego cieszy się i raduje."
-"Ha1,16": "Dlatego składa ofiarę swemu niewodowi i pali kadzidło swojej sieci. Przez nie bowiem jego dział jest obfity i jego pożywienie bogatsze."
-"Ha1,17": "Czy dlatego będzie zarzucać swoją sieć, by nieustannie zabijać narody bez litości?"
+"Ha1,1":
+  text: "Brzemię, które widział prorok Habakuk."
+  tags: []
+"Ha1,2":
+  text: "PANIE, jak długo będę wołać, a nie będziesz wysłuchiwał? Jak długo będę krzyczeć do ciebie o krzywdzie, a nie będziesz wybawiał?"
+  tags: []
+"Ha1,3":
+  text: "Czemu dopuszczasz, abym patrzył na nieprawość i widział bezprawie? Zguba i przemoc są przede mną i znajduje się ten, który roznieca spory i niezgodę."
+  tags: []
+"Ha1,4":
+  text: "Dlatego prawo jest naruszone, a nie ma już sprawiedliwości. Niegodziwy bowiem osacza sprawiedliwego, dlatego wydawane są błędne wyroki."
+  tags: []
+"Ha1,5":
+  text: "Spójrzcie na narody, zobaczcie i zdumiejcie się bardzo, gdyż dokonuję dzieła za waszych dni, w które nie uwierzycie, gdy wam o nim opowiedzą."
+  tags: []
+"Ha1,6":
+  text: "Oto bowiem wzbudzę Chaldejczyków, naród srogi i gwałtowny; przejdą przez szerokość ziemi, aby posiąść cudze miejsca zamieszkania."
+  tags: []
+"Ha1,7":
+  text: "Straszni są i groźni. Sami ustalają swój sąd i swoją wielkość."
+  tags: []
+"Ha1,8":
+  text: "Ich konie są szybsze niż lamparty, dziksze niż wilki o zmierzchu. Ich jeźdźcy rozciągną się szeroko, ich jeźdźcy przybędą z daleka, przylecą jak orzeł spieszący się na żer."
+  tags: []
+"Ha1,9":
+  text: "Każdy z nich przybędzie dla łupu. Ich twarze będą zwrócone na wschód i zgromadzą jeńców jak piasek."
+  tags: []
+"Ha1,10":
+  text: "Będą szydzić z królów, a książęta będą u nich przedmiotem pogardy. Z każdej twierdzy będą się naśmiewać, usypią wały i zdobędą ją."
+  tags: []
+"Ha1,11":
+  text: "Wtedy jego duch się odmieni, a wystąpi i zawini, myśląc, że jego moc pochodzi od jego boga."
+  tags: []
+"Ha1,12":
+  text: "Czy ty nie jesteś od wieków, PANIE, mój Boże, mój Święty? My nie umrzemy. PANIE, postawiłeś ich na sąd. Ty, nasza Skało, przeznaczyłeś ich na karanie."
+  tags: []
+"Ha1,13":
+  text: "Twoje oczy są tak czyste, że nie możesz patrzeć na zło ani widzieć bezprawia. Czemu patrzysz na czyniących przewrotność? Czemu milczysz, gdy niegodziwy pożera sprawiedliwszego niż on sam?"
+  tags: []
+"Ha1,14":
+  text: "Czemu czynisz ludzi jak ryby morskie, jak zwierzęta pełzające, które nie mają pana?"
+  tags: []
+"Ha1,15":
+  text: "Wyciąga wszystkie wędką, zagarnia je swoim niewodem i gromadzi je w swojej sieci. Dlatego cieszy się i raduje."
+  tags: []
+"Ha1,16":
+  text: "Dlatego składa ofiarę swemu niewodowi i pali kadzidło swojej sieci. Przez nie bowiem jego dział jest obfity i jego pożywienie bogatsze."
+  tags: []
+"Ha1,17":
+  text: "Czy dlatego będzie zarzucać swoją sieć, by nieustannie zabijać narody bez litości?"
+  tags: []

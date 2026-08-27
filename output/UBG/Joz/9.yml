@@ -1,27 +1,81 @@
-"Joz9,1": "A gdy usłyszeli o tym wszyscy królowie, którzy byli po tej stronie Jordanu w górach, na równinach i nad całym brzegiem Morza Wielkiego aż po Liban: Chetyci, Amoryci, Kananejczycy, Peryzzyci, Chiwwici i Jebusyci:"
-"Joz9,2": "Zebrali się razem, aby jednomyślnie walczyć przeciw Jozuemu i Izraelowi."
-"Joz9,3": "Lecz mieszkańcy Gibeonu, gdy usłyszeli o tym, co Jozue uczynił z Jerychem i Aj;"
-"Joz9,4": "Użyli podstępu i wyruszyli, udając posłów, i wzięli stare wory na swoje osły i stare, popękane i połatane bukłaki na wino;"
-"Joz9,5": "I stare, i połatane obuwie na nogi, stare szaty na siebie, a cały chleb, który ze sobą zabrali w drogę, był suchy i spleśniały."
-"Joz9,6": "Wtedy przybyli do Jozuego, do obozu w Gilgal, i powiedzieli do niego i do mężczyzn Izraela: Przyszliśmy z dalekiego kraju. Zawrzyjcie więc teraz przymierze z nami."
-"Joz9,7": "Lecz mężczyźni Izraela odpowiedzieli Chiwwitom: A może mieszkacie wśród nas, jakże więc możemy zawrzeć z wami przymierze?"
-"Joz9,8": "A oni powiedzieli Jozuemu: Jesteśmy twoimi sługami. I Jozue zapytał ich: Kim jesteście i skąd przybywacie?"
-"Joz9,9": "Odpowiedzieli mu: Twoi słudzy przybyli z bardzo dalekiego kraju ze względu na imię PANA, twego Boga. Usłyszeliśmy bowiem o jego sławie oraz o wszystkim, co uczynił w Egipcie;"
-"Joz9,10": "I o wszystkim, co uczynił dwom królom amoryckim, którzy byli za Jordanem, Sichonowi, królowi Cheszbonu, i Ogowi, królowi Baszanu, który był w Asztarot."
-"Joz9,11": "I nasi starsi i wszyscy mieszkańcy naszego kraju nakazali nam: Weźcie ze sobą żywność na drogę, wyjdźcie im naprzeciw i powiedzcie im: Jesteśmy waszymi sługami, zawrzyjcie więc teraz przymierze z nami."
-"Joz9,12": "Ten nasz chleb był jeszcze ciepły, gdy wzięliśmy go z naszych domów w dniu, kiedy wyruszyliśmy do was; a teraz jest suchy i spleśniały."
-"Joz9,13": "I te bukłaki na wino, które napełniliśmy, były nowe, a oto popękały. Także nasze szaty i obuwie zniszczyły się z powodu bardzo długiej podróży."
-"Joz9,14": "A mężczyźni Izraela wzięli z ich żywności, lecz nie radzili się PANA."
-"Joz9,15": "Wtedy Jozue zawarł z nimi pokój i ustanowił z nimi przymierze, że zachowa ich przy życiu. Także naczelnicy zgromadzenia im przysięgli."
-"Joz9,16": "Lecz po trzech dniach, po zawarciu z nimi przymierza, usłyszeli, że są oni sąsiadami i że mieszkają wśród nich."
-"Joz9,17": "Wtedy synowie Izraela wyruszyli i po trzech dniach dotarli do ich miast. Miastami ich były: Gibeon, Kefira, Beerot i Kiriat-Jearim."
-"Joz9,18": "I nie wytracili ich synowie Izraela, gdyż naczelnicy zgromadzenia przysięgli im na PANA, Boga Izraela. I całe zgromadzenie szemrało przeciw naczelnikom."
-"Joz9,19": "I wszyscy naczelnicy powiedzieli do całego zgromadzenia: Przysięgliśmy im na PANA, Boga Izraela, dlatego teraz nie możemy ich tknąć."
-"Joz9,20": "Tak więc postąpimy z nimi: zachowamy ich przy życiu, żeby nie spadł na nas gniew z powodu przysięgi, którą im złożyliśmy."
-"Joz9,21": "Ponadto naczelnicy powiedzieli im: Niech pozostaną przy życiu, ale niech rąbią drewno i noszą wodę dla całego zgromadzenia – zgodnie z tym, co obiecali naczelnicy."
-"Joz9,22": "Potem Jozue wezwał ich i zapytał: Dlaczego nas oszukaliście, mówiąc: Jesteśmy z bardzo daleka, skoro mieszkacie wśród nas?"
-"Joz9,23": "Teraz więc jesteście przeklęci i nie przestaniecie być niewolnikami rąbiącymi drewno i noszącymi wodę dla domu mego Boga."
-"Joz9,24": "Oni odpowiedzieli Jozuemu: Oznajmiono dokładnie twoim sługom, że PAN, twój Bóg, rozkazał swemu słudze Mojżeszowi dać wam całą ziemię i zgładzić przed wami wszystkich mieszkańców tej ziemi. Dlatego bardzo się baliśmy o nasze życie z waszego powodu i dlatego tak postąpiliśmy."
-"Joz9,25": "A teraz oto jesteśmy w twoich rękach. Uczyń z nami to, co uważasz za dobre i słuszne."
-"Joz9,26": "I postąpił tak z nimi, i wybawił ich z rąk synów Izraela, żeby ich nie zabili."
-"Joz9,27": "I w tym dniu Jozue nakazał im narąbać drewna i nosić wodę dla zgromadzenia oraz dla ołtarza PANA w miejscu, które miał wybrać. I jest tak aż do dziś."
+"Joz9,1":
+  text: "A gdy usłyszeli o tym wszyscy królowie, którzy byli po tej stronie Jordanu w górach, na równinach i nad całym brzegiem Morza Wielkiego aż po Liban: Chetyci, Amoryci, Kananejczycy, Peryzzyci, Chiwwici i Jebusyci:"
+  tags: []
+"Joz9,2":
+  text: "Zebrali się razem, aby jednomyślnie walczyć przeciw Jozuemu i Izraelowi."
+  tags: []
+"Joz9,3":
+  text: "Lecz mieszkańcy Gibeonu, gdy usłyszeli o tym, co Jozue uczynił z Jerychem i Aj;"
+  tags: []
+"Joz9,4":
+  text: "Użyli podstępu i wyruszyli, udając posłów, i wzięli stare wory na swoje osły i stare, popękane i połatane bukłaki na wino;"
+  tags: []
+"Joz9,5":
+  text: "I stare, i połatane obuwie na nogi, stare szaty na siebie, a cały chleb, który ze sobą zabrali w drogę, był suchy i spleśniały."
+  tags: []
+"Joz9,6":
+  text: "Wtedy przybyli do Jozuego, do obozu w Gilgal, i powiedzieli do niego i do mężczyzn Izraela: Przyszliśmy z dalekiego kraju. Zawrzyjcie więc teraz przymierze z nami."
+  tags: []
+"Joz9,7":
+  text: "Lecz mężczyźni Izraela odpowiedzieli Chiwwitom: A może mieszkacie wśród nas, jakże więc możemy zawrzeć z wami przymierze?"
+  tags: []
+"Joz9,8":
+  text: "A oni powiedzieli Jozuemu: Jesteśmy twoimi sługami. I Jozue zapytał ich: Kim jesteście i skąd przybywacie?"
+  tags: []
+"Joz9,9":
+  text: "Odpowiedzieli mu: Twoi słudzy przybyli z bardzo dalekiego kraju ze względu na imię PANA, twego Boga. Usłyszeliśmy bowiem o jego sławie oraz o wszystkim, co uczynił w Egipcie;"
+  tags: []
+"Joz9,10":
+  text: "I o wszystkim, co uczynił dwom królom amoryckim, którzy byli za Jordanem, Sichonowi, królowi Cheszbonu, i Ogowi, królowi Baszanu, który był w Asztarot."
+  tags: []
+"Joz9,11":
+  text: "I nasi starsi i wszyscy mieszkańcy naszego kraju nakazali nam: Weźcie ze sobą żywność na drogę, wyjdźcie im naprzeciw i powiedzcie im: Jesteśmy waszymi sługami, zawrzyjcie więc teraz przymierze z nami."
+  tags: []
+"Joz9,12":
+  text: "Ten nasz chleb był jeszcze ciepły, gdy wzięliśmy go z naszych domów w dniu, kiedy wyruszyliśmy do was; a teraz jest suchy i spleśniały."
+  tags: []
+"Joz9,13":
+  text: "I te bukłaki na wino, które napełniliśmy, były nowe, a oto popękały. Także nasze szaty i obuwie zniszczyły się z powodu bardzo długiej podróży."
+  tags: []
+"Joz9,14":
+  text: "A mężczyźni Izraela wzięli z ich żywności, lecz nie radzili się PANA."
+  tags: []
+"Joz9,15":
+  text: "Wtedy Jozue zawarł z nimi pokój i ustanowił z nimi przymierze, że zachowa ich przy życiu. Także naczelnicy zgromadzenia im przysięgli."
+  tags: []
+"Joz9,16":
+  text: "Lecz po trzech dniach, po zawarciu z nimi przymierza, usłyszeli, że są oni sąsiadami i że mieszkają wśród nich."
+  tags: []
+"Joz9,17":
+  text: "Wtedy synowie Izraela wyruszyli i po trzech dniach dotarli do ich miast. Miastami ich były: Gibeon, Kefira, Beerot i Kiriat-Jearim."
+  tags: []
+"Joz9,18":
+  text: "I nie wytracili ich synowie Izraela, gdyż naczelnicy zgromadzenia przysięgli im na PANA, Boga Izraela. I całe zgromadzenie szemrało przeciw naczelnikom."
+  tags: []
+"Joz9,19":
+  text: "I wszyscy naczelnicy powiedzieli do całego zgromadzenia: Przysięgliśmy im na PANA, Boga Izraela, dlatego teraz nie możemy ich tknąć."
+  tags: []
+"Joz9,20":
+  text: "Tak więc postąpimy z nimi: zachowamy ich przy życiu, żeby nie spadł na nas gniew z powodu przysięgi, którą im złożyliśmy."
+  tags: []
+"Joz9,21":
+  text: "Ponadto naczelnicy powiedzieli im: Niech pozostaną przy życiu, ale niech rąbią drewno i noszą wodę dla całego zgromadzenia – zgodnie z tym, co obiecali naczelnicy."
+  tags: []
+"Joz9,22":
+  text: "Potem Jozue wezwał ich i zapytał: Dlaczego nas oszukaliście, mówiąc: Jesteśmy z bardzo daleka, skoro mieszkacie wśród nas?"
+  tags: []
+"Joz9,23":
+  text: "Teraz więc jesteście przeklęci i nie przestaniecie być niewolnikami rąbiącymi drewno i noszącymi wodę dla domu mego Boga."
+  tags: []
+"Joz9,24":
+  text: "Oni odpowiedzieli Jozuemu: Oznajmiono dokładnie twoim sługom, że PAN, twój Bóg, rozkazał swemu słudze Mojżeszowi dać wam całą ziemię i zgładzić przed wami wszystkich mieszkańców tej ziemi. Dlatego bardzo się baliśmy o nasze życie z waszego powodu i dlatego tak postąpiliśmy."
+  tags: []
+"Joz9,25":
+  text: "A teraz oto jesteśmy w twoich rękach. Uczyń z nami to, co uważasz za dobre i słuszne."
+  tags: []
+"Joz9,26":
+  text: "I postąpił tak z nimi, i wybawił ich z rąk synów Izraela, żeby ich nie zabili."
+  tags: []
+"Joz9,27":
+  text: "I w tym dniu Jozue nakazał im narąbać drewna i nosić wodę dla zgromadzenia oraz dla ołtarza PANA w miejscu, które miał wybrać. I jest tak aż do dziś."
+  tags: []

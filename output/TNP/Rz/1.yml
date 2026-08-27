@@ -1,32 +1,96 @@
-"Rz1,1": "Paweł, sługa Jezusa Chrystusa, powołany apostoł, oddzielony do głoszenia Ewangelii Boga,"
-"Rz1,2": "Która wcześniej została ogłoszona przez Jego proroków w Pismach Świętych,"
-"Rz1,3": "O Synu Jego, który narodził się z potomstwa Dawida według ciała,"
-"Rz1,4": "Który został ustanowiony Synem Bożym w mocy według Ducha uświęcenia, przez powstanie z martwych, o Jezusie Chrystusie, naszym Panu,"
-"Rz1,5": "Przez którego otrzymaliśmy łaskę i apostolstwo, by dla Jego imienia przyprowadzić do posłuszeństwa wiary ludzi we wszystkich narodach,"
-"Rz1,6": "Wśród których jesteście i wy, powołani przez Jezusa Chrystusa."
-"Rz1,7": "Wszystkim będącym w Rzymie, umiłowanym Boga, powołanym świętym, łaska wam i pokój od Boga Ojca naszego i od Pana Jezusa Chrystusa."
-"Rz1,8": "Najpierw jednak dziękuję Bogu mojemu przez Jezusa Chrystusa za was wszystkich, albowiem wiara wasza jest rozgłaszana po całym świecie."
-"Rz1,9": "Świadkiem bowiem jest mi Bóg, któremu służę w duchu moim w Ewangelii Jego Syna, że nieustannie o was wspominam,"
-"Rz1,10": "Zawsze w moich modlitwach prosząc, żebym już wreszcie miał otwartą drogę, w woli Boga przyjść do was."
-"Rz1,11": "Albowiem pragnę was zobaczyć, abym mógł przekazać wam jakiś duchowy dar łaski dla waszego utwierdzenia,"
-"Rz1,12": "To jest, aby razem wśród was doznać zachęty przez wzajemną wiarę; zarówno waszą i moją."
-"Rz1,13": "A nie chcę, bracia, abyście nie wiedzieli, że często zamierzałem przyjść do was, lecz aż dotąd miałem przeszkody, abym miał i w was jakiś plon, tak jak wśród pozostałych narodów."
-"Rz1,14": "Bo jestem dłużnikiem zarówno Greków i barbarzyńców, zarówno mądrych i niemądrych."
-"Rz1,15": "Tak więc, jeśli chodzi o mnie, gotów jestem i wam, w Rzymie, ogłosić Ewangelię."
-"Rz1,16": "Bo nie wstydzę się Ewangelii Chrystusa; bo jest ona mocą Bożą ku zbawieniu każdemu kto wierzy, najpierw Żydowi, a także i Grekowi."
-"Rz1,17": "Bo sprawiedliwość Boża w niej jest objawiana z wiary ku wierze, tak jak jest napisane: A sprawiedliwy z wiary żyć będzie."
-"Rz1,18": "Bo gniew Boży objawiany jest z nieba przeciwko wszelkiej bezbożności i niesprawiedliwości tych ludzi, którzy przez niesprawiedliwość powstrzymują prawdę,"
-"Rz1,19": "Dlatego że to, co jest poznawalne u Boga, jest dla nich jawne, gdyż Bóg im to ukazał;"
-"Rz1,20": "Bo rzeczy Jego niewidzialne, od stworzenia świata w dziełach są dostrzegalne jako wyraźnie widzialne, to jest wieczna Jego moc i boskość, tak że są bez wymówki."
-"Rz1,21": "Dlatego że po poznaniu Boga, nie oddali Mu chwały jako Bogu, ani Mu nie podziękowali, lecz stali się próżni w swoich rozważaniach, a ich bezrozumne serce zostało pogrążone w ciemności;"
-"Rz1,22": "Zapewniając, że są mądrzy, stali się głupimi;"
-"Rz1,23": "I zmienili chwałę nieśmiertelnego Boga na podobieństwo obrazu śmiertelnego człowieka i ptaków, i czworonożnych zwierząt, i płazów;"
-"Rz1,24": "Dlatego też, wydał ich Bóg przez pożądliwość ich serc na nieczystość, aby plugawili swoje ciała między sobą,"
-"Rz1,25": "Tych, którzy zamienili prawdę Boga na kłamstwo i oddali cześć, i służyli raczej stworzeniu wbrew Temu, który stworzył. On jest błogosławiony na wieki. Amen."
-"Rz1,26": "Dlatego wydał ich Bóg na hańbę namiętności, bo zarówno ich kobiety zamieniły pożycie zgodne z naturą, na to wbrew naturze."
-"Rz1,27": "Podobnie i mężczyźni, porzucili naturalne pożycie z kobietą, zostali zapaleni przez swoją żądzę płciową jedni ku drugim, mężczyzna z mężczyzną czyniąc bezwstyd i odbierając na sobie samych należną zapłatę za ten błąd."
-"Rz1,28": "I tak jak oni nie uważali za potrzebne, by dogłębnie poznać Boga, tak wydał ich Bóg we władanie na nic niezdatnego rozumu, aby czynili to, co nieprzyzwoite;"
-"Rz1,29": "Będąc pełni wszelkiej niesprawiedliwości, nierządu, niegodziwości, chciwości, złości, pełni zazdrości, morderstwa, kłótliwości, podstępu, złośliwości; plotkarze,"
-"Rz1,30": "Oszczercy, nienawidzący Boga, zuchwali, hardzi, chełpliwi, wynalazcy złych rzeczy, rodzicom nieposłuszni,"
-"Rz1,31": "Nierozumni, niedotrzymujący umów, bez naturalnych rodzinnych uczuć, nieprzejednani i niemiłosierni,"
-"Rz1,32": "Którzy dokładnie poznali wyrok Boga, że ci, którzy to czynią, godni są śmierci, nie tylko sami to czynią, ale i zgadzają się z tymi, którzy to czynią."
+"Rz1,1":
+  text: "Paweł, sługa Jezusa Chrystusa, powołany apostoł, oddzielony do głoszenia Ewangelii Boga,"
+  tags: []
+"Rz1,2":
+  text: "Która wcześniej została ogłoszona przez Jego proroków w Pismach Świętych,"
+  tags: []
+"Rz1,3":
+  text: "O Synu Jego, który narodził się z potomstwa Dawida według ciała,"
+  tags: []
+"Rz1,4":
+  text: "Który został ustanowiony Synem Bożym w mocy według Ducha uświęcenia, przez powstanie z martwych, o Jezusie Chrystusie, naszym Panu,"
+  tags: []
+"Rz1,5":
+  text: "Przez którego otrzymaliśmy łaskę i apostolstwo, by dla Jego imienia przyprowadzić do posłuszeństwa wiary ludzi we wszystkich narodach,"
+  tags: []
+"Rz1,6":
+  text: "Wśród których jesteście i wy, powołani przez Jezusa Chrystusa."
+  tags: []
+"Rz1,7":
+  text: "Wszystkim będącym w Rzymie, umiłowanym Boga, powołanym świętym, łaska wam i pokój od Boga Ojca naszego i od Pana Jezusa Chrystusa."
+  tags: []
+"Rz1,8":
+  text: "Najpierw jednak dziękuję Bogu mojemu przez Jezusa Chrystusa za was wszystkich, albowiem wiara wasza jest rozgłaszana po całym świecie."
+  tags: []
+"Rz1,9":
+  text: "Świadkiem bowiem jest mi Bóg, któremu służę w duchu moim w Ewangelii Jego Syna, że nieustannie o was wspominam,"
+  tags: []
+"Rz1,10":
+  text: "Zawsze w moich modlitwach prosząc, żebym już wreszcie miał otwartą drogę, w woli Boga przyjść do was."
+  tags: []
+"Rz1,11":
+  text: "Albowiem pragnę was zobaczyć, abym mógł przekazać wam jakiś duchowy dar łaski dla waszego utwierdzenia,"
+  tags: []
+"Rz1,12":
+  text: "To jest, aby razem wśród was doznać zachęty przez wzajemną wiarę; zarówno waszą i moją."
+  tags: []
+"Rz1,13":
+  text: "A nie chcę, bracia, abyście nie wiedzieli, że często zamierzałem przyjść do was, lecz aż dotąd miałem przeszkody, abym miał i w was jakiś plon, tak jak wśród pozostałych narodów."
+  tags: []
+"Rz1,14":
+  text: "Bo jestem dłużnikiem zarówno Greków i barbarzyńców, zarówno mądrych i niemądrych."
+  tags: []
+"Rz1,15":
+  text: "Tak więc, jeśli chodzi o mnie, gotów jestem i wam, w Rzymie, ogłosić Ewangelię."
+  tags: []
+"Rz1,16":
+  text: "Bo nie wstydzę się Ewangelii Chrystusa; bo jest ona mocą Bożą ku zbawieniu każdemu kto wierzy, najpierw Żydowi, a także i Grekowi."
+  tags: []
+"Rz1,17":
+  text: "Bo sprawiedliwość Boża w niej jest objawiana z wiary ku wierze, tak jak jest napisane: A sprawiedliwy z wiary żyć będzie."
+  tags: []
+"Rz1,18":
+  text: "Bo gniew Boży objawiany jest z nieba przeciwko wszelkiej bezbożności i niesprawiedliwości tych ludzi, którzy przez niesprawiedliwość powstrzymują prawdę,"
+  tags: []
+"Rz1,19":
+  text: "Dlatego że to, co jest poznawalne u Boga, jest dla nich jawne, gdyż Bóg im to ukazał;"
+  tags: []
+"Rz1,20":
+  text: "Bo rzeczy Jego niewidzialne, od stworzenia świata w dziełach są dostrzegalne jako wyraźnie widzialne, to jest wieczna Jego moc i boskość, tak że są bez wymówki."
+  tags: []
+"Rz1,21":
+  text: "Dlatego że po poznaniu Boga, nie oddali Mu chwały jako Bogu, ani Mu nie podziękowali, lecz stali się próżni w swoich rozważaniach, a ich bezrozumne serce zostało pogrążone w ciemności;"
+  tags: []
+"Rz1,22":
+  text: "Zapewniając, że są mądrzy, stali się głupimi;"
+  tags: []
+"Rz1,23":
+  text: "I zmienili chwałę nieśmiertelnego Boga na podobieństwo obrazu śmiertelnego człowieka i ptaków, i czworonożnych zwierząt, i płazów;"
+  tags: []
+"Rz1,24":
+  text: "Dlatego też, wydał ich Bóg przez pożądliwość ich serc na nieczystość, aby plugawili swoje ciała między sobą,"
+  tags: []
+"Rz1,25":
+  text: "Tych, którzy zamienili prawdę Boga na kłamstwo i oddali cześć, i służyli raczej stworzeniu wbrew Temu, który stworzył. On jest błogosławiony na wieki. Amen."
+  tags: []
+"Rz1,26":
+  text: "Dlatego wydał ich Bóg na hańbę namiętności, bo zarówno ich kobiety zamieniły pożycie zgodne z naturą, na to wbrew naturze."
+  tags: []
+"Rz1,27":
+  text: "Podobnie i mężczyźni, porzucili naturalne pożycie z kobietą, zostali zapaleni przez swoją żądzę płciową jedni ku drugim, mężczyzna z mężczyzną czyniąc bezwstyd i odbierając na sobie samych należną zapłatę za ten błąd."
+  tags: []
+"Rz1,28":
+  text: "I tak jak oni nie uważali za potrzebne, by dogłębnie poznać Boga, tak wydał ich Bóg we władanie na nic niezdatnego rozumu, aby czynili to, co nieprzyzwoite;"
+  tags: []
+"Rz1,29":
+  text: "Będąc pełni wszelkiej niesprawiedliwości, nierządu, niegodziwości, chciwości, złości, pełni zazdrości, morderstwa, kłótliwości, podstępu, złośliwości; plotkarze,"
+  tags: []
+"Rz1,30":
+  text: "Oszczercy, nienawidzący Boga, zuchwali, hardzi, chełpliwi, wynalazcy złych rzeczy, rodzicom nieposłuszni,"
+  tags: []
+"Rz1,31":
+  text: "Nierozumni, niedotrzymujący umów, bez naturalnych rodzinnych uczuć, nieprzejednani i niemiłosierni,"
+  tags: []
+"Rz1,32":
+  text: "Którzy dokładnie poznali wyrok Boga, że ci, którzy to czynią, godni są śmierci, nie tylko sami to czynią, ale i zgadzają się z tymi, którzy to czynią."
+  tags: []

@@ -1,33 +1,99 @@
-"Kpł22,1": "I powiedział PAN do Mojżesza:"
-"Kpł22,2": "Powiedz Aaronowi i jego synom, aby powstrzymywali się od świętych rzeczy synów Izraela i nie zbezcześcili mojego świętego imienia w tym, co mi poświęcają. Ja jestem PAN."
-"Kpł22,3": "Powiedz im: Ktokolwiek z waszego potomstwa w waszych pokoleniach zbliży się do świętych rzeczy, które synowie Izraela poświęcają PANU, będąc nieczystym, ten będzie wytracony sprzed mego oblicza. Ja jestem PAN."
-"Kpł22,4": "Ktokolwiek z potomstwa Aarona będzie trędowaty albo będzie cierpiał na wyciek, nie będzie spożywał z rzeczy poświęconych, dopóki nie stanie się czysty. A kto dotknie jakiejś nieczystości z powodu zmarłego lub tego, z którego wypływa nasienie;"
-"Kpł22,5": "Lub kto dotknie czegoś, co pełza po ziemi, przez co stanie się nieczysty, lub człowieka, który uczyni go nieczystym z powodu jakiejkolwiek jego nieczystości;"
-"Kpł22,6": "Ten, kto dotknie czegoś takiego, będzie nieczysty aż do wieczora i nie będzie jadł z rzeczy poświęconych, aż obmyje swoje ciało w wodzie."
-"Kpł22,7": "Po zachodzie słońca będzie czysty i potem będzie jeść z rzeczy poświęconych, bo to jest jego pokarm."
-"Kpł22,8": "Nie będzie jadł padliny ani mięsa rozszarpanego przez zwierzę, aby się tym nie zanieczyścić. Ja jestem PAN."
-"Kpł22,9": "Będą więc przestrzegać mojego nakazu, aby nie obciążyli się grzechem i nie umarli za to, że go zbezcześcili. Ja jestem PAN, który ich poświęca."
-"Kpł22,10": "Żaden obcy nie będzie jadł z rzeczy świętych: ani gość kapłana, ani jego najemnik nie będzie jadł z rzeczy świętych."
-"Kpł22,11": "A jeśli kapłan kupi człowieka za swoje pieniądze, to ten może je jeść, również urodzony w jego domu; oni mogą jeść z jego pokarmów."
-"Kpł22,12": "A jeśli córka kapłana wyjdzie za mąż za obcego, to nie będzie ona jeść z ofiar rzeczy świętych."
-"Kpł22,13": "Jeśli zaś córka kapłana zostanie wdową albo zostanie oddalona przez męża i nie ma dzieci, a wróci do domu swego ojca jak w swojej młodości, to będzie mogła jeść chleb swego ojca, lecz żaden obcy nie będzie z niego jadł."
-"Kpł22,14": "A jeśli ktoś przez nieuwagę zje z rzeczy świętych, to doda do tego jedną piątą i odda kapłanowi wraz z rzeczą świętą."
-"Kpł22,15": "Nie będą bezcześcić rzeczy świętych, które synowie Izraela ofiarują PANU;"
-"Kpł22,16": "I tak obciążać ich nieprawością za występek, gdy będą jedli ich święte rzeczy, gdyż ja, PAN, ich uświęcam."
-"Kpł22,17": "Potem PAN powiedział do Mojżesza:"
-"Kpł22,18": "Przemów do Aarona, jego synów i wszystkich synów Izraela i powiedz im: Ktokolwiek z domu Izraela lub spośród przybyszów w Izraelu złoży swoją ofiarę zgodnie ze wszystkimi swoimi ślubami lub wszystkimi dobrowolnymi darami, które złoży PANU na ofiarę całopalenia;"
-"Kpł22,19": "To złoży ze swojej woli samca bez skazy, z bydła, owiec lub kóz."
-"Kpł22,20": "Nie będziecie ofiarować niczego, co ma wadę, bo nie zostanie przyjęte od was."
-"Kpł22,21": "Jeśli ktoś składa PANU ofiarę pojednawczą, wypełniając ślub lub jako dobrowolny dar z bydła albo z trzody, musi to być bez wady, aby zostało przyjęte. Nie będzie na nim żadnej zmazy."
-"Kpł22,22": "Nie będziecie ofiarowywać PANU zwierzęcia ślepego, kulawego, okaleczonego, owrzodzonego, chorego na świerzb, pokrytego liszajami. Nie będziecie też składać go PANU na ołtarz jako ofiary spalanej."
-"Kpł22,23": "Wołu albo jagnię niekształtne lub niewyrośnięte możesz złożyć jako ofiarę dobrowolną, ale jako ofiara ślubowana nie będą przyjęte."
-"Kpł22,24": "Nie będziecie ofiarowywać PANU nic zgniecionego, posiniaczonego, rozerwanego lub skaleczonego. Nie będziecie tego czynić w waszej ziemi."
-"Kpł22,25": "Nie będziecie też ofiarowywać na chleb waszego Boga z ręki cudzoziemca takich zwierząt, bo jest w nich skaza, mają wadę. Nie zostaną przyjęte od was."
-"Kpł22,26": "Potem PAN powiedział do Mojżesza:"
-"Kpł22,27": "Gdy się urodzi wół, owca lub koza, to będzie przez siedem dni przy swej matce, a od ósmego dnia i dalej będzie przyjęte jako ofiara spalona dla PANA."
-"Kpł22,28": "Nie zabijajcie w tym samym dniu krowy lub owcy wraz z jej małym."
-"Kpł22,29": "A gdy będziecie składali PANU ofiarę dziękczynną, będziecie ją składać z własnej woli."
-"Kpł22,30": "Tego samego dnia zostanie spożyta; nie zostawicie z niej nic do rana. Ja jestem PAN."
-"Kpł22,31": "Dlatego będziecie przestrzegać moich przykazań i wypełniać je. Ja jestem PAN."
-"Kpł22,32": "I nie będziecie bezcześcić mojego świętego imienia, bo będę uświęcony pośród synów Izraela. Ja jestem PAN, który was uświęca;"
-"Kpł22,33": "Który was wyprowadził z ziemi Egiptu, aby być waszym Bogiem. Ja jestem PAN."
+"Kpł22,1":
+  text: "I powiedział PAN do Mojżesza:"
+  tags: []
+"Kpł22,2":
+  text: "Powiedz Aaronowi i jego synom, aby powstrzymywali się od świętych rzeczy synów Izraela i nie zbezcześcili mojego świętego imienia w tym, co mi poświęcają. Ja jestem PAN."
+  tags: []
+"Kpł22,3":
+  text: "Powiedz im: Ktokolwiek z waszego potomstwa w waszych pokoleniach zbliży się do świętych rzeczy, które synowie Izraela poświęcają PANU, będąc nieczystym, ten będzie wytracony sprzed mego oblicza. Ja jestem PAN."
+  tags: []
+"Kpł22,4":
+  text: "Ktokolwiek z potomstwa Aarona będzie trędowaty albo będzie cierpiał na wyciek, nie będzie spożywał z rzeczy poświęconych, dopóki nie stanie się czysty. A kto dotknie jakiejś nieczystości z powodu zmarłego lub tego, z którego wypływa nasienie;"
+  tags: []
+"Kpł22,5":
+  text: "Lub kto dotknie czegoś, co pełza po ziemi, przez co stanie się nieczysty, lub człowieka, który uczyni go nieczystym z powodu jakiejkolwiek jego nieczystości;"
+  tags: []
+"Kpł22,6":
+  text: "Ten, kto dotknie czegoś takiego, będzie nieczysty aż do wieczora i nie będzie jadł z rzeczy poświęconych, aż obmyje swoje ciało w wodzie."
+  tags: []
+"Kpł22,7":
+  text: "Po zachodzie słońca będzie czysty i potem będzie jeść z rzeczy poświęconych, bo to jest jego pokarm."
+  tags: []
+"Kpł22,8":
+  text: "Nie będzie jadł padliny ani mięsa rozszarpanego przez zwierzę, aby się tym nie zanieczyścić. Ja jestem PAN."
+  tags: []
+"Kpł22,9":
+  text: "Będą więc przestrzegać mojego nakazu, aby nie obciążyli się grzechem i nie umarli za to, że go zbezcześcili. Ja jestem PAN, który ich poświęca."
+  tags: []
+"Kpł22,10":
+  text: "Żaden obcy nie będzie jadł z rzeczy świętych: ani gość kapłana, ani jego najemnik nie będzie jadł z rzeczy świętych."
+  tags: []
+"Kpł22,11":
+  text: "A jeśli kapłan kupi człowieka za swoje pieniądze, to ten może je jeść, również urodzony w jego domu; oni mogą jeść z jego pokarmów."
+  tags: []
+"Kpł22,12":
+  text: "A jeśli córka kapłana wyjdzie za mąż za obcego, to nie będzie ona jeść z ofiar rzeczy świętych."
+  tags: []
+"Kpł22,13":
+  text: "Jeśli zaś córka kapłana zostanie wdową albo zostanie oddalona przez męża i nie ma dzieci, a wróci do domu swego ojca jak w swojej młodości, to będzie mogła jeść chleb swego ojca, lecz żaden obcy nie będzie z niego jadł."
+  tags: []
+"Kpł22,14":
+  text: "A jeśli ktoś przez nieuwagę zje z rzeczy świętych, to doda do tego jedną piątą i odda kapłanowi wraz z rzeczą świętą."
+  tags: []
+"Kpł22,15":
+  text: "Nie będą bezcześcić rzeczy świętych, które synowie Izraela ofiarują PANU;"
+  tags: []
+"Kpł22,16":
+  text: "I tak obciążać ich nieprawością za występek, gdy będą jedli ich święte rzeczy, gdyż ja, PAN, ich uświęcam."
+  tags: []
+"Kpł22,17":
+  text: "Potem PAN powiedział do Mojżesza:"
+  tags: []
+"Kpł22,18":
+  text: "Przemów do Aarona, jego synów i wszystkich synów Izraela i powiedz im: Ktokolwiek z domu Izraela lub spośród przybyszów w Izraelu złoży swoją ofiarę zgodnie ze wszystkimi swoimi ślubami lub wszystkimi dobrowolnymi darami, które złoży PANU na ofiarę całopalenia;"
+  tags: []
+"Kpł22,19":
+  text: "To złoży ze swojej woli samca bez skazy, z bydła, owiec lub kóz."
+  tags: []
+"Kpł22,20":
+  text: "Nie będziecie ofiarować niczego, co ma wadę, bo nie zostanie przyjęte od was."
+  tags: []
+"Kpł22,21":
+  text: "Jeśli ktoś składa PANU ofiarę pojednawczą, wypełniając ślub lub jako dobrowolny dar z bydła albo z trzody, musi to być bez wady, aby zostało przyjęte. Nie będzie na nim żadnej zmazy."
+  tags: []
+"Kpł22,22":
+  text: "Nie będziecie ofiarowywać PANU zwierzęcia ślepego, kulawego, okaleczonego, owrzodzonego, chorego na świerzb, pokrytego liszajami. Nie będziecie też składać go PANU na ołtarz jako ofiary spalanej."
+  tags: []
+"Kpł22,23":
+  text: "Wołu albo jagnię niekształtne lub niewyrośnięte możesz złożyć jako ofiarę dobrowolną, ale jako ofiara ślubowana nie będą przyjęte."
+  tags: []
+"Kpł22,24":
+  text: "Nie będziecie ofiarowywać PANU nic zgniecionego, posiniaczonego, rozerwanego lub skaleczonego. Nie będziecie tego czynić w waszej ziemi."
+  tags: []
+"Kpł22,25":
+  text: "Nie będziecie też ofiarowywać na chleb waszego Boga z ręki cudzoziemca takich zwierząt, bo jest w nich skaza, mają wadę. Nie zostaną przyjęte od was."
+  tags: []
+"Kpł22,26":
+  text: "Potem PAN powiedział do Mojżesza:"
+  tags: []
+"Kpł22,27":
+  text: "Gdy się urodzi wół, owca lub koza, to będzie przez siedem dni przy swej matce, a od ósmego dnia i dalej będzie przyjęte jako ofiara spalona dla PANA."
+  tags: []
+"Kpł22,28":
+  text: "Nie zabijajcie w tym samym dniu krowy lub owcy wraz z jej małym."
+  tags: []
+"Kpł22,29":
+  text: "A gdy będziecie składali PANU ofiarę dziękczynną, będziecie ją składać z własnej woli."
+  tags: []
+"Kpł22,30":
+  text: "Tego samego dnia zostanie spożyta; nie zostawicie z niej nic do rana. Ja jestem PAN."
+  tags: []
+"Kpł22,31":
+  text: "Dlatego będziecie przestrzegać moich przykazań i wypełniać je. Ja jestem PAN."
+  tags: []
+"Kpł22,32":
+  text: "I nie będziecie bezcześcić mojego świętego imienia, bo będę uświęcony pośród synów Izraela. Ja jestem PAN, który was uświęca;"
+  tags: []
+"Kpł22,33":
+  text: "Który was wyprowadził z ziemi Egiptu, aby być waszym Bogiem. Ja jestem PAN."
+  tags: []

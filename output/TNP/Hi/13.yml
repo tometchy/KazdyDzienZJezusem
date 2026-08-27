@@ -1,28 +1,84 @@
-"Hi13,1": "Oto to wszystko widziało moje oko i słyszało moje ucho, i zrozumiało."
-"Hi13,2": "Tak jak wy to rozumiecie – ja także to wiem; ja nie jestem od was gorszy."
-"Hi13,3": "Ale ja chciałbym przemówić do Wszechmogącego i pragnę prawować się z Bogiem."
-"Hi13,4": "Ale wy jesteście rzecznikami kłamstwa, wszyscy jesteście marnymi lekarzami."
-"Hi13,5": "Oby ktoś uczynił, abyście całkowicie zamilkli. Będziecie cichymi, a będzie to dla was ku mądrości."
-"Hi13,6": "Słuchajcie, proszę, mojego wyrzutu i zważcie na roszczenia moich warg."
-"Hi13,7": "Czy na rzecz Boga będziecie mówić przewrotnie? I czy za Niego będziecie mówić kłamliwie?"
-"Hi13,8": "Czy przed Nim okażecie stronniczość? Czy chcecie spierać się po stronie Boga?"
-"Hi13,9": "Czy dobrze się potoczy, gdy was przejrzy? Czy jak chcecie zwodzić człowieka, to i Jego chcecie zwieść?"
-"Hi13,10": "Surowo będzie was karcił, jeśli w skrytości będziecie stronniczy."
-"Hi13,11": "Czy nie przeraża was Jego majestat i nie padnie na was przed Nim strach?"
-"Hi13,12": "Wasze porzekadła są jak przypowieści z popiołu, a wasze szańce jak szańce z gliny."
-"Hi13,13": "Zamilknijcie przede mną, abym ja mógł przemówić i niech przyjdzie na mnie cokolwiek to jest."
-"Hi13,14": "Na co biorę w zęby swoje ciało i kładę swoją duszę w swoje ręce?"
-"Hi13,15": "Choćby mnie zgładził będę na Niego oczekiwał. Jednak będę moich dróg przed Jego obliczem bronić."
-"Hi13,16": "Zaiste On sam będzie moim zbawieniem, bo żaden obłudnik nie przyjdzie przed Jego oblicze."
-"Hi13,17": "Słuchajcie uważnie mojej mowy i niech moje oświadczenie zabrzmi w waszych uszach."
-"Hi13,18": "Oto proszę, przedkładam sprawę i wiem, że ja zostanę usprawiedliwiony."
-"Hi13,19": "Któż to będzie się spierał ze mną? Jeśli tak, to teraz zamilknę i jestem gotów umrzeć."
-"Hi13,20": "Tylko te dwie rzeczy uczyń mi Boże, a wtedy nie będę się krył przed Twoim obliczem."
-"Hi13,21": "Oddal ode mnie Twoją dłoń, a groza Twoja niech mnie nie przeraża."
-"Hi13,22": "I wezwij mnie, a ja Ci odpowiem lub przemówię – a Ty odpowiedz mi."
-"Hi13,23": "Jak wiele jest we mnie nieprawości i grzechów? Daj mi poznać moje przestępstwo i grzech."
-"Hi13,24": "Dlaczego skrywasz swoje oblicze i uznajesz mnie za swojego wroga?"
-"Hi13,25": "Czy zatrzęsiesz liściem miotanym przez wiatr? I czy będziesz gonić suche źdźbło?"
-"Hi13,26": "Bo zapisujesz przeciwko mnie same gorzkości, każesz mi dziedziczyć nieprawości mojej młodości;"
-"Hi13,27": "Wkładasz moje nogi w dyby i śledzisz wszystkie moje ścieżki, na śladach moich stóp wyryłeś znak."
-"Hi13,28": "A on – twój podsądny – zużywa się jak próchno, jak szata, którą pożarł mól."
+"Hi13,1":
+  text: "Oto to wszystko widziało moje oko i słyszało moje ucho, i zrozumiało."
+  tags: []
+"Hi13,2":
+  text: "Tak jak wy to rozumiecie – ja także to wiem; ja nie jestem od was gorszy."
+  tags: []
+"Hi13,3":
+  text: "Ale ja chciałbym przemówić do Wszechmogącego i pragnę prawować się z Bogiem."
+  tags: []
+"Hi13,4":
+  text: "Ale wy jesteście rzecznikami kłamstwa, wszyscy jesteście marnymi lekarzami."
+  tags: []
+"Hi13,5":
+  text: "Oby ktoś uczynił, abyście całkowicie zamilkli. Będziecie cichymi, a będzie to dla was ku mądrości."
+  tags: []
+"Hi13,6":
+  text: "Słuchajcie, proszę, mojego wyrzutu i zważcie na roszczenia moich warg."
+  tags: []
+"Hi13,7":
+  text: "Czy na rzecz Boga będziecie mówić przewrotnie? I czy za Niego będziecie mówić kłamliwie?"
+  tags: []
+"Hi13,8":
+  text: "Czy przed Nim okażecie stronniczość? Czy chcecie spierać się po stronie Boga?"
+  tags: []
+"Hi13,9":
+  text: "Czy dobrze się potoczy, gdy was przejrzy? Czy jak chcecie zwodzić człowieka, to i Jego chcecie zwieść?"
+  tags: []
+"Hi13,10":
+  text: "Surowo będzie was karcił, jeśli w skrytości będziecie stronniczy."
+  tags: []
+"Hi13,11":
+  text: "Czy nie przeraża was Jego majestat i nie padnie na was przed Nim strach?"
+  tags: []
+"Hi13,12":
+  text: "Wasze porzekadła są jak przypowieści z popiołu, a wasze szańce jak szańce z gliny."
+  tags: []
+"Hi13,13":
+  text: "Zamilknijcie przede mną, abym ja mógł przemówić i niech przyjdzie na mnie cokolwiek to jest."
+  tags: []
+"Hi13,14":
+  text: "Na co biorę w zęby swoje ciało i kładę swoją duszę w swoje ręce?"
+  tags: []
+"Hi13,15":
+  text: "Choćby mnie zgładził będę na Niego oczekiwał. Jednak będę moich dróg przed Jego obliczem bronić."
+  tags: []
+"Hi13,16":
+  text: "Zaiste On sam będzie moim zbawieniem, bo żaden obłudnik nie przyjdzie przed Jego oblicze."
+  tags: []
+"Hi13,17":
+  text: "Słuchajcie uważnie mojej mowy i niech moje oświadczenie zabrzmi w waszych uszach."
+  tags: []
+"Hi13,18":
+  text: "Oto proszę, przedkładam sprawę i wiem, że ja zostanę usprawiedliwiony."
+  tags: []
+"Hi13,19":
+  text: "Któż to będzie się spierał ze mną? Jeśli tak, to teraz zamilknę i jestem gotów umrzeć."
+  tags: []
+"Hi13,20":
+  text: "Tylko te dwie rzeczy uczyń mi Boże, a wtedy nie będę się krył przed Twoim obliczem."
+  tags: []
+"Hi13,21":
+  text: "Oddal ode mnie Twoją dłoń, a groza Twoja niech mnie nie przeraża."
+  tags: []
+"Hi13,22":
+  text: "I wezwij mnie, a ja Ci odpowiem lub przemówię – a Ty odpowiedz mi."
+  tags: []
+"Hi13,23":
+  text: "Jak wiele jest we mnie nieprawości i grzechów? Daj mi poznać moje przestępstwo i grzech."
+  tags: []
+"Hi13,24":
+  text: "Dlaczego skrywasz swoje oblicze i uznajesz mnie za swojego wroga?"
+  tags: []
+"Hi13,25":
+  text: "Czy zatrzęsiesz liściem miotanym przez wiatr? I czy będziesz gonić suche źdźbło?"
+  tags: []
+"Hi13,26":
+  text: "Bo zapisujesz przeciwko mnie same gorzkości, każesz mi dziedziczyć nieprawości mojej młodości;"
+  tags: []
+"Hi13,27":
+  text: "Wkładasz moje nogi w dyby i śledzisz wszystkie moje ścieżki, na śladach moich stóp wyryłeś znak."
+  tags: []
+"Hi13,28":
+  text: "A on – twój podsądny – zużywa się jak próchno, jak szata, którą pożarł mól."
+  tags: []

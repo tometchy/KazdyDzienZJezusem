@@ -1,19 +1,57 @@
-"2Sm10,1": "Po tych wydarzeniach umarł król synów Ammona, a jego syn Chanun królował w jego miejsce."
-"2Sm10,2": "Wtedy Dawid powiedział: Okażę życzliwość Chanunowi, synowi Nachasza, tak jak jego ojciec okazał mi życzliwość. I Dawid wysłał swe sługi, by pocieszyć go po stracie jego ojca. Słudzy Dawida przyszli więc do ziemi synów Ammona."
-"2Sm10,3": "Lecz książęta synów Ammona powiedzieli do swego pana Chanuna: Czy myślisz, że Dawid chce uczcić twego ojca i dlatego przysłał do ciebie pocieszycieli? Czy nie po to raczej Dawid posyła swoje sługi do ciebie, aby przypatrzyli się miastu i przeszpiegowali je, by potem je zburzyć?"
-"2Sm10,4": "Chanun wziął więc sługi Dawida, zgolił im brody do połowy, poobcinał ich szaty do połowy, aż do pośladków, i odesłał ich."
-"2Sm10,5": "A gdy doniesiono o tym Dawidowi, wysłał im na spotkanie posłów, ponieważ ci mężczyźni byli bardzo znieważeni. I król powiedział im: Zostańcie w Jerychu, aż wam brody odrosną, a potem wróćcie."
-"2Sm10,6": "Gdy synowie Ammona spostrzegli, że obrzydli Dawidowi, posłali i wynajęli sobie dwadzieścia tysięcy piechoty Syryjczyków z Bet-Rekob i Syryjczyków z Soby, od króla Maaki tysiąc mężczyzn, a z Isztobu dwanaście tysięcy mężczyzn."
-"2Sm10,7": "Kiedy Dawid o tym usłyszał, wysłał Joaba z całym zastępem dzielnych wojowników."
-"2Sm10,8": "Wtedy synowie Ammona wyszli i ustawili się w szyku bojowym przed wejściem do bramy. Syryjczycy zaś z Soby i z Rechob oraz ci z Isztobu i Maaki stanęli osobno w polu."
-"2Sm10,9": "Gdy Joab zobaczył wojska wystawione przeciwko sobie z przodu i z tyłu, wybrał ludzi spośród wszystkich wyborowych mężczyzn w Izraelu i ustawił ich w szyku bojowym przeciwko Syryjczykom."
-"2Sm10,10": "A resztę ludzi oddał pod rękę swego brata Abiszaja, aby ich ustawił w szyku bojowym przeciwko synom Ammona."
-"2Sm10,11": "I powiedział: Jeśli Syryjczycy będą silniejsi ode mnie, przyjdziesz mi z pomocą, a jeśli synowie Ammona będą silniejsi od ciebie, ja przyjdę tobie z pomocą."
-"2Sm10,12": "Bądź odważny i walczmy mężnie za swój lud i za miasta naszego Boga, a niech PAN uczyni to, co jest dobre w jego oczach."
-"2Sm10,13": "Joab wraz z ludem, który był z nim, wyruszył więc do bitwy z Syryjczykami. A oni uciekli przed nim."
-"2Sm10,14": "Gdy synowie Ammona zobaczyli, że Syryjczycy uciekli, uciekli i oni przed Abiszajem i weszli do miasta. Wtedy Joab zawrócił od synów Ammona i przybył do Jerozolimy."
-"2Sm10,15": "Kiedy Syryjczycy zobaczyli, że są pobici przez Izraela, zebrali się razem."
-"2Sm10,16": "I Hadadezer posłał po Syryjczyków, którzy byli za rzeką, i sprowadził ich. Przybyli oni do Helam, a Szobak, dowódca wojska Hadadezera, prowadził ich."
-"2Sm10,17": "Gdy doniesiono o tym Dawidowi, zebrał cały Izrael, przeprawił się przez Jordan i przybył do Helam. A Syryjczycy ustawili się w szyku bojowym przeciw Dawidowi i stoczyli z nim bitwę."
-"2Sm10,18": "Lecz Syryjczycy uciekli przed Izraelem i spośród Syryjczyków Dawid zabił ludzi z siedmiuset rydwanów oraz czterdzieści tysięcy jeźdźców. Zranił też Szobaka, dowódcę ich wojska, który tam zmarł."
-"2Sm10,19": "Kiedy wszyscy królowie, poddani Hadadezera, zobaczyli, że są pobici przez Izraela, zawarli pokój z Izraelem i służyli im. I Syryjczycy bali się odtąd iść na pomoc synom Ammona."
+"2Sm10,1":
+  text: "Po tych wydarzeniach umarł król synów Ammona, a jego syn Chanun królował w jego miejsce."
+  tags: []
+"2Sm10,2":
+  text: "Wtedy Dawid powiedział: Okażę życzliwość Chanunowi, synowi Nachasza, tak jak jego ojciec okazał mi życzliwość. I Dawid wysłał swe sługi, by pocieszyć go po stracie jego ojca. Słudzy Dawida przyszli więc do ziemi synów Ammona."
+  tags: []
+"2Sm10,3":
+  text: "Lecz książęta synów Ammona powiedzieli do swego pana Chanuna: Czy myślisz, że Dawid chce uczcić twego ojca i dlatego przysłał do ciebie pocieszycieli? Czy nie po to raczej Dawid posyła swoje sługi do ciebie, aby przypatrzyli się miastu i przeszpiegowali je, by potem je zburzyć?"
+  tags: []
+"2Sm10,4":
+  text: "Chanun wziął więc sługi Dawida, zgolił im brody do połowy, poobcinał ich szaty do połowy, aż do pośladków, i odesłał ich."
+  tags: []
+"2Sm10,5":
+  text: "A gdy doniesiono o tym Dawidowi, wysłał im na spotkanie posłów, ponieważ ci mężczyźni byli bardzo znieważeni. I król powiedział im: Zostańcie w Jerychu, aż wam brody odrosną, a potem wróćcie."
+  tags: []
+"2Sm10,6":
+  text: "Gdy synowie Ammona spostrzegli, że obrzydli Dawidowi, posłali i wynajęli sobie dwadzieścia tysięcy piechoty Syryjczyków z Bet-Rekob i Syryjczyków z Soby, od króla Maaki tysiąc mężczyzn, a z Isztobu dwanaście tysięcy mężczyzn."
+  tags: []
+"2Sm10,7":
+  text: "Kiedy Dawid o tym usłyszał, wysłał Joaba z całym zastępem dzielnych wojowników."
+  tags: []
+"2Sm10,8":
+  text: "Wtedy synowie Ammona wyszli i ustawili się w szyku bojowym przed wejściem do bramy. Syryjczycy zaś z Soby i z Rechob oraz ci z Isztobu i Maaki stanęli osobno w polu."
+  tags: []
+"2Sm10,9":
+  text: "Gdy Joab zobaczył wojska wystawione przeciwko sobie z przodu i z tyłu, wybrał ludzi spośród wszystkich wyborowych mężczyzn w Izraelu i ustawił ich w szyku bojowym przeciwko Syryjczykom."
+  tags: []
+"2Sm10,10":
+  text: "A resztę ludzi oddał pod rękę swego brata Abiszaja, aby ich ustawił w szyku bojowym przeciwko synom Ammona."
+  tags: []
+"2Sm10,11":
+  text: "I powiedział: Jeśli Syryjczycy będą silniejsi ode mnie, przyjdziesz mi z pomocą, a jeśli synowie Ammona będą silniejsi od ciebie, ja przyjdę tobie z pomocą."
+  tags: []
+"2Sm10,12":
+  text: "Bądź odważny i walczmy mężnie za swój lud i za miasta naszego Boga, a niech PAN uczyni to, co jest dobre w jego oczach."
+  tags: []
+"2Sm10,13":
+  text: "Joab wraz z ludem, który był z nim, wyruszył więc do bitwy z Syryjczykami. A oni uciekli przed nim."
+  tags: []
+"2Sm10,14":
+  text: "Gdy synowie Ammona zobaczyli, że Syryjczycy uciekli, uciekli i oni przed Abiszajem i weszli do miasta. Wtedy Joab zawrócił od synów Ammona i przybył do Jerozolimy."
+  tags: []
+"2Sm10,15":
+  text: "Kiedy Syryjczycy zobaczyli, że są pobici przez Izraela, zebrali się razem."
+  tags: []
+"2Sm10,16":
+  text: "I Hadadezer posłał po Syryjczyków, którzy byli za rzeką, i sprowadził ich. Przybyli oni do Helam, a Szobak, dowódca wojska Hadadezera, prowadził ich."
+  tags: []
+"2Sm10,17":
+  text: "Gdy doniesiono o tym Dawidowi, zebrał cały Izrael, przeprawił się przez Jordan i przybył do Helam. A Syryjczycy ustawili się w szyku bojowym przeciw Dawidowi i stoczyli z nim bitwę."
+  tags: []
+"2Sm10,18":
+  text: "Lecz Syryjczycy uciekli przed Izraelem i spośród Syryjczyków Dawid zabił ludzi z siedmiuset rydwanów oraz czterdzieści tysięcy jeźdźców. Zranił też Szobaka, dowódcę ich wojska, który tam zmarł."
+  tags: []
+"2Sm10,19":
+  text: "Kiedy wszyscy królowie, poddani Hadadezera, zobaczyli, że są pobici przez Izraela, zawarli pokój z Izraelem i służyli im. I Syryjczycy bali się odtąd iść na pomoc synom Ammona."
+  tags: []

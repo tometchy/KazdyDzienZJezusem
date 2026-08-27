@@ -1,35 +1,105 @@
-"Mt18,1": "W tym czasie podeszli do Jezusa uczniowie, pytając: Kto jest największy w królestwie niebieskim?"
-"Mt18,2": "A Jezus, zawoławszy dziecko, postawił je pośród nich;"
-"Mt18,3": "I powiedział: Zaprawdę powiadam wam: Jeśli się nie nawrócicie i nie staniecie się jak dzieci, nie wejdziecie do królestwa niebieskiego."
-"Mt18,4": "Kto się więc uniży jak to dziecko, ten jest największy w królestwie niebieskim."
-"Mt18,5": "A kto przyjmie jedno takie dziecko w moje imię, mnie przyjmuje."
-"Mt18,6": "Kto zaś zgorszy jednego z tych małych, którzy we mnie wierzą, lepiej byłoby dla niego, gdyby zawieszono mu u szyi kamień młyński i utopiono go w morskiej głębinie."
-"Mt18,7": "Biada światu z powodu zgorszeń! Muszą bowiem przyjść zgorszenia, ale biada temu człowiekowi, przez którego przychodzi zgorszenie!"
-"Mt18,8": "Dlatego jeśli twoja ręka albo noga jest ci powodem upadku, odetnij ją i odrzuć od siebie. Lepiej jest dla ciebie wejść do życia chromym albo ułomnym, niż mając dwie ręce albo dwie nogi, być wrzuconym do ognia wiecznego."
-"Mt18,9": "A jeśli twoje oko jest ci powodem upadku, wyłup je i odrzuć od siebie. Lepiej jest dla ciebie jednookim wejść do życia, niż mając dwoje oczu, być wrzuconym do ognia piekielnego."
-"Mt18,10": "Uważajcie, abyście nie gardzili żadnym z tych małych. Mówię wam bowiem, że ich aniołowie w niebie zawsze patrzą na oblicze mojego Ojca, który jest w niebie."
-"Mt18,11": "Przyszedł bowiem Syn Człowieczy, aby zbawić to, co zginęło."
-"Mt18,12": "Jak wam się wydaje? Gdyby jakiś człowiek miał sto owiec, a jedna z nich zabłąkałaby się, czyż nie zostawi tych dziewięćdziesięciu dziewięciu i nie pójdzie w góry szukać zabłąkanej?"
-"Mt18,13": "A jeśli uda mu się ją znaleźć, zaprawdę powiadam wam, że cieszy się z niej bardziej niż z tych dziewięćdziesięciu dziewięciu, które się nie zabłąkały."
-"Mt18,14": "Tak też nie jest wolą waszego Ojca, który jest w niebie, aby zginął jeden z tych małych."
-"Mt18,15": "Jeśli twój brat zgrzeszy przeciwko tobie, idź, strofuj go sam na sam. Jeśli cię usłucha, pozyskałeś twego brata."
-"Mt18,16": "Jeśli zaś cię nie usłucha, weź ze sobą jeszcze jednego albo dwóch, aby na podstawie zeznania dwóch albo trzech świadków oparte było każde słowo."
-"Mt18,17": "Jeśli ich nie usłucha, powiedz kościołowi. A jeśli kościoła nie usłucha, niech będzie dla ciebie jak poganin i celnik."
-"Mt18,18": "Zaprawdę powiadam wam: Cokolwiek zwiążecie na ziemi, będzie związane i w niebie. A cokolwiek rozwiążecie na ziemi, będzie rozwiązane i w niebie."
-"Mt18,19": "Mówię wam też: Jeśli dwaj z was na ziemi będą zgodnie prosić o cokolwiek, otrzymają to od mego Ojca, który jest w niebie."
-"Mt18,20": "Gdzie bowiem dwaj albo trzej są zgromadzeni w moje imię, tam jestem pośród nich."
-"Mt18,21": "Wtedy Piotr podszedł do niego i zapytał: Panie, ile razy mam przebaczyć mojemu bratu, gdy zgrzeszy przeciwko mnie? Czy aż siedem razy?"
-"Mt18,22": "I odpowiedział mu Jezus: Nie mówię ci, że aż siedem razy, ale aż siedemdziesiąt razy siedem."
-"Mt18,23": "Dlatego królestwo niebieskie podobne jest do króla, który chciał się rozliczyć ze swymi sługami."
-"Mt18,24": "A gdy zaczął się rozliczać, przyprowadzono mu jednego, który był mu winien dziesięć tysięcy talentów."
-"Mt18,25": "A ponieważ nie miał z czego oddać, jego pan kazał go sprzedać wraz z żoną, dziećmi i wszystkim, co miał, i spłacić dług."
-"Mt18,26": "Wtedy sługa upadł i oddał mu pokłon, mówiąc: Panie, okaż mi cierpliwość, a wszystko ci oddam."
-"Mt18,27": "Pan tego sługi, ulitowawszy się nad nim, uwolnił go i darował mu dług."
-"Mt18,28": "Lecz gdy ten sługa wyszedł, spotkał jednego ze swoich współsług, który był mu winien sto groszy. Chwycił go i zaczął dusić, mówiąc: Oddaj, coś winien!"
-"Mt18,29": "Wtedy jego współsługa upadł mu do nóg i prosił go: Okaż mi cierpliwość, a wszystko ci oddam."
-"Mt18,30": "On jednak nie chciał, ale poszedł i wtrącił go do więzienia, dopóki nie odda długu."
-"Mt18,31": "A jego współsłudzy, widząc, co się stało, zasmucili się bardzo i poszedłszy, oznajmili swemu panu wszystko, co zaszło."
-"Mt18,32": "Wtedy jego pan wezwał go i powiedział: Zły sługo, darowałem ci cały ten dług, ponieważ mnie prosiłeś."
-"Mt18,33": "Czyż i ty nie powinieneś był zmiłować się nad swoim współsługą, jak ja zmiłowałem się nad tobą?"
-"Mt18,34": "I jego pan, rozgniewany, wydał go katom, dopóki nie odda wszystkiego, co był mu winien."
-"Mt18,35": "Tak i wam uczyni mój Ojciec niebieski, jeśli każdy z was nie przebaczy z serca swemu bratu jego przewinień."
+"Mt18,1":
+  text: "W tym czasie podeszli do Jezusa uczniowie, pytając: Kto jest największy w królestwie niebieskim?"
+  tags: []
+"Mt18,2":
+  text: "A Jezus, zawoławszy dziecko, postawił je pośród nich;"
+  tags: []
+"Mt18,3":
+  text: "I powiedział: Zaprawdę powiadam wam: Jeśli się nie nawrócicie i nie staniecie się jak dzieci, nie wejdziecie do królestwa niebieskiego."
+  tags: []
+"Mt18,4":
+  text: "Kto się więc uniży jak to dziecko, ten jest największy w królestwie niebieskim."
+  tags: []
+"Mt18,5":
+  text: "A kto przyjmie jedno takie dziecko w moje imię, mnie przyjmuje."
+  tags: []
+"Mt18,6":
+  text: "Kto zaś zgorszy jednego z tych małych, którzy we mnie wierzą, lepiej byłoby dla niego, gdyby zawieszono mu u szyi kamień młyński i utopiono go w morskiej głębinie."
+  tags: []
+"Mt18,7":
+  text: "Biada światu z powodu zgorszeń! Muszą bowiem przyjść zgorszenia, ale biada temu człowiekowi, przez którego przychodzi zgorszenie!"
+  tags: []
+"Mt18,8":
+  text: "Dlatego jeśli twoja ręka albo noga jest ci powodem upadku, odetnij ją i odrzuć od siebie. Lepiej jest dla ciebie wejść do życia chromym albo ułomnym, niż mając dwie ręce albo dwie nogi, być wrzuconym do ognia wiecznego."
+  tags: []
+"Mt18,9":
+  text: "A jeśli twoje oko jest ci powodem upadku, wyłup je i odrzuć od siebie. Lepiej jest dla ciebie jednookim wejść do życia, niż mając dwoje oczu, być wrzuconym do ognia piekielnego."
+  tags: []
+"Mt18,10":
+  text: "Uważajcie, abyście nie gardzili żadnym z tych małych. Mówię wam bowiem, że ich aniołowie w niebie zawsze patrzą na oblicze mojego Ojca, który jest w niebie."
+  tags: []
+"Mt18,11":
+  text: "Przyszedł bowiem Syn Człowieczy, aby zbawić to, co zginęło."
+  tags: []
+"Mt18,12":
+  text: "Jak wam się wydaje? Gdyby jakiś człowiek miał sto owiec, a jedna z nich zabłąkałaby się, czyż nie zostawi tych dziewięćdziesięciu dziewięciu i nie pójdzie w góry szukać zabłąkanej?"
+  tags: []
+"Mt18,13":
+  text: "A jeśli uda mu się ją znaleźć, zaprawdę powiadam wam, że cieszy się z niej bardziej niż z tych dziewięćdziesięciu dziewięciu, które się nie zabłąkały."
+  tags: []
+"Mt18,14":
+  text: "Tak też nie jest wolą waszego Ojca, który jest w niebie, aby zginął jeden z tych małych."
+  tags: []
+"Mt18,15":
+  text: "Jeśli twój brat zgrzeszy przeciwko tobie, idź, strofuj go sam na sam. Jeśli cię usłucha, pozyskałeś twego brata."
+  tags: []
+"Mt18,16":
+  text: "Jeśli zaś cię nie usłucha, weź ze sobą jeszcze jednego albo dwóch, aby na podstawie zeznania dwóch albo trzech świadków oparte było każde słowo."
+  tags: []
+"Mt18,17":
+  text: "Jeśli ich nie usłucha, powiedz kościołowi. A jeśli kościoła nie usłucha, niech będzie dla ciebie jak poganin i celnik."
+  tags: []
+"Mt18,18":
+  text: "Zaprawdę powiadam wam: Cokolwiek zwiążecie na ziemi, będzie związane i w niebie. A cokolwiek rozwiążecie na ziemi, będzie rozwiązane i w niebie."
+  tags: []
+"Mt18,19":
+  text: "Mówię wam też: Jeśli dwaj z was na ziemi będą zgodnie prosić o cokolwiek, otrzymają to od mego Ojca, który jest w niebie."
+  tags: []
+"Mt18,20":
+  text: "Gdzie bowiem dwaj albo trzej są zgromadzeni w moje imię, tam jestem pośród nich."
+  tags: []
+"Mt18,21":
+  text: "Wtedy Piotr podszedł do niego i zapytał: Panie, ile razy mam przebaczyć mojemu bratu, gdy zgrzeszy przeciwko mnie? Czy aż siedem razy?"
+  tags: []
+"Mt18,22":
+  text: "I odpowiedział mu Jezus: Nie mówię ci, że aż siedem razy, ale aż siedemdziesiąt razy siedem."
+  tags: []
+"Mt18,23":
+  text: "Dlatego królestwo niebieskie podobne jest do króla, który chciał się rozliczyć ze swymi sługami."
+  tags: []
+"Mt18,24":
+  text: "A gdy zaczął się rozliczać, przyprowadzono mu jednego, który był mu winien dziesięć tysięcy talentów."
+  tags: []
+"Mt18,25":
+  text: "A ponieważ nie miał z czego oddać, jego pan kazał go sprzedać wraz z żoną, dziećmi i wszystkim, co miał, i spłacić dług."
+  tags: []
+"Mt18,26":
+  text: "Wtedy sługa upadł i oddał mu pokłon, mówiąc: Panie, okaż mi cierpliwość, a wszystko ci oddam."
+  tags: []
+"Mt18,27":
+  text: "Pan tego sługi, ulitowawszy się nad nim, uwolnił go i darował mu dług."
+  tags: []
+"Mt18,28":
+  text: "Lecz gdy ten sługa wyszedł, spotkał jednego ze swoich współsług, który był mu winien sto groszy. Chwycił go i zaczął dusić, mówiąc: Oddaj, coś winien!"
+  tags: []
+"Mt18,29":
+  text: "Wtedy jego współsługa upadł mu do nóg i prosił go: Okaż mi cierpliwość, a wszystko ci oddam."
+  tags: []
+"Mt18,30":
+  text: "On jednak nie chciał, ale poszedł i wtrącił go do więzienia, dopóki nie odda długu."
+  tags: []
+"Mt18,31":
+  text: "A jego współsłudzy, widząc, co się stało, zasmucili się bardzo i poszedłszy, oznajmili swemu panu wszystko, co zaszło."
+  tags: []
+"Mt18,32":
+  text: "Wtedy jego pan wezwał go i powiedział: Zły sługo, darowałem ci cały ten dług, ponieważ mnie prosiłeś."
+  tags: []
+"Mt18,33":
+  text: "Czyż i ty nie powinieneś był zmiłować się nad swoim współsługą, jak ja zmiłowałem się nad tobą?"
+  tags: []
+"Mt18,34":
+  text: "I jego pan, rozgniewany, wydał go katom, dopóki nie odda wszystkiego, co był mu winien."
+  tags: []
+"Mt18,35":
+  text: "Tak i wam uczyni mój Ojciec niebieski, jeśli każdy z was nie przebaczy z serca swemu bratu jego przewinień."
+  tags: []

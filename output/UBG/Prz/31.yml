@@ -1,31 +1,93 @@
-"Prz31,1": "Słowa króla Lemuela, proroctwo, którego nauczyła go jego matka."
-"Prz31,2": "Cóż, synu mój? Cóż, synu mojego łona? I cóż, synu moich ślubów?"
-"Prz31,3": "Nie oddawaj kobietom swej siły ani twoich dróg temu, co prowadzi do zguby królów."
-"Prz31,4": "Nie królom, o Lemuelu, nie królom wypada pić wina i nie książętom bawić się mocnym napojem;"
-"Prz31,5": "By pijąc, nie zapomnieli praw i nie wypaczyli sprawy wszystkich ludzi uciśnionych."
-"Prz31,6": "Dajcie mocny napój ginącym, a wino strapionym na duchu."
-"Prz31,7": "Niech się napiją i zapomną o swoim ubóstwie, i niech nie pamiętają więcej swego utrapienia."
-"Prz31,8": "Otwórz swe usta dla niemych w sprawie wszystkich osądzonych na śmierć."
-"Prz31,9": "Otwórz swe usta, sądź sprawiedliwie i broń sprawy ubogiego i nędzarza."
-"Prz31,10": "Któż znajdzie kobietę cnotliwą? Jej wartość przewyższa perły."
-"Prz31,11": "Serce męża jej ufa i zysku mu nie zabraknie."
-"Prz31,12": "Dobro mu będzie wyświadczać, a nie zło, po wszystkie dni swego życia."
-"Prz31,13": "Szuka wełny i lnu i chętnie pracuje swymi rękami."
-"Prz31,14": "Podobna jest do okrętów handlowych; przywozi żywność z daleka."
-"Prz31,15": "Wstaje, gdy jeszcze jest noc, i daje pokarm swoim domownikom i odpowiednią porcję swym służącym."
-"Prz31,16": "Myśli o polu i kupuje je; z zarobku swych rąk sadzi winnice."
-"Prz31,17": "Przepasuje swe biodra siłą i umacnia swoje ramiona."
-"Prz31,18": "Dostrzega, że jej dorobek jest dobry, a jej pochodnia w nocy nie gaśnie."
-"Prz31,19": "Wyciąga ręce po kądziel, a dłonią chwyta wrzeciono."
-"Prz31,20": "Otwiera dłoń przed ubogim i wyciąga swe ręce do nędzarza."
-"Prz31,21": "Nie boi się śniegu dla swych domowników, bo wszyscy jej domownicy są ubrani w szkarłat."
-"Prz31,22": "Robi sobie kobierce; jej ubiór jest z jedwabiu i purpury."
-"Prz31,23": "Jej mąż jest znany w bramach, gdy siedzi wśród starszyzny ziemi."
-"Prz31,24": "Wyrabia płótno i sprzedaje je, dostarcza pasy kupcowi."
-"Prz31,25": "Siła i godność są jej strojem; będzie się cieszyła jeszcze w przyszłości."
-"Prz31,26": "Otwiera swe usta mądrze i na jej języku jest prawo miłosierdzia."
-"Prz31,27": "Dogląda spraw swego domu i nie je chleba próżniactwa."
-"Prz31,28": "Jej dzieci powstają i błogosławią jej, mąż także ją chwali:"
-"Prz31,29": "Wiele kobiet poczynało sobie cnotliwie, ale ty przewyższasz je wszystkie."
-"Prz31,30": "Wdzięk jest zwodniczy i piękność próżna, lecz kobieta, która się boi PANA, jest godna pochwały."
-"Prz31,31": "Dajcie jej z owocu jej rąk i niech jej czyny chwalą ją w bramach."
+"Prz31,1":
+  text: "Słowa króla Lemuela, proroctwo, którego nauczyła go jego matka."
+  tags: []
+"Prz31,2":
+  text: "Cóż, synu mój? Cóż, synu mojego łona? I cóż, synu moich ślubów?"
+  tags: []
+"Prz31,3":
+  text: "Nie oddawaj kobietom swej siły ani twoich dróg temu, co prowadzi do zguby królów."
+  tags: []
+"Prz31,4":
+  text: "Nie królom, o Lemuelu, nie królom wypada pić wina i nie książętom bawić się mocnym napojem;"
+  tags: []
+"Prz31,5":
+  text: "By pijąc, nie zapomnieli praw i nie wypaczyli sprawy wszystkich ludzi uciśnionych."
+  tags: []
+"Prz31,6":
+  text: "Dajcie mocny napój ginącym, a wino strapionym na duchu."
+  tags: []
+"Prz31,7":
+  text: "Niech się napiją i zapomną o swoim ubóstwie, i niech nie pamiętają więcej swego utrapienia."
+  tags: []
+"Prz31,8":
+  text: "Otwórz swe usta dla niemych w sprawie wszystkich osądzonych na śmierć."
+  tags: []
+"Prz31,9":
+  text: "Otwórz swe usta, sądź sprawiedliwie i broń sprawy ubogiego i nędzarza."
+  tags: []
+"Prz31,10":
+  text: "Któż znajdzie kobietę cnotliwą? Jej wartość przewyższa perły."
+  tags: []
+"Prz31,11":
+  text: "Serce męża jej ufa i zysku mu nie zabraknie."
+  tags: []
+"Prz31,12":
+  text: "Dobro mu będzie wyświadczać, a nie zło, po wszystkie dni swego życia."
+  tags: []
+"Prz31,13":
+  text: "Szuka wełny i lnu i chętnie pracuje swymi rękami."
+  tags: []
+"Prz31,14":
+  text: "Podobna jest do okrętów handlowych; przywozi żywność z daleka."
+  tags: []
+"Prz31,15":
+  text: "Wstaje, gdy jeszcze jest noc, i daje pokarm swoim domownikom i odpowiednią porcję swym służącym."
+  tags: []
+"Prz31,16":
+  text: "Myśli o polu i kupuje je; z zarobku swych rąk sadzi winnice."
+  tags: []
+"Prz31,17":
+  text: "Przepasuje swe biodra siłą i umacnia swoje ramiona."
+  tags: []
+"Prz31,18":
+  text: "Dostrzega, że jej dorobek jest dobry, a jej pochodnia w nocy nie gaśnie."
+  tags: []
+"Prz31,19":
+  text: "Wyciąga ręce po kądziel, a dłonią chwyta wrzeciono."
+  tags: []
+"Prz31,20":
+  text: "Otwiera dłoń przed ubogim i wyciąga swe ręce do nędzarza."
+  tags: []
+"Prz31,21":
+  text: "Nie boi się śniegu dla swych domowników, bo wszyscy jej domownicy są ubrani w szkarłat."
+  tags: []
+"Prz31,22":
+  text: "Robi sobie kobierce; jej ubiór jest z jedwabiu i purpury."
+  tags: []
+"Prz31,23":
+  text: "Jej mąż jest znany w bramach, gdy siedzi wśród starszyzny ziemi."
+  tags: []
+"Prz31,24":
+  text: "Wyrabia płótno i sprzedaje je, dostarcza pasy kupcowi."
+  tags: []
+"Prz31,25":
+  text: "Siła i godność są jej strojem; będzie się cieszyła jeszcze w przyszłości."
+  tags: []
+"Prz31,26":
+  text: "Otwiera swe usta mądrze i na jej języku jest prawo miłosierdzia."
+  tags: []
+"Prz31,27":
+  text: "Dogląda spraw swego domu i nie je chleba próżniactwa."
+  tags: []
+"Prz31,28":
+  text: "Jej dzieci powstają i błogosławią jej, mąż także ją chwali:"
+  tags: []
+"Prz31,29":
+  text: "Wiele kobiet poczynało sobie cnotliwie, ale ty przewyższasz je wszystkie."
+  tags: []
+"Prz31,30":
+  text: "Wdzięk jest zwodniczy i piękność próżna, lecz kobieta, która się boi PANA, jest godna pochwały."
+  tags: []
+"Prz31,31":
+  text: "Dajcie jej z owocu jej rąk i niech jej czyny chwalą ją w bramach."
+  tags: []

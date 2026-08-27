@@ -1,27 +1,81 @@
-"Hi5,1": "Wołaj, tylko czy jest ktoś, kto ci odpowie; i do którego ze świętych się zwrócisz?"
-"Hi5,2": "Bo gniew zabija głupiego, a prostaka uśmierca zawiść."
-"Hi5,3": "Sam widziałem jak zakorzenił się głupi, lecz szybko przekląłem jego niwę."
-"Hi5,4": "Jego synowie dalecy będą od ratunku, będą musieli pogodzić się z tym, że podeptano ich w bramie, a nie ma nikogo, kto by ich ocalił."
-"Hi5,5": "Ten, kto jest głodny, pożera jego żniwo i wybiera je nawet spośród cierni, a złodziej pożąda ich bogactwa."
-"Hi5,6": "Bo utrapienie nie wychodzi z prochu ani z ziemi nie wyrasta niedola;"
-"Hi5,7": "Tak, człowiek jest zrodzony do niedoli, jak iskry wzlatujące w górę."
-"Hi5,8": "Ja jednak zwróciłbym się do Boga i przed Bogiem przedstawiłbym swoją sprawę;"
-"Hi5,9": "Temu, który czyni rzeczy wielkie i niezbadane, cudowne, że aż nie ma ich liczby;"
-"Hi5,10": "Temu, który zsyła deszcz na powierzchnię ziemi i spuszcza wody na pola;"
-"Hi5,11": "Temu, który stawia niskich na wysokości, a zasmuconych wywyższa ku wybawieniu;"
-"Hi5,12": "Temu, który udaremnia zamysły przebiegłych, aby ich ręce nie osiągnęły sukcesu;"
-"Hi5,13": "Temu, który chwyta mądrych w ich przebiegłość, a radę pokrętnych szybko obala."
-"Hi5,14": "Za dnia napotykają ciemność, a w południe macają jak w nocy –"
-"Hi5,15": "I wybawia on ubogiego od miecza z ich ust, z ręki mocarza."
-"Hi5,16": "I dla ubogiego będzie nadzieja, a nieprawość zamyka swoje usta."
-"Hi5,17": "Oto błogosławiony jest człowiek, którego Bóg strofuje; nie gardź więc karceniem Wszechmogącego."
-"Hi5,18": "Bo On rani, ale i opatruje, uderza – a Jego ręce uzdrawiają."
-"Hi5,19": "Z sześciu nieszczęść cię wyrwie, a w siódmym nie dotknie cię zło."
-"Hi5,20": "W głodzie wykupi cię od śmierci, a na wojnie od mocy miecza."
-"Hi5,21": "Przed biczem języka będziesz zasłonięty i nie ulękniesz się spustoszenia, gdy nadejdzie."
-"Hi5,22": "Będziesz się śmiał ze spustoszenia i głodu, nie ulękniesz się zwierząt ziemi."
-"Hi5,23": "Bo z kamieniami pola będziesz sprzymierzony i ze zwierzętami pól będziesz miał pokój."
-"Hi5,24": "I poznasz, że twój namiot jest bezpieczny; a gdy odwiedzisz swoją niwę, nic nie utracisz."
-"Hi5,25": "Poznasz też, że liczne jest twoje potomstwo, a twoje latorośle są jak zieleń ziemi."
-"Hi5,26": "Pełen wigoru wkroczysz do grobu, jak snop zboża zbierany w swoim czasie."
-"Hi5,27": "Oto do tego doszliśmy i tak jest. Słuchaj tego i sam rozważ to sobie."
+"Hi5,1":
+  text: "Wołaj, tylko czy jest ktoś, kto ci odpowie; i do którego ze świętych się zwrócisz?"
+  tags: []
+"Hi5,2":
+  text: "Bo gniew zabija głupiego, a prostaka uśmierca zawiść."
+  tags: []
+"Hi5,3":
+  text: "Sam widziałem jak zakorzenił się głupi, lecz szybko przekląłem jego niwę."
+  tags: []
+"Hi5,4":
+  text: "Jego synowie dalecy będą od ratunku, będą musieli pogodzić się z tym, że podeptano ich w bramie, a nie ma nikogo, kto by ich ocalił."
+  tags: []
+"Hi5,5":
+  text: "Ten, kto jest głodny, pożera jego żniwo i wybiera je nawet spośród cierni, a złodziej pożąda ich bogactwa."
+  tags: []
+"Hi5,6":
+  text: "Bo utrapienie nie wychodzi z prochu ani z ziemi nie wyrasta niedola;"
+  tags: []
+"Hi5,7":
+  text: "Tak, człowiek jest zrodzony do niedoli, jak iskry wzlatujące w górę."
+  tags: []
+"Hi5,8":
+  text: "Ja jednak zwróciłbym się do Boga i przed Bogiem przedstawiłbym swoją sprawę;"
+  tags: []
+"Hi5,9":
+  text: "Temu, który czyni rzeczy wielkie i niezbadane, cudowne, że aż nie ma ich liczby;"
+  tags: []
+"Hi5,10":
+  text: "Temu, który zsyła deszcz na powierzchnię ziemi i spuszcza wody na pola;"
+  tags: []
+"Hi5,11":
+  text: "Temu, który stawia niskich na wysokości, a zasmuconych wywyższa ku wybawieniu;"
+  tags: []
+"Hi5,12":
+  text: "Temu, który udaremnia zamysły przebiegłych, aby ich ręce nie osiągnęły sukcesu;"
+  tags: []
+"Hi5,13":
+  text: "Temu, który chwyta mądrych w ich przebiegłość, a radę pokrętnych szybko obala."
+  tags: []
+"Hi5,14":
+  text: "Za dnia napotykają ciemność, a w południe macają jak w nocy –"
+  tags: []
+"Hi5,15":
+  text: "I wybawia on ubogiego od miecza z ich ust, z ręki mocarza."
+  tags: []
+"Hi5,16":
+  text: "I dla ubogiego będzie nadzieja, a nieprawość zamyka swoje usta."
+  tags: []
+"Hi5,17":
+  text: "Oto błogosławiony jest człowiek, którego Bóg strofuje; nie gardź więc karceniem Wszechmogącego."
+  tags: []
+"Hi5,18":
+  text: "Bo On rani, ale i opatruje, uderza – a Jego ręce uzdrawiają."
+  tags: []
+"Hi5,19":
+  text: "Z sześciu nieszczęść cię wyrwie, a w siódmym nie dotknie cię zło."
+  tags: []
+"Hi5,20":
+  text: "W głodzie wykupi cię od śmierci, a na wojnie od mocy miecza."
+  tags: []
+"Hi5,21":
+  text: "Przed biczem języka będziesz zasłonięty i nie ulękniesz się spustoszenia, gdy nadejdzie."
+  tags: []
+"Hi5,22":
+  text: "Będziesz się śmiał ze spustoszenia i głodu, nie ulękniesz się zwierząt ziemi."
+  tags: []
+"Hi5,23":
+  text: "Bo z kamieniami pola będziesz sprzymierzony i ze zwierzętami pól będziesz miał pokój."
+  tags: []
+"Hi5,24":
+  text: "I poznasz, że twój namiot jest bezpieczny; a gdy odwiedzisz swoją niwę, nic nie utracisz."
+  tags: []
+"Hi5,25":
+  text: "Poznasz też, że liczne jest twoje potomstwo, a twoje latorośle są jak zieleń ziemi."
+  tags: []
+"Hi5,26":
+  text: "Pełen wigoru wkroczysz do grobu, jak snop zboża zbierany w swoim czasie."
+  tags: []
+"Hi5,27":
+  text: "Oto do tego doszliśmy i tak jest. Słuchaj tego i sam rozważ to sobie."
+  tags: []

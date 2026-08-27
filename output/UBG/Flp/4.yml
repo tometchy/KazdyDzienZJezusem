@@ -1,23 +1,69 @@
-"Flp4,1": "Dlatego, moi bracia umiłowani i utęsknieni, moja radości i korono, tak trwajcie w Panu, moi umiłowani."
-"Flp4,2": "Proszę Ewodię i proszę Syntychę, aby były jednomyślne w Panu."
-"Flp4,3": "Proszę też i ciebie, wierny towarzyszu, pomagaj tym, które razem ze mną pracowały w ewangelii, wraz z Klemensem i z innymi moimi współpracownikami, których imiona są w księdze życia."
-"Flp4,4": "Radujcie się zawsze w Panu; mówię ponownie, radujcie się."
-"Flp4,5": "Niech wasza skromność będzie znana wszystkim ludziom. Pan jest blisko."
-"Flp4,6": "Nie troszczcie się o nic, ale we wszystkim przez modlitwę i prośbę z dziękczynieniem niech wasze pragnienia będą znane Bogu."
-"Flp4,7": "A pokój Boży, który przewyższa wszelkie zrozumienie, będzie strzegł waszych serc i myśli w Chrystusie Jezusie."
-"Flp4,8": "W końcu, bracia, co prawdziwe, co uczciwe, co sprawiedliwe, co czyste, co miłe, co chwalebne, jeśli jest jakaś cnota i jakaś chwała – o tym myślcie."
-"Flp4,9": "Czyńcie to, czego się też nauczyliście, co przyjęliście, co słyszeliście i widzieliście we mnie, a Bóg pokoju będzie z wami."
-"Flp4,10": "Uradowałem się bardzo w Panu, że teraz zakwitło na nowo wasze staranie o mnie, bo staraliście się o to, lecz nie mieliście sposobności."
-"Flp4,11": "Nie mówię tego z powodu niedostatku, bo nauczyłem się poprzestawać na tym, co mam."
-"Flp4,12": "Umiem uniżać się, umiem też obfitować. Wszędzie i we wszystkim jestem wyćwiczony: umiem być syty i cierpieć głód, obfitować i znosić niedostatek."
-"Flp4,13": "Wszystko mogę w Chrystusie, który mnie umacnia."
-"Flp4,14": "Jednak dobrze uczyniliście, uczestnicząc w moim ucisku."
-"Flp4,15": "A wy, Filipianie, wiecie, że na początku ewangelii, gdy opuściłem Macedonię, żaden kościół nie uczestniczył ze mną w dawaniu i braniu, tylko wy sami."
-"Flp4,16": "Bo nawet do Tesaloniki raz i drugi posłaliście, czego mi było potrzeba."
-"Flp4,17": "Nie żebym pragnął daru, ale pragnę owocu, który by wzrastał na wasze konto."
-"Flp4,18": "Gdyż mam wszystko, i to w obfitości, jestem w pełni zaopatrzony, otrzymawszy od Epafrodyta to, co zostało posłane przez was, woń dobrego zapachu, ofiarę przyjemną i podobającą się Bogu."
-"Flp4,19": "Lecz mój Bóg zaspokoi wszelką waszą potrzebę według swego bogactwa w chwale, w Chrystusie Jezusie."
-"Flp4,20": "A Bogu i Ojcu naszemu niech będzie chwała na wieki wieków. Amen."
-"Flp4,21": "Pozdrówcie każdego świętego w Chrystusie Jezusie. Pozdrawiają was bracia, którzy są ze mną."
-"Flp4,22": "Pozdrawiają was wszyscy święci, szczególnie zaś ci z domu cesarskiego."
-"Flp4,23": "Łaska naszego Pana Jezusa Chrystusa niech będzie z wami wszystkimi. Amen."
+"Flp4,1":
+  text: "Dlatego, moi bracia umiłowani i utęsknieni, moja radości i korono, tak trwajcie w Panu, moi umiłowani."
+  tags: []
+"Flp4,2":
+  text: "Proszę Ewodię i proszę Syntychę, aby były jednomyślne w Panu."
+  tags: []
+"Flp4,3":
+  text: "Proszę też i ciebie, wierny towarzyszu, pomagaj tym, które razem ze mną pracowały w ewangelii, wraz z Klemensem i z innymi moimi współpracownikami, których imiona są w księdze życia."
+  tags: []
+"Flp4,4":
+  text: "Radujcie się zawsze w Panu; mówię ponownie, radujcie się."
+  tags: []
+"Flp4,5":
+  text: "Niech wasza skromność będzie znana wszystkim ludziom. Pan jest blisko."
+  tags: []
+"Flp4,6":
+  text: "Nie troszczcie się o nic, ale we wszystkim przez modlitwę i prośbę z dziękczynieniem niech wasze pragnienia będą znane Bogu."
+  tags: []
+"Flp4,7":
+  text: "A pokój Boży, który przewyższa wszelkie zrozumienie, będzie strzegł waszych serc i myśli w Chrystusie Jezusie."
+  tags: []
+"Flp4,8":
+  text: "W końcu, bracia, co prawdziwe, co uczciwe, co sprawiedliwe, co czyste, co miłe, co chwalebne, jeśli jest jakaś cnota i jakaś chwała – o tym myślcie."
+  tags: []
+"Flp4,9":
+  text: "Czyńcie to, czego się też nauczyliście, co przyjęliście, co słyszeliście i widzieliście we mnie, a Bóg pokoju będzie z wami."
+  tags: []
+"Flp4,10":
+  text: "Uradowałem się bardzo w Panu, że teraz zakwitło na nowo wasze staranie o mnie, bo staraliście się o to, lecz nie mieliście sposobności."
+  tags: []
+"Flp4,11":
+  text: "Nie mówię tego z powodu niedostatku, bo nauczyłem się poprzestawać na tym, co mam."
+  tags: []
+"Flp4,12":
+  text: "Umiem uniżać się, umiem też obfitować. Wszędzie i we wszystkim jestem wyćwiczony: umiem być syty i cierpieć głód, obfitować i znosić niedostatek."
+  tags: []
+"Flp4,13":
+  text: "Wszystko mogę w Chrystusie, który mnie umacnia."
+  tags: []
+"Flp4,14":
+  text: "Jednak dobrze uczyniliście, uczestnicząc w moim ucisku."
+  tags: []
+"Flp4,15":
+  text: "A wy, Filipianie, wiecie, że na początku ewangelii, gdy opuściłem Macedonię, żaden kościół nie uczestniczył ze mną w dawaniu i braniu, tylko wy sami."
+  tags: []
+"Flp4,16":
+  text: "Bo nawet do Tesaloniki raz i drugi posłaliście, czego mi było potrzeba."
+  tags: []
+"Flp4,17":
+  text: "Nie żebym pragnął daru, ale pragnę owocu, który by wzrastał na wasze konto."
+  tags: []
+"Flp4,18":
+  text: "Gdyż mam wszystko, i to w obfitości, jestem w pełni zaopatrzony, otrzymawszy od Epafrodyta to, co zostało posłane przez was, woń dobrego zapachu, ofiarę przyjemną i podobającą się Bogu."
+  tags: []
+"Flp4,19":
+  text: "Lecz mój Bóg zaspokoi wszelką waszą potrzebę według swego bogactwa w chwale, w Chrystusie Jezusie."
+  tags: []
+"Flp4,20":
+  text: "A Bogu i Ojcu naszemu niech będzie chwała na wieki wieków. Amen."
+  tags: []
+"Flp4,21":
+  text: "Pozdrówcie każdego świętego w Chrystusie Jezusie. Pozdrawiają was bracia, którzy są ze mną."
+  tags: []
+"Flp4,22":
+  text: "Pozdrawiają was wszyscy święci, szczególnie zaś ci z domu cesarskiego."
+  tags: []
+"Flp4,23":
+  text: "Łaska naszego Pana Jezusa Chrystusa niech będzie z wami wszystkimi. Amen."
+  tags: []

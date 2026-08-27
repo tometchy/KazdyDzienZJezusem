@@ -1,16 +1,48 @@
-"Pnp5,1": "Wszedłem do mojego ogrodu, moja siostro, moja oblubienico. Zbierałem moją mirrę z moimi wonnościami; zjadłem mój plaster razem z moim miodem, piję moje wino z moim mlekiem. Jedzcie, przyjaciele, pijcie i upajajcie się, moi umiłowani."
-"Pnp5,2": "Ja śpię, ale moje serce czuwa. Oto głos mojego umiłowanego, który puka! Otwórz mi, moja siostro, moja przyjaciółko, moja gołębico, moja ty bez skazy. Bo moja głowa jest pełna rosy, moje kędziory – kropli nocy."
-"Pnp5,3": "Zdjęłam mą suknię, jakże mam ponownie ją założyć? Umyłam swoje nogi, jakże mam je pobrudzić?"
-"Pnp5,4": "Mój umiłowany wysunął swoją rękę z otworu zasuwy, a moje wnętrze poruszyło się we mnie."
-"Pnp5,5": "Wstałam ja, by otworzyć mojemu umiłowanemu, a z moich rąk kapała mirra, z moich palców mirra spływała na uchwyt zasuwy."
-"Pnp5,6": "Otworzyłam ja mojemu umiłowanemu, lecz mój umiłowany już odszedł i zniknął. Moja dusza uchodziła ze mnie, kiedy mówił. Szukałam go – ale nie znalazłam, wołałam go – ale mi nie odpowiedział."
-"Pnp5,7": "Znaleźli mnie strażnicy krążący po mieście; pobili mnie, zranili mnie i zdarli mi zasłonę, ci strzegący murów."
-"Pnp5,8": "Błagam was, córki Jerozolimy: Jeśli spotkacie mojego umiłowanego, czy wiecie, co mu powiecie? Że ja jestem chora z miłości."
-"Pnp5,9": "Czym różni się twój umiłowany od innych umiłowanych, o najpiękniejsza wśród kobiet? Czym różni się twój umiłowany od innych umiłowanych, że tak nas błagasz?"
-"Pnp5,10": "Mój umiłowany jest olśniewający i rumiany, i wyróżnia się spośród dziesięciu tysięcy."
-"Pnp5,11": "Jego głowa jest jak najczystsze złoto; jego kędziory to loki, czarne niczym kruk."
-"Pnp5,12": "Jego oczy są jak gołębice nad strumieniami wód, kąpane w mleku, osadzone w swej oprawie."
-"Pnp5,13": "Jego policzki jak zagon balsamu, jak składy ziół; jego usta jak lilie ociekające ulatującą wonią mirry."
-"Pnp5,14": "Jego ręce jak złote walce wypełnione berylem; jego biodra to płyta z kości słoniowej pokryta szafirem."
-"Pnp5,15": "Jego nogi jak słupy z marmuru, założone na złotych cokołach; jego postać jak Liban, okazała jak cedry."
-"Pnp5,16": "Jego podniebienie – przesłodkie i wszystko w nim jest przepiękne. Taki jest mój umiłowany i taki jest mój przyjaciel, córki Jerozolimy."
+"Pnp5,1":
+  text: "Wszedłem do mojego ogrodu, moja siostro, moja oblubienico. Zbierałem moją mirrę z moimi wonnościami; zjadłem mój plaster razem z moim miodem, piję moje wino z moim mlekiem. Jedzcie, przyjaciele, pijcie i upajajcie się, moi umiłowani."
+  tags: []
+"Pnp5,2":
+  text: "Ja śpię, ale moje serce czuwa. Oto głos mojego umiłowanego, który puka! Otwórz mi, moja siostro, moja przyjaciółko, moja gołębico, moja ty bez skazy. Bo moja głowa jest pełna rosy, moje kędziory – kropli nocy."
+  tags: []
+"Pnp5,3":
+  text: "Zdjęłam mą suknię, jakże mam ponownie ją założyć? Umyłam swoje nogi, jakże mam je pobrudzić?"
+  tags: []
+"Pnp5,4":
+  text: "Mój umiłowany wysunął swoją rękę z otworu zasuwy, a moje wnętrze poruszyło się we mnie."
+  tags: []
+"Pnp5,5":
+  text: "Wstałam ja, by otworzyć mojemu umiłowanemu, a z moich rąk kapała mirra, z moich palców mirra spływała na uchwyt zasuwy."
+  tags: []
+"Pnp5,6":
+  text: "Otworzyłam ja mojemu umiłowanemu, lecz mój umiłowany już odszedł i zniknął. Moja dusza uchodziła ze mnie, kiedy mówił. Szukałam go – ale nie znalazłam, wołałam go – ale mi nie odpowiedział."
+  tags: []
+"Pnp5,7":
+  text: "Znaleźli mnie strażnicy krążący po mieście; pobili mnie, zranili mnie i zdarli mi zasłonę, ci strzegący murów."
+  tags: []
+"Pnp5,8":
+  text: "Błagam was, córki Jerozolimy: Jeśli spotkacie mojego umiłowanego, czy wiecie, co mu powiecie? Że ja jestem chora z miłości."
+  tags: []
+"Pnp5,9":
+  text: "Czym różni się twój umiłowany od innych umiłowanych, o najpiękniejsza wśród kobiet? Czym różni się twój umiłowany od innych umiłowanych, że tak nas błagasz?"
+  tags: []
+"Pnp5,10":
+  text: "Mój umiłowany jest olśniewający i rumiany, i wyróżnia się spośród dziesięciu tysięcy."
+  tags: []
+"Pnp5,11":
+  text: "Jego głowa jest jak najczystsze złoto; jego kędziory to loki, czarne niczym kruk."
+  tags: []
+"Pnp5,12":
+  text: "Jego oczy są jak gołębice nad strumieniami wód, kąpane w mleku, osadzone w swej oprawie."
+  tags: []
+"Pnp5,13":
+  text: "Jego policzki jak zagon balsamu, jak składy ziół; jego usta jak lilie ociekające ulatującą wonią mirry."
+  tags: []
+"Pnp5,14":
+  text: "Jego ręce jak złote walce wypełnione berylem; jego biodra to płyta z kości słoniowej pokryta szafirem."
+  tags: []
+"Pnp5,15":
+  text: "Jego nogi jak słupy z marmuru, założone na złotych cokołach; jego postać jak Liban, okazała jak cedry."
+  tags: []
+"Pnp5,16":
+  text: "Jego podniebienie – przesłodkie i wszystko w nim jest przepiękne. Taki jest mój umiłowany i taki jest mój przyjaciel, córki Jerozolimy."
+  tags: []

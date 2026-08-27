@@ -1,19 +1,57 @@
-"1P4,1": "Skoro więc Chrystus cierpiał za nas w ciele, wy również uzbrójcie się tą samą myślą, że ten, kto cierpiał w ciele, zaprzestał grzechu;"
-"1P4,2": "Aby żyć resztę czasu w ciele już nie dla ludzkich pożądliwości, lecz dla woli Boga."
-"1P4,3": "Wystarczy nam bowiem, że w minionym okresie życia spełnialiśmy zachcianki pogan, żyjąc w rozpuście, pożądliwościach, pijaństwie, biesiadach, pijatykach i niegodziwym bałwochwalstwie."
-"1P4,4": "Dlatego dziwią się, że nie nurzacie się z nimi w tym samym zalewie rozpusty, i źle o was mówią."
-"1P4,5": "Zdadzą oni sprawę temu, który gotowy jest sądzić żywych i umarłych."
-"1P4,6": "Dlatego bowiem i umarłym głoszono ewangelię, aby byli sądzeni według ludzi w ciele, ale żyli według Boga w duchu."
-"1P4,7": "Zbliża się zaś koniec wszystkiego. Bądźcie więc trzeźwi i czujni w modlitwie."
-"1P4,8": "Przede wszystkim miejcie gorliwą miłość jedni dla drugich, bo miłość zakrywa mnóstwo grzechów."
-"1P4,9": "Bądźcie dla siebie gościnni bez szemrania."
-"1P4,10": "Jako dobrzy szafarze różnorakiej łaski Bożej usługujcie sobie nawzajem tym darem, jaki każdy otrzymał."
-"1P4,11": "Jeśli ktoś przemawia, niech mówi jak wyroki Boga, jeśli ktoś usługuje, niech to czyni z mocy, której Bóg udziela, aby we wszystkim był uwielbiony Bóg przez Jezusa Chrystusa. Jemu chwała i panowanie na wieki wieków. Amen."
-"1P4,12": "Umiłowani, nie dziwcie się temu ogniowi, który na was przychodzi, aby was doświadczyć, jakby was coś niezwykłego spotkało;"
-"1P4,13": "Lecz radujcie się z tego, że jesteście uczestnikami cierpień Chrystusa, abyście i podczas objawienia jego chwały cieszyli się i weselili."
-"1P4,14": "Jeśli was znieważają z powodu imienia Chrystusa, błogosławieni jesteście, gdyż Duch chwały, Duch Boży spoczywa na was, który przez nich jest bluźniony, ale przez was jest uwielbiony."
-"1P4,15": "Nikt z was niech nie cierpi jednak jako morderca albo złodziej, albo złoczyńca, albo jako człowiek, który się wtrąca do cudzych spraw."
-"1P4,16": "Lecz jeśli cierpi jako chrześcijanin, niech się nie wstydzi, niech raczej chwali Boga z tego powodu."
-"1P4,17": "Nadszedł bowiem czas, aby sąd rozpoczął się od domu Bożego, a jeśli rozpoczyna się od nas, to jaki będzie koniec tych, którzy są nieposłuszni ewangelii Bożej?"
-"1P4,18": "A ponieważ sprawiedliwy z trudnością będzie zbawiony, gdzie się znajdzie bezbożny i grzesznik?"
-"1P4,19": "Tak więc ci, którzy cierpią zgodnie z wolą Boga, niech powierzają swoje dusze jemu jako wiernemu Stwórcy, dobrze czyniąc."
+"1P4,1":
+  text: "Skoro więc Chrystus cierpiał za nas w ciele, wy również uzbrójcie się tą samą myślą, że ten, kto cierpiał w ciele, zaprzestał grzechu;"
+  tags: []
+"1P4,2":
+  text: "Aby żyć resztę czasu w ciele już nie dla ludzkich pożądliwości, lecz dla woli Boga."
+  tags: []
+"1P4,3":
+  text: "Wystarczy nam bowiem, że w minionym okresie życia spełnialiśmy zachcianki pogan, żyjąc w rozpuście, pożądliwościach, pijaństwie, biesiadach, pijatykach i niegodziwym bałwochwalstwie."
+  tags: []
+"1P4,4":
+  text: "Dlatego dziwią się, że nie nurzacie się z nimi w tym samym zalewie rozpusty, i źle o was mówią."
+  tags: []
+"1P4,5":
+  text: "Zdadzą oni sprawę temu, który gotowy jest sądzić żywych i umarłych."
+  tags: []
+"1P4,6":
+  text: "Dlatego bowiem i umarłym głoszono ewangelię, aby byli sądzeni według ludzi w ciele, ale żyli według Boga w duchu."
+  tags: []
+"1P4,7":
+  text: "Zbliża się zaś koniec wszystkiego. Bądźcie więc trzeźwi i czujni w modlitwie."
+  tags: []
+"1P4,8":
+  text: "Przede wszystkim miejcie gorliwą miłość jedni dla drugich, bo miłość zakrywa mnóstwo grzechów."
+  tags: []
+"1P4,9":
+  text: "Bądźcie dla siebie gościnni bez szemrania."
+  tags: []
+"1P4,10":
+  text: "Jako dobrzy szafarze różnorakiej łaski Bożej usługujcie sobie nawzajem tym darem, jaki każdy otrzymał."
+  tags: []
+"1P4,11":
+  text: "Jeśli ktoś przemawia, niech mówi jak wyroki Boga, jeśli ktoś usługuje, niech to czyni z mocy, której Bóg udziela, aby we wszystkim był uwielbiony Bóg przez Jezusa Chrystusa. Jemu chwała i panowanie na wieki wieków. Amen."
+  tags: []
+"1P4,12":
+  text: "Umiłowani, nie dziwcie się temu ogniowi, który na was przychodzi, aby was doświadczyć, jakby was coś niezwykłego spotkało;"
+  tags: []
+"1P4,13":
+  text: "Lecz radujcie się z tego, że jesteście uczestnikami cierpień Chrystusa, abyście i podczas objawienia jego chwały cieszyli się i weselili."
+  tags: []
+"1P4,14":
+  text: "Jeśli was znieważają z powodu imienia Chrystusa, błogosławieni jesteście, gdyż Duch chwały, Duch Boży spoczywa na was, który przez nich jest bluźniony, ale przez was jest uwielbiony."
+  tags: []
+"1P4,15":
+  text: "Nikt z was niech nie cierpi jednak jako morderca albo złodziej, albo złoczyńca, albo jako człowiek, który się wtrąca do cudzych spraw."
+  tags: []
+"1P4,16":
+  text: "Lecz jeśli cierpi jako chrześcijanin, niech się nie wstydzi, niech raczej chwali Boga z tego powodu."
+  tags: []
+"1P4,17":
+  text: "Nadszedł bowiem czas, aby sąd rozpoczął się od domu Bożego, a jeśli rozpoczyna się od nas, to jaki będzie koniec tych, którzy są nieposłuszni ewangelii Bożej?"
+  tags: []
+"1P4,18":
+  text: "A ponieważ sprawiedliwy z trudnością będzie zbawiony, gdzie się znajdzie bezbożny i grzesznik?"
+  tags: []
+"1P4,19":
+  text: "Tak więc ci, którzy cierpią zgodnie z wolą Boga, niech powierzają swoje dusze jemu jako wiernemu Stwórcy, dobrze czyniąc."
+  tags: []

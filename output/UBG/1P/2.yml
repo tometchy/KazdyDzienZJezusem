@@ -1,25 +1,75 @@
-"1P2,1": "Odrzucając więc wszelką złośliwość, wszelki podstęp i obłudę, zazdrość i wszelkie obmowy;"
-"1P2,2": "Jak nowo narodzone niemowlęta pragnijcie czystego mleka słowa Bożego, abyście dzięki niemu rośli;"
-"1P2,3": "Jeśli tylko zakosztowaliście, że Pan jest dobry."
-"1P2,4": "Zbliżając się do niego, do kamienia żywego, odrzuconego wprawdzie przez ludzi, ale przez Boga wybranego i drogocennego;"
-"1P2,5": "I wy sami, jak żywe kamienie, jesteście budowani w duchowy dom, stanowicie święte kapłaństwo, aby składać duchowe ofiary, przyjemne Bogu przez Jezusa Chrystusa."
-"1P2,6": "Dlatego mówi Pismo: Oto kładę na Syjonie kamień węgielny, wybrany, drogocenny, a kto w niego wierzy, nie będzie zawstydzony."
-"1P2,7": "Dla was więc, którzy wierzycie, jest on cenny, dla nieposłusznych zaś ten kamień, który odrzucili budujący, stał się kamieniem węgielnym;"
-"1P2,8": "Kamieniem potknięcia i skałą zgorszenia dla tych, którzy nie wierząc, potykają się o słowo, na co też są przeznaczeni."
-"1P2,9": "Lecz wy jesteście rodem wybranym, królewskim kapłaństwem, narodem świętym, ludem nabytym, abyście rozgłaszali cnoty tego, który was powołał z ciemności do swej cudownej światłości;"
-"1P2,10": "Wy, którzy kiedyś nie byliście ludem, teraz jesteście ludem Bożym, wy, którzy kiedyś nie dostąpiliście miłosierdzia, teraz miłosierdzia dostąpiliście."
-"1P2,11": "Umiłowani, proszę was, abyście jak obcy i goście powstrzymywali się od cielesnych pożądliwości, które walczą przeciwko duszy."
-"1P2,12": "Postępujcie wśród pogan nienagannie, aby ci, którzy oczerniają was jako złoczyńców, przypatrując się waszym dobrym uczynkom, chwalili Boga w dniu nawiedzenia."
-"1P2,13": "Bądźcie więc poddani każdej ludzkiej władzy ze względu na Pana: czy to królowi jako najwyżej postawionemu;"
-"1P2,14": "Czy to namiestnikom jako przez niego posłanym dla karania złoczyńców i udzielania pochwały tym, którzy dobrze czynią."
-"1P2,15": "Taka bowiem jest wola Boga, abyście dobrze czyniąc, zamknęli usta niewiedzy głupich ludzi;"
-"1P2,16": "Jak ludzie wolni, ale nie jak ci, którzy używają wolności jako zasłony dla zła, lecz jak słudzy Boga."
-"1P2,17": "Wszystkich szanujcie, braci miłujcie, Boga się bójcie, króla czcijcie."
-"1P2,18": "Słudzy, z całą bojaźnią bądźcie poddani panom, nie tylko dobrym i łagodnym, ale też przykrym."
-"1P2,19": "To bowiem podoba się Bogu, jeśli ktoś znosi smutki ze względu na sumienie wobec Boga, cierpiąc niewinnie."
-"1P2,20": "Bo cóż to za chwała, jeśli grzesząc, cierpliwie znosicie, choćby was i pięściami bito? Lecz jeśli dobrze czynicie i znosicie cierpienia, to podoba się Bogu."
-"1P2,21": "Do tego bowiem jesteście powołani, bo i Chrystus cierpiał za nas, zostawiając nam przykład, abyście szli w jego ślady;"
-"1P2,22": "Który grzechu nie popełnił, a w jego ustach nie znaleziono podstępu;"
-"1P2,23": "Który, gdy mu złorzeczono, nie odpowiadał złorzeczeniem, gdy cierpiał, nie groził, ale powierzył sprawę temu, który sądzi sprawiedliwie."
-"1P2,24": "On nasze grzechy na swoim ciele poniósł na drzewo, abyśmy obumarłszy grzechom, żyli dla sprawiedliwości; przez jego rany zostaliście uzdrowieni."
-"1P2,25": "Byliście bowiem jak zbłąkane owce, lecz teraz nawróciliście się do Pasterza i Biskupa waszych dusz."
+"1P2,1":
+  text: "Odrzucając więc wszelką złośliwość, wszelki podstęp i obłudę, zazdrość i wszelkie obmowy;"
+  tags: []
+"1P2,2":
+  text: "Jak nowo narodzone niemowlęta pragnijcie czystego mleka słowa Bożego, abyście dzięki niemu rośli;"
+  tags: []
+"1P2,3":
+  text: "Jeśli tylko zakosztowaliście, że Pan jest dobry."
+  tags: []
+"1P2,4":
+  text: "Zbliżając się do niego, do kamienia żywego, odrzuconego wprawdzie przez ludzi, ale przez Boga wybranego i drogocennego;"
+  tags: []
+"1P2,5":
+  text: "I wy sami, jak żywe kamienie, jesteście budowani w duchowy dom, stanowicie święte kapłaństwo, aby składać duchowe ofiary, przyjemne Bogu przez Jezusa Chrystusa."
+  tags: []
+"1P2,6":
+  text: "Dlatego mówi Pismo: Oto kładę na Syjonie kamień węgielny, wybrany, drogocenny, a kto w niego wierzy, nie będzie zawstydzony."
+  tags: []
+"1P2,7":
+  text: "Dla was więc, którzy wierzycie, jest on cenny, dla nieposłusznych zaś ten kamień, który odrzucili budujący, stał się kamieniem węgielnym;"
+  tags: []
+"1P2,8":
+  text: "Kamieniem potknięcia i skałą zgorszenia dla tych, którzy nie wierząc, potykają się o słowo, na co też są przeznaczeni."
+  tags: []
+"1P2,9":
+  text: "Lecz wy jesteście rodem wybranym, królewskim kapłaństwem, narodem świętym, ludem nabytym, abyście rozgłaszali cnoty tego, który was powołał z ciemności do swej cudownej światłości;"
+  tags: []
+"1P2,10":
+  text: "Wy, którzy kiedyś nie byliście ludem, teraz jesteście ludem Bożym, wy, którzy kiedyś nie dostąpiliście miłosierdzia, teraz miłosierdzia dostąpiliście."
+  tags: []
+"1P2,11":
+  text: "Umiłowani, proszę was, abyście jak obcy i goście powstrzymywali się od cielesnych pożądliwości, które walczą przeciwko duszy."
+  tags: []
+"1P2,12":
+  text: "Postępujcie wśród pogan nienagannie, aby ci, którzy oczerniają was jako złoczyńców, przypatrując się waszym dobrym uczynkom, chwalili Boga w dniu nawiedzenia."
+  tags: []
+"1P2,13":
+  text: "Bądźcie więc poddani każdej ludzkiej władzy ze względu na Pana: czy to królowi jako najwyżej postawionemu;"
+  tags: []
+"1P2,14":
+  text: "Czy to namiestnikom jako przez niego posłanym dla karania złoczyńców i udzielania pochwały tym, którzy dobrze czynią."
+  tags: []
+"1P2,15":
+  text: "Taka bowiem jest wola Boga, abyście dobrze czyniąc, zamknęli usta niewiedzy głupich ludzi;"
+  tags: []
+"1P2,16":
+  text: "Jak ludzie wolni, ale nie jak ci, którzy używają wolności jako zasłony dla zła, lecz jak słudzy Boga."
+  tags: []
+"1P2,17":
+  text: "Wszystkich szanujcie, braci miłujcie, Boga się bójcie, króla czcijcie."
+  tags: []
+"1P2,18":
+  text: "Słudzy, z całą bojaźnią bądźcie poddani panom, nie tylko dobrym i łagodnym, ale też przykrym."
+  tags: []
+"1P2,19":
+  text: "To bowiem podoba się Bogu, jeśli ktoś znosi smutki ze względu na sumienie wobec Boga, cierpiąc niewinnie."
+  tags: []
+"1P2,20":
+  text: "Bo cóż to za chwała, jeśli grzesząc, cierpliwie znosicie, choćby was i pięściami bito? Lecz jeśli dobrze czynicie i znosicie cierpienia, to podoba się Bogu."
+  tags: []
+"1P2,21":
+  text: "Do tego bowiem jesteście powołani, bo i Chrystus cierpiał za nas, zostawiając nam przykład, abyście szli w jego ślady;"
+  tags: []
+"1P2,22":
+  text: "Który grzechu nie popełnił, a w jego ustach nie znaleziono podstępu;"
+  tags: []
+"1P2,23":
+  text: "Który, gdy mu złorzeczono, nie odpowiadał złorzeczeniem, gdy cierpiał, nie groził, ale powierzył sprawę temu, który sądzi sprawiedliwie."
+  tags: []
+"1P2,24":
+  text: "On nasze grzechy na swoim ciele poniósł na drzewo, abyśmy obumarłszy grzechom, żyli dla sprawiedliwości; przez jego rany zostaliście uzdrowieni."
+  tags: []
+"1P2,25":
+  text: "Byliście bowiem jak zbłąkane owce, lecz teraz nawróciliście się do Pasterza i Biskupa waszych dusz."
+  tags: []

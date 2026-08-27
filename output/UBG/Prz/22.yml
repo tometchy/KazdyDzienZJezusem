@@ -1,29 +1,87 @@
-"Prz22,1": "Cenniejsze jest dobre imię niż wielkie bogactwa, a przychylność lepsza niż srebro i złoto."
-"Prz22,2": "Bogaty i ubogi spotykają się, PAN jest stwórcą obydwu."
-"Prz22,3": "Roztropny dostrzega zło i ukrywa się, ale prości idą dalej i ponoszą karę."
-"Prz22,4": "Owocem pokory i bojaźni PANA jest bogactwo, chwała i życie."
-"Prz22,5": "Ciernie i sidła są na drodze przewrotnego; kto strzeże swej duszy, trzyma się z dala od nich."
-"Prz22,6": "Pouczaj dziecko w drodze, którą ma iść, a gdy się zestarzeje, nie odstąpi od niej."
-"Prz22,7": "Bogaty panuje nad ubogimi, a ten, co pożycza, jest sługą tego, który mu pożycza."
-"Prz22,8": "Kto sieje nieprawość, będzie żąć cierpienie, a rózga jego gniewu przepadnie."
-"Prz22,9": "Kto ma dobrotliwe oko, będzie błogosławiony, bo dzieli się swym chlebem z ubogim."
-"Prz22,10": "Wyrzuć szydercę, a ustanie spór, owszem, zakończy się kłótnia i zniewaga."
-"Prz22,11": "Kto kocha czystość serca, tego wdzięk warg sprawi, że król będzie jego przyjacielem."
-"Prz22,12": "Oczy PANA strzegą wiedzy, a on obala słowa przewrotnego."
-"Prz22,13": "Leniwy mówi: Lew jest na dworze, będę zabity na środku ulicy."
-"Prz22,14": "Usta obcych kobiet są głębokim dołem; wpadnie tam ten, na kogo PAN się gniewa."
-"Prz22,15": "Głupota jest przywiązana do serca dziecka, ale rózga karności wypędzi ją z niego."
-"Prz22,16": "Kto ciemięży ubogiego, aby przysporzyć sobie bogactwa, i kto daje bogatemu, pewnie zubożeje."
-"Prz22,17": "Nadstaw ucha i słuchaj słów mędrców, i skłoń swe serce do mojej wiedzy;"
-"Prz22,18": "Bo to miło, jeśli zachowasz je w swoim sercu, będą razem ułożone na wargach."
-"Prz22,19": "Oznajmiłem to dzisiaj właśnie tobie, abyś pokładał ufność w PANU."
-"Prz22,20": "Czy nie napisałem ci znamienitych rzeczy zawierających rady i wiedzę;"
-"Prz22,21": "Aby dać ci poznać pewność słów prawdy; abyś umiał odpowiedzieć słowami prawdy tym, którzy do ciebie posyłają?"
-"Prz22,22": "Nie okradaj nędzarza, ponieważ jest ubogi, ani nie uciskaj w bramie biednego."
-"Prz22,23": "PAN bowiem będzie bronił ich sprawy i wydrze duszę tym, którzy im wydzierają."
-"Prz22,24": "Nie przyjaźnij się z człowiekiem gniewliwym i nie obcuj z człowiekiem porywczym."
-"Prz22,25": "Byś nie przywykł do jego dróg i nie zastawił sideł na swą duszę."
-"Prz22,26": "Nie bądź z tych, którzy dają porękę, ani z tych, którzy ręczą za długi;"
-"Prz22,27": "Jeśli nie masz czym zapłacić, dlaczego miałby ktoś zabrać spod ciebie posłanie?"
-"Prz22,28": "Nie przesuwaj dawnej granicy, którą ustalili twoi ojcowie."
-"Prz22,29": "Widzisz człowieka pilnego w swoich sprawach? On będzie stał przed królami, nie będzie stał przed podłymi."
+"Prz22,1":
+  text: "Cenniejsze jest dobre imię niż wielkie bogactwa, a przychylność lepsza niż srebro i złoto."
+  tags: []
+"Prz22,2":
+  text: "Bogaty i ubogi spotykają się, PAN jest stwórcą obydwu."
+  tags: []
+"Prz22,3":
+  text: "Roztropny dostrzega zło i ukrywa się, ale prości idą dalej i ponoszą karę."
+  tags: []
+"Prz22,4":
+  text: "Owocem pokory i bojaźni PANA jest bogactwo, chwała i życie."
+  tags: []
+"Prz22,5":
+  text: "Ciernie i sidła są na drodze przewrotnego; kto strzeże swej duszy, trzyma się z dala od nich."
+  tags: []
+"Prz22,6":
+  text: "Pouczaj dziecko w drodze, którą ma iść, a gdy się zestarzeje, nie odstąpi od niej."
+  tags: []
+"Prz22,7":
+  text: "Bogaty panuje nad ubogimi, a ten, co pożycza, jest sługą tego, który mu pożycza."
+  tags: []
+"Prz22,8":
+  text: "Kto sieje nieprawość, będzie żąć cierpienie, a rózga jego gniewu przepadnie."
+  tags: []
+"Prz22,9":
+  text: "Kto ma dobrotliwe oko, będzie błogosławiony, bo dzieli się swym chlebem z ubogim."
+  tags: []
+"Prz22,10":
+  text: "Wyrzuć szydercę, a ustanie spór, owszem, zakończy się kłótnia i zniewaga."
+  tags: []
+"Prz22,11":
+  text: "Kto kocha czystość serca, tego wdzięk warg sprawi, że król będzie jego przyjacielem."
+  tags: []
+"Prz22,12":
+  text: "Oczy PANA strzegą wiedzy, a on obala słowa przewrotnego."
+  tags: []
+"Prz22,13":
+  text: "Leniwy mówi: Lew jest na dworze, będę zabity na środku ulicy."
+  tags: []
+"Prz22,14":
+  text: "Usta obcych kobiet są głębokim dołem; wpadnie tam ten, na kogo PAN się gniewa."
+  tags: []
+"Prz22,15":
+  text: "Głupota jest przywiązana do serca dziecka, ale rózga karności wypędzi ją z niego."
+  tags: []
+"Prz22,16":
+  text: "Kto ciemięży ubogiego, aby przysporzyć sobie bogactwa, i kto daje bogatemu, pewnie zubożeje."
+  tags: []
+"Prz22,17":
+  text: "Nadstaw ucha i słuchaj słów mędrców, i skłoń swe serce do mojej wiedzy;"
+  tags: []
+"Prz22,18":
+  text: "Bo to miło, jeśli zachowasz je w swoim sercu, będą razem ułożone na wargach."
+  tags: []
+"Prz22,19":
+  text: "Oznajmiłem to dzisiaj właśnie tobie, abyś pokładał ufność w PANU."
+  tags: []
+"Prz22,20":
+  text: "Czy nie napisałem ci znamienitych rzeczy zawierających rady i wiedzę;"
+  tags: []
+"Prz22,21":
+  text: "Aby dać ci poznać pewność słów prawdy; abyś umiał odpowiedzieć słowami prawdy tym, którzy do ciebie posyłają?"
+  tags: []
+"Prz22,22":
+  text: "Nie okradaj nędzarza, ponieważ jest ubogi, ani nie uciskaj w bramie biednego."
+  tags: []
+"Prz22,23":
+  text: "PAN bowiem będzie bronił ich sprawy i wydrze duszę tym, którzy im wydzierają."
+  tags: []
+"Prz22,24":
+  text: "Nie przyjaźnij się z człowiekiem gniewliwym i nie obcuj z człowiekiem porywczym."
+  tags: []
+"Prz22,25":
+  text: "Byś nie przywykł do jego dróg i nie zastawił sideł na swą duszę."
+  tags: []
+"Prz22,26":
+  text: "Nie bądź z tych, którzy dają porękę, ani z tych, którzy ręczą za długi;"
+  tags: []
+"Prz22,27":
+  text: "Jeśli nie masz czym zapłacić, dlaczego miałby ktoś zabrać spod ciebie posłanie?"
+  tags: []
+"Prz22,28":
+  text: "Nie przesuwaj dawnej granicy, którą ustalili twoi ojcowie."
+  tags: []
+"Prz22,29":
+  text: "Widzisz człowieka pilnego w swoich sprawach? On będzie stał przed królami, nie będzie stał przed podłymi."
+  tags: []

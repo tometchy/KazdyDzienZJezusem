@@ -1,15 +1,45 @@
-"Est3,1": "Po tych wydarzeniach król Achaszwerosz wywyższył Hamana, syna Hammedaty Agagity, wyniósł go i ustanowił jego tron ponad wszystkimi książętami, którzy byli przy nim."
-"Est3,2": "A wszyscy słudzy króla, którzy byli w Bramie Królewskiej, klękali przed Hamanem i oddawali mu pokłon. Bo tak rozkazał co do niego król. Ale Mordocheusz nie klękał przed nim i nie oddawał mu pokłonu."
-"Est3,3": "A słudzy króla, którzy byli w bramie króla, mówili do Mordocheusza: Dlaczego ty przekraczasz rozporządzenie króla?"
-"Est3,4": "A stało się, gdy mówili do niego dzień w dzień, a on ich nie słuchał, że donieśli o tym Hamanowi, aby zobaczyć, czy ostaną się słowa Mordocheusza. Bo obwieścił im, że on jest Żydem."
-"Est3,5": "A gdy Haman zobaczył, że Mordocheusz nie klęka i nie oddaje mu pokłonu, napełnił Hamana gniew."
-"Est3,6": "Lecz uznał za uwłaczające w swoich oczach, aby podnieść rękę na samego Mordocheusza, gdyż doniesiono mu o narodzie Mordocheusza. Szukał więc Haman sposobności, aby wytracić wszystkich Żydów, którzy byli w całym królestwie Achaszwerosza – to jest naród Mordocheusza."
-"Est3,7": "W pierwszym miesiącu, to jest w miesiącu Nisan, w dwunastym roku panowania króla Achaszwerosza, rzucano przed Hamanem Pur, to jest los, z dnia na dzień i z miesiąca na miesiąc dwunasty, to jest miesiąc Adar."
-"Est3,8": "I powiedział Haman do króla Achaszwerosza: Jest jeden lud rozproszony i rozdzielony pomiędzy ludami we wszystkich prowincjach twojego królestwa. A jego prawa są inne od praw wszystkich innych ludów, i nie przestrzegają oni praw króla. A dla króla nie jest korzystne pozostawić ich w spokoju."
-"Est3,9": "Jeśli to, co powyżej król uzna za dobre, niech zostanie zapisane, że mają być wytępieni. A ja odważę dziesięć tysięcy talentów srebra na ręce wykonawców tego dzieła, aby je wnieść do skarbca króla."
-"Est3,10": "Wtedy król zsunął pierścień ze swojej ręki i dał go Hamanowi, synowi Hammedaty – Agagicie, gnębicielowi Żydów."
-"Est3,11": "Król powiedział do Hamana: To srebro pozostawiam tobie i ten lud, abyś uczynił z nim to, co uznasz za dobre w twoich oczach."
-"Est3,12": "Zwołano zatem pisarzy króla w pierwszym miesiącu, dnia trzynastego tego miesiąca, i zapisano wszystko tak, jak Haman rozkazał, do satrapów króla, i do namiestników, którzy byli nad każdą prowincją i do książąt każdego ludu z każdej prowincji według ich pisma i do każdego ludu według ich języka. Napisano w imieniu króla Achaszwerosza i opieczętowano sygnetem z pieczęcią króla."
-"Est3,13": "Potem rozesłano listy przez ręce gońców do wszystkich prowincji króla, aby zgładzić, pozabijać i wytępić wszystkich Żydów, od młodego do starca, małe dzieci i kobiety, w jeden dzień – trzynastego dnia dwunastego miesiąca, to jest miesiąca Adar, i zedrzeć z nich łupy."
-"Est3,14": "A odpis tego pisma miał być podany jako zarządzenie w każdej poszczególnej prowincji, ogłoszony wszystkim ludom, aby były gotowe na ten dzień."
-"Est3,15": "Gońcy więc wyruszyli przynaglani słowem króla, a zarządzenie zostało podane także w pałacu w Suzie. A król i Haman zasiedli, aby pić, lecz miasto Suza ogarnęło zamieszanie."
+"Est3,1":
+  text: "Po tych wydarzeniach król Achaszwerosz wywyższył Hamana, syna Hammedaty Agagity, wyniósł go i ustanowił jego tron ponad wszystkimi książętami, którzy byli przy nim."
+  tags: []
+"Est3,2":
+  text: "A wszyscy słudzy króla, którzy byli w Bramie Królewskiej, klękali przed Hamanem i oddawali mu pokłon. Bo tak rozkazał co do niego król. Ale Mordocheusz nie klękał przed nim i nie oddawał mu pokłonu."
+  tags: []
+"Est3,3":
+  text: "A słudzy króla, którzy byli w bramie króla, mówili do Mordocheusza: Dlaczego ty przekraczasz rozporządzenie króla?"
+  tags: []
+"Est3,4":
+  text: "A stało się, gdy mówili do niego dzień w dzień, a on ich nie słuchał, że donieśli o tym Hamanowi, aby zobaczyć, czy ostaną się słowa Mordocheusza. Bo obwieścił im, że on jest Żydem."
+  tags: []
+"Est3,5":
+  text: "A gdy Haman zobaczył, że Mordocheusz nie klęka i nie oddaje mu pokłonu, napełnił Hamana gniew."
+  tags: []
+"Est3,6":
+  text: "Lecz uznał za uwłaczające w swoich oczach, aby podnieść rękę na samego Mordocheusza, gdyż doniesiono mu o narodzie Mordocheusza. Szukał więc Haman sposobności, aby wytracić wszystkich Żydów, którzy byli w całym królestwie Achaszwerosza – to jest naród Mordocheusza."
+  tags: []
+"Est3,7":
+  text: "W pierwszym miesiącu, to jest w miesiącu Nisan, w dwunastym roku panowania króla Achaszwerosza, rzucano przed Hamanem Pur, to jest los, z dnia na dzień i z miesiąca na miesiąc dwunasty, to jest miesiąc Adar."
+  tags: []
+"Est3,8":
+  text: "I powiedział Haman do króla Achaszwerosza: Jest jeden lud rozproszony i rozdzielony pomiędzy ludami we wszystkich prowincjach twojego królestwa. A jego prawa są inne od praw wszystkich innych ludów, i nie przestrzegają oni praw króla. A dla króla nie jest korzystne pozostawić ich w spokoju."
+  tags: []
+"Est3,9":
+  text: "Jeśli to, co powyżej król uzna za dobre, niech zostanie zapisane, że mają być wytępieni. A ja odważę dziesięć tysięcy talentów srebra na ręce wykonawców tego dzieła, aby je wnieść do skarbca króla."
+  tags: []
+"Est3,10":
+  text: "Wtedy król zsunął pierścień ze swojej ręki i dał go Hamanowi, synowi Hammedaty – Agagicie, gnębicielowi Żydów."
+  tags: []
+"Est3,11":
+  text: "Król powiedział do Hamana: To srebro pozostawiam tobie i ten lud, abyś uczynił z nim to, co uznasz za dobre w twoich oczach."
+  tags: []
+"Est3,12":
+  text: "Zwołano zatem pisarzy króla w pierwszym miesiącu, dnia trzynastego tego miesiąca, i zapisano wszystko tak, jak Haman rozkazał, do satrapów króla, i do namiestników, którzy byli nad każdą prowincją i do książąt każdego ludu z każdej prowincji według ich pisma i do każdego ludu według ich języka. Napisano w imieniu króla Achaszwerosza i opieczętowano sygnetem z pieczęcią króla."
+  tags: []
+"Est3,13":
+  text: "Potem rozesłano listy przez ręce gońców do wszystkich prowincji króla, aby zgładzić, pozabijać i wytępić wszystkich Żydów, od młodego do starca, małe dzieci i kobiety, w jeden dzień – trzynastego dnia dwunastego miesiąca, to jest miesiąca Adar, i zedrzeć z nich łupy."
+  tags: []
+"Est3,14":
+  text: "A odpis tego pisma miał być podany jako zarządzenie w każdej poszczególnej prowincji, ogłoszony wszystkim ludom, aby były gotowe na ten dzień."
+  tags: []
+"Est3,15":
+  text: "Gońcy więc wyruszyli przynaglani słowem króla, a zarządzenie zostało podane także w pałacu w Suzie. A król i Haman zasiedli, aby pić, lecz miasto Suza ogarnęło zamieszanie."
+  tags: []

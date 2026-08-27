@@ -1,19 +1,57 @@
-"Na3,1": "Biada miastu krwawemu; całe jest pełne kłamstwa, wypełnia je grabież, a łup się nie oddala."
-"Na3,2": "Słuchaj! Oto odgłos bicza i odgłos turkotu koła, galopujący koń i podskakujący rydwan."
-"Na3,3": "Wkracza jeździec i ostrze miecza, i lśniący oszczep; wielu będzie zabitych i wielka liczba zwłok, a trupom nie ma końca, a przez ciała zabitych będą się przewracać."
-"Na3,4": "Z powodu ogromu nierządu, tej rozkosznej nierządnicy, urokliwej władczyni czarów, sprzedającej narody w swoim nierządzie i rodziny w swoich czarach."
-"Na3,5": "Oto Ja jestem przeciwko tobie – oświadczenie JHWH Zastępów i podwinę twoją suknię na twoją twarz, i pokażę narodom twoją nagość, a królestwom twoją hańbę."
-"Na3,6": "I obrzucę cię nieczystościami i znieważę cię, i wystawię cię na widowisko,"
-"Na3,7": "I stanie się, że każdy patrzący na ciebie, ucieknie od ciebie i powie: Niniwa jest spustoszona, kto się nad nią użali? Gdzie znajdę tych, którzy ciebie pocieszają?"
-"Na3,8": "Czy ty jesteś lepsza niż No-Amon, leżąca między rzekami, otoczona wodami; z morzem jako wałem i z morzem jako jego murem?"
-"Na3,9": "Kusz był jej siłą i Egipcjanie – bez granic, Put i Libijczycy byli twoją pomocą;"
-"Na3,10": "Ona także poszła na wygnanie i w niewolę; jej dzieci roztrzaskano na rogach wszystkich ulic, a o obdarzonych czcią rzucali los, i wszyscy jej wielcy zostali związani pętami."
-"Na3,11": "Także i ty będziesz upojona i przykryją cię. Także i ty będziesz szukać schronienia przed nieprzyjacielem."
-"Na3,12": "Wszystkie twoje twierdze to figowce z wczesnymi owocami, gdy zostaną potrząśnięte, wpadają do ust jedzącego."
-"Na3,13": "Oto twój lud to kobiety pośród ciebie dla twoich nieprzyjaciół, szeroko otworzą bramy twojej ziemi, ogień pożre twoje zasuwy."
-"Na3,14": "Naczerp dla siebie wody na oblężenie, wzmocnij twoje twierdze, wejdź do błota i ugniataj glinę, napraw formę do cegieł;"
-"Na3,15": "Tam jednak pochłonie cię ogień, zetnie cię miecz, pożre cię jak gąsienica; stań się licznym jak gąsienica, stań się licznym jak szarańcza wędrowna."
-"Na3,16": "Uczyniłaś liczniejszymi swoich handlarzy od gwiazd na niebiosach; szarańcza się wykluła i odlatuje."
-"Na3,17": "Książęta twoi są jak szarańcza, a twoi urzędnicy jak chmara szarańczy. Chmara szarańczy, która obozuje na murach w chłodny dzień, a gdy wzeszło słońce, zaraz odlatują, i nikt nie wie gdzie jest jej miejsce."
-"Na3,18": "Zdrzemnęli się twoi pasterze, królu Asyrii! Zasną twoi dostojnicy; lud twój rozproszony jest po górach i nie ma, kto by go zgromadził."
-"Na3,19": "Nie ma lekarstwa na twoje rozbicie, nieuleczona jest twoja rana; każdy, kto słyszy wieść o tobie, będzie klaskać w dłonie nad tobą; bo na kogo nie przechodziła ustawicznie twoja niegodziwość?"
+"Na3,1":
+  text: "Biada miastu krwawemu; całe jest pełne kłamstwa, wypełnia je grabież, a łup się nie oddala."
+  tags: []
+"Na3,2":
+  text: "Słuchaj! Oto odgłos bicza i odgłos turkotu koła, galopujący koń i podskakujący rydwan."
+  tags: []
+"Na3,3":
+  text: "Wkracza jeździec i ostrze miecza, i lśniący oszczep; wielu będzie zabitych i wielka liczba zwłok, a trupom nie ma końca, a przez ciała zabitych będą się przewracać."
+  tags: []
+"Na3,4":
+  text: "Z powodu ogromu nierządu, tej rozkosznej nierządnicy, urokliwej władczyni czarów, sprzedającej narody w swoim nierządzie i rodziny w swoich czarach."
+  tags: []
+"Na3,5":
+  text: "Oto Ja jestem przeciwko tobie – oświadczenie JHWH Zastępów i podwinę twoją suknię na twoją twarz, i pokażę narodom twoją nagość, a królestwom twoją hańbę."
+  tags: []
+"Na3,6":
+  text: "I obrzucę cię nieczystościami i znieważę cię, i wystawię cię na widowisko,"
+  tags: []
+"Na3,7":
+  text: "I stanie się, że każdy patrzący na ciebie, ucieknie od ciebie i powie: Niniwa jest spustoszona, kto się nad nią użali? Gdzie znajdę tych, którzy ciebie pocieszają?"
+  tags: []
+"Na3,8":
+  text: "Czy ty jesteś lepsza niż No-Amon, leżąca między rzekami, otoczona wodami; z morzem jako wałem i z morzem jako jego murem?"
+  tags: []
+"Na3,9":
+  text: "Kusz był jej siłą i Egipcjanie – bez granic, Put i Libijczycy byli twoją pomocą;"
+  tags: []
+"Na3,10":
+  text: "Ona także poszła na wygnanie i w niewolę; jej dzieci roztrzaskano na rogach wszystkich ulic, a o obdarzonych czcią rzucali los, i wszyscy jej wielcy zostali związani pętami."
+  tags: []
+"Na3,11":
+  text: "Także i ty będziesz upojona i przykryją cię. Także i ty będziesz szukać schronienia przed nieprzyjacielem."
+  tags: []
+"Na3,12":
+  text: "Wszystkie twoje twierdze to figowce z wczesnymi owocami, gdy zostaną potrząśnięte, wpadają do ust jedzącego."
+  tags: []
+"Na3,13":
+  text: "Oto twój lud to kobiety pośród ciebie dla twoich nieprzyjaciół, szeroko otworzą bramy twojej ziemi, ogień pożre twoje zasuwy."
+  tags: []
+"Na3,14":
+  text: "Naczerp dla siebie wody na oblężenie, wzmocnij twoje twierdze, wejdź do błota i ugniataj glinę, napraw formę do cegieł;"
+  tags: []
+"Na3,15":
+  text: "Tam jednak pochłonie cię ogień, zetnie cię miecz, pożre cię jak gąsienica; stań się licznym jak gąsienica, stań się licznym jak szarańcza wędrowna."
+  tags: []
+"Na3,16":
+  text: "Uczyniłaś liczniejszymi swoich handlarzy od gwiazd na niebiosach; szarańcza się wykluła i odlatuje."
+  tags: []
+"Na3,17":
+  text: "Książęta twoi są jak szarańcza, a twoi urzędnicy jak chmara szarańczy. Chmara szarańczy, która obozuje na murach w chłodny dzień, a gdy wzeszło słońce, zaraz odlatują, i nikt nie wie gdzie jest jej miejsce."
+  tags: []
+"Na3,18":
+  text: "Zdrzemnęli się twoi pasterze, królu Asyrii! Zasną twoi dostojnicy; lud twój rozproszony jest po górach i nie ma, kto by go zgromadził."
+  tags: []
+"Na3,19":
+  text: "Nie ma lekarstwa na twoje rozbicie, nieuleczona jest twoja rana; każdy, kto słyszy wieść o tobie, będzie klaskać w dłonie nad tobą; bo na kogo nie przechodziła ustawicznie twoja niegodziwość?"
+  tags: []

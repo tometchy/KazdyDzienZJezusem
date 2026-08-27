@@ -1,35 +1,105 @@
-"Prz3,1": "Synu mój, nie zapominaj mojego Prawa, a niech twoje serce strzeże moich przykazań;"
-"Prz3,2": "Bo będą ci dodane długie dni i lata życia oraz pokój."
-"Prz3,3": "Niech nie opuszczają cię miłosierdzie i prawda, przywiąż je do swojej szyi, wypisz je na tablicy swojego serca,"
-"Prz3,4": "A znajdź łaskę i uznanie w oczach Boga i ludzi."
-"Prz3,5": "Ufaj JHWH z całego swojego serca i nie polegaj na swoim rozumie."
-"Prz3,6": "Zważaj na Niego na wszystkich swoich drogach, a On wyrówna twoje ścieżki."
-"Prz3,7": "Nie bądź mądrym we własnych oczach, lecz bój się JHWH i stroń od zła."
-"Prz3,8": "Będzie to uzdrowieniem dla twojego ciała i orzeźwieniem dla twoich kości."
-"Prz3,9": "Czcij JHWH swoim majątkiem i pierwocinami całego twojego dochodu."
-"Prz3,10": "A twoje spichrze zostaną napełnione obfitością i twoje kadzie popękają od moszczu."
-"Prz3,11": "Synu mój, nie gardź karceniem JHWH i nie obrzydzaj sobie Jego upomnienia."
-"Prz3,12": "Bo kogo JHWH miłuje, tego karci, jak ojciec syna, w którym ma upodobanie."
-"Prz3,13": "Błogosławiony człowiek, który znalazł mądrość i człowiek, który nabiera rozumu;"
-"Prz3,14": "Gdyż zysk z niej jest lepszy niż zysk ze srebra, a dochód z niej lepszy niż ze złota."
-"Prz3,15": "Jest cenniejsza od pereł, a żadnego z twoich pragnień, nie można z nią porównać."
-"Prz3,16": "Długie dni trzyma w swojej prawej ręce, a w lewej bogactwo i chwałę."
-"Prz3,17": "Jej drogi są drogami rozkoszy, a jej wszystkie ścieżki są pokojem."
-"Prz3,18": "Jest ona drzewem życia dla tych, którzy się jej uchwycili; a ci, którzy się jej trzymają, są błogosławieni."
-"Prz3,19": "JHWH ugruntował ziemię mądrością, a niebiosa umocnił rozumem."
-"Prz3,20": "Dzięki Jego poznaniu zostały rozdzielone głębiny, a obłoki kropią rosą."
-"Prz3,21": "Synu mój, niech nie ujdą ci sprzed twoich oczu; strzeż rozsądku i rozwagi;"
-"Prz3,22": "A staną się życiem dla twojej duszy i piękną ozdobą dla twojej szyi."
-"Prz3,23": "Wtedy będziesz bezpiecznie chodził swoją drogą, a noga twoja się nie potknie."
-"Prz3,24": "Gdy się ułożysz do snu, nie będziesz się lękał; a gdy zaśniesz, to twój sen będzie słodki."
-"Prz3,25": "Nie będziesz się lękał strachu znienacka ani spustoszenia niegodziwych, gdy przyjdzie."
-"Prz3,26": "Bo JHWH będzie twoją ufnością i twojej nogi będzie strzegł od sidła."
-"Prz3,27": "Nie odmawiaj dobra tym, którym się ono należy, gdy jest w mocy twojej ręki, by je czynić."
-"Prz3,28": "Nie mów bliźniemu: Idź i przyjdź znowu, a dam ci jutro, kiedy jest to u ciebie."
-"Prz3,29": "Nie obmyślaj zła przeciwko swojemu bliźniemu, gdy bezpiecznie mieszka u ciebie."
-"Prz3,30": "Nie spieraj się z człowiekiem bez powodu, jeśli nie wyrządził tobie zła."
-"Prz3,31": "Nie zazdrość ciemięzcy i nie wybieraj żadnej z jego dróg."
-"Prz3,32": "Gdyż przewrotny jest obrzydliwością dla JHWH, a Jego rada jest dla prawych."
-"Prz3,33": "Przekleństwo JHWH ciąży na domu niegodziwego, lecz JHWH błogosławi siedzibom sprawiedliwych."
-"Prz3,34": "Ponieważ On gardzi gardzącymi, ale daje łaskę pokornym."
-"Prz3,35": "Mądrzy odziedziczą chwałę, a głupi poniosą hańbę."
+"Prz3,1":
+  text: "Synu mój, nie zapominaj mojego Prawa, a niech twoje serce strzeże moich przykazań;"
+  tags: []
+"Prz3,2":
+  text: "Bo będą ci dodane długie dni i lata życia oraz pokój."
+  tags: []
+"Prz3,3":
+  text: "Niech nie opuszczają cię miłosierdzie i prawda, przywiąż je do swojej szyi, wypisz je na tablicy swojego serca,"
+  tags: []
+"Prz3,4":
+  text: "A znajdź łaskę i uznanie w oczach Boga i ludzi."
+  tags: []
+"Prz3,5":
+  text: "Ufaj JHWH z całego swojego serca i nie polegaj na swoim rozumie."
+  tags: []
+"Prz3,6":
+  text: "Zważaj na Niego na wszystkich swoich drogach, a On wyrówna twoje ścieżki."
+  tags: []
+"Prz3,7":
+  text: "Nie bądź mądrym we własnych oczach, lecz bój się JHWH i stroń od zła."
+  tags: []
+"Prz3,8":
+  text: "Będzie to uzdrowieniem dla twojego ciała i orzeźwieniem dla twoich kości."
+  tags: []
+"Prz3,9":
+  text: "Czcij JHWH swoim majątkiem i pierwocinami całego twojego dochodu."
+  tags: []
+"Prz3,10":
+  text: "A twoje spichrze zostaną napełnione obfitością i twoje kadzie popękają od moszczu."
+  tags: []
+"Prz3,11":
+  text: "Synu mój, nie gardź karceniem JHWH i nie obrzydzaj sobie Jego upomnienia."
+  tags: []
+"Prz3,12":
+  text: "Bo kogo JHWH miłuje, tego karci, jak ojciec syna, w którym ma upodobanie."
+  tags: []
+"Prz3,13":
+  text: "Błogosławiony człowiek, który znalazł mądrość i człowiek, który nabiera rozumu;"
+  tags: []
+"Prz3,14":
+  text: "Gdyż zysk z niej jest lepszy niż zysk ze srebra, a dochód z niej lepszy niż ze złota."
+  tags: []
+"Prz3,15":
+  text: "Jest cenniejsza od pereł, a żadnego z twoich pragnień, nie można z nią porównać."
+  tags: []
+"Prz3,16":
+  text: "Długie dni trzyma w swojej prawej ręce, a w lewej bogactwo i chwałę."
+  tags: []
+"Prz3,17":
+  text: "Jej drogi są drogami rozkoszy, a jej wszystkie ścieżki są pokojem."
+  tags: []
+"Prz3,18":
+  text: "Jest ona drzewem życia dla tych, którzy się jej uchwycili; a ci, którzy się jej trzymają, są błogosławieni."
+  tags: []
+"Prz3,19":
+  text: "JHWH ugruntował ziemię mądrością, a niebiosa umocnił rozumem."
+  tags: []
+"Prz3,20":
+  text: "Dzięki Jego poznaniu zostały rozdzielone głębiny, a obłoki kropią rosą."
+  tags: []
+"Prz3,21":
+  text: "Synu mój, niech nie ujdą ci sprzed twoich oczu; strzeż rozsądku i rozwagi;"
+  tags: []
+"Prz3,22":
+  text: "A staną się życiem dla twojej duszy i piękną ozdobą dla twojej szyi."
+  tags: []
+"Prz3,23":
+  text: "Wtedy będziesz bezpiecznie chodził swoją drogą, a noga twoja się nie potknie."
+  tags: []
+"Prz3,24":
+  text: "Gdy się ułożysz do snu, nie będziesz się lękał; a gdy zaśniesz, to twój sen będzie słodki."
+  tags: []
+"Prz3,25":
+  text: "Nie będziesz się lękał strachu znienacka ani spustoszenia niegodziwych, gdy przyjdzie."
+  tags: []
+"Prz3,26":
+  text: "Bo JHWH będzie twoją ufnością i twojej nogi będzie strzegł od sidła."
+  tags: []
+"Prz3,27":
+  text: "Nie odmawiaj dobra tym, którym się ono należy, gdy jest w mocy twojej ręki, by je czynić."
+  tags: []
+"Prz3,28":
+  text: "Nie mów bliźniemu: Idź i przyjdź znowu, a dam ci jutro, kiedy jest to u ciebie."
+  tags: []
+"Prz3,29":
+  text: "Nie obmyślaj zła przeciwko swojemu bliźniemu, gdy bezpiecznie mieszka u ciebie."
+  tags: []
+"Prz3,30":
+  text: "Nie spieraj się z człowiekiem bez powodu, jeśli nie wyrządził tobie zła."
+  tags: []
+"Prz3,31":
+  text: "Nie zazdrość ciemięzcy i nie wybieraj żadnej z jego dróg."
+  tags: []
+"Prz3,32":
+  text: "Gdyż przewrotny jest obrzydliwością dla JHWH, a Jego rada jest dla prawych."
+  tags: []
+"Prz3,33":
+  text: "Przekleństwo JHWH ciąży na domu niegodziwego, lecz JHWH błogosławi siedzibom sprawiedliwych."
+  tags: []
+"Prz3,34":
+  text: "Ponieważ On gardzi gardzącymi, ale daje łaskę pokornym."
+  tags: []
+"Prz3,35":
+  text: "Mądrzy odziedziczą chwałę, a głupi poniosą hańbę."
+  tags: []

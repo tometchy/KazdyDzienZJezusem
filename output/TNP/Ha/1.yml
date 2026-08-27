@@ -1,17 +1,51 @@
-"Ha1,1": "Brzemię, które widział prorok Habakuk."
-"Ha1,2": "JHWH, jak długo będę wołać, a Ty nie wysłuchujesz? Krzyczę do Ciebie: Gwałt!, a nie wybawiasz?"
-"Ha1,3": "Czemu sprawiasz, że patrzę na nieprawość, a Ty przyglądasz się krzywdzie? Zniszczenie i gwałt przede mną, panuje kłótnia i wznieca się spór."
-"Ha1,4": "Tak więc Prawo straciło swoją moc i trwale nie może wyjść osąd. Bo niegodziwy otacza sprawiedliwego, z tego powodu wychodzi spaczony osąd."
-"Ha1,5": "Spójrzcie na narody, przyglądnijcie się im i zdumiejcie się bardzo, gdyż dokonuję dzieła za waszych dni – nie uwierzycie, gdy będzie o nim opowiedziane."
-"Ha1,6": "Bo oto wzbudzę Chaldejczyków, lud srogi i gwałtowny; przejdą przez szerokość ziemi, aby posiąść nie swoje siedziby."
-"Ha1,7": "Przerażający on i budzący lęk. Od niego wychodzi prawo i jego dostojeństwo."
-"Ha1,8": "Ich konie szybsze niż pantery, czujniejsze niż wilki o zachodzie słońca. Ich jeźdźcy szarżują, ich jeźdźcy przychodzą z daleka, lecą jak sęp śpieszący się na żer."
-"Ha1,9": "Każdy z nich zmierza do gwałtu. Ich twarze zwrócone na wschód, i zgromadzą jeńca jak piasek."
-"Ha1,10": "I on szydzi z królów, a dygnitarze są u nich obiektem szyderstwa. On drwi z każdej twierdzy, sypie wał i zdobywa ją."
-"Ha1,11": "Potem przechodzi szybko dalej jak wiatr i przemija – winny ten, kto za swego boga ma swoją siłę."
-"Ha1,12": "Czyż Ty nie jesteś odwieczny, JHWH, mój Boże, mój Święty? Nie umrzemy! JHWH, wyznaczyłeś go na sąd. Skało, przeznaczyłeś go na ukaranie."
-"Ha1,13": "Zbyt czyste są Twoje oczy, by patrzeć na zło i nie możesz oglądać nieprawości. Dlaczego oglądasz czyniących przewrotność i milczysz? Gdy niegodziwy pożera sprawiedliwszego od siebie?"
-"Ha1,14": "I postępujesz z człowiekiem jak z rybami morza, jak z płazem, który nie ma panującego nad nim?"
-"Ha1,15": "Który wyciąga wszystkie wędką, zaciąga je swoją siecią i gromadzi je w swoim niewodzie, i dlatego cieszy się i raduje."
-"Ha1,16": "Dlatego składa ofiarę swojej sieci i pali kadzidło swojemu niewodowi. Przez nie bowiem jego dział jest tłusty, a jego pożywienie obfite."
-"Ha1,17": "Czy dlatego też będzie opróżniać swoją sieć, by nieustannie zabijać narody bez litości?"
+"Ha1,1":
+  text: "Brzemię, które widział prorok Habakuk."
+  tags: []
+"Ha1,2":
+  text: "JHWH, jak długo będę wołać, a Ty nie wysłuchujesz? Krzyczę do Ciebie: Gwałt!, a nie wybawiasz?"
+  tags: []
+"Ha1,3":
+  text: "Czemu sprawiasz, że patrzę na nieprawość, a Ty przyglądasz się krzywdzie? Zniszczenie i gwałt przede mną, panuje kłótnia i wznieca się spór."
+  tags: []
+"Ha1,4":
+  text: "Tak więc Prawo straciło swoją moc i trwale nie może wyjść osąd. Bo niegodziwy otacza sprawiedliwego, z tego powodu wychodzi spaczony osąd."
+  tags: []
+"Ha1,5":
+  text: "Spójrzcie na narody, przyglądnijcie się im i zdumiejcie się bardzo, gdyż dokonuję dzieła za waszych dni – nie uwierzycie, gdy będzie o nim opowiedziane."
+  tags: []
+"Ha1,6":
+  text: "Bo oto wzbudzę Chaldejczyków, lud srogi i gwałtowny; przejdą przez szerokość ziemi, aby posiąść nie swoje siedziby."
+  tags: []
+"Ha1,7":
+  text: "Przerażający on i budzący lęk. Od niego wychodzi prawo i jego dostojeństwo."
+  tags: []
+"Ha1,8":
+  text: "Ich konie szybsze niż pantery, czujniejsze niż wilki o zachodzie słońca. Ich jeźdźcy szarżują, ich jeźdźcy przychodzą z daleka, lecą jak sęp śpieszący się na żer."
+  tags: []
+"Ha1,9":
+  text: "Każdy z nich zmierza do gwałtu. Ich twarze zwrócone na wschód, i zgromadzą jeńca jak piasek."
+  tags: []
+"Ha1,10":
+  text: "I on szydzi z królów, a dygnitarze są u nich obiektem szyderstwa. On drwi z każdej twierdzy, sypie wał i zdobywa ją."
+  tags: []
+"Ha1,11":
+  text: "Potem przechodzi szybko dalej jak wiatr i przemija – winny ten, kto za swego boga ma swoją siłę."
+  tags: []
+"Ha1,12":
+  text: "Czyż Ty nie jesteś odwieczny, JHWH, mój Boże, mój Święty? Nie umrzemy! JHWH, wyznaczyłeś go na sąd. Skało, przeznaczyłeś go na ukaranie."
+  tags: []
+"Ha1,13":
+  text: "Zbyt czyste są Twoje oczy, by patrzeć na zło i nie możesz oglądać nieprawości. Dlaczego oglądasz czyniących przewrotność i milczysz? Gdy niegodziwy pożera sprawiedliwszego od siebie?"
+  tags: []
+"Ha1,14":
+  text: "I postępujesz z człowiekiem jak z rybami morza, jak z płazem, który nie ma panującego nad nim?"
+  tags: []
+"Ha1,15":
+  text: "Który wyciąga wszystkie wędką, zaciąga je swoją siecią i gromadzi je w swoim niewodzie, i dlatego cieszy się i raduje."
+  tags: []
+"Ha1,16":
+  text: "Dlatego składa ofiarę swojej sieci i pali kadzidło swojemu niewodowi. Przez nie bowiem jego dział jest tłusty, a jego pożywienie obfite."
+  tags: []
+"Ha1,17":
+  text: "Czy dlatego też będzie opróżniać swoją sieć, by nieustannie zabijać narody bez litości?"
+  tags: []

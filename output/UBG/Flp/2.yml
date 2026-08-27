@@ -1,30 +1,90 @@
-"Flp2,1": "Jeśli więc jest jakieś pocieszenie w Chrystusie, jeśli jakaś pociecha miłości, jeśli jakaś wspólnota Ducha, jeśli jakieś współczucie i miłosierdzie;"
-"Flp2,2": "Dopełnijcie mojej radości, bądźcie tej samej myśli, mając tę samą miłość, będąc zgodni i jednomyślni;"
-"Flp2,3": "Nie czyńcie nic z kłótliwości ani z próżnej chwały, lecz w pokorze uważajcie jedni drugich za wyższych od siebie."
-"Flp2,4": "Niech każdy dba nie tylko o to, co jego, ale i o to, co innych."
-"Flp2,5": "Niech będzie w was takie nastawienie umysłu, jakie też było w Chrystusie Jezusie;"
-"Flp2,6": "Który, będąc w postaci Boga, nie uważał bycia równym Bogu za grabież;"
-"Flp2,7": "Lecz ogołocił samego siebie, przyjmując postać sługi i stając się podobny do ludzi;"
-"Flp2,8": "A z postawy uznany za człowieka, uniżył samego siebie i był posłuszny aż do śmierci, i to śmierci krzyżowej."
-"Flp2,9": "Dlatego też Bóg wielce go wywyższył i darował mu imię, które jest ponad wszelkie imię;"
-"Flp2,10": "Aby na imię Jezusa zginało się wszelkie kolano na niebie, na ziemi i pod ziemią."
-"Flp2,11": "I aby wszelki język wyznawał, że Jezus Chrystus jest Panem ku chwale Boga Ojca."
-"Flp2,12": "Dlatego, moi umiłowani, tak jak zawsze byliście posłuszni, nie tylko w mojej obecności, ale jeszcze bardziej teraz, pod moją nieobecność, z bojaźnią i drżeniem wykonujcie swoje zbawienie."
-"Flp2,13": "Bóg bowiem sprawia w was i chęć, i wykonanie według jego upodobania."
-"Flp2,14": "Wszystko czyńcie bez szemrania i sporów;"
-"Flp2,15": "Abyście byli nienagannymi i niewinnymi dziećmi Bożymi, bez zarzutu pośród narodu złego i przewrotnego, wśród którego świecicie jak światła na świecie;"
-"Flp2,16": "Zachowując słowo życia, abym mógł się chlubić w dniu Chrystusa, że nie na próżno biegłem i nie na próżno pracowałem."
-"Flp2,17": "Lecz choćbym został złożony na ofiarę i w posłudze waszej wiary, raduję się i cieszę z wami wszystkimi."
-"Flp2,18": "Z tego i wy radujcie się i cieszcie ze mną."
-"Flp2,19": "A mam nadzieję w Panu Jezusie, że wkrótce poślę do was Tymoteusza, abym został pocieszony, dowiedziawszy się, co się u was dzieje."
-"Flp2,20": "Nie mam bowiem nikogo o równych jemu myślach, który by się szczerze troszczył o wasze sprawy."
-"Flp2,21": "Bo wszyscy szukają swego, a nie tego, co jest Jezusa Chrystusa."
-"Flp2,22": "Wiecie zaś, że on jest wypróbowany, gdyż jak syn z ojcem, tak on wraz ze mną służył w ewangelii."
-"Flp2,23": "Mam więc nadzieję, że poślę go do was, gdy tylko zobaczę, co dalej ze mną będzie."
-"Flp2,24": "A mam ufność w Panu, że i sam wkrótce do was przybędę."
-"Flp2,25": "Uznałem też za konieczne posłać do was Epafrodyta, mego brata, współpracownika i współbojownika, a waszego wysłannika i sługę w moich potrzebach;"
-"Flp2,26": "Ponieważ tęsknił za wami wszystkimi i bardzo się smucił, gdyż słyszeliście, że zachorował."
-"Flp2,27": "Rzeczywiście bowiem chorował tak, że był bliski śmierci. Lecz Bóg zmiłował się nad nim, a nie tylko nad nim, ale i nade mną, abym nie doznawał smutku za smutkiem."
-"Flp2,28": "Dlatego tym pilniej posłałem go, abyście widząc go znowu, ucieszyli się, a ja żebym doznawał mniej smutku."
-"Flp2,29": "Przyjmijcie go więc w Panu z całą radością i miejcie takich w poszanowaniu;"
-"Flp2,30": "Ponieważ dla sprawy Chrystusa bliski był śmierci, narażając swoje życie, aby dopełnić to, czego brakowało w waszej posłudze wobec mnie."
+"Flp2,1":
+  text: "Jeśli więc jest jakieś pocieszenie w Chrystusie, jeśli jakaś pociecha miłości, jeśli jakaś wspólnota Ducha, jeśli jakieś współczucie i miłosierdzie;"
+  tags: []
+"Flp2,2":
+  text: "Dopełnijcie mojej radości, bądźcie tej samej myśli, mając tę samą miłość, będąc zgodni i jednomyślni;"
+  tags: []
+"Flp2,3":
+  text: "Nie czyńcie nic z kłótliwości ani z próżnej chwały, lecz w pokorze uważajcie jedni drugich za wyższych od siebie."
+  tags: []
+"Flp2,4":
+  text: "Niech każdy dba nie tylko o to, co jego, ale i o to, co innych."
+  tags: []
+"Flp2,5":
+  text: "Niech będzie w was takie nastawienie umysłu, jakie też było w Chrystusie Jezusie;"
+  tags: []
+"Flp2,6":
+  text: "Który, będąc w postaci Boga, nie uważał bycia równym Bogu za grabież;"
+  tags: []
+"Flp2,7":
+  text: "Lecz ogołocił samego siebie, przyjmując postać sługi i stając się podobny do ludzi;"
+  tags: []
+"Flp2,8":
+  text: "A z postawy uznany za człowieka, uniżył samego siebie i był posłuszny aż do śmierci, i to śmierci krzyżowej."
+  tags: []
+"Flp2,9":
+  text: "Dlatego też Bóg wielce go wywyższył i darował mu imię, które jest ponad wszelkie imię;"
+  tags: []
+"Flp2,10":
+  text: "Aby na imię Jezusa zginało się wszelkie kolano na niebie, na ziemi i pod ziemią."
+  tags: []
+"Flp2,11":
+  text: "I aby wszelki język wyznawał, że Jezus Chrystus jest Panem ku chwale Boga Ojca."
+  tags: []
+"Flp2,12":
+  text: "Dlatego, moi umiłowani, tak jak zawsze byliście posłuszni, nie tylko w mojej obecności, ale jeszcze bardziej teraz, pod moją nieobecność, z bojaźnią i drżeniem wykonujcie swoje zbawienie."
+  tags: []
+"Flp2,13":
+  text: "Bóg bowiem sprawia w was i chęć, i wykonanie według jego upodobania."
+  tags: []
+"Flp2,14":
+  text: "Wszystko czyńcie bez szemrania i sporów;"
+  tags: []
+"Flp2,15":
+  text: "Abyście byli nienagannymi i niewinnymi dziećmi Bożymi, bez zarzutu pośród narodu złego i przewrotnego, wśród którego świecicie jak światła na świecie;"
+  tags: []
+"Flp2,16":
+  text: "Zachowując słowo życia, abym mógł się chlubić w dniu Chrystusa, że nie na próżno biegłem i nie na próżno pracowałem."
+  tags: []
+"Flp2,17":
+  text: "Lecz choćbym został złożony na ofiarę i w posłudze waszej wiary, raduję się i cieszę z wami wszystkimi."
+  tags: []
+"Flp2,18":
+  text: "Z tego i wy radujcie się i cieszcie ze mną."
+  tags: []
+"Flp2,19":
+  text: "A mam nadzieję w Panu Jezusie, że wkrótce poślę do was Tymoteusza, abym został pocieszony, dowiedziawszy się, co się u was dzieje."
+  tags: []
+"Flp2,20":
+  text: "Nie mam bowiem nikogo o równych jemu myślach, który by się szczerze troszczył o wasze sprawy."
+  tags: []
+"Flp2,21":
+  text: "Bo wszyscy szukają swego, a nie tego, co jest Jezusa Chrystusa."
+  tags: []
+"Flp2,22":
+  text: "Wiecie zaś, że on jest wypróbowany, gdyż jak syn z ojcem, tak on wraz ze mną służył w ewangelii."
+  tags: []
+"Flp2,23":
+  text: "Mam więc nadzieję, że poślę go do was, gdy tylko zobaczę, co dalej ze mną będzie."
+  tags: []
+"Flp2,24":
+  text: "A mam ufność w Panu, że i sam wkrótce do was przybędę."
+  tags: []
+"Flp2,25":
+  text: "Uznałem też za konieczne posłać do was Epafrodyta, mego brata, współpracownika i współbojownika, a waszego wysłannika i sługę w moich potrzebach;"
+  tags: []
+"Flp2,26":
+  text: "Ponieważ tęsknił za wami wszystkimi i bardzo się smucił, gdyż słyszeliście, że zachorował."
+  tags: []
+"Flp2,27":
+  text: "Rzeczywiście bowiem chorował tak, że był bliski śmierci. Lecz Bóg zmiłował się nad nim, a nie tylko nad nim, ale i nade mną, abym nie doznawał smutku za smutkiem."
+  tags: []
+"Flp2,28":
+  text: "Dlatego tym pilniej posłałem go, abyście widząc go znowu, ucieszyli się, a ja żebym doznawał mniej smutku."
+  tags: []
+"Flp2,29":
+  text: "Przyjmijcie go więc w Panu z całą radością i miejcie takich w poszanowaniu;"
+  tags: []
+"Flp2,30":
+  text: "Ponieważ dla sprawy Chrystusa bliski był śmierci, narażając swoje życie, aby dopełnić to, czego brakowało w waszej posłudze wobec mnie."
+  tags: []

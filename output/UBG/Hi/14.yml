@@ -1,22 +1,66 @@
-"Hi14,1": "Człowiek, urodzony przez kobietę, ma dni niewiele i ma pełno kłopotów;"
-"Hi14,2": "Wyrasta jak kwiat i zostaje podcięty, znika jak cień i się nie ostaje."
-"Hi14,3": "A jednak na takiego otwierasz swoje oczy i wzywasz mnie przed siebie na sąd."
-"Hi14,4": "Któż może wydobyć czystego z nieczystego? Ani jeden."
-"Hi14,5": "Gdyż jego dni są ustalone, liczba jego miesięcy jest u ciebie; wyznaczyłeś mu kres, którego nie może przekroczyć."
-"Hi14,6": "Odstąp od niego, aby odpoczął, aż zakończy swój dzień jak najemnik."
-"Hi14,7": "Dla drzewa bowiem jest nadzieja, choć je wytną, że znowu odrośnie, że jego latorośl nie ustanie."
-"Hi14,8": "Choć jego korzeń zestarzeje się w ziemi i jego pień umrze w prochu;"
-"Hi14,9": "To jednak gdy poczuje wodę, odrasta i rozpuszcza gałęzie jak sadzonka."
-"Hi14,10": "Ale człowiek umiera i marnieje; a gdy oddaje ducha, gdzie on jest?"
-"Hi14,11": "Jak ubywa wód z morza i rzeka opada, i wysycha;"
-"Hi14,12": "Tak jest z człowiekiem, gdy się położy i już nie wstanie; dopóki niebiosa będą trwać, nie ocknie się ani nie będzie obudzony ze swego snu."
-"Hi14,13": "Obyś mnie w grobie ukrył i schował, aż twój gniew się uciszy, wyznaczył mi czas i wspomniał na mnie."
-"Hi14,14": "Gdy człowiek umrze, czy znowu ożyje? Przez wszystkie dni wyznaczonego mi czasu będę czekał, aż nadejdzie moja zmiana."
-"Hi14,15": "Zawołasz, a ja ci odpowiem; zatęsknisz za dziełem swoich rąk."
-"Hi14,16": "Teraz jednak liczysz moje kroki. Czy nie zważasz na mój grzech?"
-"Hi14,17": "Mój występek jest zapieczętowany w woreczku, gromadzisz moje nieprawości."
-"Hi14,18": "Doprawdy, góra pada i rozsypuje się, i skała przesuwa się ze swego miejsca."
-"Hi14,19": "Wody wydrążają kamienie, ulewa podrywa to, co wyrośnie z prochu ziemi, a ty nadzieję człowieka obracasz wniwecz."
-"Hi14,20": "Stale pokonujesz go, a on odchodzi; zmieniasz jego oblicze i odprawiasz go."
-"Hi14,21": "Jego synowie darzeni są szacunkiem, lecz on o tym nie wie; żyją w pogardzie, lecz na to nie zważa."
-"Hi14,22": "Ale jego własne ciało odczuwa ból, a jego dusza w nim płacze."
+"Hi14,1":
+  text: "Człowiek, urodzony przez kobietę, ma dni niewiele i ma pełno kłopotów;"
+  tags: []
+"Hi14,2":
+  text: "Wyrasta jak kwiat i zostaje podcięty, znika jak cień i się nie ostaje."
+  tags: []
+"Hi14,3":
+  text: "A jednak na takiego otwierasz swoje oczy i wzywasz mnie przed siebie na sąd."
+  tags: []
+"Hi14,4":
+  text: "Któż może wydobyć czystego z nieczystego? Ani jeden."
+  tags: []
+"Hi14,5":
+  text: "Gdyż jego dni są ustalone, liczba jego miesięcy jest u ciebie; wyznaczyłeś mu kres, którego nie może przekroczyć."
+  tags: []
+"Hi14,6":
+  text: "Odstąp od niego, aby odpoczął, aż zakończy swój dzień jak najemnik."
+  tags: []
+"Hi14,7":
+  text: "Dla drzewa bowiem jest nadzieja, choć je wytną, że znowu odrośnie, że jego latorośl nie ustanie."
+  tags: []
+"Hi14,8":
+  text: "Choć jego korzeń zestarzeje się w ziemi i jego pień umrze w prochu;"
+  tags: []
+"Hi14,9":
+  text: "To jednak gdy poczuje wodę, odrasta i rozpuszcza gałęzie jak sadzonka."
+  tags: []
+"Hi14,10":
+  text: "Ale człowiek umiera i marnieje; a gdy oddaje ducha, gdzie on jest?"
+  tags: []
+"Hi14,11":
+  text: "Jak ubywa wód z morza i rzeka opada, i wysycha;"
+  tags: []
+"Hi14,12":
+  text: "Tak jest z człowiekiem, gdy się położy i już nie wstanie; dopóki niebiosa będą trwać, nie ocknie się ani nie będzie obudzony ze swego snu."
+  tags: []
+"Hi14,13":
+  text: "Obyś mnie w grobie ukrył i schował, aż twój gniew się uciszy, wyznaczył mi czas i wspomniał na mnie."
+  tags: []
+"Hi14,14":
+  text: "Gdy człowiek umrze, czy znowu ożyje? Przez wszystkie dni wyznaczonego mi czasu będę czekał, aż nadejdzie moja zmiana."
+  tags: []
+"Hi14,15":
+  text: "Zawołasz, a ja ci odpowiem; zatęsknisz za dziełem swoich rąk."
+  tags: []
+"Hi14,16":
+  text: "Teraz jednak liczysz moje kroki. Czy nie zważasz na mój grzech?"
+  tags: []
+"Hi14,17":
+  text: "Mój występek jest zapieczętowany w woreczku, gromadzisz moje nieprawości."
+  tags: []
+"Hi14,18":
+  text: "Doprawdy, góra pada i rozsypuje się, i skała przesuwa się ze swego miejsca."
+  tags: []
+"Hi14,19":
+  text: "Wody wydrążają kamienie, ulewa podrywa to, co wyrośnie z prochu ziemi, a ty nadzieję człowieka obracasz wniwecz."
+  tags: []
+"Hi14,20":
+  text: "Stale pokonujesz go, a on odchodzi; zmieniasz jego oblicze i odprawiasz go."
+  tags: []
+"Hi14,21":
+  text: "Jego synowie darzeni są szacunkiem, lecz on o tym nie wie; żyją w pogardzie, lecz na to nie zważa."
+  tags: []
+"Hi14,22":
+  text: "Ale jego własne ciało odczuwa ból, a jego dusza w nim płacze."
+  tags: []

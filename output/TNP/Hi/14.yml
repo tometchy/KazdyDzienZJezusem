@@ -1,22 +1,66 @@
-"Hi14,1": "Człowiek, zrodzony przez kobietę – krótkie jego dni i pełne niepokoju;"
-"Hi14,2": "Wyrasta jak kwiat i jak kwiat zostaje odcięty, a przemija jak cień i się nie ostaje."
-"Hi14,3": "Tak! Nad takim otwierasz swoje oczy i wzywasz mnie przed siebie na sąd."
-"Hi14,4": "Kto da czyste ze skalanego? Ani jeden."
-"Hi14,5": "Ponieważ jego dni są ustalone, liczba jego miesięcy jest u Ciebie; wyznaczyłeś mu kres, którego nie może przekroczyć."
-"Hi14,6": "Odwróć od niego swój wzrok, a ustanie, aż będzie zadowolony jak najemnik przy końcu swojego dnia."
-"Hi14,7": "Bo o ile dla drzewa jest nadzieja – jeśli zostaje ścięte, wtedy ponownie odrasta, a jego pęd nie przestaje rosnąć."
-"Hi14,8": "Jeśli zestarzeje się jego korzeń w ziemi, a jego pień umrze w prochu;"
-"Hi14,9": "To od kiedy poczuje wodę, rozwija pączki i wypuszcza pędy jak sadzonka."
-"Hi14,10": "Ale gdy mężczyzna umiera i marnieje, a gdy wydaje ostatnie tchnienie, to gdzie jest ten człowiek?"
-"Hi14,11": "Jak znikają wody z morza, a rzeka opada i staje się sucha,"
-"Hi14,12": "Tak człowiek – legł i już nie wstanie, aż nie będzie niebios, nie ocknie się i nie zostanie obudzony ze swojego snu."
-"Hi14,13": "Obyś tak uczynił – ukrył mnie w Szeolu i schował, aż Twój gniew się odwróci, wyznaczył mi kres i wspomniał o mnie."
-"Hi14,14": "Jeśli mężczyzna umrze, czy ponownie zostanie ożywiony? Przez wszystkie dni mojej służby będę oczekiwał, aż nadejdzie moja zmiana."
-"Hi14,15": "Zawołasz, a ja Ci odpowiem; zatęsknisz za dziełem swoich rąk."
-"Hi14,16": "Tak! Teraz liczysz moje kroki. Czy nie strzeżesz mojego grzechu?"
-"Hi14,17": "Moja nieprawość jest zapieczętowana w sakiewce, zabezpieczyłeś ją ze względu na moją winę."
-"Hi14,18": "Lecz jak góra obsuwająca się zapada, a skała przesuwana jest ze swojego miejsca,"
-"Hi14,19": "Jak kamienie przełamują wody, a potok spłukuje proch ziemi, tak Ty niweczysz nadzieję człowieka."
-"Hi14,20": "Pokonujesz go na zawsze i on odchodzi; zmieniasz jego oblicze i go odprawiasz."
-"Hi14,21": "Jego synowie są szanowani, lecz on o tym nie wie; jeśli są w pogardzie, to nie dostrzega tego."
-"Hi14,22": "Tylko nad nim boleje jego własne ciało, a jego dusza nad nim płacze."
+"Hi14,1":
+  text: "Człowiek, zrodzony przez kobietę – krótkie jego dni i pełne niepokoju;"
+  tags: []
+"Hi14,2":
+  text: "Wyrasta jak kwiat i jak kwiat zostaje odcięty, a przemija jak cień i się nie ostaje."
+  tags: []
+"Hi14,3":
+  text: "Tak! Nad takim otwierasz swoje oczy i wzywasz mnie przed siebie na sąd."
+  tags: []
+"Hi14,4":
+  text: "Kto da czyste ze skalanego? Ani jeden."
+  tags: []
+"Hi14,5":
+  text: "Ponieważ jego dni są ustalone, liczba jego miesięcy jest u Ciebie; wyznaczyłeś mu kres, którego nie może przekroczyć."
+  tags: []
+"Hi14,6":
+  text: "Odwróć od niego swój wzrok, a ustanie, aż będzie zadowolony jak najemnik przy końcu swojego dnia."
+  tags: []
+"Hi14,7":
+  text: "Bo o ile dla drzewa jest nadzieja – jeśli zostaje ścięte, wtedy ponownie odrasta, a jego pęd nie przestaje rosnąć."
+  tags: []
+"Hi14,8":
+  text: "Jeśli zestarzeje się jego korzeń w ziemi, a jego pień umrze w prochu;"
+  tags: []
+"Hi14,9":
+  text: "To od kiedy poczuje wodę, rozwija pączki i wypuszcza pędy jak sadzonka."
+  tags: []
+"Hi14,10":
+  text: "Ale gdy mężczyzna umiera i marnieje, a gdy wydaje ostatnie tchnienie, to gdzie jest ten człowiek?"
+  tags: []
+"Hi14,11":
+  text: "Jak znikają wody z morza, a rzeka opada i staje się sucha,"
+  tags: []
+"Hi14,12":
+  text: "Tak człowiek – legł i już nie wstanie, aż nie będzie niebios, nie ocknie się i nie zostanie obudzony ze swojego snu."
+  tags: []
+"Hi14,13":
+  text: "Obyś tak uczynił – ukrył mnie w Szeolu i schował, aż Twój gniew się odwróci, wyznaczył mi kres i wspomniał o mnie."
+  tags: []
+"Hi14,14":
+  text: "Jeśli mężczyzna umrze, czy ponownie zostanie ożywiony? Przez wszystkie dni mojej służby będę oczekiwał, aż nadejdzie moja zmiana."
+  tags: []
+"Hi14,15":
+  text: "Zawołasz, a ja Ci odpowiem; zatęsknisz za dziełem swoich rąk."
+  tags: []
+"Hi14,16":
+  text: "Tak! Teraz liczysz moje kroki. Czy nie strzeżesz mojego grzechu?"
+  tags: []
+"Hi14,17":
+  text: "Moja nieprawość jest zapieczętowana w sakiewce, zabezpieczyłeś ją ze względu na moją winę."
+  tags: []
+"Hi14,18":
+  text: "Lecz jak góra obsuwająca się zapada, a skała przesuwana jest ze swojego miejsca,"
+  tags: []
+"Hi14,19":
+  text: "Jak kamienie przełamują wody, a potok spłukuje proch ziemi, tak Ty niweczysz nadzieję człowieka."
+  tags: []
+"Hi14,20":
+  text: "Pokonujesz go na zawsze i on odchodzi; zmieniasz jego oblicze i go odprawiasz."
+  tags: []
+"Hi14,21":
+  text: "Jego synowie są szanowani, lecz on o tym nie wie; jeśli są w pogardzie, to nie dostrzega tego."
+  tags: []
+"Hi14,22":
+  text: "Tylko nad nim boleje jego własne ciało, a jego dusza nad nim płacze."
+  tags: []

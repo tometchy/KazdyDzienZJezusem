@@ -1,25 +1,75 @@
-"Hbr13,1": "Miłość braterska niech trwa."
-"Hbr13,2": "Gościnności nie zapominajcie, bo z powodu niej, niektórym uszło uwadze, że gościli aniołów."
-"Hbr13,3": "Pamiętajcie o więźniach, jakbyście razem z nimi byli uwięzieni, o krzywdzonych, jako że sami jesteście w ciele."
-"Hbr13,4": "Małżeństwo jest godne czci u wszystkich, a łoże nieskalane, natomiast nierządników i cudzołożników będzie sądził Bóg."
-"Hbr13,5": "Sposób waszego życia niech będzie wolny od miłości pieniądza. Bądźcie zadowoleni z tego co macie, bo sam powiedział: Z pewnością nie porzucę cię ani na pewno cię nie opuszczę;"
-"Hbr13,6": "Tak więc śmiało mówimy: PAN jest moim pomocnikiem, nie będę się lękał; co uczyni mi człowiek?"
-"Hbr13,7": "Pamiętajcie o swoich przewodnikach, którzy wam głosili Słowo Boże; a patrząc na koniec ich życia, naśladujcie ich wiarę."
-"Hbr13,8": "Jezus Chrystus wczoraj i dziś, ten sam i na wieki."
-"Hbr13,9": "Nie dawajcie się unosić różnym i obcym naukom, bo dobrze jest umacniać serca łaską, a nie pokarmami, które nie przyniosły korzyści tym, którzy tak postępowali."
-"Hbr13,10": "Mamy ołtarz, z którego nie mają prawa zjeść ci, którzy służą przybytkowi."
-"Hbr13,11": "Albowiem ciała tych zwierząt, których krew arcykapłan wnosi za grzech do świętego Świętych, są palone poza obozem."
-"Hbr13,12": "Dlatego i Jezus, aby poświęcić lud swoją własną krwią, cierpiał poza bramą."
-"Hbr13,13": "Wychodźmy więc do Niego poza obóz, niosąc Jego hańbę."
-"Hbr13,14": "Nie mamy tu bowiem miasta trwałego, ale tego, które ma nadejść, szukamy."
-"Hbr13,15": "Przez Niego więc nieustannie składamy Bogu ofiarę chwały, to jest owoc warg wyznających Jego imię."
-"Hbr13,16": "Nie zapominajcie więc o dobroczynności i o pomocy wzajemnej, z takich bowiem ofiar Bóg jest bardzo zadowolony."
-"Hbr13,17": "Bądźcie posłuszni swoim przewodnikom i bądźcie im ulegli, oni bowiem czuwają nad waszymi duszami i zdadzą z tego sprawę. Niech to czynią z radością, nie wzdychając; bo to nie byłoby korzystne dla was."
-"Hbr13,18": "Módlcie się za nas; albowiem jesteśmy przekonani, że mamy dobre sumienie, bo chcemy we wszystkim dobrze postępować."
-"Hbr13,19": "A tym bardziej zachęcam, byście to uczynili, abym został szybciej wam przywrócony."
-"Hbr13,20": "A Bóg pokoju, Ten, który przez krew wiecznego przymierza wyprowadził z martwych wielkiego pasterza owiec, Pana naszego Jezusa,"
-"Hbr13,21": "Oby was uczynił doskonałymi w każdym dobrym dziele, by pełnić Jego wolę, uczyniwszy w was to, co jest przyjemne przed Jego obliczem, przez Jezusa Chrystusa, któremu chwała na wieki wieków. Amen."
-"Hbr13,22": "A proszę was, bracia, znoście cierpliwie to słowo zachęty; bowiem napisałem do was krótko."
-"Hbr13,23": "Wiedzcie, że brat nasz Tymoteusz został uwolniony, z nim, jeśliby przyszedł szybciej, ujrzę was."
-"Hbr13,24": "Pozdrówcie wszystkich swoich przewodników i wszystkich świętych. Pozdrawiają was ci, którzy są z Italii."
-"Hbr13,25": "Łaska z wami wszystkimi. Amen."
+"Hbr13,1":
+  text: "Miłość braterska niech trwa."
+  tags: []
+"Hbr13,2":
+  text: "Gościnności nie zapominajcie, bo z powodu niej, niektórym uszło uwadze, że gościli aniołów."
+  tags: []
+"Hbr13,3":
+  text: "Pamiętajcie o więźniach, jakbyście razem z nimi byli uwięzieni, o krzywdzonych, jako że sami jesteście w ciele."
+  tags: []
+"Hbr13,4":
+  text: "Małżeństwo jest godne czci u wszystkich, a łoże nieskalane, natomiast nierządników i cudzołożników będzie sądził Bóg."
+  tags: []
+"Hbr13,5":
+  text: "Sposób waszego życia niech będzie wolny od miłości pieniądza. Bądźcie zadowoleni z tego co macie, bo sam powiedział: Z pewnością nie porzucę cię ani na pewno cię nie opuszczę;"
+  tags: []
+"Hbr13,6":
+  text: "Tak więc śmiało mówimy: PAN jest moim pomocnikiem, nie będę się lękał; co uczyni mi człowiek?"
+  tags: []
+"Hbr13,7":
+  text: "Pamiętajcie o swoich przewodnikach, którzy wam głosili Słowo Boże; a patrząc na koniec ich życia, naśladujcie ich wiarę."
+  tags: []
+"Hbr13,8":
+  text: "Jezus Chrystus wczoraj i dziś, ten sam i na wieki."
+  tags: []
+"Hbr13,9":
+  text: "Nie dawajcie się unosić różnym i obcym naukom, bo dobrze jest umacniać serca łaską, a nie pokarmami, które nie przyniosły korzyści tym, którzy tak postępowali."
+  tags: []
+"Hbr13,10":
+  text: "Mamy ołtarz, z którego nie mają prawa zjeść ci, którzy służą przybytkowi."
+  tags: []
+"Hbr13,11":
+  text: "Albowiem ciała tych zwierząt, których krew arcykapłan wnosi za grzech do świętego Świętych, są palone poza obozem."
+  tags: []
+"Hbr13,12":
+  text: "Dlatego i Jezus, aby poświęcić lud swoją własną krwią, cierpiał poza bramą."
+  tags: []
+"Hbr13,13":
+  text: "Wychodźmy więc do Niego poza obóz, niosąc Jego hańbę."
+  tags: []
+"Hbr13,14":
+  text: "Nie mamy tu bowiem miasta trwałego, ale tego, które ma nadejść, szukamy."
+  tags: []
+"Hbr13,15":
+  text: "Przez Niego więc nieustannie składamy Bogu ofiarę chwały, to jest owoc warg wyznających Jego imię."
+  tags: []
+"Hbr13,16":
+  text: "Nie zapominajcie więc o dobroczynności i o pomocy wzajemnej, z takich bowiem ofiar Bóg jest bardzo zadowolony."
+  tags: []
+"Hbr13,17":
+  text: "Bądźcie posłuszni swoim przewodnikom i bądźcie im ulegli, oni bowiem czuwają nad waszymi duszami i zdadzą z tego sprawę. Niech to czynią z radością, nie wzdychając; bo to nie byłoby korzystne dla was."
+  tags: []
+"Hbr13,18":
+  text: "Módlcie się za nas; albowiem jesteśmy przekonani, że mamy dobre sumienie, bo chcemy we wszystkim dobrze postępować."
+  tags: []
+"Hbr13,19":
+  text: "A tym bardziej zachęcam, byście to uczynili, abym został szybciej wam przywrócony."
+  tags: []
+"Hbr13,20":
+  text: "A Bóg pokoju, Ten, który przez krew wiecznego przymierza wyprowadził z martwych wielkiego pasterza owiec, Pana naszego Jezusa,"
+  tags: []
+"Hbr13,21":
+  text: "Oby was uczynił doskonałymi w każdym dobrym dziele, by pełnić Jego wolę, uczyniwszy w was to, co jest przyjemne przed Jego obliczem, przez Jezusa Chrystusa, któremu chwała na wieki wieków. Amen."
+  tags: []
+"Hbr13,22":
+  text: "A proszę was, bracia, znoście cierpliwie to słowo zachęty; bowiem napisałem do was krótko."
+  tags: []
+"Hbr13,23":
+  text: "Wiedzcie, że brat nasz Tymoteusz został uwolniony, z nim, jeśliby przyszedł szybciej, ujrzę was."
+  tags: []
+"Hbr13,24":
+  text: "Pozdrówcie wszystkich swoich przewodników i wszystkich świętych. Pozdrawiają was ci, którzy są z Italii."
+  tags: []
+"Hbr13,25":
+  text: "Łaska z wami wszystkimi. Amen."
+  tags: []

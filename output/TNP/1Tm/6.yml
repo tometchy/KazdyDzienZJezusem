@@ -1,21 +1,63 @@
-"1Tm6,1": "Ci liczni, którzy są pod jarzmem jako niewolnicy, niech uważają swoich panów za godnych wszelkiej czci, aby imieniu Boga i nauce nie bluźniono."
-"1Tm6,2": "A którzy mają wierzących panów, niech nimi nie gardzą, dlatego że są braćmi, ale tym bardziej niech im służą, gdyż oni jako wierni i umiłowani są uczestnikami dobrodziejstwa. Tego nauczaj i do tego zachęcaj."
-"1Tm6,3": "Jeśli ktoś naucza inaczej i nie zbliża się do zdrowych słów Pana naszego Jezusa Chrystusa oraz nauki, która jest zgodna z pobożnością,"
-"1Tm6,4": "Ten jest nadęty, nic nie wie, lecz choruje na spory i walki o słowa, z których rodzą się zazdrość, kłótnie, bluźnierstwa, złe podejrzenia,"
-"1Tm6,5": "Ciągłe kłótnie ludzi ze skażonym myśleniem i pozbawionych prawdy, którzy mniemają, że pobożność jest źródłem zysku; odstąp od takich."
-"1Tm6,6": "Pobożność jednak jest wielkim zyskiem, w połączeniu z samowystarczalnością."
-"1Tm6,7": "Niczego bowiem nie przynieśliśmy na świat, więc oczywiste jest, że niczego z niego nie możemy wynieść,"
-"1Tm6,8": "Ale mając żywność i odzież, będziemy z tego zadowoleni."
-"1Tm6,9": "A ci, którzy chcą się wzbogacać, wpadają w pokuszenie i w pułapki, i w liczne bezmyślne i szkodliwe pragnienia, które pogrążają ludzi w ruinę i zagładę;"
-"1Tm6,10": "Bo korzeniem wszelkich złych rzeczy jest miłość do pieniędzy, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami."
-"1Tm6,11": "Ale ty, Boży człowieku, uciekaj przed tym, a zabiegaj o sprawiedliwość, pobożność, wiarę, miłość, wytrwałość, łagodność."
-"1Tm6,12": "Staczaj dobry bój wiary, chwyć się życia wiecznego, do którego zostałeś powołany i złożyłeś dobre wyznanie wobec wielu świadków."
-"1Tm6,13": "Rozkazuję ci przed obliczem Boga, który wszystko przywraca do życia i przed obliczem Chrystusa Jezusa, który złożył przed Poncjuszem Piłatem dobre wyznanie,"
-"1Tm6,14": "Abyś strzegł tego przykazania bez zmazy, bez nagany, aż do ukazania się Pana naszego Jezusa Chrystusa,"
-"1Tm6,15": "Które w swoim czasie ukaże błogosławiony i jedyny Władca, Król królów i Pan panów,"
-"1Tm6,16": "Jedyny mający nieśmiertelność, który mieszka w światłości nieprzystępnej, którego nikt z ludzi nie widział i widzieć nie może, któremu cześć i moc wieczna. Amen."
-"1Tm6,17": "Bogatym w obecnym wieku nakazuj, aby nie myśleli o sobie wyniośle i nie pokładali nadziei w niepewnym bogactwie, ale w Bogu żywym, który nam wszystko daje obficie do używania;"
-"1Tm6,18": "Aby innym dobrze czynili, bogacili się w dobre czyny, byli hojni i chętnie dzielili się,"
-"1Tm6,19": "Odkładając sobie dobry fundament na to, co ma nastąpić, aby uchwycili się życia wiecznego."
-"1Tm6,20": "O Tymoteuszu! Strzeż tego depozytu, unikaj pospolitej, pustej mowy i przeciwstawnego, fałszywie pojętego poznania,"
-"1Tm6,21": "Które niektórzy wyznając, rozminęli się z wiarą. Łaska z tobą. Amen."
+"1Tm6,1":
+  text: "Ci liczni, którzy są pod jarzmem jako niewolnicy, niech uważają swoich panów za godnych wszelkiej czci, aby imieniu Boga i nauce nie bluźniono."
+  tags: []
+"1Tm6,2":
+  text: "A którzy mają wierzących panów, niech nimi nie gardzą, dlatego że są braćmi, ale tym bardziej niech im służą, gdyż oni jako wierni i umiłowani są uczestnikami dobrodziejstwa. Tego nauczaj i do tego zachęcaj."
+  tags: []
+"1Tm6,3":
+  text: "Jeśli ktoś naucza inaczej i nie zbliża się do zdrowych słów Pana naszego Jezusa Chrystusa oraz nauki, która jest zgodna z pobożnością,"
+  tags: []
+"1Tm6,4":
+  text: "Ten jest nadęty, nic nie wie, lecz choruje na spory i walki o słowa, z których rodzą się zazdrość, kłótnie, bluźnierstwa, złe podejrzenia,"
+  tags: []
+"1Tm6,5":
+  text: "Ciągłe kłótnie ludzi ze skażonym myśleniem i pozbawionych prawdy, którzy mniemają, że pobożność jest źródłem zysku; odstąp od takich."
+  tags: []
+"1Tm6,6":
+  text: "Pobożność jednak jest wielkim zyskiem, w połączeniu z samowystarczalnością."
+  tags: []
+"1Tm6,7":
+  text: "Niczego bowiem nie przynieśliśmy na świat, więc oczywiste jest, że niczego z niego nie możemy wynieść,"
+  tags: []
+"1Tm6,8":
+  text: "Ale mając żywność i odzież, będziemy z tego zadowoleni."
+  tags: []
+"1Tm6,9":
+  text: "A ci, którzy chcą się wzbogacać, wpadają w pokuszenie i w pułapki, i w liczne bezmyślne i szkodliwe pragnienia, które pogrążają ludzi w ruinę i zagładę;"
+  tags: []
+"1Tm6,10":
+  text: "Bo korzeniem wszelkich złych rzeczy jest miłość do pieniędzy, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami."
+  tags: []
+"1Tm6,11":
+  text: "Ale ty, Boży człowieku, uciekaj przed tym, a zabiegaj o sprawiedliwość, pobożność, wiarę, miłość, wytrwałość, łagodność."
+  tags: []
+"1Tm6,12":
+  text: "Staczaj dobry bój wiary, chwyć się życia wiecznego, do którego zostałeś powołany i złożyłeś dobre wyznanie wobec wielu świadków."
+  tags: []
+"1Tm6,13":
+  text: "Rozkazuję ci przed obliczem Boga, który wszystko przywraca do życia i przed obliczem Chrystusa Jezusa, który złożył przed Poncjuszem Piłatem dobre wyznanie,"
+  tags: []
+"1Tm6,14":
+  text: "Abyś strzegł tego przykazania bez zmazy, bez nagany, aż do ukazania się Pana naszego Jezusa Chrystusa,"
+  tags: []
+"1Tm6,15":
+  text: "Które w swoim czasie ukaże błogosławiony i jedyny Władca, Król królów i Pan panów,"
+  tags: []
+"1Tm6,16":
+  text: "Jedyny mający nieśmiertelność, który mieszka w światłości nieprzystępnej, którego nikt z ludzi nie widział i widzieć nie może, któremu cześć i moc wieczna. Amen."
+  tags: []
+"1Tm6,17":
+  text: "Bogatym w obecnym wieku nakazuj, aby nie myśleli o sobie wyniośle i nie pokładali nadziei w niepewnym bogactwie, ale w Bogu żywym, który nam wszystko daje obficie do używania;"
+  tags: []
+"1Tm6,18":
+  text: "Aby innym dobrze czynili, bogacili się w dobre czyny, byli hojni i chętnie dzielili się,"
+  tags: []
+"1Tm6,19":
+  text: "Odkładając sobie dobry fundament na to, co ma nastąpić, aby uchwycili się życia wiecznego."
+  tags: []
+"1Tm6,20":
+  text: "O Tymoteuszu! Strzeż tego depozytu, unikaj pospolitej, pustej mowy i przeciwstawnego, fałszywie pojętego poznania,"
+  tags: []
+"1Tm6,21":
+  text: "Które niektórzy wyznając, rozminęli się z wiarą. Łaska z tobą. Amen."
+  tags: []

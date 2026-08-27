@@ -1,31 +1,93 @@
-"1Kor12,1": "A co do duchowych darów, bracia, nie chcę, abyście pozostali w niewiedzy."
-"1Kor12,2": "Wiecie, że gdy byliście poganami, do niemych bożków was prowadzono i daliście się prowadzić."
-"1Kor12,3": "Dlatego oznajmiam wam, że nikt przemawiający w Duchu Boga nie mówi, że Jezus jest przeklęty, i nikt nie może powiedzieć: Jezus jest Panem, jak tylko w Duchu Świętym."
-"1Kor12,4": "A różne są dary łaski, ale Duch ten sam."
-"1Kor12,5": "I różne są rodzaje służby, ale Pan ten sam."
-"1Kor12,6": "I różne są sposoby działania, ale Bóg ten sam, który sprawia wszystko we wszystkich."
-"1Kor12,7": "A każdemu dawany jest przejaw Ducha ku wspólnemu pożytkowi."
-"1Kor12,8": "Istotnie bowiem jednemu przez Ducha dane jest słowo mądrości, a innemu słowo poznania według tego samego Ducha,"
-"1Kor12,9": "A innemu wiara w tym samym Duchu, a innemu dary uzdrowień w tym samym Duchu,"
-"1Kor12,10": "A innemu dzieła mocy, a innemu prorokowanie, a innemu rozróżnianie duchów, a innemu rozmaite rodzaje języków, a innemu tłumaczenie języków."
-"1Kor12,11": "A to wszystko sprawia jeden i ten sam Duch, rozdzielający stosownie każdemu, tak jak chce."
-"1Kor12,12": "Gdyż tak jak ciało jest jedno, a członków ma wiele, a wszystkie członki ciała, których jest wiele, są jednym ciałem, tak i Chrystus."
-"1Kor12,13": "Bo za sprawą jednego Ducha my wszyscy w jednym ciele zostaliśmy zanurzeni, czy to Żydzi, czy Grecy, czy niewolnicy, czy wolni, i wszyscy zostaliśmy napojeni w jednym Duchu."
-"1Kor12,14": "Albowiem ciało nie jest jednym członkiem, ale wieloma."
-"1Kor12,15": "Jeśliby nawet powiedziała stopa: Ponieważ nie jestem ręką, nie jestem z tego ciała; czy dlatego nie jest z tego ciała?"
-"1Kor12,16": "A jeśliby powiedziało ucho: Ponieważ nie jestem okiem, czyż wbrew temu nie jest z tego ciała?"
-"1Kor12,17": "Jeśli całe ciało byłoby okiem, gdzie byłby słuch? A jeśli całe ciało byłoby słuchem, gdzie byłoby powonienie?"
-"1Kor12,18": "A tymczasem Bóg umieścił członki, każdy jeden z nich w ciele, tak jak chciał."
-"1Kor12,19": "A jeśli wszystkie byłyby jednym członkiem, gdzie byłoby ciało?"
-"1Kor12,20": "A teraz wprawdzie członków jest wiele, ale ciało jest jedno."
-"1Kor12,21": "Nie może więc oko powiedzieć ręce: Nie potrzebuję cię, albo z kolei głowa nogom: Nie potrzebuję was."
-"1Kor12,22": "Lecz o wiele bardziej te członki, które wydają się być słabsze w ciele, są niezbędne;"
-"1Kor12,23": "A te, które uważamy za mniej szacowne w ciele, te otaczamy większym szacunkiem, a naszym intymnym członkom okazujemy większą przyzwoitość,"
-"1Kor12,24": "Lecz nasze przyzwoite członki nie mają takiej potrzeby; lecz Bóg tak połączył ciało, że dał temu, któremu brakuje czci większy szacunek,"
-"1Kor12,25": "Aby nie było w ciele rozdarcia, ale by członki tak samo się o siebie nawzajem troszczyły."
-"1Kor12,26": "A gdy jeden członek cierpi, współcierpią z nim wszystkie członki; gdy natomiast doznaje chwały jeden członek, współradują się z nim wszystkie członki."
-"1Kor12,27": "Lecz wy jesteście ciałem Chrystusa, a z osobna członkami."
-"1Kor12,28": "I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie nauczycieli, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków."
-"1Kor12,29": "Czy wszyscy są apostołami? Czy wszyscy prorokami? Czy wszyscy nauczycielami? Czy wszyscy mają przejawy mocy?"
-"1Kor12,30": "Czy wszyscy mają dary uzdrowień? Czy wszyscy mówią innymi językami? Czy wszyscy je tłumaczą?"
-"1Kor12,31": "Starajcie się usilnie o znaczniejsze dary; a ja wam lepszą ukazuję drogę."
+"1Kor12,1":
+  text: "A co do duchowych darów, bracia, nie chcę, abyście pozostali w niewiedzy."
+  tags: []
+"1Kor12,2":
+  text: "Wiecie, że gdy byliście poganami, do niemych bożków was prowadzono i daliście się prowadzić."
+  tags: []
+"1Kor12,3":
+  text: "Dlatego oznajmiam wam, że nikt przemawiający w Duchu Boga nie mówi, że Jezus jest przeklęty, i nikt nie może powiedzieć: Jezus jest Panem, jak tylko w Duchu Świętym."
+  tags: []
+"1Kor12,4":
+  text: "A różne są dary łaski, ale Duch ten sam."
+  tags: []
+"1Kor12,5":
+  text: "I różne są rodzaje służby, ale Pan ten sam."
+  tags: []
+"1Kor12,6":
+  text: "I różne są sposoby działania, ale Bóg ten sam, który sprawia wszystko we wszystkich."
+  tags: []
+"1Kor12,7":
+  text: "A każdemu dawany jest przejaw Ducha ku wspólnemu pożytkowi."
+  tags: []
+"1Kor12,8":
+  text: "Istotnie bowiem jednemu przez Ducha dane jest słowo mądrości, a innemu słowo poznania według tego samego Ducha,"
+  tags: []
+"1Kor12,9":
+  text: "A innemu wiara w tym samym Duchu, a innemu dary uzdrowień w tym samym Duchu,"
+  tags: []
+"1Kor12,10":
+  text: "A innemu dzieła mocy, a innemu prorokowanie, a innemu rozróżnianie duchów, a innemu rozmaite rodzaje języków, a innemu tłumaczenie języków."
+  tags: []
+"1Kor12,11":
+  text: "A to wszystko sprawia jeden i ten sam Duch, rozdzielający stosownie każdemu, tak jak chce."
+  tags: []
+"1Kor12,12":
+  text: "Gdyż tak jak ciało jest jedno, a członków ma wiele, a wszystkie członki ciała, których jest wiele, są jednym ciałem, tak i Chrystus."
+  tags: []
+"1Kor12,13":
+  text: "Bo za sprawą jednego Ducha my wszyscy w jednym ciele zostaliśmy zanurzeni, czy to Żydzi, czy Grecy, czy niewolnicy, czy wolni, i wszyscy zostaliśmy napojeni w jednym Duchu."
+  tags: []
+"1Kor12,14":
+  text: "Albowiem ciało nie jest jednym członkiem, ale wieloma."
+  tags: []
+"1Kor12,15":
+  text: "Jeśliby nawet powiedziała stopa: Ponieważ nie jestem ręką, nie jestem z tego ciała; czy dlatego nie jest z tego ciała?"
+  tags: []
+"1Kor12,16":
+  text: "A jeśliby powiedziało ucho: Ponieważ nie jestem okiem, czyż wbrew temu nie jest z tego ciała?"
+  tags: []
+"1Kor12,17":
+  text: "Jeśli całe ciało byłoby okiem, gdzie byłby słuch? A jeśli całe ciało byłoby słuchem, gdzie byłoby powonienie?"
+  tags: []
+"1Kor12,18":
+  text: "A tymczasem Bóg umieścił członki, każdy jeden z nich w ciele, tak jak chciał."
+  tags: []
+"1Kor12,19":
+  text: "A jeśli wszystkie byłyby jednym członkiem, gdzie byłoby ciało?"
+  tags: []
+"1Kor12,20":
+  text: "A teraz wprawdzie członków jest wiele, ale ciało jest jedno."
+  tags: []
+"1Kor12,21":
+  text: "Nie może więc oko powiedzieć ręce: Nie potrzebuję cię, albo z kolei głowa nogom: Nie potrzebuję was."
+  tags: []
+"1Kor12,22":
+  text: "Lecz o wiele bardziej te członki, które wydają się być słabsze w ciele, są niezbędne;"
+  tags: []
+"1Kor12,23":
+  text: "A te, które uważamy za mniej szacowne w ciele, te otaczamy większym szacunkiem, a naszym intymnym członkom okazujemy większą przyzwoitość,"
+  tags: []
+"1Kor12,24":
+  text: "Lecz nasze przyzwoite członki nie mają takiej potrzeby; lecz Bóg tak połączył ciało, że dał temu, któremu brakuje czci większy szacunek,"
+  tags: []
+"1Kor12,25":
+  text: "Aby nie było w ciele rozdarcia, ale by członki tak samo się o siebie nawzajem troszczyły."
+  tags: []
+"1Kor12,26":
+  text: "A gdy jeden członek cierpi, współcierpią z nim wszystkie członki; gdy natomiast doznaje chwały jeden członek, współradują się z nim wszystkie członki."
+  tags: []
+"1Kor12,27":
+  text: "Lecz wy jesteście ciałem Chrystusa, a z osobna członkami."
+  tags: []
+"1Kor12,28":
+  text: "I te właśnie członki Bóg ustanowił w kościele: najpierw apostołów, po drugie proroków, po trzecie nauczycieli, potem mających przejawy mocy, potem dary uzdrawiania, pomocy, kierowania, różne rodzaje języków."
+  tags: []
+"1Kor12,29":
+  text: "Czy wszyscy są apostołami? Czy wszyscy prorokami? Czy wszyscy nauczycielami? Czy wszyscy mają przejawy mocy?"
+  tags: []
+"1Kor12,30":
+  text: "Czy wszyscy mają dary uzdrowień? Czy wszyscy mówią innymi językami? Czy wszyscy je tłumaczą?"
+  tags: []
+"1Kor12,31":
+  text: "Starajcie się usilnie o znaczniejsze dary; a ja wam lepszą ukazuję drogę."
+  tags: []

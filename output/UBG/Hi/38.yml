@@ -1,41 +1,123 @@
-"Hi38,1": "Potem PAN odpowiedział Hiobowi spośród wichru:"
-"Hi38,2": "Kim jest ten, co zaciemnia radę słowami bez poznania?"
-"Hi38,3": "Przepasz teraz swe biodra jak mężczyzna, będę cię pytał, a ty mi odpowiadaj."
-"Hi38,4": "Gdzie byłeś, kiedy zakładałem fundamenty ziemi? Powiedz, jeśli masz tę wiedzę."
-"Hi38,5": "Kto określił jej rozmiary? Czy wiesz? Kto rozciągnął nad nią sznur?"
-"Hi38,6": "Na czym są oparte jej podstawy? Kto położył jej kamień węgielny;"
-"Hi38,7": "Gdy gwiazdy poranne razem śpiewały i radowali się wszyscy synowie Boży?"
-"Hi38,8": "Kto zamknął bramą morze, gdy się wyrywało jakby wychodzące z łona?"
-"Hi38,9": "Gdy chmurę uczyniłem jego szatą, a ciemność jego pieluszkami;"
-"Hi38,10": "Gdy ustanowiłem o nim swój dekret i poustawiałem rygle i bramy;"
-"Hi38,11": "I powiedziałem: Dotąd dojdziesz, a nie dalej; tu położysz swe nadęte fale."
-"Hi38,12": "Czy kiedykolwiek w swoim życiu rozkazywałeś rankowi i wskazałeś zorzy jej miejsce;"
-"Hi38,13": "Aby ogarnęła krańce ziemi i aby niegodziwi zostali z niej strząśnięci?"
-"Hi38,14": "Ona zmienia się jak glina pod pieczęcią, a wszystko stoi jak szata."
-"Hi38,15": "Niegodziwym jest odebrana ich światłość, a wyniosłe ramię będzie złamane."
-"Hi38,16": "Czy dotarłeś aż do źródeł morza? Czy przechadzałeś się po dnie głębin?"
-"Hi38,17": "Czy bramy śmierci zostały przed tobą odkryte? Czy widziałeś bramy cienia śmierci?"
-"Hi38,18": "Czy pojąłeś szerokość ziemi? Powiedz mi, jeśli to wszystko wiesz."
-"Hi38,19": "Gdzie jest droga do miejsca przebywania światłości? Gdzie swoje miejsce ma ciemność;"
-"Hi38,20": "Abyś ją zaprowadził do jej granic i mógł poznać ścieżki do jej domu?"
-"Hi38,21": "Czy wiesz to, bo wtedy się urodziłeś i liczba twoich dni jest wielka?"
-"Hi38,22": "Czy dotarłeś do skarbnic śniegu? Czy widziałeś skarbnice gradu;"
-"Hi38,23": "Który zachowuję na czas ucisku, na dzień bitwy i wojny?"
-"Hi38,24": "Jaką drogą dzieli się światłość, która rozpędza wiatr wschodni po ziemi?"
-"Hi38,25": "Kto podzielił kanał dla ulewy i drogę dla błyskawicy grzmotu;"
-"Hi38,26": "Aby padał deszcz na ziemię, w której nikt nie mieszka, i na pustynię, gdzie nie ma człowieka;"
-"Hi38,27": "Aby nasycił miejsce puste i jałowe oraz zasilił rosnącą tam trawę?"
-"Hi38,28": "Czy deszcz ma ojca? A kto spłodził krople rosy?"
-"Hi38,29": "Z czyjego łona wychodzi lód? A kto spłodził szron niebieski?"
-"Hi38,30": "Wody zostają przykryte niczym kamieniem, gdy powierzchnia głębiny zamarza."
-"Hi38,31": "Czy możesz związać jasne gwiazdy Plejad albo rozluźnić więzy Oriona?"
-"Hi38,32": "Czy wyprowadzisz w swym czasie gwiazdy południowe? Czy poprowadzisz Niedźwiedzicę z jej synami?"
-"Hi38,33": "Czy znasz porządek nieba? Czy możesz ustanowić jego panowanie na ziemi?"
-"Hi38,34": "Czy podniesiesz swój głos ku chmurom, aby cię ulewa przykryła?"
-"Hi38,35": "Czy możesz wypuścić błyskawice, aby przyszły i mówiły: Oto jesteśmy?"
-"Hi38,36": "Kto włożył we wnętrze ludzkie mądrość? Kto dał sercu rozum?"
-"Hi38,37": "Kto zdoła policzyć chmury swoją mądrością? Kto uspokoi, kiedy leje z nieba;"
-"Hi38,38": "Gdy proch twardnieje, a bryły przylegają do siebie?"
-"Hi38,39": "Czy lwu zdobyczy nałowisz, czy zaspokoisz głód lwiątek;"
-"Hi38,40": "Gdy tulą się w swoich jaskiniach i czyhają w cieniu swoich jam?"
-"Hi38,41": "Kto dostarcza krukowi pokarmu, gdy jego młode wołają do Boga i tułają się bez pożywienia?"
+"Hi38,1":
+  text: "Potem PAN odpowiedział Hiobowi spośród wichru:"
+  tags: []
+"Hi38,2":
+  text: "Kim jest ten, co zaciemnia radę słowami bez poznania?"
+  tags: []
+"Hi38,3":
+  text: "Przepasz teraz swe biodra jak mężczyzna, będę cię pytał, a ty mi odpowiadaj."
+  tags: []
+"Hi38,4":
+  text: "Gdzie byłeś, kiedy zakładałem fundamenty ziemi? Powiedz, jeśli masz tę wiedzę."
+  tags: []
+"Hi38,5":
+  text: "Kto określił jej rozmiary? Czy wiesz? Kto rozciągnął nad nią sznur?"
+  tags: []
+"Hi38,6":
+  text: "Na czym są oparte jej podstawy? Kto położył jej kamień węgielny;"
+  tags: []
+"Hi38,7":
+  text: "Gdy gwiazdy poranne razem śpiewały i radowali się wszyscy synowie Boży?"
+  tags: []
+"Hi38,8":
+  text: "Kto zamknął bramą morze, gdy się wyrywało jakby wychodzące z łona?"
+  tags: []
+"Hi38,9":
+  text: "Gdy chmurę uczyniłem jego szatą, a ciemność jego pieluszkami;"
+  tags: []
+"Hi38,10":
+  text: "Gdy ustanowiłem o nim swój dekret i poustawiałem rygle i bramy;"
+  tags: []
+"Hi38,11":
+  text: "I powiedziałem: Dotąd dojdziesz, a nie dalej; tu położysz swe nadęte fale."
+  tags: []
+"Hi38,12":
+  text: "Czy kiedykolwiek w swoim życiu rozkazywałeś rankowi i wskazałeś zorzy jej miejsce;"
+  tags: []
+"Hi38,13":
+  text: "Aby ogarnęła krańce ziemi i aby niegodziwi zostali z niej strząśnięci?"
+  tags: []
+"Hi38,14":
+  text: "Ona zmienia się jak glina pod pieczęcią, a wszystko stoi jak szata."
+  tags: []
+"Hi38,15":
+  text: "Niegodziwym jest odebrana ich światłość, a wyniosłe ramię będzie złamane."
+  tags: []
+"Hi38,16":
+  text: "Czy dotarłeś aż do źródeł morza? Czy przechadzałeś się po dnie głębin?"
+  tags: []
+"Hi38,17":
+  text: "Czy bramy śmierci zostały przed tobą odkryte? Czy widziałeś bramy cienia śmierci?"
+  tags: []
+"Hi38,18":
+  text: "Czy pojąłeś szerokość ziemi? Powiedz mi, jeśli to wszystko wiesz."
+  tags: []
+"Hi38,19":
+  text: "Gdzie jest droga do miejsca przebywania światłości? Gdzie swoje miejsce ma ciemność;"
+  tags: []
+"Hi38,20":
+  text: "Abyś ją zaprowadził do jej granic i mógł poznać ścieżki do jej domu?"
+  tags: []
+"Hi38,21":
+  text: "Czy wiesz to, bo wtedy się urodziłeś i liczba twoich dni jest wielka?"
+  tags: []
+"Hi38,22":
+  text: "Czy dotarłeś do skarbnic śniegu? Czy widziałeś skarbnice gradu;"
+  tags: []
+"Hi38,23":
+  text: "Który zachowuję na czas ucisku, na dzień bitwy i wojny?"
+  tags: []
+"Hi38,24":
+  text: "Jaką drogą dzieli się światłość, która rozpędza wiatr wschodni po ziemi?"
+  tags: []
+"Hi38,25":
+  text: "Kto podzielił kanał dla ulewy i drogę dla błyskawicy grzmotu;"
+  tags: []
+"Hi38,26":
+  text: "Aby padał deszcz na ziemię, w której nikt nie mieszka, i na pustynię, gdzie nie ma człowieka;"
+  tags: []
+"Hi38,27":
+  text: "Aby nasycił miejsce puste i jałowe oraz zasilił rosnącą tam trawę?"
+  tags: []
+"Hi38,28":
+  text: "Czy deszcz ma ojca? A kto spłodził krople rosy?"
+  tags: []
+"Hi38,29":
+  text: "Z czyjego łona wychodzi lód? A kto spłodził szron niebieski?"
+  tags: []
+"Hi38,30":
+  text: "Wody zostają przykryte niczym kamieniem, gdy powierzchnia głębiny zamarza."
+  tags: []
+"Hi38,31":
+  text: "Czy możesz związać jasne gwiazdy Plejad albo rozluźnić więzy Oriona?"
+  tags: []
+"Hi38,32":
+  text: "Czy wyprowadzisz w swym czasie gwiazdy południowe? Czy poprowadzisz Niedźwiedzicę z jej synami?"
+  tags: []
+"Hi38,33":
+  text: "Czy znasz porządek nieba? Czy możesz ustanowić jego panowanie na ziemi?"
+  tags: []
+"Hi38,34":
+  text: "Czy podniesiesz swój głos ku chmurom, aby cię ulewa przykryła?"
+  tags: []
+"Hi38,35":
+  text: "Czy możesz wypuścić błyskawice, aby przyszły i mówiły: Oto jesteśmy?"
+  tags: []
+"Hi38,36":
+  text: "Kto włożył we wnętrze ludzkie mądrość? Kto dał sercu rozum?"
+  tags: []
+"Hi38,37":
+  text: "Kto zdoła policzyć chmury swoją mądrością? Kto uspokoi, kiedy leje z nieba;"
+  tags: []
+"Hi38,38":
+  text: "Gdy proch twardnieje, a bryły przylegają do siebie?"
+  tags: []
+"Hi38,39":
+  text: "Czy lwu zdobyczy nałowisz, czy zaspokoisz głód lwiątek;"
+  tags: []
+"Hi38,40":
+  text: "Gdy tulą się w swoich jaskiniach i czyhają w cieniu swoich jam?"
+  tags: []
+"Hi38,41":
+  text: "Kto dostarcza krukowi pokarmu, gdy jego młode wołają do Boga i tułają się bez pożywienia?"
+  tags: []

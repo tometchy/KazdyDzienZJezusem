@@ -1,28 +1,84 @@
-"Hi28,1": "Surely there is a vein for the silver, and a place for gold [where] they fine [it]."
-"Hi28,2": "Iron is taken out of the earth, and brass [is] molten [out of] the stone."
-"Hi28,3": "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death."
-"Hi28,4": "The flood breaketh out from the inhabitant; [even the waters] forgotten of the foot: they are dried up, they are gone away from men."
-"Hi28,5": "[As for] the earth, out of it cometh bread: and under it is turned up as it were fire."
-"Hi28,6": "The stones of it [are] the place of sapphires: and it hath dust of gold."
-"Hi28,7": "[There is] a path which no fowl knoweth, and which the vulture's eye hath not seen:"
-"Hi28,8": "The lion's whelps have not trodden it, nor the fierce lion passed by it."
-"Hi28,9": "He putteth forth his hand upon the rock; he overturneth the mountains by the roots."
-"Hi28,10": "He cutteth out rivers among the rocks; and his eye seeth every precious thing."
-"Hi28,11": "He bindeth the floods from overflowing; and [the thing that is] hid bringeth he forth to light."
-"Hi28,12": "But where shall wisdom be found? and where [is] the place of understanding?"
-"Hi28,13": "Man knoweth not the price thereof; neither is it found in the land of the living."
-"Hi28,14": "The depth saith, It [is] not in me: and the sea saith, [It is] not with me."
-"Hi28,15": "It cannot be gotten for gold, neither shall silver be weighed [for] the price thereof."
-"Hi28,16": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire."
-"Hi28,17": "The gold and the crystal cannot equal it: and the exchange of it [shall not be for] jewels of fine gold."
-"Hi28,18": "No mention shall be made of coral, or of pearls: for the price of wisdom [is] above rubies."
-"Hi28,19": "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold."
-"Hi28,20": "Whence then cometh wisdom? and where [is] the place of understanding?"
-"Hi28,21": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air."
-"Hi28,22": "Destruction and death say, We have heard the fame thereof with our ears."
-"Hi28,23": "God understandeth the way thereof, and he knoweth the place thereof."
-"Hi28,24": "For he looketh to the ends of the earth, [and] seeth under the whole heaven;"
-"Hi28,25": "To make the weight for the winds; and he weigheth the waters by measure."
-"Hi28,26": "When he made a decree for the rain, and a way for the lightning of the thunder:"
-"Hi28,27": "Then did he see it, and declare it; he prepared it, yea, and searched it out."
-"Hi28,28": "And unto man he said, Behold, the fear of the Lord, that [is] wisdom; and to depart from evil [is] understanding."
+"Hi28,1":
+  text: "Surely there is a vein for the silver, and a place for gold [where] they fine [it]."
+  tags: []
+"Hi28,2":
+  text: "Iron is taken out of the earth, and brass [is] molten [out of] the stone."
+  tags: []
+"Hi28,3":
+  text: "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death."
+  tags: []
+"Hi28,4":
+  text: "The flood breaketh out from the inhabitant; [even the waters] forgotten of the foot: they are dried up, they are gone away from men."
+  tags: []
+"Hi28,5":
+  text: "[As for] the earth, out of it cometh bread: and under it is turned up as it were fire."
+  tags: []
+"Hi28,6":
+  text: "The stones of it [are] the place of sapphires: and it hath dust of gold."
+  tags: []
+"Hi28,7":
+  text: "[There is] a path which no fowl knoweth, and which the vulture's eye hath not seen:"
+  tags: []
+"Hi28,8":
+  text: "The lion's whelps have not trodden it, nor the fierce lion passed by it."
+  tags: []
+"Hi28,9":
+  text: "He putteth forth his hand upon the rock; he overturneth the mountains by the roots."
+  tags: []
+"Hi28,10":
+  text: "He cutteth out rivers among the rocks; and his eye seeth every precious thing."
+  tags: []
+"Hi28,11":
+  text: "He bindeth the floods from overflowing; and [the thing that is] hid bringeth he forth to light."
+  tags: []
+"Hi28,12":
+  text: "But where shall wisdom be found? and where [is] the place of understanding?"
+  tags: []
+"Hi28,13":
+  text: "Man knoweth not the price thereof; neither is it found in the land of the living."
+  tags: []
+"Hi28,14":
+  text: "The depth saith, It [is] not in me: and the sea saith, [It is] not with me."
+  tags: []
+"Hi28,15":
+  text: "It cannot be gotten for gold, neither shall silver be weighed [for] the price thereof."
+  tags: []
+"Hi28,16":
+  text: "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire."
+  tags: []
+"Hi28,17":
+  text: "The gold and the crystal cannot equal it: and the exchange of it [shall not be for] jewels of fine gold."
+  tags: []
+"Hi28,18":
+  text: "No mention shall be made of coral, or of pearls: for the price of wisdom [is] above rubies."
+  tags: []
+"Hi28,19":
+  text: "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold."
+  tags: []
+"Hi28,20":
+  text: "Whence then cometh wisdom? and where [is] the place of understanding?"
+  tags: []
+"Hi28,21":
+  text: "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air."
+  tags: []
+"Hi28,22":
+  text: "Destruction and death say, We have heard the fame thereof with our ears."
+  tags: []
+"Hi28,23":
+  text: "God understandeth the way thereof, and he knoweth the place thereof."
+  tags: []
+"Hi28,24":
+  text: "For he looketh to the ends of the earth, [and] seeth under the whole heaven;"
+  tags: []
+"Hi28,25":
+  text: "To make the weight for the winds; and he weigheth the waters by measure."
+  tags: []
+"Hi28,26":
+  text: "When he made a decree for the rain, and a way for the lightning of the thunder:"
+  tags: []
+"Hi28,27":
+  text: "Then did he see it, and declare it; he prepared it, yea, and searched it out."
+  tags: []
+"Hi28,28":
+  text: "And unto man he said, Behold, the fear of the Lord, that [is] wisdom; and to depart from evil [is] understanding."
+  tags: []

@@ -1,35 +1,105 @@
-"Hi15,1": "Wtedy Elifaz Temanita odpowiedział i rzekł:"
-"Hi15,2": "Czy mędrzec ma odpowiadać wiedzą wiatru i napełniać swoje wnętrze gorącym wiatrem?"
-"Hi15,3": "Czy ma się spierać ze słowem nie przynoszącym pożytku i mową, nie niosą w sobie korzyści?"
-"Hi15,4": "Ty nawet przekreślasz bojaźń i powstrzymujesz modlitwę przed Bogiem."
-"Hi15,5": "Bo twoja przewrotność poucza twe usta, wybierasz mowę przebiegłych."
-"Hi15,6": "Twoje usta cię potępiają, a nie ja; twoje wargi świadczą przeciwko tobie."
-"Hi15,7": "Czy zostałeś zrodzony jako pierwszy człowiek? I czy przed pagórkami zostałeś wydany na świat?"
-"Hi15,8": "Czy słuchasz na radzie Bożej? I czy stąd ograniczasz mądrość do siebie?"
-"Hi15,9": "Co ty wiesz, czego my nie wiemy, co ty rozumiesz, co nam nie jest wiadome?"
-"Hi15,10": "Również wśród nas są posiwiali, a także sędziwi, starsi niż dni twojego ojca."
-"Hi15,11": "Czy niewystarczające są dla ciebie pociechy Boga? I łagodne słowo skierowane do ciebie?"
-"Hi15,12": "Dlaczego porwało cię twoje serce? I dlaczego mrugają twoje oczy;"
-"Hi15,13": "Że zwracasz przeciwko Bogu swojego ducha i wypuszczasz ze swoich ust takie słowa?"
-"Hi15,14": "Czym jest człowiek, że miałby być czysty lub zrodzony z kobiety – miałby być sprawiedliwy?"
-"Hi15,15": "Oto nawet w swoich świętych nie pokłada ufności i niebiosa nie są czyste w jego oczach."
-"Hi15,16": "To tym bardziej obrzydły i zepsuty jest człowiek, który pije nieprawość jak wodę."
-"Hi15,17": "Wykażę ci to, posłuchaj mnie, a to, co widziałem, opowiem ci;"
-"Hi15,18": "To, co mędrcy wyjaśnili, a czego nie ukryli, a co pochodzi od ich ojców;"
-"Hi15,19": "Im samym została dana ziemia i nie przeszedł żaden obcy pośród nich."
-"Hi15,20": "Wszystkie dni niegodziwego – tak przeżywa je on w udręce i niewielką liczbę lat wyznaczono ciemiężcy."
-"Hi15,21": "Głos przerażenia dźwięczy w jego uszach, w czasie pokoju nachodzi go niszczyciel."
-"Hi15,22": "Nie wierzy, że odwróci się od niego ciemność i zachowany jest on pod miecz."
-"Hi15,23": "Tuła się on za chlebem, pytając gdzie jest. Wie, że gotowy jest w jego ręku dzień ciemności."
-"Hi15,24": "Przerażają go utrapienie i ucisk; przezwycięży go to, jak król gotowy do ataku."
-"Hi15,25": "Bo wyciągnął swoją rękę przeciwko Bogu, przeciwko Wszechmogącemu się umocnił."
-"Hi15,26": "Biegnie na Niego z upartym karkiem, za grubością tyłu jego tarczy."
-"Hi15,27": "Chociaż pokrył swoją twarz tłuszczem i poczynił sobie fałdy na lędźwiach,"
-"Hi15,28": "To zamieszkał w zburzonych miastach, w domach, których nie zasiedlą, a które przygotowane są, by stać się stertą gruzu."
-"Hi15,29": "Nie będzie bogaty i nie przetrwa jego mienie, i nie rozszerzy się na ziemi zamożność takich jak on."
-"Hi15,30": "Nie wyjdzie z ciemności, płomień wysuszy jego pęd, a zginie od tchnienia jego ust."
-"Hi15,31": "Niech nie ufa marności, bo zostanie zwiedziony, gdyż marność będzie jego zapłatą."
-"Hi15,32": "A przed jego dniem nie będzie wypłacona, a jego liść nie zazieleni się."
-"Hi15,33": "Strząśnie jak winorośl swoje niedojrzałe grona, jak oliwka zrzuci swój kwiat."
-"Hi15,34": "Bo zgromadzenie obłudników jest jałowe, a ogień strawi namioty postawione za łapówki."
-"Hi15,35": "Poczęli krzywdę i urodzili nieprawość, a ich łono przygotowuje oszustwo."
+"Hi15,1":
+  text: "Wtedy Elifaz Temanita odpowiedział i rzekł:"
+  tags: []
+"Hi15,2":
+  text: "Czy mędrzec ma odpowiadać wiedzą wiatru i napełniać swoje wnętrze gorącym wiatrem?"
+  tags: []
+"Hi15,3":
+  text: "Czy ma się spierać ze słowem nie przynoszącym pożytku i mową, nie niosą w sobie korzyści?"
+  tags: []
+"Hi15,4":
+  text: "Ty nawet przekreślasz bojaźń i powstrzymujesz modlitwę przed Bogiem."
+  tags: []
+"Hi15,5":
+  text: "Bo twoja przewrotność poucza twe usta, wybierasz mowę przebiegłych."
+  tags: []
+"Hi15,6":
+  text: "Twoje usta cię potępiają, a nie ja; twoje wargi świadczą przeciwko tobie."
+  tags: []
+"Hi15,7":
+  text: "Czy zostałeś zrodzony jako pierwszy człowiek? I czy przed pagórkami zostałeś wydany na świat?"
+  tags: []
+"Hi15,8":
+  text: "Czy słuchasz na radzie Bożej? I czy stąd ograniczasz mądrość do siebie?"
+  tags: []
+"Hi15,9":
+  text: "Co ty wiesz, czego my nie wiemy, co ty rozumiesz, co nam nie jest wiadome?"
+  tags: []
+"Hi15,10":
+  text: "Również wśród nas są posiwiali, a także sędziwi, starsi niż dni twojego ojca."
+  tags: []
+"Hi15,11":
+  text: "Czy niewystarczające są dla ciebie pociechy Boga? I łagodne słowo skierowane do ciebie?"
+  tags: []
+"Hi15,12":
+  text: "Dlaczego porwało cię twoje serce? I dlaczego mrugają twoje oczy;"
+  tags: []
+"Hi15,13":
+  text: "Że zwracasz przeciwko Bogu swojego ducha i wypuszczasz ze swoich ust takie słowa?"
+  tags: []
+"Hi15,14":
+  text: "Czym jest człowiek, że miałby być czysty lub zrodzony z kobiety – miałby być sprawiedliwy?"
+  tags: []
+"Hi15,15":
+  text: "Oto nawet w swoich świętych nie pokłada ufności i niebiosa nie są czyste w jego oczach."
+  tags: []
+"Hi15,16":
+  text: "To tym bardziej obrzydły i zepsuty jest człowiek, który pije nieprawość jak wodę."
+  tags: []
+"Hi15,17":
+  text: "Wykażę ci to, posłuchaj mnie, a to, co widziałem, opowiem ci;"
+  tags: []
+"Hi15,18":
+  text: "To, co mędrcy wyjaśnili, a czego nie ukryli, a co pochodzi od ich ojców;"
+  tags: []
+"Hi15,19":
+  text: "Im samym została dana ziemia i nie przeszedł żaden obcy pośród nich."
+  tags: []
+"Hi15,20":
+  text: "Wszystkie dni niegodziwego – tak przeżywa je on w udręce i niewielką liczbę lat wyznaczono ciemiężcy."
+  tags: []
+"Hi15,21":
+  text: "Głos przerażenia dźwięczy w jego uszach, w czasie pokoju nachodzi go niszczyciel."
+  tags: []
+"Hi15,22":
+  text: "Nie wierzy, że odwróci się od niego ciemność i zachowany jest on pod miecz."
+  tags: []
+"Hi15,23":
+  text: "Tuła się on za chlebem, pytając gdzie jest. Wie, że gotowy jest w jego ręku dzień ciemności."
+  tags: []
+"Hi15,24":
+  text: "Przerażają go utrapienie i ucisk; przezwycięży go to, jak król gotowy do ataku."
+  tags: []
+"Hi15,25":
+  text: "Bo wyciągnął swoją rękę przeciwko Bogu, przeciwko Wszechmogącemu się umocnił."
+  tags: []
+"Hi15,26":
+  text: "Biegnie na Niego z upartym karkiem, za grubością tyłu jego tarczy."
+  tags: []
+"Hi15,27":
+  text: "Chociaż pokrył swoją twarz tłuszczem i poczynił sobie fałdy na lędźwiach,"
+  tags: []
+"Hi15,28":
+  text: "To zamieszkał w zburzonych miastach, w domach, których nie zasiedlą, a które przygotowane są, by stać się stertą gruzu."
+  tags: []
+"Hi15,29":
+  text: "Nie będzie bogaty i nie przetrwa jego mienie, i nie rozszerzy się na ziemi zamożność takich jak on."
+  tags: []
+"Hi15,30":
+  text: "Nie wyjdzie z ciemności, płomień wysuszy jego pęd, a zginie od tchnienia jego ust."
+  tags: []
+"Hi15,31":
+  text: "Niech nie ufa marności, bo zostanie zwiedziony, gdyż marność będzie jego zapłatą."
+  tags: []
+"Hi15,32":
+  text: "A przed jego dniem nie będzie wypłacona, a jego liść nie zazieleni się."
+  tags: []
+"Hi15,33":
+  text: "Strząśnie jak winorośl swoje niedojrzałe grona, jak oliwka zrzuci swój kwiat."
+  tags: []
+"Hi15,34":
+  text: "Bo zgromadzenie obłudników jest jałowe, a ogień strawi namioty postawione za łapówki."
+  tags: []
+"Hi15,35":
+  text: "Poczęli krzywdę i urodzili nieprawość, a ich łono przygotowuje oszustwo."
+  tags: []

@@ -1,18 +1,54 @@
-"Ps115,1": "Nie nam, PANIE, nie nam, ale twemu imieniu daj chwałę za twoje miłosierdzie i prawdę."
-"Ps115,2": "Czemu mają mówić poganie: Gdzież teraz jest ich Bóg?"
-"Ps115,3": "A nasz Bóg jest w niebie, czyni wszystko, co zechce."
-"Ps115,4": "Ich bożki to srebro i złoto, dzieło rąk ludzkich."
-"Ps115,5": "Usta mają, ale nie mówią; mają oczy, ale nie widzą."
-"Ps115,6": "Uszy mają, ale nie słyszą; mają nozdrza, ale nie czują."
-"Ps115,7": "Ręce mają, ale nie dotykają; mają nogi, ale nie chodzą; ani gardłem swoim nie wydają głosu."
-"Ps115,8": "Niech będą do nich podobni ci, którzy je robią, i wszyscy, którzy im ufają."
-"Ps115,9": "Izraelu, ufaj PANU; on jest ich pomocą i tarczą."
-"Ps115,10": "Domu Aarona, ufaj PANU; on jest ich pomocą i tarczą."
-"Ps115,11": "Wy, którzy się boicie PANA, ufajcie PANU; on jest ich pomocą i tarczą."
-"Ps115,12": "PAN pamięta o nas, będzie błogosławił; będzie błogosławił domowi Izraela, będzie błogosławił domowi Aarona."
-"Ps115,13": "Będzie błogosławił tym, którzy boją się PANA, i małym, i wielkim."
-"Ps115,14": "Rozmnoży was PAN, was i waszych synów."
-"Ps115,15": "Błogosławieni jesteście przez PANA, który stworzył niebo i ziemię."
-"Ps115,16": "Niebiosa są niebiosami PANA, ale ziemię dał synom ludzkim."
-"Ps115,17": "Umarli nie będą chwalili PANA ani nikt z tych, którzy zstępują do miejsca milczenia."
-"Ps115,18": "Ale my będziemy błogosławili PANA, odtąd aż na wieki. Alleluja."
+"Ps115,1":
+  text: "Nie nam, PANIE, nie nam, ale twemu imieniu daj chwałę za twoje miłosierdzie i prawdę."
+  tags: []
+"Ps115,2":
+  text: "Czemu mają mówić poganie: Gdzież teraz jest ich Bóg?"
+  tags: []
+"Ps115,3":
+  text: "A nasz Bóg jest w niebie, czyni wszystko, co zechce."
+  tags: []
+"Ps115,4":
+  text: "Ich bożki to srebro i złoto, dzieło rąk ludzkich."
+  tags: []
+"Ps115,5":
+  text: "Usta mają, ale nie mówią; mają oczy, ale nie widzą."
+  tags: []
+"Ps115,6":
+  text: "Uszy mają, ale nie słyszą; mają nozdrza, ale nie czują."
+  tags: []
+"Ps115,7":
+  text: "Ręce mają, ale nie dotykają; mają nogi, ale nie chodzą; ani gardłem swoim nie wydają głosu."
+  tags: []
+"Ps115,8":
+  text: "Niech będą do nich podobni ci, którzy je robią, i wszyscy, którzy im ufają."
+  tags: []
+"Ps115,9":
+  text: "Izraelu, ufaj PANU; on jest ich pomocą i tarczą."
+  tags: []
+"Ps115,10":
+  text: "Domu Aarona, ufaj PANU; on jest ich pomocą i tarczą."
+  tags: []
+"Ps115,11":
+  text: "Wy, którzy się boicie PANA, ufajcie PANU; on jest ich pomocą i tarczą."
+  tags: []
+"Ps115,12":
+  text: "PAN pamięta o nas, będzie błogosławił; będzie błogosławił domowi Izraela, będzie błogosławił domowi Aarona."
+  tags: []
+"Ps115,13":
+  text: "Będzie błogosławił tym, którzy boją się PANA, i małym, i wielkim."
+  tags: []
+"Ps115,14":
+  text: "Rozmnoży was PAN, was i waszych synów."
+  tags: []
+"Ps115,15":
+  text: "Błogosławieni jesteście przez PANA, który stworzył niebo i ziemię."
+  tags: []
+"Ps115,16":
+  text: "Niebiosa są niebiosami PANA, ale ziemię dał synom ludzkim."
+  tags: []
+"Ps115,17":
+  text: "Umarli nie będą chwalili PANA ani nikt z tych, którzy zstępują do miejsca milczenia."
+  tags: []
+"Ps115,18":
+  text: "Ale my będziemy błogosławili PANA, odtąd aż na wieki. Alleluja."
+  tags: []

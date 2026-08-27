@@ -1,33 +1,99 @@
-"Prz30,1": "Słowa Agura, syna Jake, proroctwo tego człowieka do Itiela, do Itiela i Ukala."
-"Prz30,2": "Zaprawdę jestem najgłupszym z ludzi i nie mam ludzkiego rozumu."
-"Prz30,3": "Ani nie nauczyłem się mądrości, ani nie mam wiedzy o tym, co święte."
-"Prz30,4": "Któż wstąpił do nieba i zstąpił? Któż zebrał wiatr w swoje garście? Któż zgarnął wody do swej szaty? Któż utwierdził wszystkie krańce ziemi? Jakie jest jego imię? A jakie jest imię jego syna? Czy wiesz?"
-"Prz30,5": "Każde słowo Boga jest czyste; on jest tarczą dla tych, którzy mu ufają."
-"Prz30,6": "Nie dodawaj nic do jego słów, aby cię nie strofował i abyś nie okazał się kłamcą."
-"Prz30,7": "Proszę cię o dwie rzeczy; nie odmawiaj mi ich, zanim umrę."
-"Prz30,8": "Oddal ode mnie marność i słowo kłamliwe; nie dawaj mi ani ubóstwa, ani bogactwa; żyw mnie odpowiednim dla mnie pokarmem;"
-"Prz30,9": "Abym będąc syty, nie zaparł się ciebie i nie mówił: Kim jest PAN? Albo zubożawszy, nie kradł i nie brał imienia mego Boga nadaremnie."
-"Prz30,10": "Nie oczerniaj sługi przed jego panem, aby ci nie złorzeczył i byś nie okazał się winny."
-"Prz30,11": "Jest pokolenie, które złorzeczy swemu ojcu i nie błogosławi swojej matce."
-"Prz30,12": "Jest pokolenie, które we własnych oczach jest czyste, lecz nie jest obmyte ze swego plugastwa."
-"Prz30,13": "Jest pokolenie, którego oczy są wyniosłe i powieki wzniesione."
-"Prz30,14": "Jest pokolenie, którego zęby są jak miecze, a zęby trzonowe jak noże, by pożreć ubogich na ziemi i nędzarzy spośród ludzi."
-"Prz30,15": "Pijawka ma dwie córki, które mówią: Daj, daj. Trzy są rzeczy, które nie mogą się nasycić; cztery, które nie mówią: Dość."
-"Prz30,16": "Grób, niepłodne łono, ziemia niesyta wody i ogień, który nie mówi: Dość."
-"Prz30,17": "Oko, które wyśmiewa ojca i gardzi posłuszeństwem matce, wydziobią kruki nad potokami i wyjedzą orlęta."
-"Prz30,18": "Trzy są rzeczy dla mnie zbyt zdumiewające, czterech nie znam:"
-"Prz30,19": "Drogi orła w powietrzu, drogi węża na skale, drogi okrętu na środku morza i drogi mężczyzny z młodą kobietą."
-"Prz30,20": "Taka jest droga kobiety cudzołożnej: je i obciera swoje usta, i mówi: Nie zrobiłam nic złego."
-"Prz30,21": "Pod trzema rzeczami drży ziemia, czterech nie może znieść:"
-"Prz30,22": "Sługi, kiedy panuje, głupca, kiedy syci się chlebem;"
-"Prz30,23": "Obmierzłej kobiety, kiedy wychodzi za mąż, i służącej, kiedy dziedziczy po swojej pani."
-"Prz30,24": "Cztery są rzeczy najmniejsze na ziemi, jednak mędrsze nad mędrców:"
-"Prz30,25": "Mrówki, lud słaby, a jednak w lecie przygotowują pokarm;"
-"Prz30,26": "Króliki, lud słaby, a jednak budują swój dom w skale;"
-"Prz30,27": "Szarańcze nie mają króla, a jednak wszystkie wyruszają chmarą;"
-"Prz30,28": "Pająk pracuje rękoma, a bywa w pałacach królewskich."
-"Prz30,29": "Trzy są rzeczy, które poruszają się wspaniale, cztery kroczą dostojnie:"
-"Prz30,30": "Lew, najsilniejszy wśród zwierząt, który przed nikim nie ustępuje;"
-"Prz30,31": "Chart i kozioł, i król, przeciw któremu nikt nie powstaje."
-"Prz30,32": "Jeśli głupio postąpiłeś, wynosząc się, albo jeśli pomyślałeś źle, połóż rękę na ustach."
-"Prz30,33": "Jak ubijanie mleka daje masło i wycieranie nosa wywołuje krew, tak kto wzbudza gniew, wszczyna kłótnię."
+"Prz30,1":
+  text: "Słowa Agura, syna Jake, proroctwo tego człowieka do Itiela, do Itiela i Ukala."
+  tags: []
+"Prz30,2":
+  text: "Zaprawdę jestem najgłupszym z ludzi i nie mam ludzkiego rozumu."
+  tags: []
+"Prz30,3":
+  text: "Ani nie nauczyłem się mądrości, ani nie mam wiedzy o tym, co święte."
+  tags: []
+"Prz30,4":
+  text: "Któż wstąpił do nieba i zstąpił? Któż zebrał wiatr w swoje garście? Któż zgarnął wody do swej szaty? Któż utwierdził wszystkie krańce ziemi? Jakie jest jego imię? A jakie jest imię jego syna? Czy wiesz?"
+  tags: []
+"Prz30,5":
+  text: "Każde słowo Boga jest czyste; on jest tarczą dla tych, którzy mu ufają."
+  tags: []
+"Prz30,6":
+  text: "Nie dodawaj nic do jego słów, aby cię nie strofował i abyś nie okazał się kłamcą."
+  tags: []
+"Prz30,7":
+  text: "Proszę cię o dwie rzeczy; nie odmawiaj mi ich, zanim umrę."
+  tags: []
+"Prz30,8":
+  text: "Oddal ode mnie marność i słowo kłamliwe; nie dawaj mi ani ubóstwa, ani bogactwa; żyw mnie odpowiednim dla mnie pokarmem;"
+  tags: []
+"Prz30,9":
+  text: "Abym będąc syty, nie zaparł się ciebie i nie mówił: Kim jest PAN? Albo zubożawszy, nie kradł i nie brał imienia mego Boga nadaremnie."
+  tags: []
+"Prz30,10":
+  text: "Nie oczerniaj sługi przed jego panem, aby ci nie złorzeczył i byś nie okazał się winny."
+  tags: []
+"Prz30,11":
+  text: "Jest pokolenie, które złorzeczy swemu ojcu i nie błogosławi swojej matce."
+  tags: []
+"Prz30,12":
+  text: "Jest pokolenie, które we własnych oczach jest czyste, lecz nie jest obmyte ze swego plugastwa."
+  tags: []
+"Prz30,13":
+  text: "Jest pokolenie, którego oczy są wyniosłe i powieki wzniesione."
+  tags: []
+"Prz30,14":
+  text: "Jest pokolenie, którego zęby są jak miecze, a zęby trzonowe jak noże, by pożreć ubogich na ziemi i nędzarzy spośród ludzi."
+  tags: []
+"Prz30,15":
+  text: "Pijawka ma dwie córki, które mówią: Daj, daj. Trzy są rzeczy, które nie mogą się nasycić; cztery, które nie mówią: Dość."
+  tags: []
+"Prz30,16":
+  text: "Grób, niepłodne łono, ziemia niesyta wody i ogień, który nie mówi: Dość."
+  tags: []
+"Prz30,17":
+  text: "Oko, które wyśmiewa ojca i gardzi posłuszeństwem matce, wydziobią kruki nad potokami i wyjedzą orlęta."
+  tags: []
+"Prz30,18":
+  text: "Trzy są rzeczy dla mnie zbyt zdumiewające, czterech nie znam:"
+  tags: []
+"Prz30,19":
+  text: "Drogi orła w powietrzu, drogi węża na skale, drogi okrętu na środku morza i drogi mężczyzny z młodą kobietą."
+  tags: []
+"Prz30,20":
+  text: "Taka jest droga kobiety cudzołożnej: je i obciera swoje usta, i mówi: Nie zrobiłam nic złego."
+  tags: []
+"Prz30,21":
+  text: "Pod trzema rzeczami drży ziemia, czterech nie może znieść:"
+  tags: []
+"Prz30,22":
+  text: "Sługi, kiedy panuje, głupca, kiedy syci się chlebem;"
+  tags: []
+"Prz30,23":
+  text: "Obmierzłej kobiety, kiedy wychodzi za mąż, i służącej, kiedy dziedziczy po swojej pani."
+  tags: []
+"Prz30,24":
+  text: "Cztery są rzeczy najmniejsze na ziemi, jednak mędrsze nad mędrców:"
+  tags: []
+"Prz30,25":
+  text: "Mrówki, lud słaby, a jednak w lecie przygotowują pokarm;"
+  tags: []
+"Prz30,26":
+  text: "Króliki, lud słaby, a jednak budują swój dom w skale;"
+  tags: []
+"Prz30,27":
+  text: "Szarańcze nie mają króla, a jednak wszystkie wyruszają chmarą;"
+  tags: []
+"Prz30,28":
+  text: "Pająk pracuje rękoma, a bywa w pałacach królewskich."
+  tags: []
+"Prz30,29":
+  text: "Trzy są rzeczy, które poruszają się wspaniale, cztery kroczą dostojnie:"
+  tags: []
+"Prz30,30":
+  text: "Lew, najsilniejszy wśród zwierząt, który przed nikim nie ustępuje;"
+  tags: []
+"Prz30,31":
+  text: "Chart i kozioł, i król, przeciw któremu nikt nie powstaje."
+  tags: []
+"Prz30,32":
+  text: "Jeśli głupio postąpiłeś, wynosząc się, albo jeśli pomyślałeś źle, połóż rękę na ustach."
+  tags: []
+"Prz30,33":
+  text: "Jak ubijanie mleka daje masło i wycieranie nosa wywołuje krew, tak kto wzbudza gniew, wszczyna kłótnię."
+  tags: []

@@ -1,37 +1,111 @@
-"Mk7,1": "I zgromadzili się wokół Niego faryzeusze i niektórzy z uczonych w Piśmie, którzy przyszli z Jerozolimy;"
-"Mk7,2": "A widząc, że niektórzy z Jego uczniów jedzą chleb skalanymi, to jest nieobmytymi rękami, ganili to."
-"Mk7,3": "Albowiem faryzeusze i wszyscy Żydzi nie jedzą, gdy nie obmyją pięścią rąk, gdyż zachowują tradycję starszych."
-"Mk7,4": "I gdy wrócą z rynku, nie jedzą, jeśli się nie zanurzą; i jest jeszcze wiele innych przepisów jakie przyjęli, i których się trzymają, takich jak: obmywanie kubków i dzbanków, i naczyń z miedzi, i posłań."
-"Mk7,5": "Potem pytali Go faryzeusze i uczeni w Piśmie: Dlaczego Twoi uczniowie nie postępują według tradycji starszych, ale jedzą chleb nieobmytymi rękami?"
-"Mk7,6": "On natomiast w odpowiedzi, rzekł im: Dobrze prorokował Izajasz o was obłudnikach, tak jak jest napisane: Lud ten szanuje mnie wargami, ale serce ich daleko jest ode mnie;"
-"Mk7,7": "Lecz próżno mnie czczą, nauczając nauk, które są przykazaniami ludzi."
-"Mk7,8": "Porzuciliście bowiem przykazanie Boże, a trzymacie się tradycji ludzi, obmywacie dzbanki i kubki, i czynicie wiele innych tym podobnych rzeczy."
-"Mk7,9": "I mówił im: Pięknie unieważniacie przykazanie Boże, abyście mogli zachować swoją tradycję."
-"Mk7,10": "Bo Mojżesz powiedział: Czcij ojca twojego i matkę twoją, a: Kto złorzeczy ojcu albo matce, niech poniesie śmierć."
-"Mk7,11": "Wy natomiast mówicie: Jeśliby człowiek powiedział ojcu albo matce: Korban – to znaczy: To, co miałbyś jako pomoc ode mnie jest darem ofiarnym."
-"Mk7,12": "I już nie pozwalacie mu nic uczynić dla swojego ojca albo swojej matki,"
-"Mk7,13": "Unieważniając Słowo Boże swoją tradycją, którą przekazaliście. I wiele tym podobnych rzeczy czynicie."
-"Mk7,14": "I przywołał do siebie cały lud, mówiąc im: Słuchajcie mnie wszyscy i zrozumiejcie!"
-"Mk7,15": "Nic, co z zewnątrz wchodzi do człowieka, nie może go zanieczyścić; ale to, co wychodzi z niego, jest tym, co zanieczyszcza człowieka."
-"Mk7,16": "Jeśli ktoś ma uszy, by słyszeć, niech słucha!"
-"Mk7,17": "A gdy opuścił tłum i wszedł do domu, pytali Go Jego uczniowie o to podobieństwo."
-"Mk7,18": "I powiedział im: To i wy jesteście tak niepojętni? Czy nie rozumiecie, że wszystko, co z zewnątrz wchodzi do człowieka, nie może go zanieczyścić?"
-"Mk7,19": "Gdyż nie wchodzi do jego serca, ale do żołądka, i wychodzi do ustępu, oczyszczając wszystkie pokarmy."
-"Mk7,20": "I mówił dalej: To, co wychodzi z człowieka, to zanieczyszcza człowieka."
-"Mk7,21": "Albowiem z wnętrza, z serca ludzi wychodzą złe myśli, cudzołóstwa, nierząd, morderstwa,"
-"Mk7,22": "Kradzieże, chciwość, złość, zdrada, bezwstyd, zawiść, bluźnierstwo, pycha, głupota."
-"Mk7,23": "Wszystkie te złe rzeczy wychodzą z wnętrza i zanieczyszczają człowieka."
-"Mk7,24": "I gdy powstał, odszedł stamtąd w granice Tyru i Sydonu; i wszedł do domu, nie chciał, aby ktoś się o tym wiedział; lecz nie mógł pozostać w ukryciu."
-"Mk7,25": "Usłyszała bowiem o Nim kobieta, której córeczka miała ducha nieczystego, przyszła i przypadła do Jego stóp."
-"Mk7,26": "A ta kobieta była Greczynką, rodem z Syrofenicji, i prosiła Go, aby wyrzucił demona z jej córki."
-"Mk7,27": "Ale Jezus powiedział do niej: Pozwól niech najpierw zostaną nasycone dzieci, bo niedobrze jest brać chleb dzieci i rzucać szczeniętom."
-"Mk7,28": "A ona odpowiedziała, mówiąc do Niego: Tak, Panie! Jednak i szczenięta pod stołem jedzą okruchy z chleba dzieci,"
-"Mk7,29": "I powiedział do niej: Ze względu na to słowo, idź, demon wyszedł z twojej córki."
-"Mk7,30": "I gdy odeszła do swojego domu, znalazła córkę leżącą na posłaniu, i wyszedł z niej demon."
-"Mk7,31": "I gdy ponownie odszedł z granic Tyru i Sydonu, przyszedł nad Morze Galilejskie, przechodząc środkiem granic Dziesięciogrodu."
-"Mk7,32": "I przyprowadzili do Niego głuchego, który miał trudności z mówieniem, i prosili Go, aby położył na niego rękę."
-"Mk7,33": "I wziął go z tłumu na osobne miejsce, włożył palce swoje w jego uszy, splunął i dotknął jego języka;"
-"Mk7,34": "I spojrzał w niebo, westchnął i powiedział do niego: Effata! To znaczy: Otwórz się!"
-"Mk7,35": "I zaraz otworzyły się jego uszy, i rozwiązały się więzy jego języka, i mówił poprawnie."
-"Mk7,36": "I przykazał im, aby nikomu o tym nie mówili. Ale im bardziej im przykazywał, tym bardziej to rozgłaszali,"
-"Mk7,37": "I byli ogromnie zdumieni i mówili: Dobrze wszystko uczynił, bo sprawia, że głusi słyszą, a niemi mówią."
+"Mk7,1":
+  text: "I zgromadzili się wokół Niego faryzeusze i niektórzy z uczonych w Piśmie, którzy przyszli z Jerozolimy;"
+  tags: []
+"Mk7,2":
+  text: "A widząc, że niektórzy z Jego uczniów jedzą chleb skalanymi, to jest nieobmytymi rękami, ganili to."
+  tags: []
+"Mk7,3":
+  text: "Albowiem faryzeusze i wszyscy Żydzi nie jedzą, gdy nie obmyją pięścią rąk, gdyż zachowują tradycję starszych."
+  tags: []
+"Mk7,4":
+  text: "I gdy wrócą z rynku, nie jedzą, jeśli się nie zanurzą; i jest jeszcze wiele innych przepisów jakie przyjęli, i których się trzymają, takich jak: obmywanie kubków i dzbanków, i naczyń z miedzi, i posłań."
+  tags: []
+"Mk7,5":
+  text: "Potem pytali Go faryzeusze i uczeni w Piśmie: Dlaczego Twoi uczniowie nie postępują według tradycji starszych, ale jedzą chleb nieobmytymi rękami?"
+  tags: []
+"Mk7,6":
+  text: "On natomiast w odpowiedzi, rzekł im: Dobrze prorokował Izajasz o was obłudnikach, tak jak jest napisane: Lud ten szanuje mnie wargami, ale serce ich daleko jest ode mnie;"
+  tags: []
+"Mk7,7":
+  text: "Lecz próżno mnie czczą, nauczając nauk, które są przykazaniami ludzi."
+  tags: []
+"Mk7,8":
+  text: "Porzuciliście bowiem przykazanie Boże, a trzymacie się tradycji ludzi, obmywacie dzbanki i kubki, i czynicie wiele innych tym podobnych rzeczy."
+  tags: []
+"Mk7,9":
+  text: "I mówił im: Pięknie unieważniacie przykazanie Boże, abyście mogli zachować swoją tradycję."
+  tags: []
+"Mk7,10":
+  text: "Bo Mojżesz powiedział: Czcij ojca twojego i matkę twoją, a: Kto złorzeczy ojcu albo matce, niech poniesie śmierć."
+  tags: []
+"Mk7,11":
+  text: "Wy natomiast mówicie: Jeśliby człowiek powiedział ojcu albo matce: Korban – to znaczy: To, co miałbyś jako pomoc ode mnie jest darem ofiarnym."
+  tags: []
+"Mk7,12":
+  text: "I już nie pozwalacie mu nic uczynić dla swojego ojca albo swojej matki,"
+  tags: []
+"Mk7,13":
+  text: "Unieważniając Słowo Boże swoją tradycją, którą przekazaliście. I wiele tym podobnych rzeczy czynicie."
+  tags: []
+"Mk7,14":
+  text: "I przywołał do siebie cały lud, mówiąc im: Słuchajcie mnie wszyscy i zrozumiejcie!"
+  tags: []
+"Mk7,15":
+  text: "Nic, co z zewnątrz wchodzi do człowieka, nie może go zanieczyścić; ale to, co wychodzi z niego, jest tym, co zanieczyszcza człowieka."
+  tags: []
+"Mk7,16":
+  text: "Jeśli ktoś ma uszy, by słyszeć, niech słucha!"
+  tags: []
+"Mk7,17":
+  text: "A gdy opuścił tłum i wszedł do domu, pytali Go Jego uczniowie o to podobieństwo."
+  tags: []
+"Mk7,18":
+  text: "I powiedział im: To i wy jesteście tak niepojętni? Czy nie rozumiecie, że wszystko, co z zewnątrz wchodzi do człowieka, nie może go zanieczyścić?"
+  tags: []
+"Mk7,19":
+  text: "Gdyż nie wchodzi do jego serca, ale do żołądka, i wychodzi do ustępu, oczyszczając wszystkie pokarmy."
+  tags: []
+"Mk7,20":
+  text: "I mówił dalej: To, co wychodzi z człowieka, to zanieczyszcza człowieka."
+  tags: []
+"Mk7,21":
+  text: "Albowiem z wnętrza, z serca ludzi wychodzą złe myśli, cudzołóstwa, nierząd, morderstwa,"
+  tags: []
+"Mk7,22":
+  text: "Kradzieże, chciwość, złość, zdrada, bezwstyd, zawiść, bluźnierstwo, pycha, głupota."
+  tags: []
+"Mk7,23":
+  text: "Wszystkie te złe rzeczy wychodzą z wnętrza i zanieczyszczają człowieka."
+  tags: []
+"Mk7,24":
+  text: "I gdy powstał, odszedł stamtąd w granice Tyru i Sydonu; i wszedł do domu, nie chciał, aby ktoś się o tym wiedział; lecz nie mógł pozostać w ukryciu."
+  tags: []
+"Mk7,25":
+  text: "Usłyszała bowiem o Nim kobieta, której córeczka miała ducha nieczystego, przyszła i przypadła do Jego stóp."
+  tags: []
+"Mk7,26":
+  text: "A ta kobieta była Greczynką, rodem z Syrofenicji, i prosiła Go, aby wyrzucił demona z jej córki."
+  tags: []
+"Mk7,27":
+  text: "Ale Jezus powiedział do niej: Pozwól niech najpierw zostaną nasycone dzieci, bo niedobrze jest brać chleb dzieci i rzucać szczeniętom."
+  tags: []
+"Mk7,28":
+  text: "A ona odpowiedziała, mówiąc do Niego: Tak, Panie! Jednak i szczenięta pod stołem jedzą okruchy z chleba dzieci,"
+  tags: []
+"Mk7,29":
+  text: "I powiedział do niej: Ze względu na to słowo, idź, demon wyszedł z twojej córki."
+  tags: []
+"Mk7,30":
+  text: "I gdy odeszła do swojego domu, znalazła córkę leżącą na posłaniu, i wyszedł z niej demon."
+  tags: []
+"Mk7,31":
+  text: "I gdy ponownie odszedł z granic Tyru i Sydonu, przyszedł nad Morze Galilejskie, przechodząc środkiem granic Dziesięciogrodu."
+  tags: []
+"Mk7,32":
+  text: "I przyprowadzili do Niego głuchego, który miał trudności z mówieniem, i prosili Go, aby położył na niego rękę."
+  tags: []
+"Mk7,33":
+  text: "I wziął go z tłumu na osobne miejsce, włożył palce swoje w jego uszy, splunął i dotknął jego języka;"
+  tags: []
+"Mk7,34":
+  text: "I spojrzał w niebo, westchnął i powiedział do niego: Effata! To znaczy: Otwórz się!"
+  tags: []
+"Mk7,35":
+  text: "I zaraz otworzyły się jego uszy, i rozwiązały się więzy jego języka, i mówił poprawnie."
+  tags: []
+"Mk7,36":
+  text: "I przykazał im, aby nikomu o tym nie mówili. Ale im bardziej im przykazywał, tym bardziej to rozgłaszali,"
+  tags: []
+"Mk7,37":
+  text: "I byli ogromnie zdumieni i mówili: Dobrze wszystko uczynił, bo sprawia, że głusi słyszą, a niemi mówią."
+  tags: []

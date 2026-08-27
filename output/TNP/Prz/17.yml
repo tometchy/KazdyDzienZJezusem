@@ -1,28 +1,84 @@
-"Prz17,1": "Lepszy kawałek suchego chleba, a przy tym spokój, niż dom pełen ofiar z kłótnią."
-"Prz17,2": "Sługa roztropny zapanuje nad synem, który przynosi hańbę i wśród braci podzieli dziedzictwo."
-"Prz17,3": "Tygiel dla srebra, piec dla złota, ale serca bada JHWH."
-"Prz17,4": "Nikczemnik zwraca uwagę na niegodziwe wargi, a oszust słucha zgubnego języka."
-"Prz17,5": "Kto naśmiewa się z ubogiego, uwłacza jego Stwórcy, a kto się cieszy z nieszczęścia, nie zostanie uznanym za niewinnego."
-"Prz17,6": "Koroną starców są synowie synów, a chlubą synów są ich ojcowie."
-"Prz17,7": "Wzniosła mowa nie przystoi głupiemu, a tym bardziej szlachetnemu kłamliwa mowa."
-"Prz17,8": "Łapówka jest kamieniem łaskawości w oczach właściciela; gdziekolwiek on się zwróci – osiąga sukces."
-"Prz17,9": "Kto przykrywa przestępstwo, szuka przyjaźni, a kto wyjawia sprawę, rozdziela przyjaciół."
-"Prz17,10": "Nagana głębiej dotyka rozumnego, niż głupiego sto razów."
-"Prz17,11": "Zły dąży jedynie do buntu, dlatego zostanie wysłany do niego okrutny posłaniec."
-"Prz17,12": "Lepiej człowiekowi natknąć się na niedźwiedzicę, której zabrano młode, niż na głupca w jego głupocie."
-"Prz17,13": "Nie odstąpi zło od domu tego, kto odpłaca złem za dobro."
-"Prz17,14": "Kto uwalnia wodę, zaczyna kłótnię, dlatego porzuć spór, zanim wybuchnie."
-"Prz17,15": "Kto usprawiedliwia niegodziwego i kto potępia sprawiedliwego, zaiste obaj budzą odrazę w JHWH."
-"Prz17,16": "Po co pieniądze w ręku głupca, by nabyć mądrość? Lecz nie ma na to rozumu?"
-"Prz17,17": "Przyjaciel kocha w każdym czasie, i rodzi się bratem w nieszczęściu."
-"Prz17,18": "Człowiekiem pozbawionym rozumu jest ten, kto przyklaskuje w dłoń i daje poręczenie za swojego bliźniego."
-"Prz17,19": "Kto kocha przestępstwo, kocha spór, a kto podwyższa swoją bramę, szuka zagłady."
-"Prz17,20": "Przewrotny w sercu nie znajduje dobra, a kto ma pokrętny język, wpada w zło."
-"Prz17,21": "Ten kto spłodził głupca, to na swoje zmartwienie, a ojciec głupiego nie doznaje radości."
-"Prz17,22": "Radosne serce jest dobrym lekarstwem, a złamany duch wysusza kości."
-"Prz17,23": "Niegodziwy bierze łapówkę z zanadrza, aby naginać ścieżki prawa."
-"Prz17,24": "Na twarzy rozumnego widać mądrość, lecz oczy głupca błądzą aż po krańce ziemi."
-"Prz17,25": "Głupi syn jest zmartwieniem dla ojca i goryczą dla rodzicielki."
-"Prz17,26": "Zaiste to niedobrze wymierzyć karę sprawiedliwemu, ani bić szlachetnych za prawość."
-"Prz17,27": "Kto ma poznanie, powściąga swoje słowa, człowiek roztropny jest spokojnego ducha."
-"Prz17,28": "Zaiste głupi gdy milczy, zostanie uznany za mądrego, a kto zamyka swoje wargi – za rozumnego."
+"Prz17,1":
+  text: "Lepszy kawałek suchego chleba, a przy tym spokój, niż dom pełen ofiar z kłótnią."
+  tags: []
+"Prz17,2":
+  text: "Sługa roztropny zapanuje nad synem, który przynosi hańbę i wśród braci podzieli dziedzictwo."
+  tags: []
+"Prz17,3":
+  text: "Tygiel dla srebra, piec dla złota, ale serca bada JHWH."
+  tags: []
+"Prz17,4":
+  text: "Nikczemnik zwraca uwagę na niegodziwe wargi, a oszust słucha zgubnego języka."
+  tags: []
+"Prz17,5":
+  text: "Kto naśmiewa się z ubogiego, uwłacza jego Stwórcy, a kto się cieszy z nieszczęścia, nie zostanie uznanym za niewinnego."
+  tags: []
+"Prz17,6":
+  text: "Koroną starców są synowie synów, a chlubą synów są ich ojcowie."
+  tags: []
+"Prz17,7":
+  text: "Wzniosła mowa nie przystoi głupiemu, a tym bardziej szlachetnemu kłamliwa mowa."
+  tags: []
+"Prz17,8":
+  text: "Łapówka jest kamieniem łaskawości w oczach właściciela; gdziekolwiek on się zwróci – osiąga sukces."
+  tags: []
+"Prz17,9":
+  text: "Kto przykrywa przestępstwo, szuka przyjaźni, a kto wyjawia sprawę, rozdziela przyjaciół."
+  tags: []
+"Prz17,10":
+  text: "Nagana głębiej dotyka rozumnego, niż głupiego sto razów."
+  tags: []
+"Prz17,11":
+  text: "Zły dąży jedynie do buntu, dlatego zostanie wysłany do niego okrutny posłaniec."
+  tags: []
+"Prz17,12":
+  text: "Lepiej człowiekowi natknąć się na niedźwiedzicę, której zabrano młode, niż na głupca w jego głupocie."
+  tags: []
+"Prz17,13":
+  text: "Nie odstąpi zło od domu tego, kto odpłaca złem za dobro."
+  tags: []
+"Prz17,14":
+  text: "Kto uwalnia wodę, zaczyna kłótnię, dlatego porzuć spór, zanim wybuchnie."
+  tags: []
+"Prz17,15":
+  text: "Kto usprawiedliwia niegodziwego i kto potępia sprawiedliwego, zaiste obaj budzą odrazę w JHWH."
+  tags: []
+"Prz17,16":
+  text: "Po co pieniądze w ręku głupca, by nabyć mądrość? Lecz nie ma na to rozumu?"
+  tags: []
+"Prz17,17":
+  text: "Przyjaciel kocha w każdym czasie, i rodzi się bratem w nieszczęściu."
+  tags: []
+"Prz17,18":
+  text: "Człowiekiem pozbawionym rozumu jest ten, kto przyklaskuje w dłoń i daje poręczenie za swojego bliźniego."
+  tags: []
+"Prz17,19":
+  text: "Kto kocha przestępstwo, kocha spór, a kto podwyższa swoją bramę, szuka zagłady."
+  tags: []
+"Prz17,20":
+  text: "Przewrotny w sercu nie znajduje dobra, a kto ma pokrętny język, wpada w zło."
+  tags: []
+"Prz17,21":
+  text: "Ten kto spłodził głupca, to na swoje zmartwienie, a ojciec głupiego nie doznaje radości."
+  tags: []
+"Prz17,22":
+  text: "Radosne serce jest dobrym lekarstwem, a złamany duch wysusza kości."
+  tags: []
+"Prz17,23":
+  text: "Niegodziwy bierze łapówkę z zanadrza, aby naginać ścieżki prawa."
+  tags: []
+"Prz17,24":
+  text: "Na twarzy rozumnego widać mądrość, lecz oczy głupca błądzą aż po krańce ziemi."
+  tags: []
+"Prz17,25":
+  text: "Głupi syn jest zmartwieniem dla ojca i goryczą dla rodzicielki."
+  tags: []
+"Prz17,26":
+  text: "Zaiste to niedobrze wymierzyć karę sprawiedliwemu, ani bić szlachetnych za prawość."
+  tags: []
+"Prz17,27":
+  text: "Kto ma poznanie, powściąga swoje słowa, człowiek roztropny jest spokojnego ducha."
+  tags: []
+"Prz17,28":
+  text: "Zaiste głupi gdy milczy, zostanie uznany za mądrego, a kto zamyka swoje wargi – za rozumnego."
+  tags: []

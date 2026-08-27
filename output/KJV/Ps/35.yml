@@ -1,28 +1,84 @@
-"Ps35,1": "Plead [my cause], O LORD, with them that strive with me: fight against them that fight against me."
-"Ps35,2": "Take hold of shield and buckler, and stand up for mine help."
-"Ps35,3": "Draw out also the spear, and stop [the way] against them that persecute me: say unto my soul, I [am] thy salvation."
-"Ps35,4": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt."
-"Ps35,5": "Let them be as chaff before the wind: and let the angel of the LORD chase [them]."
-"Ps35,6": "Let their way be dark and slippery: and let the angel of the LORD persecute them."
-"Ps35,7": "For without cause have they hid for me their net [in] a pit, [which] without cause they have digged for my soul."
-"Ps35,8": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall."
-"Ps35,9": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation."
-"Ps35,10": "All my bones shall say, LORD, who [is] like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?"
-"Ps35,11": "False witnesses did rise up; they laid to my charge [things] that I knew not."
-"Ps35,12": "They rewarded me evil for good [to] the spoiling of my soul."
-"Ps35,13": "But as for me, when they were sick, my clothing [was] sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom."
-"Ps35,14": "I behaved myself as though [he had been] my friend [or] brother: I bowed down heavily, as one that mourneth [for his] mother."
-"Ps35,15": "But in mine adversity they rejoiced, and gathered themselves together: [yea], the abjects gathered themselves together against me, and I knew [it] not; they did tear [me], and ceased not:"
-"Ps35,16": "With hypocritical mockers in feasts, they gnashed upon me with their teeth."
-"Ps35,17": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions."
-"Ps35,18": "I will give thee thanks in the great congregation: I will praise thee among much people."
-"Ps35,19": "Let not them that are mine enemies wrongfully rejoice over me: [neither] let them wink with the eye that hate me without a cause."
-"Ps35,20": "For they speak not peace: but they devise deceitful matters against [them that are] quiet in the land."
-"Ps35,21": "Yea, they opened their mouth wide against me, [and] said, Aha, aha, our eye hath seen [it]."
-"Ps35,22": "[This] thou hast seen, O LORD: keep not silence: O Lord, be not far from me."
-"Ps35,23": "Stir up thyself, and awake to my judgment, [even] unto my cause, my God and my Lord."
-"Ps35,24": "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me."
-"Ps35,25": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up."
-"Ps35,26": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify [themselves] against me."
-"Ps35,27": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant."
-"Ps35,28": "And my tongue shall speak of thy righteousness [and] of thy praise all the day long."
+"Ps35,1":
+  text: "Plead [my cause], O LORD, with them that strive with me: fight against them that fight against me."
+  tags: []
+"Ps35,2":
+  text: "Take hold of shield and buckler, and stand up for mine help."
+  tags: []
+"Ps35,3":
+  text: "Draw out also the spear, and stop [the way] against them that persecute me: say unto my soul, I [am] thy salvation."
+  tags: []
+"Ps35,4":
+  text: "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt."
+  tags: []
+"Ps35,5":
+  text: "Let them be as chaff before the wind: and let the angel of the LORD chase [them]."
+  tags: []
+"Ps35,6":
+  text: "Let their way be dark and slippery: and let the angel of the LORD persecute them."
+  tags: []
+"Ps35,7":
+  text: "For without cause have they hid for me their net [in] a pit, [which] without cause they have digged for my soul."
+  tags: []
+"Ps35,8":
+  text: "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall."
+  tags: []
+"Ps35,9":
+  text: "And my soul shall be joyful in the LORD: it shall rejoice in his salvation."
+  tags: []
+"Ps35,10":
+  text: "All my bones shall say, LORD, who [is] like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?"
+  tags: []
+"Ps35,11":
+  text: "False witnesses did rise up; they laid to my charge [things] that I knew not."
+  tags: []
+"Ps35,12":
+  text: "They rewarded me evil for good [to] the spoiling of my soul."
+  tags: []
+"Ps35,13":
+  text: "But as for me, when they were sick, my clothing [was] sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom."
+  tags: []
+"Ps35,14":
+  text: "I behaved myself as though [he had been] my friend [or] brother: I bowed down heavily, as one that mourneth [for his] mother."
+  tags: []
+"Ps35,15":
+  text: "But in mine adversity they rejoiced, and gathered themselves together: [yea], the abjects gathered themselves together against me, and I knew [it] not; they did tear [me], and ceased not:"
+  tags: []
+"Ps35,16":
+  text: "With hypocritical mockers in feasts, they gnashed upon me with their teeth."
+  tags: []
+"Ps35,17":
+  text: "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions."
+  tags: []
+"Ps35,18":
+  text: "I will give thee thanks in the great congregation: I will praise thee among much people."
+  tags: []
+"Ps35,19":
+  text: "Let not them that are mine enemies wrongfully rejoice over me: [neither] let them wink with the eye that hate me without a cause."
+  tags: []
+"Ps35,20":
+  text: "For they speak not peace: but they devise deceitful matters against [them that are] quiet in the land."
+  tags: []
+"Ps35,21":
+  text: "Yea, they opened their mouth wide against me, [and] said, Aha, aha, our eye hath seen [it]."
+  tags: []
+"Ps35,22":
+  text: "[This] thou hast seen, O LORD: keep not silence: O Lord, be not far from me."
+  tags: []
+"Ps35,23":
+  text: "Stir up thyself, and awake to my judgment, [even] unto my cause, my God and my Lord."
+  tags: []
+"Ps35,24":
+  text: "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me."
+  tags: []
+"Ps35,25":
+  text: "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up."
+  tags: []
+"Ps35,26":
+  text: "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify [themselves] against me."
+  tags: []
+"Ps35,27":
+  text: "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant."
+  tags: []
+"Ps35,28":
+  text: "And my tongue shall speak of thy righteousness [and] of thy praise all the day long."
+  tags: []

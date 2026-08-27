@@ -1,20 +1,60 @@
-"1Tm1,1": "Paweł, apostoł Jezusa Chrystusa zgodnie z rozkazem Boga, Zbawiciela naszego i Pana Jezusa Chrystusa, nadziei naszej,"
-"1Tm1,2": "Do Tymoteusza, prawowitego syna w wierze. Łaska, miłosierdzie, pokój od Boga, Ojca naszego i Chrystusa Jezusa, naszego Pana."
-"1Tm1,3": "A idąc do Macedonii zachęciłem ciebie, abyś pozostał w Efezie i żebyś pewnym ludziom rozkazał aby nie nauczali inaczej niż my,"
-"1Tm1,4": "A także wystrzegali się baśni i niekończących się rodowodów, które raczej więcej sporów przynoszą, niż zbudowania Bożego, które jest w wierze."
-"1Tm1,5": "A celem tego przykazania jest miłość płynąca z czystego serca i z dobrego sumienia, i z wiary nieobłudnej,"
-"1Tm1,6": "Z czym niektórzy się rozminęli i zwrócili się ku czczej gadaninie."
-"1Tm1,7": "Chcą być nauczycielami Prawa, a nie rozumieją ani tego, co mówią, ani o czym tak stanowczo twierdzą."
-"1Tm1,8": "A wiemy, że Prawo jest dobre, jeśli ktoś właściwie z niego korzysta,"
-"1Tm1,9": "Wiedząc o tym, że Prawo nie jest ustanawiane dla sprawiedliwego, ale dla nieprawych i nieposłusznych, bezbożnych i grzesznych, lekceważących Boga i nieczystych, ojcobójców i matkobójców, morderców,"
-"1Tm1,10": "Rozpustników, homoseksualistów, dla handlarzy ludźmi, kłamców, krzywoprzysięzców i jeśli jest cokolwiek innego, co sprzeciwia się zdrowej nauce."
-"1Tm1,11": "Zgodnej z pełną chwały Ewangelią błogosławionego Boga, która została mi powierzona."
-"1Tm1,12": "A wdzięczny jestem Temu, który mnie wzmocnił, Chrystusowi Jezusowi, Panu naszemu, że uznał mnie za godnego zaufania, przeznaczając do służby."
-"1Tm1,13": "Mnie, będącego wcześniej bluźniercą i prześladowcą, i gnębicielem; ale dostąpiłem miłosierdzia, bo czyniłem to w nieświadomości, w niewierze."
-"1Tm1,14": "Ale rzeczywiście, łaska Pana naszego ponad miarę obfitowała wraz z wiarą i miłością w Chrystusie Jezusie."
-"1Tm1,15": "Godne zaufania jest to słowo i godne całkowitego przyjęcia, że Chrystus Jezus przyszedł na świat, aby zbawić grzeszników, z których ja jestem pierwszy."
-"1Tm1,16": "Ale przez to dostąpiłem miłosierdzia, aby na mnie pierwszym okazał Jezus Chrystus wszelką cierpliwość dla przykładu tym, którzy mają w Niego wierzyć dla życia wiecznego."
-"1Tm1,17": "A królowi wieków, nieśmiertelnemu, niewidzialnemu, jedynemu, mądremu Bogu, cześć i chwała na wieki wieków. Amen."
-"1Tm1,18": "Ten rozkaz kładę przed tobą, dziecko, Tymoteuszu, abyś według wcześniej wygłoszonych do ciebie proroctw, uczestnicząc w wojnie, prowadził w nich szlachetny bój."
-"1Tm1,19": "Mając wiarę i dobre sumienie, które niektórzy odepchnęli od siebie, a co do ich wiary – uległa ona rozbiciu jak okręt;"
-"1Tm1,20": "Z nich jest Hymenajos i Aleksander, których oddałem szatanowi, żeby zostali nauczeni nie bluźnić."
+"1Tm1,1":
+  text: "Paweł, apostoł Jezusa Chrystusa zgodnie z rozkazem Boga, Zbawiciela naszego i Pana Jezusa Chrystusa, nadziei naszej,"
+  tags: []
+"1Tm1,2":
+  text: "Do Tymoteusza, prawowitego syna w wierze. Łaska, miłosierdzie, pokój od Boga, Ojca naszego i Chrystusa Jezusa, naszego Pana."
+  tags: []
+"1Tm1,3":
+  text: "A idąc do Macedonii zachęciłem ciebie, abyś pozostał w Efezie i żebyś pewnym ludziom rozkazał aby nie nauczali inaczej niż my,"
+  tags: []
+"1Tm1,4":
+  text: "A także wystrzegali się baśni i niekończących się rodowodów, które raczej więcej sporów przynoszą, niż zbudowania Bożego, które jest w wierze."
+  tags: []
+"1Tm1,5":
+  text: "A celem tego przykazania jest miłość płynąca z czystego serca i z dobrego sumienia, i z wiary nieobłudnej,"
+  tags: []
+"1Tm1,6":
+  text: "Z czym niektórzy się rozminęli i zwrócili się ku czczej gadaninie."
+  tags: []
+"1Tm1,7":
+  text: "Chcą być nauczycielami Prawa, a nie rozumieją ani tego, co mówią, ani o czym tak stanowczo twierdzą."
+  tags: []
+"1Tm1,8":
+  text: "A wiemy, że Prawo jest dobre, jeśli ktoś właściwie z niego korzysta,"
+  tags: []
+"1Tm1,9":
+  text: "Wiedząc o tym, że Prawo nie jest ustanawiane dla sprawiedliwego, ale dla nieprawych i nieposłusznych, bezbożnych i grzesznych, lekceważących Boga i nieczystych, ojcobójców i matkobójców, morderców,"
+  tags: []
+"1Tm1,10":
+  text: "Rozpustników, homoseksualistów, dla handlarzy ludźmi, kłamców, krzywoprzysięzców i jeśli jest cokolwiek innego, co sprzeciwia się zdrowej nauce."
+  tags: []
+"1Tm1,11":
+  text: "Zgodnej z pełną chwały Ewangelią błogosławionego Boga, która została mi powierzona."
+  tags: []
+"1Tm1,12":
+  text: "A wdzięczny jestem Temu, który mnie wzmocnił, Chrystusowi Jezusowi, Panu naszemu, że uznał mnie za godnego zaufania, przeznaczając do służby."
+  tags: []
+"1Tm1,13":
+  text: "Mnie, będącego wcześniej bluźniercą i prześladowcą, i gnębicielem; ale dostąpiłem miłosierdzia, bo czyniłem to w nieświadomości, w niewierze."
+  tags: []
+"1Tm1,14":
+  text: "Ale rzeczywiście, łaska Pana naszego ponad miarę obfitowała wraz z wiarą i miłością w Chrystusie Jezusie."
+  tags: []
+"1Tm1,15":
+  text: "Godne zaufania jest to słowo i godne całkowitego przyjęcia, że Chrystus Jezus przyszedł na świat, aby zbawić grzeszników, z których ja jestem pierwszy."
+  tags: []
+"1Tm1,16":
+  text: "Ale przez to dostąpiłem miłosierdzia, aby na mnie pierwszym okazał Jezus Chrystus wszelką cierpliwość dla przykładu tym, którzy mają w Niego wierzyć dla życia wiecznego."
+  tags: []
+"1Tm1,17":
+  text: "A królowi wieków, nieśmiertelnemu, niewidzialnemu, jedynemu, mądremu Bogu, cześć i chwała na wieki wieków. Amen."
+  tags: []
+"1Tm1,18":
+  text: "Ten rozkaz kładę przed tobą, dziecko, Tymoteuszu, abyś według wcześniej wygłoszonych do ciebie proroctw, uczestnicząc w wojnie, prowadził w nich szlachetny bój."
+  tags: []
+"1Tm1,19":
+  text: "Mając wiarę i dobre sumienie, które niektórzy odepchnęli od siebie, a co do ich wiary – uległa ona rozbiciu jak okręt;"
+  tags: []
+"1Tm1,20":
+  text: "Z nich jest Hymenajos i Aleksander, których oddałem szatanowi, żeby zostali nauczeni nie bluźnić."
+  tags: []

@@ -1,16 +1,48 @@
-"Ps91,1": "Kto mieszka pod osłoną Najwyższego, w cieniu Wszechmocnego przebywać będzie."
-"Ps91,2": "Będę mówił o PANU: Moja ucieczka i twierdza, mój Bóg, jemu będę ufał."
-"Ps91,3": "Zaprawdę, on wybawi cię z sideł łowcy i od zgubnej zarazy."
-"Ps91,4": "Okryje cię swymi piórami i pod jego skrzydłami będziesz bezpieczny; jego prawda będzie ci tarczą i puklerzem."
-"Ps91,5": "Nie ulękniesz się strachu nocnego ani strzały lecącej za dnia;"
-"Ps91,6": "Ani zarazy, która przychodzi w ciemności, ani dżumy, która pustoszy w południe."
-"Ps91,7": "Tysiąc padnie u twego boku, a dziesięć tysięcy po twojej prawicy, lecz ciebie to nie dosięgnie."
-"Ps91,8": "Tylko zobaczysz na własne oczy i ujrzysz zapłatę daną niegodziwym."
-"Ps91,9": "Ponieważ PANA, moją ucieczkę i Najwyższego, uczyniłeś swoim mieszkaniem;"
-"Ps91,10": "Nie spotka cię nic złego ani żadna plaga nie zbliży się do twego namiotu."
-"Ps91,11": "Rozkaże bowiem o tobie swoim aniołom, aby cię strzegli na wszystkich twoich drogach."
-"Ps91,12": "Na rękach będą cię nosić, byś przypadkiem nie uderzył swojej nogi o kamień."
-"Ps91,13": "Będziesz stąpał po lwie i po żmii, lwiątko i smoka podepczesz."
-"Ps91,14": "Wybawię go, bo mnie umiłował; wywyższę go, bo poznał moje imię."
-"Ps91,15": "Będzie mnie wzywał, a ja go wysłucham; będę z nim w utrapieniu, wyrwę go i otoczę chwałą."
-"Ps91,16": "Długimi dniami go nasycę i ukażę mu moje zbawienie."
+"Ps91,1":
+  text: "Kto mieszka pod osłoną Najwyższego, w cieniu Wszechmocnego przebywać będzie."
+  tags: []
+"Ps91,2":
+  text: "Będę mówił o PANU: Moja ucieczka i twierdza, mój Bóg, jemu będę ufał."
+  tags: []
+"Ps91,3":
+  text: "Zaprawdę, on wybawi cię z sideł łowcy i od zgubnej zarazy."
+  tags: []
+"Ps91,4":
+  text: "Okryje cię swymi piórami i pod jego skrzydłami będziesz bezpieczny; jego prawda będzie ci tarczą i puklerzem."
+  tags: []
+"Ps91,5":
+  text: "Nie ulękniesz się strachu nocnego ani strzały lecącej za dnia;"
+  tags: []
+"Ps91,6":
+  text: "Ani zarazy, która przychodzi w ciemności, ani dżumy, która pustoszy w południe."
+  tags: []
+"Ps91,7":
+  text: "Tysiąc padnie u twego boku, a dziesięć tysięcy po twojej prawicy, lecz ciebie to nie dosięgnie."
+  tags: []
+"Ps91,8":
+  text: "Tylko zobaczysz na własne oczy i ujrzysz zapłatę daną niegodziwym."
+  tags: []
+"Ps91,9":
+  text: "Ponieważ PANA, moją ucieczkę i Najwyższego, uczyniłeś swoim mieszkaniem;"
+  tags: []
+"Ps91,10":
+  text: "Nie spotka cię nic złego ani żadna plaga nie zbliży się do twego namiotu."
+  tags: []
+"Ps91,11":
+  text: "Rozkaże bowiem o tobie swoim aniołom, aby cię strzegli na wszystkich twoich drogach."
+  tags: []
+"Ps91,12":
+  text: "Na rękach będą cię nosić, byś przypadkiem nie uderzył swojej nogi o kamień."
+  tags: []
+"Ps91,13":
+  text: "Będziesz stąpał po lwie i po żmii, lwiątko i smoka podepczesz."
+  tags: []
+"Ps91,14":
+  text: "Wybawię go, bo mnie umiłował; wywyższę go, bo poznał moje imię."
+  tags: []
+"Ps91,15":
+  text: "Będzie mnie wzywał, a ja go wysłucham; będę z nim w utrapieniu, wyrwę go i otoczę chwałą."
+  tags: []
+"Ps91,16":
+  text: "Długimi dniami go nasycę i ukażę mu moje zbawienie."
+  tags: []

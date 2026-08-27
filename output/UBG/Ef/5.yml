@@ -1,33 +1,99 @@
-"Ef5,1": "Bądźcie więc naśladowcami Boga jako umiłowane dzieci;"
-"Ef5,2": "I postępujcie w miłości, jak i Chrystus umiłował nas i wydał samego siebie za nas jako dar i ofiarę Bogu na miłą woń."
-"Ef5,3": "A nierząd i wszelka nieczystość albo chciwość niech nie będą nawet wśród was wspominane, jak przystoi świętym;"
-"Ef5,4": "Także sprośność, niedorzeczne gadanie i nieprzyzwoite żarty, ale raczej dziękczynienie."
-"Ef5,5": "Bo wiecie o tym, że żaden rozpustnik ani nieczysty, ani chciwiec, to znaczy bałwochwalca, nie ma dziedzictwa w królestwie Chrystusa i Boga."
-"Ef5,6": "Niech was nikt nie zwodzi próżnymi słowami, bo z powodu tych rzeczy przychodzi gniew Boga na synów nieposłuszeństwa."
-"Ef5,7": "Nie bądźcie więc ich wspólnikami."
-"Ef5,8": "Byliście bowiem niegdyś ciemnością, lecz teraz jesteście światłością w Panu. Postępujcie jak dzieci światłości;"
-"Ef5,9": "(Bo owoc Ducha jest we wszelkiej dobroci, sprawiedliwości i prawdzie)."
-"Ef5,10": "Badając to, co podoba się Panu;"
-"Ef5,11": "I nie miejcie nic wspólnego z bezowocnymi uczynkami ciemności, ale je raczej strofujcie."
-"Ef5,12": "O tym bowiem, co się u nich po kryjomu dzieje, wstyd nawet mówić."
-"Ef5,13": "A wszystko to, gdy jest strofowane, przez światło staje się jawne; to wszystko bowiem, co ujawnia, jest światłem."
-"Ef5,14": "Dlatego Pismo mówi: Obudź się, który śpisz, i powstań z martwych, a zajaśnieje ci Chrystus."
-"Ef5,15": "Uważajcie więc, żebyście postępowali rozważnie, nie jak niemądrzy, ale jak mądrzy;"
-"Ef5,16": "Odkupując czas, bo dni są złe."
-"Ef5,17": "Dlatego nie bądźcie nierozumnymi, ale rozumiejcie, jaka jest wola Pana."
-"Ef5,18": "A nie upijajcie się winem, w którym jest rozwiązłość, ale bądźcie napełnieni Duchem;"
-"Ef5,19": "Rozmawiając ze sobą przez psalmy, hymny i pieśni duchowe, śpiewając i grając Panu w swoim sercu;"
-"Ef5,20": "Dziękując zawsze za wszystko Bogu i Ojcu w imię naszego Pana Jezusa Chrystusa;"
-"Ef5,21": "Będąc poddani sobie nawzajem w bojaźni Boga."
-"Ef5,22": "Żony, bądźcie poddane swoim mężom jak Panu."
-"Ef5,23": "Bo mąż jest głową żony, jak i Chrystus głową kościoła, jest on też Zbawicielem ciała."
-"Ef5,24": "Jak więc kościół poddany jest Chrystusowi, tak też żony swoim mężom we wszystkim."
-"Ef5,25": "Mężowie, miłujcie swoje żony, jak i Chrystus umiłował kościół i wydał za niego samego siebie;"
-"Ef5,26": "Aby go uświęcić, oczyściwszy obmyciem wodą przez słowo;"
-"Ef5,27": "By stawić przed sobą kościół chwalebny, niemający skazy ani zmarszczki, ani czegoś podobnego, lecz żeby był święty i nienaganny."
-"Ef5,28": "Tak też mężowie powinni miłować swoje żony jak własne ciało. Kto miłuje swoją żonę, samego siebie miłuje."
-"Ef5,29": "Nikt bowiem nigdy nie miał w nienawiści swego ciała, ale je żywi i pielęgnuje, jak i Pan kościół."
-"Ef5,30": "Gdyż jesteśmy członkami jego ciała, z ciała jego i z kości jego."
-"Ef5,31": "Dlatego opuści człowiek swego ojca i matkę i połączy się ze swoją żoną, i będą dwoje jednym ciałem."
-"Ef5,32": "Tajemnica to wielka, lecz ja mówię w odniesieniu do Chrystusa i kościoła."
-"Ef5,33": "Niech więc każdy z was z osobna miłuje swoją żonę jak samego siebie, a żona niech poważa swego męża."
+"Ef5,1":
+  text: "Bądźcie więc naśladowcami Boga jako umiłowane dzieci;"
+  tags: []
+"Ef5,2":
+  text: "I postępujcie w miłości, jak i Chrystus umiłował nas i wydał samego siebie za nas jako dar i ofiarę Bogu na miłą woń."
+  tags: []
+"Ef5,3":
+  text: "A nierząd i wszelka nieczystość albo chciwość niech nie będą nawet wśród was wspominane, jak przystoi świętym;"
+  tags: []
+"Ef5,4":
+  text: "Także sprośność, niedorzeczne gadanie i nieprzyzwoite żarty, ale raczej dziękczynienie."
+  tags: []
+"Ef5,5":
+  text: "Bo wiecie o tym, że żaden rozpustnik ani nieczysty, ani chciwiec, to znaczy bałwochwalca, nie ma dziedzictwa w królestwie Chrystusa i Boga."
+  tags: []
+"Ef5,6":
+  text: "Niech was nikt nie zwodzi próżnymi słowami, bo z powodu tych rzeczy przychodzi gniew Boga na synów nieposłuszeństwa."
+  tags: []
+"Ef5,7":
+  text: "Nie bądźcie więc ich wspólnikami."
+  tags: []
+"Ef5,8":
+  text: "Byliście bowiem niegdyś ciemnością, lecz teraz jesteście światłością w Panu. Postępujcie jak dzieci światłości;"
+  tags: []
+"Ef5,9":
+  text: "(Bo owoc Ducha jest we wszelkiej dobroci, sprawiedliwości i prawdzie)."
+  tags: []
+"Ef5,10":
+  text: "Badając to, co podoba się Panu;"
+  tags: []
+"Ef5,11":
+  text: "I nie miejcie nic wspólnego z bezowocnymi uczynkami ciemności, ale je raczej strofujcie."
+  tags: []
+"Ef5,12":
+  text: "O tym bowiem, co się u nich po kryjomu dzieje, wstyd nawet mówić."
+  tags: []
+"Ef5,13":
+  text: "A wszystko to, gdy jest strofowane, przez światło staje się jawne; to wszystko bowiem, co ujawnia, jest światłem."
+  tags: []
+"Ef5,14":
+  text: "Dlatego Pismo mówi: Obudź się, który śpisz, i powstań z martwych, a zajaśnieje ci Chrystus."
+  tags: []
+"Ef5,15":
+  text: "Uważajcie więc, żebyście postępowali rozważnie, nie jak niemądrzy, ale jak mądrzy;"
+  tags: []
+"Ef5,16":
+  text: "Odkupując czas, bo dni są złe."
+  tags: []
+"Ef5,17":
+  text: "Dlatego nie bądźcie nierozumnymi, ale rozumiejcie, jaka jest wola Pana."
+  tags: []
+"Ef5,18":
+  text: "A nie upijajcie się winem, w którym jest rozwiązłość, ale bądźcie napełnieni Duchem;"
+  tags: []
+"Ef5,19":
+  text: "Rozmawiając ze sobą przez psalmy, hymny i pieśni duchowe, śpiewając i grając Panu w swoim sercu;"
+  tags: []
+"Ef5,20":
+  text: "Dziękując zawsze za wszystko Bogu i Ojcu w imię naszego Pana Jezusa Chrystusa;"
+  tags: []
+"Ef5,21":
+  text: "Będąc poddani sobie nawzajem w bojaźni Boga."
+  tags: []
+"Ef5,22":
+  text: "Żony, bądźcie poddane swoim mężom jak Panu."
+  tags: []
+"Ef5,23":
+  text: "Bo mąż jest głową żony, jak i Chrystus głową kościoła, jest on też Zbawicielem ciała."
+  tags: []
+"Ef5,24":
+  text: "Jak więc kościół poddany jest Chrystusowi, tak też żony swoim mężom we wszystkim."
+  tags: []
+"Ef5,25":
+  text: "Mężowie, miłujcie swoje żony, jak i Chrystus umiłował kościół i wydał za niego samego siebie;"
+  tags: []
+"Ef5,26":
+  text: "Aby go uświęcić, oczyściwszy obmyciem wodą przez słowo;"
+  tags: []
+"Ef5,27":
+  text: "By stawić przed sobą kościół chwalebny, niemający skazy ani zmarszczki, ani czegoś podobnego, lecz żeby był święty i nienaganny."
+  tags: []
+"Ef5,28":
+  text: "Tak też mężowie powinni miłować swoje żony jak własne ciało. Kto miłuje swoją żonę, samego siebie miłuje."
+  tags: []
+"Ef5,29":
+  text: "Nikt bowiem nigdy nie miał w nienawiści swego ciała, ale je żywi i pielęgnuje, jak i Pan kościół."
+  tags: []
+"Ef5,30":
+  text: "Gdyż jesteśmy członkami jego ciała, z ciała jego i z kości jego."
+  tags: []
+"Ef5,31":
+  text: "Dlatego opuści człowiek swego ojca i matkę i połączy się ze swoją żoną, i będą dwoje jednym ciałem."
+  tags: []
+"Ef5,32":
+  text: "Tajemnica to wielka, lecz ja mówię w odniesieniu do Chrystusa i kościoła."
+  tags: []
+"Ef5,33":
+  text: "Niech więc każdy z was z osobna miłuje swoją żonę jak samego siebie, a żona niech poważa swego męża."
+  tags: []

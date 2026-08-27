@@ -1,35 +1,105 @@
-"Hi9,1": "A Hiob odpowiedział:"
-"Hi9,2": "Doprawdy, wiem, że tak jest. Lecz jak człowiek miałby być usprawiedliwiony przed Bogiem?"
-"Hi9,3": "Gdyby chciał się z nim spierać, nie odpowie mu ani raz na tysiąc."
-"Hi9,4": "Ma on mądre serce i potężną siłę. Kto mu się sprzeciwił i powodziło mu się?"
-"Hi9,5": "On przenosi góry, a ludzie nie zauważają, przewraca je w swoim gniewie."
-"Hi9,6": "On wstrząsa ziemią z jej miejsca i trzęsą się jej filary."
-"Hi9,7": "On rozkaże słońcu i ono nie wschodzi, zamyka też gwiazdy pieczęcią."
-"Hi9,8": "On sam rozciąga niebiosa i kroczy po falach morza."
-"Hi9,9": "On stworzył Niedźwiedzicę, Oriona, Plejady i gwiazdozbiory południa."
-"Hi9,10": "On czyni rzeczy wielkie i niezbadane, cuda, których zliczyć nie można."
-"Hi9,11": "Oto przechodzi obok mnie, a nie widzę go; mija mnie, a ja go nie dostrzegam."
-"Hi9,12": "Oto gdy zabiera, któż go powstrzyma? Któż mu powie: Co czynisz?"
-"Hi9,13": "Gdyby Bóg nie odwrócił swego gniewu, zuchwali pomocnicy upadliby pod nim."
-"Hi9,14": "Jakże ja mu odpowiem? Jakie słowa wybiorę, aby się z nim spierać?"
-"Hi9,15": "Choćbym był sprawiedliwy, nie odpowiedziałbym mu, lecz błagałbym swojego sędziego."
-"Hi9,16": "Choćbym go wzywał, a on by się odezwał, jeszcze nie uwierzyłbym, że mnie wysłuchał;"
-"Hi9,17": "Kruszy mnie bowiem burzą i pomnaża moje rany bez powodu."
-"Hi9,18": "Nie pozwala mi odetchnąć, raczej napełnia mnie goryczą."
-"Hi9,19": "Jeśli chodzi o siłę, oto jest potężny, a jeśli chodzi o sąd, któż mnie przed niego przyprowadzi?"
-"Hi9,20": "Jeśli się usprawiedliwię, moje usta mnie potępią. Jeśli powiem, że jestem doskonały, to one wykażą, że jestem przewrotny."
-"Hi9,21": "Choćbym był doskonały, przecież nie znałbym swojej duszy; gardziłbym swoim życiem."
-"Hi9,22": "Jedno jest pewne, dlatego powiedziałem: On niszczy zarówno doskonałego, jak i niegodziwego;"
-"Hi9,23": "Jeśli bicz nagle zabija, śmieje się on z doświadczenia niewinnych."
-"Hi9,24": "Ziemia została wydana w ręce niegodziwego. On zakrywa oblicze sędziów. A jeśli nie on, któż to czyni?"
-"Hi9,25": "Ale moje dni są szybsze niż goniec, uciekły i nie widziały nic dobrego."
-"Hi9,26": "Przeminęły jak szybkie łodzie, jak orzeł, który rzuca się na żer."
-"Hi9,27": "Jeśli powiem: Zapomnę o swojej skardze, zaniecham swego gniewu i pocieszę się;"
-"Hi9,28": "Wtedy przerażają mnie wszystkie moje cierpienia, bo wiem, że nie uznasz mnie za niewinnego."
-"Hi9,29": "Jeśli jestem niegodziwy, to czemu trudzę się na próżno?"
-"Hi9,30": "Choćbym się umył wodą ze śniegu i oczyścił mydłem swoje ręce;"
-"Hi9,31": "Ty i tak zanurzysz mnie w dole i moje szaty będą się mną brzydzić."
-"Hi9,32": "On bowiem nie jest człowiekiem jak ja, abym śmiał mu odpowiedzieć i abyśmy razem stanęli przed sądem."
-"Hi9,33": "Nie ma między nami rozjemcy, który mógłby położyć rękę na nas obu."
-"Hi9,34": "Niech tylko zdejmie ze mnie swoją rózgę, a jego groza niech mnie już nie przeraża;"
-"Hi9,35": "Wtedy będę mówił i nie będę się go bać; ale tak nie jest ze mną."
+"Hi9,1":
+  text: "A Hiob odpowiedział:"
+  tags: []
+"Hi9,2":
+  text: "Doprawdy, wiem, że tak jest. Lecz jak człowiek miałby być usprawiedliwiony przed Bogiem?"
+  tags: []
+"Hi9,3":
+  text: "Gdyby chciał się z nim spierać, nie odpowie mu ani raz na tysiąc."
+  tags: []
+"Hi9,4":
+  text: "Ma on mądre serce i potężną siłę. Kto mu się sprzeciwił i powodziło mu się?"
+  tags: []
+"Hi9,5":
+  text: "On przenosi góry, a ludzie nie zauważają, przewraca je w swoim gniewie."
+  tags: []
+"Hi9,6":
+  text: "On wstrząsa ziemią z jej miejsca i trzęsą się jej filary."
+  tags: []
+"Hi9,7":
+  text: "On rozkaże słońcu i ono nie wschodzi, zamyka też gwiazdy pieczęcią."
+  tags: []
+"Hi9,8":
+  text: "On sam rozciąga niebiosa i kroczy po falach morza."
+  tags: []
+"Hi9,9":
+  text: "On stworzył Niedźwiedzicę, Oriona, Plejady i gwiazdozbiory południa."
+  tags: []
+"Hi9,10":
+  text: "On czyni rzeczy wielkie i niezbadane, cuda, których zliczyć nie można."
+  tags: []
+"Hi9,11":
+  text: "Oto przechodzi obok mnie, a nie widzę go; mija mnie, a ja go nie dostrzegam."
+  tags: []
+"Hi9,12":
+  text: "Oto gdy zabiera, któż go powstrzyma? Któż mu powie: Co czynisz?"
+  tags: []
+"Hi9,13":
+  text: "Gdyby Bóg nie odwrócił swego gniewu, zuchwali pomocnicy upadliby pod nim."
+  tags: []
+"Hi9,14":
+  text: "Jakże ja mu odpowiem? Jakie słowa wybiorę, aby się z nim spierać?"
+  tags: []
+"Hi9,15":
+  text: "Choćbym był sprawiedliwy, nie odpowiedziałbym mu, lecz błagałbym swojego sędziego."
+  tags: []
+"Hi9,16":
+  text: "Choćbym go wzywał, a on by się odezwał, jeszcze nie uwierzyłbym, że mnie wysłuchał;"
+  tags: []
+"Hi9,17":
+  text: "Kruszy mnie bowiem burzą i pomnaża moje rany bez powodu."
+  tags: []
+"Hi9,18":
+  text: "Nie pozwala mi odetchnąć, raczej napełnia mnie goryczą."
+  tags: []
+"Hi9,19":
+  text: "Jeśli chodzi o siłę, oto jest potężny, a jeśli chodzi o sąd, któż mnie przed niego przyprowadzi?"
+  tags: []
+"Hi9,20":
+  text: "Jeśli się usprawiedliwię, moje usta mnie potępią. Jeśli powiem, że jestem doskonały, to one wykażą, że jestem przewrotny."
+  tags: []
+"Hi9,21":
+  text: "Choćbym był doskonały, przecież nie znałbym swojej duszy; gardziłbym swoim życiem."
+  tags: []
+"Hi9,22":
+  text: "Jedno jest pewne, dlatego powiedziałem: On niszczy zarówno doskonałego, jak i niegodziwego;"
+  tags: []
+"Hi9,23":
+  text: "Jeśli bicz nagle zabija, śmieje się on z doświadczenia niewinnych."
+  tags: []
+"Hi9,24":
+  text: "Ziemia została wydana w ręce niegodziwego. On zakrywa oblicze sędziów. A jeśli nie on, któż to czyni?"
+  tags: []
+"Hi9,25":
+  text: "Ale moje dni są szybsze niż goniec, uciekły i nie widziały nic dobrego."
+  tags: []
+"Hi9,26":
+  text: "Przeminęły jak szybkie łodzie, jak orzeł, który rzuca się na żer."
+  tags: []
+"Hi9,27":
+  text: "Jeśli powiem: Zapomnę o swojej skardze, zaniecham swego gniewu i pocieszę się;"
+  tags: []
+"Hi9,28":
+  text: "Wtedy przerażają mnie wszystkie moje cierpienia, bo wiem, że nie uznasz mnie za niewinnego."
+  tags: []
+"Hi9,29":
+  text: "Jeśli jestem niegodziwy, to czemu trudzę się na próżno?"
+  tags: []
+"Hi9,30":
+  text: "Choćbym się umył wodą ze śniegu i oczyścił mydłem swoje ręce;"
+  tags: []
+"Hi9,31":
+  text: "Ty i tak zanurzysz mnie w dole i moje szaty będą się mną brzydzić."
+  tags: []
+"Hi9,32":
+  text: "On bowiem nie jest człowiekiem jak ja, abym śmiał mu odpowiedzieć i abyśmy razem stanęli przed sądem."
+  tags: []
+"Hi9,33":
+  text: "Nie ma między nami rozjemcy, który mógłby położyć rękę na nas obu."
+  tags: []
+"Hi9,34":
+  text: "Niech tylko zdejmie ze mnie swoją rózgę, a jego groza niech mnie już nie przeraża;"
+  tags: []
+"Hi9,35":
+  text: "Wtedy będę mówił i nie będę się go bać; ale tak nie jest ze mną."
+  tags: []

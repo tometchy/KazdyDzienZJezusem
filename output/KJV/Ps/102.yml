@@ -1,28 +1,84 @@
-"Ps102,1": "Hear my prayer, O LORD, and let my cry come unto thee."
-"Ps102,2": "Hide not thy face from me in the day [when] I am in trouble; incline thine ear unto me: in the day [when] I call answer me speedily."
-"Ps102,3": "For my days are consumed like smoke, and my bones are burned as an hearth."
-"Ps102,4": "My heart is smitten, and withered like grass; so that I forget to eat my bread."
-"Ps102,5": "By reason of the voice of my groaning my bones cleave to my skin."
-"Ps102,6": "I am like a pelican of the wilderness: I am like an owl of the desert."
-"Ps102,7": "I watch, and am as a sparrow alone upon the house top."
-"Ps102,8": "Mine enemies reproach me all the day; [and] they that are mad against me are sworn against me."
-"Ps102,9": "For I have eaten ashes like bread, and mingled my drink with weeping,"
-"Ps102,10": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down."
-"Ps102,11": "My days [are] like a shadow that declineth; and I am withered like grass."
-"Ps102,12": "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations."
-"Ps102,13": "Thou shalt arise, [and] have mercy upon Zion: for the time to favour her, yea, the set time, is come."
-"Ps102,14": "For thy servants take pleasure in her stones, and favour the dust thereof."
-"Ps102,15": "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory."
-"Ps102,16": "When the LORD shall build up Zion, he shall appear in his glory."
-"Ps102,17": "He will regard the prayer of the destitute, and not despise their prayer."
-"Ps102,18": "This shall be written for the generation to come: and the people which shall be created shall praise the LORD."
-"Ps102,19": "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;"
-"Ps102,20": "To hear the groaning of the prisoner; to loose those that are appointed to death;"
-"Ps102,21": "To declare the name of the LORD in Zion, and his praise in Jerusalem;"
-"Ps102,22": "When the people are gathered together, and the kingdoms, to serve the LORD."
-"Ps102,23": "He weakened my strength in the way; he shortened my days."
-"Ps102,24": "I said, O my God, take me not away in the midst of my days: thy years [are] throughout all generations."
-"Ps102,25": "Of old hast thou laid the foundation of the earth: and the heavens [are] the work of thy hands."
-"Ps102,26": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:"
-"Ps102,27": "But thou [art] the same, and thy years shall have no end."
-"Ps102,28": "The children of thy servants shall continue, and their seed shall be established before thee."
+"Ps102,1":
+  text: "Hear my prayer, O LORD, and let my cry come unto thee."
+  tags: []
+"Ps102,2":
+  text: "Hide not thy face from me in the day [when] I am in trouble; incline thine ear unto me: in the day [when] I call answer me speedily."
+  tags: []
+"Ps102,3":
+  text: "For my days are consumed like smoke, and my bones are burned as an hearth."
+  tags: []
+"Ps102,4":
+  text: "My heart is smitten, and withered like grass; so that I forget to eat my bread."
+  tags: []
+"Ps102,5":
+  text: "By reason of the voice of my groaning my bones cleave to my skin."
+  tags: []
+"Ps102,6":
+  text: "I am like a pelican of the wilderness: I am like an owl of the desert."
+  tags: []
+"Ps102,7":
+  text: "I watch, and am as a sparrow alone upon the house top."
+  tags: []
+"Ps102,8":
+  text: "Mine enemies reproach me all the day; [and] they that are mad against me are sworn against me."
+  tags: []
+"Ps102,9":
+  text: "For I have eaten ashes like bread, and mingled my drink with weeping,"
+  tags: []
+"Ps102,10":
+  text: "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down."
+  tags: []
+"Ps102,11":
+  text: "My days [are] like a shadow that declineth; and I am withered like grass."
+  tags: []
+"Ps102,12":
+  text: "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations."
+  tags: []
+"Ps102,13":
+  text: "Thou shalt arise, [and] have mercy upon Zion: for the time to favour her, yea, the set time, is come."
+  tags: []
+"Ps102,14":
+  text: "For thy servants take pleasure in her stones, and favour the dust thereof."
+  tags: []
+"Ps102,15":
+  text: "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory."
+  tags: []
+"Ps102,16":
+  text: "When the LORD shall build up Zion, he shall appear in his glory."
+  tags: []
+"Ps102,17":
+  text: "He will regard the prayer of the destitute, and not despise their prayer."
+  tags: []
+"Ps102,18":
+  text: "This shall be written for the generation to come: and the people which shall be created shall praise the LORD."
+  tags: []
+"Ps102,19":
+  text: "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;"
+  tags: []
+"Ps102,20":
+  text: "To hear the groaning of the prisoner; to loose those that are appointed to death;"
+  tags: []
+"Ps102,21":
+  text: "To declare the name of the LORD in Zion, and his praise in Jerusalem;"
+  tags: []
+"Ps102,22":
+  text: "When the people are gathered together, and the kingdoms, to serve the LORD."
+  tags: []
+"Ps102,23":
+  text: "He weakened my strength in the way; he shortened my days."
+  tags: []
+"Ps102,24":
+  text: "I said, O my God, take me not away in the midst of my days: thy years [are] throughout all generations."
+  tags: []
+"Ps102,25":
+  text: "Of old hast thou laid the foundation of the earth: and the heavens [are] the work of thy hands."
+  tags: []
+"Ps102,26":
+  text: "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:"
+  tags: []
+"Ps102,27":
+  text: "But thou [art] the same, and thy years shall have no end."
+  tags: []
+"Ps102,28":
+  text: "The children of thy servants shall continue, and their seed shall be established before thee."
+  tags: []

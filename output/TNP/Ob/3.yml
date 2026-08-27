@@ -1,22 +1,66 @@
-"Ob3,1": "A do anioła zboru w Sardes napisz: To mówi Ten, który ma siedem duchów Boga i siedem gwiazd: Znam twoje czyny; że masz imię głoszące, że żyjesz, a jesteś martwy."
-"Ob3,2": "Bądź czujny i utwierdzaj to, co pozostało, a co ma umrzeć; nie znalazłem bowiem twoich czynów doskonałych przed Bogiem."
-"Ob3,3": "Dlatego pamiętaj, w jaki sposób przyjąłeś i usłyszałeś, strzeż tego i upamiętaj się. Jeśli więc nie staniesz się czujny, przyjdę do ciebie jak złodziej, a nie będziesz wiedział, o której godzinie przyjdę do ciebie."
-"Ob3,4": "Masz też w Sardes kilka osób, które nie skalały swoich szat, i ci chodzić będą ze mną w bieli, gdyż są godni."
-"Ob3,5": "Kto zwycięża, ten okryje się w białe szaty, i na pewno nie wymażę jego imienia ze zwoju życia, i wyznam jego imię przed obliczem mojego Ojca i przed Jego aniołami."
-"Ob3,6": "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
-"Ob3,7": "A do anioła zboru w Filadelfii napisz: To mówi Święty i Prawdziwy, który ma klucz Dawida, który otwiera, a nikt nie zamknie, zamyka, a nikt nie otworzy."
-"Ob3,8": "Znam twoje czyny; oto ja zapewniłem, że przed tobą są otwarte drzwi, a nikt nie może ich zamknąć, gdyż masz małą moc, a jednak strzegłeś mojego Słowa i nie wyparłeś się mojego imienia."
-"Ob3,9": "Oto daję ci tych z synagogi szatana, którzy mówią o sobie samych, że są Żydami, a nimi nie są, lecz kłamią. Oto sprawię, by przyszli i oddali pokłon przed twoimi stopami, i poznali, że ja ciebie umiłowałem."
-"Ob3,10": "Ponieważ zachowałeś słowo o mojej wytrwałości, ja też cię zachowam od godziny próby, która ma przyjść na cały zamieszkały świat, aby doświadczyć mieszkających na ziemi;"
-"Ob3,11": "Oto przychodzę szybko; trzymaj to, co masz, aby nikt nie wziął twojego wieńca."
-"Ob3,12": "Tego, kto zwycięża, uczynię filarem w świątyni Boga mojego, i już z niej z pewnością nie wyjdzie; i napiszę na nim imię Boga mojego, i imię miasta Boga mojego, nowej Jerozolimy, która zstępuje z nieba od Boga mojego, i moje nowe imię."
-"Ob3,13": "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
-"Ob3,14": "A do anioła zboru Laodycejczyków napisz: To mówi Amen, świadek wierny i prawdomówny, początek stworzenia Bożego:"
-"Ob3,15": "Znam twoje czyny, że nie jesteś ani zimny ani gorący; życzę ci, obyś był zimny albo gorący!"
-"Ob3,16": "A tak, ponieważ jesteś letni, i ani zimny ani gorący, mam zamiar zwymiotować cię z moich ust."
-"Ob3,17": "Ponieważ mówisz: Jestem bogaty i wzbogaciłem się, i niczego nie potrzebuję; a nie wiesz, że ty jesteś nędzny i godny politowania, ubogi, ślepy i nagi."
-"Ob3,18": "Radzę ci kupić u mnie złota wypalonego w ogniu, abyś stał się bogaty, i białe szaty, abyś się przyodział, by nie ukazała się hańba twojej nagości; i swoje oczy pomaż maścią leczącą wzrok, abyś widział."
-"Ob3,19": "Ja tych, których miłuję, napominam i wychowuję. Bądź więc gorliwy i upamiętaj się."
-"Ob3,20": "Oto stoję przy drzwiach i pukam; jeśli ktoś usłyszy mój głos i otworzy drzwi, wejdę do niego i spożyję z nim wieczerzę, a on ze mną."
-"Ob3,21": "Temu, kto zwycięża, dam usiąść ze mną na moim tronie, jak i ja zwyciężyłem i usiadłem z Ojcem moim na Jego tronie."
-"Ob3,22": "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
+"Ob3,1":
+  text: "A do anioła zboru w Sardes napisz: To mówi Ten, który ma siedem duchów Boga i siedem gwiazd: Znam twoje czyny; że masz imię głoszące, że żyjesz, a jesteś martwy."
+  tags: []
+"Ob3,2":
+  text: "Bądź czujny i utwierdzaj to, co pozostało, a co ma umrzeć; nie znalazłem bowiem twoich czynów doskonałych przed Bogiem."
+  tags: []
+"Ob3,3":
+  text: "Dlatego pamiętaj, w jaki sposób przyjąłeś i usłyszałeś, strzeż tego i upamiętaj się. Jeśli więc nie staniesz się czujny, przyjdę do ciebie jak złodziej, a nie będziesz wiedział, o której godzinie przyjdę do ciebie."
+  tags: []
+"Ob3,4":
+  text: "Masz też w Sardes kilka osób, które nie skalały swoich szat, i ci chodzić będą ze mną w bieli, gdyż są godni."
+  tags: []
+"Ob3,5":
+  text: "Kto zwycięża, ten okryje się w białe szaty, i na pewno nie wymażę jego imienia ze zwoju życia, i wyznam jego imię przed obliczem mojego Ojca i przed Jego aniołami."
+  tags: []
+"Ob3,6":
+  text: "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
+  tags: []
+"Ob3,7":
+  text: "A do anioła zboru w Filadelfii napisz: To mówi Święty i Prawdziwy, który ma klucz Dawida, który otwiera, a nikt nie zamknie, zamyka, a nikt nie otworzy."
+  tags: []
+"Ob3,8":
+  text: "Znam twoje czyny; oto ja zapewniłem, że przed tobą są otwarte drzwi, a nikt nie może ich zamknąć, gdyż masz małą moc, a jednak strzegłeś mojego Słowa i nie wyparłeś się mojego imienia."
+  tags: []
+"Ob3,9":
+  text: "Oto daję ci tych z synagogi szatana, którzy mówią o sobie samych, że są Żydami, a nimi nie są, lecz kłamią. Oto sprawię, by przyszli i oddali pokłon przed twoimi stopami, i poznali, że ja ciebie umiłowałem."
+  tags: []
+"Ob3,10":
+  text: "Ponieważ zachowałeś słowo o mojej wytrwałości, ja też cię zachowam od godziny próby, która ma przyjść na cały zamieszkały świat, aby doświadczyć mieszkających na ziemi;"
+  tags: []
+"Ob3,11":
+  text: "Oto przychodzę szybko; trzymaj to, co masz, aby nikt nie wziął twojego wieńca."
+  tags: []
+"Ob3,12":
+  text: "Tego, kto zwycięża, uczynię filarem w świątyni Boga mojego, i już z niej z pewnością nie wyjdzie; i napiszę na nim imię Boga mojego, i imię miasta Boga mojego, nowej Jerozolimy, która zstępuje z nieba od Boga mojego, i moje nowe imię."
+  tags: []
+"Ob3,13":
+  text: "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
+  tags: []
+"Ob3,14":
+  text: "A do anioła zboru Laodycejczyków napisz: To mówi Amen, świadek wierny i prawdomówny, początek stworzenia Bożego:"
+  tags: []
+"Ob3,15":
+  text: "Znam twoje czyny, że nie jesteś ani zimny ani gorący; życzę ci, obyś był zimny albo gorący!"
+  tags: []
+"Ob3,16":
+  text: "A tak, ponieważ jesteś letni, i ani zimny ani gorący, mam zamiar zwymiotować cię z moich ust."
+  tags: []
+"Ob3,17":
+  text: "Ponieważ mówisz: Jestem bogaty i wzbogaciłem się, i niczego nie potrzebuję; a nie wiesz, że ty jesteś nędzny i godny politowania, ubogi, ślepy i nagi."
+  tags: []
+"Ob3,18":
+  text: "Radzę ci kupić u mnie złota wypalonego w ogniu, abyś stał się bogaty, i białe szaty, abyś się przyodział, by nie ukazała się hańba twojej nagości; i swoje oczy pomaż maścią leczącą wzrok, abyś widział."
+  tags: []
+"Ob3,19":
+  text: "Ja tych, których miłuję, napominam i wychowuję. Bądź więc gorliwy i upamiętaj się."
+  tags: []
+"Ob3,20":
+  text: "Oto stoję przy drzwiach i pukam; jeśli ktoś usłyszy mój głos i otworzy drzwi, wejdę do niego i spożyję z nim wieczerzę, a on ze mną."
+  tags: []
+"Ob3,21":
+  text: "Temu, kto zwycięża, dam usiąść ze mną na moim tronie, jak i ja zwyciężyłem i usiadłem z Ojcem moim na Jego tronie."
+  tags: []
+"Ob3,22":
+  text: "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
+  tags: []

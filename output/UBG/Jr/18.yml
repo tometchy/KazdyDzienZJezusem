@@ -1,23 +1,69 @@
-"Jr18,1": "Słowo, które doszło do Jeremiasza od PANA, mówiące:"
-"Jr18,2": "Wstań i zejdź do domu garncarza, a tam sprawię, że usłyszysz moje słowa."
-"Jr18,3": "Zstąpiłem więc do domu garncarza, a oto on wykonywał pracę na kole."
-"Jr18,4": "A naczynie, które wykonywał z gliny, uległo zniekształceniu w ręce garncarza. Uczynił więc z niej inne naczynie, jak mu się podobało uczynić."
-"Jr18,5": "I doszło do mnie słowo PANA mówiące:"
-"Jr18,6": "Czyż nie mogę z wami postąpić tak jak ten garncarz, domu Izraela? – mówi PAN. Oto jak glina w ręce garncarza tak wy jesteście w moim ręku, domu Izraela."
-"Jr18,7": "Gdy raz ogłoszę przeciwko narodowi i przeciwko królestwu, że je wykorzenię, wywrócę i zniszczę;"
-"Jr18,8": "A jednak ten naród, przeciw któremu mówiłem, odwróci się od swojego zła, będę żałował nieszczęścia, które zamierzam na niego zesłać."
-"Jr18,9": "Gdy innym razem ogłoszę o narodzie i o królestwie, że je zbuduję i zasadzę;"
-"Jr18,10": "Jeśli jednak uczyni to, co złe w moich oczach i nie usłucha mego głosu, ja będę żałował tego dobrodziejstwa, jakim obiecałem je obdarzyć."
-"Jr18,11": "Dlatego powiedz teraz do Judejczyków i do mieszkańców Jerozolimy: Tak mówi PAN: Oto przygotowuję na was nieszczęście i obmyślam zamysł przeciwko wam. Niech więc każdy zawróci ze swojej złej drogi; poprawcie wasze drogi i czyny."
-"Jr18,12": "Ale oni odpowiedzieli: Nic z tego. Pójdziemy raczej za własnymi zamysłami, każdy będzie postępował według uporu swego złego serca."
-"Jr18,13": "Dlatego tak mówi PAN: Zapytajcie teraz wśród pogan, czy ktoś słyszał coś takiego. Straszny czyn popełniła dziewica Izraela."
-"Jr18,14": "Czy człowiek opuści śnieg ze skalistych pól Libanu? Czy ktoś opuści zimne wody płynące z daleka?"
-"Jr18,15": "Ale mój lud zapomniał o mnie, pali kadzidło marnościom, które sprawiły, że potyka się na swoich drogach, na starodawnych ścieżkach, by chodzić po ścieżkach, po drodze nieutorowanej;"
-"Jr18,16": "Aby zamienić swoją ziemię w spustoszenie, w wieczne świstanie. Każdy, kto będzie przez nią przechodził, zdumieje się i będzie kiwał głową."
-"Jr18,17": "Jak wschodni wiatr rozproszę ich przed wrogiem. Pokażę im plecy, a nie twarz w dniu ich zatracenia."
-"Jr18,18": "I powiedzieli: Chodźcie, obmyślmy zamysły przeciwko Jeremiaszowi, bo nie zaginie prawo od kapłana, ani rada od mądrego, ani słowo od proroka. Chodźcie, uderzmy go językiem i nie zważajmy na żadne jego słowa."
-"Jr18,19": "Zważaj na mnie, PANIE, i słuchaj głosu tych, którzy się spierają ze mną."
-"Jr18,20": "Czy odpłaca się złem za dobro? Bo wykopali dół dla mojej duszy. Wspomnij, że stawałem przed tobą, aby mówić za nimi dla ich dobra i odwrócić od nich twój gniew."
-"Jr18,21": "Dlatego wydaj ich dzieci na głód i spraw, aby padli od mocy miecza; niech ich żony będą osierocone i owdowiałe, ich mężczyźni haniebnie uśmierceni, a ich młodzieńcy zabici mieczem na wojnie."
-"Jr18,22": "Niech będzie słychać krzyk z ich domów, gdy nagle sprowadzisz na nich wojsko. Wykopali bowiem dół, aby mnie schwytać, zastawili sidła na moje nogi."
-"Jr18,23": "Lecz ty, PANIE, znasz wszystkie ich plany przeciwko mnie, chcą mojej śmierci. Nie przebaczaj im ich nieprawości, a ich grzechu nie zmaż sprzed swego oblicza, ale niech upadną przed tobą. Postąp z nimi tak w czasie twojego gniewu."
+"Jr18,1":
+  text: "Słowo, które doszło do Jeremiasza od PANA, mówiące:"
+  tags: []
+"Jr18,2":
+  text: "Wstań i zejdź do domu garncarza, a tam sprawię, że usłyszysz moje słowa."
+  tags: []
+"Jr18,3":
+  text: "Zstąpiłem więc do domu garncarza, a oto on wykonywał pracę na kole."
+  tags: []
+"Jr18,4":
+  text: "A naczynie, które wykonywał z gliny, uległo zniekształceniu w ręce garncarza. Uczynił więc z niej inne naczynie, jak mu się podobało uczynić."
+  tags: []
+"Jr18,5":
+  text: "I doszło do mnie słowo PANA mówiące:"
+  tags: []
+"Jr18,6":
+  text: "Czyż nie mogę z wami postąpić tak jak ten garncarz, domu Izraela? – mówi PAN. Oto jak glina w ręce garncarza tak wy jesteście w moim ręku, domu Izraela."
+  tags: []
+"Jr18,7":
+  text: "Gdy raz ogłoszę przeciwko narodowi i przeciwko królestwu, że je wykorzenię, wywrócę i zniszczę;"
+  tags: []
+"Jr18,8":
+  text: "A jednak ten naród, przeciw któremu mówiłem, odwróci się od swojego zła, będę żałował nieszczęścia, które zamierzam na niego zesłać."
+  tags: []
+"Jr18,9":
+  text: "Gdy innym razem ogłoszę o narodzie i o królestwie, że je zbuduję i zasadzę;"
+  tags: []
+"Jr18,10":
+  text: "Jeśli jednak uczyni to, co złe w moich oczach i nie usłucha mego głosu, ja będę żałował tego dobrodziejstwa, jakim obiecałem je obdarzyć."
+  tags: []
+"Jr18,11":
+  text: "Dlatego powiedz teraz do Judejczyków i do mieszkańców Jerozolimy: Tak mówi PAN: Oto przygotowuję na was nieszczęście i obmyślam zamysł przeciwko wam. Niech więc każdy zawróci ze swojej złej drogi; poprawcie wasze drogi i czyny."
+  tags: []
+"Jr18,12":
+  text: "Ale oni odpowiedzieli: Nic z tego. Pójdziemy raczej za własnymi zamysłami, każdy będzie postępował według uporu swego złego serca."
+  tags: []
+"Jr18,13":
+  text: "Dlatego tak mówi PAN: Zapytajcie teraz wśród pogan, czy ktoś słyszał coś takiego. Straszny czyn popełniła dziewica Izraela."
+  tags: []
+"Jr18,14":
+  text: "Czy człowiek opuści śnieg ze skalistych pól Libanu? Czy ktoś opuści zimne wody płynące z daleka?"
+  tags: []
+"Jr18,15":
+  text: "Ale mój lud zapomniał o mnie, pali kadzidło marnościom, które sprawiły, że potyka się na swoich drogach, na starodawnych ścieżkach, by chodzić po ścieżkach, po drodze nieutorowanej;"
+  tags: []
+"Jr18,16":
+  text: "Aby zamienić swoją ziemię w spustoszenie, w wieczne świstanie. Każdy, kto będzie przez nią przechodził, zdumieje się i będzie kiwał głową."
+  tags: []
+"Jr18,17":
+  text: "Jak wschodni wiatr rozproszę ich przed wrogiem. Pokażę im plecy, a nie twarz w dniu ich zatracenia."
+  tags: []
+"Jr18,18":
+  text: "I powiedzieli: Chodźcie, obmyślmy zamysły przeciwko Jeremiaszowi, bo nie zaginie prawo od kapłana, ani rada od mądrego, ani słowo od proroka. Chodźcie, uderzmy go językiem i nie zważajmy na żadne jego słowa."
+  tags: []
+"Jr18,19":
+  text: "Zważaj na mnie, PANIE, i słuchaj głosu tych, którzy się spierają ze mną."
+  tags: []
+"Jr18,20":
+  text: "Czy odpłaca się złem za dobro? Bo wykopali dół dla mojej duszy. Wspomnij, że stawałem przed tobą, aby mówić za nimi dla ich dobra i odwrócić od nich twój gniew."
+  tags: []
+"Jr18,21":
+  text: "Dlatego wydaj ich dzieci na głód i spraw, aby padli od mocy miecza; niech ich żony będą osierocone i owdowiałe, ich mężczyźni haniebnie uśmierceni, a ich młodzieńcy zabici mieczem na wojnie."
+  tags: []
+"Jr18,22":
+  text: "Niech będzie słychać krzyk z ich domów, gdy nagle sprowadzisz na nich wojsko. Wykopali bowiem dół, aby mnie schwytać, zastawili sidła na moje nogi."
+  tags: []
+"Jr18,23":
+  text: "Lecz ty, PANIE, znasz wszystkie ich plany przeciwko mnie, chcą mojej śmierci. Nie przebaczaj im ich nieprawości, a ich grzechu nie zmaż sprzed swego oblicza, ale niech upadną przed tobą. Postąp z nimi tak w czasie twojego gniewu."
+  tags: []

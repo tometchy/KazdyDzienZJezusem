@@ -1,31 +1,93 @@
-"Ps109,1": "Boże mojej chwały, nie milcz;"
-"Ps109,2": "Bo otworzyły się przeciwko mnie usta niegodziwego i usta podstępnego; mówili przeciwko mnie językiem kłamliwym;"
-"Ps109,3": "Otoczyli mnie słowami nienawiści i walczą przeciwko mnie bez przyczyny."
-"Ps109,4": "Sprzeciwiają mi się w zamian za moją miłość, choć ja się za nich modliłem."
-"Ps109,5": "Odpłacają mi złem za dobro i nienawiścią za moją miłość."
-"Ps109,6": "Postaw nad nim niegodziwego, a szatan niech stoi po jego prawicy."
-"Ps109,7": "Gdy stanie przed sądem, niech wyjdzie potępiony, a jego modlitwa niech zamieni się w grzech."
-"Ps109,8": "Niech jego dni będą krótkie, a jego urząd niech przejmie inny."
-"Ps109,9": "Niech jego dzieci będą sierotami, a jego żona wdową."
-"Ps109,10": "Niech jego dzieci będą tułaczami i żebrzą, niech żebrzą z dala od swoich opustoszałych miejsc."
-"Ps109,11": "Niech lichwiarz przejmie wszystko, co ma, a obcy niech rozgrabią owoc jego pracy."
-"Ps109,12": "Niech nie będzie nikogo, kto by mu okazał miłosierdzie; niech nie będzie nikogo, kto by się zlitował nad jego sierotami."
-"Ps109,13": "Niech jego potomkowie zostaną wykorzenieni, niech ich imię zginie w drugim pokoleniu."
-"Ps109,14": "Niech PAN pamięta nieprawość jego przodków, a grzech jego matki niech nie będzie zgładzony."
-"Ps109,15": "Niech będą zawsze przed PANEM, aż wykorzeni z ziemi pamięć o nich;"
-"Ps109,16": "Dlatego że nie pamiętał, by okazać miłosierdzie, ale prześladował człowieka nędznego i ubogiego, a strapionego w sercu chciał zabić."
-"Ps109,17": "Skoro umiłował przekleństwo, niech na niego spadnie; skoro nie chciał błogosławieństwa, niech się od niego oddali."
-"Ps109,18": "Ubierał się w przekleństwo jak w szatę, więc niech wejdzie jak woda do jego wnętrzności i jak oliwa do jego kości."
-"Ps109,19": "Niech mu będzie jak płaszcz, który go okrywa, i jak pas, który go zawsze opasuje."
-"Ps109,20": "Taka niech będzie zapłata od PANA dla moich przeciwników i tych, którzy źle mówią przeciwko mojej duszy."
-"Ps109,21": "Ale ty, BOŻE, Panie, ujmij się za mną przez wzgląd na twoje imię; ocal mnie, bo wielkie jest twoje miłosierdzie."
-"Ps109,22": "Jestem bowiem ubogi i nędzny, a moje serce we mnie jest zranione."
-"Ps109,23": "Niknę jak cień, który się chyli, strząsają mnie jak szarańczę."
-"Ps109,24": "Moje kolana słabną od postu, a moje ciało wychudło bez tłuszczu."
-"Ps109,25": "Stałem się też dla nich pośmiewiskiem; gdy mnie widzą, kiwają głowami."
-"Ps109,26": "Wspomóż mnie, PANIE, mój Boże; wybaw mnie według swego miłosierdzia;"
-"Ps109,27": "Aby mogli poznać, że to twoja ręka; że ty, PANIE, to uczyniłeś."
-"Ps109,28": "Niech oni przeklinają, ale ty błogosław; gdy powstają, niech będą zawstydzeni, a twój sługa niech się weseli."
-"Ps109,29": "Niech moi przeciwnicy okryją się hańbą i niech się okryją własnym wstydem jak płaszczem."
-"Ps109,30": "Będę wielce wysławiał PANA swymi ustami i pośród tłumu będę go chwalić;"
-"Ps109,31": "Bo staje po prawicy nędznego, aby go wybawić od tych, którzy osądzają jego duszę."
+"Ps109,1":
+  text: "Boże mojej chwały, nie milcz;"
+  tags: []
+"Ps109,2":
+  text: "Bo otworzyły się przeciwko mnie usta niegodziwego i usta podstępnego; mówili przeciwko mnie językiem kłamliwym;"
+  tags: []
+"Ps109,3":
+  text: "Otoczyli mnie słowami nienawiści i walczą przeciwko mnie bez przyczyny."
+  tags: []
+"Ps109,4":
+  text: "Sprzeciwiają mi się w zamian za moją miłość, choć ja się za nich modliłem."
+  tags: []
+"Ps109,5":
+  text: "Odpłacają mi złem za dobro i nienawiścią za moją miłość."
+  tags: []
+"Ps109,6":
+  text: "Postaw nad nim niegodziwego, a szatan niech stoi po jego prawicy."
+  tags: []
+"Ps109,7":
+  text: "Gdy stanie przed sądem, niech wyjdzie potępiony, a jego modlitwa niech zamieni się w grzech."
+  tags: []
+"Ps109,8":
+  text: "Niech jego dni będą krótkie, a jego urząd niech przejmie inny."
+  tags: []
+"Ps109,9":
+  text: "Niech jego dzieci będą sierotami, a jego żona wdową."
+  tags: []
+"Ps109,10":
+  text: "Niech jego dzieci będą tułaczami i żebrzą, niech żebrzą z dala od swoich opustoszałych miejsc."
+  tags: []
+"Ps109,11":
+  text: "Niech lichwiarz przejmie wszystko, co ma, a obcy niech rozgrabią owoc jego pracy."
+  tags: []
+"Ps109,12":
+  text: "Niech nie będzie nikogo, kto by mu okazał miłosierdzie; niech nie będzie nikogo, kto by się zlitował nad jego sierotami."
+  tags: []
+"Ps109,13":
+  text: "Niech jego potomkowie zostaną wykorzenieni, niech ich imię zginie w drugim pokoleniu."
+  tags: []
+"Ps109,14":
+  text: "Niech PAN pamięta nieprawość jego przodków, a grzech jego matki niech nie będzie zgładzony."
+  tags: []
+"Ps109,15":
+  text: "Niech będą zawsze przed PANEM, aż wykorzeni z ziemi pamięć o nich;"
+  tags: []
+"Ps109,16":
+  text: "Dlatego że nie pamiętał, by okazać miłosierdzie, ale prześladował człowieka nędznego i ubogiego, a strapionego w sercu chciał zabić."
+  tags: []
+"Ps109,17":
+  text: "Skoro umiłował przekleństwo, niech na niego spadnie; skoro nie chciał błogosławieństwa, niech się od niego oddali."
+  tags: []
+"Ps109,18":
+  text: "Ubierał się w przekleństwo jak w szatę, więc niech wejdzie jak woda do jego wnętrzności i jak oliwa do jego kości."
+  tags: []
+"Ps109,19":
+  text: "Niech mu będzie jak płaszcz, który go okrywa, i jak pas, który go zawsze opasuje."
+  tags: []
+"Ps109,20":
+  text: "Taka niech będzie zapłata od PANA dla moich przeciwników i tych, którzy źle mówią przeciwko mojej duszy."
+  tags: []
+"Ps109,21":
+  text: "Ale ty, BOŻE, Panie, ujmij się za mną przez wzgląd na twoje imię; ocal mnie, bo wielkie jest twoje miłosierdzie."
+  tags: []
+"Ps109,22":
+  text: "Jestem bowiem ubogi i nędzny, a moje serce we mnie jest zranione."
+  tags: []
+"Ps109,23":
+  text: "Niknę jak cień, który się chyli, strząsają mnie jak szarańczę."
+  tags: []
+"Ps109,24":
+  text: "Moje kolana słabną od postu, a moje ciało wychudło bez tłuszczu."
+  tags: []
+"Ps109,25":
+  text: "Stałem się też dla nich pośmiewiskiem; gdy mnie widzą, kiwają głowami."
+  tags: []
+"Ps109,26":
+  text: "Wspomóż mnie, PANIE, mój Boże; wybaw mnie według swego miłosierdzia;"
+  tags: []
+"Ps109,27":
+  text: "Aby mogli poznać, że to twoja ręka; że ty, PANIE, to uczyniłeś."
+  tags: []
+"Ps109,28":
+  text: "Niech oni przeklinają, ale ty błogosław; gdy powstają, niech będą zawstydzeni, a twój sługa niech się weseli."
+  tags: []
+"Ps109,29":
+  text: "Niech moi przeciwnicy okryją się hańbą i niech się okryją własnym wstydem jak płaszczem."
+  tags: []
+"Ps109,30":
+  text: "Będę wielce wysławiał PANA swymi ustami i pośród tłumu będę go chwalić;"
+  tags: []
+"Ps109,31":
+  text: "Bo staje po prawicy nędznego, aby go wybawić od tych, którzy osądzają jego duszę."
+  tags: []

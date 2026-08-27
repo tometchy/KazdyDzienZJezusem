@@ -1,22 +1,66 @@
-"Hi16,1": "Wtedy Hiob odpowiedział:"
-"Hi16,2": "Słyszałem wiele takich rzeczy; wy wszyscy jesteście przykrymi pocieszycielami."
-"Hi16,3": "Kiedy będzie koniec tych próżnych słów? Albo co cię skłania do tego, że tak odpowiadasz?"
-"Hi16,4": "Ja także mógłbym mówić jak wy; gdybyście byli w moim położeniu, mógłbym nagromadzić słów przeciwko wam i potrząsać głową nad wami."
-"Hi16,5": "Ja jednak pokrzepiałbym was swoimi ustami i poruszanie moich warg ulżyłoby waszym cierpieniom."
-"Hi16,6": "Ale jeśli będę mówił, mojemu bólowi to nie ulży, a jeśli przestanę, czyż opuści mnie?"
-"Hi16,7": "A teraz zmęczył mnie. Spustoszyłeś całe moje zgromadzenie."
-"Hi16,8": "Pomarszczyłeś mnie na świadectwo, a moje wychudzenie powstaje i świadczy przeciwko mnie w twarz."
-"Hi16,9": "Jego gniew mnie porwał, nienawidzi mnie; zgrzyta na mnie zębami. Mój wróg przeszywa mnie wzrokiem."
-"Hi16,10": "Otworzyli na mnie swe usta; znieważając, bili mnie po policzkach; zebrali się razem przeciwko mnie."
-"Hi16,11": "Bóg wydał mnie przewrotnemu, oddał mnie w ręce niegodziwych."
-"Hi16,12": "Żyłem w spokoju, ale on mnie pokruszył; chwycił mnie za kark, roztrzaskał i postawił sobie za cel."
-"Hi16,13": "Otoczyli mnie jego strzelcy; przeszywa moje nerki, a nie oszczędził; wylał na ziemię moją żółć."
-"Hi16,14": "Rozbija mnie, ranę za raną; naciera na mnie jak olbrzym."
-"Hi16,15": "Uszyłem wór na swoją skórę i prochem zbezcześciłem swój róg."
-"Hi16,16": "Moja twarz jest czerwona od płaczu i na moich powiekach jest cień śmierci."
-"Hi16,17": "Chociaż nie ma żadnej krzywdy na moich rękach, a moja modlitwa jest czysta."
-"Hi16,18": "Ziemio, nie zakrywaj mojej krwi i niech moje wołanie nie znajdzie miejsca!"
-"Hi16,19": "Oto teraz mój świadek jest w niebie, mój obrońca na wysokości."
-"Hi16,20": "Moi przyjaciele szydzą ze mnie, ale moje oko wylewa łzy ku Bogu."
-"Hi16,21": "Oby ktoś spierał się z Bogiem o człowieka jak człowiek spiera się o swego bliźniego!"
-"Hi16,22": "Upłynie bowiem niewiele lat, a pójdę ścieżką, skąd nie powrócę."
+"Hi16,1":
+  text: "Wtedy Hiob odpowiedział:"
+  tags: []
+"Hi16,2":
+  text: "Słyszałem wiele takich rzeczy; wy wszyscy jesteście przykrymi pocieszycielami."
+  tags: []
+"Hi16,3":
+  text: "Kiedy będzie koniec tych próżnych słów? Albo co cię skłania do tego, że tak odpowiadasz?"
+  tags: []
+"Hi16,4":
+  text: "Ja także mógłbym mówić jak wy; gdybyście byli w moim położeniu, mógłbym nagromadzić słów przeciwko wam i potrząsać głową nad wami."
+  tags: []
+"Hi16,5":
+  text: "Ja jednak pokrzepiałbym was swoimi ustami i poruszanie moich warg ulżyłoby waszym cierpieniom."
+  tags: []
+"Hi16,6":
+  text: "Ale jeśli będę mówił, mojemu bólowi to nie ulży, a jeśli przestanę, czyż opuści mnie?"
+  tags: []
+"Hi16,7":
+  text: "A teraz zmęczył mnie. Spustoszyłeś całe moje zgromadzenie."
+  tags: []
+"Hi16,8":
+  text: "Pomarszczyłeś mnie na świadectwo, a moje wychudzenie powstaje i świadczy przeciwko mnie w twarz."
+  tags: []
+"Hi16,9":
+  text: "Jego gniew mnie porwał, nienawidzi mnie; zgrzyta na mnie zębami. Mój wróg przeszywa mnie wzrokiem."
+  tags: []
+"Hi16,10":
+  text: "Otworzyli na mnie swe usta; znieważając, bili mnie po policzkach; zebrali się razem przeciwko mnie."
+  tags: []
+"Hi16,11":
+  text: "Bóg wydał mnie przewrotnemu, oddał mnie w ręce niegodziwych."
+  tags: []
+"Hi16,12":
+  text: "Żyłem w spokoju, ale on mnie pokruszył; chwycił mnie za kark, roztrzaskał i postawił sobie za cel."
+  tags: []
+"Hi16,13":
+  text: "Otoczyli mnie jego strzelcy; przeszywa moje nerki, a nie oszczędził; wylał na ziemię moją żółć."
+  tags: []
+"Hi16,14":
+  text: "Rozbija mnie, ranę za raną; naciera na mnie jak olbrzym."
+  tags: []
+"Hi16,15":
+  text: "Uszyłem wór na swoją skórę i prochem zbezcześciłem swój róg."
+  tags: []
+"Hi16,16":
+  text: "Moja twarz jest czerwona od płaczu i na moich powiekach jest cień śmierci."
+  tags: []
+"Hi16,17":
+  text: "Chociaż nie ma żadnej krzywdy na moich rękach, a moja modlitwa jest czysta."
+  tags: []
+"Hi16,18":
+  text: "Ziemio, nie zakrywaj mojej krwi i niech moje wołanie nie znajdzie miejsca!"
+  tags: []
+"Hi16,19":
+  text: "Oto teraz mój świadek jest w niebie, mój obrońca na wysokości."
+  tags: []
+"Hi16,20":
+  text: "Moi przyjaciele szydzą ze mnie, ale moje oko wylewa łzy ku Bogu."
+  tags: []
+"Hi16,21":
+  text: "Oby ktoś spierał się z Bogiem o człowieka jak człowiek spiera się o swego bliźniego!"
+  tags: []
+"Hi16,22":
+  text: "Upłynie bowiem niewiele lat, a pójdę ścieżką, skąd nie powrócę."
+  tags: []

@@ -1,18 +1,54 @@
-"Kol4,1": "Panowie, okazujcie sługom sprawiedliwość i równość, wiedząc, że i wy macie Pana w niebiosach."
-"Kol4,2": "Trwajcie niezłomnie w modlitwie, czuwając w niej z dziękczynieniem,"
-"Kol4,3": "Modląc się równocześnie i za nas, aby Bóg otworzył nam drzwi dla Słowa, byśmy mówili o tajemnicy Chrystusa, z powodu której jestem też związany,"
-"Kol4,4": "Abym ją ujawnił, tak jak mi mówić należy."
-"Kol4,5": "Postępujcie z mądrością wobec tych, którzy są z zewnątrz, czas wykupując."
-"Kol4,6": "Słowo wasze niech zawsze będzie łaskawe, przyprawione solą, abyście wiedzieli, jak trzeba odpowiadać każdemu z osobna."
-"Kol4,7": "Wszystko, co mnie dotyczy, oznajmi wam Tychikus, brat umiłowany i wierny sługa, i współniewolnik w Panu,"
-"Kol4,8": "Którego posłałem do was po to właśnie, abym poznał, co z wami się dzieje i by pocieszył wasze serca,"
-"Kol4,9": "Razem z Onezymem, wiernym i umiłowanym bratem, który jest spośród was; ci oznajmią wam wszystko, co się tutaj dzieje."
-"Kol4,10": "Pozdrawia was Arystarch, współwięzień mój, i Marek, kuzyn Barnaby, odnośnie którego otrzymaliście polecenia: Jeśli przyjdzie do was, przyjmijcie go,"
-"Kol4,11": "I Jezus, nazwany Justem, będący spośród obrzezanych; ci są jedynymi współpracownikami moimi dla Królestwa Bożego, którzy stali się dla mnie pociechą."
-"Kol4,12": "Pozdrawia was Epafras, który jest z was, sługa Chrystusa, zawsze walczący za was w modlitwach, abyście zostali postawieni jako doskonali i pełni w całej woli Bożej."
-"Kol4,13": "Wystawiam mu bowiem świadectwo, że ma wielką gorliwość o was i o tych, którzy są w Laodycei i w Hierapolis."
-"Kol4,14": "Pozdrawia was Łukasz, lekarz umiłowany, i Demas."
-"Kol4,15": "Pozdrówcie braci w Laodycei i Nymfasa, i zbór, który jest w jego domu."
-"Kol4,16": "A gdy ten list będzie u was odczytany, sprawcie też, aby został odczytany i w zborze Laodycejczyków; a ten z Laodycei, abyście i wy odczytali."
-"Kol4,17": "A powiedzcie Archipowi: Bacz, abyś wypełnił służbę, którą przyjąłeś w Panu."
-"Kol4,18": "Pozdrowienie moją, Pawła, ręką dopisane. Pamiętajcie o moich więzach. Łaska z wami. Amen."
+"Kol4,1":
+  text: "Panowie, okazujcie sługom sprawiedliwość i równość, wiedząc, że i wy macie Pana w niebiosach."
+  tags: []
+"Kol4,2":
+  text: "Trwajcie niezłomnie w modlitwie, czuwając w niej z dziękczynieniem,"
+  tags: []
+"Kol4,3":
+  text: "Modląc się równocześnie i za nas, aby Bóg otworzył nam drzwi dla Słowa, byśmy mówili o tajemnicy Chrystusa, z powodu której jestem też związany,"
+  tags: []
+"Kol4,4":
+  text: "Abym ją ujawnił, tak jak mi mówić należy."
+  tags: []
+"Kol4,5":
+  text: "Postępujcie z mądrością wobec tych, którzy są z zewnątrz, czas wykupując."
+  tags: []
+"Kol4,6":
+  text: "Słowo wasze niech zawsze będzie łaskawe, przyprawione solą, abyście wiedzieli, jak trzeba odpowiadać każdemu z osobna."
+  tags: []
+"Kol4,7":
+  text: "Wszystko, co mnie dotyczy, oznajmi wam Tychikus, brat umiłowany i wierny sługa, i współniewolnik w Panu,"
+  tags: []
+"Kol4,8":
+  text: "Którego posłałem do was po to właśnie, abym poznał, co z wami się dzieje i by pocieszył wasze serca,"
+  tags: []
+"Kol4,9":
+  text: "Razem z Onezymem, wiernym i umiłowanym bratem, który jest spośród was; ci oznajmią wam wszystko, co się tutaj dzieje."
+  tags: []
+"Kol4,10":
+  text: "Pozdrawia was Arystarch, współwięzień mój, i Marek, kuzyn Barnaby, odnośnie którego otrzymaliście polecenia: Jeśli przyjdzie do was, przyjmijcie go,"
+  tags: []
+"Kol4,11":
+  text: "I Jezus, nazwany Justem, będący spośród obrzezanych; ci są jedynymi współpracownikami moimi dla Królestwa Bożego, którzy stali się dla mnie pociechą."
+  tags: []
+"Kol4,12":
+  text: "Pozdrawia was Epafras, który jest z was, sługa Chrystusa, zawsze walczący za was w modlitwach, abyście zostali postawieni jako doskonali i pełni w całej woli Bożej."
+  tags: []
+"Kol4,13":
+  text: "Wystawiam mu bowiem świadectwo, że ma wielką gorliwość o was i o tych, którzy są w Laodycei i w Hierapolis."
+  tags: []
+"Kol4,14":
+  text: "Pozdrawia was Łukasz, lekarz umiłowany, i Demas."
+  tags: []
+"Kol4,15":
+  text: "Pozdrówcie braci w Laodycei i Nymfasa, i zbór, który jest w jego domu."
+  tags: []
+"Kol4,16":
+  text: "A gdy ten list będzie u was odczytany, sprawcie też, aby został odczytany i w zborze Laodycejczyków; a ten z Laodycei, abyście i wy odczytali."
+  tags: []
+"Kol4,17":
+  text: "A powiedzcie Archipowi: Bacz, abyś wypełnił służbę, którą przyjąłeś w Panu."
+  tags: []
+"Kol4,18":
+  text: "Pozdrowienie moją, Pawła, ręką dopisane. Pamiętajcie o moich więzach. Łaska z wami. Amen."
+  tags: []

@@ -1,24 +1,72 @@
-"1Krl17,1": "Wtedy Eliasz Tiszbita, jeden z mieszkańców Gileadu, powiedział do Achaba: Jak żyje PAN, Bóg Izraela, przed którym stoję, nie będzie w tych latach ani rosy, ani deszczu jak tylko na moje słowo."
-"1Krl17,2": "I doszło do niego słowo PANA:"
-"1Krl17,3": "Odejdź stąd, skieruj się na wschód i skryj się przy potoku Kerit, który jest przed Jordanem."
-"1Krl17,4": "I będziesz pił z potoku, krukom zaś rozkazałem, aby cię tam żywiły."
-"1Krl17,5": "Poszedł więc i uczynił według słowa PANA: Poszedł i zamieszkał przy potoku Kerit, leżącym przed Jordanem."
-"1Krl17,6": "A kruki przynosiły mu chleb i mięso rano oraz chleb i mięso wieczorem, wodę zaś pił z potoku."
-"1Krl17,7": "Lecz po pewnym czasie potok wysechł, gdyż nie było deszczu w tej ziemi."
-"1Krl17,8": "I doszło do niego słowo PANA:"
-"1Krl17,9": "Wstań, idź do Sarepty sydońskiej i tam zamieszkaj. Oto rozkazałem tam pewnej kobiecie, wdowie, aby cię żywiła."
-"1Krl17,10": "Wstał więc i poszedł do Sarepty. Kiedy przybył do bramy miasta, oto kobieta, wdowa, zbierała drwa. Zawołał ją i powiedział: Przynieś mi, proszę, trochę wody w naczyniu, abym się napił."
-"1Krl17,11": "A gdy szła, by przynieść wody, zawołał ją i powiedział: Przynieś mi też, proszę, kromkę chleba w swojej ręce."
-"1Krl17,12": "I odpowiedziała: Jak żyje PAN, twój Bóg, nie mam pieczonego chleba, mam tylko garść mąki w dzbanie i trochę oliwy w baryłce. Oto zbieram trochę drew, potem przyjdę i przyrządzę to dla siebie i dla mojego syna. A to zjemy, potem umrzemy."
-"1Krl17,13": "Wtedy Eliasz powiedział do niej: Nie bój się. Idź, uczyń, jak powiedziałaś. Najpierw jednak zrób z tego dla mnie mały podpłomyk i przynieś mi go. Dla siebie zaś i swego syna zrobisz potem."
-"1Krl17,14": "Tak bowiem powiedział PAN, Bóg Izraela: Mąka w dzbanie nie skończy się i oliwy w baryłce nie braknie aż do dnia, w którym PAN spuści deszcz na ziemię."
-"1Krl17,15": "Poszła więc i uczyniła według słowa Eliasza. Ona i on oraz jej dom jedli przez wiele dni."
-"1Krl17,16": "Nie skończyła się mąka w dzbanie ani nie zabrakło oliwy w baryłce według słowa PANA, które wypowiedział przez Eliasza."
-"1Krl17,17": "Po tych wydarzeniach zachorował syn tej kobiety, pani tego domu, a jego choroba była tak ciężka, że przestał oddychać."
-"1Krl17,18": "Wtedy powiedziała do Eliasza: Cóż ja mam z tobą, mężu Boży? Przyszedłeś do mnie, aby przypomnieć mi mój grzech i uśmiercić mego syna?"
-"1Krl17,19": "I odpowiedział jej: Daj mi swego syna. I wziął go z jej łona, zaniósł na górę do pokoju, w którym mieszkał, i położył go na swoim łóżku."
-"1Krl17,20": "I wołał do PANA, i powiedział: PANIE, mój Boże, czy także na tę wdowę, u której mieszkam, chcesz sprowadzić nieszczęście, uśmiercając jej syna?"
-"1Krl17,21": "I rozciągnął się trzykrotnie nad dzieckiem, i wołał do PANA, i powiedział: PANIE, mój Boże, proszę, niech dusza tego dziecka wróci do niego."
-"1Krl17,22": "I PAN wysłuchał głosu Eliasza. Dusza dziecka wróciła do niego i ożyło."
-"1Krl17,23": "Wtedy Eliasz wziął dziecko, zniósł je z pokoju do domu i oddał je matce. I Eliasz powiedział: Patrz, twój syn żyje."
-"1Krl17,24": "I kobieta powiedziała do Eliasza: Teraz wiem, że jesteś mężem Bożym i słowo PANA w twoich ustach jest prawdą."
+"1Krl17,1":
+  text: "Wtedy Eliasz Tiszbita, jeden z mieszkańców Gileadu, powiedział do Achaba: Jak żyje PAN, Bóg Izraela, przed którym stoję, nie będzie w tych latach ani rosy, ani deszczu jak tylko na moje słowo."
+  tags: []
+"1Krl17,2":
+  text: "I doszło do niego słowo PANA:"
+  tags: []
+"1Krl17,3":
+  text: "Odejdź stąd, skieruj się na wschód i skryj się przy potoku Kerit, który jest przed Jordanem."
+  tags: []
+"1Krl17,4":
+  text: "I będziesz pił z potoku, krukom zaś rozkazałem, aby cię tam żywiły."
+  tags: []
+"1Krl17,5":
+  text: "Poszedł więc i uczynił według słowa PANA: Poszedł i zamieszkał przy potoku Kerit, leżącym przed Jordanem."
+  tags: []
+"1Krl17,6":
+  text: "A kruki przynosiły mu chleb i mięso rano oraz chleb i mięso wieczorem, wodę zaś pił z potoku."
+  tags: []
+"1Krl17,7":
+  text: "Lecz po pewnym czasie potok wysechł, gdyż nie było deszczu w tej ziemi."
+  tags: []
+"1Krl17,8":
+  text: "I doszło do niego słowo PANA:"
+  tags: []
+"1Krl17,9":
+  text: "Wstań, idź do Sarepty sydońskiej i tam zamieszkaj. Oto rozkazałem tam pewnej kobiecie, wdowie, aby cię żywiła."
+  tags: []
+"1Krl17,10":
+  text: "Wstał więc i poszedł do Sarepty. Kiedy przybył do bramy miasta, oto kobieta, wdowa, zbierała drwa. Zawołał ją i powiedział: Przynieś mi, proszę, trochę wody w naczyniu, abym się napił."
+  tags: []
+"1Krl17,11":
+  text: "A gdy szła, by przynieść wody, zawołał ją i powiedział: Przynieś mi też, proszę, kromkę chleba w swojej ręce."
+  tags: []
+"1Krl17,12":
+  text: "I odpowiedziała: Jak żyje PAN, twój Bóg, nie mam pieczonego chleba, mam tylko garść mąki w dzbanie i trochę oliwy w baryłce. Oto zbieram trochę drew, potem przyjdę i przyrządzę to dla siebie i dla mojego syna. A to zjemy, potem umrzemy."
+  tags: []
+"1Krl17,13":
+  text: "Wtedy Eliasz powiedział do niej: Nie bój się. Idź, uczyń, jak powiedziałaś. Najpierw jednak zrób z tego dla mnie mały podpłomyk i przynieś mi go. Dla siebie zaś i swego syna zrobisz potem."
+  tags: []
+"1Krl17,14":
+  text: "Tak bowiem powiedział PAN, Bóg Izraela: Mąka w dzbanie nie skończy się i oliwy w baryłce nie braknie aż do dnia, w którym PAN spuści deszcz na ziemię."
+  tags: []
+"1Krl17,15":
+  text: "Poszła więc i uczyniła według słowa Eliasza. Ona i on oraz jej dom jedli przez wiele dni."
+  tags: []
+"1Krl17,16":
+  text: "Nie skończyła się mąka w dzbanie ani nie zabrakło oliwy w baryłce według słowa PANA, które wypowiedział przez Eliasza."
+  tags: []
+"1Krl17,17":
+  text: "Po tych wydarzeniach zachorował syn tej kobiety, pani tego domu, a jego choroba była tak ciężka, że przestał oddychać."
+  tags: []
+"1Krl17,18":
+  text: "Wtedy powiedziała do Eliasza: Cóż ja mam z tobą, mężu Boży? Przyszedłeś do mnie, aby przypomnieć mi mój grzech i uśmiercić mego syna?"
+  tags: []
+"1Krl17,19":
+  text: "I odpowiedział jej: Daj mi swego syna. I wziął go z jej łona, zaniósł na górę do pokoju, w którym mieszkał, i położył go na swoim łóżku."
+  tags: []
+"1Krl17,20":
+  text: "I wołał do PANA, i powiedział: PANIE, mój Boże, czy także na tę wdowę, u której mieszkam, chcesz sprowadzić nieszczęście, uśmiercając jej syna?"
+  tags: []
+"1Krl17,21":
+  text: "I rozciągnął się trzykrotnie nad dzieckiem, i wołał do PANA, i powiedział: PANIE, mój Boże, proszę, niech dusza tego dziecka wróci do niego."
+  tags: []
+"1Krl17,22":
+  text: "I PAN wysłuchał głosu Eliasza. Dusza dziecka wróciła do niego i ożyło."
+  tags: []
+"1Krl17,23":
+  text: "Wtedy Eliasz wziął dziecko, zniósł je z pokoju do domu i oddał je matce. I Eliasz powiedział: Patrz, twój syn żyje."
+  tags: []
+"1Krl17,24":
+  text: "I kobieta powiedziała do Eliasza: Teraz wiem, że jesteś mężem Bożym i słowo PANA w twoich ustach jest prawdą."
+  tags: []

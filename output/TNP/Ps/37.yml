@@ -1,40 +1,120 @@
-"Ps37,1": "Dawidowy. Psalm. Nie płoń gniewem na złych, nie zazdrość czyniącym nieprawość."
-"Ps37,2": "Jak trawa bowiem szybko zostaną podcięci i zwiędną jak młoda trawa."
-"Ps37,3": "Ufaj JHWH i czyń dobrze; będziesz mieszkał na ziemi i na pewno będziesz nakarmiony."
-"Ps37,4": "Rozkoszuj się JHWH, a On spełni prośby twojego serca."
-"Ps37,5": "Skieruj do JHWH swoje kroki i zaufaj Mu, a On będzie działał;"
-"Ps37,6": "I wyniesie twoją sprawiedliwość jak światłość, a twoją prawość jak południe."
-"Ps37,7": "Umilknij przed JHWH i oczekuj Go; nie płoń gniewem na tego, komu powodzi się w drodze, na człowieka, który spełnia swoje złe zamiary."
-"Ps37,8": "Zaprzestań gniewu i porzuć zapalczywość; nie płoń gniewem jedynie po to, aby wyrządzać krzywdę."
-"Ps37,9": "Złoczyńcy bowiem będą odcięci, a ci, którzy oczekują JHWH, odziedziczą ziemię."
-"Ps37,10": "Jeszcze chwila, a nie będzie niegodziwego; spojrzysz na jego miejsce, a już go nie będzie."
-"Ps37,11": "Lecz pokorni odziedziczą ziemię i będą się rozkoszować obfitością pokoju."
-"Ps37,12": "Niegodziwy knuje przeciwko sprawiedliwemu i zgrzyta na niego zębami."
-"Ps37,13": "Lecz PAN będzie się śmiał z niego, bo widzi, że nadchodzi jego dzień."
-"Ps37,14": "Niegodziwi dobyli miecza i napięli swój łuk, aby powalić ubogiego i będącego w potrzebie, aby zamordować tych, którzy idą prawą drogą;"
-"Ps37,15": "Lecz ich miecz przeniknie ich własne serce, a ich łuk zostanie złamany."
-"Ps37,16": "Lepsza jest odrobina u sprawiedliwego, niż wielkie bogactwo wielu niegodziwych;"
-"Ps37,17": "Ramiona niegodziwych będą bowiem połamane, a podtrzymującym sprawiedliwego jest JHWH."
-"Ps37,18": "JHWH zna dni nienagannych, ich dziedzictwo będzie trwać na wieki."
-"Ps37,19": "W czasie nieszczęścia nie doznają wstydu, a w dniach głodu będą nasyceni."
-"Ps37,20": "Ponieważ niegodziwi zginą, a wrogowie JHWH znikną jak okazałe barany, znikną jak dym."
-"Ps37,21": "Niegodziwy pożyczył i nie zwraca, sprawiedliwy okazuje łaskę i obdarowuje."
-"Ps37,22": "Ponieważ błogosławieni przez Niego odziedziczą ziemię, a przeklęci przez Niego zostaną odcięci."
-"Ps37,23": "JHWH umacnia kroki człowieka, a w drodze jego będzie miał upodobanie."
-"Ps37,24": "Gdy upadnie, nie będzie porzucony, bo JHWH podtrzymuje go swoją ręką."
-"Ps37,25": "Byłem młodzieńcem, a teraz się zestarzałem, lecz nie widziałem sprawiedliwego, aby był opuszczony, ani jego potomstwa proszącego o chleb."
-"Ps37,26": "Każdego dnia okazuje łaskę i pożycza, a jego potomstwo jest błogosławione."
-"Ps37,27": "Odwróć się od złego i czyń dobrze, i mieszkaj na wieki."
-"Ps37,28": "JHWH bowiem miłuje prawość i nie opuszcza swoich świętych, strzeże ich na wieki; a potomstwo niegodziwych zostanie odcięte."
-"Ps37,29": "Sprawiedliwi odziedziczą ziemię i będą w niej mieszkać na zawsze."
-"Ps37,30": "Usta sprawiedliwego rozważają mądrość, a jego język mówi o sądzie."
-"Ps37,31": "Prawo jego Boga jest w jego sercu, jego kroki się nie zachwieją."
-"Ps37,32": "Niegodziwy czyha na sprawiedliwego i szuka sposobu, aby go zabić."
-"Ps37,33": "Lecz JHWH nie zostawi go w jego ręku i nie uzna za winnego w czasie, gdy będzie sądzić."
-"Ps37,34": "Oczekuj JHWH i strzeż Jego drogi, a On cię wywyższy, abyś odziedziczył ziemię; zobaczysz jak odetnie niegodziwych."
-"Ps37,35": "Widziałem niegodziwego napawającego przerażeniem i rozpierającego się jak zielone drzewo w rodzimej glebie."
-"Ps37,36": "Lecz przeminął i oto już go nie ma; szukałem go i nie znalazłem."
-"Ps37,37": "Spójrz na nienagannego i przypatruj się prawemu, bo przyszłość takiego człowieka to pokój."
-"Ps37,38": "Lecz buntujący się razem zostali zniszczeni, potomstwo niegodziwych zostało odcięte."
-"Ps37,39": "Jednak zbawienie sprawiedliwych jest od JHWH; On jest ich twierdzą w czasie utrapienia."
-"Ps37,40": "JHWH ich wspomoże i wyzwoli; wyzwoli ich od niegodziwych i wybawi, bo w Nim pokładają nadzieję."
+"Ps37,1":
+  text: "Dawidowy. Psalm. Nie płoń gniewem na złych, nie zazdrość czyniącym nieprawość."
+  tags: []
+"Ps37,2":
+  text: "Jak trawa bowiem szybko zostaną podcięci i zwiędną jak młoda trawa."
+  tags: []
+"Ps37,3":
+  text: "Ufaj JHWH i czyń dobrze; będziesz mieszkał na ziemi i na pewno będziesz nakarmiony."
+  tags: []
+"Ps37,4":
+  text: "Rozkoszuj się JHWH, a On spełni prośby twojego serca."
+  tags: []
+"Ps37,5":
+  text: "Skieruj do JHWH swoje kroki i zaufaj Mu, a On będzie działał;"
+  tags: []
+"Ps37,6":
+  text: "I wyniesie twoją sprawiedliwość jak światłość, a twoją prawość jak południe."
+  tags: []
+"Ps37,7":
+  text: "Umilknij przed JHWH i oczekuj Go; nie płoń gniewem na tego, komu powodzi się w drodze, na człowieka, który spełnia swoje złe zamiary."
+  tags: []
+"Ps37,8":
+  text: "Zaprzestań gniewu i porzuć zapalczywość; nie płoń gniewem jedynie po to, aby wyrządzać krzywdę."
+  tags: []
+"Ps37,9":
+  text: "Złoczyńcy bowiem będą odcięci, a ci, którzy oczekują JHWH, odziedziczą ziemię."
+  tags: []
+"Ps37,10":
+  text: "Jeszcze chwila, a nie będzie niegodziwego; spojrzysz na jego miejsce, a już go nie będzie."
+  tags: []
+"Ps37,11":
+  text: "Lecz pokorni odziedziczą ziemię i będą się rozkoszować obfitością pokoju."
+  tags: []
+"Ps37,12":
+  text: "Niegodziwy knuje przeciwko sprawiedliwemu i zgrzyta na niego zębami."
+  tags: []
+"Ps37,13":
+  text: "Lecz PAN będzie się śmiał z niego, bo widzi, że nadchodzi jego dzień."
+  tags: []
+"Ps37,14":
+  text: "Niegodziwi dobyli miecza i napięli swój łuk, aby powalić ubogiego i będącego w potrzebie, aby zamordować tych, którzy idą prawą drogą;"
+  tags: []
+"Ps37,15":
+  text: "Lecz ich miecz przeniknie ich własne serce, a ich łuk zostanie złamany."
+  tags: []
+"Ps37,16":
+  text: "Lepsza jest odrobina u sprawiedliwego, niż wielkie bogactwo wielu niegodziwych;"
+  tags: []
+"Ps37,17":
+  text: "Ramiona niegodziwych będą bowiem połamane, a podtrzymującym sprawiedliwego jest JHWH."
+  tags: []
+"Ps37,18":
+  text: "JHWH zna dni nienagannych, ich dziedzictwo będzie trwać na wieki."
+  tags: []
+"Ps37,19":
+  text: "W czasie nieszczęścia nie doznają wstydu, a w dniach głodu będą nasyceni."
+  tags: []
+"Ps37,20":
+  text: "Ponieważ niegodziwi zginą, a wrogowie JHWH znikną jak okazałe barany, znikną jak dym."
+  tags: []
+"Ps37,21":
+  text: "Niegodziwy pożyczył i nie zwraca, sprawiedliwy okazuje łaskę i obdarowuje."
+  tags: []
+"Ps37,22":
+  text: "Ponieważ błogosławieni przez Niego odziedziczą ziemię, a przeklęci przez Niego zostaną odcięci."
+  tags: []
+"Ps37,23":
+  text: "JHWH umacnia kroki człowieka, a w drodze jego będzie miał upodobanie."
+  tags: []
+"Ps37,24":
+  text: "Gdy upadnie, nie będzie porzucony, bo JHWH podtrzymuje go swoją ręką."
+  tags: []
+"Ps37,25":
+  text: "Byłem młodzieńcem, a teraz się zestarzałem, lecz nie widziałem sprawiedliwego, aby był opuszczony, ani jego potomstwa proszącego o chleb."
+  tags: []
+"Ps37,26":
+  text: "Każdego dnia okazuje łaskę i pożycza, a jego potomstwo jest błogosławione."
+  tags: []
+"Ps37,27":
+  text: "Odwróć się od złego i czyń dobrze, i mieszkaj na wieki."
+  tags: []
+"Ps37,28":
+  text: "JHWH bowiem miłuje prawość i nie opuszcza swoich świętych, strzeże ich na wieki; a potomstwo niegodziwych zostanie odcięte."
+  tags: []
+"Ps37,29":
+  text: "Sprawiedliwi odziedziczą ziemię i będą w niej mieszkać na zawsze."
+  tags: []
+"Ps37,30":
+  text: "Usta sprawiedliwego rozważają mądrość, a jego język mówi o sądzie."
+  tags: []
+"Ps37,31":
+  text: "Prawo jego Boga jest w jego sercu, jego kroki się nie zachwieją."
+  tags: []
+"Ps37,32":
+  text: "Niegodziwy czyha na sprawiedliwego i szuka sposobu, aby go zabić."
+  tags: []
+"Ps37,33":
+  text: "Lecz JHWH nie zostawi go w jego ręku i nie uzna za winnego w czasie, gdy będzie sądzić."
+  tags: []
+"Ps37,34":
+  text: "Oczekuj JHWH i strzeż Jego drogi, a On cię wywyższy, abyś odziedziczył ziemię; zobaczysz jak odetnie niegodziwych."
+  tags: []
+"Ps37,35":
+  text: "Widziałem niegodziwego napawającego przerażeniem i rozpierającego się jak zielone drzewo w rodzimej glebie."
+  tags: []
+"Ps37,36":
+  text: "Lecz przeminął i oto już go nie ma; szukałem go i nie znalazłem."
+  tags: []
+"Ps37,37":
+  text: "Spójrz na nienagannego i przypatruj się prawemu, bo przyszłość takiego człowieka to pokój."
+  tags: []
+"Ps37,38":
+  text: "Lecz buntujący się razem zostali zniszczeni, potomstwo niegodziwych zostało odcięte."
+  tags: []
+"Ps37,39":
+  text: "Jednak zbawienie sprawiedliwych jest od JHWH; On jest ich twierdzą w czasie utrapienia."
+  tags: []
+"Ps37,40":
+  text: "JHWH ich wspomoże i wyzwoli; wyzwoli ich od niegodziwych i wybawi, bo w Nim pokładają nadzieję."
+  tags: []

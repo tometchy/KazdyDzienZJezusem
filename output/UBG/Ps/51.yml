@@ -1,19 +1,57 @@
-"Ps51,1": "Zmiłuj się nade mną, Boże, według twojego miłosierdzia; według twojej wielkiej litości zgładź moje występki."
-"Ps51,2": "Obmyj mnie zupełnie z mojej nieprawości i oczyść mnie z mego grzechu."
-"Ps51,3": "Uznaję bowiem moje występki, a mój grzech zawsze jest przede mną."
-"Ps51,4": "Przeciw tobie, tobie samemu, zgrzeszyłem i zło uczyniłem na twoich oczach, abyś okazał się sprawiedliwy w swoich słowach i czysty w swoim sądzie."
-"Ps51,5": "Oto zostałem zrodzony w nieprawości i w grzechu poczęła mnie moja matka."
-"Ps51,6": "Oto miłujesz prawdę wewnętrzną i w głębi serca dasz mi poznać mądrość."
-"Ps51,7": "Oczyść mnie hizopem, a będę oczyszczony; obmyj mnie, a stanę się bielszy od śniegu."
-"Ps51,8": "Daj mi usłyszeć radość i wesele; niech się rozradują kości, które skruszyłeś."
-"Ps51,9": "Odwróć swe oblicze od moich grzechów i zgładź wszystkie moje nieprawości."
-"Ps51,10": "Stwórz we mnie serce czyste, o Boże, i odnów we mnie ducha prawego."
-"Ps51,11": "Nie odrzucaj mnie sprzed twego oblicza i nie odbieraj mi swego Ducha Świętego."
-"Ps51,12": "Przywróć mi radość twego zbawienia i wesprzyj mnie duchem ochoczym."
-"Ps51,13": "Wtedy będę nauczał przestępców twoich dróg i grzesznicy nawrócą się do ciebie."
-"Ps51,14": "Uwolnij mnie od winy za przelanie krwi, o Boże, Boże mego zbawienia, a mój język będzie wysławiał twoją sprawiedliwość."
-"Ps51,15": "Panie, otwórz moje wargi, a moje usta będą głosić twoją chwałę."
-"Ps51,16": "Ty bowiem nie pragniesz ofiar, choćbym ci je dał, ani nie przyjmiesz całopalenia."
-"Ps51,17": "Ofiary dla Boga to duch skruszony; sercem skruszonym i zgnębionym nie wzgardzisz, o Boże!"
-"Ps51,18": "Okaż dobroć Syjonowi według twego upodobania; odbuduj mury Jeruzalem."
-"Ps51,19": "Wtedy przyjmiesz ofiary sprawiedliwości, ofiary ogniste i całopalenia; wtedy będą składać cielce na twoim ołtarzu."
+"Ps51,1":
+  text: "Zmiłuj się nade mną, Boże, według twojego miłosierdzia; według twojej wielkiej litości zgładź moje występki."
+  tags: []
+"Ps51,2":
+  text: "Obmyj mnie zupełnie z mojej nieprawości i oczyść mnie z mego grzechu."
+  tags: []
+"Ps51,3":
+  text: "Uznaję bowiem moje występki, a mój grzech zawsze jest przede mną."
+  tags: []
+"Ps51,4":
+  text: "Przeciw tobie, tobie samemu, zgrzeszyłem i zło uczyniłem na twoich oczach, abyś okazał się sprawiedliwy w swoich słowach i czysty w swoim sądzie."
+  tags: []
+"Ps51,5":
+  text: "Oto zostałem zrodzony w nieprawości i w grzechu poczęła mnie moja matka."
+  tags: []
+"Ps51,6":
+  text: "Oto miłujesz prawdę wewnętrzną i w głębi serca dasz mi poznać mądrość."
+  tags: []
+"Ps51,7":
+  text: "Oczyść mnie hizopem, a będę oczyszczony; obmyj mnie, a stanę się bielszy od śniegu."
+  tags: []
+"Ps51,8":
+  text: "Daj mi usłyszeć radość i wesele; niech się rozradują kości, które skruszyłeś."
+  tags: []
+"Ps51,9":
+  text: "Odwróć swe oblicze od moich grzechów i zgładź wszystkie moje nieprawości."
+  tags: []
+"Ps51,10":
+  text: "Stwórz we mnie serce czyste, o Boże, i odnów we mnie ducha prawego."
+  tags: []
+"Ps51,11":
+  text: "Nie odrzucaj mnie sprzed twego oblicza i nie odbieraj mi swego Ducha Świętego."
+  tags: []
+"Ps51,12":
+  text: "Przywróć mi radość twego zbawienia i wesprzyj mnie duchem ochoczym."
+  tags: []
+"Ps51,13":
+  text: "Wtedy będę nauczał przestępców twoich dróg i grzesznicy nawrócą się do ciebie."
+  tags: []
+"Ps51,14":
+  text: "Uwolnij mnie od winy za przelanie krwi, o Boże, Boże mego zbawienia, a mój język będzie wysławiał twoją sprawiedliwość."
+  tags: []
+"Ps51,15":
+  text: "Panie, otwórz moje wargi, a moje usta będą głosić twoją chwałę."
+  tags: []
+"Ps51,16":
+  text: "Ty bowiem nie pragniesz ofiar, choćbym ci je dał, ani nie przyjmiesz całopalenia."
+  tags: []
+"Ps51,17":
+  text: "Ofiary dla Boga to duch skruszony; sercem skruszonym i zgnębionym nie wzgardzisz, o Boże!"
+  tags: []
+"Ps51,18":
+  text: "Okaż dobroć Syjonowi według twego upodobania; odbuduj mury Jeruzalem."
+  tags: []
+"Ps51,19":
+  text: "Wtedy przyjmiesz ofiary sprawiedliwości, ofiary ogniste i całopalenia; wtedy będą składać cielce na twoim ołtarzu."
+  tags: []

@@ -1,20 +1,60 @@
-"Pwt17,1": "Nie złożysz PANU, swemu Bogu, ofiary z cielca lub owcy, które mają skazę lub jakąkolwiek wadę, gdyż to budzi odrazę w PANU, twym Bogu."
-"Pwt17,2": "Jeśli znajdzie się pośród was w jakimkolwiek z twoich miast, które daje ci PAN, twój Bóg, mężczyzna czy kobieta, którzy dopuszczą się zła w oczach PANA, twego Boga, przekraczając jego przymierze;"
-"Pwt17,3": "I idąc, będą służyć innym bogom i oddawać pokłon im lub słońcu, księżycowi albo całemu zastępowi niebios, czego nie nakazałem;"
-"Pwt17,4": "I zostanie ci o tym doniesione, a ty wysłuchasz tego, zbadasz to dokładnie i okaże się to prawdą i rzeczą pewną, że popełniono taką obrzydliwość w Izraelu;"
-"Pwt17,5": "Wtedy wyprowadzisz do swoich bram tego mężczyznę lub tę kobietę, którzy dopuścili się tego zła, i tego mężczyznę lub tę kobietę ukamienujesz, aż umrą."
-"Pwt17,6": "Na podstawie zeznania dwóch lub trzech świadków ma być zabity skazany na śmierć; nie wolno skazać go na śmierć na podstawie zeznania jednego świadka."
-"Pwt17,7": "Ręka świadków będzie na nim, aby go zabić, a potem ręce całego ludu. Tak usuniesz zło spośród siebie."
-"Pwt17,8": "Jeśli sprawa sądowa dotycząca przelania krwi, roszczeń, zranień oraz sporów w twoich bramach będzie dla ciebie za trudna, wtedy wstaniesz i pójdziesz do miejsca, które PAN, twój Bóg, wybierze."
-"Pwt17,9": "I przyjdziesz do kapłanów Lewitów, i do sędziego, który w tym czasie będzie urzędował, i poradzisz się ich, a oni oznajmią ci orzeczenie."
-"Pwt17,10": "I postąpisz zgodnie z orzeczeniem, które ci przekażą na tym miejscu, które PAN wybrał, i pilnie wykonasz wszystko tak, jak cię pouczą."
-"Pwt17,11": "Postąpisz zgodnie z pouczeniem prawa, którego ci udzielą, i zgodnie z rozstrzygnięciem, które ci przekażą. Nie odstąpisz od orzeczenia, które ci oznajmią ani na prawo, ani na lewo."
-"Pwt17,12": "A człowiek, który postąpi zuchwale i nie posłucha kapłana pełniącego tam służbę przed PANEM, twoim Bogiem, lub sędziego, poniesie śmierć. Tak usuniesz to zło z Izraela."
-"Pwt17,13": "A cały lud usłyszy o tym i będzie się bał, i nie postąpi już zuchwale."
-"Pwt17,14": "Gdy wejdziesz do ziemi, którą daje ci PAN, twój Bóg, gdy posiądziesz ją i zamieszkasz w niej, i powiesz sobie: Ustanowię nad sobą króla tak jak wszystkie okoliczne narody;"
-"Pwt17,15": "Tego tylko ustanowisz królem nad sobą, którego PAN, twój Bóg, wybierze. Spośród swoich braci ustanowisz nad sobą króla; nie możesz ustanowić nad sobą cudzoziemca, który nie jest twoim bratem."
-"Pwt17,16": "Tylko niech nie pomnaża sobie koni ani nie prowadzi ludu do Egiptu, aby nabyć wiele koni, ponieważ PAN wam powiedział: Nie wracajcie tą drogą nigdy więcej."
-"Pwt17,17": "Nie będzie też pomnażał sobie żon, aby jego serce się nie odwróciło; niech nie nabywa zbyt wiele srebra i złota."
-"Pwt17,18": "A gdy już zasiądzie na swym królewskim tronie, napisze sobie w księdze odpis tego prawa od kapłanów Lewitów."
-"Pwt17,19": "I będzie go miał przy sobie, i będzie go czytał po wszystkie dni swego życia, aby się nauczył bać PANA, swego Boga, by przestrzegał wszystkich słów tego prawa oraz tych ustaw i aby je wykonywał;"
-"Pwt17,20": "Aby jego serce nie wynosiło się ponad jego braci i żeby nie odstąpił od tego przykazania ani na prawo, ani na lewo, aby żył długo w swoim królestwie, on i jego synowie, pośród Izraela."
+"Pwt17,1":
+  text: "Nie złożysz PANU, swemu Bogu, ofiary z cielca lub owcy, które mają skazę lub jakąkolwiek wadę, gdyż to budzi odrazę w PANU, twym Bogu."
+  tags: []
+"Pwt17,2":
+  text: "Jeśli znajdzie się pośród was w jakimkolwiek z twoich miast, które daje ci PAN, twój Bóg, mężczyzna czy kobieta, którzy dopuszczą się zła w oczach PANA, twego Boga, przekraczając jego przymierze;"
+  tags: []
+"Pwt17,3":
+  text: "I idąc, będą służyć innym bogom i oddawać pokłon im lub słońcu, księżycowi albo całemu zastępowi niebios, czego nie nakazałem;"
+  tags: []
+"Pwt17,4":
+  text: "I zostanie ci o tym doniesione, a ty wysłuchasz tego, zbadasz to dokładnie i okaże się to prawdą i rzeczą pewną, że popełniono taką obrzydliwość w Izraelu;"
+  tags: []
+"Pwt17,5":
+  text: "Wtedy wyprowadzisz do swoich bram tego mężczyznę lub tę kobietę, którzy dopuścili się tego zła, i tego mężczyznę lub tę kobietę ukamienujesz, aż umrą."
+  tags: []
+"Pwt17,6":
+  text: "Na podstawie zeznania dwóch lub trzech świadków ma być zabity skazany na śmierć; nie wolno skazać go na śmierć na podstawie zeznania jednego świadka."
+  tags: []
+"Pwt17,7":
+  text: "Ręka świadków będzie na nim, aby go zabić, a potem ręce całego ludu. Tak usuniesz zło spośród siebie."
+  tags: []
+"Pwt17,8":
+  text: "Jeśli sprawa sądowa dotycząca przelania krwi, roszczeń, zranień oraz sporów w twoich bramach będzie dla ciebie za trudna, wtedy wstaniesz i pójdziesz do miejsca, które PAN, twój Bóg, wybierze."
+  tags: []
+"Pwt17,9":
+  text: "I przyjdziesz do kapłanów Lewitów, i do sędziego, który w tym czasie będzie urzędował, i poradzisz się ich, a oni oznajmią ci orzeczenie."
+  tags: []
+"Pwt17,10":
+  text: "I postąpisz zgodnie z orzeczeniem, które ci przekażą na tym miejscu, które PAN wybrał, i pilnie wykonasz wszystko tak, jak cię pouczą."
+  tags: []
+"Pwt17,11":
+  text: "Postąpisz zgodnie z pouczeniem prawa, którego ci udzielą, i zgodnie z rozstrzygnięciem, które ci przekażą. Nie odstąpisz od orzeczenia, które ci oznajmią ani na prawo, ani na lewo."
+  tags: []
+"Pwt17,12":
+  text: "A człowiek, który postąpi zuchwale i nie posłucha kapłana pełniącego tam służbę przed PANEM, twoim Bogiem, lub sędziego, poniesie śmierć. Tak usuniesz to zło z Izraela."
+  tags: []
+"Pwt17,13":
+  text: "A cały lud usłyszy o tym i będzie się bał, i nie postąpi już zuchwale."
+  tags: []
+"Pwt17,14":
+  text: "Gdy wejdziesz do ziemi, którą daje ci PAN, twój Bóg, gdy posiądziesz ją i zamieszkasz w niej, i powiesz sobie: Ustanowię nad sobą króla tak jak wszystkie okoliczne narody;"
+  tags: []
+"Pwt17,15":
+  text: "Tego tylko ustanowisz królem nad sobą, którego PAN, twój Bóg, wybierze. Spośród swoich braci ustanowisz nad sobą króla; nie możesz ustanowić nad sobą cudzoziemca, który nie jest twoim bratem."
+  tags: []
+"Pwt17,16":
+  text: "Tylko niech nie pomnaża sobie koni ani nie prowadzi ludu do Egiptu, aby nabyć wiele koni, ponieważ PAN wam powiedział: Nie wracajcie tą drogą nigdy więcej."
+  tags: []
+"Pwt17,17":
+  text: "Nie będzie też pomnażał sobie żon, aby jego serce się nie odwróciło; niech nie nabywa zbyt wiele srebra i złota."
+  tags: []
+"Pwt17,18":
+  text: "A gdy już zasiądzie na swym królewskim tronie, napisze sobie w księdze odpis tego prawa od kapłanów Lewitów."
+  tags: []
+"Pwt17,19":
+  text: "I będzie go miał przy sobie, i będzie go czytał po wszystkie dni swego życia, aby się nauczył bać PANA, swego Boga, by przestrzegał wszystkich słów tego prawa oraz tych ustaw i aby je wykonywał;"
+  tags: []
+"Pwt17,20":
+  text: "Aby jego serce nie wynosiło się ponad jego braci i żeby nie odstąpił od tego przykazania ani na prawo, ani na lewo, aby żył długo w swoim królestwie, on i jego synowie, pośród Izraela."
+  tags: []

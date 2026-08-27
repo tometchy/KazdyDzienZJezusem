@@ -1,22 +1,66 @@
-"Lm4,1": "א‬ Ach! Jakże ciemnieje złoto, zmieniło się to wyborne złoto! Rozrzucone są kamienie świątyni na szczycie każdej z ulic."
-"Lm4,2": "‫ב‬ Szlachetni synowie Syjonu, cenieni jak czyste złoto. Ach! Jakże zostali poczytani za gliniane dzbany, za dzieło rąk garncarza!"
-"Lm4,3": "‫ג‬ Nawet szakale podsuwają pierś i karmią swoje młode, lecz córka mojego ludu stała się okrutna jak strusie na pustyni."
-"Lm4,4": "‫ד‬ Język ssącego przylgnął do podniebienia z powodu pragnienia, dzieci prosiły o chleb, lecz nie było tego, co go dla nich łamał."
-"Lm4,5": "‫ה‬ Ci, co jadali przysmaki, znaleźli się przerażeni na ulicach. Wychowani w purpurze, grzebią w śmieciach."
-"Lm4,6": "‫ו‬ A większa jest nieprawość córki mojego ludu niż grzech Sodomy, która została obalona w tak krótkiej chwili, choć nie obróciły się na nią ludzkie ręce."
-"Lm4,7": "‫ז‬ Jej nazyrejczycy lśnili bardziej od śniegu, bielili się bardziej od mleka, rumienili się wyraźniej niż perły, byli wypolerowani jak szafir."
-"Lm4,8": "‫ח‬ Lecz pociemniał bardziej niż sadza ich wygląd, nie zostają rozpoznani na ulicach. Ich skóra pomarszczyła się na kościach, wyschła i stała się jak drewno."
-"Lm4,9": "ט‬ Szczęśliwsi byli powaleni mieczem niż powaleni głodem, gdyż ci spłynęli krwią będąc przekłuci ostrzem, a tamci padli przez brak plonów pola."
-"Lm4,10": "‫י‬ Ręce czułych kobiet gotowały własne dzieci. Były ich pokarmem w czasie zagłady córki mojego ludu."
-"Lm4,11": "‫כ‬ Dopełnił JHWH swojego wzburzenia, wylał żar swojego gniewu i rozpalił ogień na Syjonie, który strawił jego fundamenty."
-"Lm4,12": "‫ל‬ Nie uwierzyli królowie ziemi i wszyscy mieszkańcy świata, że przeciwnik i wróg zdoła wkroczyć w bramy Jerozolimy."
-"Lm4,13": "‫מ‬ Z powodu grzechów jej proroków i nieprawości jej kapłanów, którzy przelewali krew sprawiedliwych pośród niej;"
-"Lm4,14": "‫נ‬ Błąkali się jak ślepi po ulicach splugawieni krwią, tak że nie można było dotknąć ich szat."
-"Lm4,15": "‫ס‬ Na bok, nieczyści! – wołali na nich. Na bok, na bok, nie dotykajcie! Chociaż uciekli, nawet tam się tułali; mówiono pośród narodów: Nie mogą już dłużej tam przebywać."
-"Lm4,16": "‫פ‬ Oblicze JHWH rozproszyło ich, nie mogło już dłużej na nich patrzeć! Nie poważali oblicza kapłanów, dla starców nie było litości."
-"Lm4,17": "‫ע‬ Ponadto, ustały nam oczy, daremnie wypatrując dla nas pomocy. W naszej wieży wypatrywaliśmy narodu, który nie był w stanie nas wybawić."
-"Lm4,18": "‫צ‬ Śledzili nasze kroki od wyjścia na nasze place. Zbliżył się nasz kres, wypełniły się nasze dni – tak, nadszedł nasz kres!"
-"Lm4,19": "‫ק‬ Nasi prześladowcy byli szybsi od orłów na niebiosach; ścigali nas po górach i czyhali na nas na pustyni."
-"Lm4,20": "‫ר‬ Dech naszych nozdrzy – pomazaniec JHWH został schwytany w ich doły – o którym mówiliśmy: W jego cieniu będziemy żyć wśród narodów."
-"Lm4,21": "‫ש‬ Raduj się i wesel, córko Edomu, która mieszkasz w ziemi Us; przejdzie też do ciebie kielich, upijesz się i obnażysz."
-"Lm4,22": "‫ת‬ Skończyła się twoja kara za winę, córko Syjonu, nie przedłuży On twojego wygnania. Nawiedzi twoją nieprawość, córko Edomu, i odkryje twoje grzechy."
+"Lm4,1":
+  text: "א‬ Ach! Jakże ciemnieje złoto, zmieniło się to wyborne złoto! Rozrzucone są kamienie świątyni na szczycie każdej z ulic."
+  tags: []
+"Lm4,2":
+  text: "‫ב‬ Szlachetni synowie Syjonu, cenieni jak czyste złoto. Ach! Jakże zostali poczytani za gliniane dzbany, za dzieło rąk garncarza!"
+  tags: []
+"Lm4,3":
+  text: "‫ג‬ Nawet szakale podsuwają pierś i karmią swoje młode, lecz córka mojego ludu stała się okrutna jak strusie na pustyni."
+  tags: []
+"Lm4,4":
+  text: "‫ד‬ Język ssącego przylgnął do podniebienia z powodu pragnienia, dzieci prosiły o chleb, lecz nie było tego, co go dla nich łamał."
+  tags: []
+"Lm4,5":
+  text: "‫ה‬ Ci, co jadali przysmaki, znaleźli się przerażeni na ulicach. Wychowani w purpurze, grzebią w śmieciach."
+  tags: []
+"Lm4,6":
+  text: "‫ו‬ A większa jest nieprawość córki mojego ludu niż grzech Sodomy, która została obalona w tak krótkiej chwili, choć nie obróciły się na nią ludzkie ręce."
+  tags: []
+"Lm4,7":
+  text: "‫ז‬ Jej nazyrejczycy lśnili bardziej od śniegu, bielili się bardziej od mleka, rumienili się wyraźniej niż perły, byli wypolerowani jak szafir."
+  tags: []
+"Lm4,8":
+  text: "‫ח‬ Lecz pociemniał bardziej niż sadza ich wygląd, nie zostają rozpoznani na ulicach. Ich skóra pomarszczyła się na kościach, wyschła i stała się jak drewno."
+  tags: []
+"Lm4,9":
+  text: "ט‬ Szczęśliwsi byli powaleni mieczem niż powaleni głodem, gdyż ci spłynęli krwią będąc przekłuci ostrzem, a tamci padli przez brak plonów pola."
+  tags: []
+"Lm4,10":
+  text: "‫י‬ Ręce czułych kobiet gotowały własne dzieci. Były ich pokarmem w czasie zagłady córki mojego ludu."
+  tags: []
+"Lm4,11":
+  text: "‫כ‬ Dopełnił JHWH swojego wzburzenia, wylał żar swojego gniewu i rozpalił ogień na Syjonie, który strawił jego fundamenty."
+  tags: []
+"Lm4,12":
+  text: "‫ל‬ Nie uwierzyli królowie ziemi i wszyscy mieszkańcy świata, że przeciwnik i wróg zdoła wkroczyć w bramy Jerozolimy."
+  tags: []
+"Lm4,13":
+  text: "‫מ‬ Z powodu grzechów jej proroków i nieprawości jej kapłanów, którzy przelewali krew sprawiedliwych pośród niej;"
+  tags: []
+"Lm4,14":
+  text: "‫נ‬ Błąkali się jak ślepi po ulicach splugawieni krwią, tak że nie można było dotknąć ich szat."
+  tags: []
+"Lm4,15":
+  text: "‫ס‬ Na bok, nieczyści! – wołali na nich. Na bok, na bok, nie dotykajcie! Chociaż uciekli, nawet tam się tułali; mówiono pośród narodów: Nie mogą już dłużej tam przebywać."
+  tags: []
+"Lm4,16":
+  text: "‫פ‬ Oblicze JHWH rozproszyło ich, nie mogło już dłużej na nich patrzeć! Nie poważali oblicza kapłanów, dla starców nie było litości."
+  tags: []
+"Lm4,17":
+  text: "‫ע‬ Ponadto, ustały nam oczy, daremnie wypatrując dla nas pomocy. W naszej wieży wypatrywaliśmy narodu, który nie był w stanie nas wybawić."
+  tags: []
+"Lm4,18":
+  text: "‫צ‬ Śledzili nasze kroki od wyjścia na nasze place. Zbliżył się nasz kres, wypełniły się nasze dni – tak, nadszedł nasz kres!"
+  tags: []
+"Lm4,19":
+  text: "‫ק‬ Nasi prześladowcy byli szybsi od orłów na niebiosach; ścigali nas po górach i czyhali na nas na pustyni."
+  tags: []
+"Lm4,20":
+  text: "‫ר‬ Dech naszych nozdrzy – pomazaniec JHWH został schwytany w ich doły – o którym mówiliśmy: W jego cieniu będziemy żyć wśród narodów."
+  tags: []
+"Lm4,21":
+  text: "‫ש‬ Raduj się i wesel, córko Edomu, która mieszkasz w ziemi Us; przejdzie też do ciebie kielich, upijesz się i obnażysz."
+  tags: []
+"Lm4,22":
+  text: "‫ת‬ Skończyła się twoja kara za winę, córko Syjonu, nie przedłuży On twojego wygnania. Nawiedzi twoją nieprawość, córko Edomu, i odkryje twoje grzechy."
+  tags: []

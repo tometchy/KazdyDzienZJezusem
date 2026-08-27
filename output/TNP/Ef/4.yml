@@ -1,32 +1,96 @@
-"Ef4,1": "Zachęcam was więc ja, więzień w Panu, abyście postępowali w sposób godny powołania, do jakiego zostaliście wezwani,"
-"Ef4,2": "Z całą pokorą i łagodnością, i cierpliwością, znosząc jedni drugich w miłości."
-"Ef4,3": "Gorliwie strzegąc jedności Ducha w spójni pokoju."
-"Ef4,4": "Jedno ciało i jeden Duch, jak też zostaliście wezwani w jednej nadziei waszego powołania."
-"Ef4,5": "Jeden Pan, jedna wiara, jeden chrzest,"
-"Ef4,6": "Jeden Bóg i Ojciec wszystkich, który jest ponad wszystkich, przez wszystkich i we wszystkich was."
-"Ef4,7": "A każdemu z nas z osobna została dana łaska według miary daru Chrystusa."
-"Ef4,8": "Dlatego mówi: Wstępując na wysokość, powiódł za sobą pojmanych jeńców i dał ludziom dary."
-"Ef4,9": "A to, że wstąpił, cóż innego oznacza, jeżeli nie to, że najpierw zstąpił do niższych części ziemi?"
-"Ef4,10": "Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko."
-"Ef4,11": "I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i nauczycieli,"
-"Ef4,12": "Dla przygotowania świętych do dzieła służby, do budowania ciała Chrystusa,"
-"Ef4,13": "Aż wszyscy dojdziemy do jedności wiary i dogłębnego poznania Syna Bożego, do męża doskonałego, do wymiarów pełni dojrzałości Chrystusa."
-"Ef4,14": "Abyśmy więcej nie byli małymi dziećmi, rzucanymi przez fale i unoszonymi każdym wiatrem nauki przez oszustwo ludzkie w metodycznym podstępie wciągania w błąd;"
-"Ef4,15": "Lecz mówiąc prawdę w miłości, wszyscy wrośli w Tego, który jest głową – w Chrystusa,"
-"Ef4,16": "Z którego całe ciało jest właściwie spajane i wiązane wszelkimi wzajemnie zasilającymi się połączeniami, zgodnie z działaniem w stosownej mierze każdej jego części, przyczynia się do wzrostu ciała dla budowania siebie w miłości."
-"Ef4,17": "To więc mówię i świadczę w Panu, abyście już więcej nie postępowali tak, jak pozostali poganie postępują, w próżności swojego umysłu,"
-"Ef4,18": "Ludzie, którzy mają swoje myśli pogrążone w ciemności, będący obcy wobec życia Bożego z powodu będącej w nich niewiedzy, przez zatwardziałość ich serca,"
-"Ef4,19": "Którzy stali się nieczuli, samych siebie oddali rozpuście, czyniąc wszelką nieczystość z butną chciwością."
-"Ef4,20": "Ale wy nie tak nauczyliście się Chrystusa,"
-"Ef4,21": "Jeśli rzeczywiście Go usłyszeliście i w Nim zostaliście nauczeni, jako że prawda jest w Jezusie, że macie,"
-"Ef4,22": "Zewlec z siebie starego człowieka z jego wcześniejszym postępowaniem, który niszczony jest przez zwodnicze pożądliwości,"
-"Ef4,23": "A dawać się odnawiać duchem w waszym umyśle,"
-"Ef4,24": "I przyoblec się w nowego człowieka, który został stworzony według Boga w sprawiedliwości i w świętości prawdy."
-"Ef4,25": "Dlatego, odrzuciwszy kłamstwo, mówcie prawdę każdemu wokół siebie; bo jesteśmy członkami jedni drugich."
-"Ef4,26": "Bądźcie zagniewani, a nie grzeszcie; niech słońce nie zachodzi nad waszym gniewem."
-"Ef4,27": "I nie dawajcie miejsca diabłu."
-"Ef4,28": "Ten, kto kradnie, niech już więcej nie kradnie, a raczej niech się trudzi, wypracowując swoimi rękami dobro, aby miał czym podzielić się z będącym w potrzebie."
-"Ef4,29": "Niech żadne zgniłe słowo nie wychodzi z waszych ust, ale tylko dobre ku zbudowaniu, aby gdy trzeba, niosło życzliwość słuchającym."
-"Ef4,30": "A nie zasmucajcie Ducha Świętego Boga, którym zostaliście zapieczętowani na dzień odkupienia."
-"Ef4,31": "Wszelka gorycz i zapalczywość, i gniew, i wrzask, i bluźnierstwo niech będą odsunięte od was, wraz ze wszelką złością;"
-"Ef4,32": "A stańcie się jedni dla drugich łagodni, miłosierni, przebaczając sobie wzajemnie, tak jak wam Bóg przebaczył w Chrystusie."
+"Ef4,1":
+  text: "Zachęcam was więc ja, więzień w Panu, abyście postępowali w sposób godny powołania, do jakiego zostaliście wezwani,"
+  tags: []
+"Ef4,2":
+  text: "Z całą pokorą i łagodnością, i cierpliwością, znosząc jedni drugich w miłości."
+  tags: []
+"Ef4,3":
+  text: "Gorliwie strzegąc jedności Ducha w spójni pokoju."
+  tags: []
+"Ef4,4":
+  text: "Jedno ciało i jeden Duch, jak też zostaliście wezwani w jednej nadziei waszego powołania."
+  tags: []
+"Ef4,5":
+  text: "Jeden Pan, jedna wiara, jeden chrzest,"
+  tags: []
+"Ef4,6":
+  text: "Jeden Bóg i Ojciec wszystkich, który jest ponad wszystkich, przez wszystkich i we wszystkich was."
+  tags: []
+"Ef4,7":
+  text: "A każdemu z nas z osobna została dana łaska według miary daru Chrystusa."
+  tags: []
+"Ef4,8":
+  text: "Dlatego mówi: Wstępując na wysokość, powiódł za sobą pojmanych jeńców i dał ludziom dary."
+  tags: []
+"Ef4,9":
+  text: "A to, że wstąpił, cóż innego oznacza, jeżeli nie to, że najpierw zstąpił do niższych części ziemi?"
+  tags: []
+"Ef4,10":
+  text: "Ten, który zstąpił, jest Tym samym, który wstąpił wysoko nad wszystkie niebiosa, aby napełnić wszystko."
+  tags: []
+"Ef4,11":
+  text: "I On sam też wyznaczył tych na apostołów, tych na proroków, tych na ewangelistów, a tych na pasterzy i nauczycieli,"
+  tags: []
+"Ef4,12":
+  text: "Dla przygotowania świętych do dzieła służby, do budowania ciała Chrystusa,"
+  tags: []
+"Ef4,13":
+  text: "Aż wszyscy dojdziemy do jedności wiary i dogłębnego poznania Syna Bożego, do męża doskonałego, do wymiarów pełni dojrzałości Chrystusa."
+  tags: []
+"Ef4,14":
+  text: "Abyśmy więcej nie byli małymi dziećmi, rzucanymi przez fale i unoszonymi każdym wiatrem nauki przez oszustwo ludzkie w metodycznym podstępie wciągania w błąd;"
+  tags: []
+"Ef4,15":
+  text: "Lecz mówiąc prawdę w miłości, wszyscy wrośli w Tego, który jest głową – w Chrystusa,"
+  tags: []
+"Ef4,16":
+  text: "Z którego całe ciało jest właściwie spajane i wiązane wszelkimi wzajemnie zasilającymi się połączeniami, zgodnie z działaniem w stosownej mierze każdej jego części, przyczynia się do wzrostu ciała dla budowania siebie w miłości."
+  tags: []
+"Ef4,17":
+  text: "To więc mówię i świadczę w Panu, abyście już więcej nie postępowali tak, jak pozostali poganie postępują, w próżności swojego umysłu,"
+  tags: []
+"Ef4,18":
+  text: "Ludzie, którzy mają swoje myśli pogrążone w ciemności, będący obcy wobec życia Bożego z powodu będącej w nich niewiedzy, przez zatwardziałość ich serca,"
+  tags: []
+"Ef4,19":
+  text: "Którzy stali się nieczuli, samych siebie oddali rozpuście, czyniąc wszelką nieczystość z butną chciwością."
+  tags: []
+"Ef4,20":
+  text: "Ale wy nie tak nauczyliście się Chrystusa,"
+  tags: []
+"Ef4,21":
+  text: "Jeśli rzeczywiście Go usłyszeliście i w Nim zostaliście nauczeni, jako że prawda jest w Jezusie, że macie,"
+  tags: []
+"Ef4,22":
+  text: "Zewlec z siebie starego człowieka z jego wcześniejszym postępowaniem, który niszczony jest przez zwodnicze pożądliwości,"
+  tags: []
+"Ef4,23":
+  text: "A dawać się odnawiać duchem w waszym umyśle,"
+  tags: []
+"Ef4,24":
+  text: "I przyoblec się w nowego człowieka, który został stworzony według Boga w sprawiedliwości i w świętości prawdy."
+  tags: []
+"Ef4,25":
+  text: "Dlatego, odrzuciwszy kłamstwo, mówcie prawdę każdemu wokół siebie; bo jesteśmy członkami jedni drugich."
+  tags: []
+"Ef4,26":
+  text: "Bądźcie zagniewani, a nie grzeszcie; niech słońce nie zachodzi nad waszym gniewem."
+  tags: []
+"Ef4,27":
+  text: "I nie dawajcie miejsca diabłu."
+  tags: []
+"Ef4,28":
+  text: "Ten, kto kradnie, niech już więcej nie kradnie, a raczej niech się trudzi, wypracowując swoimi rękami dobro, aby miał czym podzielić się z będącym w potrzebie."
+  tags: []
+"Ef4,29":
+  text: "Niech żadne zgniłe słowo nie wychodzi z waszych ust, ale tylko dobre ku zbudowaniu, aby gdy trzeba, niosło życzliwość słuchającym."
+  tags: []
+"Ef4,30":
+  text: "A nie zasmucajcie Ducha Świętego Boga, którym zostaliście zapieczętowani na dzień odkupienia."
+  tags: []
+"Ef4,31":
+  text: "Wszelka gorycz i zapalczywość, i gniew, i wrzask, i bluźnierstwo niech będą odsunięte od was, wraz ze wszelką złością;"
+  tags: []
+"Ef4,32":
+  text: "A stańcie się jedni dla drugich łagodni, miłosierni, przebaczając sobie wzajemnie, tak jak wam Bóg przebaczył w Chrystusie."
+  tags: []

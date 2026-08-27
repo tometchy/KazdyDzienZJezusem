@@ -1,13 +1,39 @@
-"Na2,1": "Wyruszył przeciwko tobie ten, który rozprasza. Dopilnuj obronnych miejsc, obserwuj drogę, wzmocnij biodra i utwierdź bardzo mocno siłę."
-"Na2,2": "Bo JHWH przywróci świetność Jakuba, jak świetność Izraela, bo ograbili ich grabieżcy i zniszczyli ich latorośle."
-"Na2,3": "Tarcza jego mocarzy poczerwieniona, jego dzielni mężowie ubrani w purpurę, rydwany skrzą stalą w dniu swojej gotowości, a oszczepy z drzewa jodłowego drgają."
-"Na2,4": "Rydwany szaleją na ulicach i pędzą po rynku; ich wygląd – jak pochodnie, i mkną jak błyskawice."
-"Na2,5": "Wspomniał na swoich przywódców, lecz ci upadną w swoim przemarszu; śpieszy do jej murów, a ich osłona jest gotowa."
-"Na2,6": "Otworzono śluzy rzek i pałac stopniał;"
-"Na2,7": "A ustanowiona jest obnażona i wyprowadzona, a służące jej poganiane, kwilą jak głos gołębi, bijąc się w piersi."
-"Na2,8": "A Niniwa była jak sadzawka wód od dnia jej początku, i one uciekają; i choć mówią: Stójcie, stójcie! Jednak nikt się nie odwraca."
-"Na2,9": "Zrabujcie srebro, zrabujcie złoto, bo nie ma końca bogactwa oraz splendoru wszelkiego drogiego naczynia."
-"Na2,10": "Pustka i pustkowie oraz spustoszenie! Serce w rozpaczy, drżenie kolan i ból po całych biodrach, a oblicza wszystkich przybierają żar podniecenia."
-"Na2,11": "Gdzie jest kryjówka lwów i to żerowisko dla lwiąt? Dokąd zachodził lew i przebywała tam lwica – a nikt ich nie przestraszył?"
-"Na2,12": "Lew już dość narozrywał swoim lwiętom i dusił dla swoich lwic, ponapełniał łupem swoją jamę, a tym, co rozszarpane swoją kryjówkę."
-"Na2,13": "Oto ja jestem przeciwko tobie oświadczenie JHWH Zastępów – i puszczę z dymem jej rydwan, a miecz pożre twoje lwięta; i wytnę z ziemi twój łup, a nie będzie więcej słyszany głos twojego posłańca."
+"Na2,1":
+  text: "Wyruszył przeciwko tobie ten, który rozprasza. Dopilnuj obronnych miejsc, obserwuj drogę, wzmocnij biodra i utwierdź bardzo mocno siłę."
+  tags: []
+"Na2,2":
+  text: "Bo JHWH przywróci świetność Jakuba, jak świetność Izraela, bo ograbili ich grabieżcy i zniszczyli ich latorośle."
+  tags: []
+"Na2,3":
+  text: "Tarcza jego mocarzy poczerwieniona, jego dzielni mężowie ubrani w purpurę, rydwany skrzą stalą w dniu swojej gotowości, a oszczepy z drzewa jodłowego drgają."
+  tags: []
+"Na2,4":
+  text: "Rydwany szaleją na ulicach i pędzą po rynku; ich wygląd – jak pochodnie, i mkną jak błyskawice."
+  tags: []
+"Na2,5":
+  text: "Wspomniał na swoich przywódców, lecz ci upadną w swoim przemarszu; śpieszy do jej murów, a ich osłona jest gotowa."
+  tags: []
+"Na2,6":
+  text: "Otworzono śluzy rzek i pałac stopniał;"
+  tags: []
+"Na2,7":
+  text: "A ustanowiona jest obnażona i wyprowadzona, a służące jej poganiane, kwilą jak głos gołębi, bijąc się w piersi."
+  tags: []
+"Na2,8":
+  text: "A Niniwa była jak sadzawka wód od dnia jej początku, i one uciekają; i choć mówią: Stójcie, stójcie! Jednak nikt się nie odwraca."
+  tags: []
+"Na2,9":
+  text: "Zrabujcie srebro, zrabujcie złoto, bo nie ma końca bogactwa oraz splendoru wszelkiego drogiego naczynia."
+  tags: []
+"Na2,10":
+  text: "Pustka i pustkowie oraz spustoszenie! Serce w rozpaczy, drżenie kolan i ból po całych biodrach, a oblicza wszystkich przybierają żar podniecenia."
+  tags: []
+"Na2,11":
+  text: "Gdzie jest kryjówka lwów i to żerowisko dla lwiąt? Dokąd zachodził lew i przebywała tam lwica – a nikt ich nie przestraszył?"
+  tags: []
+"Na2,12":
+  text: "Lew już dość narozrywał swoim lwiętom i dusił dla swoich lwic, ponapełniał łupem swoją jamę, a tym, co rozszarpane swoją kryjówkę."
+  tags: []
+"Na2,13":
+  text: "Oto ja jestem przeciwko tobie oświadczenie JHWH Zastępów – i puszczę z dymem jej rydwan, a miecz pożre twoje lwięta; i wytnę z ziemi twój łup, a nie będzie więcej słyszany głos twojego posłańca."
+  tags: []

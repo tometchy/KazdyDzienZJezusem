@@ -1,17 +1,51 @@
-"Kpł1,1": "I PAN zawołał do Mojżesza, i powiedział do niego z Namiotu Zgromadzenia:"
-"Kpł1,2": "Przemów do synów Izraela i powiedz im: Jeśli ktoś z was zechce złożyć PANU ofiarę, niech złoży ją z bydła, ze stada albo z trzody."
-"Kpł1,3": "Jeśli jego ofiara całopalna będzie ze stada, niech złoży samca bez skazy. Niech go złoży dobrowolnie przed PANEM u wejścia do Namiotu Zgromadzenia."
-"Kpł1,4": "I położy swą rękę na głowie ofiary całopalnej, a zostanie przyjęta jako przebłaganie za niego."
-"Kpł1,5": "Potem zabije tego cielca przed PANEM. A kapłani, synowie Aarona, ofiarują krew i pokropią tą krwią z wierzchu dokoła ołtarz, który jest przed wejściem do Namiotu Zgromadzenia."
-"Kpł1,6": "I obedrze ofiarę całopalną ze skóry, i pokroi ją na części."
-"Kpł1,7": "Wtedy synowie kapłana Aarona położą ogień na ołtarzu i ułożą drwa na ogniu."
-"Kpł1,8": "Potem kapłani, synowie Aarona, porządnie ułożą te części oraz głowę i tłuszcz na drwach leżących na ogniu na ołtarzu."
-"Kpł1,9": "A jego wnętrzności i nogi obmyje wodą. I kapłan spali to wszystko na ołtarzu. To jest całopalenie, ofiara ogniowa, miła woń dla PANA."
-"Kpł1,10": "A jeśli jego ofiara na całopalenie będzie z trzody, owiec lub kóz, niech weźmie samca bez skazy;"
-"Kpł1,11": "I zabije go obok ołtarza po północnej stronie przed PANEM. A kapłani, synowie Aarona, pokropią jego krwią z wierzchu ołtarz dokoła."
-"Kpł1,12": "Potem pokroi go na części wraz z jego głową i tłuszczem. A kapłan ułoży je porządnie na drwach leżących na ogniu na ołtarzu."
-"Kpł1,13": "Wnętrzności zaś i nogi obmyje wodą. I kapłan weźmie to wszystko, i spali na ołtarzu. To jest całopalenie, ofiara ogniowa, miła woń dla PANA."
-"Kpł1,14": "A jeśli jego ofiara na całopalenie dla PANA będzie z ptactwa, niech weźmie swoją ofiarę z synogarlic albo z młodych gołębi."
-"Kpł1,15": "Kapłan przyniesie go do ołtarza, ukręci mu głowę i spali na ołtarzu, a jego krew wyciśnie na ścianę ołtarza."
-"Kpł1,16": "I usunie wole wraz z jego pierzem i wyrzuci je na popielisko, obok ołtarza po wschodniej stronie;"
-"Kpł1,17": "I naderwie jego skrzydła, ale ich nie oderwie. I kapłan spali to na ołtarzu, na drwach leżących na ogniu. To jest całopalenie, ofiara ogniowa, miła woń dla PANA."
+"Kpł1,1":
+  text: "I PAN zawołał do Mojżesza, i powiedział do niego z Namiotu Zgromadzenia:"
+  tags: []
+"Kpł1,2":
+  text: "Przemów do synów Izraela i powiedz im: Jeśli ktoś z was zechce złożyć PANU ofiarę, niech złoży ją z bydła, ze stada albo z trzody."
+  tags: []
+"Kpł1,3":
+  text: "Jeśli jego ofiara całopalna będzie ze stada, niech złoży samca bez skazy. Niech go złoży dobrowolnie przed PANEM u wejścia do Namiotu Zgromadzenia."
+  tags: []
+"Kpł1,4":
+  text: "I położy swą rękę na głowie ofiary całopalnej, a zostanie przyjęta jako przebłaganie za niego."
+  tags: []
+"Kpł1,5":
+  text: "Potem zabije tego cielca przed PANEM. A kapłani, synowie Aarona, ofiarują krew i pokropią tą krwią z wierzchu dokoła ołtarz, który jest przed wejściem do Namiotu Zgromadzenia."
+  tags: []
+"Kpł1,6":
+  text: "I obedrze ofiarę całopalną ze skóry, i pokroi ją na części."
+  tags: []
+"Kpł1,7":
+  text: "Wtedy synowie kapłana Aarona położą ogień na ołtarzu i ułożą drwa na ogniu."
+  tags: []
+"Kpł1,8":
+  text: "Potem kapłani, synowie Aarona, porządnie ułożą te części oraz głowę i tłuszcz na drwach leżących na ogniu na ołtarzu."
+  tags: []
+"Kpł1,9":
+  text: "A jego wnętrzności i nogi obmyje wodą. I kapłan spali to wszystko na ołtarzu. To jest całopalenie, ofiara ogniowa, miła woń dla PANA."
+  tags: []
+"Kpł1,10":
+  text: "A jeśli jego ofiara na całopalenie będzie z trzody, owiec lub kóz, niech weźmie samca bez skazy;"
+  tags: []
+"Kpł1,11":
+  text: "I zabije go obok ołtarza po północnej stronie przed PANEM. A kapłani, synowie Aarona, pokropią jego krwią z wierzchu ołtarz dokoła."
+  tags: []
+"Kpł1,12":
+  text: "Potem pokroi go na części wraz z jego głową i tłuszczem. A kapłan ułoży je porządnie na drwach leżących na ogniu na ołtarzu."
+  tags: []
+"Kpł1,13":
+  text: "Wnętrzności zaś i nogi obmyje wodą. I kapłan weźmie to wszystko, i spali na ołtarzu. To jest całopalenie, ofiara ogniowa, miła woń dla PANA."
+  tags: []
+"Kpł1,14":
+  text: "A jeśli jego ofiara na całopalenie dla PANA będzie z ptactwa, niech weźmie swoją ofiarę z synogarlic albo z młodych gołębi."
+  tags: []
+"Kpł1,15":
+  text: "Kapłan przyniesie go do ołtarza, ukręci mu głowę i spali na ołtarzu, a jego krew wyciśnie na ścianę ołtarza."
+  tags: []
+"Kpł1,16":
+  text: "I usunie wole wraz z jego pierzem i wyrzuci je na popielisko, obok ołtarza po wschodniej stronie;"
+  tags: []
+"Kpł1,17":
+  text: "I naderwie jego skrzydła, ale ich nie oderwie. I kapłan spali to na ołtarzu, na drwach leżących na ogniu. To jest całopalenie, ofiara ogniowa, miła woń dla PANA."
+  tags: []

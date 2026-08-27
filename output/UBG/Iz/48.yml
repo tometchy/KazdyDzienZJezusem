@@ -1,22 +1,66 @@
-"Iz48,1": "Słuchajcie tego, domu Jakuba, którzy jesteście nazywani imieniem Izraela i pochodzicie z wód Judy, którzy przysięgacie na imię PANA i wspominacie Boga Izraela, ale nie w prawdzie ani w sprawiedliwości;"
-"Iz48,2": "Nazywacie się od miasta świętego i opieracie się na Bogu Izraela, jego imię to PAN zastępów."
-"Iz48,3": "Rzeczy przeszłe zapowiadałem od dawna, z moich ust wyszły i ogłaszałem je, wykonywałem je od razu i nastąpiły."
-"Iz48,4": "Ponieważ wiedziałem, że jesteś uparty i że twoja szyja jest ścięgnem żelaznym, a twoje czoło – miedziane;"
-"Iz48,5": "Oznajmiałem ci od dawna, ogłosiłem to, zanim nastąpiło, abyś nie powiedział: Mój bożek to uczynił, mój rzeźbiony posąg i mój odlewany posąg to nakazał."
-"Iz48,6": "Słyszałeś o tym, spójrz na to wszystko. Czy wy tego nie opowiecie? Teraz już ogłaszam nowe i tajemne rzeczy, o których nie wiedziałeś."
-"Iz48,7": "Teraz są stworzone, a nie od dawna, rzeczy, o których przed tym dniem nic nie słyszałeś, byś nie powiedział: Oto wiedziałem o tym."
-"Iz48,8": "Ani nie słyszałeś, ani nie wiedziałeś, ani twoje ucho nie było otwarte w tym czasie, bo wiedziałem, że postąpisz przewrotnie i że nazwano cię przestępcą od łona matki."
-"Iz48,9": "Ze względu na moje imię powściągam swój gniew i ze względu na moją chwałę powstrzymam swój gniew na ciebie, aby cię nie wytępić."
-"Iz48,10": "Oto wytapiałem cię, ale nie jak srebro; wybrałem cię w piecu utrapienia."
-"Iz48,11": "Ze względu na siebie, na siebie samego, to uczynię, bo jakże miałoby być splugawione moje imię? Przecież mojej chwały nie oddam innemu."
-"Iz48,12": "Słuchaj mnie, Jakubie i Izraelu, mój wezwany: Ja jestem, ja jestem pierwszy i ja jestem ostatni."
-"Iz48,13": "To moja ręka założyła ziemię i moja prawica zmierzyła niebiosa. Gdy na nie zawołam, zaraz staną."
-"Iz48,14": "Zbierzcie się wszyscy i słuchajcie. Któż spośród nich to opowiedział? PAN go umiłował, on wykona jego wolę na Babilonie i jego ramię będzie przeciw Chaldejczykom."
-"Iz48,15": "Ja, ja mówiłem i ja go wezwałem; przyprowadziłem go i powiedzie mu się jego droga."
-"Iz48,16": "Zbliżcie się do mnie i słuchajcie tego; od początku nie mówiłem w skrytości; ale od tego czasu, kiedy to się działo, tam byłem. A teraz Pan BÓG posłał mnie, i jego Duch."
-"Iz48,17": "Tak mówi PAN, twój Odkupiciel, Święty Izraela: Ja jestem PANEM, twoim Bogiem, który cię uczy tego, co jest pożyteczne, i prowadzi cię drogą, którą masz chodzić."
-"Iz48,18": "O gdybyś zważał na moje przykazania, twój pokój byłby jak rzeka i twoja sprawiedliwość jak fale morskie."
-"Iz48,19": "Twoje potomstwo byłoby jak piasek i płód twego łona jak jego ziarnko; jego imię nie zostałoby wytępione ani zgładzone sprzed mego oblicza."
-"Iz48,20": "Wyjdźcie z Babilonu, uciekajcie od Chaldejczyków. Głosem śpiewu to obwieszczajcie, rozgłaszajcie to, zwiastujcie to aż do krańców ziemi; mówcie: PAN odkupił swego sługę Jakuba."
-"Iz48,21": "Nie zaznali pragnienia, gdy ich prowadził przez pustynię. Sprawił, że wody trysnęły dla nich ze skał. Rozszczepił skałę i wypłynęły wody."
-"Iz48,22": "Nie ma pokoju dla niegodziwych, mówi PAN."
+"Iz48,1":
+  text: "Słuchajcie tego, domu Jakuba, którzy jesteście nazywani imieniem Izraela i pochodzicie z wód Judy, którzy przysięgacie na imię PANA i wspominacie Boga Izraela, ale nie w prawdzie ani w sprawiedliwości;"
+  tags: []
+"Iz48,2":
+  text: "Nazywacie się od miasta świętego i opieracie się na Bogu Izraela, jego imię to PAN zastępów."
+  tags: []
+"Iz48,3":
+  text: "Rzeczy przeszłe zapowiadałem od dawna, z moich ust wyszły i ogłaszałem je, wykonywałem je od razu i nastąpiły."
+  tags: []
+"Iz48,4":
+  text: "Ponieważ wiedziałem, że jesteś uparty i że twoja szyja jest ścięgnem żelaznym, a twoje czoło – miedziane;"
+  tags: []
+"Iz48,5":
+  text: "Oznajmiałem ci od dawna, ogłosiłem to, zanim nastąpiło, abyś nie powiedział: Mój bożek to uczynił, mój rzeźbiony posąg i mój odlewany posąg to nakazał."
+  tags: []
+"Iz48,6":
+  text: "Słyszałeś o tym, spójrz na to wszystko. Czy wy tego nie opowiecie? Teraz już ogłaszam nowe i tajemne rzeczy, o których nie wiedziałeś."
+  tags: []
+"Iz48,7":
+  text: "Teraz są stworzone, a nie od dawna, rzeczy, o których przed tym dniem nic nie słyszałeś, byś nie powiedział: Oto wiedziałem o tym."
+  tags: []
+"Iz48,8":
+  text: "Ani nie słyszałeś, ani nie wiedziałeś, ani twoje ucho nie było otwarte w tym czasie, bo wiedziałem, że postąpisz przewrotnie i że nazwano cię przestępcą od łona matki."
+  tags: []
+"Iz48,9":
+  text: "Ze względu na moje imię powściągam swój gniew i ze względu na moją chwałę powstrzymam swój gniew na ciebie, aby cię nie wytępić."
+  tags: []
+"Iz48,10":
+  text: "Oto wytapiałem cię, ale nie jak srebro; wybrałem cię w piecu utrapienia."
+  tags: []
+"Iz48,11":
+  text: "Ze względu na siebie, na siebie samego, to uczynię, bo jakże miałoby być splugawione moje imię? Przecież mojej chwały nie oddam innemu."
+  tags: []
+"Iz48,12":
+  text: "Słuchaj mnie, Jakubie i Izraelu, mój wezwany: Ja jestem, ja jestem pierwszy i ja jestem ostatni."
+  tags: []
+"Iz48,13":
+  text: "To moja ręka założyła ziemię i moja prawica zmierzyła niebiosa. Gdy na nie zawołam, zaraz staną."
+  tags: []
+"Iz48,14":
+  text: "Zbierzcie się wszyscy i słuchajcie. Któż spośród nich to opowiedział? PAN go umiłował, on wykona jego wolę na Babilonie i jego ramię będzie przeciw Chaldejczykom."
+  tags: []
+"Iz48,15":
+  text: "Ja, ja mówiłem i ja go wezwałem; przyprowadziłem go i powiedzie mu się jego droga."
+  tags: []
+"Iz48,16":
+  text: "Zbliżcie się do mnie i słuchajcie tego; od początku nie mówiłem w skrytości; ale od tego czasu, kiedy to się działo, tam byłem. A teraz Pan BÓG posłał mnie, i jego Duch."
+  tags: []
+"Iz48,17":
+  text: "Tak mówi PAN, twój Odkupiciel, Święty Izraela: Ja jestem PANEM, twoim Bogiem, który cię uczy tego, co jest pożyteczne, i prowadzi cię drogą, którą masz chodzić."
+  tags: []
+"Iz48,18":
+  text: "O gdybyś zważał na moje przykazania, twój pokój byłby jak rzeka i twoja sprawiedliwość jak fale morskie."
+  tags: []
+"Iz48,19":
+  text: "Twoje potomstwo byłoby jak piasek i płód twego łona jak jego ziarnko; jego imię nie zostałoby wytępione ani zgładzone sprzed mego oblicza."
+  tags: []
+"Iz48,20":
+  text: "Wyjdźcie z Babilonu, uciekajcie od Chaldejczyków. Głosem śpiewu to obwieszczajcie, rozgłaszajcie to, zwiastujcie to aż do krańców ziemi; mówcie: PAN odkupił swego sługę Jakuba."
+  tags: []
+"Iz48,21":
+  text: "Nie zaznali pragnienia, gdy ich prowadził przez pustynię. Sprawił, że wody trysnęły dla nich ze skał. Rozszczepił skałę i wypłynęły wody."
+  tags: []
+"Iz48,22":
+  text: "Nie ma pokoju dla niegodziwych, mówi PAN."
+  tags: []

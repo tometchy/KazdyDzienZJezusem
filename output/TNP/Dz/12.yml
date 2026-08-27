@@ -1,25 +1,75 @@
-"Dz12,1": "A w tym czasie, król Herod podniósł rękę, aby wyrządzić zło niektórym ze zboru,"
-"Dz12,2": "A Jakuba, brata Jana, zgładził mieczem."
-"Dz12,3": "I widząc, że podobało się to Żydom, posunął się dalej i pojmał także Piotra; a były to dni Przaśników;"
-"Dz12,4": "A po schwytaniu, umieścił go w więzieniu, przekazując czterem czwórkom żołnierzy, aby go strzegli, chcąc po święcie Paschy wyprowadzić go ludowi."
-"Dz12,5": "Strzeżono więc pilnie Piotra w więzieniu, a zbór zanosił żarliwą modlitwę za nim do Boga."
-"Dz12,6": "A gdy Herod zamierzał go wyprowadzić na stracenie, Piotr spał tej nocy między dwoma żołnierzami, związany dwoma łańcuchami, strażnicy także strzegli więzienia przed drzwiami."
-"Dz12,7": "I oto anioł PANA stanął przy nim, a światłość zajaśniała w celi; i trącił Piotra w bok, obudził go, mówiąc: Wstań szybko! I opadły łańcuchy z jego rąk."
-"Dz12,8": "I anioł też powiedział do niego: Opasz się i podwiąż swoje sandały. I uczynił tak. I rzekł mu: Narzuć na siebie swój płaszcz i podążaj za mną."
-"Dz12,9": "I gdy wyszedł, podążał za nim, a nie wiedział, że prawdą jest to, co się działo za sprawą anioła, lecz uważał, że ogląda widzenie."
-"Dz12,10": "A po przejściu obok pierwszej i drugiej straży, doszli do żelaznej bramy wiodącej do miasta, która samorzutnie im się otworzyła. I gdy wyszli, poszli dalej o jedną ulicę, i zaraz odstąpił anioł od niego."
-"Dz12,11": "A gdy Piotr doszedł do siebie, powiedział: Teraz prawdziwie wiem, że PAN posłał swojego anioła i wyrwał mnie z ręki Heroda i ze wszystkiego, czego oczekiwał lud żydowski."
-"Dz12,12": "I gdy to sobie uświadomił, przyszedł do domu Marii, matki Jana, którego nazywano Markiem, gdzie było wielu zgromadzonych i modlących się."
-"Dz12,13": "A gdy Piotr zapukał do drzwi bramy, wyszła służąca o imieniu Rode, aby posłuchać;"
-"Dz12,14": "I gdy rozpoznała głos Piotra, z radości nie otworzyła bramy, ale wbiegła i oznajmiła, że Piotr stoi przed bramą."
-"Dz12,15": "A oni powiedzieli do niej: Szalejesz! Ona natomiast twierdziła stanowczo, że tak jest. A oni mówili: To jest jego anioł."
-"Dz12,16": "Ale Piotr nie przestawał pukać; a gdy otworzyli, widząc go, zdumieli się."
-"Dz12,17": "I dał im znak ręką, aby umilkli; opowiedział im, jak go Pan wyprowadził z więzienia i powiedział: Oznajmijcie to Jakubowi i braciom. A gdy wyszedł, udał się na inne miejsce."
-"Dz12,18": "A gdy nastał dzień, niemały zamęt powstał wśród żołnierzy, co mianowicie stało się z Piotrem."
-"Dz12,19": "Herod więc przeprowadził poszukiwania, a ponieważ go nie znalazł, osądził strażników i kazał ich odprowadzić do więzienia; a gdy zszedł z Judei do Cezarei, tam przebywał."
-"Dz12,20": "A Herod toczył zacięty spór z mieszkańcami Tyru i Sydonu; więc oni jednomyślnie przyszli do niego, po przekonaniu Blasta, mającego nadzór nad sypialnią króla, prosili o pokój, dlatego że kraina ich pobierała żywność z ziemi królewskiej."
-"Dz12,21": "A wyznaczonego dnia Herod odział się w szatę królewską i usiadł na sędziowskim tronie, i przemawiał do nich publicznie."
-"Dz12,22": "A lud wykrzykiwał: To głos Boga, a nie człowieka."
-"Dz12,23": "I natychmiast uderzył go anioł PANA, za to, że nie oddał chwały Bogu; potem stoczony przez robactwo, oddał ostatnie tchnienie."
-"Dz12,24": "A Słowo Boże rosło i pomnażało się."
-"Dz12,25": "A Barnaba i Saul, po wypełnieniu posłannictwa, wrócili z Jerozolimy, biorąc ze sobą także Jana, którego nazywano Markiem."
+"Dz12,1":
+  text: "A w tym czasie, król Herod podniósł rękę, aby wyrządzić zło niektórym ze zboru,"
+  tags: []
+"Dz12,2":
+  text: "A Jakuba, brata Jana, zgładził mieczem."
+  tags: []
+"Dz12,3":
+  text: "I widząc, że podobało się to Żydom, posunął się dalej i pojmał także Piotra; a były to dni Przaśników;"
+  tags: []
+"Dz12,4":
+  text: "A po schwytaniu, umieścił go w więzieniu, przekazując czterem czwórkom żołnierzy, aby go strzegli, chcąc po święcie Paschy wyprowadzić go ludowi."
+  tags: []
+"Dz12,5":
+  text: "Strzeżono więc pilnie Piotra w więzieniu, a zbór zanosił żarliwą modlitwę za nim do Boga."
+  tags: []
+"Dz12,6":
+  text: "A gdy Herod zamierzał go wyprowadzić na stracenie, Piotr spał tej nocy między dwoma żołnierzami, związany dwoma łańcuchami, strażnicy także strzegli więzienia przed drzwiami."
+  tags: []
+"Dz12,7":
+  text: "I oto anioł PANA stanął przy nim, a światłość zajaśniała w celi; i trącił Piotra w bok, obudził go, mówiąc: Wstań szybko! I opadły łańcuchy z jego rąk."
+  tags: []
+"Dz12,8":
+  text: "I anioł też powiedział do niego: Opasz się i podwiąż swoje sandały. I uczynił tak. I rzekł mu: Narzuć na siebie swój płaszcz i podążaj za mną."
+  tags: []
+"Dz12,9":
+  text: "I gdy wyszedł, podążał za nim, a nie wiedział, że prawdą jest to, co się działo za sprawą anioła, lecz uważał, że ogląda widzenie."
+  tags: []
+"Dz12,10":
+  text: "A po przejściu obok pierwszej i drugiej straży, doszli do żelaznej bramy wiodącej do miasta, która samorzutnie im się otworzyła. I gdy wyszli, poszli dalej o jedną ulicę, i zaraz odstąpił anioł od niego."
+  tags: []
+"Dz12,11":
+  text: "A gdy Piotr doszedł do siebie, powiedział: Teraz prawdziwie wiem, że PAN posłał swojego anioła i wyrwał mnie z ręki Heroda i ze wszystkiego, czego oczekiwał lud żydowski."
+  tags: []
+"Dz12,12":
+  text: "I gdy to sobie uświadomił, przyszedł do domu Marii, matki Jana, którego nazywano Markiem, gdzie było wielu zgromadzonych i modlących się."
+  tags: []
+"Dz12,13":
+  text: "A gdy Piotr zapukał do drzwi bramy, wyszła służąca o imieniu Rode, aby posłuchać;"
+  tags: []
+"Dz12,14":
+  text: "I gdy rozpoznała głos Piotra, z radości nie otworzyła bramy, ale wbiegła i oznajmiła, że Piotr stoi przed bramą."
+  tags: []
+"Dz12,15":
+  text: "A oni powiedzieli do niej: Szalejesz! Ona natomiast twierdziła stanowczo, że tak jest. A oni mówili: To jest jego anioł."
+  tags: []
+"Dz12,16":
+  text: "Ale Piotr nie przestawał pukać; a gdy otworzyli, widząc go, zdumieli się."
+  tags: []
+"Dz12,17":
+  text: "I dał im znak ręką, aby umilkli; opowiedział im, jak go Pan wyprowadził z więzienia i powiedział: Oznajmijcie to Jakubowi i braciom. A gdy wyszedł, udał się na inne miejsce."
+  tags: []
+"Dz12,18":
+  text: "A gdy nastał dzień, niemały zamęt powstał wśród żołnierzy, co mianowicie stało się z Piotrem."
+  tags: []
+"Dz12,19":
+  text: "Herod więc przeprowadził poszukiwania, a ponieważ go nie znalazł, osądził strażników i kazał ich odprowadzić do więzienia; a gdy zszedł z Judei do Cezarei, tam przebywał."
+  tags: []
+"Dz12,20":
+  text: "A Herod toczył zacięty spór z mieszkańcami Tyru i Sydonu; więc oni jednomyślnie przyszli do niego, po przekonaniu Blasta, mającego nadzór nad sypialnią króla, prosili o pokój, dlatego że kraina ich pobierała żywność z ziemi królewskiej."
+  tags: []
+"Dz12,21":
+  text: "A wyznaczonego dnia Herod odział się w szatę królewską i usiadł na sędziowskim tronie, i przemawiał do nich publicznie."
+  tags: []
+"Dz12,22":
+  text: "A lud wykrzykiwał: To głos Boga, a nie człowieka."
+  tags: []
+"Dz12,23":
+  text: "I natychmiast uderzył go anioł PANA, za to, że nie oddał chwały Bogu; potem stoczony przez robactwo, oddał ostatnie tchnienie."
+  tags: []
+"Dz12,24":
+  text: "A Słowo Boże rosło i pomnażało się."
+  tags: []
+"Dz12,25":
+  text: "A Barnaba i Saul, po wypełnieniu posłannictwa, wrócili z Jerozolimy, biorąc ze sobą także Jana, którego nazywano Markiem."
+  tags: []

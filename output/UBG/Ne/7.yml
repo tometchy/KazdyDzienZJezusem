@@ -1,73 +1,219 @@
-"Ne7,1": "A gdy mur został odbudowany i wstawiłem wrota, gdy ustanowiono odźwiernych, śpiewaków i Lewitów;"
-"Ne7,2": "Nad Jerozolimą postawiłem Chananiego, swojego brata, a Chananiasza ustanowiłem dowódcą pałacu. On bowiem był wiernym człowiekiem i bał się Boga bardziej niż wielu innych;"
-"Ne7,3": "I powiedziałem do nich: Niech nie otwierają bram Jerozolimy, aż słońce będzie dopiekać; a póki tam stoją, niech zamkną bramy i zaryglują je. Należy ustanowić straż spośród mieszkańców Jerozolimy, każdego na jego posterunku i każdego naprzeciwko własnego domu."
-"Ne7,4": "A miasto było przestronne i wielkie, ale ludu w jego murach było niewiele, a domy jeszcze nie zostały odbudowane."
-"Ne7,5": "I mój Bóg położył mi na sercu, abym zebrał dostojników, przełożonych i lud, aby zostali spisani według rodowodów. Wtedy znalazłem księgę rodowodów tych, którzy pierwsi powrócili, a znalazłem w niej taki zapis."
-"Ne7,6": "Oto ludzie tej prowincji, którzy przybyli z niewoli, dokąd zostali uprowadzeni, których uprowadził Nabuchodonozor, król Babilonu, a powrócili do Jerozolimy i do Judy, każdy do swego miasta."
-"Ne7,7": "Przyszli z Zorobabelem, z Jeszuą, Nehemiaszem, Azariaszem, Raamiaszem, Nachamanim, Mardocheuszem, Bilszanem, Misperetem, Bigwajem, Nechumem i Baaną. Oto liczba mężczyzn ludu Izraela:"
-"Ne7,8": "Synów Parosza – dwa tysiące stu siedemdziesięciu dwóch;"
-"Ne7,9": "Synów Szefatiasza – trzystu siedemdziesięciu dwóch;"
-"Ne7,10": "Synów Aracha – sześciuset pięćdziesięciu dwóch;"
-"Ne7,11": "Synów Pachat-Moaba, synów Jeszuy i Joaba – dwa tysiące ośmiuset osiemnastu;"
-"Ne7,12": "Synów Elama – tysiąc dwustu pięćdziesięciu czterech;"
-"Ne7,13": "Synów Zattua – ośmiuset czterdziestu pięciu;"
-"Ne7,14": "Synów Zakkaja – siedmiuset sześćdziesięciu;"
-"Ne7,15": "Synów Binnuja – sześciuset czterdziestu ośmiu;"
-"Ne7,16": "Synów Bebaja – sześciuset dwudziestu ośmiu;"
-"Ne7,17": "Synów Azgada – dwa tysiące trzystu dwudziestu dwóch;"
-"Ne7,18": "Synów Adonikama – sześciuset sześćdziesięciu siedmiu;"
-"Ne7,19": "Synów Bigwaja – dwa tysiące sześćdziesięciu siedmiu;"
-"Ne7,20": "Synów Adina – sześciuset pięćdziesięciu pięciu;"
-"Ne7,21": "Synów Atera, z linii Ezechiasza – dziewięćdziesięciu ośmiu;"
-"Ne7,22": "Synów Chaszuma – trzystu dwudziestu ośmiu;"
-"Ne7,23": "Synów Besaja – trzystu dwudziestu czterech;"
-"Ne7,24": "Synów Charifa – stu dwunastu;"
-"Ne7,25": "Synów z Gibeonu – dziewięćdziesięciu pięciu."
-"Ne7,26": "Mężczyzn z Betlejem i Netofy – stu osiemdziesięciu ośmiu;"
-"Ne7,27": "Mężczyzn z Anatot – stu dwudziestu ośmiu;"
-"Ne7,28": "Mężczyzn z Bet-Azmawet – czterdziestu dwóch;"
-"Ne7,29": "Mężczyzn z Kiriat-Jearim, Kefiry i Beerot – siedmiuset czterdziestu trzech;"
-"Ne7,30": "Mężczyzn z Rama i Geba – sześciuset dwudziestu jeden;"
-"Ne7,31": "Mężczyzn z Mikmas – stu dwudziestu dwóch;"
-"Ne7,32": "Mężczyzn z Betel i Aj – stu dwudziestu i trzech;"
-"Ne7,33": "Mężczyzn z drugiego Nebo – pięćdziesięciu dwóch;"
-"Ne7,34": "Synów drugiego Elama – tysiąc dwustu pięćdziesięciu czterech;"
-"Ne7,35": "Synów Charima – trzystu dwudziestu;"
-"Ne7,36": "Synów Jerycha – trzystu czterdziestu pięciu;"
-"Ne7,37": "Synów z Lod, Chadida i Ono – siedmiuset dwudziestu jeden;"
-"Ne7,38": "Synów Senai – trzy tysiące dziewięciuset trzydziestu."
-"Ne7,39": "Kapłani: synów Jedajasza, z domu Jeszuy – dziewięciuset siedemdziesięciu trzech;"
-"Ne7,40": "Synów Immera – tysiąc pięćdziesięciu dwóch;"
-"Ne7,41": "Synów Paszchura – tysiąc dwustu czterdziestu siedmiu;"
-"Ne7,42": "Synów Charima – tysiąc siedemnastu."
-"Ne7,43": "Lewici: synów Jeszuy, Kadmiela, z synów Hodwy – siedemdziesięciu czterech."
-"Ne7,44": "Śpiewacy: synów Asafa – stu czterdziestu ośmiu."
-"Ne7,45": "Odźwiernych: synów Szalluma, synów Atera, synów Talmona, synów Akkuba, synów Chatity, synów Szobaja – stu trzydziestu ośmiu."
-"Ne7,46": "Netinici: synowie Sichy, synowie Chaszufy, synowie Tabbaota;"
-"Ne7,47": "Synowie Kerosa, synowie Sii, synowie Padona;"
-"Ne7,48": "Synowie Lebana, synowie Chagaby, synowie Szalmaja;"
-"Ne7,49": "Synowie Chanana, synowie Giddela, synowie Gachara;"
-"Ne7,50": "Synowie Reajasza, synowie Resina, synowie Nekody;"
-"Ne7,51": "Synowie Gazzama, synowie Uzzy, synowie Paseacha;"
-"Ne7,52": "Synowie Besaja, synowie Meunitów, synowie Nefisytów;"
-"Ne7,53": "Synowie Bakbuka, synowie Chakufy, synowie Charchura;"
-"Ne7,54": "Synowie Baslita, synowie Mechidy, synowie Charszy;"
-"Ne7,55": "Synowie Barkosa, synowie Sisery, synowie Tamacha;"
-"Ne7,56": "Synowie Nesjacha, synowie Chatify;"
-"Ne7,57": "Synowie sług Salomona: synowie Sotaja, synowie Sofereta, synowie Peridy;"
-"Ne7,58": "Synowie Jaali, synowie Darkona, synowie Giddela;"
-"Ne7,59": "Synowie Szefatiasza, synowie Chattila, synowie Pocheret-Hassebaima, synowie Amona."
-"Ne7,60": "Wszystkich Netinitów i synów sług Salomona – trzystu dziewięćdziesięciu dwóch."
-"Ne7,61": "A oto ci, którzy przybyli z Tel-Melach, Tel-Charsza, Kerub, Addan i Immer, ale nie mogli wykazać domu swoich ojców i swego potomstwa – tego, czy pochodzą z Izraela."
-"Ne7,62": "Synów Delajasza, synów Tobiasza, synów Nekody – sześciuset czterdziestu dwóch."
-"Ne7,63": "A z kapłanów: synowie Chobajasza, synowie Kosa, synowie Barzillaja, który pojął za żonę jedną z córek Barzillaja Gileadczyka i przybrał ich imię."
-"Ne7,64": "Ci szukali swego spisu według rodowodu, ale nie znaleźli, toteż zostali wykluczeni z kapłaństwa."
-"Ne7,65": "Tirszata zakazał im spożywać z pokarmów najświętszych, dopóki nie pojawi się kapłan z Urim i Tummim."
-"Ne7,66": "Całe to zgromadzenie liczyło czterdzieści dwa tysiące trzysta sześćdziesiąt osób;"
-"Ne7,67": "Nie licząc ich sług i służących, których było siedem tysięcy trzysta trzydzieścioro siedmioro. A wśród nich było dwieście czterdzieścioro pięcioro śpiewaków i śpiewaczek."
-"Ne7,68": "Ich koni – siedemset trzydzieści sześć. Ich mułów – dwieście czterdzieści pięć."
-"Ne7,69": "Wielbłądów – czterysta trzydzieści pięć. Osłów – sześć tysięcy siedemset dwadzieścia."
-"Ne7,70": "A niektórzy z naczelników rodów dali na prace. Tirszata dał do skarbca tysiąc drachm złota, pięćdziesiąt czasz i pięćset trzydzieści szat kapłańskich."
-"Ne7,71": "Niektórzy też z przedniejszych rodów dali do skarbca na pracę dwadzieścia tysięcy drachm złota i dwa tysiące dwieście min srebra."
-"Ne7,72": "A to, co dała reszta ludu, wynosiło dwadzieścia tysięcy drachm złota, dwa tysiące min srebra i sześćdziesiąt siedem szat kapłańskich."
-"Ne7,73": "Tak więc kapłani, Lewici, odźwierni, śpiewacy, część ludu, Netinici i cały Izrael osiedlili się w swoich miastach. A gdy nastał siódmy miesiąc, synowie Izraela mieszkali w swoich miastach."
+"Ne7,1":
+  text: "A gdy mur został odbudowany i wstawiłem wrota, gdy ustanowiono odźwiernych, śpiewaków i Lewitów;"
+  tags: []
+"Ne7,2":
+  text: "Nad Jerozolimą postawiłem Chananiego, swojego brata, a Chananiasza ustanowiłem dowódcą pałacu. On bowiem był wiernym człowiekiem i bał się Boga bardziej niż wielu innych;"
+  tags: []
+"Ne7,3":
+  text: "I powiedziałem do nich: Niech nie otwierają bram Jerozolimy, aż słońce będzie dopiekać; a póki tam stoją, niech zamkną bramy i zaryglują je. Należy ustanowić straż spośród mieszkańców Jerozolimy, każdego na jego posterunku i każdego naprzeciwko własnego domu."
+  tags: []
+"Ne7,4":
+  text: "A miasto było przestronne i wielkie, ale ludu w jego murach było niewiele, a domy jeszcze nie zostały odbudowane."
+  tags: []
+"Ne7,5":
+  text: "I mój Bóg położył mi na sercu, abym zebrał dostojników, przełożonych i lud, aby zostali spisani według rodowodów. Wtedy znalazłem księgę rodowodów tych, którzy pierwsi powrócili, a znalazłem w niej taki zapis."
+  tags: []
+"Ne7,6":
+  text: "Oto ludzie tej prowincji, którzy przybyli z niewoli, dokąd zostali uprowadzeni, których uprowadził Nabuchodonozor, król Babilonu, a powrócili do Jerozolimy i do Judy, każdy do swego miasta."
+  tags: []
+"Ne7,7":
+  text: "Przyszli z Zorobabelem, z Jeszuą, Nehemiaszem, Azariaszem, Raamiaszem, Nachamanim, Mardocheuszem, Bilszanem, Misperetem, Bigwajem, Nechumem i Baaną. Oto liczba mężczyzn ludu Izraela:"
+  tags: []
+"Ne7,8":
+  text: "Synów Parosza – dwa tysiące stu siedemdziesięciu dwóch;"
+  tags: []
+"Ne7,9":
+  text: "Synów Szefatiasza – trzystu siedemdziesięciu dwóch;"
+  tags: []
+"Ne7,10":
+  text: "Synów Aracha – sześciuset pięćdziesięciu dwóch;"
+  tags: []
+"Ne7,11":
+  text: "Synów Pachat-Moaba, synów Jeszuy i Joaba – dwa tysiące ośmiuset osiemnastu;"
+  tags: []
+"Ne7,12":
+  text: "Synów Elama – tysiąc dwustu pięćdziesięciu czterech;"
+  tags: []
+"Ne7,13":
+  text: "Synów Zattua – ośmiuset czterdziestu pięciu;"
+  tags: []
+"Ne7,14":
+  text: "Synów Zakkaja – siedmiuset sześćdziesięciu;"
+  tags: []
+"Ne7,15":
+  text: "Synów Binnuja – sześciuset czterdziestu ośmiu;"
+  tags: []
+"Ne7,16":
+  text: "Synów Bebaja – sześciuset dwudziestu ośmiu;"
+  tags: []
+"Ne7,17":
+  text: "Synów Azgada – dwa tysiące trzystu dwudziestu dwóch;"
+  tags: []
+"Ne7,18":
+  text: "Synów Adonikama – sześciuset sześćdziesięciu siedmiu;"
+  tags: []
+"Ne7,19":
+  text: "Synów Bigwaja – dwa tysiące sześćdziesięciu siedmiu;"
+  tags: []
+"Ne7,20":
+  text: "Synów Adina – sześciuset pięćdziesięciu pięciu;"
+  tags: []
+"Ne7,21":
+  text: "Synów Atera, z linii Ezechiasza – dziewięćdziesięciu ośmiu;"
+  tags: []
+"Ne7,22":
+  text: "Synów Chaszuma – trzystu dwudziestu ośmiu;"
+  tags: []
+"Ne7,23":
+  text: "Synów Besaja – trzystu dwudziestu czterech;"
+  tags: []
+"Ne7,24":
+  text: "Synów Charifa – stu dwunastu;"
+  tags: []
+"Ne7,25":
+  text: "Synów z Gibeonu – dziewięćdziesięciu pięciu."
+  tags: []
+"Ne7,26":
+  text: "Mężczyzn z Betlejem i Netofy – stu osiemdziesięciu ośmiu;"
+  tags: []
+"Ne7,27":
+  text: "Mężczyzn z Anatot – stu dwudziestu ośmiu;"
+  tags: []
+"Ne7,28":
+  text: "Mężczyzn z Bet-Azmawet – czterdziestu dwóch;"
+  tags: []
+"Ne7,29":
+  text: "Mężczyzn z Kiriat-Jearim, Kefiry i Beerot – siedmiuset czterdziestu trzech;"
+  tags: []
+"Ne7,30":
+  text: "Mężczyzn z Rama i Geba – sześciuset dwudziestu jeden;"
+  tags: []
+"Ne7,31":
+  text: "Mężczyzn z Mikmas – stu dwudziestu dwóch;"
+  tags: []
+"Ne7,32":
+  text: "Mężczyzn z Betel i Aj – stu dwudziestu i trzech;"
+  tags: []
+"Ne7,33":
+  text: "Mężczyzn z drugiego Nebo – pięćdziesięciu dwóch;"
+  tags: []
+"Ne7,34":
+  text: "Synów drugiego Elama – tysiąc dwustu pięćdziesięciu czterech;"
+  tags: []
+"Ne7,35":
+  text: "Synów Charima – trzystu dwudziestu;"
+  tags: []
+"Ne7,36":
+  text: "Synów Jerycha – trzystu czterdziestu pięciu;"
+  tags: []
+"Ne7,37":
+  text: "Synów z Lod, Chadida i Ono – siedmiuset dwudziestu jeden;"
+  tags: []
+"Ne7,38":
+  text: "Synów Senai – trzy tysiące dziewięciuset trzydziestu."
+  tags: []
+"Ne7,39":
+  text: "Kapłani: synów Jedajasza, z domu Jeszuy – dziewięciuset siedemdziesięciu trzech;"
+  tags: []
+"Ne7,40":
+  text: "Synów Immera – tysiąc pięćdziesięciu dwóch;"
+  tags: []
+"Ne7,41":
+  text: "Synów Paszchura – tysiąc dwustu czterdziestu siedmiu;"
+  tags: []
+"Ne7,42":
+  text: "Synów Charima – tysiąc siedemnastu."
+  tags: []
+"Ne7,43":
+  text: "Lewici: synów Jeszuy, Kadmiela, z synów Hodwy – siedemdziesięciu czterech."
+  tags: []
+"Ne7,44":
+  text: "Śpiewacy: synów Asafa – stu czterdziestu ośmiu."
+  tags: []
+"Ne7,45":
+  text: "Odźwiernych: synów Szalluma, synów Atera, synów Talmona, synów Akkuba, synów Chatity, synów Szobaja – stu trzydziestu ośmiu."
+  tags: []
+"Ne7,46":
+  text: "Netinici: synowie Sichy, synowie Chaszufy, synowie Tabbaota;"
+  tags: []
+"Ne7,47":
+  text: "Synowie Kerosa, synowie Sii, synowie Padona;"
+  tags: []
+"Ne7,48":
+  text: "Synowie Lebana, synowie Chagaby, synowie Szalmaja;"
+  tags: []
+"Ne7,49":
+  text: "Synowie Chanana, synowie Giddela, synowie Gachara;"
+  tags: []
+"Ne7,50":
+  text: "Synowie Reajasza, synowie Resina, synowie Nekody;"
+  tags: []
+"Ne7,51":
+  text: "Synowie Gazzama, synowie Uzzy, synowie Paseacha;"
+  tags: []
+"Ne7,52":
+  text: "Synowie Besaja, synowie Meunitów, synowie Nefisytów;"
+  tags: []
+"Ne7,53":
+  text: "Synowie Bakbuka, synowie Chakufy, synowie Charchura;"
+  tags: []
+"Ne7,54":
+  text: "Synowie Baslita, synowie Mechidy, synowie Charszy;"
+  tags: []
+"Ne7,55":
+  text: "Synowie Barkosa, synowie Sisery, synowie Tamacha;"
+  tags: []
+"Ne7,56":
+  text: "Synowie Nesjacha, synowie Chatify;"
+  tags: []
+"Ne7,57":
+  text: "Synowie sług Salomona: synowie Sotaja, synowie Sofereta, synowie Peridy;"
+  tags: []
+"Ne7,58":
+  text: "Synowie Jaali, synowie Darkona, synowie Giddela;"
+  tags: []
+"Ne7,59":
+  text: "Synowie Szefatiasza, synowie Chattila, synowie Pocheret-Hassebaima, synowie Amona."
+  tags: []
+"Ne7,60":
+  text: "Wszystkich Netinitów i synów sług Salomona – trzystu dziewięćdziesięciu dwóch."
+  tags: []
+"Ne7,61":
+  text: "A oto ci, którzy przybyli z Tel-Melach, Tel-Charsza, Kerub, Addan i Immer, ale nie mogli wykazać domu swoich ojców i swego potomstwa – tego, czy pochodzą z Izraela."
+  tags: []
+"Ne7,62":
+  text: "Synów Delajasza, synów Tobiasza, synów Nekody – sześciuset czterdziestu dwóch."
+  tags: []
+"Ne7,63":
+  text: "A z kapłanów: synowie Chobajasza, synowie Kosa, synowie Barzillaja, który pojął za żonę jedną z córek Barzillaja Gileadczyka i przybrał ich imię."
+  tags: []
+"Ne7,64":
+  text: "Ci szukali swego spisu według rodowodu, ale nie znaleźli, toteż zostali wykluczeni z kapłaństwa."
+  tags: []
+"Ne7,65":
+  text: "Tirszata zakazał im spożywać z pokarmów najświętszych, dopóki nie pojawi się kapłan z Urim i Tummim."
+  tags: []
+"Ne7,66":
+  text: "Całe to zgromadzenie liczyło czterdzieści dwa tysiące trzysta sześćdziesiąt osób;"
+  tags: []
+"Ne7,67":
+  text: "Nie licząc ich sług i służących, których było siedem tysięcy trzysta trzydzieścioro siedmioro. A wśród nich było dwieście czterdzieścioro pięcioro śpiewaków i śpiewaczek."
+  tags: []
+"Ne7,68":
+  text: "Ich koni – siedemset trzydzieści sześć. Ich mułów – dwieście czterdzieści pięć."
+  tags: []
+"Ne7,69":
+  text: "Wielbłądów – czterysta trzydzieści pięć. Osłów – sześć tysięcy siedemset dwadzieścia."
+  tags: []
+"Ne7,70":
+  text: "A niektórzy z naczelników rodów dali na prace. Tirszata dał do skarbca tysiąc drachm złota, pięćdziesiąt czasz i pięćset trzydzieści szat kapłańskich."
+  tags: []
+"Ne7,71":
+  text: "Niektórzy też z przedniejszych rodów dali do skarbca na pracę dwadzieścia tysięcy drachm złota i dwa tysiące dwieście min srebra."
+  tags: []
+"Ne7,72":
+  text: "A to, co dała reszta ludu, wynosiło dwadzieścia tysięcy drachm złota, dwa tysiące min srebra i sześćdziesiąt siedem szat kapłańskich."
+  tags: []
+"Ne7,73":
+  text: "Tak więc kapłani, Lewici, odźwierni, śpiewacy, część ludu, Netinici i cały Izrael osiedlili się w swoich miastach. A gdy nastał siódmy miesiąc, synowie Izraela mieszkali w swoich miastach."
+  tags: []

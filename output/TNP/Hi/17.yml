@@ -1,16 +1,48 @@
-"Hi17,1": "Mój duchjest złamany, moje dni gasną, pozostały mi groby."
-"Hi17,2": "Czyż szydercy nie są przy mnie? A czy moje oko musi nocować w cieniu ich buntu?"
-"Hi17,3": "Wyznacz więc proszę zastaw za mnie u siebie. Bo kim jest ten, który za mnie przyklaśnie ręką?"
-"Hi17,4": "Ponieważ ich serce ukryłeś przed zrozumieniem, dlatego też ich nie wywyższysz."
-"Hi17,5": "Kto dla pochlebstwa donosi na przyjaciół, to oczy jego synów zgasną."
-"Hi17,6": "Wystawił mnie na przysłowie u ludów i stałem się splunięciem przed nimi."
-"Hi17,7": "I moje oko zamgliło się od smutku, a wszystkie moje członki są jak cień."
-"Hi17,8": "Prawi są zdumieni nad tym, a niewinny triumfuje nad obłudnikiem."
-"Hi17,9": "A sprawiedliwy trzyma się swojej drogi, a kto ma czyste ręce, nabiera sił."
-"Hi17,10": "A jednak wszyscy wy zawróćcie i przyjdźcie teraz! Bo mądrego wśród was nie znajduję."
-"Hi17,11": "Moje dni przeminęły, rozwiały się moje zamiary – dziedzictwo mego serca."
-"Hi17,12": "Noc zamieniają w dzień, światłość jest blisko w obliczu ciemności."
-"Hi17,13": "Jeśli czekam? Szeol moim domem, w ciemności rozłożyłem sobie łoże."
-"Hi17,14": "Zawołałem do dołu: Ty jesteś moim ojcem! A do robaka: Moja matko i moja siostro!"
-"Hi17,15": "Gdzie jest więc teraz moja nadzieja? Moją nadzieję – kto ją ujrzy?"
-"Hi17,16": "Zstąpią do zasuw Szeolu, gdy razem odpoczniemy w prochu."
+"Hi17,1":
+  text: "Mój duchjest złamany, moje dni gasną, pozostały mi groby."
+  tags: []
+"Hi17,2":
+  text: "Czyż szydercy nie są przy mnie? A czy moje oko musi nocować w cieniu ich buntu?"
+  tags: []
+"Hi17,3":
+  text: "Wyznacz więc proszę zastaw za mnie u siebie. Bo kim jest ten, który za mnie przyklaśnie ręką?"
+  tags: []
+"Hi17,4":
+  text: "Ponieważ ich serce ukryłeś przed zrozumieniem, dlatego też ich nie wywyższysz."
+  tags: []
+"Hi17,5":
+  text: "Kto dla pochlebstwa donosi na przyjaciół, to oczy jego synów zgasną."
+  tags: []
+"Hi17,6":
+  text: "Wystawił mnie na przysłowie u ludów i stałem się splunięciem przed nimi."
+  tags: []
+"Hi17,7":
+  text: "I moje oko zamgliło się od smutku, a wszystkie moje członki są jak cień."
+  tags: []
+"Hi17,8":
+  text: "Prawi są zdumieni nad tym, a niewinny triumfuje nad obłudnikiem."
+  tags: []
+"Hi17,9":
+  text: "A sprawiedliwy trzyma się swojej drogi, a kto ma czyste ręce, nabiera sił."
+  tags: []
+"Hi17,10":
+  text: "A jednak wszyscy wy zawróćcie i przyjdźcie teraz! Bo mądrego wśród was nie znajduję."
+  tags: []
+"Hi17,11":
+  text: "Moje dni przeminęły, rozwiały się moje zamiary – dziedzictwo mego serca."
+  tags: []
+"Hi17,12":
+  text: "Noc zamieniają w dzień, światłość jest blisko w obliczu ciemności."
+  tags: []
+"Hi17,13":
+  text: "Jeśli czekam? Szeol moim domem, w ciemności rozłożyłem sobie łoże."
+  tags: []
+"Hi17,14":
+  text: "Zawołałem do dołu: Ty jesteś moim ojcem! A do robaka: Moja matko i moja siostro!"
+  tags: []
+"Hi17,15":
+  text: "Gdzie jest więc teraz moja nadzieja? Moją nadzieję – kto ją ujrzy?"
+  tags: []
+"Hi17,16":
+  text: "Zstąpią do zasuw Szeolu, gdy razem odpoczniemy w prochu."
+  tags: []

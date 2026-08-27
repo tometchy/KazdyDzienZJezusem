@@ -1,29 +1,87 @@
-"Ob2,1": "Do anioła zboru efeskiego napisz: To mówi Ten, który trzyma siedem gwiazd w swojej prawej dłoni, który przechadza się wśród siedmiu złotych świeczników:"
-"Ob2,2": "Znam twoje czyny i twój trud, i twoją wytrwałość, i wiem, że nie możesz znieść złych, i poddałeś próbie tych, którzy zapewniają, że są apostołami, a nimi nie są, i rozpoznałeś ich, że to kłamcy,"
-"Ob2,3": "I zniosłeś wiele, masz również wytrwałość i trudzisz się dla mojego imienia, a nie uległeś zmęczeniu."
-"Ob2,4": "Ale mam przeciwko tobie to, że opuściłeś pierwszą swoją miłość."
-"Ob2,5": "Pamiętaj więc, skąd wypadłeś i upamiętaj się, i spełniaj pierwsze swoje uczynki; a jeśli nie, to przyjdę do ciebie szybko i poruszę twój świecznik z jego miejsca, jeśli się nie upamiętasz."
-"Ob2,6": "Masz jednak to, że nienawidzisz czynów Nikolaitów, których i ja nienawidzę."
-"Ob2,7": "Kto ma ucho, niech usłyszy, co Duch mówi do zborów: Temu, który zwycięża, dam zjeść z drzewa życia, które jest w środku raju Boga."
-"Ob2,8": "A do anioła zboru smyrneńskiego napisz: To mówi pierwszy i ostatni, który był martwy, a ożył:"
-"Ob2,9": "Znam twoje czyny i ucisk, i ubóstwo, lecz jesteś bogaty; i bluźnierstwo tych, którzy mówią o sobie, że są Żydami, a nimi nie są, ale są synagogą szatana."
-"Ob2,10": "Nie bój się żadnego z cierpień, które masz doznać. Oto diabeł zamierza wrzucić niektórych z was do więzienia, abyście zostali wypróbowani; i będziecie mieli ucisk przez dziesięć dni. Bądź wierny aż do śmierci, a dam ci wieniec życia."
-"Ob2,11": "Kto ma ucho, niech usłyszy, co Duch mówi do zborów: Kto zwycięża, nie dozna szkody od drugiej śmierci."
-"Ob2,12": "A do anioła zboru w Pergamonie napisz: To mówi Ten, który ma ostry miecz obosieczny:"
-"Ob2,13": "Znam twoje czyny i wiem gdzie mieszkasz, tam, gdzie jest tron szatana; a trzymasz się mojego imienia i nie zaparłeś się mojej wiary, nawet i w dniach, w których Antypas, mój wierny świadek, został zabity u was, tam, gdzie mieszka szatan."
-"Ob2,14": "Ale mam nieco przeciwko tobie, że masz tam takich, którzy trzymają się nauki Balaama, który uczył Balaka jak zastawić pułapkę na synów Izraela, aby zjeść rzeczy ofiarowane bożkom i popełnić nierząd."
-"Ob2,15": "Także i ty masz takich, co trzymają się nauki Nikolaitów; których nienawidzę."
-"Ob2,16": "Upamiętaj się. A jeśli nie, to przyjdę szybko do ciebie i będę walczył z nimi mieczem moich ust."
-"Ob2,17": "Kto ma ucho, niech usłyszy, co Duch mówi do zborów: Temu, który zwycięża, dam jeść z ukrytej manny, i dam mu biały kamyk, a na tym kamyku jest napisane nowe imię, którego nikt nie poznał, jak tylko ten, który je otrzymuje."
-"Ob2,18": "A do anioła zboru w Tiatyrze napisz: To mówi Syn Boży, który ma oczy jak płomień ognia, a stopy Jego podobne do drogocennego metalu:"
-"Ob2,19": "Znam twoje czyny i miłość, i służbę, i wiarę, i twoją wytrwałość, i twoje ostatnie czyny, że są większe niż pierwsze."
-"Ob2,20": "Ale mam nieco przeciwko tobie, że pozwalasz kobiecie Izabel, która nazywa siebie prorokinią, nauczać i zwodzić moje sługi, by popełnić nierząd i zjeść mięso ofiarowane bożkom."
-"Ob2,21": "I dałem jej czas, aby upamiętała się ze swojego nierządu; ale się nie upamiętała."
-"Ob2,22": "Oto ja rzucam ją na łoże, a tych, którzy z nią cudzołożą w wielki ucisk, jeśli nie upamiętają się ze swoich czynów;"
-"Ob2,23": "A dzieci jej zabiję śmiercią; i poznają wszystkie zbory, że ja jestem tym, który bada nerki i serca; i dam każdemu z was według waszych czynów."
-"Ob2,24": "Wam natomiast mówię i tym pozostałym, w Tiatyrze, którzy nie mają tej nauki, i którzy nie poznali, jak mówią, głębin szatana: Nie włożę na was innego brzemienia;"
-"Ob2,25": "Jednak to, co macie, trzymajcie, dopóki nie przyjdę."
-"Ob2,26": "A kto zwycięża i zachowuje aż do końca moje czyny, dam mu władzę nad poganami."
-"Ob2,27": "I będzie ich pasł za pomocą laski żelaznej, i już są kruszeni jak naczynia gliniane. Tak jak i ja otrzymałem władzę od mojego Ojca,"
-"Ob2,28": "Tak dam mu gwiazdę poranną."
-"Ob2,29": "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
+"Ob2,1":
+  text: "Do anioła zboru efeskiego napisz: To mówi Ten, który trzyma siedem gwiazd w swojej prawej dłoni, który przechadza się wśród siedmiu złotych świeczników:"
+  tags: []
+"Ob2,2":
+  text: "Znam twoje czyny i twój trud, i twoją wytrwałość, i wiem, że nie możesz znieść złych, i poddałeś próbie tych, którzy zapewniają, że są apostołami, a nimi nie są, i rozpoznałeś ich, że to kłamcy,"
+  tags: []
+"Ob2,3":
+  text: "I zniosłeś wiele, masz również wytrwałość i trudzisz się dla mojego imienia, a nie uległeś zmęczeniu."
+  tags: []
+"Ob2,4":
+  text: "Ale mam przeciwko tobie to, że opuściłeś pierwszą swoją miłość."
+  tags: []
+"Ob2,5":
+  text: "Pamiętaj więc, skąd wypadłeś i upamiętaj się, i spełniaj pierwsze swoje uczynki; a jeśli nie, to przyjdę do ciebie szybko i poruszę twój świecznik z jego miejsca, jeśli się nie upamiętasz."
+  tags: []
+"Ob2,6":
+  text: "Masz jednak to, że nienawidzisz czynów Nikolaitów, których i ja nienawidzę."
+  tags: []
+"Ob2,7":
+  text: "Kto ma ucho, niech usłyszy, co Duch mówi do zborów: Temu, który zwycięża, dam zjeść z drzewa życia, które jest w środku raju Boga."
+  tags: []
+"Ob2,8":
+  text: "A do anioła zboru smyrneńskiego napisz: To mówi pierwszy i ostatni, który był martwy, a ożył:"
+  tags: []
+"Ob2,9":
+  text: "Znam twoje czyny i ucisk, i ubóstwo, lecz jesteś bogaty; i bluźnierstwo tych, którzy mówią o sobie, że są Żydami, a nimi nie są, ale są synagogą szatana."
+  tags: []
+"Ob2,10":
+  text: "Nie bój się żadnego z cierpień, które masz doznać. Oto diabeł zamierza wrzucić niektórych z was do więzienia, abyście zostali wypróbowani; i będziecie mieli ucisk przez dziesięć dni. Bądź wierny aż do śmierci, a dam ci wieniec życia."
+  tags: []
+"Ob2,11":
+  text: "Kto ma ucho, niech usłyszy, co Duch mówi do zborów: Kto zwycięża, nie dozna szkody od drugiej śmierci."
+  tags: []
+"Ob2,12":
+  text: "A do anioła zboru w Pergamonie napisz: To mówi Ten, który ma ostry miecz obosieczny:"
+  tags: []
+"Ob2,13":
+  text: "Znam twoje czyny i wiem gdzie mieszkasz, tam, gdzie jest tron szatana; a trzymasz się mojego imienia i nie zaparłeś się mojej wiary, nawet i w dniach, w których Antypas, mój wierny świadek, został zabity u was, tam, gdzie mieszka szatan."
+  tags: []
+"Ob2,14":
+  text: "Ale mam nieco przeciwko tobie, że masz tam takich, którzy trzymają się nauki Balaama, który uczył Balaka jak zastawić pułapkę na synów Izraela, aby zjeść rzeczy ofiarowane bożkom i popełnić nierząd."
+  tags: []
+"Ob2,15":
+  text: "Także i ty masz takich, co trzymają się nauki Nikolaitów; których nienawidzę."
+  tags: []
+"Ob2,16":
+  text: "Upamiętaj się. A jeśli nie, to przyjdę szybko do ciebie i będę walczył z nimi mieczem moich ust."
+  tags: []
+"Ob2,17":
+  text: "Kto ma ucho, niech usłyszy, co Duch mówi do zborów: Temu, który zwycięża, dam jeść z ukrytej manny, i dam mu biały kamyk, a na tym kamyku jest napisane nowe imię, którego nikt nie poznał, jak tylko ten, który je otrzymuje."
+  tags: []
+"Ob2,18":
+  text: "A do anioła zboru w Tiatyrze napisz: To mówi Syn Boży, który ma oczy jak płomień ognia, a stopy Jego podobne do drogocennego metalu:"
+  tags: []
+"Ob2,19":
+  text: "Znam twoje czyny i miłość, i służbę, i wiarę, i twoją wytrwałość, i twoje ostatnie czyny, że są większe niż pierwsze."
+  tags: []
+"Ob2,20":
+  text: "Ale mam nieco przeciwko tobie, że pozwalasz kobiecie Izabel, która nazywa siebie prorokinią, nauczać i zwodzić moje sługi, by popełnić nierząd i zjeść mięso ofiarowane bożkom."
+  tags: []
+"Ob2,21":
+  text: "I dałem jej czas, aby upamiętała się ze swojego nierządu; ale się nie upamiętała."
+  tags: []
+"Ob2,22":
+  text: "Oto ja rzucam ją na łoże, a tych, którzy z nią cudzołożą w wielki ucisk, jeśli nie upamiętają się ze swoich czynów;"
+  tags: []
+"Ob2,23":
+  text: "A dzieci jej zabiję śmiercią; i poznają wszystkie zbory, że ja jestem tym, który bada nerki i serca; i dam każdemu z was według waszych czynów."
+  tags: []
+"Ob2,24":
+  text: "Wam natomiast mówię i tym pozostałym, w Tiatyrze, którzy nie mają tej nauki, i którzy nie poznali, jak mówią, głębin szatana: Nie włożę na was innego brzemienia;"
+  tags: []
+"Ob2,25":
+  text: "Jednak to, co macie, trzymajcie, dopóki nie przyjdę."
+  tags: []
+"Ob2,26":
+  text: "A kto zwycięża i zachowuje aż do końca moje czyny, dam mu władzę nad poganami."
+  tags: []
+"Ob2,27":
+  text: "I będzie ich pasł za pomocą laski żelaznej, i już są kruszeni jak naczynia gliniane. Tak jak i ja otrzymałem władzę od mojego Ojca,"
+  tags: []
+"Ob2,28":
+  text: "Tak dam mu gwiazdę poranną."
+  tags: []
+"Ob2,29":
+  text: "Kto ma ucho, niech usłyszy, co Duch mówi do zborów."
+  tags: []

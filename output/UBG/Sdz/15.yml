@@ -1,20 +1,60 @@
-"Sdz15,1": "Po kilku dniach, w czasie żniw pszenicy, Samson odwiedził swoją żonę. Przyniósł jej koźlątko i mówił: Wejdę do swojej żony, do jej pokoju. Lecz jej ojciec nie pozwolił mu wejść."
-"Sdz15,2": "Jej ojciec powiedział: Myślałem, że ją znienawidziłeś, dałem ją więc twemu towarzyszowi. Czy jej młodsza siostra nie jest piękniejsza od niej? Weź ją sobie zamiast niej."
-"Sdz15,3": "I Samson odpowiedział im: Już teraz będę bez winy wobec Filistynów, choć uczynię im coś złego."
-"Sdz15,4": "Poszedł więc Samson i nałapał trzysta lisów, wziął pochodnie, przywiązał ogon do ogona, a pośrodku między dwoma ogonami uwiązał po jednej pochodni."
-"Sdz15,5": "Potem podpalił pochodnie i wypuścił je na zboża Filistynów, i spalił tak stogi, jak i stojące zboża oraz winnice z oliwkami."
-"Sdz15,6": "Wtedy Filistyni powiedzieli: Któż to uczynił? I odpowiedziano: Samson, zięć Timnity, ponieważ ten odebrał mu żonę i dał ją jego towarzyszowi. Poszli więc Filistyni i spalili ją i jej ojca."
-"Sdz15,7": "Samson powiedział im: Chociaż tak uczyniliście, jeszcze się zemszczę na was, a potem ustąpię."
-"Sdz15,8": "I zadał im wielką klęskę, bijąc od bioder aż do goleni, po czym odszedł i zamieszkał na wierzchołku skały Etam."
-"Sdz15,9": "Wtedy Filistyni wyruszyli, rozbili obóz w Judzie i rozciągnęli się aż do Lechi."
-"Sdz15,10": "Mężczyźni Judy wówczas powiedzieli: Dlaczego wyruszyliście przeciwko nam? I odpowiedzieli: Przyszliśmy, aby związać Samsona i uczynić mu tak, jak on nam uczynił."
-"Sdz15,11": "Wyruszyło więc trzy tysiące mężczyzn z Judy na szczyt skały Etam i powiedzieli do Samsona: Czy nie wiesz, że Filistyni panują nad nami? I co nam uczyniłeś? I odpowiedział im: Jak oni mi uczynili, tak ja im uczyniłem."
-"Sdz15,12": "I powiedzieli mu: Przyszliśmy, aby cię związać i wydać w ręce Filistynów. Samson odpowiedział im: Przysięgnijcie mi, że sami się na mnie nie targniecie."
-"Sdz15,13": "A oni mu odpowiedzieli: Nie, tylko zwiążemy cię i wydamy w ich ręce, lecz cię nie zabijemy. Związali go więc dwoma nowymi powrozami i sprowadzili go ze skały."
-"Sdz15,14": "Gdy przybył do Lechi, Filistyni z krzykiem wyszli mu na spotkanie. Wtedy Duch PANA zawładnął nim i powrozy, które były na jego ramionach, stały się jak lniane nici spalone ogniem i rozerwały się więzy na jego rękach."
-"Sdz15,15": "Następnie znalazł świeżą oślą szczękę, wyciągnął po nią rękę, wziął ją i zabił nią tysiąc mężczyzn."
-"Sdz15,16": "Potem Samson powiedział: Szczęką oślą, stos na stosach, szczęką oślą zabiłem tysiąc mężczyzn."
-"Sdz15,17": "A gdy przestał mówić, wyrzucił szczękę z ręki i nazwał to miejsce Ramat-Lechi."
-"Sdz15,18": "Wtedy odczuł wielkie pragnienie i zawołał do PANA: Ty dałeś przez rękę swego sługi to wielkie wybawienie, a teraz mam umrzeć z pragnienia albo wpaść w ręce nieobrzezanych?"
-"Sdz15,19": "A Bóg rozszczepił wgłębienie skalne, które było w Lechi, i wyszły z niego wody. Napił się i ożył jego duch, i odzyskał siły. Dlatego nadał temu miejscu nazwę: En-Hakkore, a jest ono w Lechi aż do dziś."
-"Sdz15,20": "I sądził Izraela za dni Filistynów przez dwadzieścia lat."
+"Sdz15,1":
+  text: "Po kilku dniach, w czasie żniw pszenicy, Samson odwiedził swoją żonę. Przyniósł jej koźlątko i mówił: Wejdę do swojej żony, do jej pokoju. Lecz jej ojciec nie pozwolił mu wejść."
+  tags: []
+"Sdz15,2":
+  text: "Jej ojciec powiedział: Myślałem, że ją znienawidziłeś, dałem ją więc twemu towarzyszowi. Czy jej młodsza siostra nie jest piękniejsza od niej? Weź ją sobie zamiast niej."
+  tags: []
+"Sdz15,3":
+  text: "I Samson odpowiedział im: Już teraz będę bez winy wobec Filistynów, choć uczynię im coś złego."
+  tags: []
+"Sdz15,4":
+  text: "Poszedł więc Samson i nałapał trzysta lisów, wziął pochodnie, przywiązał ogon do ogona, a pośrodku między dwoma ogonami uwiązał po jednej pochodni."
+  tags: []
+"Sdz15,5":
+  text: "Potem podpalił pochodnie i wypuścił je na zboża Filistynów, i spalił tak stogi, jak i stojące zboża oraz winnice z oliwkami."
+  tags: []
+"Sdz15,6":
+  text: "Wtedy Filistyni powiedzieli: Któż to uczynił? I odpowiedziano: Samson, zięć Timnity, ponieważ ten odebrał mu żonę i dał ją jego towarzyszowi. Poszli więc Filistyni i spalili ją i jej ojca."
+  tags: []
+"Sdz15,7":
+  text: "Samson powiedział im: Chociaż tak uczyniliście, jeszcze się zemszczę na was, a potem ustąpię."
+  tags: []
+"Sdz15,8":
+  text: "I zadał im wielką klęskę, bijąc od bioder aż do goleni, po czym odszedł i zamieszkał na wierzchołku skały Etam."
+  tags: []
+"Sdz15,9":
+  text: "Wtedy Filistyni wyruszyli, rozbili obóz w Judzie i rozciągnęli się aż do Lechi."
+  tags: []
+"Sdz15,10":
+  text: "Mężczyźni Judy wówczas powiedzieli: Dlaczego wyruszyliście przeciwko nam? I odpowiedzieli: Przyszliśmy, aby związać Samsona i uczynić mu tak, jak on nam uczynił."
+  tags: []
+"Sdz15,11":
+  text: "Wyruszyło więc trzy tysiące mężczyzn z Judy na szczyt skały Etam i powiedzieli do Samsona: Czy nie wiesz, że Filistyni panują nad nami? I co nam uczyniłeś? I odpowiedział im: Jak oni mi uczynili, tak ja im uczyniłem."
+  tags: []
+"Sdz15,12":
+  text: "I powiedzieli mu: Przyszliśmy, aby cię związać i wydać w ręce Filistynów. Samson odpowiedział im: Przysięgnijcie mi, że sami się na mnie nie targniecie."
+  tags: []
+"Sdz15,13":
+  text: "A oni mu odpowiedzieli: Nie, tylko zwiążemy cię i wydamy w ich ręce, lecz cię nie zabijemy. Związali go więc dwoma nowymi powrozami i sprowadzili go ze skały."
+  tags: []
+"Sdz15,14":
+  text: "Gdy przybył do Lechi, Filistyni z krzykiem wyszli mu na spotkanie. Wtedy Duch PANA zawładnął nim i powrozy, które były na jego ramionach, stały się jak lniane nici spalone ogniem i rozerwały się więzy na jego rękach."
+  tags: []
+"Sdz15,15":
+  text: "Następnie znalazł świeżą oślą szczękę, wyciągnął po nią rękę, wziął ją i zabił nią tysiąc mężczyzn."
+  tags: []
+"Sdz15,16":
+  text: "Potem Samson powiedział: Szczęką oślą, stos na stosach, szczęką oślą zabiłem tysiąc mężczyzn."
+  tags: []
+"Sdz15,17":
+  text: "A gdy przestał mówić, wyrzucił szczękę z ręki i nazwał to miejsce Ramat-Lechi."
+  tags: []
+"Sdz15,18":
+  text: "Wtedy odczuł wielkie pragnienie i zawołał do PANA: Ty dałeś przez rękę swego sługi to wielkie wybawienie, a teraz mam umrzeć z pragnienia albo wpaść w ręce nieobrzezanych?"
+  tags: []
+"Sdz15,19":
+  text: "A Bóg rozszczepił wgłębienie skalne, które było w Lechi, i wyszły z niego wody. Napił się i ożył jego duch, i odzyskał siły. Dlatego nadał temu miejscu nazwę: En-Hakkore, a jest ono w Lechi aż do dziś."
+  tags: []
+"Sdz15,20":
+  text: "I sądził Izraela za dni Filistynów przez dwadzieścia lat."
+  tags: []

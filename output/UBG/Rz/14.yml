@@ -1,23 +1,69 @@
-"Rz14,1": "A tego, kto jest słaby w wierze, przyjmujcie, lecz nie po to, aby sprzeczać się wokół spornych kwestii."
-"Rz14,2": "Jeden bowiem wierzy, że może jeść wszystko, a inny, będąc słaby, jada jarzyny."
-"Rz14,3": "Ten, kto je, niech nie lekceważy tego, który nie je, a ten, kto nie je, niech nie potępia tego, który je, bo Bóg go przyjął."
-"Rz14,4": "Kim jesteś ty, że sądzisz cudzego sługę? Dla własnego Pana stoi albo upada. Ostoi się jednak, gdyż Bóg może go utwierdzić."
-"Rz14,5": "Jeden bowiem czyni różnicę między dniem a dniem, a drugi każdy dzień ocenia jednakowo. Każdy niech będzie dobrze upewniony w swoim zamyśle."
-"Rz14,6": "Kto przestrzega dnia, dla Pana przestrzega, a kto nie przestrzega dnia, dla Pana nie przestrzega. Kto je, dla Pana je, bo dziękuje Bogu, a kto nie je, dla Pana nie je i dziękuje Bogu."
-"Rz14,7": "Nikt bowiem z nas dla siebie nie żyje i nikt dla siebie nie umiera."
-"Rz14,8": "Bo jeśli żyjemy, dla Pana żyjemy, jeśli umieramy, dla Pana umieramy. Dlatego czy żyjemy, czy umieramy, należymy do Pana."
-"Rz14,9": "Gdyż po to Chrystus umarł, powstał i ożył, aby panować i nad umarłymi, i nad żywymi."
-"Rz14,10": "Dlaczego więc ty potępiasz swego brata? Albo czemu lekceważysz swego brata? Wszyscy bowiem staniemy przed trybunałem Chrystusa."
-"Rz14,11": "Jest bowiem napisane: Jak żyję, mówi Pan, ugnie się przede mną każde kolano i każdy język będzie wysławiał Boga."
-"Rz14,12": "Tak więc każdy z nas sam za siebie zda rachunek Bogu."
-"Rz14,13": "A tak już nie osądzajmy jedni drugich, ale raczej uważajcie na to, aby nie dawać bratu powodu do potknięcia się lub upadku."
-"Rz14,14": "Wiem i jestem przekonany przez Pana Jezusa, że nie ma niczego, co by samo w sobie było nieczyste. Tylko dla tego, kto uważa coś za nieczyste, to dla niego jest nieczyste."
-"Rz14,15": "Lecz jeśli z powodu pokarmu twój brat jest zasmucony, już nie postępujesz zgodnie z miłością. Nie zatracaj swoim pokarmem tego, za którego umarł Chrystus."
-"Rz14,16": "Niech więc wasze dobro nie będzie bluźnione."
-"Rz14,17": "Królestwo Boże bowiem to nie pokarm i napój, ale sprawiedliwość, pokój i radość w Duchu Świętym."
-"Rz14,18": "Kto bowiem w tym służy Chrystusowi, podoba się Bogu i cieszy się uznaniem u ludzi."
-"Rz14,19": "Tak więc dążmy do tego, co służy pokojowi i wzajemnemu zbudowaniu."
-"Rz14,20": "Z powodu pokarmu nie niszcz dzieła Bożego. Wszystko wprawdzie jest czyste, ale staje się złe dla człowieka, który je ze zgorszeniem."
-"Rz14,21": "Dobrze jest nie jeść mięsa i nie pić wina ani żadnej rzeczy, przez którą twój brat się obraża, gorszy albo słabnie."
-"Rz14,22": "Masz wiarę? Miej ją sam u siebie przed Bogiem. Szczęśliwy ten, kto samego siebie nie potępia w tym, co uważa za dobre."
-"Rz14,23": "Lecz kto ma wątpliwości, jeśli je, jest potępiony, bo nie je z wiary. Wszystko bowiem, co nie jest z wiary, jest grzechem."
+"Rz14,1":
+  text: "A tego, kto jest słaby w wierze, przyjmujcie, lecz nie po to, aby sprzeczać się wokół spornych kwestii."
+  tags: []
+"Rz14,2":
+  text: "Jeden bowiem wierzy, że może jeść wszystko, a inny, będąc słaby, jada jarzyny."
+  tags: []
+"Rz14,3":
+  text: "Ten, kto je, niech nie lekceważy tego, który nie je, a ten, kto nie je, niech nie potępia tego, który je, bo Bóg go przyjął."
+  tags: []
+"Rz14,4":
+  text: "Kim jesteś ty, że sądzisz cudzego sługę? Dla własnego Pana stoi albo upada. Ostoi się jednak, gdyż Bóg może go utwierdzić."
+  tags: []
+"Rz14,5":
+  text: "Jeden bowiem czyni różnicę między dniem a dniem, a drugi każdy dzień ocenia jednakowo. Każdy niech będzie dobrze upewniony w swoim zamyśle."
+  tags: []
+"Rz14,6":
+  text: "Kto przestrzega dnia, dla Pana przestrzega, a kto nie przestrzega dnia, dla Pana nie przestrzega. Kto je, dla Pana je, bo dziękuje Bogu, a kto nie je, dla Pana nie je i dziękuje Bogu."
+  tags: []
+"Rz14,7":
+  text: "Nikt bowiem z nas dla siebie nie żyje i nikt dla siebie nie umiera."
+  tags: []
+"Rz14,8":
+  text: "Bo jeśli żyjemy, dla Pana żyjemy, jeśli umieramy, dla Pana umieramy. Dlatego czy żyjemy, czy umieramy, należymy do Pana."
+  tags: []
+"Rz14,9":
+  text: "Gdyż po to Chrystus umarł, powstał i ożył, aby panować i nad umarłymi, i nad żywymi."
+  tags: []
+"Rz14,10":
+  text: "Dlaczego więc ty potępiasz swego brata? Albo czemu lekceważysz swego brata? Wszyscy bowiem staniemy przed trybunałem Chrystusa."
+  tags: []
+"Rz14,11":
+  text: "Jest bowiem napisane: Jak żyję, mówi Pan, ugnie się przede mną każde kolano i każdy język będzie wysławiał Boga."
+  tags: []
+"Rz14,12":
+  text: "Tak więc każdy z nas sam za siebie zda rachunek Bogu."
+  tags: []
+"Rz14,13":
+  text: "A tak już nie osądzajmy jedni drugich, ale raczej uważajcie na to, aby nie dawać bratu powodu do potknięcia się lub upadku."
+  tags: []
+"Rz14,14":
+  text: "Wiem i jestem przekonany przez Pana Jezusa, że nie ma niczego, co by samo w sobie było nieczyste. Tylko dla tego, kto uważa coś za nieczyste, to dla niego jest nieczyste."
+  tags: []
+"Rz14,15":
+  text: "Lecz jeśli z powodu pokarmu twój brat jest zasmucony, już nie postępujesz zgodnie z miłością. Nie zatracaj swoim pokarmem tego, za którego umarł Chrystus."
+  tags: []
+"Rz14,16":
+  text: "Niech więc wasze dobro nie będzie bluźnione."
+  tags: []
+"Rz14,17":
+  text: "Królestwo Boże bowiem to nie pokarm i napój, ale sprawiedliwość, pokój i radość w Duchu Świętym."
+  tags: []
+"Rz14,18":
+  text: "Kto bowiem w tym służy Chrystusowi, podoba się Bogu i cieszy się uznaniem u ludzi."
+  tags: []
+"Rz14,19":
+  text: "Tak więc dążmy do tego, co służy pokojowi i wzajemnemu zbudowaniu."
+  tags: []
+"Rz14,20":
+  text: "Z powodu pokarmu nie niszcz dzieła Bożego. Wszystko wprawdzie jest czyste, ale staje się złe dla człowieka, który je ze zgorszeniem."
+  tags: []
+"Rz14,21":
+  text: "Dobrze jest nie jeść mięsa i nie pić wina ani żadnej rzeczy, przez którą twój brat się obraża, gorszy albo słabnie."
+  tags: []
+"Rz14,22":
+  text: "Masz wiarę? Miej ją sam u siebie przed Bogiem. Szczęśliwy ten, kto samego siebie nie potępia w tym, co uważa za dobre."
+  tags: []
+"Rz14,23":
+  text: "Lecz kto ma wątpliwości, jeśli je, jest potępiony, bo nie je z wiary. Wszystko bowiem, co nie jest z wiary, jest grzechem."
+  tags: []

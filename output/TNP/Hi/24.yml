@@ -1,25 +1,75 @@
-"Hi24,1": "Dlaczego przez Wszechmogącego nie są zachowane czasy sądu, a znający Go, nie przewidzą Jego dni?"
-"Hi24,2": "Niektórzy przesuwają kamienne granice, zagarniają stado i pasą je."
-"Hi24,3": "Osła sierot pędzą jako łup i bydlę wdowy biorą w zastaw."
-"Hi24,4": "Spychają z drogi ubogich, biedni ziemi muszą się kryć razem."
-"Hi24,5": "Oto jak dzikie osły na pustyni wychodzą w swoim trudzie szukając żeru. Step jest mu chlebem dla jego młodych."
-"Hi24,6": "Na polu żną swoją paszę i zbierają grona w winnicy niegodziwych."
-"Hi24,7": "Nago nocują bez ubrania i nie mają okrycia w czasie chłodu;"
-"Hi24,8": "Przemoczeni są ulewą gór, nie mając schronienia obejmują skałę."
-"Hi24,9": "Inni odrywają sierotę od piersi matki i na ubogim biorą go w zastaw."
-"Hi24,10": "Nago chodzą bez ubrania, a wygłodzeni niosą wiązkę kłosów."
-"Hi24,11": "Między dwoma rzędami ich tłoczą oliwę; tłoczą kadzie, a jednak są spragnieni."
-"Hi24,12": "Z miast dochodzą jęki ludzi, a dusza śmiertelnie rannych woła o pomoc, lecz Bóg nie rozlicza tej niestosowności."
-"Hi24,13": "Tamci znów są pośród buntujących się przeciw światłu, nie rozpoznają Jego dróg i nie przebywają na Jego ścieżkach."
-"Hi24,14": "Morderca wstaje przed świtem i zabija ubogiego i potrzebującego, a w nocy chce stać się jak złodziej."
-"Hi24,15": "A oko cudzołożnika wygląda zmierzchu, aby mówić: Nie zobaczy mnie nikt – i za zasłoną oblicze swoje ukrywa."
-"Hi24,16": "W ciemności podkopują domy, za dnia je oznaczają – nie znają światła."
-"Hi24,17": "Bo dla nich wszystkich poranek to cień śmierci. Bo znają grozę cienia śmierci."
-"Hi24,18": "Lekki jest taki na powierzchni wody, przeklęta jest ich część na ziemi, nie kierują się drogą do ich winnic."
-"Hi24,19": "Susza a także upał porywają wody śniegu, tak Szeol porywa tych, którzy zgrzeszyli."
-"Hi24,20": "Zapomina o nim łono matki, robak ssać będzie go słodko. Nikt go więcej nie wspomina, a nieprawość jego zostanie złamana jak drzewo."
-"Hi24,21": "Wykorzystuje niepłodną, która nie rodziła, a wdowie nie czyni dobra."
-"Hi24,22": "A jednak On przedłuża w swojej mocy życie upartych; gdy taki powstaje, to nie wierzy w swoje życie."
-"Hi24,23": "Ofiarowuje mu bezpieczeństwo i może się oprzeć, a Jego oczy czuwają nad ich drogami."
-"Hi24,24": "Chwilowo są wywyższeni, a potem ich nie ma; zostali poniżeni jak wszyscy inni i wyrwani; a jak czubek kłosa będą odcięci."
-"Hi24,25": "A jeśli tak nie jest, to kto mi wykaże, że jestem kłamcą i zechce obrócić wniwecz moje słowo?"
+"Hi24,1":
+  text: "Dlaczego przez Wszechmogącego nie są zachowane czasy sądu, a znający Go, nie przewidzą Jego dni?"
+  tags: []
+"Hi24,2":
+  text: "Niektórzy przesuwają kamienne granice, zagarniają stado i pasą je."
+  tags: []
+"Hi24,3":
+  text: "Osła sierot pędzą jako łup i bydlę wdowy biorą w zastaw."
+  tags: []
+"Hi24,4":
+  text: "Spychają z drogi ubogich, biedni ziemi muszą się kryć razem."
+  tags: []
+"Hi24,5":
+  text: "Oto jak dzikie osły na pustyni wychodzą w swoim trudzie szukając żeru. Step jest mu chlebem dla jego młodych."
+  tags: []
+"Hi24,6":
+  text: "Na polu żną swoją paszę i zbierają grona w winnicy niegodziwych."
+  tags: []
+"Hi24,7":
+  text: "Nago nocują bez ubrania i nie mają okrycia w czasie chłodu;"
+  tags: []
+"Hi24,8":
+  text: "Przemoczeni są ulewą gór, nie mając schronienia obejmują skałę."
+  tags: []
+"Hi24,9":
+  text: "Inni odrywają sierotę od piersi matki i na ubogim biorą go w zastaw."
+  tags: []
+"Hi24,10":
+  text: "Nago chodzą bez ubrania, a wygłodzeni niosą wiązkę kłosów."
+  tags: []
+"Hi24,11":
+  text: "Między dwoma rzędami ich tłoczą oliwę; tłoczą kadzie, a jednak są spragnieni."
+  tags: []
+"Hi24,12":
+  text: "Z miast dochodzą jęki ludzi, a dusza śmiertelnie rannych woła o pomoc, lecz Bóg nie rozlicza tej niestosowności."
+  tags: []
+"Hi24,13":
+  text: "Tamci znów są pośród buntujących się przeciw światłu, nie rozpoznają Jego dróg i nie przebywają na Jego ścieżkach."
+  tags: []
+"Hi24,14":
+  text: "Morderca wstaje przed świtem i zabija ubogiego i potrzebującego, a w nocy chce stać się jak złodziej."
+  tags: []
+"Hi24,15":
+  text: "A oko cudzołożnika wygląda zmierzchu, aby mówić: Nie zobaczy mnie nikt – i za zasłoną oblicze swoje ukrywa."
+  tags: []
+"Hi24,16":
+  text: "W ciemności podkopują domy, za dnia je oznaczają – nie znają światła."
+  tags: []
+"Hi24,17":
+  text: "Bo dla nich wszystkich poranek to cień śmierci. Bo znają grozę cienia śmierci."
+  tags: []
+"Hi24,18":
+  text: "Lekki jest taki na powierzchni wody, przeklęta jest ich część na ziemi, nie kierują się drogą do ich winnic."
+  tags: []
+"Hi24,19":
+  text: "Susza a także upał porywają wody śniegu, tak Szeol porywa tych, którzy zgrzeszyli."
+  tags: []
+"Hi24,20":
+  text: "Zapomina o nim łono matki, robak ssać będzie go słodko. Nikt go więcej nie wspomina, a nieprawość jego zostanie złamana jak drzewo."
+  tags: []
+"Hi24,21":
+  text: "Wykorzystuje niepłodną, która nie rodziła, a wdowie nie czyni dobra."
+  tags: []
+"Hi24,22":
+  text: "A jednak On przedłuża w swojej mocy życie upartych; gdy taki powstaje, to nie wierzy w swoje życie."
+  tags: []
+"Hi24,23":
+  text: "Ofiarowuje mu bezpieczeństwo i może się oprzeć, a Jego oczy czuwają nad ich drogami."
+  tags: []
+"Hi24,24":
+  text: "Chwilowo są wywyższeni, a potem ich nie ma; zostali poniżeni jak wszyscy inni i wyrwani; a jak czubek kłosa będą odcięci."
+  tags: []
+"Hi24,25":
+  text: "A jeśli tak nie jest, to kto mi wykaże, że jestem kłamcą i zechce obrócić wniwecz moje słowo?"
+  tags: []

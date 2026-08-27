@@ -1,29 +1,87 @@
-"Iz41,1": "Zamilczcie przede mną, wyspy, a niech narody nabiorą sił. Niech się zbliżą, wtedy niech mówią: Zbliżmy się razem do sądu."
-"Iz41,2": "Kto wzbudził ze wschodu tego sprawiedliwego i wezwał go, aby go naśladował? Kto mu podbił narody, aby nad królami panował? Podał je jak proch pod jego miecz i jak rozproszone ściernisko pod jego łuk."
-"Iz41,3": "Ścigał ich, przeszedł spokojnie ścieżkę, po której swoimi nogami nie chodził."
-"Iz41,4": "Kto to sprawił i uczynił? Kto wzywał pokolenia od początku? Ja, PAN – pierwszy i ostatni – ja sam."
-"Iz41,5": "Widziały wyspy i zlękły się; krańce ziemi przestraszyły się, zgromadziły się i zeszły."
-"Iz41,6": "Jeden drugiemu pomagał i mówił do swego brata: Bądź odważny!"
-"Iz41,7": "Tak więc stolarz zachęcał złotnika, a ten, co młotem blachę wygładza – kującego na kowadle, mówiąc: Jest gotowe do lutowania. Potem to przytwierdził gwoździami, aby się nie chwiało."
-"Iz41,8": "Ale ty, Izraelu, mój sługo, ty, Jakubie, którego wybrałem, potomku Abrahama, mojego przyjaciela!"
-"Iz41,9": "Ty, którego pochwyciłem z krańców ziemi, a pomijając znamienitych, powołałem cię i powiedziałem ci: Jesteś moim sługą, wybrałem cię i nie odrzuciłem."
-"Iz41,10": "Nie bój się, bo ja jestem z tobą. Nie lękaj się, bo ja jestem twoim Bogiem. Umocnię cię, wspomogę cię i podeprę cię prawicą swojej sprawiedliwości."
-"Iz41,11": "Oto zawstydzą się i będą pohańbieni wszyscy, którzy płoną gniewem przeciwko tobie. Będą jak nicość i zginą ci, którzy tobie się sprzeciwiają."
-"Iz41,12": "Będziesz ich szukał, a nie znajdziesz ich; ci, którzy się tobie sprzeciwiają, będą jak nicość, a ci, którzy walczą z tobą, zostaną wniwecz obróceni."
-"Iz41,13": "Ja bowiem, PAN, twój Bóg, trzymam cię za twoją prawicę i mówię: Nie bój się, ja cię wspomogę."
-"Iz41,14": "Nie bój się, robaczku, Jakubie, garstko ludu Izraela; ja cię wspomogę, mówi PAN i twój Odkupiciel, Święty Izraela."
-"Iz41,15": "Oto uczynię z ciebie sanie młockarskie, nowe, z zębami po obu stronach. Będziesz młócił góry i zetrzesz je, a pagórki zamienisz w plewy."
-"Iz41,16": "Przewiejesz je, a wiatr je porwie i wicher je rozproszy. A ty się rozradujesz w PANU, będziesz się chlubił w Świętym Izraela."
-"Iz41,17": "Gdy ubodzy i nędzarze szukają wody, a jej nie ma, a ich język usycha z pragnienia, ja, PAN, wysłucham ich, ja, Bóg Izraela, nie opuszczę ich."
-"Iz41,18": "Otworzę rzeki w miejscach wysokich, a źródła pośrodku dolin. Zamienię pustynię w jeziora wód, a suchą ziemię w strumienie wód."
-"Iz41,19": "Posadzę na pustkowiu cedry, akacje, mirty i drzewa oliwne; posadzę na pustyni razem cyprys, wiąz i bukszpan;"
-"Iz41,20": "Aby widzieli i poznali, rozważali i zrozumieli, że ręka PANA to uczyniła i Święty Izraela to stworzył."
-"Iz41,21": "Przedstawcie swoją sprawę, mówi PAN; pokażcie swoje mocne dowody, mówi Król Jakuba."
-"Iz41,22": "Niech przystąpią i niech nam oznajmią to, co ma się stać. Powiedzcie o dawnych rzeczach, które już były, abyśmy rozważyli to w swoim sercu i poznali ich koniec albo przynajmniej oznajmijcie nam przyszłe rzeczy."
-"Iz41,23": "Oznajmijcie, co nastąpi w przyszłości, a poznamy, że jesteście bogami. Tak, zróbcie coś dobrego lub złego, abyśmy się zdumiewali i razem to oglądali."
-"Iz41,24": "Oto wy jesteście niczym, a wasze dzieła też są niczym. Obrzydliwy jest ten, kto was sobie wybiera."
-"Iz41,25": "Wzbudziłem lud od północy, który nadciągnie, i od wschodu, który będzie wzywać mego imienia. Rozdepcze książąt jak błoto, jak garncarz depcze glinę."
-"Iz41,26": "Kto oznajmił to od początku, abyśmy wiedzieli od dawnych czasów, abyśmy powiedzieli: On jest sprawiedliwy? Nie ma nikogo, kto to oznajmił, nie ma nikogo, kto by to ogłosił ani kto by słyszał wasze słowa."
-"Iz41,27": "Ja pierwszy powiem Syjonowi: Oto, oto są. A Jerozolimie dam zwiastuna dobrych wieści."
-"Iz41,28": "Spojrzałem bowiem, a nie było nikogo, nie było wśród nich doradcy, który by na moje pytania mógł odpowiedzieć słowo."
-"Iz41,29": "Oto ci wszyscy są marnością, ich uczynki są niczym. Ich odlewane posągi są wiatrem i pustką."
+"Iz41,1":
+  text: "Zamilczcie przede mną, wyspy, a niech narody nabiorą sił. Niech się zbliżą, wtedy niech mówią: Zbliżmy się razem do sądu."
+  tags: []
+"Iz41,2":
+  text: "Kto wzbudził ze wschodu tego sprawiedliwego i wezwał go, aby go naśladował? Kto mu podbił narody, aby nad królami panował? Podał je jak proch pod jego miecz i jak rozproszone ściernisko pod jego łuk."
+  tags: []
+"Iz41,3":
+  text: "Ścigał ich, przeszedł spokojnie ścieżkę, po której swoimi nogami nie chodził."
+  tags: []
+"Iz41,4":
+  text: "Kto to sprawił i uczynił? Kto wzywał pokolenia od początku? Ja, PAN – pierwszy i ostatni – ja sam."
+  tags: []
+"Iz41,5":
+  text: "Widziały wyspy i zlękły się; krańce ziemi przestraszyły się, zgromadziły się i zeszły."
+  tags: []
+"Iz41,6":
+  text: "Jeden drugiemu pomagał i mówił do swego brata: Bądź odważny!"
+  tags: []
+"Iz41,7":
+  text: "Tak więc stolarz zachęcał złotnika, a ten, co młotem blachę wygładza – kującego na kowadle, mówiąc: Jest gotowe do lutowania. Potem to przytwierdził gwoździami, aby się nie chwiało."
+  tags: []
+"Iz41,8":
+  text: "Ale ty, Izraelu, mój sługo, ty, Jakubie, którego wybrałem, potomku Abrahama, mojego przyjaciela!"
+  tags: []
+"Iz41,9":
+  text: "Ty, którego pochwyciłem z krańców ziemi, a pomijając znamienitych, powołałem cię i powiedziałem ci: Jesteś moim sługą, wybrałem cię i nie odrzuciłem."
+  tags: []
+"Iz41,10":
+  text: "Nie bój się, bo ja jestem z tobą. Nie lękaj się, bo ja jestem twoim Bogiem. Umocnię cię, wspomogę cię i podeprę cię prawicą swojej sprawiedliwości."
+  tags: []
+"Iz41,11":
+  text: "Oto zawstydzą się i będą pohańbieni wszyscy, którzy płoną gniewem przeciwko tobie. Będą jak nicość i zginą ci, którzy tobie się sprzeciwiają."
+  tags: []
+"Iz41,12":
+  text: "Będziesz ich szukał, a nie znajdziesz ich; ci, którzy się tobie sprzeciwiają, będą jak nicość, a ci, którzy walczą z tobą, zostaną wniwecz obróceni."
+  tags: []
+"Iz41,13":
+  text: "Ja bowiem, PAN, twój Bóg, trzymam cię za twoją prawicę i mówię: Nie bój się, ja cię wspomogę."
+  tags: []
+"Iz41,14":
+  text: "Nie bój się, robaczku, Jakubie, garstko ludu Izraela; ja cię wspomogę, mówi PAN i twój Odkupiciel, Święty Izraela."
+  tags: []
+"Iz41,15":
+  text: "Oto uczynię z ciebie sanie młockarskie, nowe, z zębami po obu stronach. Będziesz młócił góry i zetrzesz je, a pagórki zamienisz w plewy."
+  tags: []
+"Iz41,16":
+  text: "Przewiejesz je, a wiatr je porwie i wicher je rozproszy. A ty się rozradujesz w PANU, będziesz się chlubił w Świętym Izraela."
+  tags: []
+"Iz41,17":
+  text: "Gdy ubodzy i nędzarze szukają wody, a jej nie ma, a ich język usycha z pragnienia, ja, PAN, wysłucham ich, ja, Bóg Izraela, nie opuszczę ich."
+  tags: []
+"Iz41,18":
+  text: "Otworzę rzeki w miejscach wysokich, a źródła pośrodku dolin. Zamienię pustynię w jeziora wód, a suchą ziemię w strumienie wód."
+  tags: []
+"Iz41,19":
+  text: "Posadzę na pustkowiu cedry, akacje, mirty i drzewa oliwne; posadzę na pustyni razem cyprys, wiąz i bukszpan;"
+  tags: []
+"Iz41,20":
+  text: "Aby widzieli i poznali, rozważali i zrozumieli, że ręka PANA to uczyniła i Święty Izraela to stworzył."
+  tags: []
+"Iz41,21":
+  text: "Przedstawcie swoją sprawę, mówi PAN; pokażcie swoje mocne dowody, mówi Król Jakuba."
+  tags: []
+"Iz41,22":
+  text: "Niech przystąpią i niech nam oznajmią to, co ma się stać. Powiedzcie o dawnych rzeczach, które już były, abyśmy rozważyli to w swoim sercu i poznali ich koniec albo przynajmniej oznajmijcie nam przyszłe rzeczy."
+  tags: []
+"Iz41,23":
+  text: "Oznajmijcie, co nastąpi w przyszłości, a poznamy, że jesteście bogami. Tak, zróbcie coś dobrego lub złego, abyśmy się zdumiewali i razem to oglądali."
+  tags: []
+"Iz41,24":
+  text: "Oto wy jesteście niczym, a wasze dzieła też są niczym. Obrzydliwy jest ten, kto was sobie wybiera."
+  tags: []
+"Iz41,25":
+  text: "Wzbudziłem lud od północy, który nadciągnie, i od wschodu, który będzie wzywać mego imienia. Rozdepcze książąt jak błoto, jak garncarz depcze glinę."
+  tags: []
+"Iz41,26":
+  text: "Kto oznajmił to od początku, abyśmy wiedzieli od dawnych czasów, abyśmy powiedzieli: On jest sprawiedliwy? Nie ma nikogo, kto to oznajmił, nie ma nikogo, kto by to ogłosił ani kto by słyszał wasze słowa."
+  tags: []
+"Iz41,27":
+  text: "Ja pierwszy powiem Syjonowi: Oto, oto są. A Jerozolimie dam zwiastuna dobrych wieści."
+  tags: []
+"Iz41,28":
+  text: "Spojrzałem bowiem, a nie było nikogo, nie było wśród nich doradcy, który by na moje pytania mógł odpowiedzieć słowo."
+  tags: []
+"Iz41,29":
+  text: "Oto ci wszyscy są marnością, ich uczynki są niczym. Ich odlewane posągi są wiatrem i pustką."
+  tags: []

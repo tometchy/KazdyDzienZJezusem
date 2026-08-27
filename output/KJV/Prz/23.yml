@@ -1,35 +1,105 @@
-"Prz23,1": "When thou sittest to eat with a ruler, consider diligently what [is] before thee:"
-"Prz23,2": "And put a knife to thy throat, if thou [be] a man given to appetite."
-"Prz23,3": "Be not desirous of his dainties: for they [are] deceitful meat."
-"Prz23,4": "Labour not to be rich: cease from thine own wisdom."
-"Prz23,5": "Wilt thou set thine eyes upon that which is not? for [riches] certainly make themselves wings; they fly away as an eagle toward heaven."
-"Prz23,6": "Eat thou not the bread of [him that hath] an evil eye, neither desire thou his dainty meats:"
-"Prz23,7": "For as he thinketh in his heart, so [is] he: Eat and drink, saith he to thee; but his heart [is] not with thee."
-"Prz23,8": "The morsel [which] thou hast eaten shalt thou vomit up, and lose thy sweet words."
-"Prz23,9": "Speak not in the ears of a fool: for he will despise the wisdom of thy words."
-"Prz23,10": "Remove not the old landmark; and enter not into the fields of the fatherless:"
-"Prz23,11": "For their redeemer [is] mighty; he shall plead their cause with thee."
-"Prz23,12": "Apply thine heart unto instruction, and thine ears to the words of knowledge."
-"Prz23,13": "Withhold not correction from the child: for [if] thou beatest him with the rod, he shall not die."
-"Prz23,14": "Thou shalt beat him with the rod, and shalt deliver his soul from hell."
-"Prz23,15": "My son, if thine heart be wise, my heart shall rejoice, even mine."
-"Prz23,16": "Yea, my reins shall rejoice, when thy lips speak right things."
-"Prz23,17": "Let not thine heart envy sinners: but [be thou] in the fear of the LORD all the day long."
-"Prz23,18": "For surely there is an end; and thine expectation shall not be cut off."
-"Prz23,19": "Hear thou, my son, and be wise, and guide thine heart in the way."
-"Prz23,20": "Be not among winebibbers; among riotous eaters of flesh:"
-"Prz23,21": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe [a man] with rags."
-"Prz23,22": "Hearken unto thy father that begat thee, and despise not thy mother when she is old."
-"Prz23,23": "Buy the truth, and sell [it] not; [also] wisdom, and instruction, and understanding."
-"Prz23,24": "The father of the righteous shall greatly rejoice: and he that begetteth a wise [child] shall have joy of him."
-"Prz23,25": "Thy father and thy mother shall be glad, and she that bare thee shall rejoice."
-"Prz23,26": "My son, give me thine heart, and let thine eyes observe my ways."
-"Prz23,27": "For a whore [is] a deep ditch; and a strange woman [is] a narrow pit."
-"Prz23,28": "She also lieth in wait as [for] a prey, and increaseth the transgressors among men."
-"Prz23,29": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?"
-"Prz23,30": "They that tarry long at the wine; they that go to seek mixed wine."
-"Prz23,31": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, [when] it moveth itself aright."
-"Prz23,32": "At the last it biteth like a serpent, and stingeth like an adder."
-"Prz23,33": "Thine eyes shall behold strange women, and thine heart shall utter perverse things."
-"Prz23,34": "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast."
-"Prz23,35": "They have stricken me, [shalt thou say, and] I was not sick; they have beaten me, [and] I felt [it] not: when shall I awake? I will seek it yet again."
+"Prz23,1":
+  text: "When thou sittest to eat with a ruler, consider diligently what [is] before thee:"
+  tags: []
+"Prz23,2":
+  text: "And put a knife to thy throat, if thou [be] a man given to appetite."
+  tags: []
+"Prz23,3":
+  text: "Be not desirous of his dainties: for they [are] deceitful meat."
+  tags: []
+"Prz23,4":
+  text: "Labour not to be rich: cease from thine own wisdom."
+  tags: []
+"Prz23,5":
+  text: "Wilt thou set thine eyes upon that which is not? for [riches] certainly make themselves wings; they fly away as an eagle toward heaven."
+  tags: []
+"Prz23,6":
+  text: "Eat thou not the bread of [him that hath] an evil eye, neither desire thou his dainty meats:"
+  tags: []
+"Prz23,7":
+  text: "For as he thinketh in his heart, so [is] he: Eat and drink, saith he to thee; but his heart [is] not with thee."
+  tags: []
+"Prz23,8":
+  text: "The morsel [which] thou hast eaten shalt thou vomit up, and lose thy sweet words."
+  tags: []
+"Prz23,9":
+  text: "Speak not in the ears of a fool: for he will despise the wisdom of thy words."
+  tags: []
+"Prz23,10":
+  text: "Remove not the old landmark; and enter not into the fields of the fatherless:"
+  tags: []
+"Prz23,11":
+  text: "For their redeemer [is] mighty; he shall plead their cause with thee."
+  tags: []
+"Prz23,12":
+  text: "Apply thine heart unto instruction, and thine ears to the words of knowledge."
+  tags: []
+"Prz23,13":
+  text: "Withhold not correction from the child: for [if] thou beatest him with the rod, he shall not die."
+  tags: []
+"Prz23,14":
+  text: "Thou shalt beat him with the rod, and shalt deliver his soul from hell."
+  tags: []
+"Prz23,15":
+  text: "My son, if thine heart be wise, my heart shall rejoice, even mine."
+  tags: []
+"Prz23,16":
+  text: "Yea, my reins shall rejoice, when thy lips speak right things."
+  tags: []
+"Prz23,17":
+  text: "Let not thine heart envy sinners: but [be thou] in the fear of the LORD all the day long."
+  tags: []
+"Prz23,18":
+  text: "For surely there is an end; and thine expectation shall not be cut off."
+  tags: []
+"Prz23,19":
+  text: "Hear thou, my son, and be wise, and guide thine heart in the way."
+  tags: []
+"Prz23,20":
+  text: "Be not among winebibbers; among riotous eaters of flesh:"
+  tags: []
+"Prz23,21":
+  text: "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe [a man] with rags."
+  tags: []
+"Prz23,22":
+  text: "Hearken unto thy father that begat thee, and despise not thy mother when she is old."
+  tags: []
+"Prz23,23":
+  text: "Buy the truth, and sell [it] not; [also] wisdom, and instruction, and understanding."
+  tags: []
+"Prz23,24":
+  text: "The father of the righteous shall greatly rejoice: and he that begetteth a wise [child] shall have joy of him."
+  tags: []
+"Prz23,25":
+  text: "Thy father and thy mother shall be glad, and she that bare thee shall rejoice."
+  tags: []
+"Prz23,26":
+  text: "My son, give me thine heart, and let thine eyes observe my ways."
+  tags: []
+"Prz23,27":
+  text: "For a whore [is] a deep ditch; and a strange woman [is] a narrow pit."
+  tags: []
+"Prz23,28":
+  text: "She also lieth in wait as [for] a prey, and increaseth the transgressors among men."
+  tags: []
+"Prz23,29":
+  text: "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?"
+  tags: []
+"Prz23,30":
+  text: "They that tarry long at the wine; they that go to seek mixed wine."
+  tags: []
+"Prz23,31":
+  text: "Look not thou upon the wine when it is red, when it giveth his colour in the cup, [when] it moveth itself aright."
+  tags: []
+"Prz23,32":
+  text: "At the last it biteth like a serpent, and stingeth like an adder."
+  tags: []
+"Prz23,33":
+  text: "Thine eyes shall behold strange women, and thine heart shall utter perverse things."
+  tags: []
+"Prz23,34":
+  text: "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast."
+  tags: []
+"Prz23,35":
+  text: "They have stricken me, [shalt thou say, and] I was not sick; they have beaten me, [and] I felt [it] not: when shall I awake? I will seek it yet again."
+  tags: []

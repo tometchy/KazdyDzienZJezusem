@@ -1,37 +1,111 @@
-"Mk13,1": "A gdy On wychodził ze świątyni, powiedział do Niego jeden z Jego uczniów: Nauczycielu! Spójrz, co za kamienie i jak wielkie są te budowle."
-"Mk13,2": "I Jezus w odpowiedzi, rzekł mu: Widzisz te wielkie budowle? Nie zostanie kamień na kamieniu, którego by nie zwalono."
-"Mk13,3": "A gdy On siedział na Górze Oliwnej naprzeciwko świątyni, pytali Go na osobności Piotr i Jakub, i Jan, i Andrzej:"
-"Mk13,4": "Powiedz nam, kiedy to będzie i jaki będzie znak, gdy to wszystko miałoby się spełnić?"
-"Mk13,5": "W odpowiedzi Jezus zaczął im mówić: Uważajcie, aby was ktoś nie zwiódł."
-"Mk13,6": "Albowiem wielu przyjdzie w moim imieniu, mówiąc: Ja jestem; i wielu zwiodą."
-"Mk13,7": "Gdy więc usłyszycie o wojnach i wieści o wojnach, nie dajcie się zastraszyć; albowiem to musi się stać; ale to nie jest jeszcze koniec."
-"Mk13,8": "Powstanie bowiem naród przeciwko narodowi i królestwo przeciwko królestwu, i będą miejscami trzęsienia ziemi, głód i zamieszki. Te wydarzenia to początki bólów porodowych."
-"Mk13,9": "A wy uważajcie na samych siebie, albowiem wydawać was będą lokalnym sanhedrynom; i będą was bić w synagogach, i zostaniecie poprowadzeni przed namiestników i królów ze względu na mnie, na świadectwo dla nich."
-"Mk13,10": "Trzeba, aby najpierw wszystkim narodom została ogłoszona Ewangelia."
-"Mk13,11": "A gdy was będą prowadzić ci, którzy was wydadzą, zawczasu nie troszczcie się, co macie mówić, ani o tym nie rozmyślajcie, ale mówcie to, co wam zostanie dane w tej godzinie; albowiem nie wy jesteście tymi, którzy mówią, ale Duch Święty."
-"Mk13,12": "A wyda brat brata na śmierć, i ojciec syna; i powstaną dzieci przeciwko rodzicom, i doprowadzą do ich śmierci."
-"Mk13,13": "I będziecie znienawidzeni przez wszystkich z powodu mojego imienia; ale kto wytrwa do końca, ten zostanie zbawiony."
-"Mk13,14": "A kiedy zobaczycie obrzydliwość spustoszenia, o której było powiedziane przez proroka Daniela, stojącą tam, gdzie nie powinna – kto czyta, niech rozumie! – wtedy ci, którzy będą w Judei, niech uciekają w góry;"
-"Mk13,15": "A kto jest na dachu, niech nie schodzi do domu, i nie wchodzi, aby coś wziąć ze swojego domu;"
-"Mk13,16": "A kto będzie na polu, niech nie zawraca, aby wziąć swój płaszcz."
-"Mk13,17": "A biada kobietom w ciąży i karmiącym piersią w te dni!"
-"Mk13,18": "A módlcie się, aby wasza ucieczka nie była w zimie."
-"Mk13,19": "Bowiem te dni będą takim uciskiem, jakiego nie było od początku stworzenia, które dokonał Bóg, aż do teraz, i już nie będzie."
-"Mk13,20": "A jeśliby Pan nie skrócił tych dni, nie byłoby zbawione żadne ciało; lecz z powodu wybranych, których wybrał dla siebie, skrócił te dni."
-"Mk13,21": "I wtedy, jeśliby ktoś wam powiedział: Oto tu jest Mesjasz, albo oto tam, nie wierzcie."
-"Mk13,22": "Albowiem powstaną fałszywi mesjasze i fałszywi prorocy, i czynić będą znaki i cuda, aby zwieść jeśli to możliwe, i wybranych."
-"Mk13,23": "Wy natomiast uważajcie; oto zapowiedziałem wam to wszystko."
-"Mk13,24": "Ale w tych dniach, po tym ucisku, słońce zostanie zaćmione i księżyc nie da swojego blasku,"
-"Mk13,25": "I gwiazdy z nieba będą spadały, a moce w niebiosach będą poruszone."
-"Mk13,26": "A wtedy zobaczą Syna Człowieczego, przychodzącego w obłokach z wielką mocą i chwałą."
-"Mk13,27": "I wtedy pośle swoich aniołów, i zgromadzi swoich wybranych z czterech stron, od krańców ziemi aż po krańce nieba."
-"Mk13,28": "A od figowca uczcie się tego podobieństwa: Gdy gałąź jego staje się miękka i wypuszcza liście, poznajecie, że blisko jest lato."
-"Mk13,29": "Tak i wy, gdy zobaczycie, że to się dzieje, wiedzcie, że blisko jest, u drzwi."
-"Mk13,30": "Zaprawdę mówię wam, że nie przeminie to pokolenie, aż wszystko to się stanie."
-"Mk13,31": "Niebo i ziemia przeminą, ale słowa moje nie mogą przeminąć."
-"Mk13,32": "A o tym dniu i o tej godzinie nikt nie wie, ani aniołowie w niebie, ani Syn, tylko Ojciec."
-"Mk13,33": "Uważajcie, czuwajcie i módlcie się; bo nie wiecie, kiedy będzie ten czas."
-"Mk13,34": "Jak człowiek, który gdy odjeżdżał, zostawił swój dom i dał władzę swoim sługom, i każdemu jego zadanie, a odźwiernemu nakazał, aby czuwał."
-"Mk13,35": "Tak czuwajcie zatem, bo nie wiecie, kiedy pan domu przyjdzie, czy wieczorem, czy o północy, czy gdy kur zapieje, czy o poranku."
-"Mk13,36": "Aby, gdy nagle przyjdzie, nie znalazł was śpiących."
-"Mk13,37": "A to, co wam mówię, mówię wszystkim: Czuwajcie!"
+"Mk13,1":
+  text: "A gdy On wychodził ze świątyni, powiedział do Niego jeden z Jego uczniów: Nauczycielu! Spójrz, co za kamienie i jak wielkie są te budowle."
+  tags: []
+"Mk13,2":
+  text: "I Jezus w odpowiedzi, rzekł mu: Widzisz te wielkie budowle? Nie zostanie kamień na kamieniu, którego by nie zwalono."
+  tags: []
+"Mk13,3":
+  text: "A gdy On siedział na Górze Oliwnej naprzeciwko świątyni, pytali Go na osobności Piotr i Jakub, i Jan, i Andrzej:"
+  tags: []
+"Mk13,4":
+  text: "Powiedz nam, kiedy to będzie i jaki będzie znak, gdy to wszystko miałoby się spełnić?"
+  tags: []
+"Mk13,5":
+  text: "W odpowiedzi Jezus zaczął im mówić: Uważajcie, aby was ktoś nie zwiódł."
+  tags: []
+"Mk13,6":
+  text: "Albowiem wielu przyjdzie w moim imieniu, mówiąc: Ja jestem; i wielu zwiodą."
+  tags: []
+"Mk13,7":
+  text: "Gdy więc usłyszycie o wojnach i wieści o wojnach, nie dajcie się zastraszyć; albowiem to musi się stać; ale to nie jest jeszcze koniec."
+  tags: []
+"Mk13,8":
+  text: "Powstanie bowiem naród przeciwko narodowi i królestwo przeciwko królestwu, i będą miejscami trzęsienia ziemi, głód i zamieszki. Te wydarzenia to początki bólów porodowych."
+  tags: []
+"Mk13,9":
+  text: "A wy uważajcie na samych siebie, albowiem wydawać was będą lokalnym sanhedrynom; i będą was bić w synagogach, i zostaniecie poprowadzeni przed namiestników i królów ze względu na mnie, na świadectwo dla nich."
+  tags: []
+"Mk13,10":
+  text: "Trzeba, aby najpierw wszystkim narodom została ogłoszona Ewangelia."
+  tags: []
+"Mk13,11":
+  text: "A gdy was będą prowadzić ci, którzy was wydadzą, zawczasu nie troszczcie się, co macie mówić, ani o tym nie rozmyślajcie, ale mówcie to, co wam zostanie dane w tej godzinie; albowiem nie wy jesteście tymi, którzy mówią, ale Duch Święty."
+  tags: []
+"Mk13,12":
+  text: "A wyda brat brata na śmierć, i ojciec syna; i powstaną dzieci przeciwko rodzicom, i doprowadzą do ich śmierci."
+  tags: []
+"Mk13,13":
+  text: "I będziecie znienawidzeni przez wszystkich z powodu mojego imienia; ale kto wytrwa do końca, ten zostanie zbawiony."
+  tags: []
+"Mk13,14":
+  text: "A kiedy zobaczycie obrzydliwość spustoszenia, o której było powiedziane przez proroka Daniela, stojącą tam, gdzie nie powinna – kto czyta, niech rozumie! – wtedy ci, którzy będą w Judei, niech uciekają w góry;"
+  tags: []
+"Mk13,15":
+  text: "A kto jest na dachu, niech nie schodzi do domu, i nie wchodzi, aby coś wziąć ze swojego domu;"
+  tags: []
+"Mk13,16":
+  text: "A kto będzie na polu, niech nie zawraca, aby wziąć swój płaszcz."
+  tags: []
+"Mk13,17":
+  text: "A biada kobietom w ciąży i karmiącym piersią w te dni!"
+  tags: []
+"Mk13,18":
+  text: "A módlcie się, aby wasza ucieczka nie była w zimie."
+  tags: []
+"Mk13,19":
+  text: "Bowiem te dni będą takim uciskiem, jakiego nie było od początku stworzenia, które dokonał Bóg, aż do teraz, i już nie będzie."
+  tags: []
+"Mk13,20":
+  text: "A jeśliby Pan nie skrócił tych dni, nie byłoby zbawione żadne ciało; lecz z powodu wybranych, których wybrał dla siebie, skrócił te dni."
+  tags: []
+"Mk13,21":
+  text: "I wtedy, jeśliby ktoś wam powiedział: Oto tu jest Mesjasz, albo oto tam, nie wierzcie."
+  tags: []
+"Mk13,22":
+  text: "Albowiem powstaną fałszywi mesjasze i fałszywi prorocy, i czynić będą znaki i cuda, aby zwieść jeśli to możliwe, i wybranych."
+  tags: []
+"Mk13,23":
+  text: "Wy natomiast uważajcie; oto zapowiedziałem wam to wszystko."
+  tags: []
+"Mk13,24":
+  text: "Ale w tych dniach, po tym ucisku, słońce zostanie zaćmione i księżyc nie da swojego blasku,"
+  tags: []
+"Mk13,25":
+  text: "I gwiazdy z nieba będą spadały, a moce w niebiosach będą poruszone."
+  tags: []
+"Mk13,26":
+  text: "A wtedy zobaczą Syna Człowieczego, przychodzącego w obłokach z wielką mocą i chwałą."
+  tags: []
+"Mk13,27":
+  text: "I wtedy pośle swoich aniołów, i zgromadzi swoich wybranych z czterech stron, od krańców ziemi aż po krańce nieba."
+  tags: []
+"Mk13,28":
+  text: "A od figowca uczcie się tego podobieństwa: Gdy gałąź jego staje się miękka i wypuszcza liście, poznajecie, że blisko jest lato."
+  tags: []
+"Mk13,29":
+  text: "Tak i wy, gdy zobaczycie, że to się dzieje, wiedzcie, że blisko jest, u drzwi."
+  tags: []
+"Mk13,30":
+  text: "Zaprawdę mówię wam, że nie przeminie to pokolenie, aż wszystko to się stanie."
+  tags: []
+"Mk13,31":
+  text: "Niebo i ziemia przeminą, ale słowa moje nie mogą przeminąć."
+  tags: []
+"Mk13,32":
+  text: "A o tym dniu i o tej godzinie nikt nie wie, ani aniołowie w niebie, ani Syn, tylko Ojciec."
+  tags: []
+"Mk13,33":
+  text: "Uważajcie, czuwajcie i módlcie się; bo nie wiecie, kiedy będzie ten czas."
+  tags: []
+"Mk13,34":
+  text: "Jak człowiek, który gdy odjeżdżał, zostawił swój dom i dał władzę swoim sługom, i każdemu jego zadanie, a odźwiernemu nakazał, aby czuwał."
+  tags: []
+"Mk13,35":
+  text: "Tak czuwajcie zatem, bo nie wiecie, kiedy pan domu przyjdzie, czy wieczorem, czy o północy, czy gdy kur zapieje, czy o poranku."
+  tags: []
+"Mk13,36":
+  text: "Aby, gdy nagle przyjdzie, nie znalazł was śpiących."
+  tags: []
+"Mk13,37":
+  text: "A to, co wam mówię, mówię wszystkim: Czuwajcie!"
+  tags: []

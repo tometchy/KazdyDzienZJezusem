@@ -1,33 +1,99 @@
-"Lb13,1": "And the LORD spake unto Moses, saying,"
-"Lb13,2": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
-"Lb13,3": "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men [were] heads of the children of Israel."
-"Lb13,4": "And these [were] their names: of the tribe of Reuben, Shammua the son of Zaccur."
-"Lb13,5": "Of the tribe of Simeon, Shaphat the son of Hori."
-"Lb13,6": "Of the tribe of Judah, Caleb the son of Jephunneh."
-"Lb13,7": "Of the tribe of Issachar, Igal the son of Joseph."
-"Lb13,8": "Of the tribe of Ephraim, Oshea the son of Nun."
-"Lb13,9": "Of the tribe of Benjamin, Palti the son of Raphu."
-"Lb13,10": "Of the tribe of Zebulun, Gaddiel the son of Sodi."
-"Lb13,11": "Of the tribe of Joseph, [namely], of the tribe of Manasseh, Gaddi the son of Susi."
-"Lb13,12": "Of the tribe of Dan, Ammiel the son of Gemalli."
-"Lb13,13": "Of the tribe of Asher, Sethur the son of Michael."
-"Lb13,14": "Of the tribe of Naphtali, Nahbi the son of Vophsi."
-"Lb13,15": "Of the tribe of Gad, Geuel the son of Machi."
-"Lb13,16": "These [are] the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua."
-"Lb13,17": "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this [way] southward, and go up into the mountain:"
-"Lb13,18": "And see the land, what it [is]; and the people that dwelleth therein, whether they [be] strong or weak, few or many;"
-"Lb13,19": "And what the land [is] that they dwell in, whether it [be] good or bad; and what cities [they be] that they dwell in, whether in tents, or in strong holds;"
-"Lb13,20": "And what the land [is], whether it [be] fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time [was] the time of the firstripe grapes."
-"Lb13,21": "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
-"Lb13,22": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, [were]. (Now Hebron was built seven years before Zoan in Egypt.)"
-"Lb13,23": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and [they brought] of the pomegranates, and of the figs."
-"Lb13,24": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence."
-"Lb13,25": "And they returned from searching of the land after forty days."
-"Lb13,26": "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land."
-"Lb13,27": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this [is] the fruit of it."
-"Lb13,28": "Nevertheless the people [be] strong that dwell in the land, and the cities [are] walled, [and] very great: and moreover we saw the children of Anak there."
-"Lb13,29": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan."
-"Lb13,30": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
-"Lb13,31": "But the men that went up with him said, We be not able to go up against the people; for they [are] stronger than we."
-"Lb13,32": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, [is] a land that eateth up the inhabitants thereof; and all the people that we saw in it [are] men of a great stature."
-"Lb13,33": "And there we saw the giants, the sons of Anak, [which come] of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
+"Lb13,1":
+  text: "And the LORD spake unto Moses, saying,"
+  tags: []
+"Lb13,2":
+  text: "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
+  tags: []
+"Lb13,3":
+  text: "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men [were] heads of the children of Israel."
+  tags: []
+"Lb13,4":
+  text: "And these [were] their names: of the tribe of Reuben, Shammua the son of Zaccur."
+  tags: []
+"Lb13,5":
+  text: "Of the tribe of Simeon, Shaphat the son of Hori."
+  tags: []
+"Lb13,6":
+  text: "Of the tribe of Judah, Caleb the son of Jephunneh."
+  tags: []
+"Lb13,7":
+  text: "Of the tribe of Issachar, Igal the son of Joseph."
+  tags: []
+"Lb13,8":
+  text: "Of the tribe of Ephraim, Oshea the son of Nun."
+  tags: []
+"Lb13,9":
+  text: "Of the tribe of Benjamin, Palti the son of Raphu."
+  tags: []
+"Lb13,10":
+  text: "Of the tribe of Zebulun, Gaddiel the son of Sodi."
+  tags: []
+"Lb13,11":
+  text: "Of the tribe of Joseph, [namely], of the tribe of Manasseh, Gaddi the son of Susi."
+  tags: []
+"Lb13,12":
+  text: "Of the tribe of Dan, Ammiel the son of Gemalli."
+  tags: []
+"Lb13,13":
+  text: "Of the tribe of Asher, Sethur the son of Michael."
+  tags: []
+"Lb13,14":
+  text: "Of the tribe of Naphtali, Nahbi the son of Vophsi."
+  tags: []
+"Lb13,15":
+  text: "Of the tribe of Gad, Geuel the son of Machi."
+  tags: []
+"Lb13,16":
+  text: "These [are] the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua."
+  tags: []
+"Lb13,17":
+  text: "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this [way] southward, and go up into the mountain:"
+  tags: []
+"Lb13,18":
+  text: "And see the land, what it [is]; and the people that dwelleth therein, whether they [be] strong or weak, few or many;"
+  tags: []
+"Lb13,19":
+  text: "And what the land [is] that they dwell in, whether it [be] good or bad; and what cities [they be] that they dwell in, whether in tents, or in strong holds;"
+  tags: []
+"Lb13,20":
+  text: "And what the land [is], whether it [be] fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time [was] the time of the firstripe grapes."
+  tags: []
+"Lb13,21":
+  text: "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
+  tags: []
+"Lb13,22":
+  text: "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, [were]. (Now Hebron was built seven years before Zoan in Egypt.)"
+  tags: []
+"Lb13,23":
+  text: "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and [they brought] of the pomegranates, and of the figs."
+  tags: []
+"Lb13,24":
+  text: "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence."
+  tags: []
+"Lb13,25":
+  text: "And they returned from searching of the land after forty days."
+  tags: []
+"Lb13,26":
+  text: "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land."
+  tags: []
+"Lb13,27":
+  text: "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this [is] the fruit of it."
+  tags: []
+"Lb13,28":
+  text: "Nevertheless the people [be] strong that dwell in the land, and the cities [are] walled, [and] very great: and moreover we saw the children of Anak there."
+  tags: []
+"Lb13,29":
+  text: "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan."
+  tags: []
+"Lb13,30":
+  text: "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
+  tags: []
+"Lb13,31":
+  text: "But the men that went up with him said, We be not able to go up against the people; for they [are] stronger than we."
+  tags: []
+"Lb13,32":
+  text: "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, [is] a land that eateth up the inhabitants thereof; and all the people that we saw in it [are] men of a great stature."
+  tags: []
+"Lb13,33":
+  text: "And there we saw the giants, the sons of Anak, [which come] of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
+  tags: []

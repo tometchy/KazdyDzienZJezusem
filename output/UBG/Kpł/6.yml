@@ -1,30 +1,90 @@
-"Kpł6,1": "Potem PAN powiedział do Mojżesza:"
-"Kpł6,2": "Jeśli ktoś zgrzeszy i popełni przewinienie przeciwko PANU przez to, że zaprze się wobec bliźniego rzeczy powierzonej lub oddanej do przechowania, lub zrabowanej, albo przez to, że oszukał bliźniego;"
-"Kpł6,3": "Albo jeśli znalazł rzecz zgubioną i zaprzeczał temu lub przysięgał fałszywie w jakiejkolwiek z tych spraw, które człowiek czyni, i przez to grzeszy;"
-"Kpł6,4": "Skoro więc tak zgrzeszył i stał się winnym, zwróci to, co zrabował lub zdobył przez oszustwo, lub to, co mu powierzono, lub rzecz zgubioną, którą znalazł;"
-"Kpł6,5": "Albo to, o czymkolwiek fałszywie przysięgał. Zwróci całą należność i dołoży do niej jedną piątą, i odda temu, do kogo to należało, w dniu swojej ofiary za przewinienie."
-"Kpł6,6": "A do kapłana przyprowadzi PANU ofiarę za swoje przewinienie: barana z trzody bez skazy według twego oszacowania na ofiarę za przewinienie."
-"Kpł6,7": "I kapłan dokona za niego przebłagania przed PANEM, i będzie mu przebaczone, cokolwiek uczynił, przez co stał się winny."
-"Kpł6,8": "I PAN powiedział do Mojżesza:"
-"Kpł6,9": "Rozkaż Aaronowi i jego synom: Takie jest prawo całopalenia: Jest to całopalenie, bo będzie palone na ołtarzu przez całą noc aż do rana; a ogień na ołtarzu nieustannie będzie płonął."
-"Kpł6,10": "I kapłan włoży swoją lnianą szatę i na swoje ciało lniane spodnie oraz zbierze popiół z całopalenia, które ogień strawił na ołtarzu, i wysypie go obok ołtarza."
-"Kpł6,11": "Potem zdejmie swe szaty i ubierze się w inne, i wyniesie popiół za obóz, na czyste miejsce."
-"Kpł6,12": "A ogień na ołtarzu będzie płonął nieustannie, nie będzie gaszony. Kapłan rozpali na nim drwa każdego ranka i położy na nim ofiarę całopalną, i spali na nim tłuszcz ofiar pojednawczych."
-"Kpł6,13": "Ogień będzie płonął na ołtarzu nieustannie, nie będzie gaszony."
-"Kpł6,14": "Takie jest prawo ofiary pokarmowej: Synowie Aarona będą ją składać przed PANEM, przed ołtarzem."
-"Kpł6,15": "Kapłan weźmie garść mąki z ofiary pokarmowej wraz z oliwą i całym kadzidłem, które będzie na ofierze pokarmowej, i spali to na ołtarzu jako pamiątkę na miłą woń dla PANA."
-"Kpł6,16": "A to, co z niej zostanie, będą jeść Aaron i jego synowie. Będzie to spożywane bez zakwasu na miejscu świętym, spożyją to na dziedzińcu Namiotu Zgromadzenia."
-"Kpł6,17": "Nie będą tego piec na zakwasie. Dałem to im bowiem jako ich dział z moich ofiar ogniowych; jest to rzecz najświętsza, tak jak ofiara za grzech i ofiara za przewinienie."
-"Kpł6,18": "Każdy mężczyzna spośród synów Aarona będzie to spożywać. Jest to ustawa wieczna dla waszych pokoleń, dotycząca ofiar ogniowych PANA. Każdy, kto ich dotknie, będzie poświęcony."
-"Kpł6,19": "Potem PAN powiedział do Mojżesza:"
-"Kpł6,20": "Taka jest ofiara Aarona i jego synów, którą będą składać PANU w dniu swego namaszczenia: dziesiąta część efy mąki pszennej jako nieustanna ofiara pokarmowa, połowa jej rano, a połowa wieczorem."
-"Kpł6,21": "Będzie ona przyrządzona na patelni z oliwą. Przyniesiesz ją smażoną i będziesz składać w kawałkach jako ofiarę pokarmową na miłą woń dla PANA."
-"Kpł6,22": "Kapłan namaszczony na jego miejsce spośród jego synów będzie ją składać. Jest to ustawa wieczna dla PANA, cała będzie spalona."
-"Kpł6,23": "I każda kapłańska ofiara pokarmowa będzie spalona w całości. Nie może być spożywana."
-"Kpł6,24": "Potem PAN powiedział do Mojżesza:"
-"Kpł6,25": "Powiedz Aaronowi i jego synom: Takie jest prawo ofiary za grzech: Na miejscu, gdzie będzie zabijana ofiara całopalna, zostanie zabita przed PANEM ofiara za grzech. Jest to rzecz najświętsza."
-"Kpł6,26": "Kapłan, który będzie ją składał za grzech, będzie ją jeść. Będzie spożywana na miejscu świętym, na dziedzińcu Namiotu Zgromadzenia."
-"Kpł6,27": "Każdy, kto dotknie jej mięsa, będzie poświęcony. A jeśli szata będzie opryskana jej krwią, wypierzesz na miejscu świętym to, co zostało opryskane."
-"Kpł6,28": "A naczynie gliniane, w którym ją gotowano, zostanie stłuczone. A jeśli była gotowana w naczyniu miedzianym, zostanie wyszorowane i wypłukane wodą."
-"Kpł6,29": "Każdy mężczyzna spośród kapłanów będzie ją jeść. Jest to rzecz najświętsza."
-"Kpł6,30": "A żadna ofiara za grzech, której krew wnosi się do Namiotu Zgromadzenia dla oczyszczenia w świątyni, nie będzie jedzona, lecz zostanie spalona w ogniu."
+"Kpł6,1":
+  text: "Potem PAN powiedział do Mojżesza:"
+  tags: []
+"Kpł6,2":
+  text: "Jeśli ktoś zgrzeszy i popełni przewinienie przeciwko PANU przez to, że zaprze się wobec bliźniego rzeczy powierzonej lub oddanej do przechowania, lub zrabowanej, albo przez to, że oszukał bliźniego;"
+  tags: []
+"Kpł6,3":
+  text: "Albo jeśli znalazł rzecz zgubioną i zaprzeczał temu lub przysięgał fałszywie w jakiejkolwiek z tych spraw, które człowiek czyni, i przez to grzeszy;"
+  tags: []
+"Kpł6,4":
+  text: "Skoro więc tak zgrzeszył i stał się winnym, zwróci to, co zrabował lub zdobył przez oszustwo, lub to, co mu powierzono, lub rzecz zgubioną, którą znalazł;"
+  tags: []
+"Kpł6,5":
+  text: "Albo to, o czymkolwiek fałszywie przysięgał. Zwróci całą należność i dołoży do niej jedną piątą, i odda temu, do kogo to należało, w dniu swojej ofiary za przewinienie."
+  tags: []
+"Kpł6,6":
+  text: "A do kapłana przyprowadzi PANU ofiarę za swoje przewinienie: barana z trzody bez skazy według twego oszacowania na ofiarę za przewinienie."
+  tags: []
+"Kpł6,7":
+  text: "I kapłan dokona za niego przebłagania przed PANEM, i będzie mu przebaczone, cokolwiek uczynił, przez co stał się winny."
+  tags: []
+"Kpł6,8":
+  text: "I PAN powiedział do Mojżesza:"
+  tags: []
+"Kpł6,9":
+  text: "Rozkaż Aaronowi i jego synom: Takie jest prawo całopalenia: Jest to całopalenie, bo będzie palone na ołtarzu przez całą noc aż do rana; a ogień na ołtarzu nieustannie będzie płonął."
+  tags: []
+"Kpł6,10":
+  text: "I kapłan włoży swoją lnianą szatę i na swoje ciało lniane spodnie oraz zbierze popiół z całopalenia, które ogień strawił na ołtarzu, i wysypie go obok ołtarza."
+  tags: []
+"Kpł6,11":
+  text: "Potem zdejmie swe szaty i ubierze się w inne, i wyniesie popiół za obóz, na czyste miejsce."
+  tags: []
+"Kpł6,12":
+  text: "A ogień na ołtarzu będzie płonął nieustannie, nie będzie gaszony. Kapłan rozpali na nim drwa każdego ranka i położy na nim ofiarę całopalną, i spali na nim tłuszcz ofiar pojednawczych."
+  tags: []
+"Kpł6,13":
+  text: "Ogień będzie płonął na ołtarzu nieustannie, nie będzie gaszony."
+  tags: []
+"Kpł6,14":
+  text: "Takie jest prawo ofiary pokarmowej: Synowie Aarona będą ją składać przed PANEM, przed ołtarzem."
+  tags: []
+"Kpł6,15":
+  text: "Kapłan weźmie garść mąki z ofiary pokarmowej wraz z oliwą i całym kadzidłem, które będzie na ofierze pokarmowej, i spali to na ołtarzu jako pamiątkę na miłą woń dla PANA."
+  tags: []
+"Kpł6,16":
+  text: "A to, co z niej zostanie, będą jeść Aaron i jego synowie. Będzie to spożywane bez zakwasu na miejscu świętym, spożyją to na dziedzińcu Namiotu Zgromadzenia."
+  tags: []
+"Kpł6,17":
+  text: "Nie będą tego piec na zakwasie. Dałem to im bowiem jako ich dział z moich ofiar ogniowych; jest to rzecz najświętsza, tak jak ofiara za grzech i ofiara za przewinienie."
+  tags: []
+"Kpł6,18":
+  text: "Każdy mężczyzna spośród synów Aarona będzie to spożywać. Jest to ustawa wieczna dla waszych pokoleń, dotycząca ofiar ogniowych PANA. Każdy, kto ich dotknie, będzie poświęcony."
+  tags: []
+"Kpł6,19":
+  text: "Potem PAN powiedział do Mojżesza:"
+  tags: []
+"Kpł6,20":
+  text: "Taka jest ofiara Aarona i jego synów, którą będą składać PANU w dniu swego namaszczenia: dziesiąta część efy mąki pszennej jako nieustanna ofiara pokarmowa, połowa jej rano, a połowa wieczorem."
+  tags: []
+"Kpł6,21":
+  text: "Będzie ona przyrządzona na patelni z oliwą. Przyniesiesz ją smażoną i będziesz składać w kawałkach jako ofiarę pokarmową na miłą woń dla PANA."
+  tags: []
+"Kpł6,22":
+  text: "Kapłan namaszczony na jego miejsce spośród jego synów będzie ją składać. Jest to ustawa wieczna dla PANA, cała będzie spalona."
+  tags: []
+"Kpł6,23":
+  text: "I każda kapłańska ofiara pokarmowa będzie spalona w całości. Nie może być spożywana."
+  tags: []
+"Kpł6,24":
+  text: "Potem PAN powiedział do Mojżesza:"
+  tags: []
+"Kpł6,25":
+  text: "Powiedz Aaronowi i jego synom: Takie jest prawo ofiary za grzech: Na miejscu, gdzie będzie zabijana ofiara całopalna, zostanie zabita przed PANEM ofiara za grzech. Jest to rzecz najświętsza."
+  tags: []
+"Kpł6,26":
+  text: "Kapłan, który będzie ją składał za grzech, będzie ją jeść. Będzie spożywana na miejscu świętym, na dziedzińcu Namiotu Zgromadzenia."
+  tags: []
+"Kpł6,27":
+  text: "Każdy, kto dotknie jej mięsa, będzie poświęcony. A jeśli szata będzie opryskana jej krwią, wypierzesz na miejscu świętym to, co zostało opryskane."
+  tags: []
+"Kpł6,28":
+  text: "A naczynie gliniane, w którym ją gotowano, zostanie stłuczone. A jeśli była gotowana w naczyniu miedzianym, zostanie wyszorowane i wypłukane wodą."
+  tags: []
+"Kpł6,29":
+  text: "Każdy mężczyzna spośród kapłanów będzie ją jeść. Jest to rzecz najświętsza."
+  tags: []
+"Kpł6,30":
+  text: "A żadna ofiara za grzech, której krew wnosi się do Namiotu Zgromadzenia dla oczyszczenia w świątyni, nie będzie jedzona, lecz zostanie spalona w ogniu."
+  tags: []

@@ -1,21 +1,63 @@
-"Flp3,1": "W końcu, bracia moi, radujcie się w Panu. Pisać wam to samo, z pewnością nie jest dla mnie nużące, ale dla was jest to zabezpieczeniem."
-"Flp3,2": "Przypatrujcie się psom, przypatrujcie się złym pracownikom, przypatrujcie się obrzezywaczom."
-"Flp3,3": "My bowiem jesteśmy obrzezaniem, my, którzy służymy w duchu Bogu i chlubimy się w Chrystusie Jezusie, a w ciele nie pokładamy ufności."
-"Flp3,4": "Chociaż ja mógłbym mieć ufność także w ciele; a jeśli ktoś inny mniema, że może pokładać ufność w ciele, to ja tym bardziej;"
-"Flp3,5": "Obrzezany ósmego dnia, z rodu Izraela, z pokolenia Beniamina, Hebrajczyk z Hebrajczyków, według Prawa faryzeusz,"
-"Flp3,6": "Co do żarliwości – prześladowca Kościoła, co do sprawiedliwości, opartej na Prawie – stałem się nienaganny."
-"Flp3,7": "Ale to, co mi było zyskiem, to z powodu Chrystusa uznałem za szkodę."
-"Flp3,8": "Ale istotnie, raczej i wszystko uznaję za szkodę z powodu górującego nad wszystkim poznania Chrystusa Jezusa, mojego Pana, dla którego wszystko straciłem i wszystko uznaję za śmieci, żeby zyskać Chrystusa,"
-"Flp3,9": "I zostać znalezionym w Nim, nie mając własnej sprawiedliwości, która jest z Prawa, ale tę, która jest przez wiarę Chrystusa, sprawiedliwość z Boga przez wiarę,"
-"Flp3,10": "Żeby poznać Go i moc Jego zmartwychwstania i mieć udział w Jego cierpieniach, będąc kształtowanym Jego śmiercią,"
-"Flp3,11": "Obym w jakiś sposób przeszedł do powstania z martwych."
-"Flp3,12": "Nie żebym już posiadł albo już jestem doskonały; ale dążę do tego, aby pochwycić, gdyż zostałem pochwycony przez Jezusa Chrystusa."
-"Flp3,13": "Bracia, ja nie sądzę o sobie, że pochwyciłem,"
-"Flp3,14": "Ale jedno czynię: zapominam, co za mną i z uporem sięgam po to, co przede mną, prę do celu, ku nagrodzie pochodzącego z góry powołania Bożego w Chrystusie Jezusie."
-"Flp3,15": "Ilu nas zatem doskonałych, tak myślmy; a jeżeli coś inaczej myślicie, i to wam Bóg objawi."
-"Flp3,16": "Niemniej do czego doszliśmy, w tym postępujmy według tych samych zasad i tak samo myślmy."
-"Flp3,17": "Bądźcie współnaśladowcami moimi, bracia, i przyglądajcie się tym, którzy postępują według wzoru, jaki w nas macie."
-"Flp3,18": "Wielu bowiem o których wam często mówiłem, a teraz i z płaczem mówię, postępuje jak wrogowie krzyża Chrystusa;"
-"Flp3,19": "Takich końcem jest zatracenie, takich bogiem jest brzuch, a chwała ich w hańbie, oni myślą o rzeczach ziemskich."
-"Flp3,20": "Nasza bowiem ojczyzna jest w niebiosach, skąd też oczekujemy Zbawiciela, Pana Jezusa Chrystusa,"
-"Flp3,21": "Który przekształci poniżone ciało nasze, aby stało się w swej postaci podobne ciału chwały Jego, według skutecznego działania Jego mocy, którą też wszystko może sobie podporządkować."
+"Flp3,1":
+  text: "W końcu, bracia moi, radujcie się w Panu. Pisać wam to samo, z pewnością nie jest dla mnie nużące, ale dla was jest to zabezpieczeniem."
+  tags: []
+"Flp3,2":
+  text: "Przypatrujcie się psom, przypatrujcie się złym pracownikom, przypatrujcie się obrzezywaczom."
+  tags: []
+"Flp3,3":
+  text: "My bowiem jesteśmy obrzezaniem, my, którzy służymy w duchu Bogu i chlubimy się w Chrystusie Jezusie, a w ciele nie pokładamy ufności."
+  tags: []
+"Flp3,4":
+  text: "Chociaż ja mógłbym mieć ufność także w ciele; a jeśli ktoś inny mniema, że może pokładać ufność w ciele, to ja tym bardziej;"
+  tags: []
+"Flp3,5":
+  text: "Obrzezany ósmego dnia, z rodu Izraela, z pokolenia Beniamina, Hebrajczyk z Hebrajczyków, według Prawa faryzeusz,"
+  tags: []
+"Flp3,6":
+  text: "Co do żarliwości – prześladowca Kościoła, co do sprawiedliwości, opartej na Prawie – stałem się nienaganny."
+  tags: []
+"Flp3,7":
+  text: "Ale to, co mi było zyskiem, to z powodu Chrystusa uznałem za szkodę."
+  tags: []
+"Flp3,8":
+  text: "Ale istotnie, raczej i wszystko uznaję za szkodę z powodu górującego nad wszystkim poznania Chrystusa Jezusa, mojego Pana, dla którego wszystko straciłem i wszystko uznaję za śmieci, żeby zyskać Chrystusa,"
+  tags: []
+"Flp3,9":
+  text: "I zostać znalezionym w Nim, nie mając własnej sprawiedliwości, która jest z Prawa, ale tę, która jest przez wiarę Chrystusa, sprawiedliwość z Boga przez wiarę,"
+  tags: []
+"Flp3,10":
+  text: "Żeby poznać Go i moc Jego zmartwychwstania i mieć udział w Jego cierpieniach, będąc kształtowanym Jego śmiercią,"
+  tags: []
+"Flp3,11":
+  text: "Obym w jakiś sposób przeszedł do powstania z martwych."
+  tags: []
+"Flp3,12":
+  text: "Nie żebym już posiadł albo już jestem doskonały; ale dążę do tego, aby pochwycić, gdyż zostałem pochwycony przez Jezusa Chrystusa."
+  tags: []
+"Flp3,13":
+  text: "Bracia, ja nie sądzę o sobie, że pochwyciłem,"
+  tags: []
+"Flp3,14":
+  text: "Ale jedno czynię: zapominam, co za mną i z uporem sięgam po to, co przede mną, prę do celu, ku nagrodzie pochodzącego z góry powołania Bożego w Chrystusie Jezusie."
+  tags: []
+"Flp3,15":
+  text: "Ilu nas zatem doskonałych, tak myślmy; a jeżeli coś inaczej myślicie, i to wam Bóg objawi."
+  tags: []
+"Flp3,16":
+  text: "Niemniej do czego doszliśmy, w tym postępujmy według tych samych zasad i tak samo myślmy."
+  tags: []
+"Flp3,17":
+  text: "Bądźcie współnaśladowcami moimi, bracia, i przyglądajcie się tym, którzy postępują według wzoru, jaki w nas macie."
+  tags: []
+"Flp3,18":
+  text: "Wielu bowiem o których wam często mówiłem, a teraz i z płaczem mówię, postępuje jak wrogowie krzyża Chrystusa;"
+  tags: []
+"Flp3,19":
+  text: "Takich końcem jest zatracenie, takich bogiem jest brzuch, a chwała ich w hańbie, oni myślą o rzeczach ziemskich."
+  tags: []
+"Flp3,20":
+  text: "Nasza bowiem ojczyzna jest w niebiosach, skąd też oczekujemy Zbawiciela, Pana Jezusa Chrystusa,"
+  tags: []
+"Flp3,21":
+  text: "Który przekształci poniżone ciało nasze, aby stało się w swej postaci podobne ciału chwały Jego, według skutecznego działania Jego mocy, którą też wszystko może sobie podporządkować."
+  tags: []

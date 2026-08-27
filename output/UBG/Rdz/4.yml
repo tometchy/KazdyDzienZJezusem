@@ -1,26 +1,78 @@
-"Rdz4,1": "Potem Adam obcował ze swoją żoną Ewą, a ta poczęła i urodziła Kaina. I powiedziała: Otrzymałam mężczyznę od PANA."
-"Rdz4,2": "I urodziła jeszcze jego brata Abla. Abel był pasterzem owiec, a Kain był rolnikiem."
-"Rdz4,3": "Z biegiem czasu zdarzyło się, że Kain przyniósł PANU ofiarę z plonów ziemi."
-"Rdz4,4": "Także Abel przyniósł z pierworodnych swej trzody i z ich tłuszczu. A PAN wejrzał na Abla i jego ofiarę."
-"Rdz4,5": "Lecz na Kaina i jego ofiarę nie wejrzał. Kain rozgniewał się bardzo i spochmurniała jego twarz."
-"Rdz4,6": "Wtedy PAN zapytał Kaina: Dlaczego się rozgniewałeś? Czemu spochmurniała twoja twarz?"
-"Rdz4,7": "Jeśli będziesz dobrze czynił, czy nie zostaniesz wywyższony? A jeśli nie będziesz dobrze czynił, grzech leży u drzwi; a do ciebie będzie jego pragnienie, a ty będziesz nad nim panować."
-"Rdz4,8": "I Kain rozmawiał ze swoim bratem Ablem. A gdy byli na polu, Kain powstał przeciwko swemu bratu Ablowi i zabił go."
-"Rdz4,9": "Wtedy PAN zapytał Kaina: Gdzie jest twój brat Abel? On odpowiedział: Nie wiem. Czy ja jestem stróżem mego brata?"
-"Rdz4,10": "Bóg zapytał: Cóż uczyniłeś? Głos krwi twego brata woła do mnie z ziemi."
-"Rdz4,11": "Teraz więc przeklęty będziesz na ziemi, która otworzyła swe usta, aby przyjąć krew twego brata przelaną przez twoją rękę."
-"Rdz4,12": "Gdy będziesz uprawiał ziemię, nie da ci już swego plonu. Tułaczem i zbiegiem będziesz na ziemi."
-"Rdz4,13": "Wtedy Kain powiedział do PANA: Zbyt ciężka jest moja kara, bym mógł ją znieść."
-"Rdz4,14": "Oto wyganiasz mnie dziś z powierzchni ziemi, a przed twoją twarzą będę ukryty. Będę tułaczem i zbiegiem na ziemi, a stanie się tak, że ktokolwiek mnie spotka, zabije mnie."
-"Rdz4,15": "PAN mu odpowiedział: Zaprawdę, ktokolwiek zabije Kaina, poniesie siedmiokrotną zemstę. I nałożył PAN na Kaina piętno, aby nie zabił go nikt, kto by go spotkał."
-"Rdz4,16": "Wtedy odszedł Kain sprzed oblicza PANA i zamieszkał w ziemi Nod, na wschód od Edenu."
-"Rdz4,17": "I Kain obcował ze swoją żoną, a ona poczęła i urodziła Henocha. Zbudował też miasto i nazwał je imieniem swego syna – Henoch."
-"Rdz4,18": "Henochowi urodził się Irad, a Irad spłodził Mechujaela, a Mechujael spłodził Matuszaela, a Matuszael spłodził Lameka."
-"Rdz4,19": "I Lamek pojął sobie dwie żony. Imię jednej było Ada, a drugiej – Silla."
-"Rdz4,20": "Ada urodziła Jabala, który był ojcem mieszkających w namiotach i pasterzy."
-"Rdz4,21": "Jego brat miał na imię Jubal, a był on ojcem wszystkich grających na harfie i na flecie."
-"Rdz4,22": "Silla urodziła Tubalkaina, który był rzemieślnikiem wszelkiej roboty od miedzi i żelaza. Siostrą Tubalkaina była Noema."
-"Rdz4,23": "I Lamek powiedział swym żonom, Adzie i Silli: Słuchajcie mego głosu, żony Lameka, posłuchajcie moich słów; zabiłem mężczyznę za zranienie mnie i młodzieńca za siniec."
-"Rdz4,24": "Jeśli Kain ma być pomszczony siedem razy, to Lamek siedemdziesiąt siedem razy."
-"Rdz4,25": "I Adam znów obcował ze swoją żoną, a ona urodziła syna i nadała mu imię Set, mówiąc: Dał mi Bóg inne potomstwo za Abla, którego zabił Kain."
-"Rdz4,26": "Setowi też urodził się syn i nadał mu imię Enosz. Wtedy zaczęto wzywać imienia PANA."
+"Rdz4,1":
+  text: "Potem Adam obcował ze swoją żoną Ewą, a ta poczęła i urodziła Kaina. I powiedziała: Otrzymałam mężczyznę od PANA."
+  tags: []
+"Rdz4,2":
+  text: "I urodziła jeszcze jego brata Abla. Abel był pasterzem owiec, a Kain był rolnikiem."
+  tags: []
+"Rdz4,3":
+  text: "Z biegiem czasu zdarzyło się, że Kain przyniósł PANU ofiarę z plonów ziemi."
+  tags: []
+"Rdz4,4":
+  text: "Także Abel przyniósł z pierworodnych swej trzody i z ich tłuszczu. A PAN wejrzał na Abla i jego ofiarę."
+  tags: []
+"Rdz4,5":
+  text: "Lecz na Kaina i jego ofiarę nie wejrzał. Kain rozgniewał się bardzo i spochmurniała jego twarz."
+  tags: []
+"Rdz4,6":
+  text: "Wtedy PAN zapytał Kaina: Dlaczego się rozgniewałeś? Czemu spochmurniała twoja twarz?"
+  tags: []
+"Rdz4,7":
+  text: "Jeśli będziesz dobrze czynił, czy nie zostaniesz wywyższony? A jeśli nie będziesz dobrze czynił, grzech leży u drzwi; a do ciebie będzie jego pragnienie, a ty będziesz nad nim panować."
+  tags: []
+"Rdz4,8":
+  text: "I Kain rozmawiał ze swoim bratem Ablem. A gdy byli na polu, Kain powstał przeciwko swemu bratu Ablowi i zabił go."
+  tags: []
+"Rdz4,9":
+  text: "Wtedy PAN zapytał Kaina: Gdzie jest twój brat Abel? On odpowiedział: Nie wiem. Czy ja jestem stróżem mego brata?"
+  tags: []
+"Rdz4,10":
+  text: "Bóg zapytał: Cóż uczyniłeś? Głos krwi twego brata woła do mnie z ziemi."
+  tags: []
+"Rdz4,11":
+  text: "Teraz więc przeklęty będziesz na ziemi, która otworzyła swe usta, aby przyjąć krew twego brata przelaną przez twoją rękę."
+  tags: []
+"Rdz4,12":
+  text: "Gdy będziesz uprawiał ziemię, nie da ci już swego plonu. Tułaczem i zbiegiem będziesz na ziemi."
+  tags: []
+"Rdz4,13":
+  text: "Wtedy Kain powiedział do PANA: Zbyt ciężka jest moja kara, bym mógł ją znieść."
+  tags: []
+"Rdz4,14":
+  text: "Oto wyganiasz mnie dziś z powierzchni ziemi, a przed twoją twarzą będę ukryty. Będę tułaczem i zbiegiem na ziemi, a stanie się tak, że ktokolwiek mnie spotka, zabije mnie."
+  tags: []
+"Rdz4,15":
+  text: "PAN mu odpowiedział: Zaprawdę, ktokolwiek zabije Kaina, poniesie siedmiokrotną zemstę. I nałożył PAN na Kaina piętno, aby nie zabił go nikt, kto by go spotkał."
+  tags: []
+"Rdz4,16":
+  text: "Wtedy odszedł Kain sprzed oblicza PANA i zamieszkał w ziemi Nod, na wschód od Edenu."
+  tags: []
+"Rdz4,17":
+  text: "I Kain obcował ze swoją żoną, a ona poczęła i urodziła Henocha. Zbudował też miasto i nazwał je imieniem swego syna – Henoch."
+  tags: []
+"Rdz4,18":
+  text: "Henochowi urodził się Irad, a Irad spłodził Mechujaela, a Mechujael spłodził Matuszaela, a Matuszael spłodził Lameka."
+  tags: []
+"Rdz4,19":
+  text: "I Lamek pojął sobie dwie żony. Imię jednej było Ada, a drugiej – Silla."
+  tags: []
+"Rdz4,20":
+  text: "Ada urodziła Jabala, który był ojcem mieszkających w namiotach i pasterzy."
+  tags: []
+"Rdz4,21":
+  text: "Jego brat miał na imię Jubal, a był on ojcem wszystkich grających na harfie i na flecie."
+  tags: []
+"Rdz4,22":
+  text: "Silla urodziła Tubalkaina, który był rzemieślnikiem wszelkiej roboty od miedzi i żelaza. Siostrą Tubalkaina była Noema."
+  tags: []
+"Rdz4,23":
+  text: "I Lamek powiedział swym żonom, Adzie i Silli: Słuchajcie mego głosu, żony Lameka, posłuchajcie moich słów; zabiłem mężczyznę za zranienie mnie i młodzieńca za siniec."
+  tags: []
+"Rdz4,24":
+  text: "Jeśli Kain ma być pomszczony siedem razy, to Lamek siedemdziesiąt siedem razy."
+  tags: []
+"Rdz4,25":
+  text: "I Adam znów obcował ze swoją żoną, a ona urodziła syna i nadała mu imię Set, mówiąc: Dał mi Bóg inne potomstwo za Abla, którego zabił Kain."
+  tags: []
+"Rdz4,26":
+  text: "Setowi też urodził się syn i nadał mu imię Enosz. Wtedy zaczęto wzywać imienia PANA."
+  tags: []

@@ -1,31 +1,93 @@
-"Lb5,1": "I PAN powiedział do Mojżesza:"
-"Lb5,2": "Rozkaż synom Izraela, aby usunęli z obozu każdego trędowatego, każdego cierpiącego na wyciek i każdego, który zanieczyścił się przy umarłym."
-"Lb5,3": "Usuniecie zarówno mężczyznę, jak i kobietę; usuniecie ich poza obóz, aby nie zanieczyścili obozu tych, wśród których mieszkam."
-"Lb5,4": "I synowie Izraela tak uczynili, i usunęli ich poza obóz. Jak PAN rozkazał Mojżeszowi, tak uczynili synowie Izraela."
-"Lb5,5": "I powiedział PAN do Mojżesza:"
-"Lb5,6": "Powiedz synom Izraela: Jeśli mężczyzna lub kobieta popełnią jakikolwiek grzech ludzki, popełniając występek przeciwko PANU, a ta osoba byłaby winna;"
-"Lb5,7": "Wtedy wyzna swój grzech, którego się dopuściła, i zwróci w całości to, czym zawiniła, dodając do tego jedną piątą, i odda temu, wobec kogo zgrzeszyła."
-"Lb5,8": "A jeśli człowiek ten nie ma krewnego, któremu można by zwrócić odszkodowanie, niech będzie ono oddane PANU i niech przypadnie kapłanowi z wyjątkiem barana przebłagania, którym dokona za niego przebłagania."
-"Lb5,9": "Każda też ofiara ze wszystkich poświęconych rzeczy synów Izraela, które przyniosą do kapłana, będzie należeć do niego."
-"Lb5,10": "Poświęcone rzeczy każdego człowieka będą należeć do niego; cokolwiek ktoś odda kapłanowi, będzie należeć do niego."
-"Lb5,11": "Potem PAN powiedział do Mojżesza:"
-"Lb5,12": "Przemów do synów Izraela i powiedz im: Jeśli czyjaś żona zbłądzi i dopuści się grzechu przeciwko niemu;"
-"Lb5,13": "A inny mężczyzna obcuje z nią, lecz będzie to ukryte przed oczami jej męża i tajne, i stanie się ona nieczysta, a nie będzie żadnego świadka przeciwko niej ani nie zostanie ona przyłapana;"
-"Lb5,14": "Gdyby dopadł go duch zazdrości i podejrzewałby swoją żonę, która stała się nieczysta, albo gdyby dopadł go duch zazdrości i podejrzewałby ją, choć nie stała się nieczysta;"
-"Lb5,15": "Wówczas ten mąż przyprowadzi swoją żonę do kapłana i przyniesie ofiarę za nią – jedną dziesiątą efy mąki jęczmiennej. Nie wyleje na nią oliwy ani nie nałoży na nią kadzidła, gdyż jest to ofiara podejrzenia, ofiara pamięci, przypominająca grzech."
-"Lb5,16": "A kapłan każe się jej zbliżyć i stawi ją przed PANEM."
-"Lb5,17": "I kapłan wleje wodę poświęconą do glinianego naczynia, weźmie też trochę prochu, który jest na podłodze przybytku, i doda do wody."
-"Lb5,18": "Potem kapłan postawi kobietę przed PANEM, odkryje jej głowę i położy na jej rękach ofiarę pamięci, czyli ofiarę podejrzenia. Kapłan zaś będzie miał w ręku wodę gorzką, niosącą przekleństwa."
-"Lb5,19": "I kapłan zaprzysięgnie ją, i powie do kobiety: Jeśli nie położył się z tobą inny mężczyzna i jeśli nie dopuściłaś się grzechu nieczystości wobec swego męża, to bądź nietknięta przez tę wodę gorzką niosącą przekleństwa;"
-"Lb5,20": "Jeśli jednak byłaś niewierna swemu mężowi i stałaś się nieczysta, ponieważ oprócz twego męża obcował z tobą inny mężczyzna;"
-"Lb5,21": "Wtedy kapłan zaprzysięgnie tę kobietę przysięgą przekleństwa i powie do niej: Niech PAN uczyni cię przekleństwem i klątwą wśród twego ludu, gdy PAN sprawi, że twoje biodro zwiotczeje i twoje łono spuchnie."
-"Lb5,22": "Niech ta woda niosąca przekleństwo przeniknie twoje wnętrzności, aby spuchło twoje łono i zwiotczało twoje biodro. I odpowie kobieta: Amen, amen."
-"Lb5,23": "Potem kapłan napisze te przekleństwa w księdze i zmyje je tą gorzką wodą;"
-"Lb5,24": "I da wypić kobiecie gorzką wodę niosącą przekleństwo; i woda przekleństwa przeniknie ją, i zamieni się w gorycz."
-"Lb5,25": "Potem kapłan weźmie z rąk tej kobiety ofiarę podejrzenia i będzie ją kołysał przed PANEM, i złoży ją na ołtarzu."
-"Lb5,26": "Kapłan weźmie też pełną garść ofiary jako pamiątkę i spali to na ołtarzu, potem da kobiecie wypić tę wodę."
-"Lb5,27": "A gdy da jej wypić tę wodę, stanie się tak, że jeśli stała się nieczysta i sprzeniewierzyła się swemu mężowi, to woda przekleństwa przeniknie ją i zamieni się w gorycz, i spuchnie jej łono, i zwiotczeje jej biodro, i kobieta stanie się przekleństwem wśród swego ludu."
-"Lb5,28": "Jeśli jednak kobieta ta nie stała się nieczysta, ale jest czysta, to będzie bez winy i będzie rodzić dzieci."
-"Lb5,29": "Takie jest prawo dotyczące podejrzenia, gdy żona będzie niewierna swemu mężowi i stanie się nieczysta;"
-"Lb5,30": "Albo gdy dopadnie męża duch zazdrości i będzie podejrzewał swoją żonę, i stawi ją przed PANEM, a kapłan postąpi z nią według tego prawa;"
-"Lb5,31": "Wówczas mąż nie będzie winny grzechu, a kobieta obciąży się nieprawością."
+"Lb5,1":
+  text: "I PAN powiedział do Mojżesza:"
+  tags: []
+"Lb5,2":
+  text: "Rozkaż synom Izraela, aby usunęli z obozu każdego trędowatego, każdego cierpiącego na wyciek i każdego, który zanieczyścił się przy umarłym."
+  tags: []
+"Lb5,3":
+  text: "Usuniecie zarówno mężczyznę, jak i kobietę; usuniecie ich poza obóz, aby nie zanieczyścili obozu tych, wśród których mieszkam."
+  tags: []
+"Lb5,4":
+  text: "I synowie Izraela tak uczynili, i usunęli ich poza obóz. Jak PAN rozkazał Mojżeszowi, tak uczynili synowie Izraela."
+  tags: []
+"Lb5,5":
+  text: "I powiedział PAN do Mojżesza:"
+  tags: []
+"Lb5,6":
+  text: "Powiedz synom Izraela: Jeśli mężczyzna lub kobieta popełnią jakikolwiek grzech ludzki, popełniając występek przeciwko PANU, a ta osoba byłaby winna;"
+  tags: []
+"Lb5,7":
+  text: "Wtedy wyzna swój grzech, którego się dopuściła, i zwróci w całości to, czym zawiniła, dodając do tego jedną piątą, i odda temu, wobec kogo zgrzeszyła."
+  tags: []
+"Lb5,8":
+  text: "A jeśli człowiek ten nie ma krewnego, któremu można by zwrócić odszkodowanie, niech będzie ono oddane PANU i niech przypadnie kapłanowi z wyjątkiem barana przebłagania, którym dokona za niego przebłagania."
+  tags: []
+"Lb5,9":
+  text: "Każda też ofiara ze wszystkich poświęconych rzeczy synów Izraela, które przyniosą do kapłana, będzie należeć do niego."
+  tags: []
+"Lb5,10":
+  text: "Poświęcone rzeczy każdego człowieka będą należeć do niego; cokolwiek ktoś odda kapłanowi, będzie należeć do niego."
+  tags: []
+"Lb5,11":
+  text: "Potem PAN powiedział do Mojżesza:"
+  tags: []
+"Lb5,12":
+  text: "Przemów do synów Izraela i powiedz im: Jeśli czyjaś żona zbłądzi i dopuści się grzechu przeciwko niemu;"
+  tags: []
+"Lb5,13":
+  text: "A inny mężczyzna obcuje z nią, lecz będzie to ukryte przed oczami jej męża i tajne, i stanie się ona nieczysta, a nie będzie żadnego świadka przeciwko niej ani nie zostanie ona przyłapana;"
+  tags: []
+"Lb5,14":
+  text: "Gdyby dopadł go duch zazdrości i podejrzewałby swoją żonę, która stała się nieczysta, albo gdyby dopadł go duch zazdrości i podejrzewałby ją, choć nie stała się nieczysta;"
+  tags: []
+"Lb5,15":
+  text: "Wówczas ten mąż przyprowadzi swoją żonę do kapłana i przyniesie ofiarę za nią – jedną dziesiątą efy mąki jęczmiennej. Nie wyleje na nią oliwy ani nie nałoży na nią kadzidła, gdyż jest to ofiara podejrzenia, ofiara pamięci, przypominająca grzech."
+  tags: []
+"Lb5,16":
+  text: "A kapłan każe się jej zbliżyć i stawi ją przed PANEM."
+  tags: []
+"Lb5,17":
+  text: "I kapłan wleje wodę poświęconą do glinianego naczynia, weźmie też trochę prochu, który jest na podłodze przybytku, i doda do wody."
+  tags: []
+"Lb5,18":
+  text: "Potem kapłan postawi kobietę przed PANEM, odkryje jej głowę i położy na jej rękach ofiarę pamięci, czyli ofiarę podejrzenia. Kapłan zaś będzie miał w ręku wodę gorzką, niosącą przekleństwa."
+  tags: []
+"Lb5,19":
+  text: "I kapłan zaprzysięgnie ją, i powie do kobiety: Jeśli nie położył się z tobą inny mężczyzna i jeśli nie dopuściłaś się grzechu nieczystości wobec swego męża, to bądź nietknięta przez tę wodę gorzką niosącą przekleństwa;"
+  tags: []
+"Lb5,20":
+  text: "Jeśli jednak byłaś niewierna swemu mężowi i stałaś się nieczysta, ponieważ oprócz twego męża obcował z tobą inny mężczyzna;"
+  tags: []
+"Lb5,21":
+  text: "Wtedy kapłan zaprzysięgnie tę kobietę przysięgą przekleństwa i powie do niej: Niech PAN uczyni cię przekleństwem i klątwą wśród twego ludu, gdy PAN sprawi, że twoje biodro zwiotczeje i twoje łono spuchnie."
+  tags: []
+"Lb5,22":
+  text: "Niech ta woda niosąca przekleństwo przeniknie twoje wnętrzności, aby spuchło twoje łono i zwiotczało twoje biodro. I odpowie kobieta: Amen, amen."
+  tags: []
+"Lb5,23":
+  text: "Potem kapłan napisze te przekleństwa w księdze i zmyje je tą gorzką wodą;"
+  tags: []
+"Lb5,24":
+  text: "I da wypić kobiecie gorzką wodę niosącą przekleństwo; i woda przekleństwa przeniknie ją, i zamieni się w gorycz."
+  tags: []
+"Lb5,25":
+  text: "Potem kapłan weźmie z rąk tej kobiety ofiarę podejrzenia i będzie ją kołysał przed PANEM, i złoży ją na ołtarzu."
+  tags: []
+"Lb5,26":
+  text: "Kapłan weźmie też pełną garść ofiary jako pamiątkę i spali to na ołtarzu, potem da kobiecie wypić tę wodę."
+  tags: []
+"Lb5,27":
+  text: "A gdy da jej wypić tę wodę, stanie się tak, że jeśli stała się nieczysta i sprzeniewierzyła się swemu mężowi, to woda przekleństwa przeniknie ją i zamieni się w gorycz, i spuchnie jej łono, i zwiotczeje jej biodro, i kobieta stanie się przekleństwem wśród swego ludu."
+  tags: []
+"Lb5,28":
+  text: "Jeśli jednak kobieta ta nie stała się nieczysta, ale jest czysta, to będzie bez winy i będzie rodzić dzieci."
+  tags: []
+"Lb5,29":
+  text: "Takie jest prawo dotyczące podejrzenia, gdy żona będzie niewierna swemu mężowi i stanie się nieczysta;"
+  tags: []
+"Lb5,30":
+  text: "Albo gdy dopadnie męża duch zazdrości i będzie podejrzewał swoją żonę, i stawi ją przed PANEM, a kapłan postąpi z nią według tego prawa;"
+  tags: []
+"Lb5,31":
+  text: "Wówczas mąż nie będzie winny grzechu, a kobieta obciąży się nieprawością."
+  tags: []

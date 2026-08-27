@@ -1,29 +1,87 @@
-"Prz22,1": "Lepiej jest wybrać dobre imię niż wielkie bogactwo, a przychylność lepsza jest niż srebro i złoto."
-"Prz22,2": "Bogaty i ubogi spotykają się; JHWH Stwórcą każdego z nich."
-"Prz22,3": "Roztropny dostrzega zło i ukrywa się, ale prości idą dalej i ponoszą karę."
-"Prz22,4": "Skutkiem pokory i bojaźni JHWH jest bogactwo, chwała i życie."
-"Prz22,5": "Ciernie i sidła są na drodze przewrotnego; kto strzeże swojej duszy, trzyma się od nich z dala."
-"Prz22,6": "Pouczaj chłopca stosownie do jego drogi, a gdy się zestarzeje, nie odstąpi od niej."
-"Prz22,7": "Bogaty panuje nad ubogimi, a ten, kto pożycza, jest sługą dla człowieka, który mu pożycza."
-"Prz22,8": "Kto sieje nieprawość, żnie nieszczęście, a rózga położy kres jego furii."
-"Prz22,9": "Kto jest szczodry – ten będzie błogosławiony, bo ofiarowuje swój chleb nędzarzowi."
-"Prz22,10": "Wypędź szydercę, a ustanie spór, zakończy się kłótnia i zniewaga."
-"Prz22,11": "Kto kocha czystość serca – tego wdzięk warg, zyskuje przyjaźń króla"
-"Prz22,12": "Oczy JHWH strzegą pragnących wiedzy i On obala słowa zdrajcy."
-"Prz22,13": "Leniwy mówi: Lew chodzi na zewnątrz, będę rozszarpany na środku placu."
-"Prz22,14": "Usta obcych kobiet są jak głęboki dół; wpadnie tam ten, na kogo JHWH się gniewa."
-"Prz22,15": "Głupota przywiązana jest do serca chłopca, ale rózga karności odsunie ją od niego."
-"Prz22,16": "Kto uciska ubogiego, aby siebie wzbogacić, i kto daje bogatemu – z pewnością zubożeje."
-"Prz22,17": "Nadstaw swoje ucho i słuchaj słów mędrców, i skłoń swoje serce do przyjęcia mojej wiedzy;"
-"Prz22,18": "Bo miło będzie, jeśli zachowasz je w swoim wnętrzu, wszystkie gotowe na twoich wargach."
-"Prz22,19": "Byś twoją ufność pokładał w JHWH, to właśnie ci dziś oznajmiłem."
-"Prz22,20": "Czyż nie napisałem ci słów pełnych rad i wiedzy;"
-"Prz22,21": "Aby oznajmić ci pewność słów prawdy; byś odpowiadał właściwymi słowami temu, kto cię posyła?"
-"Prz22,22": "Nie odzieraj nędzarza, dlatego że jest nędzarzem ani nie uciskaj w bramie biednego."
-"Prz22,23": "JHWH bowiem będzie bronił ich sprawy i złupi duszę tych, którzy ich łupią."
-"Prz22,24": "Nie przyjaźnij się z mężem gniewliwym i nie krocz z człowiekiem porywczym."
-"Prz22,25": "Abyś nie nauczył się jego ścieżek i nie zastawił pułapki na swoją duszę."
-"Prz22,26": "Nie bądź wśród tych, którzy dają porękę, wśród tych, którzy ręczą za długi;"
-"Prz22,27": "Bo jeśli nie będziesz miał czym zapłacić, dlaczego mieliby zabrać spod ciebie łóżko?"
-"Prz22,28": "Nie przesuwaj dawnej granicy, którą ustalili twoi ojcowie."
-"Prz22,29": "Widzisz człowieka biegłego w swoim zawodzie? Ten będzie stał przed królami, nie stanie przed pospólstwem."
+"Prz22,1":
+  text: "Lepiej jest wybrać dobre imię niż wielkie bogactwo, a przychylność lepsza jest niż srebro i złoto."
+  tags: []
+"Prz22,2":
+  text: "Bogaty i ubogi spotykają się; JHWH Stwórcą każdego z nich."
+  tags: []
+"Prz22,3":
+  text: "Roztropny dostrzega zło i ukrywa się, ale prości idą dalej i ponoszą karę."
+  tags: []
+"Prz22,4":
+  text: "Skutkiem pokory i bojaźni JHWH jest bogactwo, chwała i życie."
+  tags: []
+"Prz22,5":
+  text: "Ciernie i sidła są na drodze przewrotnego; kto strzeże swojej duszy, trzyma się od nich z dala."
+  tags: []
+"Prz22,6":
+  text: "Pouczaj chłopca stosownie do jego drogi, a gdy się zestarzeje, nie odstąpi od niej."
+  tags: []
+"Prz22,7":
+  text: "Bogaty panuje nad ubogimi, a ten, kto pożycza, jest sługą dla człowieka, który mu pożycza."
+  tags: []
+"Prz22,8":
+  text: "Kto sieje nieprawość, żnie nieszczęście, a rózga położy kres jego furii."
+  tags: []
+"Prz22,9":
+  text: "Kto jest szczodry – ten będzie błogosławiony, bo ofiarowuje swój chleb nędzarzowi."
+  tags: []
+"Prz22,10":
+  text: "Wypędź szydercę, a ustanie spór, zakończy się kłótnia i zniewaga."
+  tags: []
+"Prz22,11":
+  text: "Kto kocha czystość serca – tego wdzięk warg, zyskuje przyjaźń króla"
+  tags: []
+"Prz22,12":
+  text: "Oczy JHWH strzegą pragnących wiedzy i On obala słowa zdrajcy."
+  tags: []
+"Prz22,13":
+  text: "Leniwy mówi: Lew chodzi na zewnątrz, będę rozszarpany na środku placu."
+  tags: []
+"Prz22,14":
+  text: "Usta obcych kobiet są jak głęboki dół; wpadnie tam ten, na kogo JHWH się gniewa."
+  tags: []
+"Prz22,15":
+  text: "Głupota przywiązana jest do serca chłopca, ale rózga karności odsunie ją od niego."
+  tags: []
+"Prz22,16":
+  text: "Kto uciska ubogiego, aby siebie wzbogacić, i kto daje bogatemu – z pewnością zubożeje."
+  tags: []
+"Prz22,17":
+  text: "Nadstaw swoje ucho i słuchaj słów mędrców, i skłoń swoje serce do przyjęcia mojej wiedzy;"
+  tags: []
+"Prz22,18":
+  text: "Bo miło będzie, jeśli zachowasz je w swoim wnętrzu, wszystkie gotowe na twoich wargach."
+  tags: []
+"Prz22,19":
+  text: "Byś twoją ufność pokładał w JHWH, to właśnie ci dziś oznajmiłem."
+  tags: []
+"Prz22,20":
+  text: "Czyż nie napisałem ci słów pełnych rad i wiedzy;"
+  tags: []
+"Prz22,21":
+  text: "Aby oznajmić ci pewność słów prawdy; byś odpowiadał właściwymi słowami temu, kto cię posyła?"
+  tags: []
+"Prz22,22":
+  text: "Nie odzieraj nędzarza, dlatego że jest nędzarzem ani nie uciskaj w bramie biednego."
+  tags: []
+"Prz22,23":
+  text: "JHWH bowiem będzie bronił ich sprawy i złupi duszę tych, którzy ich łupią."
+  tags: []
+"Prz22,24":
+  text: "Nie przyjaźnij się z mężem gniewliwym i nie krocz z człowiekiem porywczym."
+  tags: []
+"Prz22,25":
+  text: "Abyś nie nauczył się jego ścieżek i nie zastawił pułapki na swoją duszę."
+  tags: []
+"Prz22,26":
+  text: "Nie bądź wśród tych, którzy dają porękę, wśród tych, którzy ręczą za długi;"
+  tags: []
+"Prz22,27":
+  text: "Bo jeśli nie będziesz miał czym zapłacić, dlaczego mieliby zabrać spod ciebie łóżko?"
+  tags: []
+"Prz22,28":
+  text: "Nie przesuwaj dawnej granicy, którą ustalili twoi ojcowie."
+  tags: []
+"Prz22,29":
+  text: "Widzisz człowieka biegłego w swoim zawodzie? Ten będzie stał przed królami, nie stanie przed pospólstwem."
+  tags: []

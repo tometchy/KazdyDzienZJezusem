@@ -1,35 +1,105 @@
-"Prz3,1": "My son, forget not my law; but let thine heart keep my commandments:"
-"Prz3,2": "For length of days, and long life, and peace, shall they add to thee."
-"Prz3,3": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
-"Prz3,4": "So shalt thou find favour and good understanding in the sight of God and man."
-"Prz3,5": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
-"Prz3,6": "In all thy ways acknowledge him, and he shall direct thy paths."
-"Prz3,7": "Be not wise in thine own eyes: fear the LORD, and depart from evil."
-"Prz3,8": "It shall be health to thy navel, and marrow to thy bones."
-"Prz3,9": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:"
-"Prz3,10": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
-"Prz3,11": "My son, despise not the chastening of the LORD; neither be weary of his correction:"
-"Prz3,12": "For whom the LORD loveth he correcteth; even as a father the son [in whom] he delighteth."
-"Prz3,13": "Happy [is] the man [that] findeth wisdom, and the man [that] getteth understanding."
-"Prz3,14": "For the merchandise of it [is] better than the merchandise of silver, and the gain thereof than fine gold."
-"Prz3,15": "She [is] more precious than rubies: and all the things thou canst desire are not to be compared unto her."
-"Prz3,16": "Length of days [is] in her right hand; [and] in her left hand riches and honour."
-"Prz3,17": "Her ways [are] ways of pleasantness, and all her paths [are] peace."
-"Prz3,18": "She [is] a tree of life to them that lay hold upon her: and happy [is every one] that retaineth her."
-"Prz3,19": "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens."
-"Prz3,20": "By his knowledge the depths are broken up, and the clouds drop down the dew."
-"Prz3,21": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
-"Prz3,22": "So shall they be life unto thy soul, and grace to thy neck."
-"Prz3,23": "Then shalt thou walk in thy way safely, and thy foot shall not stumble."
-"Prz3,24": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
-"Prz3,25": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
-"Prz3,26": "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
-"Prz3,27": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do [it]."
-"Prz3,28": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
-"Prz3,29": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee."
-"Prz3,30": "Strive not with a man without cause, if he have done thee no harm."
-"Prz3,31": "Envy thou not the oppressor, and choose none of his ways."
-"Prz3,32": "For the froward [is] abomination to the LORD: but his secret [is] with the righteous."
-"Prz3,33": "The curse of the LORD [is] in the house of the wicked: but he blesseth the habitation of the just."
-"Prz3,34": "Surely he scorneth the scorners: but he giveth grace unto the lowly."
-"Prz3,35": "The wise shall inherit glory: but shame shall be the promotion of fools."
+"Prz3,1":
+  text: "My son, forget not my law; but let thine heart keep my commandments:"
+  tags: []
+"Prz3,2":
+  text: "For length of days, and long life, and peace, shall they add to thee."
+  tags: []
+"Prz3,3":
+  text: "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+  tags: []
+"Prz3,4":
+  text: "So shalt thou find favour and good understanding in the sight of God and man."
+  tags: []
+"Prz3,5":
+  text: "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+  tags: []
+"Prz3,6":
+  text: "In all thy ways acknowledge him, and he shall direct thy paths."
+  tags: []
+"Prz3,7":
+  text: "Be not wise in thine own eyes: fear the LORD, and depart from evil."
+  tags: []
+"Prz3,8":
+  text: "It shall be health to thy navel, and marrow to thy bones."
+  tags: []
+"Prz3,9":
+  text: "Honour the LORD with thy substance, and with the firstfruits of all thine increase:"
+  tags: []
+"Prz3,10":
+  text: "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
+  tags: []
+"Prz3,11":
+  text: "My son, despise not the chastening of the LORD; neither be weary of his correction:"
+  tags: []
+"Prz3,12":
+  text: "For whom the LORD loveth he correcteth; even as a father the son [in whom] he delighteth."
+  tags: []
+"Prz3,13":
+  text: "Happy [is] the man [that] findeth wisdom, and the man [that] getteth understanding."
+  tags: []
+"Prz3,14":
+  text: "For the merchandise of it [is] better than the merchandise of silver, and the gain thereof than fine gold."
+  tags: []
+"Prz3,15":
+  text: "She [is] more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+  tags: []
+"Prz3,16":
+  text: "Length of days [is] in her right hand; [and] in her left hand riches and honour."
+  tags: []
+"Prz3,17":
+  text: "Her ways [are] ways of pleasantness, and all her paths [are] peace."
+  tags: []
+"Prz3,18":
+  text: "She [is] a tree of life to them that lay hold upon her: and happy [is every one] that retaineth her."
+  tags: []
+"Prz3,19":
+  text: "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens."
+  tags: []
+"Prz3,20":
+  text: "By his knowledge the depths are broken up, and the clouds drop down the dew."
+  tags: []
+"Prz3,21":
+  text: "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
+  tags: []
+"Prz3,22":
+  text: "So shall they be life unto thy soul, and grace to thy neck."
+  tags: []
+"Prz3,23":
+  text: "Then shalt thou walk in thy way safely, and thy foot shall not stumble."
+  tags: []
+"Prz3,24":
+  text: "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
+  tags: []
+"Prz3,25":
+  text: "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
+  tags: []
+"Prz3,26":
+  text: "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
+  tags: []
+"Prz3,27":
+  text: "Withhold not good from them to whom it is due, when it is in the power of thine hand to do [it]."
+  tags: []
+"Prz3,28":
+  text: "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
+  tags: []
+"Prz3,29":
+  text: "Devise not evil against thy neighbour, seeing he dwelleth securely by thee."
+  tags: []
+"Prz3,30":
+  text: "Strive not with a man without cause, if he have done thee no harm."
+  tags: []
+"Prz3,31":
+  text: "Envy thou not the oppressor, and choose none of his ways."
+  tags: []
+"Prz3,32":
+  text: "For the froward [is] abomination to the LORD: but his secret [is] with the righteous."
+  tags: []
+"Prz3,33":
+  text: "The curse of the LORD [is] in the house of the wicked: but he blesseth the habitation of the just."
+  tags: []
+"Prz3,34":
+  text: "Surely he scorneth the scorners: but he giveth grace unto the lowly."
+  tags: []
+"Prz3,35":
+  text: "The wise shall inherit glory: but shame shall be the promotion of fools."
+  tags: []

@@ -1,29 +1,87 @@
-"Hi19,1": "A Hiob odpowiedział i rzekł:"
-"Hi19,2": "Jak długo będziecie zadawać ból mojej duszy i kruszyć mnie słowami?"
-"Hi19,3": "To już dziesięć razy znieważyliście mnie i nie wstydzicie się mnie krzywdzić?"
-"Hi19,4": "Lecz niech tak będzie, że zbłądziłem, uchybienie pozostaje ze mną."
-"Hi19,5": "A jeśli rzeczywiście chcecie się wynosić nade mną i dowodzić mi mojej hańby;"
-"Hi19,6": "Wiedzcie zatem, że to Bóg mnie powalił i swoją sieć nade mną rozciągnął."
-"Hi19,7": "Oto krzyczę: Gwałt! – i nie uzyskuję odpowiedzi; oto wołam o pomoc – a nie ma sprawiedliwości."
-"Hi19,8": "Zagrodził mi moją drogę i nie mogę przejść, a na moich ścieżkach rozpostarł ciemność."
-"Hi19,9": "Odarł ze mnie moją chwałę i zdjął koronę z mojej głowy."
-"Hi19,10": "Niszczy mnie zewsząd – i ginę; moją nadzieję wyrwał jak drzewo."
-"Hi19,11": "I sprawił, że zapłonął swoim gniewem przeciwko mnie i uważa mnie za jednego ze swoich wrogów."
-"Hi19,12": "Podeszły razem Jego hufce i przygotowały podejścia przeciwko mnie na swoich drogach, i rozbiły obóz dokoła mojego namiotu."
-"Hi19,13": "Moich braci oddalił ode mnie, a moi znajomi również stronią ode mnie."
-"Hi19,14": "Opuścili mnie moi krewni, a moi bliscy przyjaciele o mnie zapomnieli."
-"Hi19,15": "Przebywający w moim domu i moje służące uważają mnie za obcego. Stałem się cudzoziemcem w ich oczach."
-"Hi19,16": "Przyzywam mojego sługę, lecz on nie udziela odpowiedzi, chociaż błagam go o życzliwość swoimi ustami."
-"Hi19,17": "Moim oddechem brzydzi się moja żona, jestem obrzydzeniem dla synów mojego łona."
-"Hi19,18": "Nawet mali chłopcy mną gardzą; gdy wstaję, mówią przeciwko mnie."
-"Hi19,19": "Brzydzą się mną wszyscy moi mężowie zaufania, a ci, których kocham, zwracają się przeciwko mnie."
-"Hi19,20": "W mojej skórze i w moim ciele przykleiła się moja kość, i wymknąłem się tylko ze skórą moich zębów."
-"Hi19,21": "Okażcie życzliwość, okażcie życzliwość wy, moi przyjaciele, bo dotknęła mnie ręka Boga."
-"Hi19,22": "Dlaczego mnie prześladujecie jak Bóg? I nie możecie nasycić się widokiem mojego ciała?"
-"Hi19,23": "Kto da, by zostały zapisane moje słowa! Kto da, by zostały utrwalone w miedzianym zwoju,"
-"Hi19,24": "By żelaznym rylcem i ołowiem zostały na wieczność wyryte na skale!"
-"Hi19,25": "A ja wiem, że mój Odkupiciel żyje i że jako ostatni nad prochem moim stanie."
-"Hi19,26": "A potem, gdy moją skórę tak poszarpano, to jednak w swoim ciele będę oglądał Boga."
-"Hi19,27": "Ujrzę Go ja osobiście, a moje oczy zobaczą Go, a nie ktoś inny. Niszczeją moje nerki w moim wnętrzu!"
-"Hi19,28": "Bo mówicie: Dlaczego go prześladujemy? Skoro korzeń sprawy znajduje się we mnie?"
-"Hi19,29": "Drżyjcie wy przed mieczem, bo gniew sprowadzi karę mieczem, abyście wiedzieli, że jest sąd."
+"Hi19,1":
+  text: "A Hiob odpowiedział i rzekł:"
+  tags: []
+"Hi19,2":
+  text: "Jak długo będziecie zadawać ból mojej duszy i kruszyć mnie słowami?"
+  tags: []
+"Hi19,3":
+  text: "To już dziesięć razy znieważyliście mnie i nie wstydzicie się mnie krzywdzić?"
+  tags: []
+"Hi19,4":
+  text: "Lecz niech tak będzie, że zbłądziłem, uchybienie pozostaje ze mną."
+  tags: []
+"Hi19,5":
+  text: "A jeśli rzeczywiście chcecie się wynosić nade mną i dowodzić mi mojej hańby;"
+  tags: []
+"Hi19,6":
+  text: "Wiedzcie zatem, że to Bóg mnie powalił i swoją sieć nade mną rozciągnął."
+  tags: []
+"Hi19,7":
+  text: "Oto krzyczę: Gwałt! – i nie uzyskuję odpowiedzi; oto wołam o pomoc – a nie ma sprawiedliwości."
+  tags: []
+"Hi19,8":
+  text: "Zagrodził mi moją drogę i nie mogę przejść, a na moich ścieżkach rozpostarł ciemność."
+  tags: []
+"Hi19,9":
+  text: "Odarł ze mnie moją chwałę i zdjął koronę z mojej głowy."
+  tags: []
+"Hi19,10":
+  text: "Niszczy mnie zewsząd – i ginę; moją nadzieję wyrwał jak drzewo."
+  tags: []
+"Hi19,11":
+  text: "I sprawił, że zapłonął swoim gniewem przeciwko mnie i uważa mnie za jednego ze swoich wrogów."
+  tags: []
+"Hi19,12":
+  text: "Podeszły razem Jego hufce i przygotowały podejścia przeciwko mnie na swoich drogach, i rozbiły obóz dokoła mojego namiotu."
+  tags: []
+"Hi19,13":
+  text: "Moich braci oddalił ode mnie, a moi znajomi również stronią ode mnie."
+  tags: []
+"Hi19,14":
+  text: "Opuścili mnie moi krewni, a moi bliscy przyjaciele o mnie zapomnieli."
+  tags: []
+"Hi19,15":
+  text: "Przebywający w moim domu i moje służące uważają mnie za obcego. Stałem się cudzoziemcem w ich oczach."
+  tags: []
+"Hi19,16":
+  text: "Przyzywam mojego sługę, lecz on nie udziela odpowiedzi, chociaż błagam go o życzliwość swoimi ustami."
+  tags: []
+"Hi19,17":
+  text: "Moim oddechem brzydzi się moja żona, jestem obrzydzeniem dla synów mojego łona."
+  tags: []
+"Hi19,18":
+  text: "Nawet mali chłopcy mną gardzą; gdy wstaję, mówią przeciwko mnie."
+  tags: []
+"Hi19,19":
+  text: "Brzydzą się mną wszyscy moi mężowie zaufania, a ci, których kocham, zwracają się przeciwko mnie."
+  tags: []
+"Hi19,20":
+  text: "W mojej skórze i w moim ciele przykleiła się moja kość, i wymknąłem się tylko ze skórą moich zębów."
+  tags: []
+"Hi19,21":
+  text: "Okażcie życzliwość, okażcie życzliwość wy, moi przyjaciele, bo dotknęła mnie ręka Boga."
+  tags: []
+"Hi19,22":
+  text: "Dlaczego mnie prześladujecie jak Bóg? I nie możecie nasycić się widokiem mojego ciała?"
+  tags: []
+"Hi19,23":
+  text: "Kto da, by zostały zapisane moje słowa! Kto da, by zostały utrwalone w miedzianym zwoju,"
+  tags: []
+"Hi19,24":
+  text: "By żelaznym rylcem i ołowiem zostały na wieczność wyryte na skale!"
+  tags: []
+"Hi19,25":
+  text: "A ja wiem, że mój Odkupiciel żyje i że jako ostatni nad prochem moim stanie."
+  tags: []
+"Hi19,26":
+  text: "A potem, gdy moją skórę tak poszarpano, to jednak w swoim ciele będę oglądał Boga."
+  tags: []
+"Hi19,27":
+  text: "Ujrzę Go ja osobiście, a moje oczy zobaczą Go, a nie ktoś inny. Niszczeją moje nerki w moim wnętrzu!"
+  tags: []
+"Hi19,28":
+  text: "Bo mówicie: Dlaczego go prześladujemy? Skoro korzeń sprawy znajduje się we mnie?"
+  tags: []
+"Hi19,29":
+  text: "Drżyjcie wy przed mieczem, bo gniew sprowadzi karę mieczem, abyście wiedzieli, że jest sąd."
+  tags: []

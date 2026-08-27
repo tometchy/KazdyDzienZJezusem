@@ -1,25 +1,75 @@
-"J2,1": "A trzeciego dnia odbywało się wesele w Kanie Galilejskiej i była tam matka Jezusa."
-"J2,2": "Zaproszono na to wesele także Jezusa i jego uczniów."
-"J2,3": "A gdy zabrakło wina, matka Jezusa powiedziała do niego: Nie mają wina."
-"J2,4": "Jezus jej odpowiedział: Co ja mam z tobą, kobieto? Jeszcze nie nadeszła moja godzina."
-"J2,5": "Jego matka powiedziała do sług: Zróbcie wszystko, co wam powie."
-"J2,6": "A było tam sześć stągwi kamiennych, postawionych według żydowskiego zwyczaju oczyszczenia, mieszczących każda dwa albo trzy wiadra."
-"J2,7": "Jezus im powiedział: Napełnijcie te stągwie wodą. I napełnili je aż po brzegi."
-"J2,8": "Wtedy powiedział do nich: Zaczerpnijcie teraz i zanieście przełożonemu wesela. I zanieśli."
-"J2,9": "A gdy przełożony wesela skosztował wody, która stała się winem (a nie wiedział, skąd pochodziło, lecz słudzy, którzy zaczerpnęli wody, wiedzieli), zawołał oblubieńca."
-"J2,10": "I powiedział do niego: Każdy człowiek najpierw podaje dobre wino, a gdy sobie podpiją, wtedy gorsze. A ty dobre wino zachowałeś aż do tej pory."
-"J2,11": "Taki początek cudów uczynił Jezus w Kanie Galilejskiej i objawił swoją chwałę, i uwierzyli w niego jego uczniowie."
-"J2,12": "Potem on, jego matka, jego bracia i jego uczniowie poszli do Kafarnaum i mieszkali tam kilka dni."
-"J2,13": "A ponieważ zbliżała się Pascha żydowska, Jezus poszedł do Jerozolimy."
-"J2,14": "I zastał w świątyni sprzedających woły, owce i gołębie oraz tych, którzy siedzieli i wymieniali pieniądze."
-"J2,15": "A zrobiwszy bicz z powrozków, wypędził wszystkich ze świątyni, także owce i woły, rozsypał pieniądze wymieniających i poprzewracał stoły."
-"J2,16": "A do sprzedających gołębie powiedział: Wynieście to stąd, a nie róbcie z domu mego Ojca domu kupieckiego."
-"J2,17": "I przypomnieli sobie jego uczniowie, że jest napisane: Gorliwość o twój dom zżarła mnie."
-"J2,18": "Wtedy Żydzi zapytali: Jaki nam znak pokażesz, skoro to czynisz?"
-"J2,19": "Odpowiedział im Jezus: Zburzcie tę świątynię, a w trzy dni ją wzniosę."
-"J2,20": "Wtedy Żydzi powiedzieli: Czterdzieści sześć lat budowano tę świątynię, a ty ją w trzy dni wzniesiesz?"
-"J2,21": "Ale on mówił o świątyni swego ciała."
-"J2,22": "Gdy więc zmartwychwstał, jego uczniowie przypomnieli sobie, że im to powiedział, i uwierzyli Pismu i słowu, które wypowiedział Jezus."
-"J2,23": "A gdy był w Jerozolimie podczas Paschy w święto, wielu uwierzyło w jego imię, widząc cuda, które czynił."
-"J2,24": "Ale Jezus nie powierzał im samego siebie, bo on znał wszystkich;"
-"J2,25": "I nie potrzebował, aby mu ktoś dawał świadectwo o człowieku. On bowiem wiedział, co było w człowieku."
+"J2,1":
+  text: "A trzeciego dnia odbywało się wesele w Kanie Galilejskiej i była tam matka Jezusa."
+  tags: []
+"J2,2":
+  text: "Zaproszono na to wesele także Jezusa i jego uczniów."
+  tags: []
+"J2,3":
+  text: "A gdy zabrakło wina, matka Jezusa powiedziała do niego: Nie mają wina."
+  tags: []
+"J2,4":
+  text: "Jezus jej odpowiedział: Co ja mam z tobą, kobieto? Jeszcze nie nadeszła moja godzina."
+  tags: []
+"J2,5":
+  text: "Jego matka powiedziała do sług: Zróbcie wszystko, co wam powie."
+  tags: []
+"J2,6":
+  text: "A było tam sześć stągwi kamiennych, postawionych według żydowskiego zwyczaju oczyszczenia, mieszczących każda dwa albo trzy wiadra."
+  tags: []
+"J2,7":
+  text: "Jezus im powiedział: Napełnijcie te stągwie wodą. I napełnili je aż po brzegi."
+  tags: []
+"J2,8":
+  text: "Wtedy powiedział do nich: Zaczerpnijcie teraz i zanieście przełożonemu wesela. I zanieśli."
+  tags: []
+"J2,9":
+  text: "A gdy przełożony wesela skosztował wody, która stała się winem (a nie wiedział, skąd pochodziło, lecz słudzy, którzy zaczerpnęli wody, wiedzieli), zawołał oblubieńca."
+  tags: []
+"J2,10":
+  text: "I powiedział do niego: Każdy człowiek najpierw podaje dobre wino, a gdy sobie podpiją, wtedy gorsze. A ty dobre wino zachowałeś aż do tej pory."
+  tags: []
+"J2,11":
+  text: "Taki początek cudów uczynił Jezus w Kanie Galilejskiej i objawił swoją chwałę, i uwierzyli w niego jego uczniowie."
+  tags: []
+"J2,12":
+  text: "Potem on, jego matka, jego bracia i jego uczniowie poszli do Kafarnaum i mieszkali tam kilka dni."
+  tags: []
+"J2,13":
+  text: "A ponieważ zbliżała się Pascha żydowska, Jezus poszedł do Jerozolimy."
+  tags: []
+"J2,14":
+  text: "I zastał w świątyni sprzedających woły, owce i gołębie oraz tych, którzy siedzieli i wymieniali pieniądze."
+  tags: []
+"J2,15":
+  text: "A zrobiwszy bicz z powrozków, wypędził wszystkich ze świątyni, także owce i woły, rozsypał pieniądze wymieniających i poprzewracał stoły."
+  tags: []
+"J2,16":
+  text: "A do sprzedających gołębie powiedział: Wynieście to stąd, a nie róbcie z domu mego Ojca domu kupieckiego."
+  tags: []
+"J2,17":
+  text: "I przypomnieli sobie jego uczniowie, że jest napisane: Gorliwość o twój dom zżarła mnie."
+  tags: []
+"J2,18":
+  text: "Wtedy Żydzi zapytali: Jaki nam znak pokażesz, skoro to czynisz?"
+  tags: []
+"J2,19":
+  text: "Odpowiedział im Jezus: Zburzcie tę świątynię, a w trzy dni ją wzniosę."
+  tags: []
+"J2,20":
+  text: "Wtedy Żydzi powiedzieli: Czterdzieści sześć lat budowano tę świątynię, a ty ją w trzy dni wzniesiesz?"
+  tags: []
+"J2,21":
+  text: "Ale on mówił o świątyni swego ciała."
+  tags: []
+"J2,22":
+  text: "Gdy więc zmartwychwstał, jego uczniowie przypomnieli sobie, że im to powiedział, i uwierzyli Pismu i słowu, które wypowiedział Jezus."
+  tags: []
+"J2,23":
+  text: "A gdy był w Jerozolimie podczas Paschy w święto, wielu uwierzyło w jego imię, widząc cuda, które czynił."
+  tags: []
+"J2,24":
+  text: "Ale Jezus nie powierzał im samego siebie, bo on znał wszystkich;"
+  tags: []
+"J2,25":
+  text: "I nie potrzebował, aby mu ktoś dawał świadectwo o człowieku. On bowiem wiedział, co było w człowieku."
+  tags: []

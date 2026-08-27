@@ -1,32 +1,96 @@
-"Dz26,1": "Wtedy Agryppa powiedział do Pawła: Wolno ci mówić we własnej obronie. Wówczas Paweł, wyciągnąwszy rękę, zaczął się bronić:"
-"Dz26,2": "Królu Agryppo, uważam to za szczęście, że mam dziś bronić się wobec ciebie przed wszystkim, o co mnie oskarżają Żydzi."
-"Dz26,3": "Zwłaszcza że jesteś obeznany ze wszystkimi zwyczajami i sporami, które są między Żydami. Dlatego proszę cię, żebyś mnie cierpliwie wysłuchał."
-"Dz26,4": "Wszyscy Żydzi znają moje życie od młodości, jak je wiodłem od początku wśród mego narodu w Jerozolimie."
-"Dz26,5": "Znają mnie od dawna – gdyby chcieli zaświadczyć – że żyłem według zasad najsurowszego stronnictwa naszej religii jako faryzeusz."
-"Dz26,6": "A teraz stoję przed sądem z powodu nadziei spełnienia obietnicy danej ojcom przez Boga;"
-"Dz26,7": "Której spełnienia ma nadzieję doczekać dwanaście naszych pokoleń, służąc Bogu ustawicznie dniem i nocą. Z powodu tej nadziei, królu Agryppo, oskarżają mnie Żydzi."
-"Dz26,8": "Dlaczego uważacie za rzecz nie do wiary, że Bóg wskrzesza umarłych?"
-"Dz26,9": "Wprawdzie mnie samemu wydawało się, że powinienem wiele czynić przeciw imieniu Jezusa z Nazaretu."
-"Dz26,10": "Tak też czyniłem w Jerozolimie, gdzie wielu świętych wtrącałem do więzienia, wziąwszy upoważnienie od naczelnych kapłanów, a kiedy skazywano ich na śmierć, głosowałem przeciwko nim;"
-"Dz26,11": "A po wszystkich synagogach często ich karząc, zmuszałem do bluźnierstwa. Występując przeciwko nim z wielką wściekłością, prześladowałem ich nawet po obcych miastach."
-"Dz26,12": "Tak jechałem do Damaszku, mając upoważnienie i zlecenie od naczelnych kapłanów."
-"Dz26,13": "W południe, będąc w drodze, ujrzałem, królu, światłość z nieba jaśniejszą niż słońce, która oświeciła mnie i tych, którzy jechali ze mną."
-"Dz26,14": "A gdy wszyscy upadliśmy na ziemię, usłyszałem głos mówiący do mnie po hebrajsku: Saulu, Saulu, dlaczego mnie prześladujesz? Trudno ci przeciw ościeniowi wierzgać."
-"Dz26,15": "A ja zapytałem: Kim jesteś, Panie? A on odpowiedział: Ja jestem Jezus, którego ty prześladujesz."
-"Dz26,16": "Ale podnieś się i stań na nogi, bo ukazałem się tobie, żeby ustanowić cię sługą i świadkiem zarówno tych rzeczy, które widziałeś, jak i innych, w których ci się objawię."
-"Dz26,17": "Wybawię cię od tego ludu i od pogan, do których cię teraz posyłam;"
-"Dz26,18": "Dla otworzenia ich oczu, aby odwrócić ich od ciemności do światła, od mocy szatana do Boga, aby otrzymali przebaczenie grzechów i dziedzictwo między uświęconymi przez wiarę we mnie."
-"Dz26,19": "Dlatego też, królu Agryppo, nie byłem nieposłuszny temu niebieskiemu widzeniu."
-"Dz26,20": "Ale głosiłem najpierw tym, którzy są w Damaszku, w Jerozolimie, w całej Judei, i poganom, żeby pokutowali i nawrócili się do Boga, i spełniali uczynki godne pokuty."
-"Dz26,21": "Z tego powodu Żydzi schwytali mnie w świątyni i chcieli zabić."
-"Dz26,22": "Ale dzięki pomocy Boga żyję do dzisiaj, dając świadectwo małym i wielkim, nic nie mówiąc oprócz tego, co powiedzieli prorocy i Mojżesz, że nastąpi;"
-"Dz26,23": "Że Chrystus ma cierpieć, jako pierwszy zmartwychwstać i zwiastować światłość temu ludowi i poganom."
-"Dz26,24": "Gdy on to powiedział w swojej obronie, Festus odezwał się donośnym głosem: Jesteś szalony, Pawle! Wielka uczoność doprowadza cię do szaleństwa."
-"Dz26,25": "Ale on odpowiedział: Nie jestem szalony, dostojny Festusie, ale głoszę słowa prawdy i rozsądku."
-"Dz26,26": "Król bowiem, przed którym śmiało mówię, wie o tych sprawach, gdyż jestem przekonany, że nic z tych rzeczy nie jest przed nim ukryte, ponieważ nie działo się to w jakimś zakątku."
-"Dz26,27": "Czy wierzysz, królu Agryppo, prorokom? Wiem, że wierzysz."
-"Dz26,28": "Wtedy Agryppa powiedział do Pawła: Niemal przekonałeś mnie, żebym został chrześcijaninem."
-"Dz26,29": "Ale Paweł powiedział: Dałby Bóg, abyś i niemal, i całkowicie nie tylko ty, ale i wszyscy, którzy mnie dziś słuchają, stali się takimi, jakim ja jestem, z wyjątkiem tych więzów."
-"Dz26,30": "A gdy to powiedział, wstał król, namiestnik, Berenike i ci, którzy z nimi zasiadali."
-"Dz26,31": "Kiedy się oddalili, rozmawiali między sobą: Ten człowiek nie czyni nic, co zasługiwałoby na śmierć lub więzienie."
-"Dz26,32": "Agryppa zaś powiedział do Festusa: Można by zwolnić tego człowieka, gdyby nie odwołał się do cesarza."
+"Dz26,1":
+  text: "Wtedy Agryppa powiedział do Pawła: Wolno ci mówić we własnej obronie. Wówczas Paweł, wyciągnąwszy rękę, zaczął się bronić:"
+  tags: []
+"Dz26,2":
+  text: "Królu Agryppo, uważam to za szczęście, że mam dziś bronić się wobec ciebie przed wszystkim, o co mnie oskarżają Żydzi."
+  tags: []
+"Dz26,3":
+  text: "Zwłaszcza że jesteś obeznany ze wszystkimi zwyczajami i sporami, które są między Żydami. Dlatego proszę cię, żebyś mnie cierpliwie wysłuchał."
+  tags: []
+"Dz26,4":
+  text: "Wszyscy Żydzi znają moje życie od młodości, jak je wiodłem od początku wśród mego narodu w Jerozolimie."
+  tags: []
+"Dz26,5":
+  text: "Znają mnie od dawna – gdyby chcieli zaświadczyć – że żyłem według zasad najsurowszego stronnictwa naszej religii jako faryzeusz."
+  tags: []
+"Dz26,6":
+  text: "A teraz stoję przed sądem z powodu nadziei spełnienia obietnicy danej ojcom przez Boga;"
+  tags: []
+"Dz26,7":
+  text: "Której spełnienia ma nadzieję doczekać dwanaście naszych pokoleń, służąc Bogu ustawicznie dniem i nocą. Z powodu tej nadziei, królu Agryppo, oskarżają mnie Żydzi."
+  tags: []
+"Dz26,8":
+  text: "Dlaczego uważacie za rzecz nie do wiary, że Bóg wskrzesza umarłych?"
+  tags: []
+"Dz26,9":
+  text: "Wprawdzie mnie samemu wydawało się, że powinienem wiele czynić przeciw imieniu Jezusa z Nazaretu."
+  tags: []
+"Dz26,10":
+  text: "Tak też czyniłem w Jerozolimie, gdzie wielu świętych wtrącałem do więzienia, wziąwszy upoważnienie od naczelnych kapłanów, a kiedy skazywano ich na śmierć, głosowałem przeciwko nim;"
+  tags: []
+"Dz26,11":
+  text: "A po wszystkich synagogach często ich karząc, zmuszałem do bluźnierstwa. Występując przeciwko nim z wielką wściekłością, prześladowałem ich nawet po obcych miastach."
+  tags: []
+"Dz26,12":
+  text: "Tak jechałem do Damaszku, mając upoważnienie i zlecenie od naczelnych kapłanów."
+  tags: []
+"Dz26,13":
+  text: "W południe, będąc w drodze, ujrzałem, królu, światłość z nieba jaśniejszą niż słońce, która oświeciła mnie i tych, którzy jechali ze mną."
+  tags: []
+"Dz26,14":
+  text: "A gdy wszyscy upadliśmy na ziemię, usłyszałem głos mówiący do mnie po hebrajsku: Saulu, Saulu, dlaczego mnie prześladujesz? Trudno ci przeciw ościeniowi wierzgać."
+  tags: []
+"Dz26,15":
+  text: "A ja zapytałem: Kim jesteś, Panie? A on odpowiedział: Ja jestem Jezus, którego ty prześladujesz."
+  tags: []
+"Dz26,16":
+  text: "Ale podnieś się i stań na nogi, bo ukazałem się tobie, żeby ustanowić cię sługą i świadkiem zarówno tych rzeczy, które widziałeś, jak i innych, w których ci się objawię."
+  tags: []
+"Dz26,17":
+  text: "Wybawię cię od tego ludu i od pogan, do których cię teraz posyłam;"
+  tags: []
+"Dz26,18":
+  text: "Dla otworzenia ich oczu, aby odwrócić ich od ciemności do światła, od mocy szatana do Boga, aby otrzymali przebaczenie grzechów i dziedzictwo między uświęconymi przez wiarę we mnie."
+  tags: []
+"Dz26,19":
+  text: "Dlatego też, królu Agryppo, nie byłem nieposłuszny temu niebieskiemu widzeniu."
+  tags: []
+"Dz26,20":
+  text: "Ale głosiłem najpierw tym, którzy są w Damaszku, w Jerozolimie, w całej Judei, i poganom, żeby pokutowali i nawrócili się do Boga, i spełniali uczynki godne pokuty."
+  tags: []
+"Dz26,21":
+  text: "Z tego powodu Żydzi schwytali mnie w świątyni i chcieli zabić."
+  tags: []
+"Dz26,22":
+  text: "Ale dzięki pomocy Boga żyję do dzisiaj, dając świadectwo małym i wielkim, nic nie mówiąc oprócz tego, co powiedzieli prorocy i Mojżesz, że nastąpi;"
+  tags: []
+"Dz26,23":
+  text: "Że Chrystus ma cierpieć, jako pierwszy zmartwychwstać i zwiastować światłość temu ludowi i poganom."
+  tags: []
+"Dz26,24":
+  text: "Gdy on to powiedział w swojej obronie, Festus odezwał się donośnym głosem: Jesteś szalony, Pawle! Wielka uczoność doprowadza cię do szaleństwa."
+  tags: []
+"Dz26,25":
+  text: "Ale on odpowiedział: Nie jestem szalony, dostojny Festusie, ale głoszę słowa prawdy i rozsądku."
+  tags: []
+"Dz26,26":
+  text: "Król bowiem, przed którym śmiało mówię, wie o tych sprawach, gdyż jestem przekonany, że nic z tych rzeczy nie jest przed nim ukryte, ponieważ nie działo się to w jakimś zakątku."
+  tags: []
+"Dz26,27":
+  text: "Czy wierzysz, królu Agryppo, prorokom? Wiem, że wierzysz."
+  tags: []
+"Dz26,28":
+  text: "Wtedy Agryppa powiedział do Pawła: Niemal przekonałeś mnie, żebym został chrześcijaninem."
+  tags: []
+"Dz26,29":
+  text: "Ale Paweł powiedział: Dałby Bóg, abyś i niemal, i całkowicie nie tylko ty, ale i wszyscy, którzy mnie dziś słuchają, stali się takimi, jakim ja jestem, z wyjątkiem tych więzów."
+  tags: []
+"Dz26,30":
+  text: "A gdy to powiedział, wstał król, namiestnik, Berenike i ci, którzy z nimi zasiadali."
+  tags: []
+"Dz26,31":
+  text: "Kiedy się oddalili, rozmawiali między sobą: Ten człowiek nie czyni nic, co zasługiwałoby na śmierć lub więzienie."
+  tags: []
+"Dz26,32":
+  text: "Agryppa zaś powiedział do Festusa: Można by zwolnić tego człowieka, gdyby nie odwołał się do cesarza."
+  tags: []

@@ -1,28 +1,84 @@
-"Prz28,1": "Niegodziwi uciekają, choć nikt ich nie goni, ale sprawiedliwi są dzielni jak lew."
-"Prz28,2": "Z powodu grzechu ziemi wielu jest jej władców, ale dzięki człowiekowi roztropnemu i rozumnemu będzie trwała."
-"Prz28,3": "Ubogi człowiek, który gnębi biednych, jest jak gwałtowny deszcz, po którym nie ma chleba."
-"Prz28,4": "Ci, którzy odstępują od prawa, chwalą niegodziwych, lecz ci, którzy przestrzegają prawa, zwalczają ich."
-"Prz28,5": "Źli ludzie nie rozumieją sądu, ale ci, którzy szukają PANA, rozumieją wszystko."
-"Prz28,6": "Lepszy jest ubogi, który postępuje uczciwie, niż człowiek przewrotny w swych drogach, chociaż jest bogaty."
-"Prz28,7": "Kto przestrzega prawa, jest rozumnym synem, a towarzysz rozwiązłych hańbi swego ojca."
-"Prz28,8": "Kto pomnaża swój majątek lichwą i odsetkami, zbiera go dla tego, kto zlituje się nad ubogimi."
-"Prz28,9": "Kto odwraca swe ucho, aby nie słyszeć prawa, nawet jego modlitwa budzi odrazę."
-"Prz28,10": "Kto sprowadza prawych na złą drogę, sam wpadnie we własny dół, ale nienaganni odziedziczą dobro."
-"Prz28,11": "Bogacz jest mądry w swoich oczach, ale rozumny biedak go bada."
-"Prz28,12": "Gdy sprawiedliwi się radują, jest wielka chwała, a gdy niegodziwi powstają, człowiek się kryje."
-"Prz28,13": "Kto ukrywa swe grzechy, nie będzie miał szczęścia, ale kto je wyznaje i porzuca, dostąpi miłosierdzia."
-"Prz28,14": "Błogosławiony człowiek, który się zawsze boi, ale kto zatwardza swoje serce, wpada w nieszczęście."
-"Prz28,15": "Jak lew ryczący i zgłodniały niedźwiedź, tak niegodziwy władca panujący nad ubogim ludem."
-"Prz28,16": "Władca bezrozumny jest wielkim ciemięzcą, a kto nienawidzi chciwości, przedłuży swoje dni."
-"Prz28,17": "Człowiek, który przeleje krew ludzką, ucieknie aż do dołu; niech nikt go nie zatrzymuje."
-"Prz28,18": "Kto postępuje uczciwie, będzie wybawiony, a przewrotny na swoich drogach nagle upadnie."
-"Prz28,19": "Kto uprawia swoją ziemię, nasyci się chlebem, a kto naśladuje próżniaków, nasyci się nędzą."
-"Prz28,20": "Wierny człowiek będzie opływał w błogosławieństwa, a kto chce się szybko wzbogacić, nie będzie bez winy."
-"Prz28,21": "Niedobrze jest mieć wzgląd na osobę, bo dla kęsa chleba niejeden popełni przestępstwo."
-"Prz28,22": "Kto chce szybko się wzbogacić, ma złe oko, a nie wie, że przyjdzie na niego bieda."
-"Prz28,23": "Kto strofuje człowieka, znajdzie potem więcej przychylności niż ten, który pochlebia językiem."
-"Prz28,24": "Kto kradnie ojcu lub matce i mówi: To nie grzech, jest towarzyszem zbójcy."
-"Prz28,25": "Człowiek wyniosły wszczyna spór, ale kto pokłada ufność w PANU, będzie nasycony."
-"Prz28,26": "Kto ufa własnemu sercu, jest głupi, a kto mądrze postępuje, będzie ocalony."
-"Prz28,27": "Kto daje ubogiemu, nie zazna braku, a na tego, kto odwraca swe oczy od niego, spadnie wiele przekleństw."
-"Prz28,28": "Gdy niegodziwi powstają, ludzie się kryją, ale gdy giną, sprawiedliwi się mnożą."
+"Prz28,1":
+  text: "Niegodziwi uciekają, choć nikt ich nie goni, ale sprawiedliwi są dzielni jak lew."
+  tags: []
+"Prz28,2":
+  text: "Z powodu grzechu ziemi wielu jest jej władców, ale dzięki człowiekowi roztropnemu i rozumnemu będzie trwała."
+  tags: []
+"Prz28,3":
+  text: "Ubogi człowiek, który gnębi biednych, jest jak gwałtowny deszcz, po którym nie ma chleba."
+  tags: []
+"Prz28,4":
+  text: "Ci, którzy odstępują od prawa, chwalą niegodziwych, lecz ci, którzy przestrzegają prawa, zwalczają ich."
+  tags: []
+"Prz28,5":
+  text: "Źli ludzie nie rozumieją sądu, ale ci, którzy szukają PANA, rozumieją wszystko."
+  tags: []
+"Prz28,6":
+  text: "Lepszy jest ubogi, który postępuje uczciwie, niż człowiek przewrotny w swych drogach, chociaż jest bogaty."
+  tags: []
+"Prz28,7":
+  text: "Kto przestrzega prawa, jest rozumnym synem, a towarzysz rozwiązłych hańbi swego ojca."
+  tags: []
+"Prz28,8":
+  text: "Kto pomnaża swój majątek lichwą i odsetkami, zbiera go dla tego, kto zlituje się nad ubogimi."
+  tags: []
+"Prz28,9":
+  text: "Kto odwraca swe ucho, aby nie słyszeć prawa, nawet jego modlitwa budzi odrazę."
+  tags: []
+"Prz28,10":
+  text: "Kto sprowadza prawych na złą drogę, sam wpadnie we własny dół, ale nienaganni odziedziczą dobro."
+  tags: []
+"Prz28,11":
+  text: "Bogacz jest mądry w swoich oczach, ale rozumny biedak go bada."
+  tags: []
+"Prz28,12":
+  text: "Gdy sprawiedliwi się radują, jest wielka chwała, a gdy niegodziwi powstają, człowiek się kryje."
+  tags: []
+"Prz28,13":
+  text: "Kto ukrywa swe grzechy, nie będzie miał szczęścia, ale kto je wyznaje i porzuca, dostąpi miłosierdzia."
+  tags: []
+"Prz28,14":
+  text: "Błogosławiony człowiek, który się zawsze boi, ale kto zatwardza swoje serce, wpada w nieszczęście."
+  tags: []
+"Prz28,15":
+  text: "Jak lew ryczący i zgłodniały niedźwiedź, tak niegodziwy władca panujący nad ubogim ludem."
+  tags: []
+"Prz28,16":
+  text: "Władca bezrozumny jest wielkim ciemięzcą, a kto nienawidzi chciwości, przedłuży swoje dni."
+  tags: []
+"Prz28,17":
+  text: "Człowiek, który przeleje krew ludzką, ucieknie aż do dołu; niech nikt go nie zatrzymuje."
+  tags: []
+"Prz28,18":
+  text: "Kto postępuje uczciwie, będzie wybawiony, a przewrotny na swoich drogach nagle upadnie."
+  tags: []
+"Prz28,19":
+  text: "Kto uprawia swoją ziemię, nasyci się chlebem, a kto naśladuje próżniaków, nasyci się nędzą."
+  tags: []
+"Prz28,20":
+  text: "Wierny człowiek będzie opływał w błogosławieństwa, a kto chce się szybko wzbogacić, nie będzie bez winy."
+  tags: []
+"Prz28,21":
+  text: "Niedobrze jest mieć wzgląd na osobę, bo dla kęsa chleba niejeden popełni przestępstwo."
+  tags: []
+"Prz28,22":
+  text: "Kto chce szybko się wzbogacić, ma złe oko, a nie wie, że przyjdzie na niego bieda."
+  tags: []
+"Prz28,23":
+  text: "Kto strofuje człowieka, znajdzie potem więcej przychylności niż ten, który pochlebia językiem."
+  tags: []
+"Prz28,24":
+  text: "Kto kradnie ojcu lub matce i mówi: To nie grzech, jest towarzyszem zbójcy."
+  tags: []
+"Prz28,25":
+  text: "Człowiek wyniosły wszczyna spór, ale kto pokłada ufność w PANU, będzie nasycony."
+  tags: []
+"Prz28,26":
+  text: "Kto ufa własnemu sercu, jest głupi, a kto mądrze postępuje, będzie ocalony."
+  tags: []
+"Prz28,27":
+  text: "Kto daje ubogiemu, nie zazna braku, a na tego, kto odwraca swe oczy od niego, spadnie wiele przekleństw."
+  tags: []
+"Prz28,28":
+  text: "Gdy niegodziwi powstają, ludzie się kryją, ale gdy giną, sprawiedliwi się mnożą."
+  tags: []

@@ -1,23 +1,69 @@
-"Ps50,1": "Psalm Asafa. Bóg nad bogami, JHWH przemówił i wezwał ziemię od wschodu słońca aż do jego zachodu."
-"Ps50,2": "Z Syjonu, doskonałego piękna, zajaśniał Bóg."
-"Ps50,3": "Nasz Bóg przyjdzie i nie będzie milczał; ogień będzie trawił wszystko przed Jego obliczem i wokół Niego sroży się bardzo."
-"Ps50,4": "Wezwie z góry niebiosa i ziemię, aby sądzić swój lud:"
-"Ps50,5": "Zgromadźcie dla mnie moich świętych, zawierających ze mną przymierze przez ofiarę."
-"Ps50,6": "Wtedy niebiosa ogłoszą Jego sprawiedliwość, bo sam Bóg jest sędzią. Sela."
-"Ps50,7": "Słuchaj, mój ludu, a będę mówił; słuchaj, Izraelu, a będę świadczył o tobie: Ja jestem Bogiem, twoim Bogiem."
-"Ps50,8": "Nie będę cię strofował za twoje ofiary ani za twoje całopalenia, które zawsze są przede mną."
-"Ps50,9": "Nie przyjmę cielca z twojego domu ani kozłów z twoich zagród."
-"Ps50,10": "Do mnie bowiem należy wszelkie dzikie zwierzę leśne i tysiące bydła na górach."
-"Ps50,11": "Znam wszelkie ptactwo górskie i moje są zwierzęta polne."
-"Ps50,12": "Gdybym był głodny, nie mówiłbym ci o tym, bo mój jest świat i wszystko, co go napełnia."
-"Ps50,13": "Czyż jadam mięso wołów lub piję krew kozłów?"
-"Ps50,14": "Ofiaruj Bogu dziękczynienie i spełnij swoje śluby wobec Najwyższego;"
-"Ps50,15": "I wzywaj mnie w dniu utrapienia; wtedy cię wybawię, a ty mnie uwielbisz."
-"Ps50,16": "Lecz do niegodziwego Bóg powiedział: W jakim celu wyliczasz moje prawa i bierzesz na swoje wargi moje przymierze?"
-"Ps50,17": "Lecz ty znienawidziłeś karność i rzuciłeś za siebie moje słowa?"
-"Ps50,18": "Gdy widziałeś złodzieja, przyjmowałeś go życzliwie i dział swój miałeś z cudzołożącymi."
-"Ps50,19": "Rozszerzyłeś swoje usta ku złemu, a twój język knuje podstęp."
-"Ps50,20": "Siedzisz i mówisz przeciwko swojemu bratu, przypisujesz winę synowi swojej matki."
-"Ps50,21": "To czyniłeś, a ja milczałem, myślałeś, że stałem się tobie podobnym, ale będę cię napominał i postawię ci to przed oczy."
-"Ps50,22": "Zrozumcie to teraz wy, którzy zapominacie Boga, bym was nie rozszarpał, i nie będzie, kto by was ocalił."
-"Ps50,23": "Kto mi ofiaruje dziękczynienie, ten mnie uwielbi; a temu, kto wyznacza drogę, ukażę Boże zbawienie."
+"Ps50,1":
+  text: "Psalm Asafa. Bóg nad bogami, JHWH przemówił i wezwał ziemię od wschodu słońca aż do jego zachodu."
+  tags: []
+"Ps50,2":
+  text: "Z Syjonu, doskonałego piękna, zajaśniał Bóg."
+  tags: []
+"Ps50,3":
+  text: "Nasz Bóg przyjdzie i nie będzie milczał; ogień będzie trawił wszystko przed Jego obliczem i wokół Niego sroży się bardzo."
+  tags: []
+"Ps50,4":
+  text: "Wezwie z góry niebiosa i ziemię, aby sądzić swój lud:"
+  tags: []
+"Ps50,5":
+  text: "Zgromadźcie dla mnie moich świętych, zawierających ze mną przymierze przez ofiarę."
+  tags: []
+"Ps50,6":
+  text: "Wtedy niebiosa ogłoszą Jego sprawiedliwość, bo sam Bóg jest sędzią. Sela."
+  tags: []
+"Ps50,7":
+  text: "Słuchaj, mój ludu, a będę mówił; słuchaj, Izraelu, a będę świadczył o tobie: Ja jestem Bogiem, twoim Bogiem."
+  tags: []
+"Ps50,8":
+  text: "Nie będę cię strofował za twoje ofiary ani za twoje całopalenia, które zawsze są przede mną."
+  tags: []
+"Ps50,9":
+  text: "Nie przyjmę cielca z twojego domu ani kozłów z twoich zagród."
+  tags: []
+"Ps50,10":
+  text: "Do mnie bowiem należy wszelkie dzikie zwierzę leśne i tysiące bydła na górach."
+  tags: []
+"Ps50,11":
+  text: "Znam wszelkie ptactwo górskie i moje są zwierzęta polne."
+  tags: []
+"Ps50,12":
+  text: "Gdybym był głodny, nie mówiłbym ci o tym, bo mój jest świat i wszystko, co go napełnia."
+  tags: []
+"Ps50,13":
+  text: "Czyż jadam mięso wołów lub piję krew kozłów?"
+  tags: []
+"Ps50,14":
+  text: "Ofiaruj Bogu dziękczynienie i spełnij swoje śluby wobec Najwyższego;"
+  tags: []
+"Ps50,15":
+  text: "I wzywaj mnie w dniu utrapienia; wtedy cię wybawię, a ty mnie uwielbisz."
+  tags: []
+"Ps50,16":
+  text: "Lecz do niegodziwego Bóg powiedział: W jakim celu wyliczasz moje prawa i bierzesz na swoje wargi moje przymierze?"
+  tags: []
+"Ps50,17":
+  text: "Lecz ty znienawidziłeś karność i rzuciłeś za siebie moje słowa?"
+  tags: []
+"Ps50,18":
+  text: "Gdy widziałeś złodzieja, przyjmowałeś go życzliwie i dział swój miałeś z cudzołożącymi."
+  tags: []
+"Ps50,19":
+  text: "Rozszerzyłeś swoje usta ku złemu, a twój język knuje podstęp."
+  tags: []
+"Ps50,20":
+  text: "Siedzisz i mówisz przeciwko swojemu bratu, przypisujesz winę synowi swojej matki."
+  tags: []
+"Ps50,21":
+  text: "To czyniłeś, a ja milczałem, myślałeś, że stałem się tobie podobnym, ale będę cię napominał i postawię ci to przed oczy."
+  tags: []
+"Ps50,22":
+  text: "Zrozumcie to teraz wy, którzy zapominacie Boga, bym was nie rozszarpał, i nie będzie, kto by was ocalił."
+  tags: []
+"Ps50,23":
+  text: "Kto mi ofiaruje dziękczynienie, ten mnie uwielbi; a temu, kto wyznacza drogę, ukażę Boże zbawienie."
+  tags: []

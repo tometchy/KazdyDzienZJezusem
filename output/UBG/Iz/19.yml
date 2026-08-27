@@ -1,25 +1,75 @@
-"Iz19,1": "Brzemię Egiptu. Oto PAN jedzie na lekkim obłoku i przybędzie do Egiptu. Zadrżą przed nim bożki Egiptu, a serce Egiptu stopnieje w jego wnętrzu."
-"Iz19,2": "Podburzę Egipcjan przeciw Egipcjanom, tak że każdy będzie walczyć przeciwko swemu bratu i każdy przeciwko swemu bliźniemu, miasto przeciwko miastu, królestwo przeciwko królestwu."
-"Iz19,3": "I osłabnie duch Egiptu, a jego zamiar obrócę wniwecz. I będą się radzić bożków i zaklinaczy, czarowników i wróżbitów."
-"Iz19,4": "I wydam Egipcjan w ręce okrutnego pana, a srogi król będzie panować nad nimi, mówi Pan, PAN zastępów."
-"Iz19,5": "I zginą wody z morza, a rzeka opadnie i wyschnie."
-"Iz19,6": "Ustaną rzeki, opadną i powysychają potoki ujęte groblami, a trzcina i sitowie powiędną."
-"Iz19,7": "Trawa przy brzegach potoków i przy ich ujściu oraz wszelki zasiew przy potokach wyschną i wyginą, i już ich nie będzie."
-"Iz19,8": "Rybacy będą się smucić, będą lamentować wszyscy, którzy w rzece zarzucają wędkę, i ci, którzy rozciągają sieci na wodzie, będą rozpaczać."
-"Iz19,9": "Zawiedzeni będą też ci, którzy uprawiają wyborny len, i ci, którzy tkają sieci."
-"Iz19,10": "Będą przygnębieni swoim losem wszyscy, którzy robią stawy do hodowli ryb."
-"Iz19,11": "Doprawdy, książęta Soanu są głupcami, zgłupiała rada mądrych doradców faraona. Jak możecie mówić do faraona: Jestem synem mędrców, synem starożytnych królów?"
-"Iz19,12": "Gdzie teraz są twoi mędrcy? Niech ci teraz oznajmią, jeśli wiedzą, co PAN zastępów postanowił wobec Egiptu."
-"Iz19,13": "Zgłupieli książęta Soanu, zwiedzeni są książęta Nof; zwiedli Egipt naczelnicy jego rodów."
-"Iz19,14": "PAN umieścił pośród nich wypaczonego ducha, a oni sprawili, że Egipt zbłądził w każdej swojej sprawie, tak jak błądzi wymiotujący pijak."
-"Iz19,15": "I nie będzie żadnego dzieła w Egipcie, którego będą mogły dokonać głowa lub ogon, gałąź lub sitowie."
-"Iz19,16": "W tym dniu Egipt będzie podobny do kobiet, bo będzie się lękać i drżeć przed ręką PANA zastępów, którą podniesie przeciwko niemu."
-"Iz19,17": "Ziemia Judy stanie się postrachem dla Egiptu. Każdy, kto o niej wspomni, będzie się lękał z powodu zamiaru, który powziął przeciwko niemu PAN zastępów."
-"Iz19,18": "W tym dniu w ziemi Egiptu będzie pięć miast mówiących językiem Kanaanu i przysięgających na PANA zastępów, a jedno z nich będzie nazwane Miastem Spustoszenia."
-"Iz19,19": "W tym dniu będzie ołtarz dla PANA pośród ziemi Egiptu i słup dla PANA przy jego granicy."
-"Iz19,20": "I będzie to znakiem i świadectwem dla PANA zastępów w ziemi Egiptu. A gdy zawołają do PANA z powodu ciemięzców, pośle im zbawiciela i księcia, który ich wybawi."
-"Iz19,21": "I PAN będzie znany w Egipcie, gdyż Egipcjanie tego dnia poznają PANA i będą składać mu ofiary i dary, będą składać PANU śluby i wypełnią je."
-"Iz19,22": "A PAN uderzy Egipt, uderzy go i uzdrowi. Oni nawrócą się do PANA, a on da się im ubłagać i uzdrowi ich."
-"Iz19,23": "W tym dniu będzie droga z Egiptu do Asyrii i Asyryjczyk będzie chodzić do Egiptu, a Egipcjanin do Asyrii, i Egipcjanie będą służyć z Asyryjczykami."
-"Iz19,24": "W tym dniu Izrael będzie jako trzeci wraz z Egiptem i Asyrią, będzie błogosławieństwem pośrodku ziemi."
-"Iz19,25": "PAN zastępów bowiem będzie im błogosławił: Niech będzie błogosławiony mój lud Egipt i Asyria, dzieło moich rąk, oraz Izrael, moje dziedzictwo."
+"Iz19,1":
+  text: "Brzemię Egiptu. Oto PAN jedzie na lekkim obłoku i przybędzie do Egiptu. Zadrżą przed nim bożki Egiptu, a serce Egiptu stopnieje w jego wnętrzu."
+  tags: []
+"Iz19,2":
+  text: "Podburzę Egipcjan przeciw Egipcjanom, tak że każdy będzie walczyć przeciwko swemu bratu i każdy przeciwko swemu bliźniemu, miasto przeciwko miastu, królestwo przeciwko królestwu."
+  tags: []
+"Iz19,3":
+  text: "I osłabnie duch Egiptu, a jego zamiar obrócę wniwecz. I będą się radzić bożków i zaklinaczy, czarowników i wróżbitów."
+  tags: []
+"Iz19,4":
+  text: "I wydam Egipcjan w ręce okrutnego pana, a srogi król będzie panować nad nimi, mówi Pan, PAN zastępów."
+  tags: []
+"Iz19,5":
+  text: "I zginą wody z morza, a rzeka opadnie i wyschnie."
+  tags: []
+"Iz19,6":
+  text: "Ustaną rzeki, opadną i powysychają potoki ujęte groblami, a trzcina i sitowie powiędną."
+  tags: []
+"Iz19,7":
+  text: "Trawa przy brzegach potoków i przy ich ujściu oraz wszelki zasiew przy potokach wyschną i wyginą, i już ich nie będzie."
+  tags: []
+"Iz19,8":
+  text: "Rybacy będą się smucić, będą lamentować wszyscy, którzy w rzece zarzucają wędkę, i ci, którzy rozciągają sieci na wodzie, będą rozpaczać."
+  tags: []
+"Iz19,9":
+  text: "Zawiedzeni będą też ci, którzy uprawiają wyborny len, i ci, którzy tkają sieci."
+  tags: []
+"Iz19,10":
+  text: "Będą przygnębieni swoim losem wszyscy, którzy robią stawy do hodowli ryb."
+  tags: []
+"Iz19,11":
+  text: "Doprawdy, książęta Soanu są głupcami, zgłupiała rada mądrych doradców faraona. Jak możecie mówić do faraona: Jestem synem mędrców, synem starożytnych królów?"
+  tags: []
+"Iz19,12":
+  text: "Gdzie teraz są twoi mędrcy? Niech ci teraz oznajmią, jeśli wiedzą, co PAN zastępów postanowił wobec Egiptu."
+  tags: []
+"Iz19,13":
+  text: "Zgłupieli książęta Soanu, zwiedzeni są książęta Nof; zwiedli Egipt naczelnicy jego rodów."
+  tags: []
+"Iz19,14":
+  text: "PAN umieścił pośród nich wypaczonego ducha, a oni sprawili, że Egipt zbłądził w każdej swojej sprawie, tak jak błądzi wymiotujący pijak."
+  tags: []
+"Iz19,15":
+  text: "I nie będzie żadnego dzieła w Egipcie, którego będą mogły dokonać głowa lub ogon, gałąź lub sitowie."
+  tags: []
+"Iz19,16":
+  text: "W tym dniu Egipt będzie podobny do kobiet, bo będzie się lękać i drżeć przed ręką PANA zastępów, którą podniesie przeciwko niemu."
+  tags: []
+"Iz19,17":
+  text: "Ziemia Judy stanie się postrachem dla Egiptu. Każdy, kto o niej wspomni, będzie się lękał z powodu zamiaru, który powziął przeciwko niemu PAN zastępów."
+  tags: []
+"Iz19,18":
+  text: "W tym dniu w ziemi Egiptu będzie pięć miast mówiących językiem Kanaanu i przysięgających na PANA zastępów, a jedno z nich będzie nazwane Miastem Spustoszenia."
+  tags: []
+"Iz19,19":
+  text: "W tym dniu będzie ołtarz dla PANA pośród ziemi Egiptu i słup dla PANA przy jego granicy."
+  tags: []
+"Iz19,20":
+  text: "I będzie to znakiem i świadectwem dla PANA zastępów w ziemi Egiptu. A gdy zawołają do PANA z powodu ciemięzców, pośle im zbawiciela i księcia, który ich wybawi."
+  tags: []
+"Iz19,21":
+  text: "I PAN będzie znany w Egipcie, gdyż Egipcjanie tego dnia poznają PANA i będą składać mu ofiary i dary, będą składać PANU śluby i wypełnią je."
+  tags: []
+"Iz19,22":
+  text: "A PAN uderzy Egipt, uderzy go i uzdrowi. Oni nawrócą się do PANA, a on da się im ubłagać i uzdrowi ich."
+  tags: []
+"Iz19,23":
+  text: "W tym dniu będzie droga z Egiptu do Asyrii i Asyryjczyk będzie chodzić do Egiptu, a Egipcjanin do Asyrii, i Egipcjanie będą służyć z Asyryjczykami."
+  tags: []
+"Iz19,24":
+  text: "W tym dniu Izrael będzie jako trzeci wraz z Egiptem i Asyrią, będzie błogosławieństwem pośrodku ziemi."
+  tags: []
+"Iz19,25":
+  text: "PAN zastępów bowiem będzie im błogosławił: Niech będzie błogosławiony mój lud Egipt i Asyria, dzieło moich rąk, oraz Izrael, moje dziedzictwo."
+  tags: []

@@ -1,50 +1,150 @@
-"Ps18,1": "I will love thee, O LORD, my strength."
-"Ps18,2": "The LORD [is] my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, [and] my high tower."
-"Ps18,3": "I will call upon the LORD, [who is worthy] to be praised: so shall I be saved from mine enemies."
-"Ps18,4": "The sorrows of death compassed me, and the floods of ungodly men made me afraid."
-"Ps18,5": "The sorrows of hell compassed me about: the snares of death prevented me."
-"Ps18,6": "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, [even] into his ears."
-"Ps18,7": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth."
-"Ps18,8": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
-"Ps18,9": "He bowed the heavens also, and came down: and darkness [was] under his feet."
-"Ps18,10": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind."
-"Ps18,11": "He made darkness his secret place; his pavilion round about him [were] dark waters [and] thick clouds of the skies."
-"Ps18,12": "At the brightness [that was] before him his thick clouds passed, hail [stones] and coals of fire."
-"Ps18,13": "The LORD also thundered in the heavens, and the Highest gave his voice; hail [stones] and coals of fire."
-"Ps18,14": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them."
-"Ps18,15": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils."
-"Ps18,16": "He sent from above, he took me, he drew me out of many waters."
-"Ps18,17": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me."
-"Ps18,18": "They prevented me in the day of my calamity: but the LORD was my stay."
-"Ps18,19": "He brought me forth also into a large place; he delivered me, because he delighted in me."
-"Ps18,20": "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me."
-"Ps18,21": "For I have kept the ways of the LORD, and have not wickedly departed from my God."
-"Ps18,22": "For all his judgments [were] before me, and I did not put away his statutes from me."
-"Ps18,23": "I was also upright before him, and I kept myself from mine iniquity."
-"Ps18,24": "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight."
-"Ps18,25": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;"
-"Ps18,26": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward."
-"Ps18,27": "For thou wilt save the afflicted people; but wilt bring down high looks."
-"Ps18,28": "For thou wilt light my candle: the LORD my God will enlighten my darkness."
-"Ps18,29": "For by thee I have run through a troop; and by my God have I leaped over a wall."
-"Ps18,30": "[As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him."
-"Ps18,31": "For who [is] God save the LORD? or who [is] a rock save our God?"
-"Ps18,32": "[It is] God that girdeth me with strength, and maketh my way perfect."
-"Ps18,33": "He maketh my feet like hinds' [feet], and setteth me upon my high places."
-"Ps18,34": "He teacheth my hands to war, so that a bow of steel is broken by mine arms."
-"Ps18,35": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great."
-"Ps18,36": "Thou hast enlarged my steps under me, that my feet did not slip."
-"Ps18,37": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed."
-"Ps18,38": "I have wounded them that they were not able to rise: they are fallen under my feet."
-"Ps18,39": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me."
-"Ps18,40": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me."
-"Ps18,41": "They cried, but [there was] none to save [them: even] unto the LORD, but he answered them not."
-"Ps18,42": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets."
-"Ps18,43": "Thou hast delivered me from the strivings of the people; [and] thou hast made me the head of the heathen: a people [whom] I have not known shall serve me."
-"Ps18,44": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me."
-"Ps18,45": "The strangers shall fade away, and be afraid out of their close places."
-"Ps18,46": "The LORD liveth; and blessed [be] my rock; and let the God of my salvation be exalted."
-"Ps18,47": "[It is] God that avengeth me, and subdueth the people under me."
-"Ps18,48": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man."
-"Ps18,49": "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name."
-"Ps18,50": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore."
+"Ps18,1":
+  text: "I will love thee, O LORD, my strength."
+  tags: []
+"Ps18,2":
+  text: "The LORD [is] my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, [and] my high tower."
+  tags: []
+"Ps18,3":
+  text: "I will call upon the LORD, [who is worthy] to be praised: so shall I be saved from mine enemies."
+  tags: []
+"Ps18,4":
+  text: "The sorrows of death compassed me, and the floods of ungodly men made me afraid."
+  tags: []
+"Ps18,5":
+  text: "The sorrows of hell compassed me about: the snares of death prevented me."
+  tags: []
+"Ps18,6":
+  text: "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, [even] into his ears."
+  tags: []
+"Ps18,7":
+  text: "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth."
+  tags: []
+"Ps18,8":
+  text: "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
+  tags: []
+"Ps18,9":
+  text: "He bowed the heavens also, and came down: and darkness [was] under his feet."
+  tags: []
+"Ps18,10":
+  text: "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind."
+  tags: []
+"Ps18,11":
+  text: "He made darkness his secret place; his pavilion round about him [were] dark waters [and] thick clouds of the skies."
+  tags: []
+"Ps18,12":
+  text: "At the brightness [that was] before him his thick clouds passed, hail [stones] and coals of fire."
+  tags: []
+"Ps18,13":
+  text: "The LORD also thundered in the heavens, and the Highest gave his voice; hail [stones] and coals of fire."
+  tags: []
+"Ps18,14":
+  text: "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them."
+  tags: []
+"Ps18,15":
+  text: "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils."
+  tags: []
+"Ps18,16":
+  text: "He sent from above, he took me, he drew me out of many waters."
+  tags: []
+"Ps18,17":
+  text: "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me."
+  tags: []
+"Ps18,18":
+  text: "They prevented me in the day of my calamity: but the LORD was my stay."
+  tags: []
+"Ps18,19":
+  text: "He brought me forth also into a large place; he delivered me, because he delighted in me."
+  tags: []
+"Ps18,20":
+  text: "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me."
+  tags: []
+"Ps18,21":
+  text: "For I have kept the ways of the LORD, and have not wickedly departed from my God."
+  tags: []
+"Ps18,22":
+  text: "For all his judgments [were] before me, and I did not put away his statutes from me."
+  tags: []
+"Ps18,23":
+  text: "I was also upright before him, and I kept myself from mine iniquity."
+  tags: []
+"Ps18,24":
+  text: "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight."
+  tags: []
+"Ps18,25":
+  text: "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;"
+  tags: []
+"Ps18,26":
+  text: "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward."
+  tags: []
+"Ps18,27":
+  text: "For thou wilt save the afflicted people; but wilt bring down high looks."
+  tags: []
+"Ps18,28":
+  text: "For thou wilt light my candle: the LORD my God will enlighten my darkness."
+  tags: []
+"Ps18,29":
+  text: "For by thee I have run through a troop; and by my God have I leaped over a wall."
+  tags: []
+"Ps18,30":
+  text: "[As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him."
+  tags: []
+"Ps18,31":
+  text: "For who [is] God save the LORD? or who [is] a rock save our God?"
+  tags: []
+"Ps18,32":
+  text: "[It is] God that girdeth me with strength, and maketh my way perfect."
+  tags: []
+"Ps18,33":
+  text: "He maketh my feet like hinds' [feet], and setteth me upon my high places."
+  tags: []
+"Ps18,34":
+  text: "He teacheth my hands to war, so that a bow of steel is broken by mine arms."
+  tags: []
+"Ps18,35":
+  text: "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great."
+  tags: []
+"Ps18,36":
+  text: "Thou hast enlarged my steps under me, that my feet did not slip."
+  tags: []
+"Ps18,37":
+  text: "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed."
+  tags: []
+"Ps18,38":
+  text: "I have wounded them that they were not able to rise: they are fallen under my feet."
+  tags: []
+"Ps18,39":
+  text: "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me."
+  tags: []
+"Ps18,40":
+  text: "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me."
+  tags: []
+"Ps18,41":
+  text: "They cried, but [there was] none to save [them: even] unto the LORD, but he answered them not."
+  tags: []
+"Ps18,42":
+  text: "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets."
+  tags: []
+"Ps18,43":
+  text: "Thou hast delivered me from the strivings of the people; [and] thou hast made me the head of the heathen: a people [whom] I have not known shall serve me."
+  tags: []
+"Ps18,44":
+  text: "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me."
+  tags: []
+"Ps18,45":
+  text: "The strangers shall fade away, and be afraid out of their close places."
+  tags: []
+"Ps18,46":
+  text: "The LORD liveth; and blessed [be] my rock; and let the God of my salvation be exalted."
+  tags: []
+"Ps18,47":
+  text: "[It is] God that avengeth me, and subdueth the people under me."
+  tags: []
+"Ps18,48":
+  text: "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man."
+  tags: []
+"Ps18,49":
+  text: "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name."
+  tags: []
+"Ps18,50":
+  text: "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore."
+  tags: []

@@ -1,24 +1,72 @@
-"Hi40,1": "Moreover the LORD answered Job, and said,"
-"Hi40,2": "Shall he that contendeth with the Almighty instruct [him]? he that reproveth God, let him answer it."
-"Hi40,3": "Then Job answered the LORD, and said,"
-"Hi40,4": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
-"Hi40,5": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further."
-"Hi40,6": "Then answered the LORD unto Job out of the whirlwind, and said,"
-"Hi40,7": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
-"Hi40,8": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
-"Hi40,9": "Hast thou an arm like God? or canst thou thunder with a voice like him?"
-"Hi40,10": "Deck thyself now [with] majesty and excellency; and array thyself with glory and beauty."
-"Hi40,11": "Cast abroad the rage of thy wrath: and behold every one [that is] proud, and abase him."
-"Hi40,12": "Look on every one [that is] proud, [and] bring him low; and tread down the wicked in their place."
-"Hi40,13": "Hide them in the dust together; [and] bind their faces in secret."
-"Hi40,14": "Then will I also confess unto thee that thine own right hand can save thee."
-"Hi40,15": "Behold now behemoth, which I made with thee; he eateth grass as an ox."
-"Hi40,16": "Lo now, his strength [is] in his loins, and his force [is] in the navel of his belly."
-"Hi40,17": "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
-"Hi40,18": "His bones [are as] strong pieces of brass; his bones [are] like bars of iron."
-"Hi40,19": "He [is] the chief of the ways of God: he that made him can make his sword to approach [unto him]."
-"Hi40,20": "Surely the mountains bring him forth food, where all the beasts of the field play."
-"Hi40,21": "He lieth under the shady trees, in the covert of the reed, and fens."
-"Hi40,22": "The shady trees cover him [with] their shadow; the willows of the brook compass him about."
-"Hi40,23": "Behold, he drinketh up a river, [and] hasteth not: he trusteth that he can draw up Jordan into his mouth."
-"Hi40,24": "He taketh it with his eyes: [his] nose pierceth through snares."
+"Hi40,1":
+  text: "Moreover the LORD answered Job, and said,"
+  tags: []
+"Hi40,2":
+  text: "Shall he that contendeth with the Almighty instruct [him]? he that reproveth God, let him answer it."
+  tags: []
+"Hi40,3":
+  text: "Then Job answered the LORD, and said,"
+  tags: []
+"Hi40,4":
+  text: "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
+  tags: []
+"Hi40,5":
+  text: "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further."
+  tags: []
+"Hi40,6":
+  text: "Then answered the LORD unto Job out of the whirlwind, and said,"
+  tags: []
+"Hi40,7":
+  text: "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
+  tags: []
+"Hi40,8":
+  text: "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
+  tags: []
+"Hi40,9":
+  text: "Hast thou an arm like God? or canst thou thunder with a voice like him?"
+  tags: []
+"Hi40,10":
+  text: "Deck thyself now [with] majesty and excellency; and array thyself with glory and beauty."
+  tags: []
+"Hi40,11":
+  text: "Cast abroad the rage of thy wrath: and behold every one [that is] proud, and abase him."
+  tags: []
+"Hi40,12":
+  text: "Look on every one [that is] proud, [and] bring him low; and tread down the wicked in their place."
+  tags: []
+"Hi40,13":
+  text: "Hide them in the dust together; [and] bind their faces in secret."
+  tags: []
+"Hi40,14":
+  text: "Then will I also confess unto thee that thine own right hand can save thee."
+  tags: []
+"Hi40,15":
+  text: "Behold now behemoth, which I made with thee; he eateth grass as an ox."
+  tags: []
+"Hi40,16":
+  text: "Lo now, his strength [is] in his loins, and his force [is] in the navel of his belly."
+  tags: []
+"Hi40,17":
+  text: "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
+  tags: []
+"Hi40,18":
+  text: "His bones [are as] strong pieces of brass; his bones [are] like bars of iron."
+  tags: []
+"Hi40,19":
+  text: "He [is] the chief of the ways of God: he that made him can make his sword to approach [unto him]."
+  tags: []
+"Hi40,20":
+  text: "Surely the mountains bring him forth food, where all the beasts of the field play."
+  tags: []
+"Hi40,21":
+  text: "He lieth under the shady trees, in the covert of the reed, and fens."
+  tags: []
+"Hi40,22":
+  text: "The shady trees cover him [with] their shadow; the willows of the brook compass him about."
+  tags: []
+"Hi40,23":
+  text: "Behold, he drinketh up a river, [and] hasteth not: he trusteth that he can draw up Jordan into his mouth."
+  tags: []
+"Hi40,24":
+  text: "He taketh it with his eyes: [his] nose pierceth through snares."
+  tags: []

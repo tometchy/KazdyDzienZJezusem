@@ -1,21 +1,63 @@
-"Jl3,1": "Bo oto w tych dniach i w tym czasie, w którym przywrócę z niewoli Judę i Jerozolimę;"
-"Jl3,2": "Zgromadzę też wszystkie narody i sprowadzę je do Doliny Jehoszafata, i tam się z nimi będę spierał z powodu mojego ludu, i z powodu mojego dziedzictwa, Izraela, które rozproszyli wśród narodów i podzielili moją ziemię."
-"Jl3,3": "O mój lud rzucali los: dawali chłopca za nierządnicę, a dziewczynę sprzedawali za wino, i pili."
-"Jl3,4": "Również co wam do mnie, Tyrze i Sydonie, i wszystkie okręgi filistyńskie? Czy wy chcecie dać mi odpłatę? A jeśli wy chcecie mi odpłacić, to szybko i pośpiesznie zwrócę waszą odpłatę na waszą głowę;"
-"Jl3,5": "Gdyż zabraliście moje srebro i złoto, a moje cenne klejnoty wnieśliście do swoich świątyń;"
-"Jl3,6": "A synów Judy i synów Jerozolimy sprzedaliście synom Jawańczyków, aby ich oddalić od ich granic."
-"Jl3,7": "Oto ja pobudzę ich w tym miejscu, do którego to ich sprzedaliście, i zwrócę waszą zapłatę na waszą głowę;"
-"Jl3,8": "I sprzedam waszych synów i wasze córki w ręce synów Judy, a oni sprzedadzą ich Sabejczykom, do narodu dalekiego. Bo tak JHWH nakazał."
-"Jl3,9": "Rozgłoście to wśród narodów, poświęćcie się na wojnę, pobudźcie bohaterów! Niech zbliżą się i niech wyruszą wszyscy ludzie wojny."
-"Jl3,10": "Przekujcie wasze lemiesze na miecze, a wasze sierpaki na oszczepy; słaby, niech powie: Ja jestem silny."
-"Jl3,11": "Pośpieszcie się i przyjdźcie, zostańcie zebrane wszystkie okoliczne narody! Ściągnij tam, JHWH, swoich bohaterów."
-"Jl3,12": "Niech narody zostaną pobudzone i nadciągną do Doliny Jehoszafata. Bo tam zasiądę, by sądzić wszystkie okoliczne narody."
-"Jl3,13": "Zapuśćcie sierp, bo dojrzało żniwo. Pójdźcie i zstąpcie, bo tłocznia jest pełna, kadzie przelewają się, bo ich zło jest wielkie."
-"Jl3,14": "Tłumy, wielkie tłumy w Dolinie Wyroku. Bo bliski jest dzień JHWH w Dolinie Wyroku."
-"Jl3,15": "Słońce i księżyc pociemnieją i gwiazdy utracą swój blask."
-"Jl3,16": "I JHWH zagrzmi z Syjonu, a z Jerozolimy wyda swój głos, i zadrżą niebiosa i ziemia. Ale JHWH będzie schronieniem dla swojego ludu i twierdzą synów Izraela."
-"Jl3,17": "I poznacie, że ja jestem JHWH, wasz Bóg, mieszkający na Syjonie, mojej świętej górze. I Jerozolima stanie się święta, a obcy już nie będą przez nią przechodzili."
-"Jl3,18": "I stanie się w tym dniu, że góry będą opływać moszczem, pagórki spływać mlekiem i wszystkie kanały Judy napełnią się wodą, a z domu JHWH wypłynie źródło, które nawodni Dolinę Szittim."
-"Jl3,19": "Egipt będzie spustoszony, a ziemia Edom stanie się opustoszałym pustkowiem za przemoc wobec synów Judy, bo przelewali niewinną krew w ich ziemi."
-"Jl3,20": "A Juda będzie trwać na wieki, a Jerozolima – z pokolenia na pokolenie."
-"Jl3,21": "I uniewinnię ich od przelanej krwi, tych których nie uniewinniłem. Bo JHWH mieszka na Syjonie."
+"Jl3,1":
+  text: "Bo oto w tych dniach i w tym czasie, w którym przywrócę z niewoli Judę i Jerozolimę;"
+  tags: []
+"Jl3,2":
+  text: "Zgromadzę też wszystkie narody i sprowadzę je do Doliny Jehoszafata, i tam się z nimi będę spierał z powodu mojego ludu, i z powodu mojego dziedzictwa, Izraela, które rozproszyli wśród narodów i podzielili moją ziemię."
+  tags: []
+"Jl3,3":
+  text: "O mój lud rzucali los: dawali chłopca za nierządnicę, a dziewczynę sprzedawali za wino, i pili."
+  tags: []
+"Jl3,4":
+  text: "Również co wam do mnie, Tyrze i Sydonie, i wszystkie okręgi filistyńskie? Czy wy chcecie dać mi odpłatę? A jeśli wy chcecie mi odpłacić, to szybko i pośpiesznie zwrócę waszą odpłatę na waszą głowę;"
+  tags: []
+"Jl3,5":
+  text: "Gdyż zabraliście moje srebro i złoto, a moje cenne klejnoty wnieśliście do swoich świątyń;"
+  tags: []
+"Jl3,6":
+  text: "A synów Judy i synów Jerozolimy sprzedaliście synom Jawańczyków, aby ich oddalić od ich granic."
+  tags: []
+"Jl3,7":
+  text: "Oto ja pobudzę ich w tym miejscu, do którego to ich sprzedaliście, i zwrócę waszą zapłatę na waszą głowę;"
+  tags: []
+"Jl3,8":
+  text: "I sprzedam waszych synów i wasze córki w ręce synów Judy, a oni sprzedadzą ich Sabejczykom, do narodu dalekiego. Bo tak JHWH nakazał."
+  tags: []
+"Jl3,9":
+  text: "Rozgłoście to wśród narodów, poświęćcie się na wojnę, pobudźcie bohaterów! Niech zbliżą się i niech wyruszą wszyscy ludzie wojny."
+  tags: []
+"Jl3,10":
+  text: "Przekujcie wasze lemiesze na miecze, a wasze sierpaki na oszczepy; słaby, niech powie: Ja jestem silny."
+  tags: []
+"Jl3,11":
+  text: "Pośpieszcie się i przyjdźcie, zostańcie zebrane wszystkie okoliczne narody! Ściągnij tam, JHWH, swoich bohaterów."
+  tags: []
+"Jl3,12":
+  text: "Niech narody zostaną pobudzone i nadciągną do Doliny Jehoszafata. Bo tam zasiądę, by sądzić wszystkie okoliczne narody."
+  tags: []
+"Jl3,13":
+  text: "Zapuśćcie sierp, bo dojrzało żniwo. Pójdźcie i zstąpcie, bo tłocznia jest pełna, kadzie przelewają się, bo ich zło jest wielkie."
+  tags: []
+"Jl3,14":
+  text: "Tłumy, wielkie tłumy w Dolinie Wyroku. Bo bliski jest dzień JHWH w Dolinie Wyroku."
+  tags: []
+"Jl3,15":
+  text: "Słońce i księżyc pociemnieją i gwiazdy utracą swój blask."
+  tags: []
+"Jl3,16":
+  text: "I JHWH zagrzmi z Syjonu, a z Jerozolimy wyda swój głos, i zadrżą niebiosa i ziemia. Ale JHWH będzie schronieniem dla swojego ludu i twierdzą synów Izraela."
+  tags: []
+"Jl3,17":
+  text: "I poznacie, że ja jestem JHWH, wasz Bóg, mieszkający na Syjonie, mojej świętej górze. I Jerozolima stanie się święta, a obcy już nie będą przez nią przechodzili."
+  tags: []
+"Jl3,18":
+  text: "I stanie się w tym dniu, że góry będą opływać moszczem, pagórki spływać mlekiem i wszystkie kanały Judy napełnią się wodą, a z domu JHWH wypłynie źródło, które nawodni Dolinę Szittim."
+  tags: []
+"Jl3,19":
+  text: "Egipt będzie spustoszony, a ziemia Edom stanie się opustoszałym pustkowiem za przemoc wobec synów Judy, bo przelewali niewinną krew w ich ziemi."
+  tags: []
+"Jl3,20":
+  text: "A Juda będzie trwać na wieki, a Jerozolima – z pokolenia na pokolenie."
+  tags: []
+"Jl3,21":
+  text: "I uniewinnię ich od przelanej krwi, tych których nie uniewinniłem. Bo JHWH mieszka na Syjonie."
+  tags: []

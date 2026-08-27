@@ -1,38 +1,114 @@
-"Mt9,1": "Wtedy wsiadł do łodzi, przeprawił się na drugi brzeg i przybył do swego miasta."
-"Mt9,2": "A oto przynieśli mu sparaliżowanego, leżącego na posłaniu. Jezus, widząc ich wiarę, powiedział do sparaliżowanego: Ufaj, synu! Twoje grzechy są ci przebaczone."
-"Mt9,3": "A niektórzy z uczonych w Piśmie pomyśleli sobie: On bluźni."
-"Mt9,4": "Lecz Jezus, znając ich myśli, powiedział: Dlaczego myślicie złe rzeczy w swoich sercach?"
-"Mt9,5": "Cóż bowiem jest łatwiej powiedzieć: Przebaczone są twoje grzechy, czy powiedzieć: Wstań i chodź?"
-"Mt9,6": "Ale abyście wiedzieli, że Syn Człowieczy ma na ziemi moc przebaczać grzechy – wtedy powiedział do sparaliżowanego: Wstań, weź swoje posłanie i idź do domu."
-"Mt9,7": "A on wstał i poszedł do swego domu."
-"Mt9,8": "Kiedy tłumy to ujrzały, dziwiły się i chwaliły Boga, który dał ludziom taką moc."
-"Mt9,9": "A odchodząc stamtąd, Jezus zobaczył człowieka zwanego Mateuszem, siedzącego w punkcie celnym. I powiedział do niego: Pójdź za mną. A on wstał i poszedł za nim."
-"Mt9,10": "Gdy Jezus siedział za stołem w jego domu, przyszło wielu celników i grzeszników i usiedli z Jezusem oraz jego uczniami."
-"Mt9,11": "Widząc to, faryzeusze zapytali jego uczniów: Dlaczego wasz nauczyciel je z celnikami i grzesznikami?"
-"Mt9,12": "A gdy Jezus to usłyszał, powiedział im: Nie zdrowi, lecz chorzy potrzebują lekarza."
-"Mt9,13": "Idźcie więc i nauczcie się, co to znaczy: Miłosierdzia chcę, a nie ofiary. Bo nie przyszedłem wzywać do pokuty sprawiedliwych, ale grzeszników."
-"Mt9,14": "Wtedy przyszli do niego uczniowie Jana i zapytali: Dlaczego my i faryzeusze często pościmy, a twoi uczniowie nie poszczą?"
-"Mt9,15": "I powiedział im Jezus: Czy przyjaciele oblubieńca mogą się smucić, dopóki jest z nimi oblubieniec? Ale przyjdą dni, gdy oblubieniec zostanie od nich zabrany, i wtedy będą pościć."
-"Mt9,16": "Nikt nie przyszywa łaty z nowego sukna do starej szaty, bo taka łata ściąga nieco szatę i rozdarcie staje się gorsze."
-"Mt9,17": "Ani nie wlewa się młodego wina do starych bukłaków, bo inaczej bukłaki pękają, a wino wycieka i bukłaki się psują. Ale młode wino wlewa się do nowych bukłaków, a wtedy zachowuje się jedno i drugie."
-"Mt9,18": "Gdy to do nich mówił, pewien przełożony synagogi przyszedł, oddał mu pokłon i powiedział: Moja córka dopiero co umarła, ale przyjdź i połóż na nią rękę, a ożyje."
-"Mt9,19": "Wtedy Jezus wstał i wraz ze swoimi uczniami poszedł za nim."
-"Mt9,20": "I oto kobieta, która od dwunastu lat cierpiała na krwotok, podeszła z tyłu i dotknęła brzegu jego szaty."
-"Mt9,21": "Mówiła bowiem sobie: Jeśli tylko dotknę jego szaty, będę uzdrowiona."
-"Mt9,22": "Ale Jezus odwrócił się i ujrzawszy ją, powiedział: Ufaj, córko! Twoja wiara cię uzdrowiła. I od tej chwili kobieta była zdrowa."
-"Mt9,23": "A gdy Jezus przyszedł do domu przełożonego i zobaczył flecistów i ludzi czyniących zgiełk;"
-"Mt9,24": "Powiedział im: Odejdźcie, bo dziewczynka nie umarła, tylko śpi. I naśmiewali się z niego."
-"Mt9,25": "Ale gdy wygnano tych ludzi, wszedł, ujął ją za rękę i dziewczynka wstała."
-"Mt9,26": "I wieść o tym rozeszła się po całej tamtejszej ziemi."
-"Mt9,27": "A gdy Jezus odchodził stamtąd, szli za nim dwaj ślepi i wołali: Synu Dawida, zmiłuj się nad nami!"
-"Mt9,28": "Gdy zaś wszedł do domu, przyszli do niego ślepi. I zapytał ich Jezus: Wierzycie, że mogę to uczynić? Odpowiedzieli mu: Tak, Panie."
-"Mt9,29": "Wtedy dotknął ich oczu i powiedział: Według waszej wiary niech się wam stanie."
-"Mt9,30": "I otworzyły się ich oczy, a Jezus przykazał im surowo: Uważajcie, aby nikt się o tym nie dowiedział."
-"Mt9,31": "Lecz oni, wyszedłszy, rozsławili go po całej tamtejszej ziemi."
-"Mt9,32": "A gdy wychodzili, przyprowadzono do niego niemowę opętanego przez demona."
-"Mt9,33": "Kiedy demon został wypędzony, niemy przemówił. A tłumy dziwiły się i mówiły: Nigdy czegoś takiego nie widziano w Izraelu."
-"Mt9,34": "Lecz faryzeusze mówili: Przez władcę demonów wypędza demony."
-"Mt9,35": "I obchodził Jezus wszystkie miasta i wioski, nauczając w ich synagogach i głosząc ewangelię królestwa, uzdrawiając wszystkie choroby i wszelkie słabości wśród ludzi."
-"Mt9,36": "A widząc tłumy ludzi, użalił się nad nimi, bo byli utrudzeni i rozproszeni jak owce niemające pasterza."
-"Mt9,37": "Wtedy powiedział do swoich uczniów: Żniwo wprawdzie wielkie, ale robotników mało."
-"Mt9,38": "Proście więc Pana żniwa, aby wysłał robotników na swoje żniwo."
+"Mt9,1":
+  text: "Wtedy wsiadł do łodzi, przeprawił się na drugi brzeg i przybył do swego miasta."
+  tags: []
+"Mt9,2":
+  text: "A oto przynieśli mu sparaliżowanego, leżącego na posłaniu. Jezus, widząc ich wiarę, powiedział do sparaliżowanego: Ufaj, synu! Twoje grzechy są ci przebaczone."
+  tags: []
+"Mt9,3":
+  text: "A niektórzy z uczonych w Piśmie pomyśleli sobie: On bluźni."
+  tags: []
+"Mt9,4":
+  text: "Lecz Jezus, znając ich myśli, powiedział: Dlaczego myślicie złe rzeczy w swoich sercach?"
+  tags: []
+"Mt9,5":
+  text: "Cóż bowiem jest łatwiej powiedzieć: Przebaczone są twoje grzechy, czy powiedzieć: Wstań i chodź?"
+  tags: []
+"Mt9,6":
+  text: "Ale abyście wiedzieli, że Syn Człowieczy ma na ziemi moc przebaczać grzechy – wtedy powiedział do sparaliżowanego: Wstań, weź swoje posłanie i idź do domu."
+  tags: []
+"Mt9,7":
+  text: "A on wstał i poszedł do swego domu."
+  tags: []
+"Mt9,8":
+  text: "Kiedy tłumy to ujrzały, dziwiły się i chwaliły Boga, który dał ludziom taką moc."
+  tags: []
+"Mt9,9":
+  text: "A odchodząc stamtąd, Jezus zobaczył człowieka zwanego Mateuszem, siedzącego w punkcie celnym. I powiedział do niego: Pójdź za mną. A on wstał i poszedł za nim."
+  tags: []
+"Mt9,10":
+  text: "Gdy Jezus siedział za stołem w jego domu, przyszło wielu celników i grzeszników i usiedli z Jezusem oraz jego uczniami."
+  tags: []
+"Mt9,11":
+  text: "Widząc to, faryzeusze zapytali jego uczniów: Dlaczego wasz nauczyciel je z celnikami i grzesznikami?"
+  tags: []
+"Mt9,12":
+  text: "A gdy Jezus to usłyszał, powiedział im: Nie zdrowi, lecz chorzy potrzebują lekarza."
+  tags: []
+"Mt9,13":
+  text: "Idźcie więc i nauczcie się, co to znaczy: Miłosierdzia chcę, a nie ofiary. Bo nie przyszedłem wzywać do pokuty sprawiedliwych, ale grzeszników."
+  tags: []
+"Mt9,14":
+  text: "Wtedy przyszli do niego uczniowie Jana i zapytali: Dlaczego my i faryzeusze często pościmy, a twoi uczniowie nie poszczą?"
+  tags: []
+"Mt9,15":
+  text: "I powiedział im Jezus: Czy przyjaciele oblubieńca mogą się smucić, dopóki jest z nimi oblubieniec? Ale przyjdą dni, gdy oblubieniec zostanie od nich zabrany, i wtedy będą pościć."
+  tags: []
+"Mt9,16":
+  text: "Nikt nie przyszywa łaty z nowego sukna do starej szaty, bo taka łata ściąga nieco szatę i rozdarcie staje się gorsze."
+  tags: []
+"Mt9,17":
+  text: "Ani nie wlewa się młodego wina do starych bukłaków, bo inaczej bukłaki pękają, a wino wycieka i bukłaki się psują. Ale młode wino wlewa się do nowych bukłaków, a wtedy zachowuje się jedno i drugie."
+  tags: []
+"Mt9,18":
+  text: "Gdy to do nich mówił, pewien przełożony synagogi przyszedł, oddał mu pokłon i powiedział: Moja córka dopiero co umarła, ale przyjdź i połóż na nią rękę, a ożyje."
+  tags: []
+"Mt9,19":
+  text: "Wtedy Jezus wstał i wraz ze swoimi uczniami poszedł za nim."
+  tags: []
+"Mt9,20":
+  text: "I oto kobieta, która od dwunastu lat cierpiała na krwotok, podeszła z tyłu i dotknęła brzegu jego szaty."
+  tags: []
+"Mt9,21":
+  text: "Mówiła bowiem sobie: Jeśli tylko dotknę jego szaty, będę uzdrowiona."
+  tags: []
+"Mt9,22":
+  text: "Ale Jezus odwrócił się i ujrzawszy ją, powiedział: Ufaj, córko! Twoja wiara cię uzdrowiła. I od tej chwili kobieta była zdrowa."
+  tags: []
+"Mt9,23":
+  text: "A gdy Jezus przyszedł do domu przełożonego i zobaczył flecistów i ludzi czyniących zgiełk;"
+  tags: []
+"Mt9,24":
+  text: "Powiedział im: Odejdźcie, bo dziewczynka nie umarła, tylko śpi. I naśmiewali się z niego."
+  tags: []
+"Mt9,25":
+  text: "Ale gdy wygnano tych ludzi, wszedł, ujął ją za rękę i dziewczynka wstała."
+  tags: []
+"Mt9,26":
+  text: "I wieść o tym rozeszła się po całej tamtejszej ziemi."
+  tags: []
+"Mt9,27":
+  text: "A gdy Jezus odchodził stamtąd, szli za nim dwaj ślepi i wołali: Synu Dawida, zmiłuj się nad nami!"
+  tags: []
+"Mt9,28":
+  text: "Gdy zaś wszedł do domu, przyszli do niego ślepi. I zapytał ich Jezus: Wierzycie, że mogę to uczynić? Odpowiedzieli mu: Tak, Panie."
+  tags: []
+"Mt9,29":
+  text: "Wtedy dotknął ich oczu i powiedział: Według waszej wiary niech się wam stanie."
+  tags: []
+"Mt9,30":
+  text: "I otworzyły się ich oczy, a Jezus przykazał im surowo: Uważajcie, aby nikt się o tym nie dowiedział."
+  tags: []
+"Mt9,31":
+  text: "Lecz oni, wyszedłszy, rozsławili go po całej tamtejszej ziemi."
+  tags: []
+"Mt9,32":
+  text: "A gdy wychodzili, przyprowadzono do niego niemowę opętanego przez demona."
+  tags: []
+"Mt9,33":
+  text: "Kiedy demon został wypędzony, niemy przemówił. A tłumy dziwiły się i mówiły: Nigdy czegoś takiego nie widziano w Izraelu."
+  tags: []
+"Mt9,34":
+  text: "Lecz faryzeusze mówili: Przez władcę demonów wypędza demony."
+  tags: []
+"Mt9,35":
+  text: "I obchodził Jezus wszystkie miasta i wioski, nauczając w ich synagogach i głosząc ewangelię królestwa, uzdrawiając wszystkie choroby i wszelkie słabości wśród ludzi."
+  tags: []
+"Mt9,36":
+  text: "A widząc tłumy ludzi, użalił się nad nimi, bo byli utrudzeni i rozproszeni jak owce niemające pasterza."
+  tags: []
+"Mt9,37":
+  text: "Wtedy powiedział do swoich uczniów: Żniwo wprawdzie wielkie, ale robotników mało."
+  tags: []
+"Mt9,38":
+  text: "Proście więc Pana żniwa, aby wysłał robotników na swoje żniwo."
+  tags: []

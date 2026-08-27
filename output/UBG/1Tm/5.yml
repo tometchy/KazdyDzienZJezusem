@@ -1,25 +1,75 @@
-"1Tm5,1": "Starszego człowieka nie strofuj, lecz nakłaniaj jak ojca, młodszych – jak braci;"
-"1Tm5,2": "Starsze kobiety – jak matki, młodsze – jak siostry, z całą czystością."
-"1Tm5,3": "Okazuj szacunek wdowom, które rzeczywiście są wdowami."
-"1Tm5,4": "Jeśli zaś jakaś wdowa ma dzieci lub wnuki, niech się one najpierw uczą być pobożnymi względem własnego domu i odwzajemniać się rodzicom; jest to bowiem rzecz dobra i miła w oczach Boga."
-"1Tm5,5": "Ta zaś, która rzeczywiście jest wdową i jest osamotniona, pokłada nadzieję w Bogu i trwa w prośbach i modlitwach we dnie i w nocy."
-"1Tm5,6": "Lecz ta, która oddaje się rozkoszom, jest martwa, chociaż żyje."
-"1Tm5,7": "To więc nakazuj, żeby były nienaganne."
-"1Tm5,8": "A jeśli ktoś nie dba o swoich, a zwłaszcza o domowników, ten wyparł się wiary i gorszy jest od niewierzącego."
-"1Tm5,9": "Do wdów niech będzie zaliczona taka, która nie ma mniej niż sześćdziesiąt lat, była żoną jednego męża;"
-"1Tm5,10": "Znana z dobrych uczynków, jeśli wychowała dzieci, jeśli udzielała gościny, jeśli obmywała nogi świętym, jeśli wspomagała strapionych, jeśli wykonywała każdy dobry uczynek."
-"1Tm5,11": "Natomiast młodszych wdów do nich nie zaliczaj, bo gdy rozkosze odwodzą je od Chrystusa, chcą wyjść za mąż;"
-"1Tm5,12": "Ściągając na siebie potępienie, ponieważ odrzuciły pierwszą wiarę."
-"1Tm5,13": "Co więcej, uczą się bezczynności, chodząc od domu do domu, i nie tylko są bezczynne, lecz też gadatliwe, wścibskie, mówiące to, co nie wypada."
-"1Tm5,14": "Chcę więc, żeby młodsze wychodziły za mąż, rodziły dzieci, zajmowały się domem, nie dawały przeciwnikowi żadnego powodu do obmowy."
-"1Tm5,15": "Już bowiem niektóre odwróciły się i poszły za szatanem."
-"1Tm5,16": "A jeśli jakiś wierzący lub wierząca ma w rodzinie wdowy, niech im pomaga, aby kościół nie był obciążony i mógł przyjść z pomocą tym, które rzeczywiście są wdowami."
-"1Tm5,17": "Starsi, którzy dobrze przewodzą, niech będą uważani za godnych podwójnej czci, a zwłaszcza ci, którzy pracują w słowie i w nauce."
-"1Tm5,18": "Mówi bowiem Pismo: Młócącemu wołowi nie zawiążesz pyska, oraz: Godny jest robotnik swojej zapłaty."
-"1Tm5,19": "Nie przyjmuj oskarżenia przeciwko starszemu, chyba że na podstawie zeznania dwóch albo trzech świadków."
-"1Tm5,20": "A tych, którzy grzeszą, strofuj w obecności wszystkich, aby i inni się bali."
-"1Tm5,21": "Zaklinam cię wobec Boga i Pana Jezusa Chrystusa, i wybranych aniołów, abyś tego przestrzegał, nie mając względu na osoby, nie kierując się stronniczością."
-"1Tm5,22": "Rąk na nikogo pospiesznie nie wkładaj ani nie bądź uczestnikiem cudzych grzechów. Siebie samego zachowaj czystym."
-"1Tm5,23": "Samej wody już nie pij, ale używaj trochę wina ze względu na twój żołądek i częste niedomagania."
-"1Tm5,24": "Grzechy niektórych ludzi są jawne, jeszcze zanim zostaną osądzone, a za niektórymi idą w ślad."
-"1Tm5,25": "Podobnie dobre uczynki są jawne, a te, które nie są, pozostać w ukryciu nie mogą."
+"1Tm5,1":
+  text: "Starszego człowieka nie strofuj, lecz nakłaniaj jak ojca, młodszych – jak braci;"
+  tags: []
+"1Tm5,2":
+  text: "Starsze kobiety – jak matki, młodsze – jak siostry, z całą czystością."
+  tags: []
+"1Tm5,3":
+  text: "Okazuj szacunek wdowom, które rzeczywiście są wdowami."
+  tags: []
+"1Tm5,4":
+  text: "Jeśli zaś jakaś wdowa ma dzieci lub wnuki, niech się one najpierw uczą być pobożnymi względem własnego domu i odwzajemniać się rodzicom; jest to bowiem rzecz dobra i miła w oczach Boga."
+  tags: []
+"1Tm5,5":
+  text: "Ta zaś, która rzeczywiście jest wdową i jest osamotniona, pokłada nadzieję w Bogu i trwa w prośbach i modlitwach we dnie i w nocy."
+  tags: []
+"1Tm5,6":
+  text: "Lecz ta, która oddaje się rozkoszom, jest martwa, chociaż żyje."
+  tags: []
+"1Tm5,7":
+  text: "To więc nakazuj, żeby były nienaganne."
+  tags: []
+"1Tm5,8":
+  text: "A jeśli ktoś nie dba o swoich, a zwłaszcza o domowników, ten wyparł się wiary i gorszy jest od niewierzącego."
+  tags: []
+"1Tm5,9":
+  text: "Do wdów niech będzie zaliczona taka, która nie ma mniej niż sześćdziesiąt lat, była żoną jednego męża;"
+  tags: []
+"1Tm5,10":
+  text: "Znana z dobrych uczynków, jeśli wychowała dzieci, jeśli udzielała gościny, jeśli obmywała nogi świętym, jeśli wspomagała strapionych, jeśli wykonywała każdy dobry uczynek."
+  tags: []
+"1Tm5,11":
+  text: "Natomiast młodszych wdów do nich nie zaliczaj, bo gdy rozkosze odwodzą je od Chrystusa, chcą wyjść za mąż;"
+  tags: []
+"1Tm5,12":
+  text: "Ściągając na siebie potępienie, ponieważ odrzuciły pierwszą wiarę."
+  tags: []
+"1Tm5,13":
+  text: "Co więcej, uczą się bezczynności, chodząc od domu do domu, i nie tylko są bezczynne, lecz też gadatliwe, wścibskie, mówiące to, co nie wypada."
+  tags: []
+"1Tm5,14":
+  text: "Chcę więc, żeby młodsze wychodziły za mąż, rodziły dzieci, zajmowały się domem, nie dawały przeciwnikowi żadnego powodu do obmowy."
+  tags: []
+"1Tm5,15":
+  text: "Już bowiem niektóre odwróciły się i poszły za szatanem."
+  tags: []
+"1Tm5,16":
+  text: "A jeśli jakiś wierzący lub wierząca ma w rodzinie wdowy, niech im pomaga, aby kościół nie był obciążony i mógł przyjść z pomocą tym, które rzeczywiście są wdowami."
+  tags: []
+"1Tm5,17":
+  text: "Starsi, którzy dobrze przewodzą, niech będą uważani za godnych podwójnej czci, a zwłaszcza ci, którzy pracują w słowie i w nauce."
+  tags: []
+"1Tm5,18":
+  text: "Mówi bowiem Pismo: Młócącemu wołowi nie zawiążesz pyska, oraz: Godny jest robotnik swojej zapłaty."
+  tags: []
+"1Tm5,19":
+  text: "Nie przyjmuj oskarżenia przeciwko starszemu, chyba że na podstawie zeznania dwóch albo trzech świadków."
+  tags: []
+"1Tm5,20":
+  text: "A tych, którzy grzeszą, strofuj w obecności wszystkich, aby i inni się bali."
+  tags: []
+"1Tm5,21":
+  text: "Zaklinam cię wobec Boga i Pana Jezusa Chrystusa, i wybranych aniołów, abyś tego przestrzegał, nie mając względu na osoby, nie kierując się stronniczością."
+  tags: []
+"1Tm5,22":
+  text: "Rąk na nikogo pospiesznie nie wkładaj ani nie bądź uczestnikiem cudzych grzechów. Siebie samego zachowaj czystym."
+  tags: []
+"1Tm5,23":
+  text: "Samej wody już nie pij, ale używaj trochę wina ze względu na twój żołądek i częste niedomagania."
+  tags: []
+"1Tm5,24":
+  text: "Grzechy niektórych ludzi są jawne, jeszcze zanim zostaną osądzone, a za niektórymi idą w ślad."
+  tags: []
+"1Tm5,25":
+  text: "Podobnie dobre uczynki są jawne, a te, które nie są, pozostać w ukryciu nie mogą."
+  tags: []

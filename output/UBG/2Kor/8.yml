@@ -1,24 +1,72 @@
-"2Kor8,1": "A oznajmiamy wam, bracia, o łasce Bożej, która jest dana kościołom Macedonii;"
-"2Kor8,2": "Iż w ciężkiej próbie ucisku ich obfita radość i skrajne ubóstwo obfitowały bogactwem ich ofiarności."
-"2Kor8,3": "Zaświadczam bowiem, że według możliwości, a nawet ponad możliwość okazali gotowość;"
-"2Kor8,4": "Z wielkim naleganiem prosząc nas, abyśmy przyjęli ten dar i ich udział w służbie na rzecz świętych."
-"2Kor8,5": "A postąpili nie tylko tak, jak się spodziewaliśmy, ale samych siebie najpierw oddali Panu, a potem nam za wolą Boga."
-"2Kor8,6": "Tak, że poprosiliśmy Tytusa, aby tak jak wcześniej zaczął, tak też dokończył u was tego dzieła łaski."
-"2Kor8,7": "Jak więc obfitujecie we wszystko, w wiarę, w mowę, w poznanie, we wszelką pilność i w miłość waszą do nas, tak i w tym dziele łaski obfitujcie."
-"2Kor8,8": "Nie mówię tego jako rozkaz, lecz abym przez zapał innych wypróbował szczerość waszej miłości."
-"2Kor8,9": "Znacie bowiem łaskę naszego Pana Jezusa Chrystusa, że będąc bogatym, dla was stał się ubogim, abyście wy zostali ubogaceni jego ubóstwem."
-"2Kor8,10": "A w tej sprawie daję wam swoją radę, gdyż jest to pożyteczne dla was, którzy nie tylko zaczęliście to robić, ale już ubiegłego roku wykazaliście chęć."
-"2Kor8,11": "Teraz więc to, co zaczęliście robić, dokończcie, aby tak, jak była gotowość w chęciach, tak też aby było wykonanie z tego, co macie."
-"2Kor8,12": "Jeśli bowiem najpierw jest gotowość, jest przyjmowana według tego, co kto ma, a nie według tego, czego nie ma."
-"2Kor8,13": "Nie chodzi bowiem o to, żeby innym ulżyć, a was obciążyć;"
-"2Kor8,14": "Lecz o równość, aby teraz wasza obfitość usłużyła ich niedostatkowi, aby też ich obfitość waszemu niedostatkowi usłużyła, tak żeby była równość;"
-"2Kor8,15": "Jak jest napisane: Kto wiele nazbierał, nie miał za wiele, a kto mało nazbierał, nie miał za mało."
-"2Kor8,16": "Lecz Bogu niech będą dzięki, który wszczepił taką troskę o was w serce Tytusa;"
-"2Kor8,17": "Że przyjął tę zachętę, a będąc bardziej gorliwym, dobrowolnie wybrał się do was."
-"2Kor8,18": "Posłaliśmy razem z nim brata, którego sława w ewangelii rozchodzi się po wszystkich kościołach."
-"2Kor8,19": "A nie tylko to, ale też został wybrany przez kościoły na towarzysza naszej podróży w tym dziele łaski, którym służymy ku chwale samego Pana i ku okazaniu waszej gotowości;"
-"2Kor8,20": "Wystrzegając się tego, aby nas ktoś nie ganił z powodu tego hojnego daru, którym służymy;"
-"2Kor8,21": "Starając się o to, co uczciwe, nie tylko przed Panem, ale też przed ludźmi."
-"2Kor8,22": "A posłaliśmy z nimi naszego brata, którego pilność wielokrotnie wypróbowaliśmy w wielu sprawach, a który teraz jest o wiele bardziej pilny, ponieważ ma do was wielkie zaufanie."
-"2Kor8,23": "A jeśli chodzi o Tytusa, jest on moim towarzyszem i współpracownikiem wśród was, jeśli zaś chodzi o naszych braci, są wysłannikami kościołów i chwałą Chrystusa."
-"2Kor8,24": "Okażcie im więc przed kościołami dowód waszej miłości i naszej chluby z was."
+"2Kor8,1":
+  text: "A oznajmiamy wam, bracia, o łasce Bożej, która jest dana kościołom Macedonii;"
+  tags: []
+"2Kor8,2":
+  text: "Iż w ciężkiej próbie ucisku ich obfita radość i skrajne ubóstwo obfitowały bogactwem ich ofiarności."
+  tags: []
+"2Kor8,3":
+  text: "Zaświadczam bowiem, że według możliwości, a nawet ponad możliwość okazali gotowość;"
+  tags: []
+"2Kor8,4":
+  text: "Z wielkim naleganiem prosząc nas, abyśmy przyjęli ten dar i ich udział w służbie na rzecz świętych."
+  tags: []
+"2Kor8,5":
+  text: "A postąpili nie tylko tak, jak się spodziewaliśmy, ale samych siebie najpierw oddali Panu, a potem nam za wolą Boga."
+  tags: []
+"2Kor8,6":
+  text: "Tak, że poprosiliśmy Tytusa, aby tak jak wcześniej zaczął, tak też dokończył u was tego dzieła łaski."
+  tags: []
+"2Kor8,7":
+  text: "Jak więc obfitujecie we wszystko, w wiarę, w mowę, w poznanie, we wszelką pilność i w miłość waszą do nas, tak i w tym dziele łaski obfitujcie."
+  tags: []
+"2Kor8,8":
+  text: "Nie mówię tego jako rozkaz, lecz abym przez zapał innych wypróbował szczerość waszej miłości."
+  tags: []
+"2Kor8,9":
+  text: "Znacie bowiem łaskę naszego Pana Jezusa Chrystusa, że będąc bogatym, dla was stał się ubogim, abyście wy zostali ubogaceni jego ubóstwem."
+  tags: []
+"2Kor8,10":
+  text: "A w tej sprawie daję wam swoją radę, gdyż jest to pożyteczne dla was, którzy nie tylko zaczęliście to robić, ale już ubiegłego roku wykazaliście chęć."
+  tags: []
+"2Kor8,11":
+  text: "Teraz więc to, co zaczęliście robić, dokończcie, aby tak, jak była gotowość w chęciach, tak też aby było wykonanie z tego, co macie."
+  tags: []
+"2Kor8,12":
+  text: "Jeśli bowiem najpierw jest gotowość, jest przyjmowana według tego, co kto ma, a nie według tego, czego nie ma."
+  tags: []
+"2Kor8,13":
+  text: "Nie chodzi bowiem o to, żeby innym ulżyć, a was obciążyć;"
+  tags: []
+"2Kor8,14":
+  text: "Lecz o równość, aby teraz wasza obfitość usłużyła ich niedostatkowi, aby też ich obfitość waszemu niedostatkowi usłużyła, tak żeby była równość;"
+  tags: []
+"2Kor8,15":
+  text: "Jak jest napisane: Kto wiele nazbierał, nie miał za wiele, a kto mało nazbierał, nie miał za mało."
+  tags: []
+"2Kor8,16":
+  text: "Lecz Bogu niech będą dzięki, który wszczepił taką troskę o was w serce Tytusa;"
+  tags: []
+"2Kor8,17":
+  text: "Że przyjął tę zachętę, a będąc bardziej gorliwym, dobrowolnie wybrał się do was."
+  tags: []
+"2Kor8,18":
+  text: "Posłaliśmy razem z nim brata, którego sława w ewangelii rozchodzi się po wszystkich kościołach."
+  tags: []
+"2Kor8,19":
+  text: "A nie tylko to, ale też został wybrany przez kościoły na towarzysza naszej podróży w tym dziele łaski, którym służymy ku chwale samego Pana i ku okazaniu waszej gotowości;"
+  tags: []
+"2Kor8,20":
+  text: "Wystrzegając się tego, aby nas ktoś nie ganił z powodu tego hojnego daru, którym służymy;"
+  tags: []
+"2Kor8,21":
+  text: "Starając się o to, co uczciwe, nie tylko przed Panem, ale też przed ludźmi."
+  tags: []
+"2Kor8,22":
+  text: "A posłaliśmy z nimi naszego brata, którego pilność wielokrotnie wypróbowaliśmy w wielu sprawach, a który teraz jest o wiele bardziej pilny, ponieważ ma do was wielkie zaufanie."
+  tags: []
+"2Kor8,23":
+  text: "A jeśli chodzi o Tytusa, jest on moim towarzyszem i współpracownikiem wśród was, jeśli zaś chodzi o naszych braci, są wysłannikami kościołów i chwałą Chrystusa."
+  tags: []
+"2Kor8,24":
+  text: "Okażcie im więc przed kościołami dowód waszej miłości i naszej chluby z was."
+  tags: []

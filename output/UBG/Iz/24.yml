@@ -1,23 +1,69 @@
-"Iz24,1": "Oto PAN opróżni ziemię i spustoszy ją, odmieni jej oblicze i rozproszy jej mieszkańców."
-"Iz24,2": "I będzie z ludem jak z kapłanem, ze sługą jak z jego panem, ze służącą jak z jej panią, z kupującym jak ze sprzedającym, z udzielającym pożyczki jak z biorącym ją, z lichwiarzem jak z płacącym lichwę."
-"Iz24,3": "Ziemia zostanie całkowicie opróżniona i doszczętnie ograbiona, bo PAN wypowiedział to słowo."
-"Iz24,4": "Ziemia płacze i więdnie, świat marnieje i niszczeje, marnieją wyniosłe ludy ziemi."
-"Iz24,5": "Ziemia jest splugawiona pod swoimi mieszkańcami; przekroczyli bowiem prawa, zmienili ustawy, złamali wieczne przymierze."
-"Iz24,6": "Dlatego przekleństwo pożre ziemię, a jej mieszkańcy zniszczeją. Dlatego mieszkańcy ziemi są przypaleni, a zostało mało ludzi."
-"Iz24,7": "Młode wino smuci się, winorośl marnieje, wzdychają wszyscy ludzie wesołego serca."
-"Iz24,8": "Ustała wesołość bębnów, skończył się krzyk weselących się, ucichł radosny dźwięk harfy."
-"Iz24,9": "Nie będą pić wina wśród pieśni; zgorzknieje mocny napój tym, którzy go piją."
-"Iz24,10": "Zburzone jest miasto bezładu. Zamknięty jest każdy dom, tak że wejść nie można."
-"Iz24,11": "Na ulicach wołanie o wino; zgasła wszelka radość, a wesołość ziemi odeszła."
-"Iz24,12": "W mieście pozostało spustoszenie, a bramy zburzone."
-"Iz24,13": "Tak bowiem będzie pośród ziemi, pośród ludu, jak przy otrząsaniu drzewa oliwnego, jak ostatki winogron po winobraniu."
-"Iz24,14": "Tamci podniosą swój głos, będą śpiewać dla majestatu PANA, wykrzykną od strony morza."
-"Iz24,15": "Dlatego wysławiajcie PANA w dolinach, na wyspach morskich – imię PANA, Boga Izraela."
-"Iz24,16": "Od krańców ziemi słyszeliśmy pieśni o chwale sprawiedliwego. Ale ja powiedziałem: Jestem wynędzniały, jestem wynędzniały, biada mi! Zdrajcy zdradzili, tak, bardzo zdradzili zdrajcy."
-"Iz24,17": "Strach, dół i sidła na ciebie, mieszkańcu ziemi!"
-"Iz24,18": "I stanie się, że kto ucieknie przed głosem strachu, wpadnie w dół, a kto wyjdzie z dołu, będzie złapany w sidła. Otworzą się bowiem upusty w górze i zadrżą fundamenty ziemi."
-"Iz24,19": "Ziemia rozpadła się całkowicie, ziemia rozpłynęła się doszczętnie; jest wielce wstrząśnięta."
-"Iz24,20": "Ziemia będzie się słaniać jak pijany, będzie chwiać się jak lepianka. Zaciąży na niej jej nieprawość i upadnie, a już nie powstanie."
-"Iz24,21": "W tym dniu PAN nawiedzi zastęp wysokich na wysokości, także i królów ziemskich na ziemi."
-"Iz24,22": "I będą zgromadzeni jak więźniowie zebrani w ciemnicy, i będą zamknięci w więzieniu, a po wielu dniach zostaną nawiedzeni."
-"Iz24,23": "Wtedy księżyc zarumieni się i słońce się zawstydzi, gdy PAN zastępów będzie królować na górze Syjon, w Jerozolimie, i wobec swoich starszych w swej wielkiej chwale."
+"Iz24,1":
+  text: "Oto PAN opróżni ziemię i spustoszy ją, odmieni jej oblicze i rozproszy jej mieszkańców."
+  tags: []
+"Iz24,2":
+  text: "I będzie z ludem jak z kapłanem, ze sługą jak z jego panem, ze służącą jak z jej panią, z kupującym jak ze sprzedającym, z udzielającym pożyczki jak z biorącym ją, z lichwiarzem jak z płacącym lichwę."
+  tags: []
+"Iz24,3":
+  text: "Ziemia zostanie całkowicie opróżniona i doszczętnie ograbiona, bo PAN wypowiedział to słowo."
+  tags: []
+"Iz24,4":
+  text: "Ziemia płacze i więdnie, świat marnieje i niszczeje, marnieją wyniosłe ludy ziemi."
+  tags: []
+"Iz24,5":
+  text: "Ziemia jest splugawiona pod swoimi mieszkańcami; przekroczyli bowiem prawa, zmienili ustawy, złamali wieczne przymierze."
+  tags: []
+"Iz24,6":
+  text: "Dlatego przekleństwo pożre ziemię, a jej mieszkańcy zniszczeją. Dlatego mieszkańcy ziemi są przypaleni, a zostało mało ludzi."
+  tags: []
+"Iz24,7":
+  text: "Młode wino smuci się, winorośl marnieje, wzdychają wszyscy ludzie wesołego serca."
+  tags: []
+"Iz24,8":
+  text: "Ustała wesołość bębnów, skończył się krzyk weselących się, ucichł radosny dźwięk harfy."
+  tags: []
+"Iz24,9":
+  text: "Nie będą pić wina wśród pieśni; zgorzknieje mocny napój tym, którzy go piją."
+  tags: []
+"Iz24,10":
+  text: "Zburzone jest miasto bezładu. Zamknięty jest każdy dom, tak że wejść nie można."
+  tags: []
+"Iz24,11":
+  text: "Na ulicach wołanie o wino; zgasła wszelka radość, a wesołość ziemi odeszła."
+  tags: []
+"Iz24,12":
+  text: "W mieście pozostało spustoszenie, a bramy zburzone."
+  tags: []
+"Iz24,13":
+  text: "Tak bowiem będzie pośród ziemi, pośród ludu, jak przy otrząsaniu drzewa oliwnego, jak ostatki winogron po winobraniu."
+  tags: []
+"Iz24,14":
+  text: "Tamci podniosą swój głos, będą śpiewać dla majestatu PANA, wykrzykną od strony morza."
+  tags: []
+"Iz24,15":
+  text: "Dlatego wysławiajcie PANA w dolinach, na wyspach morskich – imię PANA, Boga Izraela."
+  tags: []
+"Iz24,16":
+  text: "Od krańców ziemi słyszeliśmy pieśni o chwale sprawiedliwego. Ale ja powiedziałem: Jestem wynędzniały, jestem wynędzniały, biada mi! Zdrajcy zdradzili, tak, bardzo zdradzili zdrajcy."
+  tags: []
+"Iz24,17":
+  text: "Strach, dół i sidła na ciebie, mieszkańcu ziemi!"
+  tags: []
+"Iz24,18":
+  text: "I stanie się, że kto ucieknie przed głosem strachu, wpadnie w dół, a kto wyjdzie z dołu, będzie złapany w sidła. Otworzą się bowiem upusty w górze i zadrżą fundamenty ziemi."
+  tags: []
+"Iz24,19":
+  text: "Ziemia rozpadła się całkowicie, ziemia rozpłynęła się doszczętnie; jest wielce wstrząśnięta."
+  tags: []
+"Iz24,20":
+  text: "Ziemia będzie się słaniać jak pijany, będzie chwiać się jak lepianka. Zaciąży na niej jej nieprawość i upadnie, a już nie powstanie."
+  tags: []
+"Iz24,21":
+  text: "W tym dniu PAN nawiedzi zastęp wysokich na wysokości, także i królów ziemskich na ziemi."
+  tags: []
+"Iz24,22":
+  text: "I będą zgromadzeni jak więźniowie zebrani w ciemnicy, i będą zamknięci w więzieniu, a po wielu dniach zostaną nawiedzeni."
+  tags: []
+"Iz24,23":
+  text: "Wtedy księżyc zarumieni się i słońce się zawstydzi, gdy PAN zastępów będzie królować na górze Syjon, w Jerozolimie, i wobec swoich starszych w swej wielkiej chwale."
+  tags: []

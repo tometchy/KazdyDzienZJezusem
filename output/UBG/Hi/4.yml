@@ -1,21 +1,63 @@
-"Hi4,1": "Wtedy Elifaz z Temanu odpowiedział:"
-"Hi4,2": "Jeśli będziemy rozmawiać z tobą, nie będzie ci przykro? Ale któż może się od mówienia powstrzymać?"
-"Hi4,3": "Oto nauczałeś wielu i ręce słabe umocniłeś."
-"Hi4,4": "Twoje słowa podnosiły upadającego, a omdlałe kolana wzmacniałeś."
-"Hi4,5": "A teraz, gdy to przyszło na ciebie, opadasz z sił, dotknęło cię i się trwożysz."
-"Hi4,6": "Czy twoja bojaźń nie była twoją ufnością, a prawość twoich dróg – twoją nadzieją?"
-"Hi4,7": "Przypomnij sobie, proszę, czy kiedykolwiek zginął ktoś niewinny? Albo gdzie sprawiedliwych wytępiono?"
-"Hi4,8": "Według tego, co zauważyłem, ci, którzy orzą zło i sieją niegodziwość, zbierają je."
-"Hi4,9": "Od tchnienia Boga giną i od powiewu jego gniewu niszczeją."
-"Hi4,10": "Ryk lwa, głos dzikiego lwa i zęby lwiątek są złamane."
-"Hi4,11": "Lew ginie z braku łupu i młode lwicy rozpraszają się."
-"Hi4,12": "Oto potajemnie doszło do mnie słowo i moje ucho usłyszało szept."
-"Hi4,13": "W rozmyślaniu o nocnych widzeniach, gdy twardy sen spada na ludzi;"
-"Hi4,14": "Ogarnęły mnie strach i drżenie, od których wszystkie moje kości zadrżały."
-"Hi4,15": "Wtedy duch przeszedł przed moją twarzą, zjeżyły się włosy na moim ciele."
-"Hi4,16": "Stanął, lecz nie rozpoznałem jego wyglądu, tylko jakiś kształt był przed moimi oczami; nastała cisza, a potem usłyszałem głos mówiący:"
-"Hi4,17": "Czy śmiertelny człowiek może być sprawiedliwszy niż Bóg? Czy człowiek może być czystszy niż jego Stwórca?"
-"Hi4,18": "Oto swoim sługom nie ufa i w swoich aniołach dostrzega braki;"
-"Hi4,19": "O ileż bardziej w tych, którzy mieszkają w domach glinianych, których podstawa jest w prochu – łatwiej ich zgnieść niż mola."
-"Hi4,20": "Od poranka aż do wieczora są gładzeni; giną na wieki, a nikt tego nie zauważa."
-"Hi4,21": "Czy ich wspaniałość nie przemija wraz z nimi? Umierają, ale nie w mądrości."
+"Hi4,1":
+  text: "Wtedy Elifaz z Temanu odpowiedział:"
+  tags: []
+"Hi4,2":
+  text: "Jeśli będziemy rozmawiać z tobą, nie będzie ci przykro? Ale któż może się od mówienia powstrzymać?"
+  tags: []
+"Hi4,3":
+  text: "Oto nauczałeś wielu i ręce słabe umocniłeś."
+  tags: []
+"Hi4,4":
+  text: "Twoje słowa podnosiły upadającego, a omdlałe kolana wzmacniałeś."
+  tags: []
+"Hi4,5":
+  text: "A teraz, gdy to przyszło na ciebie, opadasz z sił, dotknęło cię i się trwożysz."
+  tags: []
+"Hi4,6":
+  text: "Czy twoja bojaźń nie była twoją ufnością, a prawość twoich dróg – twoją nadzieją?"
+  tags: []
+"Hi4,7":
+  text: "Przypomnij sobie, proszę, czy kiedykolwiek zginął ktoś niewinny? Albo gdzie sprawiedliwych wytępiono?"
+  tags: []
+"Hi4,8":
+  text: "Według tego, co zauważyłem, ci, którzy orzą zło i sieją niegodziwość, zbierają je."
+  tags: []
+"Hi4,9":
+  text: "Od tchnienia Boga giną i od powiewu jego gniewu niszczeją."
+  tags: []
+"Hi4,10":
+  text: "Ryk lwa, głos dzikiego lwa i zęby lwiątek są złamane."
+  tags: []
+"Hi4,11":
+  text: "Lew ginie z braku łupu i młode lwicy rozpraszają się."
+  tags: []
+"Hi4,12":
+  text: "Oto potajemnie doszło do mnie słowo i moje ucho usłyszało szept."
+  tags: []
+"Hi4,13":
+  text: "W rozmyślaniu o nocnych widzeniach, gdy twardy sen spada na ludzi;"
+  tags: []
+"Hi4,14":
+  text: "Ogarnęły mnie strach i drżenie, od których wszystkie moje kości zadrżały."
+  tags: []
+"Hi4,15":
+  text: "Wtedy duch przeszedł przed moją twarzą, zjeżyły się włosy na moim ciele."
+  tags: []
+"Hi4,16":
+  text: "Stanął, lecz nie rozpoznałem jego wyglądu, tylko jakiś kształt był przed moimi oczami; nastała cisza, a potem usłyszałem głos mówiący:"
+  tags: []
+"Hi4,17":
+  text: "Czy śmiertelny człowiek może być sprawiedliwszy niż Bóg? Czy człowiek może być czystszy niż jego Stwórca?"
+  tags: []
+"Hi4,18":
+  text: "Oto swoim sługom nie ufa i w swoich aniołach dostrzega braki;"
+  tags: []
+"Hi4,19":
+  text: "O ileż bardziej w tych, którzy mieszkają w domach glinianych, których podstawa jest w prochu – łatwiej ich zgnieść niż mola."
+  tags: []
+"Hi4,20":
+  text: "Od poranka aż do wieczora są gładzeni; giną na wieki, a nikt tego nie zauważa."
+  tags: []
+"Hi4,21":
+  text: "Czy ich wspaniałość nie przemija wraz z nimi? Umierają, ale nie w mądrości."
+  tags: []

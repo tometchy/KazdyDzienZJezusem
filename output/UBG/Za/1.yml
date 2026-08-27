@@ -1,21 +1,63 @@
-"Za1,1": "W ósmym miesiącu drugiego roku Dariusza słowo PANA doszło do Zachariasza, syna Berechiasza, syna Iddo proroka, mówiące:"
-"Za1,2": "PAN bardzo się rozgniewał na waszych ojców."
-"Za1,3": "Dlatego powiedz im: Tak mówi PAN zastępów: Powróćcie do mnie, mówi PAN zastępów, a ja powrócę do was, mówi PAN zastępów."
-"Za1,4": "Nie bądźcie jak wasi ojcowie, do których wołali dawni prorocy, mówiąc: Tak mówi PAN zastępów: Odwróćcie się teraz od waszych złych dróg i od waszych złych uczynków. Ale oni nie usłuchali ani nie zważali na mnie, mówi PAN."
-"Za1,5": "Gdzie są wasi ojcowie? A prorocy, czy żyją wiecznie?"
-"Za1,6": "Czyż jednak moje słowa i ustawy, które rozkazałem moim sługom, prorokom, nie dotarły do waszych ojców? Powrócili i powiedzieli: Jak PAN zastępów zamierzył uczynić nam według naszych dróg i naszych uczynków, tak nam uczynił."
-"Za1,7": "Dnia dwudziestego czwartego, jedenastego miesiąca, czyli w miesiącu Szebat, w drugim roku Dariusza, słowo PANA doszło do Zachariasza, syna Berechiasza, syna proroka Iddo, mówiące:"
-"Za1,8": "Widziałem w nocy, a oto mąż jechał na rudym koniu, który stał wśród mirtów, które były na nizinie, a za nim konie rude, pstrokate i białe."
-"Za1,9": "Wtedy zapytałem: Kim oni są, mój panie? I Anioł, który rozmawiał ze mną, odpowiedział mi: Ja ci pokażę, kim oni są."
-"Za1,10": "I mąż, który stał wśród mirtów, odpowiedział: To są ci, których PAN posłał, aby obeszli ziemię."
-"Za1,11": "I odpowiedzieli Aniołowi PANA stojącemu wśród mirtów: Obeszliśmy ziemię, a oto cała ziemia żyje bezpiecznie i zażywa pokoju."
-"Za1,12": "Wtedy Anioł PANA odpowiedział: PANIE zastępów, jak długo jeszcze nie będziesz się litował nad Jerozolimą i nad miastami Judy, na które się gniewasz już siedemdziesiąt lat?"
-"Za1,13": "PAN odpowiedział Aniołowi, który rozmawiał ze mną, słowami dobrymi, słowami pociechy."
-"Za1,14": "Potem Anioł, który rozmawiał ze mną, powiedział: Wołaj i mów: Tak mówi PAN zastępów: Zapłonąłem wielką gorliwością o Jerozolimę i o Syjon."
-"Za1,15": "A bardzo się gniewam na te narody, które zażywają pokoju, bo gdy się trochę gniewałem, one wtedy przyczyniły się do nieszczęścia."
-"Za1,16": "Dlatego tak mówi PAN: Zwróciłem się do Jerozolimy w miłosierdziu, mój dom zostanie w niej zbudowany, mówi PAN zastępów, i sznur będzie rozciągnięty nad Jerozolimą."
-"Za1,17": "Wołaj jeszcze: Tak mówi PAN zastępów: Moje miasta jeszcze się rozciągną z powodu obfitości dobra, PAN jeszcze pocieszy Syjon i jeszcze wybierze Jerozolimę."
-"Za1,18": "Wtedy podniosłem swe oczy i spojrzałem, a oto cztery rogi."
-"Za1,19": "I zapytałem Anioła, który rozmawiał ze mną: Cóż to jest? I odpowiedział mi: To są rogi, które rozproszyły Judę, Izraela i Jerozolimę."
-"Za1,20": "Następnie PAN ukazał mi czterech kowali."
-"Za1,21": "I zapytałem: Co oni przyszli czynić? I odpowiedział: To są rogi, które rozproszyły Judę, tak że nikt nie mógł podnieść swojej głowy. Dlatego oni przyszli, aby je przestraszyć i strącić rogi tych narodów, które podniosły swoje rogi przeciwko ziemi Judy, aby ją rozproszyć."
+"Za1,1":
+  text: "W ósmym miesiącu drugiego roku Dariusza słowo PANA doszło do Zachariasza, syna Berechiasza, syna Iddo proroka, mówiące:"
+  tags: []
+"Za1,2":
+  text: "PAN bardzo się rozgniewał na waszych ojców."
+  tags: []
+"Za1,3":
+  text: "Dlatego powiedz im: Tak mówi PAN zastępów: Powróćcie do mnie, mówi PAN zastępów, a ja powrócę do was, mówi PAN zastępów."
+  tags: []
+"Za1,4":
+  text: "Nie bądźcie jak wasi ojcowie, do których wołali dawni prorocy, mówiąc: Tak mówi PAN zastępów: Odwróćcie się teraz od waszych złych dróg i od waszych złych uczynków. Ale oni nie usłuchali ani nie zważali na mnie, mówi PAN."
+  tags: []
+"Za1,5":
+  text: "Gdzie są wasi ojcowie? A prorocy, czy żyją wiecznie?"
+  tags: []
+"Za1,6":
+  text: "Czyż jednak moje słowa i ustawy, które rozkazałem moim sługom, prorokom, nie dotarły do waszych ojców? Powrócili i powiedzieli: Jak PAN zastępów zamierzył uczynić nam według naszych dróg i naszych uczynków, tak nam uczynił."
+  tags: []
+"Za1,7":
+  text: "Dnia dwudziestego czwartego, jedenastego miesiąca, czyli w miesiącu Szebat, w drugim roku Dariusza, słowo PANA doszło do Zachariasza, syna Berechiasza, syna proroka Iddo, mówiące:"
+  tags: []
+"Za1,8":
+  text: "Widziałem w nocy, a oto mąż jechał na rudym koniu, który stał wśród mirtów, które były na nizinie, a za nim konie rude, pstrokate i białe."
+  tags: []
+"Za1,9":
+  text: "Wtedy zapytałem: Kim oni są, mój panie? I Anioł, który rozmawiał ze mną, odpowiedział mi: Ja ci pokażę, kim oni są."
+  tags: []
+"Za1,10":
+  text: "I mąż, który stał wśród mirtów, odpowiedział: To są ci, których PAN posłał, aby obeszli ziemię."
+  tags: []
+"Za1,11":
+  text: "I odpowiedzieli Aniołowi PANA stojącemu wśród mirtów: Obeszliśmy ziemię, a oto cała ziemia żyje bezpiecznie i zażywa pokoju."
+  tags: []
+"Za1,12":
+  text: "Wtedy Anioł PANA odpowiedział: PANIE zastępów, jak długo jeszcze nie będziesz się litował nad Jerozolimą i nad miastami Judy, na które się gniewasz już siedemdziesiąt lat?"
+  tags: []
+"Za1,13":
+  text: "PAN odpowiedział Aniołowi, który rozmawiał ze mną, słowami dobrymi, słowami pociechy."
+  tags: []
+"Za1,14":
+  text: "Potem Anioł, który rozmawiał ze mną, powiedział: Wołaj i mów: Tak mówi PAN zastępów: Zapłonąłem wielką gorliwością o Jerozolimę i o Syjon."
+  tags: []
+"Za1,15":
+  text: "A bardzo się gniewam na te narody, które zażywają pokoju, bo gdy się trochę gniewałem, one wtedy przyczyniły się do nieszczęścia."
+  tags: []
+"Za1,16":
+  text: "Dlatego tak mówi PAN: Zwróciłem się do Jerozolimy w miłosierdziu, mój dom zostanie w niej zbudowany, mówi PAN zastępów, i sznur będzie rozciągnięty nad Jerozolimą."
+  tags: []
+"Za1,17":
+  text: "Wołaj jeszcze: Tak mówi PAN zastępów: Moje miasta jeszcze się rozciągną z powodu obfitości dobra, PAN jeszcze pocieszy Syjon i jeszcze wybierze Jerozolimę."
+  tags: []
+"Za1,18":
+  text: "Wtedy podniosłem swe oczy i spojrzałem, a oto cztery rogi."
+  tags: []
+"Za1,19":
+  text: "I zapytałem Anioła, który rozmawiał ze mną: Cóż to jest? I odpowiedział mi: To są rogi, które rozproszyły Judę, Izraela i Jerozolimę."
+  tags: []
+"Za1,20":
+  text: "Następnie PAN ukazał mi czterech kowali."
+  tags: []
+"Za1,21":
+  text: "I zapytałem: Co oni przyszli czynić? I odpowiedział: To są rogi, które rozproszyły Judę, tak że nikt nie mógł podnieść swojej głowy. Dlatego oni przyszli, aby je przestraszyć i strącić rogi tych narodów, które podniosły swoje rogi przeciwko ziemi Judy, aby ją rozproszyć."
+  tags: []

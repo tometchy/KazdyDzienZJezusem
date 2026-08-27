@@ -1,36 +1,108 @@
-"Ne11,1": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts [to dwell] in [other] cities."
-"Ne11,2": "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem."
-"Ne11,3": "Now these [are] the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, [to wit], Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants."
-"Ne11,4": "And at Jerusalem dwelt [certain] of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;"
-"Ne11,5": "And Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni."
-"Ne11,6": "All the sons of Perez that dwelt at Jerusalem [were] four hundred threescore and eight valiant men."
-"Ne11,7": "And these [are] the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah."
-"Ne11,8": "And after him Gabbai, Sallai, nine hundred twenty and eight."
-"Ne11,9": "And Joel the son of Zichri [was] their overseer: and Judah the son of Senuah [was] second over the city."
-"Ne11,10": "Of the priests: Jedaiah the son of Joiarib, Jachin."
-"Ne11,11": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, [was] the ruler of the house of God."
-"Ne11,12": "And their brethren that did the work of the house [were] eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,"
-"Ne11,13": "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,"
-"Ne11,14": "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer [was] Zabdiel, the son of [one of] the great men."
-"Ne11,15": "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
-"Ne11,16": "And Shabbethai and Jozabad, of the chief of the Levites, [had] the oversight of the outward business of the house of God."
-"Ne11,17": "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, [was] the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun."
-"Ne11,18": "All the Levites in the holy city [were] two hundred fourscore and four."
-"Ne11,19": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, [were] an hundred seventy and two."
-"Ne11,20": "And the residue of Israel, of the priests, [and] the Levites, [were] in all the cities of Judah, every one in his inheritance."
-"Ne11,21": "But the Nethinims dwelt in Ophel: and Ziha and Gispa [were] over the Nethinims."
-"Ne11,22": "The overseer also of the Levites at Jerusalem [was] Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers [were] over the business of the house of God."
-"Ne11,23": "For [it was] the king's commandment concerning them, that a certain portion should be for the singers, due for every day."
-"Ne11,24": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, [was] at the king's hand in all matters concerning the people."
-"Ne11,25": "And for the villages, with their fields, [some] of the children of Judah dwelt at Kirjath-arba, and [in] the villages thereof, and at Dibon, and [in] the villages thereof, and at Jekabzeel, and [in] the villages thereof,"
-"Ne11,26": "And at Jeshua, and at Moladah, and at Beth-phelet,"
-"Ne11,27": "And at Hazar-shual, and at Beer-sheba, and [in] the villages thereof,"
-"Ne11,28": "And at Ziklag, and at Mekonah, and in the villages thereof,"
-"Ne11,29": "And at En-rimmon, and at Zareah, and at Jarmuth,"
-"Ne11,30": "Zanoah, Adullam, and [in] their villages, at Lachish, and the fields thereof, at Azekah, and [in] the villages thereof. And they dwelt from Beer-sheba unto the valley of Hinnom."
-"Ne11,31": "The children also of Benjamin from Geba [dwelt] at Michmash, and Aija, and Beth-el, and [in] their villages,"
-"Ne11,32": "[And] at Anathoth, Nob, Ananiah,"
-"Ne11,33": "Hazor, Ramah, Gittaim,"
-"Ne11,34": "Hadid, Zeboim, Neballat,"
-"Ne11,35": "Lod, and Ono, the valley of craftsmen."
-"Ne11,36": "And of the Levites [were] divisions [in] Judah, [and] in Benjamin."
+"Ne11,1":
+  text: "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts [to dwell] in [other] cities."
+  tags: []
+"Ne11,2":
+  text: "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem."
+  tags: []
+"Ne11,3":
+  text: "Now these [are] the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, [to wit], Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants."
+  tags: []
+"Ne11,4":
+  text: "And at Jerusalem dwelt [certain] of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;"
+  tags: []
+"Ne11,5":
+  text: "And Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni."
+  tags: []
+"Ne11,6":
+  text: "All the sons of Perez that dwelt at Jerusalem [were] four hundred threescore and eight valiant men."
+  tags: []
+"Ne11,7":
+  text: "And these [are] the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah."
+  tags: []
+"Ne11,8":
+  text: "And after him Gabbai, Sallai, nine hundred twenty and eight."
+  tags: []
+"Ne11,9":
+  text: "And Joel the son of Zichri [was] their overseer: and Judah the son of Senuah [was] second over the city."
+  tags: []
+"Ne11,10":
+  text: "Of the priests: Jedaiah the son of Joiarib, Jachin."
+  tags: []
+"Ne11,11":
+  text: "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, [was] the ruler of the house of God."
+  tags: []
+"Ne11,12":
+  text: "And their brethren that did the work of the house [were] eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,"
+  tags: []
+"Ne11,13":
+  text: "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,"
+  tags: []
+"Ne11,14":
+  text: "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer [was] Zabdiel, the son of [one of] the great men."
+  tags: []
+"Ne11,15":
+  text: "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
+  tags: []
+"Ne11,16":
+  text: "And Shabbethai and Jozabad, of the chief of the Levites, [had] the oversight of the outward business of the house of God."
+  tags: []
+"Ne11,17":
+  text: "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, [was] the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun."
+  tags: []
+"Ne11,18":
+  text: "All the Levites in the holy city [were] two hundred fourscore and four."
+  tags: []
+"Ne11,19":
+  text: "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, [were] an hundred seventy and two."
+  tags: []
+"Ne11,20":
+  text: "And the residue of Israel, of the priests, [and] the Levites, [were] in all the cities of Judah, every one in his inheritance."
+  tags: []
+"Ne11,21":
+  text: "But the Nethinims dwelt in Ophel: and Ziha and Gispa [were] over the Nethinims."
+  tags: []
+"Ne11,22":
+  text: "The overseer also of the Levites at Jerusalem [was] Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers [were] over the business of the house of God."
+  tags: []
+"Ne11,23":
+  text: "For [it was] the king's commandment concerning them, that a certain portion should be for the singers, due for every day."
+  tags: []
+"Ne11,24":
+  text: "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, [was] at the king's hand in all matters concerning the people."
+  tags: []
+"Ne11,25":
+  text: "And for the villages, with their fields, [some] of the children of Judah dwelt at Kirjath-arba, and [in] the villages thereof, and at Dibon, and [in] the villages thereof, and at Jekabzeel, and [in] the villages thereof,"
+  tags: []
+"Ne11,26":
+  text: "And at Jeshua, and at Moladah, and at Beth-phelet,"
+  tags: []
+"Ne11,27":
+  text: "And at Hazar-shual, and at Beer-sheba, and [in] the villages thereof,"
+  tags: []
+"Ne11,28":
+  text: "And at Ziklag, and at Mekonah, and in the villages thereof,"
+  tags: []
+"Ne11,29":
+  text: "And at En-rimmon, and at Zareah, and at Jarmuth,"
+  tags: []
+"Ne11,30":
+  text: "Zanoah, Adullam, and [in] their villages, at Lachish, and the fields thereof, at Azekah, and [in] the villages thereof. And they dwelt from Beer-sheba unto the valley of Hinnom."
+  tags: []
+"Ne11,31":
+  text: "The children also of Benjamin from Geba [dwelt] at Michmash, and Aija, and Beth-el, and [in] their villages,"
+  tags: []
+"Ne11,32":
+  text: "[And] at Anathoth, Nob, Ananiah,"
+  tags: []
+"Ne11,33":
+  text: "Hazor, Ramah, Gittaim,"
+  tags: []
+"Ne11,34":
+  text: "Hadid, Zeboim, Neballat,"
+  tags: []
+"Ne11,35":
+  text: "Lod, and Ono, the valley of craftsmen."
+  tags: []
+"Ne11,36":
+  text: "And of the Levites [were] divisions [in] Judah, [and] in Benjamin."
+  tags: []

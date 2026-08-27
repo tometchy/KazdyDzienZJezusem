@@ -1,26 +1,78 @@
-"J17,1": "To powiedziawszy, Jezus podniósł swoje oczy ku niebu i rzekł: Ojcze, nadeszła godzina. Uwielbij swego Syna, aby też twój Syn uwielbił ciebie;"
-"J17,2": "Jak mu dałeś władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś."
-"J17,3": "A to jest życie wieczne, aby poznali ciebie, jedynego prawdziwego Boga i tego, którego posłałeś, Jezusa Chrystusa."
-"J17,4": "Ja uwielbiłem ciebie na ziemi i dokończyłem dzieła, które mi dałeś do wykonania."
-"J17,5": "A teraz ty, Ojcze, uwielbij mnie u siebie tą chwałą, którą miałem u ciebie, zanim powstał świat."
-"J17,6": "Objawiłem twoje imię ludziom, których mi dałeś ze świata. Twoimi byli i dałeś mi ich, a oni zachowali twoje słowa."
-"J17,7": "A teraz poznali, że wszystko, co mi dałeś, pochodzi od ciebie."
-"J17,8": "Dałem im bowiem słowa, które mi dałeś, a oni je przyjęli i prawdziwie poznali, że wyszedłem od ciebie, i uwierzyli, że ty mnie posłałeś."
-"J17,9": "Ja proszę za nimi. Nie proszę za światem, ale za tymi, których mi dałeś, bo są twoi."
-"J17,10": "I wszystko moje jest twoje, a twoje jest moje i jestem uwielbiony w nich."
-"J17,11": "A nie jestem już na świecie, ale oni są na świecie, a ja idę do ciebie. Ojcze święty, zachowaj w twoim imieniu tych, których mi dałeś, aby byli jedno jak i my."
-"J17,12": "Gdy byłem z nimi na świecie, ja zachowywałem ich w twoim imieniu. Strzegłem tych, których mi dałeś, i żaden z nich nie zginął prócz syna zatracenia, żeby się wypełniło Pismo."
-"J17,13": "Ale teraz idę do ciebie i mówię to na świecie, aby mieli w sobie moją radość w pełni."
-"J17,14": "Ja dałem im twoje słowo, a świat ich znienawidził, bo nie są ze świata, jak i ja nie jestem ze świata."
-"J17,15": "Nie proszę, abyś zabrał ich ze świata, ale abyś zachował ich od złego."
-"J17,16": "Nie są ze świata, jak i ja nie jestem ze świata."
-"J17,17": "Uświęć ich w twojej prawdzie. Twoje słowo jest prawdą."
-"J17,18": "Jak ty posłałeś mnie na świat, tak i ja posłałem ich na świat."
-"J17,19": "A ja za nich uświęcam samego siebie, aby i oni byli uświęceni w prawdzie."
-"J17,20": "A nie tylko za nimi proszę, lecz i za tymi, którzy przez ich słowo uwierzą we mnie;"
-"J17,21": "Aby wszyscy byli jedno, jak ty, Ojcze, we mnie, a ja w tobie, aby i oni byli w nas jedno, aby świat uwierzył, że ty mnie posłałeś."
-"J17,22": "I dałem im tę chwałę, którą mi dałeś, aby byli jedno, jak my jesteśmy jedno."
-"J17,23": "Ja w nich, a ty we mnie, aby byli doskonali w jedno, żeby świat poznał, że ty mnie posłałeś i że umiłowałeś ich, jak i mnie umiłowałeś."
-"J17,24": "Ojcze, chcę, aby ci, których mi dałeś, byli ze mną tam, gdzie ja jestem, aby oglądali moją chwałę, którą mi dałeś, ponieważ umiłowałeś mnie przed założeniem świata."
-"J17,25": "Ojcze sprawiedliwy, świat ciebie nie poznał, ale ja cię poznałem i oni poznali, że ty mnie posłałeś."
-"J17,26": "Objawiłem im twoje imię i jeszcze objawię, aby miłość, którą mnie umiłowałeś, była w nich i ja w nich."
+"J17,1":
+  text: "To powiedziawszy, Jezus podniósł swoje oczy ku niebu i rzekł: Ojcze, nadeszła godzina. Uwielbij swego Syna, aby też twój Syn uwielbił ciebie;"
+  tags: []
+"J17,2":
+  text: "Jak mu dałeś władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś."
+  tags: []
+"J17,3":
+  text: "A to jest życie wieczne, aby poznali ciebie, jedynego prawdziwego Boga i tego, którego posłałeś, Jezusa Chrystusa."
+  tags: []
+"J17,4":
+  text: "Ja uwielbiłem ciebie na ziemi i dokończyłem dzieła, które mi dałeś do wykonania."
+  tags: []
+"J17,5":
+  text: "A teraz ty, Ojcze, uwielbij mnie u siebie tą chwałą, którą miałem u ciebie, zanim powstał świat."
+  tags: []
+"J17,6":
+  text: "Objawiłem twoje imię ludziom, których mi dałeś ze świata. Twoimi byli i dałeś mi ich, a oni zachowali twoje słowa."
+  tags: []
+"J17,7":
+  text: "A teraz poznali, że wszystko, co mi dałeś, pochodzi od ciebie."
+  tags: []
+"J17,8":
+  text: "Dałem im bowiem słowa, które mi dałeś, a oni je przyjęli i prawdziwie poznali, że wyszedłem od ciebie, i uwierzyli, że ty mnie posłałeś."
+  tags: []
+"J17,9":
+  text: "Ja proszę za nimi. Nie proszę za światem, ale za tymi, których mi dałeś, bo są twoi."
+  tags: []
+"J17,10":
+  text: "I wszystko moje jest twoje, a twoje jest moje i jestem uwielbiony w nich."
+  tags: []
+"J17,11":
+  text: "A nie jestem już na świecie, ale oni są na świecie, a ja idę do ciebie. Ojcze święty, zachowaj w twoim imieniu tych, których mi dałeś, aby byli jedno jak i my."
+  tags: []
+"J17,12":
+  text: "Gdy byłem z nimi na świecie, ja zachowywałem ich w twoim imieniu. Strzegłem tych, których mi dałeś, i żaden z nich nie zginął prócz syna zatracenia, żeby się wypełniło Pismo."
+  tags: []
+"J17,13":
+  text: "Ale teraz idę do ciebie i mówię to na świecie, aby mieli w sobie moją radość w pełni."
+  tags: []
+"J17,14":
+  text: "Ja dałem im twoje słowo, a świat ich znienawidził, bo nie są ze świata, jak i ja nie jestem ze świata."
+  tags: []
+"J17,15":
+  text: "Nie proszę, abyś zabrał ich ze świata, ale abyś zachował ich od złego."
+  tags: []
+"J17,16":
+  text: "Nie są ze świata, jak i ja nie jestem ze świata."
+  tags: []
+"J17,17":
+  text: "Uświęć ich w twojej prawdzie. Twoje słowo jest prawdą."
+  tags: []
+"J17,18":
+  text: "Jak ty posłałeś mnie na świat, tak i ja posłałem ich na świat."
+  tags: []
+"J17,19":
+  text: "A ja za nich uświęcam samego siebie, aby i oni byli uświęceni w prawdzie."
+  tags: []
+"J17,20":
+  text: "A nie tylko za nimi proszę, lecz i za tymi, którzy przez ich słowo uwierzą we mnie;"
+  tags: []
+"J17,21":
+  text: "Aby wszyscy byli jedno, jak ty, Ojcze, we mnie, a ja w tobie, aby i oni byli w nas jedno, aby świat uwierzył, że ty mnie posłałeś."
+  tags: []
+"J17,22":
+  text: "I dałem im tę chwałę, którą mi dałeś, aby byli jedno, jak my jesteśmy jedno."
+  tags: []
+"J17,23":
+  text: "Ja w nich, a ty we mnie, aby byli doskonali w jedno, żeby świat poznał, że ty mnie posłałeś i że umiłowałeś ich, jak i mnie umiłowałeś."
+  tags: []
+"J17,24":
+  text: "Ojcze, chcę, aby ci, których mi dałeś, byli ze mną tam, gdzie ja jestem, aby oglądali moją chwałę, którą mi dałeś, ponieważ umiłowałeś mnie przed założeniem świata."
+  tags: []
+"J17,25":
+  text: "Ojcze sprawiedliwy, świat ciebie nie poznał, ale ja cię poznałem i oni poznali, że ty mnie posłałeś."
+  tags: []
+"J17,26":
+  text: "Objawiłem im twoje imię i jeszcze objawię, aby miłość, którą mnie umiłowałeś, była w nich i ja w nich."
+  tags: []

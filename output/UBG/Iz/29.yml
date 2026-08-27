@@ -1,24 +1,72 @@
-"Iz29,1": "Biada Arielu, Arielu, miasto, w którym mieszkał Dawid. Dodawajcie rok do roku, niech zarzynają barany."
-"Iz29,2": "Ześlę jednak ucisk na Ariela i nastanie smutek i lament, i będzie mi jak Ariel."
-"Iz29,3": "Rozbiję obóz przeciwko tobie dokoła, otoczę cię wałami i wzniosę przeciwko tobie baszty."
-"Iz29,4": "Wtedy poniżony będziesz mówił z ziemi, z prochu ledwie wyjdzie twoja mowa i twój głos będzie mówił z ziemi jak głos czarownika, a twoja mowa z prochu jak szept."
-"Iz29,5": "Mnóstwo twoich wrogów będzie jak drobny pył, a zgraja okrutników jak rozwiane plewy. A stanie się to nagle, w okamgnieniu."
-"Iz29,6": "Zostaniesz nawiedzony od PANA zastępów grzmotem, trzęsieniem ziemi i wielkim hukiem, wichurą, burzą i płomieniem trawiącego ognia."
-"Iz29,7": "Jak sen nocnego widzenia będzie zgraja wszystkich narodów walczących przeciwko Arielowi i wszystkich, którzy walczą przeciwko niemu i jego twierdzom, oraz tych, którzy go uciskają."
-"Iz29,8": "Będzie tak jak wtedy, gdy śni się głodnemu, że je, ale gdy się obudzi, ma pusty żołądek; i jak wtedy, gdy śni się spragnionemu, że pije, a gdy się obudzi, nadal jest słaby i jego dusza jest spragniona. Tak będzie ze zgrają wszystkich narodów walczących przeciwko górze Syjon."
-"Iz29,9": "Zatrzymujcie się i zdumiewajcie; rozkoszujcie, choćbyście mieli wołać na pomoc. Upili się, ale nie winem; zataczają się, ale nie od mocnego napoju."
-"Iz29,10": "PAN bowiem wylał na was ducha twardego snu i zamknął wasze oczy. Oczy waszych proroków i książąt, widzących, zasłonił."
-"Iz29,11": "Dlatego całe to widzenie stało się dla was jak słowa zapieczętowanej księgi, którą podaje się temu, kto umie czytać, mówiąc: Przeczytaj to, proszę, na co odpowiada: Nie mogę, bo jest zapieczętowana."
-"Iz29,12": "A jeśli podaje się księgę temu, kto nie umie czytać, mówiąc: Czytaj to, proszę, ten wtedy odpowiada: Nie umiem czytać."
-"Iz29,13": "Mówi więc Pan: Ponieważ ten lud zbliża się do mnie swymi ustami i czci mnie swymi wargami, a jego serce jest daleko ode mnie i jego bojaźń wobec mnie jest wyuczoną przez nakazy ludzi;"
-"Iz29,14": "Dlatego ja będę postępował przedziwnie z tym ludem, przedziwnie i cudownie; zginie mądrość jego mądrych, a rozum jego roztropnych się skryje."
-"Iz29,15": "Biada tym, którzy głęboko przed PANEM ukrywają swój zamysł, których czyny są popełnione w ciemności i mówią: Kto nas widzi? Kto o nas wie?"
-"Iz29,16": "Wasze przewrotne myśli są jak glina garncarska. Czyż glina powie o tym, co ją uczynił: Nie uczynił mnie? Czyż to, co ulepione, powie o tym, co je ulepił: Nie miał rozumu?"
-"Iz29,17": "Czyż nie w bardzo krótkim czasie Liban obróci się w pole, a pole będzie uważane za las?"
-"Iz29,18": "Tego dnia głusi usłyszą słowa księgi, a oczy ślepych przejrzą z mroku i ciemności."
-"Iz29,19": "Cisi jeszcze bardziej się rozweselą w PANU, a ubodzy spośród ludzi rozradują się w Świętym Izraela."
-"Iz29,20": "Gdyż nastanie kres dla okrutnika, zniszczeje szyderca i zostaną wytępieni wszyscy, którzy czyhają na nieprawość;"
-"Iz29,21": "Którzy obwiniają człowieka za słowo, zastawiają sidło na tego, który ich strofuje w bramie, i bez powodu doprowadzają sprawiedliwego do upadku."
-"Iz29,22": "Dlatego tak mówi PAN, który odkupił Abrahama, o domu Jakuba: Jakub już więcej nie zazna wstydu ani jego twarz już nie zblednie."
-"Iz29,23": "Gdy bowiem ujrzy pośród siebie swoich synów, dzieło moich rąk, poświęcą moje imię, poświęcą Świętego Jakuba, i będą się bać Boga Izraela."
-"Iz29,24": "Ci, którzy błądzili duchem, nabiorą rozumu, ci, którzy szemrali, przyjmą naukę."
+"Iz29,1":
+  text: "Biada Arielu, Arielu, miasto, w którym mieszkał Dawid. Dodawajcie rok do roku, niech zarzynają barany."
+  tags: []
+"Iz29,2":
+  text: "Ześlę jednak ucisk na Ariela i nastanie smutek i lament, i będzie mi jak Ariel."
+  tags: []
+"Iz29,3":
+  text: "Rozbiję obóz przeciwko tobie dokoła, otoczę cię wałami i wzniosę przeciwko tobie baszty."
+  tags: []
+"Iz29,4":
+  text: "Wtedy poniżony będziesz mówił z ziemi, z prochu ledwie wyjdzie twoja mowa i twój głos będzie mówił z ziemi jak głos czarownika, a twoja mowa z prochu jak szept."
+  tags: []
+"Iz29,5":
+  text: "Mnóstwo twoich wrogów będzie jak drobny pył, a zgraja okrutników jak rozwiane plewy. A stanie się to nagle, w okamgnieniu."
+  tags: []
+"Iz29,6":
+  text: "Zostaniesz nawiedzony od PANA zastępów grzmotem, trzęsieniem ziemi i wielkim hukiem, wichurą, burzą i płomieniem trawiącego ognia."
+  tags: []
+"Iz29,7":
+  text: "Jak sen nocnego widzenia będzie zgraja wszystkich narodów walczących przeciwko Arielowi i wszystkich, którzy walczą przeciwko niemu i jego twierdzom, oraz tych, którzy go uciskają."
+  tags: []
+"Iz29,8":
+  text: "Będzie tak jak wtedy, gdy śni się głodnemu, że je, ale gdy się obudzi, ma pusty żołądek; i jak wtedy, gdy śni się spragnionemu, że pije, a gdy się obudzi, nadal jest słaby i jego dusza jest spragniona. Tak będzie ze zgrają wszystkich narodów walczących przeciwko górze Syjon."
+  tags: []
+"Iz29,9":
+  text: "Zatrzymujcie się i zdumiewajcie; rozkoszujcie, choćbyście mieli wołać na pomoc. Upili się, ale nie winem; zataczają się, ale nie od mocnego napoju."
+  tags: []
+"Iz29,10":
+  text: "PAN bowiem wylał na was ducha twardego snu i zamknął wasze oczy. Oczy waszych proroków i książąt, widzących, zasłonił."
+  tags: []
+"Iz29,11":
+  text: "Dlatego całe to widzenie stało się dla was jak słowa zapieczętowanej księgi, którą podaje się temu, kto umie czytać, mówiąc: Przeczytaj to, proszę, na co odpowiada: Nie mogę, bo jest zapieczętowana."
+  tags: []
+"Iz29,12":
+  text: "A jeśli podaje się księgę temu, kto nie umie czytać, mówiąc: Czytaj to, proszę, ten wtedy odpowiada: Nie umiem czytać."
+  tags: []
+"Iz29,13":
+  text: "Mówi więc Pan: Ponieważ ten lud zbliża się do mnie swymi ustami i czci mnie swymi wargami, a jego serce jest daleko ode mnie i jego bojaźń wobec mnie jest wyuczoną przez nakazy ludzi;"
+  tags: []
+"Iz29,14":
+  text: "Dlatego ja będę postępował przedziwnie z tym ludem, przedziwnie i cudownie; zginie mądrość jego mądrych, a rozum jego roztropnych się skryje."
+  tags: []
+"Iz29,15":
+  text: "Biada tym, którzy głęboko przed PANEM ukrywają swój zamysł, których czyny są popełnione w ciemności i mówią: Kto nas widzi? Kto o nas wie?"
+  tags: []
+"Iz29,16":
+  text: "Wasze przewrotne myśli są jak glina garncarska. Czyż glina powie o tym, co ją uczynił: Nie uczynił mnie? Czyż to, co ulepione, powie o tym, co je ulepił: Nie miał rozumu?"
+  tags: []
+"Iz29,17":
+  text: "Czyż nie w bardzo krótkim czasie Liban obróci się w pole, a pole będzie uważane za las?"
+  tags: []
+"Iz29,18":
+  text: "Tego dnia głusi usłyszą słowa księgi, a oczy ślepych przejrzą z mroku i ciemności."
+  tags: []
+"Iz29,19":
+  text: "Cisi jeszcze bardziej się rozweselą w PANU, a ubodzy spośród ludzi rozradują się w Świętym Izraela."
+  tags: []
+"Iz29,20":
+  text: "Gdyż nastanie kres dla okrutnika, zniszczeje szyderca i zostaną wytępieni wszyscy, którzy czyhają na nieprawość;"
+  tags: []
+"Iz29,21":
+  text: "Którzy obwiniają człowieka za słowo, zastawiają sidło na tego, który ich strofuje w bramie, i bez powodu doprowadzają sprawiedliwego do upadku."
+  tags: []
+"Iz29,22":
+  text: "Dlatego tak mówi PAN, który odkupił Abrahama, o domu Jakuba: Jakub już więcej nie zazna wstydu ani jego twarz już nie zblednie."
+  tags: []
+"Iz29,23":
+  text: "Gdy bowiem ujrzy pośród siebie swoich synów, dzieło moich rąk, poświęcą moje imię, poświęcą Świętego Jakuba, i będą się bać Boga Izraela."
+  tags: []
+"Iz29,24":
+  text: "Ci, którzy błądzili duchem, nabiorą rozumu, ci, którzy szemrali, przyjmą naukę."
+  tags: []

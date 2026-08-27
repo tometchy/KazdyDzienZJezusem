@@ -1,21 +1,63 @@
-"Hi4,1": "Then Eliphaz the Temanite answered and said,"
-"Hi4,2": "[If] we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?"
-"Hi4,3": "Behold, thou hast instructed many, and thou hast strengthened the weak hands."
-"Hi4,4": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees."
-"Hi4,5": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled."
-"Hi4,6": "[Is] not [this] thy fear, thy confidence, thy hope, and the uprightness of thy ways?"
-"Hi4,7": "Remember, I pray thee, who [ever] perished, being innocent? or where were the righteous cut off?"
-"Hi4,8": "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same."
-"Hi4,9": "By the blast of God they perish, and by the breath of his nostrils are they consumed."
-"Hi4,10": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken."
-"Hi4,11": "The old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad."
-"Hi4,12": "Now a thing was secretly brought to me, and mine ear received a little thereof."
-"Hi4,13": "In thoughts from the visions of the night, when deep sleep falleth on men,"
-"Hi4,14": "Fear came upon me, and trembling, which made all my bones to shake."
-"Hi4,15": "Then a spirit passed before my face; the hair of my flesh stood up:"
-"Hi4,16": "It stood still, but I could not discern the form thereof: an image [was] before mine eyes, [there was] silence, and I heard a voice, [saying],"
-"Hi4,17": "Shall mortal man be more just than God? shall a man be more pure than his maker?"
-"Hi4,18": "Behold, he put no trust in his servants; and his angels he charged with folly:"
-"Hi4,19": "How much less [in] them that dwell in houses of clay, whose foundation [is] in the dust, [which] are crushed before the moth?"
-"Hi4,20": "They are destroyed from morning to evening: they perish for ever without any regarding [it]."
-"Hi4,21": "Doth not their excellency [which is] in them go away? they die, even without wisdom."
+"Hi4,1":
+  text: "Then Eliphaz the Temanite answered and said,"
+  tags: []
+"Hi4,2":
+  text: "[If] we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?"
+  tags: []
+"Hi4,3":
+  text: "Behold, thou hast instructed many, and thou hast strengthened the weak hands."
+  tags: []
+"Hi4,4":
+  text: "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees."
+  tags: []
+"Hi4,5":
+  text: "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled."
+  tags: []
+"Hi4,6":
+  text: "[Is] not [this] thy fear, thy confidence, thy hope, and the uprightness of thy ways?"
+  tags: []
+"Hi4,7":
+  text: "Remember, I pray thee, who [ever] perished, being innocent? or where were the righteous cut off?"
+  tags: []
+"Hi4,8":
+  text: "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same."
+  tags: []
+"Hi4,9":
+  text: "By the blast of God they perish, and by the breath of his nostrils are they consumed."
+  tags: []
+"Hi4,10":
+  text: "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken."
+  tags: []
+"Hi4,11":
+  text: "The old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad."
+  tags: []
+"Hi4,12":
+  text: "Now a thing was secretly brought to me, and mine ear received a little thereof."
+  tags: []
+"Hi4,13":
+  text: "In thoughts from the visions of the night, when deep sleep falleth on men,"
+  tags: []
+"Hi4,14":
+  text: "Fear came upon me, and trembling, which made all my bones to shake."
+  tags: []
+"Hi4,15":
+  text: "Then a spirit passed before my face; the hair of my flesh stood up:"
+  tags: []
+"Hi4,16":
+  text: "It stood still, but I could not discern the form thereof: an image [was] before mine eyes, [there was] silence, and I heard a voice, [saying],"
+  tags: []
+"Hi4,17":
+  text: "Shall mortal man be more just than God? shall a man be more pure than his maker?"
+  tags: []
+"Hi4,18":
+  text: "Behold, he put no trust in his servants; and his angels he charged with folly:"
+  tags: []
+"Hi4,19":
+  text: "How much less [in] them that dwell in houses of clay, whose foundation [is] in the dust, [which] are crushed before the moth?"
+  tags: []
+"Hi4,20":
+  text: "They are destroyed from morning to evening: they perish for ever without any regarding [it]."
+  tags: []
+"Hi4,21":
+  text: "Doth not their excellency [which is] in them go away? they die, even without wisdom."
+  tags: []

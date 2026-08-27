@@ -1,31 +1,93 @@
-"Sdz3,1": "A oto narody, które PAN pozostawił, aby przez nie doświadczyć Izraela, czyli tych wszystkich, którzy nie zaznali żadnych wojen o Kanaan;"
-"Sdz3,2": "Aby pokolenia synów Izraela ich doświadczyły, aby nauczyły się sztuki wojennej, te, które jej przedtem nie zaznały:"
-"Sdz3,3": "Pięciu książąt filistyńskich oraz wszyscy Kananejczycy, Sydończycy i Chiwwici mieszkający na górze Libanu, od góry Baal-Hermon aż do wejścia do Chamat."
-"Sdz3,4": "Oni pozostali, aby przez nich doświadczyć Izraela; by poznać, czy będą posłuszni przykazaniom PANA, które dał ich ojcom przez Mojżesza."
-"Sdz3,5": "Tak więc synowie Izraela mieszkali pośród Kananejczyków, Chetytów, Amorytów, Peryzzytów, Chiwwitów i Jebusytów."
-"Sdz3,6": "I brali sobie ich córki za żony, a swe córki dawali ich synom i służyli ich bogom."
-"Sdz3,7": "I synowie Izraela czynili to, co złe w oczach PANA: zapomnieli o PANU, swym Bogu, i służyli Baalom i gajom."
-"Sdz3,8": "Wtedy zapłonął gniew PANA przeciw Izraelowi i wydał ich w ręce Kuszan-Riszataima, króla Mezopotamii. I synowie Izraela służyli Kuszan-Risztaimowi przez osiem lat."
-"Sdz3,9": "A gdy synowie Izraela wołali do PANA, PAN wzbudził synom Izraela wybawcę, który ich wybawił – Otniela, syna Keneza, młodszego brata Kaleba."
-"Sdz3,10": "Zstąpił na niego Duch PANA i sądził Izraela; a gdy wyruszył na wojnę, PAN wydał w jego ręce Kuszan-Riszataima, króla Mezopotamii, i jego ręka wzmocniła się nad Kuszan-Riszataimem."
-"Sdz3,11": "I ziemia zaznała pokoju przez czterdzieści lat, aż umarł Otniel, syn Keneza."
-"Sdz3,12": "Potem synowie Izraela znowu czynili to, co złe w oczach PANA. I PAN wzmocnił przeciw Izraelowi Eglona, króla Moabu, bo czynili to, co złe w oczach PANA."
-"Sdz3,13": "Ten zgromadził przy sobie synów Ammona i Amaleka, wyruszył i pobił Izraela, i zajął miasto palm."
-"Sdz3,14": "Tak więc synowie Izraela służyli Eglonowi, królowi Moabu, przez osiemnaście lat."
-"Sdz3,15": "A gdy synowie Izraela wołali do PANA, PAN wzbudził im wybawcę – Ehuda, syna Gery, Beniaminitę, człowieka leworęcznego. I synowie Izraela posłali przez niego dar Eglonowi, królowi Moabu."
-"Sdz3,16": "I Ehud sporządził sobie miecz o dwóch ostrzach, długości jednego łokcia, i przypasał go sobie pod szatą do prawego biodra."
-"Sdz3,17": "I przyniósł dar Eglonowi, królowi Moabu. Eglon zaś był człowiekiem bardzo otyłym."
-"Sdz3,18": "A gdy oddał dar, odprawił ludzi, którzy dar przynieśli;"
-"Sdz3,19": "A sam wrócił z kamiennych gór, które były w Gilgal, i powiedział: Mam do ciebie tajną sprawę, o królu. A ten odpowiedział: Cisza! I wyszli od niego wszyscy, którzy przed nim stali."
-"Sdz3,20": "Wtedy Ehud podszedł do niego. On zaś siedział w letniej komnacie, którą miał tylko dla siebie. I Ehud powiedział: Mam dla ciebie słowo od Boga. A ten powstał z tronu."
-"Sdz3,21": "Wtedy Ehud wyciągnął lewą rękę, dobył miecz ze swego prawego biodra i wbił go w jego brzuch."
-"Sdz3,22": "A rękojeść weszła razem z ostrzem i tłuszcz zamknął się za ostrzem tak, że nie mógł wyjąć miecza z jego brzucha; i wyszły z niego nieczystości."
-"Sdz3,23": "Potem Ehud wyszedł przez przedsionek, zamknął za sobą drzwi komnaty i zasunął rygle."
-"Sdz3,24": "A gdy wyszedł, przyszli słudzy i kiedy zobaczyli, że drzwi komnaty były zamknięte, powiedzieli: Z pewnością król odpoczywa w letniej komnacie."
-"Sdz3,25": "I czekali długo, aż poczuli się zawstydzeni. Widząc, że on nie otwiera drzwi komnaty, wzięli klucz i otworzyli; a oto ich pan leżał na ziemi martwy."
-"Sdz3,26": "Lecz Ehud uciekł, kiedy oni zwlekali z wejściem, minął kamienne góry i uciekł aż do Seiru."
-"Sdz3,27": "A gdy przyszedł, zadął w trąbę na górze Efraim; i synowie Izraela zeszli z nim z góry, a on na ich czele."
-"Sdz3,28": "I powiedział do nich: Pójdźcie za mną. PAN bowiem wydał waszych wrogów, Moabitów, w wasze ręce. Poszli więc za nim, zajęli brody Jordanu do Moabu i nie pozwalali nikomu przejść."
-"Sdz3,29": "W tym czasie zabili około dziesięciu tysięcy mężczyzn spośród Moabitów, samych krzepkich i walecznych, i nikt nie uszedł z życiem."
-"Sdz3,30": "W tym dniu Moab został poniżony pod ręką Izraela; i ziemia żyła w pokoju przez osiemdziesiąt lat."
-"Sdz3,31": "A po nim był Szamgar, syn Anata. Zabił on sześciuset mężczyzn spośród Filistynów ościeniem na woły. On także wybawił Izraela."
+"Sdz3,1":
+  text: "A oto narody, które PAN pozostawił, aby przez nie doświadczyć Izraela, czyli tych wszystkich, którzy nie zaznali żadnych wojen o Kanaan;"
+  tags: []
+"Sdz3,2":
+  text: "Aby pokolenia synów Izraela ich doświadczyły, aby nauczyły się sztuki wojennej, te, które jej przedtem nie zaznały:"
+  tags: []
+"Sdz3,3":
+  text: "Pięciu książąt filistyńskich oraz wszyscy Kananejczycy, Sydończycy i Chiwwici mieszkający na górze Libanu, od góry Baal-Hermon aż do wejścia do Chamat."
+  tags: []
+"Sdz3,4":
+  text: "Oni pozostali, aby przez nich doświadczyć Izraela; by poznać, czy będą posłuszni przykazaniom PANA, które dał ich ojcom przez Mojżesza."
+  tags: []
+"Sdz3,5":
+  text: "Tak więc synowie Izraela mieszkali pośród Kananejczyków, Chetytów, Amorytów, Peryzzytów, Chiwwitów i Jebusytów."
+  tags: []
+"Sdz3,6":
+  text: "I brali sobie ich córki za żony, a swe córki dawali ich synom i służyli ich bogom."
+  tags: []
+"Sdz3,7":
+  text: "I synowie Izraela czynili to, co złe w oczach PANA: zapomnieli o PANU, swym Bogu, i służyli Baalom i gajom."
+  tags: []
+"Sdz3,8":
+  text: "Wtedy zapłonął gniew PANA przeciw Izraelowi i wydał ich w ręce Kuszan-Riszataima, króla Mezopotamii. I synowie Izraela służyli Kuszan-Risztaimowi przez osiem lat."
+  tags: []
+"Sdz3,9":
+  text: "A gdy synowie Izraela wołali do PANA, PAN wzbudził synom Izraela wybawcę, który ich wybawił – Otniela, syna Keneza, młodszego brata Kaleba."
+  tags: []
+"Sdz3,10":
+  text: "Zstąpił na niego Duch PANA i sądził Izraela; a gdy wyruszył na wojnę, PAN wydał w jego ręce Kuszan-Riszataima, króla Mezopotamii, i jego ręka wzmocniła się nad Kuszan-Riszataimem."
+  tags: []
+"Sdz3,11":
+  text: "I ziemia zaznała pokoju przez czterdzieści lat, aż umarł Otniel, syn Keneza."
+  tags: []
+"Sdz3,12":
+  text: "Potem synowie Izraela znowu czynili to, co złe w oczach PANA. I PAN wzmocnił przeciw Izraelowi Eglona, króla Moabu, bo czynili to, co złe w oczach PANA."
+  tags: []
+"Sdz3,13":
+  text: "Ten zgromadził przy sobie synów Ammona i Amaleka, wyruszył i pobił Izraela, i zajął miasto palm."
+  tags: []
+"Sdz3,14":
+  text: "Tak więc synowie Izraela służyli Eglonowi, królowi Moabu, przez osiemnaście lat."
+  tags: []
+"Sdz3,15":
+  text: "A gdy synowie Izraela wołali do PANA, PAN wzbudził im wybawcę – Ehuda, syna Gery, Beniaminitę, człowieka leworęcznego. I synowie Izraela posłali przez niego dar Eglonowi, królowi Moabu."
+  tags: []
+"Sdz3,16":
+  text: "I Ehud sporządził sobie miecz o dwóch ostrzach, długości jednego łokcia, i przypasał go sobie pod szatą do prawego biodra."
+  tags: []
+"Sdz3,17":
+  text: "I przyniósł dar Eglonowi, królowi Moabu. Eglon zaś był człowiekiem bardzo otyłym."
+  tags: []
+"Sdz3,18":
+  text: "A gdy oddał dar, odprawił ludzi, którzy dar przynieśli;"
+  tags: []
+"Sdz3,19":
+  text: "A sam wrócił z kamiennych gór, które były w Gilgal, i powiedział: Mam do ciebie tajną sprawę, o królu. A ten odpowiedział: Cisza! I wyszli od niego wszyscy, którzy przed nim stali."
+  tags: []
+"Sdz3,20":
+  text: "Wtedy Ehud podszedł do niego. On zaś siedział w letniej komnacie, którą miał tylko dla siebie. I Ehud powiedział: Mam dla ciebie słowo od Boga. A ten powstał z tronu."
+  tags: []
+"Sdz3,21":
+  text: "Wtedy Ehud wyciągnął lewą rękę, dobył miecz ze swego prawego biodra i wbił go w jego brzuch."
+  tags: []
+"Sdz3,22":
+  text: "A rękojeść weszła razem z ostrzem i tłuszcz zamknął się za ostrzem tak, że nie mógł wyjąć miecza z jego brzucha; i wyszły z niego nieczystości."
+  tags: []
+"Sdz3,23":
+  text: "Potem Ehud wyszedł przez przedsionek, zamknął za sobą drzwi komnaty i zasunął rygle."
+  tags: []
+"Sdz3,24":
+  text: "A gdy wyszedł, przyszli słudzy i kiedy zobaczyli, że drzwi komnaty były zamknięte, powiedzieli: Z pewnością król odpoczywa w letniej komnacie."
+  tags: []
+"Sdz3,25":
+  text: "I czekali długo, aż poczuli się zawstydzeni. Widząc, że on nie otwiera drzwi komnaty, wzięli klucz i otworzyli; a oto ich pan leżał na ziemi martwy."
+  tags: []
+"Sdz3,26":
+  text: "Lecz Ehud uciekł, kiedy oni zwlekali z wejściem, minął kamienne góry i uciekł aż do Seiru."
+  tags: []
+"Sdz3,27":
+  text: "A gdy przyszedł, zadął w trąbę na górze Efraim; i synowie Izraela zeszli z nim z góry, a on na ich czele."
+  tags: []
+"Sdz3,28":
+  text: "I powiedział do nich: Pójdźcie za mną. PAN bowiem wydał waszych wrogów, Moabitów, w wasze ręce. Poszli więc za nim, zajęli brody Jordanu do Moabu i nie pozwalali nikomu przejść."
+  tags: []
+"Sdz3,29":
+  text: "W tym czasie zabili około dziesięciu tysięcy mężczyzn spośród Moabitów, samych krzepkich i walecznych, i nikt nie uszedł z życiem."
+  tags: []
+"Sdz3,30":
+  text: "W tym dniu Moab został poniżony pod ręką Izraela; i ziemia żyła w pokoju przez osiemdziesiąt lat."
+  tags: []
+"Sdz3,31":
+  text: "A po nim był Szamgar, syn Anata. Zabił on sześciuset mężczyzn spośród Filistynów ościeniem na woły. On także wybawił Izraela."
+  tags: []

@@ -1,48 +1,144 @@
-"Łk19,1": "And [Jesus] entered and passed through Jericho."
-"Łk19,2": "And, behold, [there was] a man named Zacchaeus, which was the chief among the publicans, and he was rich."
-"Łk19,3": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature."
-"Łk19,4": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that [way]."
-"Łk19,5": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house."
-"Łk19,6": "And he made haste, and came down, and received him joyfully."
-"Łk19,7": "And when they saw [it], they all murmured, saying, That he was gone to be guest with a man that is a sinner."
-"Łk19,8": "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore [him] fourfold."
-"Łk19,9": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
-"Łk19,10": "For the Son of man is come to seek and to save that which was lost."
-"Łk19,11": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear."
-"Łk19,12": "He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return."
-"Łk19,13": "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come."
-"Łk19,14": "But his citizens hated him, and sent a message after him, saying, We will not have this [man] to reign over us."
-"Łk19,15": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading."
-"Łk19,16": "Then came the first, saying, Lord, thy pound hath gained ten pounds."
-"Łk19,17": "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities."
-"Łk19,18": "And the second came, saying, Lord, thy pound hath gained five pounds."
-"Łk19,19": "And he said likewise to him, Be thou also over five cities."
-"Łk19,20": "And another came, saying, Lord, behold, [here is] thy pound, which I have kept laid up in a napkin:"
-"Łk19,21": "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow."
-"Łk19,22": "And he saith unto him, Out of thine own mouth will I judge thee, [thou] wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:"
-"Łk19,23": "Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?"
-"Łk19,24": "And he said unto them that stood by, Take from him the pound, and give [it] to him that hath ten pounds."
-"Łk19,25": "(And they said unto him, Lord, he hath ten pounds.)"
-"Łk19,26": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him."
-"Łk19,27": "But those mine enemies, which would not that I should reign over them, bring hither, and slay [them] before me."
-"Łk19,28": "And when he had thus spoken, he went before, ascending up to Jerusalem."
-"Łk19,29": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called [the mount] of Olives, he sent two of his disciples,"
-"Łk19,30": "Saying, Go ye into the village over against [you]; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring [him hither]."
-"Łk19,31": "And if any man ask you, Why do ye loose [him]? thus shall ye say unto him, Because the Lord hath need of him."
-"Łk19,32": "And they that were sent went their way, and found even as he had said unto them."
-"Łk19,33": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?"
-"Łk19,34": "And they said, The Lord hath need of him."
-"Łk19,35": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon."
-"Łk19,36": "And as he went, they spread their clothes in the way."
-"Łk19,37": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;"
-"Łk19,38": "Saying, Blessed [be] the King that cometh in the name of the Lord: peace in heaven, and glory in the highest."
-"Łk19,39": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
-"Łk19,40": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out."
-"Łk19,41": "And when he was come near, he beheld the city, and wept over it,"
-"Łk19,42": "Saying, If thou hadst known, even thou, at least in this thy day, the things [which belong] unto thy peace! but now they are hid from thine eyes."
-"Łk19,43": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,"
-"Łk19,44": "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation."
-"Łk19,45": "And he went into the temple, and began to cast out them that sold therein, and them that bought;"
-"Łk19,46": "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves."
-"Łk19,47": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,"
-"Łk19,48": "And could not find what they might do: for all the people were very attentive to hear him."
+"Łk19,1":
+  text: "And [Jesus] entered and passed through Jericho."
+  tags: []
+"Łk19,2":
+  text: "And, behold, [there was] a man named Zacchaeus, which was the chief among the publicans, and he was rich."
+  tags: []
+"Łk19,3":
+  text: "And he sought to see Jesus who he was; and could not for the press, because he was little of stature."
+  tags: []
+"Łk19,4":
+  text: "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that [way]."
+  tags: []
+"Łk19,5":
+  text: "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house."
+  tags: []
+"Łk19,6":
+  text: "And he made haste, and came down, and received him joyfully."
+  tags: []
+"Łk19,7":
+  text: "And when they saw [it], they all murmured, saying, That he was gone to be guest with a man that is a sinner."
+  tags: []
+"Łk19,8":
+  text: "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore [him] fourfold."
+  tags: []
+"Łk19,9":
+  text: "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+  tags: []
+"Łk19,10":
+  text: "For the Son of man is come to seek and to save that which was lost."
+  tags: []
+"Łk19,11":
+  text: "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear."
+  tags: []
+"Łk19,12":
+  text: "He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return."
+  tags: []
+"Łk19,13":
+  text: "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come."
+  tags: []
+"Łk19,14":
+  text: "But his citizens hated him, and sent a message after him, saying, We will not have this [man] to reign over us."
+  tags: []
+"Łk19,15":
+  text: "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading."
+  tags: []
+"Łk19,16":
+  text: "Then came the first, saying, Lord, thy pound hath gained ten pounds."
+  tags: []
+"Łk19,17":
+  text: "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities."
+  tags: []
+"Łk19,18":
+  text: "And the second came, saying, Lord, thy pound hath gained five pounds."
+  tags: []
+"Łk19,19":
+  text: "And he said likewise to him, Be thou also over five cities."
+  tags: []
+"Łk19,20":
+  text: "And another came, saying, Lord, behold, [here is] thy pound, which I have kept laid up in a napkin:"
+  tags: []
+"Łk19,21":
+  text: "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow."
+  tags: []
+"Łk19,22":
+  text: "And he saith unto him, Out of thine own mouth will I judge thee, [thou] wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:"
+  tags: []
+"Łk19,23":
+  text: "Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?"
+  tags: []
+"Łk19,24":
+  text: "And he said unto them that stood by, Take from him the pound, and give [it] to him that hath ten pounds."
+  tags: []
+"Łk19,25":
+  text: "(And they said unto him, Lord, he hath ten pounds.)"
+  tags: []
+"Łk19,26":
+  text: "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him."
+  tags: []
+"Łk19,27":
+  text: "But those mine enemies, which would not that I should reign over them, bring hither, and slay [them] before me."
+  tags: []
+"Łk19,28":
+  text: "And when he had thus spoken, he went before, ascending up to Jerusalem."
+  tags: []
+"Łk19,29":
+  text: "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called [the mount] of Olives, he sent two of his disciples,"
+  tags: []
+"Łk19,30":
+  text: "Saying, Go ye into the village over against [you]; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring [him hither]."
+  tags: []
+"Łk19,31":
+  text: "And if any man ask you, Why do ye loose [him]? thus shall ye say unto him, Because the Lord hath need of him."
+  tags: []
+"Łk19,32":
+  text: "And they that were sent went their way, and found even as he had said unto them."
+  tags: []
+"Łk19,33":
+  text: "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?"
+  tags: []
+"Łk19,34":
+  text: "And they said, The Lord hath need of him."
+  tags: []
+"Łk19,35":
+  text: "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon."
+  tags: []
+"Łk19,36":
+  text: "And as he went, they spread their clothes in the way."
+  tags: []
+"Łk19,37":
+  text: "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;"
+  tags: []
+"Łk19,38":
+  text: "Saying, Blessed [be] the King that cometh in the name of the Lord: peace in heaven, and glory in the highest."
+  tags: []
+"Łk19,39":
+  text: "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
+  tags: []
+"Łk19,40":
+  text: "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out."
+  tags: []
+"Łk19,41":
+  text: "And when he was come near, he beheld the city, and wept over it,"
+  tags: []
+"Łk19,42":
+  text: "Saying, If thou hadst known, even thou, at least in this thy day, the things [which belong] unto thy peace! but now they are hid from thine eyes."
+  tags: []
+"Łk19,43":
+  text: "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,"
+  tags: []
+"Łk19,44":
+  text: "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation."
+  tags: []
+"Łk19,45":
+  text: "And he went into the temple, and began to cast out them that sold therein, and them that bought;"
+  tags: []
+"Łk19,46":
+  text: "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves."
+  tags: []
+"Łk19,47":
+  text: "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,"
+  tags: []
+"Łk19,48":
+  text: "And could not find what they might do: for all the people were very attentive to hear him."
+  tags: []

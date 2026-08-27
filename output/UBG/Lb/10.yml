@@ -1,36 +1,108 @@
-"Lb10,1": "Potem PAN powiedział do Mojżesza:"
-"Lb10,2": "Zrób sobie dwie srebrne trąby. Wykonasz je robotą kutą, a będą ci służyć do zwoływania ludu i do nawoływania w drogę obozów."
-"Lb10,3": "A gdy w nie zadmą, wtedy cały lud zgromadzi się do ciebie, u wejścia do Namiotu Zgromadzenia."
-"Lb10,4": "A jeśli zadmą tylko w jedną trąbę, zejdą się do ciebie wodzowie, naczelnicy tysięcy Izraela."
-"Lb10,5": "Gdy zatrąbicie, wydając urwany dźwięk, wtedy wyruszą obozy rozłożone po stronie wschodniej."
-"Lb10,6": "A gdy drugi raz zatrąbicie, wydając urwany głos, wyruszą obozy rozłożone po stronie południowej. Będą trąbić, wydając urwany dźwięk, kiedy mają wyruszyć."
-"Lb10,7": "Ale gdy będziecie zwoływać lud, zatrąbicie bez wydawania urywanego dźwięku."
-"Lb10,8": "A synowie Aarona, kapłani, zadmą w trąby. Będzie to wieczysta ustawa dla was przez wszystkie wasze pokolenia."
-"Lb10,9": "A gdy w waszej ziemi wyruszycie na wojnę przeciw wrogowi, który was gnębi, zadmiecie w trąby urwanym dźwiękiem; a przypomnicie się PANU, waszemu Bogu, i zostaniecie wybawieni od waszych wrogów."
-"Lb10,10": "Także w dniu waszej radości, w wasze uroczyste święta oraz podczas waszych nowiów zadmiecie w trąby przy waszych ofiarach całopalnych i przy waszych ofiarach pojednawczych; będą one dla was pamiątką przed waszym Bogiem. Ja jestem PAN, wasz Bóg."
-"Lb10,11": "I w drugim roku, drugiego miesiąca, dwudziestego dnia tego miesiąca uniósł się obłok znad Przybytku Świadectwa."
-"Lb10,12": "I synowie Izraela wyruszyli z pustyni Synaj, a obłok zatrzymał się na pustyni Paran."
-"Lb10,13": "I po raz pierwszy wyruszyli tak, jak PAN rozkazał przez Mojżesza."
-"Lb10,14": "Pierwsza ruszyła chorągiew obozu synów Judy według swoich zastępów, a na czele jego wojska był Nachszon, syn Amminadaba."
-"Lb10,15": "Na czele wojska pokolenia synów Issachara był Netaneel, syn Suara."
-"Lb10,16": "Na czele wojska pokolenia synów Zebulona był Eliab, syn Chelona."
-"Lb10,17": "Potem złożono przybytek i wyruszyli synowie Gerszona i synowie Merariego, niosąc przybytek."
-"Lb10,18": "Następnie ruszyła chorągiew obozu Rubena według swoich zastępów, a na czele jego wojska był Elizur, syn Szedeura."
-"Lb10,19": "Na czele wojska pokolenia synów Symeona był Szelumiel, syn Suriszaddaja."
-"Lb10,20": "Na czele wojska pokolenia synów Gada był Eliasaf, syn Duela."
-"Lb10,21": "Następnie wyruszyli Kehatyci, niosąc świątynię. Zanim przyszli, inni ustawiali przybytek."
-"Lb10,22": "Potem ruszyła chorągiew obozu synów Efraima według swoich zastępów, a na czele jego wojska był Eliszama, syn Ammihuda."
-"Lb10,23": "Na czele wojsk pokolenia synów Manassesa był Gamliel, syn Pedahsura."
-"Lb10,24": "Na czele wojska pokolenia synów Beniamina był Abidan, syn Gideoniego."
-"Lb10,25": "Następnie ruszyła chorągiew obozu synów Dana, tworząc tylną straż wszystkich obozów, według swoich zastępów, a na czele jego wojska był Achiezer, syn Ammiszaddaja."
-"Lb10,26": "Na czele wojska pokolenia synów Aszera był Pagiel, syn Okrana."
-"Lb10,27": "Na czele wojska pokolenia synów Neftalego był Achira, syn Enana."
-"Lb10,28": "Taki był porządek marszu synów Izraela według ich zastępów i tak ruszali."
-"Lb10,29": "Potem Mojżesz powiedział do Chobaba, syna Reuela Midianity, swego teścia: Wyruszamy do miejsca, o którym PAN powiedział: Dam je wam. Chodź z nami, a wyświadczymy ci dobro, ponieważ PAN obiecał wiele dobrego Izraelowi."
-"Lb10,30": "Ten mu odpowiedział: Nie pójdę, lecz wrócę do mojej ziemi i do mojej rodziny."
-"Lb10,31": "Mojżesz powiedział: Proszę, nie opuszczaj nas, bo ty wiesz, gdzie na pustyni możemy rozbić obóz, i możesz być naszym przewodnikiem."
-"Lb10,32": "Jeśli pójdziesz z nami, wyświadczymy ci to dobro, które PAN nam uczyni."
-"Lb10,33": "I wyruszyli od góry PANA w drogę na trzy dni, a arka przymierza PANA szła przed nimi podczas tych trzech dni drogi, aby upatrzyć dla nich miejsce odpoczynku."
-"Lb10,34": "A obłok PANA był nad nimi za dnia, gdy wyruszali z obozu."
-"Lb10,35": "A gdy arka miała ruszyć, wtedy Mojżesz mówił: Powstań, PANIE, a niech rozproszą się twoi wrogowie i niech uciekają przed tobą ci, którzy cię nienawidzą."
-"Lb10,36": "Gdy zaś się zatrzymywała, wtedy mówił: Wróć, PANIE, do niezliczonych tysięcy Izraela."
+"Lb10,1":
+  text: "Potem PAN powiedział do Mojżesza:"
+  tags: []
+"Lb10,2":
+  text: "Zrób sobie dwie srebrne trąby. Wykonasz je robotą kutą, a będą ci służyć do zwoływania ludu i do nawoływania w drogę obozów."
+  tags: []
+"Lb10,3":
+  text: "A gdy w nie zadmą, wtedy cały lud zgromadzi się do ciebie, u wejścia do Namiotu Zgromadzenia."
+  tags: []
+"Lb10,4":
+  text: "A jeśli zadmą tylko w jedną trąbę, zejdą się do ciebie wodzowie, naczelnicy tysięcy Izraela."
+  tags: []
+"Lb10,5":
+  text: "Gdy zatrąbicie, wydając urwany dźwięk, wtedy wyruszą obozy rozłożone po stronie wschodniej."
+  tags: []
+"Lb10,6":
+  text: "A gdy drugi raz zatrąbicie, wydając urwany głos, wyruszą obozy rozłożone po stronie południowej. Będą trąbić, wydając urwany dźwięk, kiedy mają wyruszyć."
+  tags: []
+"Lb10,7":
+  text: "Ale gdy będziecie zwoływać lud, zatrąbicie bez wydawania urywanego dźwięku."
+  tags: []
+"Lb10,8":
+  text: "A synowie Aarona, kapłani, zadmą w trąby. Będzie to wieczysta ustawa dla was przez wszystkie wasze pokolenia."
+  tags: []
+"Lb10,9":
+  text: "A gdy w waszej ziemi wyruszycie na wojnę przeciw wrogowi, który was gnębi, zadmiecie w trąby urwanym dźwiękiem; a przypomnicie się PANU, waszemu Bogu, i zostaniecie wybawieni od waszych wrogów."
+  tags: []
+"Lb10,10":
+  text: "Także w dniu waszej radości, w wasze uroczyste święta oraz podczas waszych nowiów zadmiecie w trąby przy waszych ofiarach całopalnych i przy waszych ofiarach pojednawczych; będą one dla was pamiątką przed waszym Bogiem. Ja jestem PAN, wasz Bóg."
+  tags: []
+"Lb10,11":
+  text: "I w drugim roku, drugiego miesiąca, dwudziestego dnia tego miesiąca uniósł się obłok znad Przybytku Świadectwa."
+  tags: []
+"Lb10,12":
+  text: "I synowie Izraela wyruszyli z pustyni Synaj, a obłok zatrzymał się na pustyni Paran."
+  tags: []
+"Lb10,13":
+  text: "I po raz pierwszy wyruszyli tak, jak PAN rozkazał przez Mojżesza."
+  tags: []
+"Lb10,14":
+  text: "Pierwsza ruszyła chorągiew obozu synów Judy według swoich zastępów, a na czele jego wojska był Nachszon, syn Amminadaba."
+  tags: []
+"Lb10,15":
+  text: "Na czele wojska pokolenia synów Issachara był Netaneel, syn Suara."
+  tags: []
+"Lb10,16":
+  text: "Na czele wojska pokolenia synów Zebulona był Eliab, syn Chelona."
+  tags: []
+"Lb10,17":
+  text: "Potem złożono przybytek i wyruszyli synowie Gerszona i synowie Merariego, niosąc przybytek."
+  tags: []
+"Lb10,18":
+  text: "Następnie ruszyła chorągiew obozu Rubena według swoich zastępów, a na czele jego wojska był Elizur, syn Szedeura."
+  tags: []
+"Lb10,19":
+  text: "Na czele wojska pokolenia synów Symeona był Szelumiel, syn Suriszaddaja."
+  tags: []
+"Lb10,20":
+  text: "Na czele wojska pokolenia synów Gada był Eliasaf, syn Duela."
+  tags: []
+"Lb10,21":
+  text: "Następnie wyruszyli Kehatyci, niosąc świątynię. Zanim przyszli, inni ustawiali przybytek."
+  tags: []
+"Lb10,22":
+  text: "Potem ruszyła chorągiew obozu synów Efraima według swoich zastępów, a na czele jego wojska był Eliszama, syn Ammihuda."
+  tags: []
+"Lb10,23":
+  text: "Na czele wojsk pokolenia synów Manassesa był Gamliel, syn Pedahsura."
+  tags: []
+"Lb10,24":
+  text: "Na czele wojska pokolenia synów Beniamina był Abidan, syn Gideoniego."
+  tags: []
+"Lb10,25":
+  text: "Następnie ruszyła chorągiew obozu synów Dana, tworząc tylną straż wszystkich obozów, według swoich zastępów, a na czele jego wojska był Achiezer, syn Ammiszaddaja."
+  tags: []
+"Lb10,26":
+  text: "Na czele wojska pokolenia synów Aszera był Pagiel, syn Okrana."
+  tags: []
+"Lb10,27":
+  text: "Na czele wojska pokolenia synów Neftalego był Achira, syn Enana."
+  tags: []
+"Lb10,28":
+  text: "Taki był porządek marszu synów Izraela według ich zastępów i tak ruszali."
+  tags: []
+"Lb10,29":
+  text: "Potem Mojżesz powiedział do Chobaba, syna Reuela Midianity, swego teścia: Wyruszamy do miejsca, o którym PAN powiedział: Dam je wam. Chodź z nami, a wyświadczymy ci dobro, ponieważ PAN obiecał wiele dobrego Izraelowi."
+  tags: []
+"Lb10,30":
+  text: "Ten mu odpowiedział: Nie pójdę, lecz wrócę do mojej ziemi i do mojej rodziny."
+  tags: []
+"Lb10,31":
+  text: "Mojżesz powiedział: Proszę, nie opuszczaj nas, bo ty wiesz, gdzie na pustyni możemy rozbić obóz, i możesz być naszym przewodnikiem."
+  tags: []
+"Lb10,32":
+  text: "Jeśli pójdziesz z nami, wyświadczymy ci to dobro, które PAN nam uczyni."
+  tags: []
+"Lb10,33":
+  text: "I wyruszyli od góry PANA w drogę na trzy dni, a arka przymierza PANA szła przed nimi podczas tych trzech dni drogi, aby upatrzyć dla nich miejsce odpoczynku."
+  tags: []
+"Lb10,34":
+  text: "A obłok PANA był nad nimi za dnia, gdy wyruszali z obozu."
+  tags: []
+"Lb10,35":
+  text: "A gdy arka miała ruszyć, wtedy Mojżesz mówił: Powstań, PANIE, a niech rozproszą się twoi wrogowie i niech uciekają przed tobą ci, którzy cię nienawidzą."
+  tags: []
+"Lb10,36":
+  text: "Gdy zaś się zatrzymywała, wtedy mówił: Wróć, PANIE, do niezliczonych tysięcy Izraela."
+  tags: []

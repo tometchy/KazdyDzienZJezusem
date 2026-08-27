@@ -51,7 +51,7 @@
                        asp-route-translation="@item.Translation.Code"
                        asp-route-book="@Model.Book.Abbreviation"
                        asp-route-chapter="@Model.Chapter"
-                       asp-fragment="@($"w{Model.Verse}")"
+                       asp-fragment="@Model.Verse"
                        up-follow>Otwórz rozdział</a>
                 }
             </div>
@@ -75,5 +75,5 @@
    asp-route-translation="@navigationTranslation.Code"
    asp-route-book="@Model.Book.Abbreviation"
    asp-route-chapter="@Model.Chapter"
-   asp-fragment="@($"w{Model.Verse}")"
+   asp-fragment="@Model.Verse"
    up-follow>← Wróć do rozdziału</a>

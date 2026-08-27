@@ -1,24 +1,72 @@
-"Hi37,1": "Właśnie z tego powodu drży moje serce i wyrywa się ze swojego miejsca."
-"Hi37,2": "Słuchajcie uważnie w Jego wzburzeniu Jego głosu i pomruku, który wychodzi z Jego ust."
-"Hi37,3": "Wypuszcza go wszędzie pod niebiosami, a Jego błyskawica – dociera na krańce ziemi."
-"Hi37,4": "Po niej huczy głos, grzmi z głosem Jego majestatu i nic ich nie powstrzyma, gdy słychać Jego głos."
-"Hi37,5": "Bóg grzmi w swoim głosie, czyni cuda, wielkie rzeczy, których nie rozumiemy."
-"Hi37,6": "Bo mówi do śniegu: Padaj na ziemię! I do ulewnego deszczu, i – Jego potęgi – ulewnych deszczów."
-"Hi37,7": "Pieczętuje rękę każdego człowieka, by wszyscy ludzie poznali Jego dzieło."
-"Hi37,8": "I zwierzęta także wchodzą do jaskini i pozostają w swoich jamach."
-"Hi37,9": "Z Jego komnaty wychodzi wicher, a od wiatrów północnych – mróz."
-"Hi37,10": "Od tchnienia Boga powstaje lód i szerokie wody w swym zamarznięciu."
-"Hi37,11": "Także wilgocią nawilża chmurę, rozpędza obłok swoją błyskawicą."
-"Hi37,12": "I ona krąży wokół według Jego zamysłu, aby czynić wszystko to, co im rozkaże na obliczu okręgu ziemi."
-"Hi37,13": "Czy to jako rózga, czy dla swojej ziemi, czy dla okazywania miłosierdzia."
-"Hi37,14": "Nakłoń ku temu ucha, Hiobie, zatrzymaj się i rozważ cudowne dzieła Boga."
-"Hi37,15": "Czy wiesz, jak Bóg panuje nad nimi i jak rozjaśnia błyskawicą swoje chmury?"
-"Hi37,16": "Czy wiesz, na czym zawieszone są chmury – cuda Doskonałego w swojej wiedzy?"
-"Hi37,17": "Ty, którego szaty są gorące, gdy ziemia cichnie od wiatru południa?"
-"Hi37,18": "Czy możesz rozciągnąć z Nim niebiosa, które są trwałe jak odlane zwierciadło z metalu?"
-"Hi37,19": "Poucz nas, co mamy Mu powiedzieć, bo nie możemy ułożyć słów z powodu ciemności."
-"Hi37,20": "Czy trzeba powiedzieć Mu, że chcę mówić? Czy może ktoś powiedzieć, żeby został pochłonięty?"
-"Hi37,21": "Teraz jednak nie widzi się światła, jasne jest ono na niebiosach, lecz przychodzi wiatr i rozprasza je."
-"Hi37,22": "Z północy przychodzi złoty blask, Boga otacza wzbudzający strach majestat."
-"Hi37,23": "Wszechmogący – nie możemy Go doścignąć. Potężny siłą i prawością, a wielki sprawiedliwością, nie uciska nikogo."
-"Hi37,24": "Stąd też boją się Go ludzie. On nie zważa na wszystkich mądrych w swoim własnym sercu."
+"Hi37,1":
+  text: "Właśnie z tego powodu drży moje serce i wyrywa się ze swojego miejsca."
+  tags: []
+"Hi37,2":
+  text: "Słuchajcie uważnie w Jego wzburzeniu Jego głosu i pomruku, który wychodzi z Jego ust."
+  tags: []
+"Hi37,3":
+  text: "Wypuszcza go wszędzie pod niebiosami, a Jego błyskawica – dociera na krańce ziemi."
+  tags: []
+"Hi37,4":
+  text: "Po niej huczy głos, grzmi z głosem Jego majestatu i nic ich nie powstrzyma, gdy słychać Jego głos."
+  tags: []
+"Hi37,5":
+  text: "Bóg grzmi w swoim głosie, czyni cuda, wielkie rzeczy, których nie rozumiemy."
+  tags: []
+"Hi37,6":
+  text: "Bo mówi do śniegu: Padaj na ziemię! I do ulewnego deszczu, i – Jego potęgi – ulewnych deszczów."
+  tags: []
+"Hi37,7":
+  text: "Pieczętuje rękę każdego człowieka, by wszyscy ludzie poznali Jego dzieło."
+  tags: []
+"Hi37,8":
+  text: "I zwierzęta także wchodzą do jaskini i pozostają w swoich jamach."
+  tags: []
+"Hi37,9":
+  text: "Z Jego komnaty wychodzi wicher, a od wiatrów północnych – mróz."
+  tags: []
+"Hi37,10":
+  text: "Od tchnienia Boga powstaje lód i szerokie wody w swym zamarznięciu."
+  tags: []
+"Hi37,11":
+  text: "Także wilgocią nawilża chmurę, rozpędza obłok swoją błyskawicą."
+  tags: []
+"Hi37,12":
+  text: "I ona krąży wokół według Jego zamysłu, aby czynić wszystko to, co im rozkaże na obliczu okręgu ziemi."
+  tags: []
+"Hi37,13":
+  text: "Czy to jako rózga, czy dla swojej ziemi, czy dla okazywania miłosierdzia."
+  tags: []
+"Hi37,14":
+  text: "Nakłoń ku temu ucha, Hiobie, zatrzymaj się i rozważ cudowne dzieła Boga."
+  tags: []
+"Hi37,15":
+  text: "Czy wiesz, jak Bóg panuje nad nimi i jak rozjaśnia błyskawicą swoje chmury?"
+  tags: []
+"Hi37,16":
+  text: "Czy wiesz, na czym zawieszone są chmury – cuda Doskonałego w swojej wiedzy?"
+  tags: []
+"Hi37,17":
+  text: "Ty, którego szaty są gorące, gdy ziemia cichnie od wiatru południa?"
+  tags: []
+"Hi37,18":
+  text: "Czy możesz rozciągnąć z Nim niebiosa, które są trwałe jak odlane zwierciadło z metalu?"
+  tags: []
+"Hi37,19":
+  text: "Poucz nas, co mamy Mu powiedzieć, bo nie możemy ułożyć słów z powodu ciemności."
+  tags: []
+"Hi37,20":
+  text: "Czy trzeba powiedzieć Mu, że chcę mówić? Czy może ktoś powiedzieć, żeby został pochłonięty?"
+  tags: []
+"Hi37,21":
+  text: "Teraz jednak nie widzi się światła, jasne jest ono na niebiosach, lecz przychodzi wiatr i rozprasza je."
+  tags: []
+"Hi37,22":
+  text: "Z północy przychodzi złoty blask, Boga otacza wzbudzający strach majestat."
+  tags: []
+"Hi37,23":
+  text: "Wszechmogący – nie możemy Go doścignąć. Potężny siłą i prawością, a wielki sprawiedliwością, nie uciska nikogo."
+  tags: []
+"Hi37,24":
+  text: "Stąd też boją się Go ludzie. On nie zważa na wszystkich mądrych w swoim własnym sercu."
+  tags: []

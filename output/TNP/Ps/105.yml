@@ -1,45 +1,135 @@
-"Ps105,1": "Wysławiajcie JHWH, wzywajcie Jego imienia, oznajmiajcie Jego dzieła wśród narodów!"
-"Ps105,2": "Śpiewajcie Mu, grajcie Mu, rozmyślajcie o wszystkich Jego cudownych dziełach."
-"Ps105,3": "Chlubcie się Jego świętym imieniem, niech się raduje serce szukających JHWH."
-"Ps105,4": "Szukajcie JHWH i Jego potęgi, szukajcie nieprzerwanie Jego oblicza."
-"Ps105,5": "Przypominajcie sobie dzieła, które czynił; Jego cuda i orzeczenia Jego ust."
-"Ps105,6": "Wy, potomkowie Abrahama, Jego sługi; wy, synowie Jakuba, Jego wybrani!"
-"Ps105,7": "On jest JHWH, naszym Bogiem, Jego orzeczenia po całej ziemi."
-"Ps105,8": "Pamięta zawsze o swoim przymierzu; o słowie, które powierzył tysiącznemu pokoleniu;"
-"Ps105,9": "Które zawarł z Abrahamem, i o przysiędze Jego dla Izaaka."
-"Ps105,10": "I ustanowił je jako prawo dla Jakuba, dla Izraela jako wieczne przymierze;"
-"Ps105,11": "Mówiąc: Tobie dam ziemię Kanaan jako dział waszego dziedzictwa;"
-"Ps105,12": "Kiedy byli ludem w niewielkiej liczbie, i tymczasowo w niej przebywali."
-"Ps105,13": "I wędrowali od narodu do narodu, z jednego królestwa do kolejnego ludu;"
-"Ps105,14": "I nie zezwolił człowiekowi aby ich krzywdził, nawet karcił królów z ich powodu, mówiąc:"
-"Ps105,15": "Nie dotykajcie moich pomazańców, a moim prorokom nie wyrządzajcie zła."
-"Ps105,16": "Przywołał też głód na ziemię i zniszczył wszelką podporę jaką daje chleb."
-"Ps105,17": "Posłał przed nimi męża, Józefa, który został sprzedany jako niewolnik;"
-"Ps105,18": "Udręczyli kajdanami jego nogę, a w żelazo włożono jego szyję;"
-"Ps105,19": "Aż do czasu, gdy przyszło Jego słowo, wypowiedź JHWH, go doświadczała."
-"Ps105,20": "Król posłał i go uwolniono, władca narodu wypuścił go."
-"Ps105,21": "Ustanowił go panem swojego domu i władcą całego swojego mienia;"
-"Ps105,22": "Aby rządził jego książętami zgodnie ze swą wolą, a jego starszych nauczał mądrości."
-"Ps105,23": "I Izrael wszedł do Egiptu, a Jakub zamieszkiwał w ziemi Chama;"
-"Ps105,24": "I uczynił bardzo płodnym swój lud i potężniejszym od jego wrogów."
-"Ps105,25": "Odmienił ich serce, by znienawidzili Jego lud i postępowali przebiegle wobec Jego sług."
-"Ps105,26": "I posłał Mojżesza, swojego sługę, i Aarona, którego wybrał;"
-"Ps105,27": "I spełniali pośród nich słowa ze znakami Jego i cudami w ziemi Chama."
-"Ps105,28": "Posłał ciemność i sprawił, że nastał mrok, i nie buntowali się przeciw Jego słowu."
-"Ps105,29": "Zamienił ich wody w krew i pozabijał ich ryby."
-"Ps105,30": "Ich ziemia zaroiła się od żab, były nawet w komnatach ich królów."
-"Ps105,31": "Nakazał i nadciągnął rój owadów i komarów na całe ich terytorium."
-"Ps105,32": "Zesłał im deszcz z gradem, płomienie ognia na ich ziemię."
-"Ps105,33": "Kazał uderzyć ich winnice i ich figowce; połamał drzewa na ich terytorium."
-"Ps105,34": "Nakazał i nadciągnęła szarańcza, niezliczone mnóstwo gąsienic;"
-"Ps105,35": "I te pożarły całą zieleń w ich ziemi, i zjadły plon ich pól."
-"Ps105,36": "Kazał uderzyć każdego pierworodnego w ich ziemi, pierwociny wszelkiej ich siły."
-"Ps105,37": "Wyprowadził ich ze srebrem i złotem i nie było potykającego się w ich plemionach."
-"Ps105,38": "Egipt się radował, gdy wychodzili, bo z ich powodu padł na nich strach."
-"Ps105,39": "Rozpostarł obłok dla osłony i ogień, by dawał światło w nocy."
-"Ps105,40": "Prosił – a On sprawił, że zostały przyprowadzone przepiórki i nasycił ich chlebem z niebios."
-"Ps105,41": "Otworzył skałę i trysnęły wody, popłynęły rzeką po pustyni."
-"Ps105,42": "Pamiętał bowiem o swoim świętym Słowie i o Abrahamie, swoim słudze."
-"Ps105,43": "Wyprowadził swój lud z weselem, swoich wybranych wśród okrzyków radości."
-"Ps105,44": "I dał im ziemię narodów, i objęli w posiadanie dorobek ludów;"
-"Ps105,45": "Aby zachowywali Jego nakazy i przestrzegali Jego praw. Chwalcie JH[WH]."
+"Ps105,1":
+  text: "Wysławiajcie JHWH, wzywajcie Jego imienia, oznajmiajcie Jego dzieła wśród narodów!"
+  tags: []
+"Ps105,2":
+  text: "Śpiewajcie Mu, grajcie Mu, rozmyślajcie o wszystkich Jego cudownych dziełach."
+  tags: []
+"Ps105,3":
+  text: "Chlubcie się Jego świętym imieniem, niech się raduje serce szukających JHWH."
+  tags: []
+"Ps105,4":
+  text: "Szukajcie JHWH i Jego potęgi, szukajcie nieprzerwanie Jego oblicza."
+  tags: []
+"Ps105,5":
+  text: "Przypominajcie sobie dzieła, które czynił; Jego cuda i orzeczenia Jego ust."
+  tags: []
+"Ps105,6":
+  text: "Wy, potomkowie Abrahama, Jego sługi; wy, synowie Jakuba, Jego wybrani!"
+  tags: []
+"Ps105,7":
+  text: "On jest JHWH, naszym Bogiem, Jego orzeczenia po całej ziemi."
+  tags: []
+"Ps105,8":
+  text: "Pamięta zawsze o swoim przymierzu; o słowie, które powierzył tysiącznemu pokoleniu;"
+  tags: []
+"Ps105,9":
+  text: "Które zawarł z Abrahamem, i o przysiędze Jego dla Izaaka."
+  tags: []
+"Ps105,10":
+  text: "I ustanowił je jako prawo dla Jakuba, dla Izraela jako wieczne przymierze;"
+  tags: []
+"Ps105,11":
+  text: "Mówiąc: Tobie dam ziemię Kanaan jako dział waszego dziedzictwa;"
+  tags: []
+"Ps105,12":
+  text: "Kiedy byli ludem w niewielkiej liczbie, i tymczasowo w niej przebywali."
+  tags: []
+"Ps105,13":
+  text: "I wędrowali od narodu do narodu, z jednego królestwa do kolejnego ludu;"
+  tags: []
+"Ps105,14":
+  text: "I nie zezwolił człowiekowi aby ich krzywdził, nawet karcił królów z ich powodu, mówiąc:"
+  tags: []
+"Ps105,15":
+  text: "Nie dotykajcie moich pomazańców, a moim prorokom nie wyrządzajcie zła."
+  tags: []
+"Ps105,16":
+  text: "Przywołał też głód na ziemię i zniszczył wszelką podporę jaką daje chleb."
+  tags: []
+"Ps105,17":
+  text: "Posłał przed nimi męża, Józefa, który został sprzedany jako niewolnik;"
+  tags: []
+"Ps105,18":
+  text: "Udręczyli kajdanami jego nogę, a w żelazo włożono jego szyję;"
+  tags: []
+"Ps105,19":
+  text: "Aż do czasu, gdy przyszło Jego słowo, wypowiedź JHWH, go doświadczała."
+  tags: []
+"Ps105,20":
+  text: "Król posłał i go uwolniono, władca narodu wypuścił go."
+  tags: []
+"Ps105,21":
+  text: "Ustanowił go panem swojego domu i władcą całego swojego mienia;"
+  tags: []
+"Ps105,22":
+  text: "Aby rządził jego książętami zgodnie ze swą wolą, a jego starszych nauczał mądrości."
+  tags: []
+"Ps105,23":
+  text: "I Izrael wszedł do Egiptu, a Jakub zamieszkiwał w ziemi Chama;"
+  tags: []
+"Ps105,24":
+  text: "I uczynił bardzo płodnym swój lud i potężniejszym od jego wrogów."
+  tags: []
+"Ps105,25":
+  text: "Odmienił ich serce, by znienawidzili Jego lud i postępowali przebiegle wobec Jego sług."
+  tags: []
+"Ps105,26":
+  text: "I posłał Mojżesza, swojego sługę, i Aarona, którego wybrał;"
+  tags: []
+"Ps105,27":
+  text: "I spełniali pośród nich słowa ze znakami Jego i cudami w ziemi Chama."
+  tags: []
+"Ps105,28":
+  text: "Posłał ciemność i sprawił, że nastał mrok, i nie buntowali się przeciw Jego słowu."
+  tags: []
+"Ps105,29":
+  text: "Zamienił ich wody w krew i pozabijał ich ryby."
+  tags: []
+"Ps105,30":
+  text: "Ich ziemia zaroiła się od żab, były nawet w komnatach ich królów."
+  tags: []
+"Ps105,31":
+  text: "Nakazał i nadciągnął rój owadów i komarów na całe ich terytorium."
+  tags: []
+"Ps105,32":
+  text: "Zesłał im deszcz z gradem, płomienie ognia na ich ziemię."
+  tags: []
+"Ps105,33":
+  text: "Kazał uderzyć ich winnice i ich figowce; połamał drzewa na ich terytorium."
+  tags: []
+"Ps105,34":
+  text: "Nakazał i nadciągnęła szarańcza, niezliczone mnóstwo gąsienic;"
+  tags: []
+"Ps105,35":
+  text: "I te pożarły całą zieleń w ich ziemi, i zjadły plon ich pól."
+  tags: []
+"Ps105,36":
+  text: "Kazał uderzyć każdego pierworodnego w ich ziemi, pierwociny wszelkiej ich siły."
+  tags: []
+"Ps105,37":
+  text: "Wyprowadził ich ze srebrem i złotem i nie było potykającego się w ich plemionach."
+  tags: []
+"Ps105,38":
+  text: "Egipt się radował, gdy wychodzili, bo z ich powodu padł na nich strach."
+  tags: []
+"Ps105,39":
+  text: "Rozpostarł obłok dla osłony i ogień, by dawał światło w nocy."
+  tags: []
+"Ps105,40":
+  text: "Prosił – a On sprawił, że zostały przyprowadzone przepiórki i nasycił ich chlebem z niebios."
+  tags: []
+"Ps105,41":
+  text: "Otworzył skałę i trysnęły wody, popłynęły rzeką po pustyni."
+  tags: []
+"Ps105,42":
+  text: "Pamiętał bowiem o swoim świętym Słowie i o Abrahamie, swoim słudze."
+  tags: []
+"Ps105,43":
+  text: "Wyprowadził swój lud z weselem, swoich wybranych wśród okrzyków radości."
+  tags: []
+"Ps105,44":
+  text: "I dał im ziemię narodów, i objęli w posiadanie dorobek ludów;"
+  tags: []
+"Ps105,45":
+  text: "Aby zachowywali Jego nakazy i przestrzegali Jego praw. Chwalcie JH[WH]."
+  tags: []

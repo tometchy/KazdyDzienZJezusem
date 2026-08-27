@@ -1,34 +1,102 @@
-"1Krn27,1": "A oto synowie Izraela według ich liczby: naczelnicy rodów, tysiącznicy, setnicy i urzędnicy, którzy służyli królowi we wszelkiej sprawie związanej z oddziałami przychodzącymi i odchodzącymi co miesiąc, przez wszystkie miesiące w roku. Każdy oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,2": "Nad oddziałem w miesiącu pierwszym stał Jaszobeam, syn Zabdiela, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,3": "On pochodził z synów Peresa, a był wodzem wszystkich dowódców wojska w miesiącu pierwszym."
-"1Krn27,4": "Nad oddziałem w miesiącu drugim stał Dodaj, Achochita. Po nim dowódcą był Miklot, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,5": "Trzecim dowódcą wojska, na miesiąc trzeci, był Benajasz, syn Jehojady, naczelnego kapłana, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,6": "Ten to Benajasz był waleczny wśród trzydziestu i dowodził trzydziestoma, a jego syn Ammizabad należał do jego oddziału."
-"1Krn27,7": "Czwartym dowódcą, na miesiąc czwarty, był Asahel, brat Joaba, a po nim jego syn Zebadiasz – jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,8": "Piątym dowódcą, na piąty miesiąc, był Szamhut Jizrachita, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,9": "Szóstym, na miesiąc szósty, był Ira, syn Ikkesza Tekoitczyka, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,10": "Siódmym, na miesiąc siódmy, był Cheles Pelonita, z synów Efraima, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,11": "Ósmym, na miesiąc ósmy, był Sibbekaj Chuszatyta, z Zerachitów, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,12": "Dziewiątym, na miesiąc dziewiąty, był Abiezer Anatotczyk, z synów Beniamina, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,13": "Dziesiątym, na miesiąc dziesiąty, był Maharaj Netofatyta, z Zerachitów, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,14": "Jedenastym, na miesiąc jedenasty, był Benajasz Piratończyk, z synów Efraima, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,15": "Dwunastym, na miesiąc dwunasty, był Cheldaj Netofatyta, z Otniela, a jego oddział liczył dwadzieścia cztery tysiące."
-"1Krn27,16": "Ponadto nad pokoleniami Izraela postawieni byli: nad Rubenitami przełożonym był Eliezer, syn Zikriego; nad Symeonitami – Szefatiasz, syn Maaki;"
-"1Krn27,17": "Nad Lewitami – Chaszabiasz, syn Kemuela, nad Aaronitami – Sadok;"
-"1Krn27,18": "Nad Judą – Elihu, jeden z braci Dawida, nad Issacharytami – Omri, syn Mikaela;"
-"1Krn27,19": "Nad Zebulonitami – Jiszmajasz, syn Obadiasza, nad Neftalitami – Jerimot, syn Azriela;"
-"1Krn27,20": "Nad synami Efraima – Ozeasz, syn Azazjasza, nad połową pokolenia Manassesa – Joel, syn Pedajasza;"
-"1Krn27,21": "Nad drugą połową pokolenia Manassesa w Gileadzie – Iddo, syn Zachariasza, nad Beniaminitami – Jaasiel, syn Abnera."
-"1Krn27,22": "Nad Danitami – Azareel, syn Jerochama. Ci byli książętami pokoleń Izraela."
-"1Krn27,23": "Dawid nie włączył jednak do spisu nikogo, kto miał dwadzieścia lat lub mniej. PAN powiedział bowiem, że rozmnoży Izraela jak gwiazdy na niebie."
-"1Krn27,24": "Joab, syn Serui, zaczął ich liczyć, ale nie dokończył, gdyż za to spadł gniew na Izraela. Nie włączono więc tej liczby do spisu w kronikach króla Dawida."
-"1Krn27,25": "Nad skarbcami króla postawiony był Azmawet, syn Adiela; nad dochodami z pól, miast, wsi i zamków – Jonatan, syn Uzjasza;"
-"1Krn27,26": "Nad rolnikami, którzy uprawiali ziemię, stał Ezri, syn Keluba."
-"1Krn27,27": "Nad winnicami – Szimei Ramatczyk; nad plonami winnic w piwnicach – Zabdi Szifmita."
-"1Krn27,28": "Nad drzewami oliwnymi i sykomorami, które rosły na równinach, postawiony był Baalchanan Gederczyk, a nad składami oliwy – Joasz."
-"1Krn27,29": "Nad bydłem pasącym się w Szaronie – Szitraj Szarończyk, nad bydłem zaś w dolinach – Szafat, syn Adlaja."
-"1Krn27,30": "Nad wielbłądami – Obil Izmaelita, nad oślicami – Jechdejasz Meronotyta."
-"1Krn27,31": "I nad owcami – Jaziz Hagryta. Ci wszyscy byli zarządcami dobytku króla Dawida."
-"1Krn27,32": "Jonatan, stryj Dawida, był doradcą, człowiekiem mądrym i uczonym. Jechiel, syn Chakmoniego, był z synami króla."
-"1Krn27,33": "Achitofel też był doradcą króla, a Chuszaj Arkita – przyjacielem króla."
-"1Krn27,34": "Po Achitofelu był Jehojada, syn Benajasza, i Abiatar. Joab zaś był dowódcą wojska króla."
+"1Krn27,1":
+  text: "A oto synowie Izraela według ich liczby: naczelnicy rodów, tysiącznicy, setnicy i urzędnicy, którzy służyli królowi we wszelkiej sprawie związanej z oddziałami przychodzącymi i odchodzącymi co miesiąc, przez wszystkie miesiące w roku. Każdy oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,2":
+  text: "Nad oddziałem w miesiącu pierwszym stał Jaszobeam, syn Zabdiela, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,3":
+  text: "On pochodził z synów Peresa, a był wodzem wszystkich dowódców wojska w miesiącu pierwszym."
+  tags: []
+"1Krn27,4":
+  text: "Nad oddziałem w miesiącu drugim stał Dodaj, Achochita. Po nim dowódcą był Miklot, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,5":
+  text: "Trzecim dowódcą wojska, na miesiąc trzeci, był Benajasz, syn Jehojady, naczelnego kapłana, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,6":
+  text: "Ten to Benajasz był waleczny wśród trzydziestu i dowodził trzydziestoma, a jego syn Ammizabad należał do jego oddziału."
+  tags: []
+"1Krn27,7":
+  text: "Czwartym dowódcą, na miesiąc czwarty, był Asahel, brat Joaba, a po nim jego syn Zebadiasz – jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,8":
+  text: "Piątym dowódcą, na piąty miesiąc, był Szamhut Jizrachita, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,9":
+  text: "Szóstym, na miesiąc szósty, był Ira, syn Ikkesza Tekoitczyka, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,10":
+  text: "Siódmym, na miesiąc siódmy, był Cheles Pelonita, z synów Efraima, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,11":
+  text: "Ósmym, na miesiąc ósmy, był Sibbekaj Chuszatyta, z Zerachitów, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,12":
+  text: "Dziewiątym, na miesiąc dziewiąty, był Abiezer Anatotczyk, z synów Beniamina, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,13":
+  text: "Dziesiątym, na miesiąc dziesiąty, był Maharaj Netofatyta, z Zerachitów, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,14":
+  text: "Jedenastym, na miesiąc jedenasty, był Benajasz Piratończyk, z synów Efraima, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,15":
+  text: "Dwunastym, na miesiąc dwunasty, był Cheldaj Netofatyta, z Otniela, a jego oddział liczył dwadzieścia cztery tysiące."
+  tags: []
+"1Krn27,16":
+  text: "Ponadto nad pokoleniami Izraela postawieni byli: nad Rubenitami przełożonym był Eliezer, syn Zikriego; nad Symeonitami – Szefatiasz, syn Maaki;"
+  tags: []
+"1Krn27,17":
+  text: "Nad Lewitami – Chaszabiasz, syn Kemuela, nad Aaronitami – Sadok;"
+  tags: []
+"1Krn27,18":
+  text: "Nad Judą – Elihu, jeden z braci Dawida, nad Issacharytami – Omri, syn Mikaela;"
+  tags: []
+"1Krn27,19":
+  text: "Nad Zebulonitami – Jiszmajasz, syn Obadiasza, nad Neftalitami – Jerimot, syn Azriela;"
+  tags: []
+"1Krn27,20":
+  text: "Nad synami Efraima – Ozeasz, syn Azazjasza, nad połową pokolenia Manassesa – Joel, syn Pedajasza;"
+  tags: []
+"1Krn27,21":
+  text: "Nad drugą połową pokolenia Manassesa w Gileadzie – Iddo, syn Zachariasza, nad Beniaminitami – Jaasiel, syn Abnera."
+  tags: []
+"1Krn27,22":
+  text: "Nad Danitami – Azareel, syn Jerochama. Ci byli książętami pokoleń Izraela."
+  tags: []
+"1Krn27,23":
+  text: "Dawid nie włączył jednak do spisu nikogo, kto miał dwadzieścia lat lub mniej. PAN powiedział bowiem, że rozmnoży Izraela jak gwiazdy na niebie."
+  tags: []
+"1Krn27,24":
+  text: "Joab, syn Serui, zaczął ich liczyć, ale nie dokończył, gdyż za to spadł gniew na Izraela. Nie włączono więc tej liczby do spisu w kronikach króla Dawida."
+  tags: []
+"1Krn27,25":
+  text: "Nad skarbcami króla postawiony był Azmawet, syn Adiela; nad dochodami z pól, miast, wsi i zamków – Jonatan, syn Uzjasza;"
+  tags: []
+"1Krn27,26":
+  text: "Nad rolnikami, którzy uprawiali ziemię, stał Ezri, syn Keluba."
+  tags: []
+"1Krn27,27":
+  text: "Nad winnicami – Szimei Ramatczyk; nad plonami winnic w piwnicach – Zabdi Szifmita."
+  tags: []
+"1Krn27,28":
+  text: "Nad drzewami oliwnymi i sykomorami, które rosły na równinach, postawiony był Baalchanan Gederczyk, a nad składami oliwy – Joasz."
+  tags: []
+"1Krn27,29":
+  text: "Nad bydłem pasącym się w Szaronie – Szitraj Szarończyk, nad bydłem zaś w dolinach – Szafat, syn Adlaja."
+  tags: []
+"1Krn27,30":
+  text: "Nad wielbłądami – Obil Izmaelita, nad oślicami – Jechdejasz Meronotyta."
+  tags: []
+"1Krn27,31":
+  text: "I nad owcami – Jaziz Hagryta. Ci wszyscy byli zarządcami dobytku króla Dawida."
+  tags: []
+"1Krn27,32":
+  text: "Jonatan, stryj Dawida, był doradcą, człowiekiem mądrym i uczonym. Jechiel, syn Chakmoniego, był z synami króla."
+  tags: []
+"1Krn27,33":
+  text: "Achitofel też był doradcą króla, a Chuszaj Arkita – przyjacielem króla."
+  tags: []
+"1Krn27,34":
+  text: "Po Achitofelu był Jehojada, syn Benajasza, i Abiatar. Joab zaś był dowódcą wojska króla."
+  tags: []

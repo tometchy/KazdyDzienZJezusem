@@ -1,14 +1,42 @@
-"Est5,1": "I stało się trzeciego dnia, że Estera ubrała się w szaty królowej i stanęła na dziedzińcu wewnętrznym pałacu króla, naprzeciw pałacu króla. A król siedział na swoim królewskim tronie w pałacu króla naprzeciw wejścia do pałacu."
-"Est5,2": "I stało się, że gdy tylko król zobaczył królową Esterę stojącą na dziedzińcu, zyskała ona łaskę w jego oczach i król wyciągnął do Estery złote berło, które trzymał w ręku. Estera więc zbliżyła się i dotknęła głowni berła."
-"Est5,3": "A król powiedział do niej: Co ci jest, królowo Estero? Jaka jest twoja prośba? Aż do połowy królestwa zostanie ci dane."
-"Est5,4": "I Estera odpowiedziała: Jeśli to się królowi podoba, to niech przyjdzie król i Haman dzisiaj na ucztę, którą dla niego przygotowałam."
-"Est5,5": "A król powiedział: Ponaglijcie Hamana, aby uczynił zadość słowu Estery. I przyszedł król i Haman na ucztę, którą przygotowała Estera."
-"Est5,6": "Potem król, gdy napił się wina, powiedział do Estery: Jaka jest twoja prośba, a zostanie ci dane, i jakie jest twoje życzenie – aż do połowy królestwa zostanie ono spełnione."
-"Est5,7": "I odpowiedziała Estera, i rzekła: Oto moja prośba i moje życzenie:"
-"Est5,8": "Jeśli znalazłam łaskę w oczach króla i jeśli królowi się podoba, aby dać posłuch mojej prośbie i wykonać moje życzenie, to niech przyjdzie król i Haman jeszcze jutro na ucztę, którą im przygotuję, a jutro uczynię według słowa króla."
-"Est5,9": "I wyszedł Haman tego dnia wesoły i dobrej myśli. Ale gdy Haman zobaczył Mordocheusza w Bramie Królewskiej, że ani nie powstał, ani nie zadrżał przed nim, wezbrał w nim gniew na Mordocheusza."
-"Est5,10": "Ale Haman opanował się, a gdy przyszedł do swojego domu, posłał i sprowadził do siebie swoich przyjaciół i Zeresz, swoją żonę."
-"Est5,11": "I przedstawiał im Haman wspaniałość swojego bogactwa, wielką liczbę swoich synów i wszystko, przez co król uczynił go wielkim, i przez co wywyższył go ponad innych książąt i sług króla."
-"Est5,12": "Ponadto Haman powiedział: Tak, nie sprowadziła królowa Estera na ucztę z królem, którą przygotowała nikogo jak tylko mnie, a jeszcze ja na jutro zostałem do niej zaproszony wraz z królem."
-"Est5,13": "Ale to wszystko nie jest wystarczające dla mnie, gdy przez cały czas ja widzę Żyda Mordocheusza siedzącego w Bramie Królewskiej."
-"Est5,14": "Wtedy jego żona Zeresz i wszyscy jego przyjaciele powiedzieli mu: Niech sporządzą słup wysoki na pięćdziesiąt łokci, a rano powiedz królowi, aby powieszono na nim Mordocheusza. Potem idź radosny z królem na ucztę. A rzecz ta wydała się dobra przed obliczem Hamana i sporządził słup."
+"Est5,1":
+  text: "I stało się trzeciego dnia, że Estera ubrała się w szaty królowej i stanęła na dziedzińcu wewnętrznym pałacu króla, naprzeciw pałacu króla. A król siedział na swoim królewskim tronie w pałacu króla naprzeciw wejścia do pałacu."
+  tags: []
+"Est5,2":
+  text: "I stało się, że gdy tylko król zobaczył królową Esterę stojącą na dziedzińcu, zyskała ona łaskę w jego oczach i król wyciągnął do Estery złote berło, które trzymał w ręku. Estera więc zbliżyła się i dotknęła głowni berła."
+  tags: []
+"Est5,3":
+  text: "A król powiedział do niej: Co ci jest, królowo Estero? Jaka jest twoja prośba? Aż do połowy królestwa zostanie ci dane."
+  tags: []
+"Est5,4":
+  text: "I Estera odpowiedziała: Jeśli to się królowi podoba, to niech przyjdzie król i Haman dzisiaj na ucztę, którą dla niego przygotowałam."
+  tags: []
+"Est5,5":
+  text: "A król powiedział: Ponaglijcie Hamana, aby uczynił zadość słowu Estery. I przyszedł król i Haman na ucztę, którą przygotowała Estera."
+  tags: []
+"Est5,6":
+  text: "Potem król, gdy napił się wina, powiedział do Estery: Jaka jest twoja prośba, a zostanie ci dane, i jakie jest twoje życzenie – aż do połowy królestwa zostanie ono spełnione."
+  tags: []
+"Est5,7":
+  text: "I odpowiedziała Estera, i rzekła: Oto moja prośba i moje życzenie:"
+  tags: []
+"Est5,8":
+  text: "Jeśli znalazłam łaskę w oczach króla i jeśli królowi się podoba, aby dać posłuch mojej prośbie i wykonać moje życzenie, to niech przyjdzie król i Haman jeszcze jutro na ucztę, którą im przygotuję, a jutro uczynię według słowa króla."
+  tags: []
+"Est5,9":
+  text: "I wyszedł Haman tego dnia wesoły i dobrej myśli. Ale gdy Haman zobaczył Mordocheusza w Bramie Królewskiej, że ani nie powstał, ani nie zadrżał przed nim, wezbrał w nim gniew na Mordocheusza."
+  tags: []
+"Est5,10":
+  text: "Ale Haman opanował się, a gdy przyszedł do swojego domu, posłał i sprowadził do siebie swoich przyjaciół i Zeresz, swoją żonę."
+  tags: []
+"Est5,11":
+  text: "I przedstawiał im Haman wspaniałość swojego bogactwa, wielką liczbę swoich synów i wszystko, przez co król uczynił go wielkim, i przez co wywyższył go ponad innych książąt i sług króla."
+  tags: []
+"Est5,12":
+  text: "Ponadto Haman powiedział: Tak, nie sprowadziła królowa Estera na ucztę z królem, którą przygotowała nikogo jak tylko mnie, a jeszcze ja na jutro zostałem do niej zaproszony wraz z królem."
+  tags: []
+"Est5,13":
+  text: "Ale to wszystko nie jest wystarczające dla mnie, gdy przez cały czas ja widzę Żyda Mordocheusza siedzącego w Bramie Królewskiej."
+  tags: []
+"Est5,14":
+  text: "Wtedy jego żona Zeresz i wszyscy jego przyjaciele powiedzieli mu: Niech sporządzą słup wysoki na pięćdziesiąt łokci, a rano powiedz królowi, aby powieszono na nim Mordocheusza. Potem idź radosny z królem na ucztę. A rzecz ta wydała się dobra przed obliczem Hamana i sporządził słup."
+  tags: []

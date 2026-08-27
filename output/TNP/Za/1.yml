@@ -1,21 +1,63 @@
-"Za1,1": "W ósmym miesiącu drugiego roku Dariusza stało się Słowo JHWH do Zachariasza, syna Berechiasza, syna Iddo proroka, mówiące:"
-"Za1,2": "JHWH bardzo się rozgniewał na waszych ojców."
-"Za1,3": "Dlatego powiedz im: Tak mówi JHWH Zastępów: Zawróćcie do mnie – oświadczenie JHWH Zastępów – a ja zawrócę do was, mówi JHWH Zastępów."
-"Za1,4": "Nie bądźcie jak wasi ojcowie, do których wołali dawni prorocy, mówiąc: Tak mówi JHWH Zastępów: Zawróćcie teraz ze swoich złych dróg i od waszych złych czynów. Ale oni nie usłuchali ani nie zwracali na mnie uwagi, mówi JHWH."
-"Za1,5": "Gdzie są wasi ojcowie? A prorocy – czy żyją wiecznie?"
-"Za1,6": "Doprawdy moje słowa i ustawy, które rozkazałem moim sługom prorokom, czyż nie dosięgły waszych ojców? I zawrócili, i powiedzieli: Tak jak JHWH Zastępów zamierzył uczynić nam według naszych dróg i naszych czynów, tak nam uczynił."
-"Za1,7": "Dnia dwudziestego czwartego, jedenastego miesiąca, to jest miesiąca Szebat, w drugim roku Dariusza, Słowo JHWH stało się do Zachariasza, syna Berechiasza, syna proroka Iddo, mówiące:"
-"Za1,8": "Widziałem w nocy, a oto mąż jadący na czerwonym koniu, stanął on wśród mirtów, które były w dolinie, a za nim konie czerwone, pstrokate i białe."
-"Za1,9": "I zapytałem: Co one oznaczają, mój panie? I anioł rozmawiający ze mną, odpowiedział mi: Ja ci pokażę, co one oznaczają."
-"Za1,10": "I mąż stojący wśród mirtów odpowiedział, mówiąc: To są ci, których JHWH posłał, aby przemierzyli ziemię."
-"Za1,11": "I odpowiedzieli aniołowi JHWH stojącemu wśród mirtów, mówiąc: Przemierzyliśmy ziemię, a oto cała ziemia jest zamieszkała i spokojna."
-"Za1,12": "Wtedy anioł JHWH odpowiedział, mówiąc: JHWH Zastępów, jak długo nie zlitujesz się Ty nad Jerozolimą i nad miastami Judy, na które gniewasz się te siedemdziesiąt lat?"
-"Za1,13": "JHWH odpowiedział aniołowi, który rozmawiał ze mną słowami dobrymi, słowami pociechy."
-"Za1,14": "I anioł, który rozmawiał ze mną, powiedział: Wołaj i mów: Tak mówi JHWH Zastępów: Jestem zazdrosny o Jerozolimę i o Syjon wielką żarliwością."
-"Za1,15": "I ja gniewam się bardzo na te pyszne narody, które – gdy ja trochę się gniewałem – wspomagały zło."
-"Za1,16": "Dlatego tak mówi JHWH: Zwróciłem się ku Jerozolimie z miłosierdziem, mój dom zostanie w niej zbudowany – oświadczenie JHWH Zastępów, i sznur zostanie rozciągnięty nad Jerozolimą."
-"Za1,17": "Wołaj jeszcze: Tak mówi JHWH Zastępów: Moje miasta jeszcze będą opływać dobrem, JHWH jeszcze pocieszy Syjon i jeszcze wybierze Jerozolimę."
-"Za1,18": "I podniosłem swoje oczy, i patrzyłem, a oto cztery rogi."
-"Za1,19": "I zapytałem anioła, który rozmawiał ze mną: Co one oznaczają? I powiedział do mnie: To są rogi, które rozproszyły Judę, Izraela i Jerozolimę."
-"Za1,20": "I JHWH ukazał mi czterech kowali."
-"Za1,21": "I zapytałem: Co oni przyszli czynić? I odpowiedział: To są rogi, które rozproszyły Judę, tak że nikt nie podniósł swojej głowy. A ci przyszli, aby je przestraszyć i strącić rogi tych narodów, które podniosły swój róg przeciwko ziemi Judy, aby ją rozproszyć."
+"Za1,1":
+  text: "W ósmym miesiącu drugiego roku Dariusza stało się Słowo JHWH do Zachariasza, syna Berechiasza, syna Iddo proroka, mówiące:"
+  tags: []
+"Za1,2":
+  text: "JHWH bardzo się rozgniewał na waszych ojców."
+  tags: []
+"Za1,3":
+  text: "Dlatego powiedz im: Tak mówi JHWH Zastępów: Zawróćcie do mnie – oświadczenie JHWH Zastępów – a ja zawrócę do was, mówi JHWH Zastępów."
+  tags: []
+"Za1,4":
+  text: "Nie bądźcie jak wasi ojcowie, do których wołali dawni prorocy, mówiąc: Tak mówi JHWH Zastępów: Zawróćcie teraz ze swoich złych dróg i od waszych złych czynów. Ale oni nie usłuchali ani nie zwracali na mnie uwagi, mówi JHWH."
+  tags: []
+"Za1,5":
+  text: "Gdzie są wasi ojcowie? A prorocy – czy żyją wiecznie?"
+  tags: []
+"Za1,6":
+  text: "Doprawdy moje słowa i ustawy, które rozkazałem moim sługom prorokom, czyż nie dosięgły waszych ojców? I zawrócili, i powiedzieli: Tak jak JHWH Zastępów zamierzył uczynić nam według naszych dróg i naszych czynów, tak nam uczynił."
+  tags: []
+"Za1,7":
+  text: "Dnia dwudziestego czwartego, jedenastego miesiąca, to jest miesiąca Szebat, w drugim roku Dariusza, Słowo JHWH stało się do Zachariasza, syna Berechiasza, syna proroka Iddo, mówiące:"
+  tags: []
+"Za1,8":
+  text: "Widziałem w nocy, a oto mąż jadący na czerwonym koniu, stanął on wśród mirtów, które były w dolinie, a za nim konie czerwone, pstrokate i białe."
+  tags: []
+"Za1,9":
+  text: "I zapytałem: Co one oznaczają, mój panie? I anioł rozmawiający ze mną, odpowiedział mi: Ja ci pokażę, co one oznaczają."
+  tags: []
+"Za1,10":
+  text: "I mąż stojący wśród mirtów odpowiedział, mówiąc: To są ci, których JHWH posłał, aby przemierzyli ziemię."
+  tags: []
+"Za1,11":
+  text: "I odpowiedzieli aniołowi JHWH stojącemu wśród mirtów, mówiąc: Przemierzyliśmy ziemię, a oto cała ziemia jest zamieszkała i spokojna."
+  tags: []
+"Za1,12":
+  text: "Wtedy anioł JHWH odpowiedział, mówiąc: JHWH Zastępów, jak długo nie zlitujesz się Ty nad Jerozolimą i nad miastami Judy, na które gniewasz się te siedemdziesiąt lat?"
+  tags: []
+"Za1,13":
+  text: "JHWH odpowiedział aniołowi, który rozmawiał ze mną słowami dobrymi, słowami pociechy."
+  tags: []
+"Za1,14":
+  text: "I anioł, który rozmawiał ze mną, powiedział: Wołaj i mów: Tak mówi JHWH Zastępów: Jestem zazdrosny o Jerozolimę i o Syjon wielką żarliwością."
+  tags: []
+"Za1,15":
+  text: "I ja gniewam się bardzo na te pyszne narody, które – gdy ja trochę się gniewałem – wspomagały zło."
+  tags: []
+"Za1,16":
+  text: "Dlatego tak mówi JHWH: Zwróciłem się ku Jerozolimie z miłosierdziem, mój dom zostanie w niej zbudowany – oświadczenie JHWH Zastępów, i sznur zostanie rozciągnięty nad Jerozolimą."
+  tags: []
+"Za1,17":
+  text: "Wołaj jeszcze: Tak mówi JHWH Zastępów: Moje miasta jeszcze będą opływać dobrem, JHWH jeszcze pocieszy Syjon i jeszcze wybierze Jerozolimę."
+  tags: []
+"Za1,18":
+  text: "I podniosłem swoje oczy, i patrzyłem, a oto cztery rogi."
+  tags: []
+"Za1,19":
+  text: "I zapytałem anioła, który rozmawiał ze mną: Co one oznaczają? I powiedział do mnie: To są rogi, które rozproszyły Judę, Izraela i Jerozolimę."
+  tags: []
+"Za1,20":
+  text: "I JHWH ukazał mi czterech kowali."
+  tags: []
+"Za1,21":
+  text: "I zapytałem: Co oni przyszli czynić? I odpowiedział: To są rogi, które rozproszyły Judę, tak że nikt nie podniósł swojej głowy. A ci przyszli, aby je przestraszyć i strącić rogi tych narodów, które podniosły swój róg przeciwko ziemi Judy, aby ją rozproszyć."
+  tags: []

@@ -1,24 +1,72 @@
-"1J3,1": "Patrzcie, jaką miłością obdarzył nas Ojciec, że zostaliśmy nazwani dziećmi Bożymi. Dlatego świat nas nie zna, bo jego nie zna."
-"1J3,2": "Umiłowani, teraz jesteśmy dziećmi Bożymi, ale jeszcze się nie objawiło, czym będziemy. Wiemy jednak, że gdy on się objawi, będziemy podobni do niego, gdyż ujrzymy go takim, jakim jest."
-"1J3,3": "A każdy, kto pokłada w nim tę nadzieję, oczyszcza się, jak i on jest czysty."
-"1J3,4": "Każdy, kto popełnia grzech, przekracza też prawo, ponieważ grzech jest przekroczeniem prawa."
-"1J3,5": "A wiecie, że on się objawił, aby zgładzić nasze grzechy, a w nim nie ma grzechu."
-"1J3,6": "Każdy więc, kto w nim trwa, nie grzeszy. Każdy, kto grzeszy, nie widział go ani go nie poznał."
-"1J3,7": "Dzieci, niech was nikt nie zwodzi. Kto czyni sprawiedliwość, jest sprawiedliwy, tak jak i on jest sprawiedliwy."
-"1J3,8": "Kto popełnia grzech, jest z diabła, gdyż diabeł od początku grzeszy. Po to objawił się Syn Boży, aby zniszczyć dzieła diabła."
-"1J3,9": "Każdy, kto się narodził z Boga, nie popełnia grzechu, bo jego nasienie w nim pozostaje i nie może grzeszyć, gdyż narodził się z Boga."
-"1J3,10": "Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata."
-"1J3,11": "To jest przesłanie, które słyszeliście od początku, że mamy się wzajemnie miłować."
-"1J3,12": "Nie jak Kain, który pochodził od złego i zabił swego brata. A dlaczego go zabił? Bo jego uczynki były złe, a jego brata sprawiedliwe."
-"1J3,13": "Nie dziwcie się, moi bracia, jeśli świat was nienawidzi."
-"1J3,14": "My wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci. Kto nie miłuje brata, pozostaje w śmierci."
-"1J3,15": "Każdy, kto nienawidzi swego brata, jest mordercą, a wiecie, że żaden morderca nie ma życia wiecznego zostającego w sobie."
-"1J3,16": "Po tym poznaliśmy miłość Boga, że on oddał za nas swoje życie. My również powinniśmy oddawać życie za braci."
-"1J3,17": "A kto miałby majętność tego świata i widziałby swego brata w potrzebie, a zamknąłby przed nim swoje serce, jakże może mieszkać w nim miłość Boga?"
-"1J3,18": "Moje dzieci, nie miłujmy słowem ani językiem, ale uczynkiem i prawdą."
-"1J3,19": "Po tym poznamy, że jesteśmy z prawdy i uspokoimy przed nim nasze serca."
-"1J3,20": "Bo jeśli nasze serce nas potępia, Bóg jest większy niż nasze serce i wie wszystko."
-"1J3,21": "Umiłowani, jeśli nasze serce nas nie potępia, mamy ufność ku Bogu;"
-"1J3,22": "I o cokolwiek prosimy, otrzymujemy od niego, bo zachowujemy jego przykazania i robimy to, co miłe w jego oczach."
-"1J3,23": "A to jest jego przykazanie, abyśmy wierzyli w imię jego Syna, Jezusa Chrystusa, i miłowali się wzajemnie, jak nam przykazał."
-"1J3,24": "Bo kto zachowuje jego przykazania, mieszka w nim, a on w nim. A wiemy, że w nas mieszka, przez Ducha, którego nam dał."
+"1J3,1":
+  text: "Patrzcie, jaką miłością obdarzył nas Ojciec, że zostaliśmy nazwani dziećmi Bożymi. Dlatego świat nas nie zna, bo jego nie zna."
+  tags: []
+"1J3,2":
+  text: "Umiłowani, teraz jesteśmy dziećmi Bożymi, ale jeszcze się nie objawiło, czym będziemy. Wiemy jednak, że gdy on się objawi, będziemy podobni do niego, gdyż ujrzymy go takim, jakim jest."
+  tags: []
+"1J3,3":
+  text: "A każdy, kto pokłada w nim tę nadzieję, oczyszcza się, jak i on jest czysty."
+  tags: []
+"1J3,4":
+  text: "Każdy, kto popełnia grzech, przekracza też prawo, ponieważ grzech jest przekroczeniem prawa."
+  tags: []
+"1J3,5":
+  text: "A wiecie, że on się objawił, aby zgładzić nasze grzechy, a w nim nie ma grzechu."
+  tags: []
+"1J3,6":
+  text: "Każdy więc, kto w nim trwa, nie grzeszy. Każdy, kto grzeszy, nie widział go ani go nie poznał."
+  tags: []
+"1J3,7":
+  text: "Dzieci, niech was nikt nie zwodzi. Kto czyni sprawiedliwość, jest sprawiedliwy, tak jak i on jest sprawiedliwy."
+  tags: []
+"1J3,8":
+  text: "Kto popełnia grzech, jest z diabła, gdyż diabeł od początku grzeszy. Po to objawił się Syn Boży, aby zniszczyć dzieła diabła."
+  tags: []
+"1J3,9":
+  text: "Każdy, kto się narodził z Boga, nie popełnia grzechu, bo jego nasienie w nim pozostaje i nie może grzeszyć, gdyż narodził się z Boga."
+  tags: []
+"1J3,10":
+  text: "Po tym poznaje się dzieci Boże i dzieci diabła: Każdy, kto nie czyni sprawiedliwości, nie jest z Boga, jak i ten, kto nie miłuje swego brata."
+  tags: []
+"1J3,11":
+  text: "To jest przesłanie, które słyszeliście od początku, że mamy się wzajemnie miłować."
+  tags: []
+"1J3,12":
+  text: "Nie jak Kain, który pochodził od złego i zabił swego brata. A dlaczego go zabił? Bo jego uczynki były złe, a jego brata sprawiedliwe."
+  tags: []
+"1J3,13":
+  text: "Nie dziwcie się, moi bracia, jeśli świat was nienawidzi."
+  tags: []
+"1J3,14":
+  text: "My wiemy, że przeszliśmy ze śmierci do życia, bo miłujemy braci. Kto nie miłuje brata, pozostaje w śmierci."
+  tags: []
+"1J3,15":
+  text: "Każdy, kto nienawidzi swego brata, jest mordercą, a wiecie, że żaden morderca nie ma życia wiecznego zostającego w sobie."
+  tags: []
+"1J3,16":
+  text: "Po tym poznaliśmy miłość Boga, że on oddał za nas swoje życie. My również powinniśmy oddawać życie za braci."
+  tags: []
+"1J3,17":
+  text: "A kto miałby majętność tego świata i widziałby swego brata w potrzebie, a zamknąłby przed nim swoje serce, jakże może mieszkać w nim miłość Boga?"
+  tags: []
+"1J3,18":
+  text: "Moje dzieci, nie miłujmy słowem ani językiem, ale uczynkiem i prawdą."
+  tags: []
+"1J3,19":
+  text: "Po tym poznamy, że jesteśmy z prawdy i uspokoimy przed nim nasze serca."
+  tags: []
+"1J3,20":
+  text: "Bo jeśli nasze serce nas potępia, Bóg jest większy niż nasze serce i wie wszystko."
+  tags: []
+"1J3,21":
+  text: "Umiłowani, jeśli nasze serce nas nie potępia, mamy ufność ku Bogu;"
+  tags: []
+"1J3,22":
+  text: "I o cokolwiek prosimy, otrzymujemy od niego, bo zachowujemy jego przykazania i robimy to, co miłe w jego oczach."
+  tags: []
+"1J3,23":
+  text: "A to jest jego przykazanie, abyśmy wierzyli w imię jego Syna, Jezusa Chrystusa, i miłowali się wzajemnie, jak nam przykazał."
+  tags: []
+"1J3,24":
+  text: "Bo kto zachowuje jego przykazania, mieszka w nim, a on w nim. A wiemy, że w nas mieszka, przez Ducha, którego nam dał."
+  tags: []

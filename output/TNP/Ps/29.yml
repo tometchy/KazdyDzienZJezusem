@@ -1,11 +1,33 @@
-"Ps29,1": "Psalm Dawida. Oddajcie JHWH, synowie Boży, oddajcie JHWH chwałę i moc!"
-"Ps29,2": "Oddajcie JHWH chwałę należną Jego imieniu, oddajcie JHWH pokłon w ozdobie świętości."
-"Ps29,3": "Głos JHWH nad wodami; zagrzmiał Bóg chwały, JHWH nad wielkimi wodami."
-"Ps29,4": "Głos JHWH potężny, głos JHWH pełen majestatu."
-"Ps29,5": "Głos JHWH łamie cedry, JHWH roztrzaskał cedry Libanu;"
-"Ps29,6": "I sprawia, że skaczą jak cielę, Liban i Sirion jak młody bawół."
-"Ps29,7": "Głos JHWH rozłupuje strzałami ognia."
-"Ps29,8": "Głos JHWH wstrząsa pustynią, JHWH wstrząsa pustynią Kadesz."
-"Ps29,9": "Głos JHWH sprawia, że z bólem rodzą łanie i obnażają się lasy, a w Jego świątyni wszystko woła: Chwała!"
-"Ps29,10": "JHWH zasiadł nad potopem, JHWH zasiadł jako Król na wieki."
-"Ps29,11": "JHWH da siłę swojemu ludowi, JHWH pobłogosławi swój lud pokojem."
+"Ps29,1":
+  text: "Psalm Dawida. Oddajcie JHWH, synowie Boży, oddajcie JHWH chwałę i moc!"
+  tags: []
+"Ps29,2":
+  text: "Oddajcie JHWH chwałę należną Jego imieniu, oddajcie JHWH pokłon w ozdobie świętości."
+  tags: []
+"Ps29,3":
+  text: "Głos JHWH nad wodami; zagrzmiał Bóg chwały, JHWH nad wielkimi wodami."
+  tags: []
+"Ps29,4":
+  text: "Głos JHWH potężny, głos JHWH pełen majestatu."
+  tags: []
+"Ps29,5":
+  text: "Głos JHWH łamie cedry, JHWH roztrzaskał cedry Libanu;"
+  tags: []
+"Ps29,6":
+  text: "I sprawia, że skaczą jak cielę, Liban i Sirion jak młody bawół."
+  tags: []
+"Ps29,7":
+  text: "Głos JHWH rozłupuje strzałami ognia."
+  tags: []
+"Ps29,8":
+  text: "Głos JHWH wstrząsa pustynią, JHWH wstrząsa pustynią Kadesz."
+  tags: []
+"Ps29,9":
+  text: "Głos JHWH sprawia, że z bólem rodzą łanie i obnażają się lasy, a w Jego świątyni wszystko woła: Chwała!"
+  tags: []
+"Ps29,10":
+  text: "JHWH zasiadł nad potopem, JHWH zasiadł jako Król na wieki."
+  tags: []
+"Ps29,11":
+  text: "JHWH da siłę swojemu ludowi, JHWH pobłogosławi swój lud pokojem."
+  tags: []

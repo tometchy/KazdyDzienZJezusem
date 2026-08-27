@@ -1,23 +1,69 @@
-"Rz6,1": "Cóż więc powiemy? Czy mamy pozostać w grzechu, aby łaska była obfitsza?"
-"Rz6,2": "Z pewnością nie! Albowiem my, którzy umarliśmy dla grzechu, jak jeszcze w nim żyć będziemy?"
-"Rz6,3": "Czy nie wiecie, że my wszyscy, którzy zostaliśmy ochrzczeni w Chrystusa Jezusa, w śmierć Jego zostaliśmy ochrzczeni?"
-"Rz6,4": "Pogrzebani jesteśmy razem z Nim przez zanurzenie w śmierć, aby tak jak Chrystus został wzbudzony z martwych przez chwałę Ojca, tak abyśmy i my chodzili w nowości życia."
-"Rz6,5": "Bo jeśli staliśmy się zrośnięci w podobieństwo Jego śmierci, to i w podobieństwo Jego zmartwychwstania zrośnięci będziemy,"
-"Rz6,6": "Wiedząc to, że nasz stary człowiek razem z Nim został ukrzyżowany, aby ciało grzechu zostało uczynione bezczynnym, abyśmy już więcej nie pozostawali w niewoli grzechu;"
-"Rz6,7": "Bo kto umarł, uwolniony jest od grzechu."
-"Rz6,8": "Jeśli więc umarliśmy z Chrystusem, wierzymy też, że razem z Nim żyć będziemy."
-"Rz6,9": "Wiedząc, że Chrystus, który został wzbudzony z martwych, już nie umiera; śmierć już nad Nim nie panuje."
-"Rz6,10": "Bo gdy umarł, raz na zawsze umarł dla grzechu; a gdy żyje, żyje dla Boga."
-"Rz6,11": "Tak też i wy, zaliczajcie siebie samych do prawdziwie umarłych dla grzechu, a żyjących dla Boga w Chrystusie Jezusie, Panu naszym."
-"Rz6,12": "Niech więc nie króluje grzech w śmiertelnym ciele waszym, abyście mieli być mu posłuszni w jego pożądliwościach;"
-"Rz6,13": "I nie stawiajcie swoich członków na oręż niesprawiedliwości dla grzechu, ale postawcie samych siebie Bogu, jako żyjących, którzy powstali z martwych, a swoje członki jako oręż sprawiedliwości Bogu."
-"Rz6,14": "Bowiem grzech nad wami panować nie będzie; bo nie jesteście pod prawem, ale pod łaską."
-"Rz6,15": "Cóż więc? Czy mamy grzeszyć, dlatego że nie jesteśmy pod prawem, ale pod łaską? Z pewnością nie!"
-"Rz6,16": "Czy nie wiecie, że komu stawiacie siebie samych jako niewolnicy w posłuszeństwo, jesteście niewolnikami tego, komu jesteście posłuszni, bądź grzechowi ku śmierci, bądź posłuszeństwu ku sprawiedliwości?"
-"Rz6,17": "Ale Bogu niech będzie wdzięczność, że wy, którzy byliście niewolnikami grzechu, usłuchaliście z całego serca wzoru tej nauki, której zostaliście przekazani."
-"Rz6,18": "A będąc uwolnieni od grzechu, zostaliście niewolnikami sprawiedliwości."
-"Rz6,19": "Po ludzku mówię, z powodu słabości waszego ciała. Tak jak bowiem postawiliście swoje członki w niewolę nieczystości i nieprawości, by czynić nieprawość, tak teraz postawcie swoje członki w niewolę sprawiedliwości ku uświęceniu."
-"Rz6,20": "Bo gdy byliście niewolnikami grzechu, byliście wolni od sprawiedliwości."
-"Rz6,21": "Jaki więc wówczas mieliście pożytek z tych rzeczy? Tych, których się teraz wstydzicie; bo końcem ich jest śmierć."
-"Rz6,22": "Lecz teraz, gdy zostaliście wyzwoleni od grzechu, zostaliście oddani w niewolę Bogu, mając swój pożytek w uświęceniu, a na końcu – życie wieczne."
-"Rz6,23": "Bowiem zapłatą za grzech jest śmierć, ale darem łaski Boga jest życie wieczne w Chrystusie Jezusie, Panu naszym."
+"Rz6,1":
+  text: "Cóż więc powiemy? Czy mamy pozostać w grzechu, aby łaska była obfitsza?"
+  tags: []
+"Rz6,2":
+  text: "Z pewnością nie! Albowiem my, którzy umarliśmy dla grzechu, jak jeszcze w nim żyć będziemy?"
+  tags: []
+"Rz6,3":
+  text: "Czy nie wiecie, że my wszyscy, którzy zostaliśmy ochrzczeni w Chrystusa Jezusa, w śmierć Jego zostaliśmy ochrzczeni?"
+  tags: []
+"Rz6,4":
+  text: "Pogrzebani jesteśmy razem z Nim przez zanurzenie w śmierć, aby tak jak Chrystus został wzbudzony z martwych przez chwałę Ojca, tak abyśmy i my chodzili w nowości życia."
+  tags: []
+"Rz6,5":
+  text: "Bo jeśli staliśmy się zrośnięci w podobieństwo Jego śmierci, to i w podobieństwo Jego zmartwychwstania zrośnięci będziemy,"
+  tags: []
+"Rz6,6":
+  text: "Wiedząc to, że nasz stary człowiek razem z Nim został ukrzyżowany, aby ciało grzechu zostało uczynione bezczynnym, abyśmy już więcej nie pozostawali w niewoli grzechu;"
+  tags: []
+"Rz6,7":
+  text: "Bo kto umarł, uwolniony jest od grzechu."
+  tags: []
+"Rz6,8":
+  text: "Jeśli więc umarliśmy z Chrystusem, wierzymy też, że razem z Nim żyć będziemy."
+  tags: []
+"Rz6,9":
+  text: "Wiedząc, że Chrystus, który został wzbudzony z martwych, już nie umiera; śmierć już nad Nim nie panuje."
+  tags: []
+"Rz6,10":
+  text: "Bo gdy umarł, raz na zawsze umarł dla grzechu; a gdy żyje, żyje dla Boga."
+  tags: []
+"Rz6,11":
+  text: "Tak też i wy, zaliczajcie siebie samych do prawdziwie umarłych dla grzechu, a żyjących dla Boga w Chrystusie Jezusie, Panu naszym."
+  tags: []
+"Rz6,12":
+  text: "Niech więc nie króluje grzech w śmiertelnym ciele waszym, abyście mieli być mu posłuszni w jego pożądliwościach;"
+  tags: []
+"Rz6,13":
+  text: "I nie stawiajcie swoich członków na oręż niesprawiedliwości dla grzechu, ale postawcie samych siebie Bogu, jako żyjących, którzy powstali z martwych, a swoje członki jako oręż sprawiedliwości Bogu."
+  tags: []
+"Rz6,14":
+  text: "Bowiem grzech nad wami panować nie będzie; bo nie jesteście pod prawem, ale pod łaską."
+  tags: []
+"Rz6,15":
+  text: "Cóż więc? Czy mamy grzeszyć, dlatego że nie jesteśmy pod prawem, ale pod łaską? Z pewnością nie!"
+  tags: []
+"Rz6,16":
+  text: "Czy nie wiecie, że komu stawiacie siebie samych jako niewolnicy w posłuszeństwo, jesteście niewolnikami tego, komu jesteście posłuszni, bądź grzechowi ku śmierci, bądź posłuszeństwu ku sprawiedliwości?"
+  tags: []
+"Rz6,17":
+  text: "Ale Bogu niech będzie wdzięczność, że wy, którzy byliście niewolnikami grzechu, usłuchaliście z całego serca wzoru tej nauki, której zostaliście przekazani."
+  tags: []
+"Rz6,18":
+  text: "A będąc uwolnieni od grzechu, zostaliście niewolnikami sprawiedliwości."
+  tags: []
+"Rz6,19":
+  text: "Po ludzku mówię, z powodu słabości waszego ciała. Tak jak bowiem postawiliście swoje członki w niewolę nieczystości i nieprawości, by czynić nieprawość, tak teraz postawcie swoje członki w niewolę sprawiedliwości ku uświęceniu."
+  tags: []
+"Rz6,20":
+  text: "Bo gdy byliście niewolnikami grzechu, byliście wolni od sprawiedliwości."
+  tags: []
+"Rz6,21":
+  text: "Jaki więc wówczas mieliście pożytek z tych rzeczy? Tych, których się teraz wstydzicie; bo końcem ich jest śmierć."
+  tags: []
+"Rz6,22":
+  text: "Lecz teraz, gdy zostaliście wyzwoleni od grzechu, zostaliście oddani w niewolę Bogu, mając swój pożytek w uświęceniu, a na końcu – życie wieczne."
+  tags: []
+"Rz6,23":
+  text: "Bowiem zapłatą za grzech jest śmierć, ale darem łaski Boga jest życie wieczne w Chrystusie Jezusie, Panu naszym."
+  tags: []

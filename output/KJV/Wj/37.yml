@@ -1,29 +1,87 @@
-"Wj37,1": "And Bezaleel made the ark [of] shittim wood: two cubits and a half [was] the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:"
-"Wj37,2": "And he overlaid it with pure gold within and without, and made a crown of gold to it round about."
-"Wj37,3": "And he cast for it four rings of gold, [to be set] by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it."
-"Wj37,4": "And he made staves [of] shittim wood, and overlaid them with gold."
-"Wj37,5": "And he put the staves into the rings by the sides of the ark, to bear the ark."
-"Wj37,6": "And he made the mercy seat [of] pure gold: two cubits and a half [was] the length thereof, and one cubit and a half the breadth thereof."
-"Wj37,7": "And he made two cherubims [of] gold, beaten out of one piece made he them, on the two ends of the mercy seat;"
-"Wj37,8": "One cherub on the end on this side, and another cherub on the [other] end on that side: out of the mercy seat made he the cherubims on the two ends thereof."
-"Wj37,9": "And the cherubims spread out [their] wings on high, [and] covered with their wings over the mercy seat, with their faces one to another; [even] to the mercy seatward were the faces of the cherubims."
-"Wj37,10": "And he made the table [of] shittim wood: two cubits [was] the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:"
-"Wj37,11": "And he overlaid it with pure gold, and made thereunto a crown of gold round about."
-"Wj37,12": "Also he made thereunto a border of an handbreadth round about; and made a crown of gold for the border thereof round about."
-"Wj37,13": "And he cast for it four rings of gold, and put the rings upon the four corners that [were] in the four feet thereof."
-"Wj37,14": "Over against the border were the rings, the places for the staves to bear the table."
-"Wj37,15": "And he made the staves [of] shittim wood, and overlaid them with gold, to bear the table."
-"Wj37,16": "And he made the vessels which [were] upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, [of] pure gold."
-"Wj37,17": "And he made the candlestick [of] pure gold: [of] beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:"
-"Wj37,18": "And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:"
-"Wj37,19": "Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick."
-"Wj37,20": "And in the candlestick [were] four bowls made like almonds, his knops, and his flowers:"
-"Wj37,21": "And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it."
-"Wj37,22": "Their knops and their branches were of the same: all of it [was] one beaten work [of] pure gold."
-"Wj37,23": "And he made his seven lamps, and his snuffers, and his snuffdishes, [of] pure gold."
-"Wj37,24": "[Of] a talent of pure gold made he it, and all the vessels thereof."
-"Wj37,25": "And he made the incense altar [of] shittim wood: the length of it [was] a cubit, and the breadth of it a cubit; [it was] foursquare; and two cubits [was] the height of it; the horns thereof were of the same."
-"Wj37,26": "And he overlaid it with pure gold, [both] the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about."
-"Wj37,27": "And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal."
-"Wj37,28": "And he made the staves [of] shittim wood, and overlaid them with gold."
-"Wj37,29": "And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary."
+"Wj37,1":
+  text: "And Bezaleel made the ark [of] shittim wood: two cubits and a half [was] the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:"
+  tags: []
+"Wj37,2":
+  text: "And he overlaid it with pure gold within and without, and made a crown of gold to it round about."
+  tags: []
+"Wj37,3":
+  text: "And he cast for it four rings of gold, [to be set] by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it."
+  tags: []
+"Wj37,4":
+  text: "And he made staves [of] shittim wood, and overlaid them with gold."
+  tags: []
+"Wj37,5":
+  text: "And he put the staves into the rings by the sides of the ark, to bear the ark."
+  tags: []
+"Wj37,6":
+  text: "And he made the mercy seat [of] pure gold: two cubits and a half [was] the length thereof, and one cubit and a half the breadth thereof."
+  tags: []
+"Wj37,7":
+  text: "And he made two cherubims [of] gold, beaten out of one piece made he them, on the two ends of the mercy seat;"
+  tags: []
+"Wj37,8":
+  text: "One cherub on the end on this side, and another cherub on the [other] end on that side: out of the mercy seat made he the cherubims on the two ends thereof."
+  tags: []
+"Wj37,9":
+  text: "And the cherubims spread out [their] wings on high, [and] covered with their wings over the mercy seat, with their faces one to another; [even] to the mercy seatward were the faces of the cherubims."
+  tags: []
+"Wj37,10":
+  text: "And he made the table [of] shittim wood: two cubits [was] the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:"
+  tags: []
+"Wj37,11":
+  text: "And he overlaid it with pure gold, and made thereunto a crown of gold round about."
+  tags: []
+"Wj37,12":
+  text: "Also he made thereunto a border of an handbreadth round about; and made a crown of gold for the border thereof round about."
+  tags: []
+"Wj37,13":
+  text: "And he cast for it four rings of gold, and put the rings upon the four corners that [were] in the four feet thereof."
+  tags: []
+"Wj37,14":
+  text: "Over against the border were the rings, the places for the staves to bear the table."
+  tags: []
+"Wj37,15":
+  text: "And he made the staves [of] shittim wood, and overlaid them with gold, to bear the table."
+  tags: []
+"Wj37,16":
+  text: "And he made the vessels which [were] upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, [of] pure gold."
+  tags: []
+"Wj37,17":
+  text: "And he made the candlestick [of] pure gold: [of] beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:"
+  tags: []
+"Wj37,18":
+  text: "And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:"
+  tags: []
+"Wj37,19":
+  text: "Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick."
+  tags: []
+"Wj37,20":
+  text: "And in the candlestick [were] four bowls made like almonds, his knops, and his flowers:"
+  tags: []
+"Wj37,21":
+  text: "And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it."
+  tags: []
+"Wj37,22":
+  text: "Their knops and their branches were of the same: all of it [was] one beaten work [of] pure gold."
+  tags: []
+"Wj37,23":
+  text: "And he made his seven lamps, and his snuffers, and his snuffdishes, [of] pure gold."
+  tags: []
+"Wj37,24":
+  text: "[Of] a talent of pure gold made he it, and all the vessels thereof."
+  tags: []
+"Wj37,25":
+  text: "And he made the incense altar [of] shittim wood: the length of it [was] a cubit, and the breadth of it a cubit; [it was] foursquare; and two cubits [was] the height of it; the horns thereof were of the same."
+  tags: []
+"Wj37,26":
+  text: "And he overlaid it with pure gold, [both] the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about."
+  tags: []
+"Wj37,27":
+  text: "And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal."
+  tags: []
+"Wj37,28":
+  text: "And he made the staves [of] shittim wood, and overlaid them with gold."
+  tags: []
+"Wj37,29":
+  text: "And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary."
+  tags: []

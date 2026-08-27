@@ -1,20 +1,60 @@
-"Kaz10,1": "Zdechłe muchy zasmradzają i psują olejek aptekarza. Tak samo odrobina głupstwa psuje człowieka poważanego z powodu jego mądrości i sławy."
-"Kaz10,2": "Serce mądrego jest po jego prawicy, ale serce głupca po jego lewicy."
-"Kaz10,3": "Nawet gdy głupiec idzie drogą, brakuje mu rozumu, i mówi wszystkim, że jest głupcem."
-"Kaz10,4": "Jeśli duch władcy powstaje przeciwko tobie, nie opuszczaj swego miejsca, gdyż pokora zapobiega wielkim wykroczeniom."
-"Kaz10,5": "Jest zło, które widziałem pod słońcem, to błąd, który pochodzi od władcy:"
-"Kaz10,6": "Głupota jest wywyższona do wielkiej godności, a bogaci w mądrość siedzą nisko."
-"Kaz10,7": "Widziałem sługi na koniach, a książąt idących pieszo jak słudzy."
-"Kaz10,8": "Kto kopie dół, sam w niego wpadnie, kto rozwala płot, tego ukąsi wąż."
-"Kaz10,9": "Kto przenosi kamienie, porani się nimi, kto rąbie drwa, naraża się na niebezpieczeństwo."
-"Kaz10,10": "Jeśli stępi się żelazo, a nie naostrzy się jego ostrza, wtedy trzeba wytężyć siły. Ale lepiej skutkuje mądrość."
-"Kaz10,11": "Wąż ukąsi bez zaklęcia, a gaduła nie jest niczym lepszym."
-"Kaz10,12": "Słowa z ust mądrego są łaskawe, ale wargi głupca pożerają jego samego."
-"Kaz10,13": "Początek słów jego ust to głupota, a koniec jego mowy to wielkie szaleństwo."
-"Kaz10,14": "Głupiec wiele mówi, choć człowiek nie wie, co nastąpi. Któż mu oznajmi, co po nim nastanie?"
-"Kaz10,15": "Głupi męczą się trudem, a nie wiedzą nawet, jak dojść do miasta."
-"Kaz10,16": "Biada tobie, ziemio, gdy twoim królem dziecko, a twoi książęta z rana biesiadują."
-"Kaz10,17": "Błogosławiona jesteś, ziemio, gdy twój król pochodzi ze szlachetnego rodu, a twoi książęta we właściwym czasie jadają, by się posilić, a nie dla pijaństwa."
-"Kaz10,18": "Z powodu lenistwa chyli się dach, a wskutek opieszałości rąk przecieka dom."
-"Kaz10,19": "Dla uciechy wyprawia się ucztę i wino rozwesela życie, ale pieniądze umożliwiają wszystko."
-"Kaz10,20": "Nawet w swoich myślach nie złorzecz królowi ani w swojej sypialni nie przeklinaj bogatego, bo ptak niebieski zaniesie ten głos, a to, co skrzydlate, rozgłosi sprawę."
+"Kaz10,1":
+  text: "Zdechłe muchy zasmradzają i psują olejek aptekarza. Tak samo odrobina głupstwa psuje człowieka poważanego z powodu jego mądrości i sławy."
+  tags: []
+"Kaz10,2":
+  text: "Serce mądrego jest po jego prawicy, ale serce głupca po jego lewicy."
+  tags: []
+"Kaz10,3":
+  text: "Nawet gdy głupiec idzie drogą, brakuje mu rozumu, i mówi wszystkim, że jest głupcem."
+  tags: []
+"Kaz10,4":
+  text: "Jeśli duch władcy powstaje przeciwko tobie, nie opuszczaj swego miejsca, gdyż pokora zapobiega wielkim wykroczeniom."
+  tags: []
+"Kaz10,5":
+  text: "Jest zło, które widziałem pod słońcem, to błąd, który pochodzi od władcy:"
+  tags: []
+"Kaz10,6":
+  text: "Głupota jest wywyższona do wielkiej godności, a bogaci w mądrość siedzą nisko."
+  tags: []
+"Kaz10,7":
+  text: "Widziałem sługi na koniach, a książąt idących pieszo jak słudzy."
+  tags: []
+"Kaz10,8":
+  text: "Kto kopie dół, sam w niego wpadnie, kto rozwala płot, tego ukąsi wąż."
+  tags: []
+"Kaz10,9":
+  text: "Kto przenosi kamienie, porani się nimi, kto rąbie drwa, naraża się na niebezpieczeństwo."
+  tags: []
+"Kaz10,10":
+  text: "Jeśli stępi się żelazo, a nie naostrzy się jego ostrza, wtedy trzeba wytężyć siły. Ale lepiej skutkuje mądrość."
+  tags: []
+"Kaz10,11":
+  text: "Wąż ukąsi bez zaklęcia, a gaduła nie jest niczym lepszym."
+  tags: []
+"Kaz10,12":
+  text: "Słowa z ust mądrego są łaskawe, ale wargi głupca pożerają jego samego."
+  tags: []
+"Kaz10,13":
+  text: "Początek słów jego ust to głupota, a koniec jego mowy to wielkie szaleństwo."
+  tags: []
+"Kaz10,14":
+  text: "Głupiec wiele mówi, choć człowiek nie wie, co nastąpi. Któż mu oznajmi, co po nim nastanie?"
+  tags: []
+"Kaz10,15":
+  text: "Głupi męczą się trudem, a nie wiedzą nawet, jak dojść do miasta."
+  tags: []
+"Kaz10,16":
+  text: "Biada tobie, ziemio, gdy twoim królem dziecko, a twoi książęta z rana biesiadują."
+  tags: []
+"Kaz10,17":
+  text: "Błogosławiona jesteś, ziemio, gdy twój król pochodzi ze szlachetnego rodu, a twoi książęta we właściwym czasie jadają, by się posilić, a nie dla pijaństwa."
+  tags: []
+"Kaz10,18":
+  text: "Z powodu lenistwa chyli się dach, a wskutek opieszałości rąk przecieka dom."
+  tags: []
+"Kaz10,19":
+  text: "Dla uciechy wyprawia się ucztę i wino rozwesela życie, ale pieniądze umożliwiają wszystko."
+  tags: []
+"Kaz10,20":
+  text: "Nawet w swoich myślach nie złorzecz królowi ani w swojej sypialni nie przeklinaj bogatego, bo ptak niebieski zaniesie ten głos, a to, co skrzydlate, rozgłosi sprawę."
+  tags: []

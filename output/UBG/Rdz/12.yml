@@ -1,20 +1,60 @@
-"Rdz12,1": "I PAN powiedział do Abrama: Wyjdź z twojej ziemi i od twojej rodziny, i z domu twego ojca do ziemi, którą ci pokażę."
-"Rdz12,2": "A uczynię z ciebie wielki naród, będę ci błogosławił i rozsławię twoje imię, i będziesz błogosławieństwem."
-"Rdz12,3": "I będę błogosławił tym, którzy tobie będą błogosławić; a tych, którzy przeklinają ciebie, będę przeklinać. W tobie będą błogosławione wszystkie narody ziemi."
-"Rdz12,4": "Wyszedł więc Abram, jak mu PAN rozkazał, poszedł z nim też Lot. Abram miał siedemdziesiąt pięć lat, gdy wyszedł z Charanu."
-"Rdz12,5": "I Abram wziął swoją żonę Saraj, Lota, syna brata swego, i cały dobytek, który zgromadzili, i dusze, które nabyli w Charanie, i wyszli, aby udać się do ziemi Kanaan; i przybyli do ziemi Kanaan."
-"Rdz12,6": "Abram przeszedł tę ziemię aż do miejsca Sychem, do równiny More. Na tej ziemi byli wówczas Kananejczycy."
-"Rdz12,7": "I PAN ukazał się Abramowi, i powiedział: Twemu potomstwu dam tę ziemię. I Abram zbudował tam ołtarz dla PANA, który mu się ukazał."
-"Rdz12,8": "A stamtąd przeniósł się do góry na wschód od Betel i tam rozbił swój namiot między Betel od zachodu i Aj od wschodu. Tam również zbudował ołtarz dla PANA i wzywał imienia PANA."
-"Rdz12,9": "Potem Abram wyruszył, idąc ku południu."
-"Rdz12,10": "A nastał głód na tej ziemi. Abram zstąpił więc do Egiptu, aby tam gościć; ciężki bowiem był głód na ziemi."
-"Rdz12,11": "A gdy zbliżał się do Egiptu, powiedział do swej żony Saraj: Oto wiem, że jesteś piękną kobietą."
-"Rdz12,12": "Gdy Egipcjanie cię zobaczą, powiedzą: To jego żona; i zabiją mnie, a ciebie zostawią przy życiu."
-"Rdz12,13": "Mów, proszę, że jesteś moją siostrą, aby mi się dobrze wiodło ze względu na ciebie i abym dzięki tobie pozostał przy życiu."
-"Rdz12,14": "Gdy Abram wszedł do Egiptu, Egipcjanie zobaczyli, że ta kobieta jest bardzo piękna."
-"Rdz12,15": "Ujrzeli ją też dostojnicy faraona i chwalili ją przed nim. I zabrano tę kobietę do domu faraona."
-"Rdz12,16": "Ten dobrze traktował Abrama ze względu na nią. Abram miał więc owce, woły, osły, służących i służące, oślice i wielbłądy."
-"Rdz12,17": "PAN jednak dotknął faraona i jego dom wielkimi plagami z powodu Saraj, żony Abrama."
-"Rdz12,18": "Faraon wezwał więc Abrama i powiedział: Coś ty mi zrobił? Czemu mi nie powiedziałeś, że ona jest twoją żoną?"
-"Rdz12,19": "Dlaczego mówiłeś: Ona jest moją siostrą, tak że mogłem ją wziąć sobie za żonę? A teraz – oto twoja żona, weź ją i idź."
-"Rdz12,20": "I faraon rozkazał o nim swoim ludziom, i odprawili go wraz z żoną i wszystkim, co było jego."
+"Rdz12,1":
+  text: "I PAN powiedział do Abrama: Wyjdź z twojej ziemi i od twojej rodziny, i z domu twego ojca do ziemi, którą ci pokażę."
+  tags: []
+"Rdz12,2":
+  text: "A uczynię z ciebie wielki naród, będę ci błogosławił i rozsławię twoje imię, i będziesz błogosławieństwem."
+  tags: []
+"Rdz12,3":
+  text: "I będę błogosławił tym, którzy tobie będą błogosławić; a tych, którzy przeklinają ciebie, będę przeklinać. W tobie będą błogosławione wszystkie narody ziemi."
+  tags: []
+"Rdz12,4":
+  text: "Wyszedł więc Abram, jak mu PAN rozkazał, poszedł z nim też Lot. Abram miał siedemdziesiąt pięć lat, gdy wyszedł z Charanu."
+  tags: []
+"Rdz12,5":
+  text: "I Abram wziął swoją żonę Saraj, Lota, syna brata swego, i cały dobytek, który zgromadzili, i dusze, które nabyli w Charanie, i wyszli, aby udać się do ziemi Kanaan; i przybyli do ziemi Kanaan."
+  tags: []
+"Rdz12,6":
+  text: "Abram przeszedł tę ziemię aż do miejsca Sychem, do równiny More. Na tej ziemi byli wówczas Kananejczycy."
+  tags: []
+"Rdz12,7":
+  text: "I PAN ukazał się Abramowi, i powiedział: Twemu potomstwu dam tę ziemię. I Abram zbudował tam ołtarz dla PANA, który mu się ukazał."
+  tags: []
+"Rdz12,8":
+  text: "A stamtąd przeniósł się do góry na wschód od Betel i tam rozbił swój namiot między Betel od zachodu i Aj od wschodu. Tam również zbudował ołtarz dla PANA i wzywał imienia PANA."
+  tags: []
+"Rdz12,9":
+  text: "Potem Abram wyruszył, idąc ku południu."
+  tags: []
+"Rdz12,10":
+  text: "A nastał głód na tej ziemi. Abram zstąpił więc do Egiptu, aby tam gościć; ciężki bowiem był głód na ziemi."
+  tags: []
+"Rdz12,11":
+  text: "A gdy zbliżał się do Egiptu, powiedział do swej żony Saraj: Oto wiem, że jesteś piękną kobietą."
+  tags: []
+"Rdz12,12":
+  text: "Gdy Egipcjanie cię zobaczą, powiedzą: To jego żona; i zabiją mnie, a ciebie zostawią przy życiu."
+  tags: []
+"Rdz12,13":
+  text: "Mów, proszę, że jesteś moją siostrą, aby mi się dobrze wiodło ze względu na ciebie i abym dzięki tobie pozostał przy życiu."
+  tags: []
+"Rdz12,14":
+  text: "Gdy Abram wszedł do Egiptu, Egipcjanie zobaczyli, że ta kobieta jest bardzo piękna."
+  tags: []
+"Rdz12,15":
+  text: "Ujrzeli ją też dostojnicy faraona i chwalili ją przed nim. I zabrano tę kobietę do domu faraona."
+  tags: []
+"Rdz12,16":
+  text: "Ten dobrze traktował Abrama ze względu na nią. Abram miał więc owce, woły, osły, służących i służące, oślice i wielbłądy."
+  tags: []
+"Rdz12,17":
+  text: "PAN jednak dotknął faraona i jego dom wielkimi plagami z powodu Saraj, żony Abrama."
+  tags: []
+"Rdz12,18":
+  text: "Faraon wezwał więc Abrama i powiedział: Coś ty mi zrobił? Czemu mi nie powiedziałeś, że ona jest twoją żoną?"
+  tags: []
+"Rdz12,19":
+  text: "Dlaczego mówiłeś: Ona jest moją siostrą, tak że mogłem ją wziąć sobie za żonę? A teraz – oto twoja żona, weź ją i idź."
+  tags: []
+"Rdz12,20":
+  text: "I faraon rozkazał o nim swoim ludziom, i odprawili go wraz z żoną i wszystkim, co było jego."
+  tags: []

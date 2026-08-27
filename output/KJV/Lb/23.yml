@@ -1,30 +1,90 @@
-"Lb23,1": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams."
-"Lb23,2": "And Balak did as Balaam had spoken; and Balak and Balaam offered on [every] altar a bullock and a ram."
-"Lb23,3": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place."
-"Lb23,4": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon [every] altar a bullock and a ram."
-"Lb23,5": "And the LORD put a word in Balaam's mouth, and said, Return unto Balak, and thus thou shalt speak."
-"Lb23,6": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
-"Lb23,7": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, [saying], Come, curse me Jacob, and come, defy Israel."
-"Lb23,8": "How shall I curse, whom God hath not cursed? or how shall I defy, [whom] the LORD hath not defied?"
-"Lb23,9": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations."
-"Lb23,10": "Who can count the dust of Jacob, and the number of the fourth [part] of Israel? Let me die the death of the righteous, and let my last end be like his!"
-"Lb23,11": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed [them] altogether."
-"Lb23,12": "And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?"
-"Lb23,13": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence."
-"Lb23,14": "And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on [every] altar."
-"Lb23,15": "And he said unto Balak, Stand here by thy burnt offering, while I meet [the LORD] yonder."
-"Lb23,16": "And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus."
-"Lb23,17": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?"
-"Lb23,18": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:"
-"Lb23,19": "God [is] not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do [it]? or hath he spoken, and shall he not make it good?"
-"Lb23,20": "Behold, I have received [commandment] to bless: and he hath blessed; and I cannot reverse it."
-"Lb23,21": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God [is] with him, and the shout of a king [is] among them."
-"Lb23,22": "God brought them out of Egypt; he hath as it were the strength of an unicorn."
-"Lb23,23": "Surely [there is] no enchantment against Jacob, neither [is there] any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!"
-"Lb23,24": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat [of] the prey, and drink the blood of the slain."
-"Lb23,25": "And Balak said unto Balaam, Neither curse them at all, nor bless them at all."
-"Lb23,26": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?"
-"Lb23,27": "And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
-"Lb23,28": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon."
-"Lb23,29": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
-"Lb23,30": "And Balak did as Balaam had said, and offered a bullock and a ram on [every] altar."
+"Lb23,1":
+  text: "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams."
+  tags: []
+"Lb23,2":
+  text: "And Balak did as Balaam had spoken; and Balak and Balaam offered on [every] altar a bullock and a ram."
+  tags: []
+"Lb23,3":
+  text: "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place."
+  tags: []
+"Lb23,4":
+  text: "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon [every] altar a bullock and a ram."
+  tags: []
+"Lb23,5":
+  text: "And the LORD put a word in Balaam's mouth, and said, Return unto Balak, and thus thou shalt speak."
+  tags: []
+"Lb23,6":
+  text: "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
+  tags: []
+"Lb23,7":
+  text: "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, [saying], Come, curse me Jacob, and come, defy Israel."
+  tags: []
+"Lb23,8":
+  text: "How shall I curse, whom God hath not cursed? or how shall I defy, [whom] the LORD hath not defied?"
+  tags: []
+"Lb23,9":
+  text: "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations."
+  tags: []
+"Lb23,10":
+  text: "Who can count the dust of Jacob, and the number of the fourth [part] of Israel? Let me die the death of the righteous, and let my last end be like his!"
+  tags: []
+"Lb23,11":
+  text: "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed [them] altogether."
+  tags: []
+"Lb23,12":
+  text: "And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?"
+  tags: []
+"Lb23,13":
+  text: "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence."
+  tags: []
+"Lb23,14":
+  text: "And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on [every] altar."
+  tags: []
+"Lb23,15":
+  text: "And he said unto Balak, Stand here by thy burnt offering, while I meet [the LORD] yonder."
+  tags: []
+"Lb23,16":
+  text: "And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus."
+  tags: []
+"Lb23,17":
+  text: "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?"
+  tags: []
+"Lb23,18":
+  text: "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:"
+  tags: []
+"Lb23,19":
+  text: "God [is] not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do [it]? or hath he spoken, and shall he not make it good?"
+  tags: []
+"Lb23,20":
+  text: "Behold, I have received [commandment] to bless: and he hath blessed; and I cannot reverse it."
+  tags: []
+"Lb23,21":
+  text: "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God [is] with him, and the shout of a king [is] among them."
+  tags: []
+"Lb23,22":
+  text: "God brought them out of Egypt; he hath as it were the strength of an unicorn."
+  tags: []
+"Lb23,23":
+  text: "Surely [there is] no enchantment against Jacob, neither [is there] any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!"
+  tags: []
+"Lb23,24":
+  text: "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat [of] the prey, and drink the blood of the slain."
+  tags: []
+"Lb23,25":
+  text: "And Balak said unto Balaam, Neither curse them at all, nor bless them at all."
+  tags: []
+"Lb23,26":
+  text: "But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?"
+  tags: []
+"Lb23,27":
+  text: "And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
+  tags: []
+"Lb23,28":
+  text: "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon."
+  tags: []
+"Lb23,29":
+  text: "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
+  tags: []
+"Lb23,30":
+  text: "And Balak did as Balaam had said, and offered a bullock and a ram on [every] altar."
+  tags: []

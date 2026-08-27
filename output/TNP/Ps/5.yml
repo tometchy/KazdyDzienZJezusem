@@ -1,12 +1,36 @@
-"Ps5,1": "Nakłoń ucha ku moim słowom, JHWH, zważ na moje westchnienie."
-"Ps5,2": "Zwróć uwagę na głos mojego wołania, mój Królu i mój Boże, bo modlę się do Ciebie."
-"Ps5,3": "JHWH, o poranku usłyszysz mój głos, o poranku zaniosę do Ciebie modlitwę i będę czekał."
-"Ps5,4": "Ty bowiem nie jesteś Bogiem, który ma upodobanie w nieprawości, zły z Tobą nie zamieszka."
-"Ps5,5": "Wyniośli nie ostoją się przed Twoimi oczyma. Nienawidzisz wszystkich czyniących nieprawość."
-"Ps5,6": "Wytracisz tych, którzy mówią kłamstwa. JHWH brzydzi się człowiekiem krwi i podstępu."
-"Ps5,7": "Lecz ja dzięki obfitości Twojego miłosierdzia wejdę do Twojego domu i skłonię się ku Twojemu świętemu przybytkowi w Twojej bojaźni."
-"Ps5,8": "Prowadź mnie, JHWH w swojej sprawiedliwości ze względu na moich wrogów; wyrównaj przed moim obliczem Twoją drogę."
-"Ps5,9": "Bo w ich ustach nie ma wierności, ich wnętrze pełne zepsucia, ich gardło jest grobem otwartym, swoim językiem schlebiają."
-"Ps5,10": "Uznaj ich za winnych, Boże! Niech upadną przez własne zamiary. Z powodu ich licznych przestępstw odtrąć ich, ponieważ buntują się przeciwko Tobie."
-"Ps5,11": "Lecz niech się radują wszyscy, którzy Tobie ufają; niech zawsze wykrzykują z radości, bo ich osłonisz. Niech rozradują się w Tobie ci, którzy miłują Twoje imię."
-"Ps5,12": "Ty bowiem, JHWH, będziesz błogosławił sprawiedliwego, osłonisz go dobrocią jak tarczą."
+"Ps5,1":
+  text: "Nakłoń ucha ku moim słowom, JHWH, zważ na moje westchnienie."
+  tags: []
+"Ps5,2":
+  text: "Zwróć uwagę na głos mojego wołania, mój Królu i mój Boże, bo modlę się do Ciebie."
+  tags: []
+"Ps5,3":
+  text: "JHWH, o poranku usłyszysz mój głos, o poranku zaniosę do Ciebie modlitwę i będę czekał."
+  tags: []
+"Ps5,4":
+  text: "Ty bowiem nie jesteś Bogiem, który ma upodobanie w nieprawości, zły z Tobą nie zamieszka."
+  tags: []
+"Ps5,5":
+  text: "Wyniośli nie ostoją się przed Twoimi oczyma. Nienawidzisz wszystkich czyniących nieprawość."
+  tags: []
+"Ps5,6":
+  text: "Wytracisz tych, którzy mówią kłamstwa. JHWH brzydzi się człowiekiem krwi i podstępu."
+  tags: []
+"Ps5,7":
+  text: "Lecz ja dzięki obfitości Twojego miłosierdzia wejdę do Twojego domu i skłonię się ku Twojemu świętemu przybytkowi w Twojej bojaźni."
+  tags: []
+"Ps5,8":
+  text: "Prowadź mnie, JHWH w swojej sprawiedliwości ze względu na moich wrogów; wyrównaj przed moim obliczem Twoją drogę."
+  tags: []
+"Ps5,9":
+  text: "Bo w ich ustach nie ma wierności, ich wnętrze pełne zepsucia, ich gardło jest grobem otwartym, swoim językiem schlebiają."
+  tags: []
+"Ps5,10":
+  text: "Uznaj ich za winnych, Boże! Niech upadną przez własne zamiary. Z powodu ich licznych przestępstw odtrąć ich, ponieważ buntują się przeciwko Tobie."
+  tags: []
+"Ps5,11":
+  text: "Lecz niech się radują wszyscy, którzy Tobie ufają; niech zawsze wykrzykują z radości, bo ich osłonisz. Niech rozradują się w Tobie ci, którzy miłują Twoje imię."
+  tags: []
+"Ps5,12":
+  text: "Ty bowiem, JHWH, będziesz błogosławił sprawiedliwego, osłonisz go dobrocią jak tarczą."
+  tags: []

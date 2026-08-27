@@ -1,36 +1,108 @@
-"Ne11,1": "Przełożeni ludu zamieszkali więc w Jerozolimie, a reszta ludu rzucała losy, aby wyznaczyć jednego z dziesięciu na zamieszkanie w Jerozolimie, w świętym mieście, a dziewięciu pozostałych w innych miastach."
-"Ne11,2": "I lud błogosławił wszystkim mężczyznom, którzy dobrowolnie postanowili zamieszkać w Jerozolimie."
-"Ne11,3": "Oto naczelnicy tej prowincji, którzy zamieszkali w Jerozolimie – ale w innych miastach Judy mieszkali Izraelici, kapłani, Lewici, Netinici i synowie sług Salomona, każdy w swojej posiadłości, w swoim mieście:"
-"Ne11,4": "I tak w Jerozolimie mieszkali niektórzy z synów Judy i Beniamina. Z synów Judy: Ataja, syn Uzjasza, syna Zachariasza, syna Amarasza, syna Szefatiasza, syna Mahalaleela z synów Peresa;"
-"Ne11,5": "Także Maasejasz, syn Barucha, syna Kol-Chozego, syna Chasajasza, syna Chadajasza, syna Jojariba, syna Zachariasza, syna Szilonity."
-"Ne11,6": "Wszystkich synów Peresa mieszkających w Jerozolimie było czterystu sześćdziesięciu ośmiu dzielnych mężczyzn."
-"Ne11,7": "A to są synowie Beniamina: Sallu, syn Meszullama, syna Joeda, syna Pedajasza, syna Kolajasza, syna Maasejasza, syna Itiela, syna Jesajasza;"
-"Ne11,8": "A po nim Gabbaj, Sallaj, razem dziewięciuset dwudziestu ośmiu."
-"Ne11,9": "I Joel, syn Zikriego, był ich przełożonym, a Juda, syn Senua, był postawiony jako drugi nad miastem."
-"Ne11,10": "Z kapłanów: Jedajasz, syn Jojariba, i Jachyn;"
-"Ne11,11": "Serajasz, syn Chilkiasza, syna Meszullama, syna Sadoka, syna Merajota, syna Achituba – był on przełożonym domu Bożego."
-"Ne11,12": "I ich bracia, którzy pełnili służbę w domu – razem ośmiuset dwudziestu dwóch. Potem Adajasz, syn Jerochama, syna Pelaliasza, syna Amsiego, syna Zachariasza, syna Paszchura, syna Malkiasza."
-"Ne11,13": "I jego bracia, naczelnicy rodów – dwustu czterdziestu dwóch. I Amaszaj, syn Asareel, syna Achzaja, syna Meszillemota, syna Immera."
-"Ne11,14": "I ich bracia, dzielni wojownicy – stu dwudziestu ośmiu. Ich przełożonym był Zabdiel, syn Haggedolima."
-"Ne11,15": "A z Lewitów: Szemejasz, syn Chaszuba, syna Azrikama, syna Chaszabiasza, syna Bunniego."
-"Ne11,16": "Szabbetaj i Jozabad, z przełożonych Lewitów, byli odpowiedzialni za służbę na zewnątrz domu Bożego."
-"Ne11,17": "A Mattaniasz, syn Miki, syna Zabdiego, syna Asafa, kierował pieśń dziękczynną przy modlitwie. A Bakbukiasz był drugim spośród swoich braci, potem Abda, syn Szammuy, syna Galala, syna Jedutuna."
-"Ne11,18": "Wszystkich Lewitów w świętym mieście było dwustu osiemdziesięciu czterech."
-"Ne11,19": "Odźwierni: Akkub, Talmon i ich bracia, którzy trzymali straż przy bramach – razem stu siedemdziesięciu dwóch."
-"Ne11,20": "A pozostali z Izraela, z kapłanów i z Lewitów mieszkali we wszystkich miastach Judy, każdy w swoim dziedzictwie."
-"Ne11,21": "Ale Netinici mieszkali na Ofelu, a Sicha i Giszpa stali na czele Netinitów."
-"Ne11,22": "Przełożonym nad Lewitami w Jerozolimie był Uzzi, syn Baniego, syna Chaszabiasza, syna Mattaniasza, syna Miki. Ci z synów Asafa byli śpiewakami przy służbie w domu Bożym."
-"Ne11,23": "Istniał bowiem co do nich rozkaz króla, wyznaczający śpiewakom dzienną porcję na ich utrzymanie."
-"Ne11,24": "Petachiasz, syn Meszezabeela, z synów Zeracha, syna Judy, był przy boku króla w każdej sprawie dotyczącej ludu."
-"Ne11,25": "A co do wsi i ich pól, niektórzy z synów Judy mieszkali w Kiriat-Arba i przynależnych do niego wsiach, w Dibonie i przynależnych do niego wsiach oraz w Jekkabseel i przynależnych do niego wsiach;"
-"Ne11,26": "W Jeszua, Moladzie i Bet-Pelet;"
-"Ne11,27": "W Chasar-Szual i w Beer-Szebie i przynależnych do niej wsiach;"
-"Ne11,28": "W Siklag i w Mekona i przynależnych do niego wsiach;"
-"Ne11,29": "W En-Rimmon, Sorea i Jarmut;"
-"Ne11,30": "W Zanoach i w Adullam i przynależnych do nich wsiach, w Lakisz i na przynależnych do niego polach i w Azece i przynależnych do niej wsiach. Mieszkali więc od Beer-Szeby aż do doliny Hinnom."
-"Ne11,31": "Synowie Beniamina z Geba mieszkali w Mikmas, Ajja i w Betel i przynależnych do niego wsiach;"
-"Ne11,32": "W Anatot, Nob i Anania;"
-"Ne11,33": "W Chasor, Rama i Gittaim;"
-"Ne11,34": "W Chadid, Seboim i Neballat;"
-"Ne11,35": "W Lod i Ono, i w Dolinie Rzemieślników."
-"Ne11,36": "A spośród Lewitów mieszkali niektórzy w działach Judy i Beniamina."
+"Ne11,1":
+  text: "Przełożeni ludu zamieszkali więc w Jerozolimie, a reszta ludu rzucała losy, aby wyznaczyć jednego z dziesięciu na zamieszkanie w Jerozolimie, w świętym mieście, a dziewięciu pozostałych w innych miastach."
+  tags: []
+"Ne11,2":
+  text: "I lud błogosławił wszystkim mężczyznom, którzy dobrowolnie postanowili zamieszkać w Jerozolimie."
+  tags: []
+"Ne11,3":
+  text: "Oto naczelnicy tej prowincji, którzy zamieszkali w Jerozolimie – ale w innych miastach Judy mieszkali Izraelici, kapłani, Lewici, Netinici i synowie sług Salomona, każdy w swojej posiadłości, w swoim mieście:"
+  tags: []
+"Ne11,4":
+  text: "I tak w Jerozolimie mieszkali niektórzy z synów Judy i Beniamina. Z synów Judy: Ataja, syn Uzjasza, syna Zachariasza, syna Amarasza, syna Szefatiasza, syna Mahalaleela z synów Peresa;"
+  tags: []
+"Ne11,5":
+  text: "Także Maasejasz, syn Barucha, syna Kol-Chozego, syna Chasajasza, syna Chadajasza, syna Jojariba, syna Zachariasza, syna Szilonity."
+  tags: []
+"Ne11,6":
+  text: "Wszystkich synów Peresa mieszkających w Jerozolimie było czterystu sześćdziesięciu ośmiu dzielnych mężczyzn."
+  tags: []
+"Ne11,7":
+  text: "A to są synowie Beniamina: Sallu, syn Meszullama, syna Joeda, syna Pedajasza, syna Kolajasza, syna Maasejasza, syna Itiela, syna Jesajasza;"
+  tags: []
+"Ne11,8":
+  text: "A po nim Gabbaj, Sallaj, razem dziewięciuset dwudziestu ośmiu."
+  tags: []
+"Ne11,9":
+  text: "I Joel, syn Zikriego, był ich przełożonym, a Juda, syn Senua, był postawiony jako drugi nad miastem."
+  tags: []
+"Ne11,10":
+  text: "Z kapłanów: Jedajasz, syn Jojariba, i Jachyn;"
+  tags: []
+"Ne11,11":
+  text: "Serajasz, syn Chilkiasza, syna Meszullama, syna Sadoka, syna Merajota, syna Achituba – był on przełożonym domu Bożego."
+  tags: []
+"Ne11,12":
+  text: "I ich bracia, którzy pełnili służbę w domu – razem ośmiuset dwudziestu dwóch. Potem Adajasz, syn Jerochama, syna Pelaliasza, syna Amsiego, syna Zachariasza, syna Paszchura, syna Malkiasza."
+  tags: []
+"Ne11,13":
+  text: "I jego bracia, naczelnicy rodów – dwustu czterdziestu dwóch. I Amaszaj, syn Asareel, syna Achzaja, syna Meszillemota, syna Immera."
+  tags: []
+"Ne11,14":
+  text: "I ich bracia, dzielni wojownicy – stu dwudziestu ośmiu. Ich przełożonym był Zabdiel, syn Haggedolima."
+  tags: []
+"Ne11,15":
+  text: "A z Lewitów: Szemejasz, syn Chaszuba, syna Azrikama, syna Chaszabiasza, syna Bunniego."
+  tags: []
+"Ne11,16":
+  text: "Szabbetaj i Jozabad, z przełożonych Lewitów, byli odpowiedzialni za służbę na zewnątrz domu Bożego."
+  tags: []
+"Ne11,17":
+  text: "A Mattaniasz, syn Miki, syna Zabdiego, syna Asafa, kierował pieśń dziękczynną przy modlitwie. A Bakbukiasz był drugim spośród swoich braci, potem Abda, syn Szammuy, syna Galala, syna Jedutuna."
+  tags: []
+"Ne11,18":
+  text: "Wszystkich Lewitów w świętym mieście było dwustu osiemdziesięciu czterech."
+  tags: []
+"Ne11,19":
+  text: "Odźwierni: Akkub, Talmon i ich bracia, którzy trzymali straż przy bramach – razem stu siedemdziesięciu dwóch."
+  tags: []
+"Ne11,20":
+  text: "A pozostali z Izraela, z kapłanów i z Lewitów mieszkali we wszystkich miastach Judy, każdy w swoim dziedzictwie."
+  tags: []
+"Ne11,21":
+  text: "Ale Netinici mieszkali na Ofelu, a Sicha i Giszpa stali na czele Netinitów."
+  tags: []
+"Ne11,22":
+  text: "Przełożonym nad Lewitami w Jerozolimie był Uzzi, syn Baniego, syna Chaszabiasza, syna Mattaniasza, syna Miki. Ci z synów Asafa byli śpiewakami przy służbie w domu Bożym."
+  tags: []
+"Ne11,23":
+  text: "Istniał bowiem co do nich rozkaz króla, wyznaczający śpiewakom dzienną porcję na ich utrzymanie."
+  tags: []
+"Ne11,24":
+  text: "Petachiasz, syn Meszezabeela, z synów Zeracha, syna Judy, był przy boku króla w każdej sprawie dotyczącej ludu."
+  tags: []
+"Ne11,25":
+  text: "A co do wsi i ich pól, niektórzy z synów Judy mieszkali w Kiriat-Arba i przynależnych do niego wsiach, w Dibonie i przynależnych do niego wsiach oraz w Jekkabseel i przynależnych do niego wsiach;"
+  tags: []
+"Ne11,26":
+  text: "W Jeszua, Moladzie i Bet-Pelet;"
+  tags: []
+"Ne11,27":
+  text: "W Chasar-Szual i w Beer-Szebie i przynależnych do niej wsiach;"
+  tags: []
+"Ne11,28":
+  text: "W Siklag i w Mekona i przynależnych do niego wsiach;"
+  tags: []
+"Ne11,29":
+  text: "W En-Rimmon, Sorea i Jarmut;"
+  tags: []
+"Ne11,30":
+  text: "W Zanoach i w Adullam i przynależnych do nich wsiach, w Lakisz i na przynależnych do niego polach i w Azece i przynależnych do niej wsiach. Mieszkali więc od Beer-Szeby aż do doliny Hinnom."
+  tags: []
+"Ne11,31":
+  text: "Synowie Beniamina z Geba mieszkali w Mikmas, Ajja i w Betel i przynależnych do niego wsiach;"
+  tags: []
+"Ne11,32":
+  text: "W Anatot, Nob i Anania;"
+  tags: []
+"Ne11,33":
+  text: "W Chasor, Rama i Gittaim;"
+  tags: []
+"Ne11,34":
+  text: "W Chadid, Seboim i Neballat;"
+  tags: []
+"Ne11,35":
+  text: "W Lod i Ono, i w Dolinie Rzemieślników."
+  tags: []
+"Ne11,36":
+  text: "A spośród Lewitów mieszkali niektórzy w działach Judy i Beniamina."
+  tags: []

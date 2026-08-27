@@ -1,25 +1,75 @@
-"2Sm24,1": "Wtedy znowu zapłonął gniew PANA przeciw Izraelowi, gdy szatan pobudził Dawida przeciwko nim, mówiąc: Idź, policz Izraela i Judę."
-"2Sm24,2": "Król powiedział do Joaba, dowódcy wojska, który był z nim: Przebiegnij teraz wszystkie pokolenia Izraela od Dan aż do Beer-Szeby i policzcie lud, abym poznał jego liczbę."
-"2Sm24,3": "Lecz Joab odpowiedział królowi: Niech PAN, twój Bóg, doda do ludu sto razy tyle, ile ich jest, i niech oczy mojego pana, króla, to zobaczą. Lecz czemu mój pan, król, żąda tego?"
-"2Sm24,4": "Słowo króla jednak przemogło Joaba i dowódców wojska. Joab i dowódcy wojska wyszli więc od króla, aby policzyć lud Izraela."
-"2Sm24,5": "Przeprawili się przez Jordan i rozbili obóz przy Aroerze, po prawej stronie miasta, które leży w środku rzeki Gad i przy Jazer."
-"2Sm24,6": "Następnie przybyli do Gileadu i do ziemi Dolnej Hadsy, a stamtąd przybyli do Dan-Jaan, potem skręcili do Sydonu."
-"2Sm24,7": "Później przyszli do twierdzy Tyru i do wszystkich miast Chiwwitów i Kananejczyków, skąd udali się na południe Judy aż do Beer-Szeby."
-"2Sm24,8": "A gdy obeszli całą ziemię, przybyli do Jerozolimy po upływie dziewięciu miesięcy i dwudziestu dni."
-"2Sm24,9": "I Joab podał królowi liczbę spisanej ludności. A w Izraelu było osiemset tysięcy dzielnych wojowników dobywających miecz, mężczyzn Judy było zaś pięćset tysięcy."
-"2Sm24,10": "A serce Dawida zadrżało po tym, jak obliczył lud. I Dawid powiedział do PANA: Bardzo zgrzeszyłem, że to uczyniłem. Lecz teraz, PANIE, proszę, zgładź nieprawość swego sługi, gdyż bardzo głupio postąpiłem."
-"2Sm24,11": "A gdy Dawid wstał rano, oto słowo PANA doszło do proroka Gada, widzącego Dawida:"
-"2Sm24,12": "Idź i powiedz Dawidowi: Tak mówi PAN: Trzy rzeczy daję ci do wyboru, wybierz jedną z nich, abym ci ją uczynił."
-"2Sm24,13": "Przyszedł więc Gad do Dawida, oznajmił mu i powiedział: Czy ma nastać siedem lat głodu w twojej ziemi, czy chcesz uciekać przez trzy miesiące przed swoimi wrogami, którzy będą cię ścigać, czy też w twojej ziemi ma być przez trzy dni zaraza? Zastanów się teraz i rozważ, co mam odpowiedzieć temu, który mnie posłał."
-"2Sm24,14": "Dawid odpowiedział Gadowi: Jestem w udręce. Wpadnijmy raczej w rękę PANA, gdyż wielkie jest jego miłosierdzie. Niech nie wpadnę w rękę człowieka."
-"2Sm24,15": "PAN zesłał więc na Izraela zarazę od rana do ustalonego czasu. Umarło z ludu od Dan do Beer-Szeby siedemdziesiąt tysięcy mężczyzn."
-"2Sm24,16": "A gdy Anioł wyciągnął rękę nad Jerozolimą, aby ją zniszczyć, wtedy PAN użalił się nad tym nieszczęściem i powiedział do Anioła, który niszczył lud: Dosyć, powstrzymaj rękę. A Anioł PANA był przy klepisku Arawny Jebusyty."
-"2Sm24,17": "I gdy Dawid ujrzał Anioła karzącego lud, powiedział do PANA: Oto ja zgrzeszyłem, ja źle postąpiłem. Lecz te owce cóż uczyniły? Proszę, niech twoja ręka obróci się na mnie i na dom mojego ojca."
-"2Sm24,18": "Tego dnia przyszedł Gad do Dawida i powiedział mu: Idź, zbuduj PANU ołtarz na klepisku Arawny Jebusyty."
-"2Sm24,19": "Dawid poszedł więc zgodnie ze słowem Gada, jak to PAN rozkazał."
-"2Sm24,20": "Kiedy Arawna spojrzał, zobaczył króla i jego sługi zbliżających się do niego. I Arawna wyszedł, i pokłonił się królowi twarzą do ziemi."
-"2Sm24,21": "Wtedy Arawna zapytał: Dlaczego mój pan, król, przyszedł do swego sługi? Dawid odpowiedział: Aby kupić od ciebie to klepisko i na nim zbudować PANU ołtarz, żeby plaga została powstrzymana wśród ludu."
-"2Sm24,22": "Arawna powiedział do Dawida: Niech mój pan, król, weźmie i złoży to, co uzna za słuszne. Oto woły na całopalenie, a sprzęty młocarskie i jarzma wołów na drwa."
-"2Sm24,23": "To wszystko jako król dawał Arawna królowi. I Arawna powiedział do króla: Niech PAN, twój Bóg, ma w tobie upodobanie."
-"2Sm24,24": "Lecz król powiedział do Arawny: Nie, ale koniecznie kupię to od ciebie za pieniądze. Nie będę składać PANU, swojemu Bogu, całopaleń, które nic nie kosztują. Kupił więc Dawid to klepisko i woły za pięćdziesiąt syklów srebra."
-"2Sm24,25": "I Dawid zbudował tam PANU ołtarz, i złożył całopalenia i ofiary pojednawcze. I PAN dał się ubłagać co do ziemi i plaga w Izraelu została powstrzymana."
+"2Sm24,1":
+  text: "Wtedy znowu zapłonął gniew PANA przeciw Izraelowi, gdy szatan pobudził Dawida przeciwko nim, mówiąc: Idź, policz Izraela i Judę."
+  tags: []
+"2Sm24,2":
+  text: "Król powiedział do Joaba, dowódcy wojska, który był z nim: Przebiegnij teraz wszystkie pokolenia Izraela od Dan aż do Beer-Szeby i policzcie lud, abym poznał jego liczbę."
+  tags: []
+"2Sm24,3":
+  text: "Lecz Joab odpowiedział królowi: Niech PAN, twój Bóg, doda do ludu sto razy tyle, ile ich jest, i niech oczy mojego pana, króla, to zobaczą. Lecz czemu mój pan, król, żąda tego?"
+  tags: []
+"2Sm24,4":
+  text: "Słowo króla jednak przemogło Joaba i dowódców wojska. Joab i dowódcy wojska wyszli więc od króla, aby policzyć lud Izraela."
+  tags: []
+"2Sm24,5":
+  text: "Przeprawili się przez Jordan i rozbili obóz przy Aroerze, po prawej stronie miasta, które leży w środku rzeki Gad i przy Jazer."
+  tags: []
+"2Sm24,6":
+  text: "Następnie przybyli do Gileadu i do ziemi Dolnej Hadsy, a stamtąd przybyli do Dan-Jaan, potem skręcili do Sydonu."
+  tags: []
+"2Sm24,7":
+  text: "Później przyszli do twierdzy Tyru i do wszystkich miast Chiwwitów i Kananejczyków, skąd udali się na południe Judy aż do Beer-Szeby."
+  tags: []
+"2Sm24,8":
+  text: "A gdy obeszli całą ziemię, przybyli do Jerozolimy po upływie dziewięciu miesięcy i dwudziestu dni."
+  tags: []
+"2Sm24,9":
+  text: "I Joab podał królowi liczbę spisanej ludności. A w Izraelu było osiemset tysięcy dzielnych wojowników dobywających miecz, mężczyzn Judy było zaś pięćset tysięcy."
+  tags: []
+"2Sm24,10":
+  text: "A serce Dawida zadrżało po tym, jak obliczył lud. I Dawid powiedział do PANA: Bardzo zgrzeszyłem, że to uczyniłem. Lecz teraz, PANIE, proszę, zgładź nieprawość swego sługi, gdyż bardzo głupio postąpiłem."
+  tags: []
+"2Sm24,11":
+  text: "A gdy Dawid wstał rano, oto słowo PANA doszło do proroka Gada, widzącego Dawida:"
+  tags: []
+"2Sm24,12":
+  text: "Idź i powiedz Dawidowi: Tak mówi PAN: Trzy rzeczy daję ci do wyboru, wybierz jedną z nich, abym ci ją uczynił."
+  tags: []
+"2Sm24,13":
+  text: "Przyszedł więc Gad do Dawida, oznajmił mu i powiedział: Czy ma nastać siedem lat głodu w twojej ziemi, czy chcesz uciekać przez trzy miesiące przed swoimi wrogami, którzy będą cię ścigać, czy też w twojej ziemi ma być przez trzy dni zaraza? Zastanów się teraz i rozważ, co mam odpowiedzieć temu, który mnie posłał."
+  tags: []
+"2Sm24,14":
+  text: "Dawid odpowiedział Gadowi: Jestem w udręce. Wpadnijmy raczej w rękę PANA, gdyż wielkie jest jego miłosierdzie. Niech nie wpadnę w rękę człowieka."
+  tags: []
+"2Sm24,15":
+  text: "PAN zesłał więc na Izraela zarazę od rana do ustalonego czasu. Umarło z ludu od Dan do Beer-Szeby siedemdziesiąt tysięcy mężczyzn."
+  tags: []
+"2Sm24,16":
+  text: "A gdy Anioł wyciągnął rękę nad Jerozolimą, aby ją zniszczyć, wtedy PAN użalił się nad tym nieszczęściem i powiedział do Anioła, który niszczył lud: Dosyć, powstrzymaj rękę. A Anioł PANA był przy klepisku Arawny Jebusyty."
+  tags: []
+"2Sm24,17":
+  text: "I gdy Dawid ujrzał Anioła karzącego lud, powiedział do PANA: Oto ja zgrzeszyłem, ja źle postąpiłem. Lecz te owce cóż uczyniły? Proszę, niech twoja ręka obróci się na mnie i na dom mojego ojca."
+  tags: []
+"2Sm24,18":
+  text: "Tego dnia przyszedł Gad do Dawida i powiedział mu: Idź, zbuduj PANU ołtarz na klepisku Arawny Jebusyty."
+  tags: []
+"2Sm24,19":
+  text: "Dawid poszedł więc zgodnie ze słowem Gada, jak to PAN rozkazał."
+  tags: []
+"2Sm24,20":
+  text: "Kiedy Arawna spojrzał, zobaczył króla i jego sługi zbliżających się do niego. I Arawna wyszedł, i pokłonił się królowi twarzą do ziemi."
+  tags: []
+"2Sm24,21":
+  text: "Wtedy Arawna zapytał: Dlaczego mój pan, król, przyszedł do swego sługi? Dawid odpowiedział: Aby kupić od ciebie to klepisko i na nim zbudować PANU ołtarz, żeby plaga została powstrzymana wśród ludu."
+  tags: []
+"2Sm24,22":
+  text: "Arawna powiedział do Dawida: Niech mój pan, król, weźmie i złoży to, co uzna za słuszne. Oto woły na całopalenie, a sprzęty młocarskie i jarzma wołów na drwa."
+  tags: []
+"2Sm24,23":
+  text: "To wszystko jako król dawał Arawna królowi. I Arawna powiedział do króla: Niech PAN, twój Bóg, ma w tobie upodobanie."
+  tags: []
+"2Sm24,24":
+  text: "Lecz król powiedział do Arawny: Nie, ale koniecznie kupię to od ciebie za pieniądze. Nie będę składać PANU, swojemu Bogu, całopaleń, które nic nie kosztują. Kupił więc Dawid to klepisko i woły za pięćdziesiąt syklów srebra."
+  tags: []
+"2Sm24,25":
+  text: "I Dawid zbudował tam PANU ołtarz, i złożył całopalenia i ofiary pojednawcze. I PAN dał się ubłagać co do ziemi i plaga w Izraelu została powstrzymana."
+  tags: []

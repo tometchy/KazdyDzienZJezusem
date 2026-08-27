@@ -1,18 +1,54 @@
-"Ps83,1": "Boże, nie pozostawaj w ciszy; nie milcz i nie bądź bezczynny, Boże!"
-"Ps83,2": "Bo oto burzą się Twoi wrogowie, a ci, którzy Cię nienawidzą, podnoszą głowę."
-"Ps83,3": "Przeciwko Twojemu ludowi podstępnie spiskują i naradzają się przeciwko chronionym przez Ciebie;"
-"Ps83,4": "I mówili: Chodźcie, wymażmy ich jako naród, aby więcej nie wspominano imienia Izraela."
-"Ps83,5": "Bo jednomyślnie naradzali się ze sobą, przeciwko Tobie zawarli przymierze."
-"Ps83,6": "Namioty Edomu i Izmaelitów, Moab i Hagaryci;"
-"Ps83,7": "Gebal, Ammon i Amalek; Filistyni z mieszkańcami Tyru."
-"Ps83,8": "Także Asyryjczyk przyłączył się do nich, stał się ramieniem dla synów Lota. Sela."
-"Ps83,9": "Uczyń im tak, jak Midianowi, jak Syserze, jak Jabinowi nad potokiem Kiszon;"
-"Ps83,10": "Którzy zostali wytępieni w Endor stali się jak nawóz dla ziemi."
-"Ps83,11": "Z ich dostojnikami postąp jak z Orebem i Zeebem, jak z Zebachem i Salmunną, ze wszystkimi ich książętami;"
-"Ps83,12": "Którzy powiedzieli: Weźmy sobie w posiadanie siedziby Boga."
-"Ps83,13": "Mój Boże, uczyń ich jak wichurę i jak plewę przed obliczem wiatru."
-"Ps83,14": "Jak ogień, który pali las, i jak płomień, który przypieka góry;"
-"Ps83,15": "Tak Ty ich ścigaj swoją nawałnicą i swoją burzą ogarnij ich przerażeniem."
-"Ps83,16": "Okryj ich twarze hańbą, aby szukali Twojego imienia, JHWH!"
-"Ps83,17": "Niech się zawstydzą i zatrwożą na zawsze, niech będą pohańbieni i zginą."
-"Ps83,18": "Niech poznają, że jedynie Ty, którego imię jest JHWH, Ty jesteś Najwyższy ponad całą ziemią."
+"Ps83,1":
+  text: "Boże, nie pozostawaj w ciszy; nie milcz i nie bądź bezczynny, Boże!"
+  tags: []
+"Ps83,2":
+  text: "Bo oto burzą się Twoi wrogowie, a ci, którzy Cię nienawidzą, podnoszą głowę."
+  tags: []
+"Ps83,3":
+  text: "Przeciwko Twojemu ludowi podstępnie spiskują i naradzają się przeciwko chronionym przez Ciebie;"
+  tags: []
+"Ps83,4":
+  text: "I mówili: Chodźcie, wymażmy ich jako naród, aby więcej nie wspominano imienia Izraela."
+  tags: []
+"Ps83,5":
+  text: "Bo jednomyślnie naradzali się ze sobą, przeciwko Tobie zawarli przymierze."
+  tags: []
+"Ps83,6":
+  text: "Namioty Edomu i Izmaelitów, Moab i Hagaryci;"
+  tags: []
+"Ps83,7":
+  text: "Gebal, Ammon i Amalek; Filistyni z mieszkańcami Tyru."
+  tags: []
+"Ps83,8":
+  text: "Także Asyryjczyk przyłączył się do nich, stał się ramieniem dla synów Lota. Sela."
+  tags: []
+"Ps83,9":
+  text: "Uczyń im tak, jak Midianowi, jak Syserze, jak Jabinowi nad potokiem Kiszon;"
+  tags: []
+"Ps83,10":
+  text: "Którzy zostali wytępieni w Endor stali się jak nawóz dla ziemi."
+  tags: []
+"Ps83,11":
+  text: "Z ich dostojnikami postąp jak z Orebem i Zeebem, jak z Zebachem i Salmunną, ze wszystkimi ich książętami;"
+  tags: []
+"Ps83,12":
+  text: "Którzy powiedzieli: Weźmy sobie w posiadanie siedziby Boga."
+  tags: []
+"Ps83,13":
+  text: "Mój Boże, uczyń ich jak wichurę i jak plewę przed obliczem wiatru."
+  tags: []
+"Ps83,14":
+  text: "Jak ogień, który pali las, i jak płomień, który przypieka góry;"
+  tags: []
+"Ps83,15":
+  text: "Tak Ty ich ścigaj swoją nawałnicą i swoją burzą ogarnij ich przerażeniem."
+  tags: []
+"Ps83,16":
+  text: "Okryj ich twarze hańbą, aby szukali Twojego imienia, JHWH!"
+  tags: []
+"Ps83,17":
+  text: "Niech się zawstydzą i zatrwożą na zawsze, niech będą pohańbieni i zginą."
+  tags: []
+"Ps83,18":
+  text: "Niech poznają, że jedynie Ty, którego imię jest JHWH, Ty jesteś Najwyższy ponad całą ziemią."
+  tags: []

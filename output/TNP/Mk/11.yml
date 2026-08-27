@@ -1,33 +1,99 @@
-"Mk11,1": "A gdy przybliżyli się do Jerozolimy, do Betfage i Betanii pod Górą Oliwną, posłał dwóch swoich uczniów,"
-"Mk11,2": "I powiedział im: Idźcie do miasteczka, leżącego naprzeciw was, a zaraz gdy wejdziecie do niego, znajdziecie oślę uwiązane, na którym nikt z ludzi jeszcze nie siedział; odwiążcie je i przyprowadźcie."
-"Mk11,3": "A jeśliby ktoś powiedział wam: Co czynicie? Powiedzcie, że Pan je potrzebuje i zaraz je tu odeśle."
-"Mk11,4": "Odeszli więc i znaleźli oślę uwiązane u drzwi, na zewnątrz przy ulicy, i je odwiązali."
-"Mk11,5": "A niektórzy z tych, co tam stali, mówili: Co czynicie, odwiązując to oślę?"
-"Mk11,6": "A oni im powiedzieli tak, jak im rozkazał Jezus. I pozwolili im."
-"Mk11,7": "I przyprowadzili oślę do Jezusa, i zarzucili na nie swoje szaty; a On usiadł na nim."
-"Mk11,8": "A wielu słało swoje szaty na drodze; inni natomiast słali na drodze gałązki odcięte z drzew."
-"Mk11,9": "A ci, którzy Go poprzedzali i ci, co podążali za Nim, wołali, mówiąc: Hosanna! Błogosławiony, który przychodzi w imieniu PANA!"
-"Mk11,10": "Błogosławione jest, nadchodzące w imieniu PANA, Królestwo naszego ojca Dawida! Hosanna na wysokościach!"
-"Mk11,11": "I Jezus wjechał do Jerozolimy, i wszedł do świątyni, i obejrzał wszystko; a że była już wieczorna godzina, wyszedł z dwunastoma do Betanii."
-"Mk11,12": "Następnego dnia, gdy wyszli z Betanii, poczuł głód."
-"Mk11,13": "I ujrzał z daleka figowca mającego liście, podszedł zatem zobaczyć, czy na nim czegoś nie znajdzie; i podszedł do niego, jednak nic nie znalazł, tylko liście; bo to nie był czas na figi."
-"Mk11,14": "I Jezus odezwał się do niego, mówiąc: Oby nikt na wieki z ciebie nie zjadł owocu. I słyszeli to Jego uczniowie."
-"Mk11,15": "I przyszli do Jerozolimy; a gdy Jezus wszedł do świątyni, zaczął wyrzucać sprzedających i kupujących w świątyni, i poprzewracał stoły tych, co wymieniali pieniądze, i stoły tych, co sprzedawali gołębie;"
-"Mk11,16": "I nie dopuszczał, żeby ktoś przeniósł naczynie przez świątynię."
-"Mk11,17": "I nauczał, mówiąc im: Czy nie jest napisane: Dom mój zostanie nazwany domem modlitwy przez wszystkie narody? A wy uczyniliście z niego jaskinię rozbójników."
-"Mk11,18": "A słyszeli to uczeni w Piśmie i arcykapłani, i szukali sposobu, jakby Go zgubić; albowiem bali się Go, dlatego że cały tłum zdumiewał się nad Jego nauką."
-"Mk11,19": "A gdy nadszedł wieczór, wyszli z miasta."
-"Mk11,20": "A rano przechodząc obok tego figowca, ujrzeli, że usechł od korzeni."
-"Mk11,21": "I przypomniał to sobie Piotr, i mówi do Niego: Rabbi! Oto figowiec, który przekląłeś, usechł."
-"Mk11,22": "A Jezus w odpowiedzi, rzekł im: Miejcie wiarę w Boga."
-"Mk11,23": "Zaprawdę bowiem mówię wam, że ktokolwiek powiedziałby tej górze: Podnieś się i rzuć się w morze, a nie wahałby się w swoim sercu, ale uwierzyłby, że to, co mówi, staje się, stanie się mu cokolwiek by powiedział."
-"Mk11,24": "Dlatego mówię wam: Wszystko o cokolwiek modląc się, prosicie, wierzcie, że otrzymujecie, a stanie się wam."
-"Mk11,25": "A gdy stoicie modląc się, przebaczajcie, jeśli macie coś przeciwko komuś, aby i Ojciec wasz w niebiosach przebaczył wam wasze występki."
-"Mk11,26": "Bo jeśli wy nie odpuszczacie, to i Ojciec wasz w niebiosach nie odpuści wam występków waszych."
-"Mk11,27": "I przyszli ponownie do Jerozolimy. A On przechadzał się po świątyni; i przystąpili do Niego arcykapłani, uczeni w Piśmie i starsi,"
-"Mk11,28": "I mówili do Niego: Jakim prawem to czynisz? I kto Ci dał to prawo, abyś to czynił?"
-"Mk11,29": "A Jezus w odpowiedzi, rzekł im: I ja zapytam was o jedną rzecz; odpowiedzcie mi, a powiem wam, jakim prawem to czynię."
-"Mk11,30": "Czy chrzest Jana był z nieba, czy z ludzi? Odpowiedzcie mi."
-"Mk11,31": "I rozsądzali to między sobą, mówiąc: Jeśli powiemy: Z nieba, to powie: Dlaczego więc mu nie uwierzyliście?"
-"Mk11,32": "A gdybyśmy powiedzieli: Z ludzi? – bali się jednak ludu; bo wszyscy mieli Jana za prawdziwego proroka –"
-"Mk11,33": "I w odpowiedzi, rzekli Jezusowi: Nie wiemy. A Jezus odparł im: I ja wam nie powiem, jakim prawem to czynię."
+"Mk11,1":
+  text: "A gdy przybliżyli się do Jerozolimy, do Betfage i Betanii pod Górą Oliwną, posłał dwóch swoich uczniów,"
+  tags: []
+"Mk11,2":
+  text: "I powiedział im: Idźcie do miasteczka, leżącego naprzeciw was, a zaraz gdy wejdziecie do niego, znajdziecie oślę uwiązane, na którym nikt z ludzi jeszcze nie siedział; odwiążcie je i przyprowadźcie."
+  tags: []
+"Mk11,3":
+  text: "A jeśliby ktoś powiedział wam: Co czynicie? Powiedzcie, że Pan je potrzebuje i zaraz je tu odeśle."
+  tags: []
+"Mk11,4":
+  text: "Odeszli więc i znaleźli oślę uwiązane u drzwi, na zewnątrz przy ulicy, i je odwiązali."
+  tags: []
+"Mk11,5":
+  text: "A niektórzy z tych, co tam stali, mówili: Co czynicie, odwiązując to oślę?"
+  tags: []
+"Mk11,6":
+  text: "A oni im powiedzieli tak, jak im rozkazał Jezus. I pozwolili im."
+  tags: []
+"Mk11,7":
+  text: "I przyprowadzili oślę do Jezusa, i zarzucili na nie swoje szaty; a On usiadł na nim."
+  tags: []
+"Mk11,8":
+  text: "A wielu słało swoje szaty na drodze; inni natomiast słali na drodze gałązki odcięte z drzew."
+  tags: []
+"Mk11,9":
+  text: "A ci, którzy Go poprzedzali i ci, co podążali za Nim, wołali, mówiąc: Hosanna! Błogosławiony, który przychodzi w imieniu PANA!"
+  tags: []
+"Mk11,10":
+  text: "Błogosławione jest, nadchodzące w imieniu PANA, Królestwo naszego ojca Dawida! Hosanna na wysokościach!"
+  tags: []
+"Mk11,11":
+  text: "I Jezus wjechał do Jerozolimy, i wszedł do świątyni, i obejrzał wszystko; a że była już wieczorna godzina, wyszedł z dwunastoma do Betanii."
+  tags: []
+"Mk11,12":
+  text: "Następnego dnia, gdy wyszli z Betanii, poczuł głód."
+  tags: []
+"Mk11,13":
+  text: "I ujrzał z daleka figowca mającego liście, podszedł zatem zobaczyć, czy na nim czegoś nie znajdzie; i podszedł do niego, jednak nic nie znalazł, tylko liście; bo to nie był czas na figi."
+  tags: []
+"Mk11,14":
+  text: "I Jezus odezwał się do niego, mówiąc: Oby nikt na wieki z ciebie nie zjadł owocu. I słyszeli to Jego uczniowie."
+  tags: []
+"Mk11,15":
+  text: "I przyszli do Jerozolimy; a gdy Jezus wszedł do świątyni, zaczął wyrzucać sprzedających i kupujących w świątyni, i poprzewracał stoły tych, co wymieniali pieniądze, i stoły tych, co sprzedawali gołębie;"
+  tags: []
+"Mk11,16":
+  text: "I nie dopuszczał, żeby ktoś przeniósł naczynie przez świątynię."
+  tags: []
+"Mk11,17":
+  text: "I nauczał, mówiąc im: Czy nie jest napisane: Dom mój zostanie nazwany domem modlitwy przez wszystkie narody? A wy uczyniliście z niego jaskinię rozbójników."
+  tags: []
+"Mk11,18":
+  text: "A słyszeli to uczeni w Piśmie i arcykapłani, i szukali sposobu, jakby Go zgubić; albowiem bali się Go, dlatego że cały tłum zdumiewał się nad Jego nauką."
+  tags: []
+"Mk11,19":
+  text: "A gdy nadszedł wieczór, wyszli z miasta."
+  tags: []
+"Mk11,20":
+  text: "A rano przechodząc obok tego figowca, ujrzeli, że usechł od korzeni."
+  tags: []
+"Mk11,21":
+  text: "I przypomniał to sobie Piotr, i mówi do Niego: Rabbi! Oto figowiec, który przekląłeś, usechł."
+  tags: []
+"Mk11,22":
+  text: "A Jezus w odpowiedzi, rzekł im: Miejcie wiarę w Boga."
+  tags: []
+"Mk11,23":
+  text: "Zaprawdę bowiem mówię wam, że ktokolwiek powiedziałby tej górze: Podnieś się i rzuć się w morze, a nie wahałby się w swoim sercu, ale uwierzyłby, że to, co mówi, staje się, stanie się mu cokolwiek by powiedział."
+  tags: []
+"Mk11,24":
+  text: "Dlatego mówię wam: Wszystko o cokolwiek modląc się, prosicie, wierzcie, że otrzymujecie, a stanie się wam."
+  tags: []
+"Mk11,25":
+  text: "A gdy stoicie modląc się, przebaczajcie, jeśli macie coś przeciwko komuś, aby i Ojciec wasz w niebiosach przebaczył wam wasze występki."
+  tags: []
+"Mk11,26":
+  text: "Bo jeśli wy nie odpuszczacie, to i Ojciec wasz w niebiosach nie odpuści wam występków waszych."
+  tags: []
+"Mk11,27":
+  text: "I przyszli ponownie do Jerozolimy. A On przechadzał się po świątyni; i przystąpili do Niego arcykapłani, uczeni w Piśmie i starsi,"
+  tags: []
+"Mk11,28":
+  text: "I mówili do Niego: Jakim prawem to czynisz? I kto Ci dał to prawo, abyś to czynił?"
+  tags: []
+"Mk11,29":
+  text: "A Jezus w odpowiedzi, rzekł im: I ja zapytam was o jedną rzecz; odpowiedzcie mi, a powiem wam, jakim prawem to czynię."
+  tags: []
+"Mk11,30":
+  text: "Czy chrzest Jana był z nieba, czy z ludzi? Odpowiedzcie mi."
+  tags: []
+"Mk11,31":
+  text: "I rozsądzali to między sobą, mówiąc: Jeśli powiemy: Z nieba, to powie: Dlaczego więc mu nie uwierzyliście?"
+  tags: []
+"Mk11,32":
+  text: "A gdybyśmy powiedzieli: Z ludzi? – bali się jednak ludu; bo wszyscy mieli Jana za prawdziwego proroka –"
+  tags: []
+"Mk11,33":
+  text: "I w odpowiedzi, rzekli Jezusowi: Nie wiemy. A Jezus odparł im: I ja wam nie powiem, jakim prawem to czynię."
+  tags: []

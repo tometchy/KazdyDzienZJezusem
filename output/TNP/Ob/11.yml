@@ -1,19 +1,57 @@
-"Ob11,1": "I dano mi trzcinę podobną do laski; a anioł stał, mówiąc: Wstań i zmierz świątynię Boga, ołtarz i tych, którzy w niej oddają pokłon."
-"Ob11,2": "A wyłącz zewnętrzny dziedziniec, który jest przed świątynią, i nie mierz go, dany jest bowiem poganom; i będą deptać święte miasto przez czterdzieści dwa miesiące."
-"Ob11,3": "I dam dwom moim świadkom, i będą prorokować tysiąc dwieście sześćdziesiąt dni, odziani we włosiennice."
-"Ob11,4": "Oni – to dwa drzewa oliwne i dwa świeczniki, które stoją przed Bogiem ziemi."
-"Ob11,5": "I jeśli ktoś zechce im zaszkodzić, ogień wychodzi z ich ust i strawia ich nieprzyjaciół; a jeśli ktoś zechce im zaszkodzić, w ten sposób musi on zostać zabity."
-"Ob11,6": "Oni mają władzę zamknąć niebo, aby nie padał deszcz w dniach ich prorokowania; i mają władzę nad wodami, aby je obracać w krew, i uderzyć ziemię wszelką klęską, ilekroć by chcieli."
-"Ob11,7": "A gdy dopełnią składać swoje świadectwo, dzikie zwierzę wychodzące z otchłani stoczy z nimi bitwę, zwycięży ich i ich zabije."
-"Ob11,8": "I zwłoki ich będą leżeć na placu wielkiego miasta, które duchowo nazywane jest Sodomą i Egiptem, gdzie i nasz Pan został ukrzyżowany."
-"Ob11,9": "A ludzie z różnych ludów i plemion, i z języków, i z narodów patrzeć będą na zwłoki przez trzy i pół dnia; a ich zwłok nie dopuszczą złożyć w grobach."
-"Ob11,10": "A mieszkańcy ziemi będą radować się nad nimi i będą się weselić; i będą posyłać dary jedni drugim, dlatego że ci dwaj prorocy udręczyli mieszkańców ziemi."
-"Ob11,11": "A po trzech i pół dnia duch życia od Boga wstąpił w nich, i stanęli na swoich nogach, a wielki strach padł na tych, którzy ich oglądali."
-"Ob11,12": "I usłyszeli potężny głos z nieba, mówiący im: Wstąpcie tu; i wstąpili do nieba w obłoku, i patrzyli na nich ich nieprzyjaciele."
-"Ob11,13": "A w tej godzinie nastało wielkie trzęsienie ziemi. I upadła dziesiąta część miasta, i zginęło podczas trzęsienia ziemi siedem tysięcy osób spośród ludzi; a pozostali przestraszyli się i oddali chwałę Bogu nieba."
-"Ob11,14": "Drugie biada przeszło; oto trzecie biada przychodzi szybko."
-"Ob11,15": "I zatrąbił siódmy anioł, i rozległy się potężne głosy na niebie, mówiące: Królestwa tego świata stały się królestwem PANA naszego i Jego Pomazańca, i królować będzie na wieki wieków."
-"Ob11,16": "I dwudziestu czterech starszych, którzy siedzą przed Bogiem na swoich tronach, upadło na swoje oblicza i oddało pokłon Bogu,"
-"Ob11,17": "Mówiąc: Dziękujemy Tobie, PANIE, Boże Wszechmogący, który jesteś i byłeś, i który przychodzisz, że wziąłeś swoją wielką moc i zacząłeś królować;"
-"Ob11,18": "A narody uniosły się gniewem, i nadszedł Twój gniew oraz czas sądzenia umarłych, aby dać nagrodę Twoim sługom, prorokom i świętym oraz bojącym się Twojego imienia, małym i wielkim, i zniszczyć tych, którzy niszczą ziemię."
-"Ob11,19": "I została otwarta świątynia Boga w niebie, i ukazała się skrzynia Jego przymierza w Jego świątyni; i nastały błyskawice, głosy, gromy, trzęsienie ziemi i wielki grad."
+"Ob11,1":
+  text: "I dano mi trzcinę podobną do laski; a anioł stał, mówiąc: Wstań i zmierz świątynię Boga, ołtarz i tych, którzy w niej oddają pokłon."
+  tags: []
+"Ob11,2":
+  text: "A wyłącz zewnętrzny dziedziniec, który jest przed świątynią, i nie mierz go, dany jest bowiem poganom; i będą deptać święte miasto przez czterdzieści dwa miesiące."
+  tags: []
+"Ob11,3":
+  text: "I dam dwom moim świadkom, i będą prorokować tysiąc dwieście sześćdziesiąt dni, odziani we włosiennice."
+  tags: []
+"Ob11,4":
+  text: "Oni – to dwa drzewa oliwne i dwa świeczniki, które stoją przed Bogiem ziemi."
+  tags: []
+"Ob11,5":
+  text: "I jeśli ktoś zechce im zaszkodzić, ogień wychodzi z ich ust i strawia ich nieprzyjaciół; a jeśli ktoś zechce im zaszkodzić, w ten sposób musi on zostać zabity."
+  tags: []
+"Ob11,6":
+  text: "Oni mają władzę zamknąć niebo, aby nie padał deszcz w dniach ich prorokowania; i mają władzę nad wodami, aby je obracać w krew, i uderzyć ziemię wszelką klęską, ilekroć by chcieli."
+  tags: []
+"Ob11,7":
+  text: "A gdy dopełnią składać swoje świadectwo, dzikie zwierzę wychodzące z otchłani stoczy z nimi bitwę, zwycięży ich i ich zabije."
+  tags: []
+"Ob11,8":
+  text: "I zwłoki ich będą leżeć na placu wielkiego miasta, które duchowo nazywane jest Sodomą i Egiptem, gdzie i nasz Pan został ukrzyżowany."
+  tags: []
+"Ob11,9":
+  text: "A ludzie z różnych ludów i plemion, i z języków, i z narodów patrzeć będą na zwłoki przez trzy i pół dnia; a ich zwłok nie dopuszczą złożyć w grobach."
+  tags: []
+"Ob11,10":
+  text: "A mieszkańcy ziemi będą radować się nad nimi i będą się weselić; i będą posyłać dary jedni drugim, dlatego że ci dwaj prorocy udręczyli mieszkańców ziemi."
+  tags: []
+"Ob11,11":
+  text: "A po trzech i pół dnia duch życia od Boga wstąpił w nich, i stanęli na swoich nogach, a wielki strach padł na tych, którzy ich oglądali."
+  tags: []
+"Ob11,12":
+  text: "I usłyszeli potężny głos z nieba, mówiący im: Wstąpcie tu; i wstąpili do nieba w obłoku, i patrzyli na nich ich nieprzyjaciele."
+  tags: []
+"Ob11,13":
+  text: "A w tej godzinie nastało wielkie trzęsienie ziemi. I upadła dziesiąta część miasta, i zginęło podczas trzęsienia ziemi siedem tysięcy osób spośród ludzi; a pozostali przestraszyli się i oddali chwałę Bogu nieba."
+  tags: []
+"Ob11,14":
+  text: "Drugie biada przeszło; oto trzecie biada przychodzi szybko."
+  tags: []
+"Ob11,15":
+  text: "I zatrąbił siódmy anioł, i rozległy się potężne głosy na niebie, mówiące: Królestwa tego świata stały się królestwem PANA naszego i Jego Pomazańca, i królować będzie na wieki wieków."
+  tags: []
+"Ob11,16":
+  text: "I dwudziestu czterech starszych, którzy siedzą przed Bogiem na swoich tronach, upadło na swoje oblicza i oddało pokłon Bogu,"
+  tags: []
+"Ob11,17":
+  text: "Mówiąc: Dziękujemy Tobie, PANIE, Boże Wszechmogący, który jesteś i byłeś, i który przychodzisz, że wziąłeś swoją wielką moc i zacząłeś królować;"
+  tags: []
+"Ob11,18":
+  text: "A narody uniosły się gniewem, i nadszedł Twój gniew oraz czas sądzenia umarłych, aby dać nagrodę Twoim sługom, prorokom i świętym oraz bojącym się Twojego imienia, małym i wielkim, i zniszczyć tych, którzy niszczą ziemię."
+  tags: []
+"Ob11,19":
+  text: "I została otwarta świątynia Boga w niebie, i ukazała się skrzynia Jego przymierza w Jego świątyni; i nastały błyskawice, głosy, gromy, trzęsienie ziemi i wielki grad."
+  tags: []

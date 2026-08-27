@@ -1,24 +1,72 @@
-"Hi40,1": "A JHWH odpowiadał dalej Hiobowi i rzekł:"
-"Hi40,2": "Czy ten, kto wiedzie spór z Wszechmogącym, będzie Jego krytykiem? Oskarżyciel Boga niech na to odpowie!"
-"Hi40,3": "Wtedy Hiob odpowiedział JHWH:"
-"Hi40,4": "Oto jestem niczym, cóż Ci odpowiem? Kładę swoją rękę na moich ustach."
-"Hi40,5": "Raz przemówiłem, lecz już nie zareaguję i drugi raz – nic nie dodam."
-"Hi40,6": "Wtedyconjunctive waw JHWH odpowiedział Hiobowi spośród wichru i rzekł:"
-"Hi40,7": "Przepasz teraz swoje biodra jak mężczyzna; będę cię pytał, a ty mnie poucz."
-"Hi40,8": "Czy rzeczywiście chcesz podważać mój sąd? Czy potępisz mnie, aby usprawiedliwić samego siebie?"
-"Hi40,9": "Czy masz ramię jak Bóg? I możesz zagrzmieć głosem jak On?"
-"Hi40,10": "Przywdziej się teraz w majestat i wzniosłość, przyoblecz się w chwałę i dostojność!"
-"Hi40,11": "Rozlej wybuch swojego gniewu, i spójrz na każdego pysznego, i poniż go!"
-"Hi40,12": "Spójrz na każdego pysznego i upokórz go, i zdepcz niegodziwych na ich miejscu!"
-"Hi40,13": "Zagrzeb ich wszystkich razem w prochu, zamknij w grobie ich oblicza."
-"Hi40,14": "Wtedy i Ja ci przyznam, że twoja prawica może cię wybawić."
-"Hi40,15": "Spójrz teraz na dzikie zwierzę, które uczyniłem wraz z tobą; je trawę jak wół."
-"Hi40,16": "Spójrz teraz – jego siła jest w jego biodrach, a jego żywotność w mięśniach jego cielska."
-"Hi40,17": "Zwiesza swój ogon jak gałązka cedru, ścięgna jego ud są splecione."
-"Hi40,18": "Jego kości jak rury spiżowe; jego kończyny jak drągi żelazne."
-"Hi40,19": "On jest początkiem dróg Boga. Jego Stwórca może podejść do niego ze swoim mieczem."
-"Hi40,20": "Tak, góry dostarczają mu żywność, a karmi się, tam gdzie wszystkie zwierzęta pola hasają."
-"Hi40,21": "Wyleguje się pod krzewami lotosu, w ukryciu trzciny i bagien."
-"Hi40,22": "Krzewy lotosu osłaniają go swoim cieniem, wierzby nadrzeczne otaczają go."
-"Hi40,23": "Oto nie płoszy go rzeka i nie reaguje w pośpiechu, jest bezpieczny, choćby Jordan chlusnął mu do paszczy."
-"Hi40,24": "Czy można go złapać od przodu w pułapkach? Czy można mu przebić nozdrza?"
+"Hi40,1":
+  text: "A JHWH odpowiadał dalej Hiobowi i rzekł:"
+  tags: []
+"Hi40,2":
+  text: "Czy ten, kto wiedzie spór z Wszechmogącym, będzie Jego krytykiem? Oskarżyciel Boga niech na to odpowie!"
+  tags: []
+"Hi40,3":
+  text: "Wtedy Hiob odpowiedział JHWH:"
+  tags: []
+"Hi40,4":
+  text: "Oto jestem niczym, cóż Ci odpowiem? Kładę swoją rękę na moich ustach."
+  tags: []
+"Hi40,5":
+  text: "Raz przemówiłem, lecz już nie zareaguję i drugi raz – nic nie dodam."
+  tags: []
+"Hi40,6":
+  text: "Wtedyconjunctive waw JHWH odpowiedział Hiobowi spośród wichru i rzekł:"
+  tags: []
+"Hi40,7":
+  text: "Przepasz teraz swoje biodra jak mężczyzna; będę cię pytał, a ty mnie poucz."
+  tags: []
+"Hi40,8":
+  text: "Czy rzeczywiście chcesz podważać mój sąd? Czy potępisz mnie, aby usprawiedliwić samego siebie?"
+  tags: []
+"Hi40,9":
+  text: "Czy masz ramię jak Bóg? I możesz zagrzmieć głosem jak On?"
+  tags: []
+"Hi40,10":
+  text: "Przywdziej się teraz w majestat i wzniosłość, przyoblecz się w chwałę i dostojność!"
+  tags: []
+"Hi40,11":
+  text: "Rozlej wybuch swojego gniewu, i spójrz na każdego pysznego, i poniż go!"
+  tags: []
+"Hi40,12":
+  text: "Spójrz na każdego pysznego i upokórz go, i zdepcz niegodziwych na ich miejscu!"
+  tags: []
+"Hi40,13":
+  text: "Zagrzeb ich wszystkich razem w prochu, zamknij w grobie ich oblicza."
+  tags: []
+"Hi40,14":
+  text: "Wtedy i Ja ci przyznam, że twoja prawica może cię wybawić."
+  tags: []
+"Hi40,15":
+  text: "Spójrz teraz na dzikie zwierzę, które uczyniłem wraz z tobą; je trawę jak wół."
+  tags: []
+"Hi40,16":
+  text: "Spójrz teraz – jego siła jest w jego biodrach, a jego żywotność w mięśniach jego cielska."
+  tags: []
+"Hi40,17":
+  text: "Zwiesza swój ogon jak gałązka cedru, ścięgna jego ud są splecione."
+  tags: []
+"Hi40,18":
+  text: "Jego kości jak rury spiżowe; jego kończyny jak drągi żelazne."
+  tags: []
+"Hi40,19":
+  text: "On jest początkiem dróg Boga. Jego Stwórca może podejść do niego ze swoim mieczem."
+  tags: []
+"Hi40,20":
+  text: "Tak, góry dostarczają mu żywność, a karmi się, tam gdzie wszystkie zwierzęta pola hasają."
+  tags: []
+"Hi40,21":
+  text: "Wyleguje się pod krzewami lotosu, w ukryciu trzciny i bagien."
+  tags: []
+"Hi40,22":
+  text: "Krzewy lotosu osłaniają go swoim cieniem, wierzby nadrzeczne otaczają go."
+  tags: []
+"Hi40,23":
+  text: "Oto nie płoszy go rzeka i nie reaguje w pośpiechu, jest bezpieczny, choćby Jordan chlusnął mu do paszczy."
+  tags: []
+"Hi40,24":
+  text: "Czy można go złapać od przodu w pułapkach? Czy można mu przebić nozdrza?"
+  tags: []

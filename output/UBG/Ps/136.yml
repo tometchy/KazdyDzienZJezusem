@@ -1,26 +1,78 @@
-"Ps136,1": "Wysławiajcie PANA, bo jest dobry; bo na wieki jego miłosierdzie."
-"Ps136,2": "Wysławiajcie Boga bogów, bo na wieki jego miłosierdzie."
-"Ps136,3": "Wysławiajcie Pana panów, bo na wieki jego miłosierdzie;"
-"Ps136,4": "Tego, który sam czyni wielkie cuda, bo na wieki jego miłosierdzie."
-"Ps136,5": "Tego, który w mądrości uczynił niebiosa, bo na wieki jego miłosierdzie;"
-"Ps136,6": "Tego, który rozpostarł ziemię nad wodami, bo na wieki jego miłosierdzie;"
-"Ps136,7": "Tego, który uczynił wielkie światła, bo na wieki jego miłosierdzie;"
-"Ps136,8": "Słońce, aby panowało we dnie, bo na wieki jego miłosierdzie;"
-"Ps136,9": "Księżyc i gwiazdy, aby panowały w nocy, bo na wieki jego miłosierdzie."
-"Ps136,10": "Tego, który poraził Egipt w jego pierworodnych, bo na wieki jego miłosierdzie."
-"Ps136,11": "Tego, który wyprowadził spośród niego Izraela, bo na wieki jego miłosierdzie;"
-"Ps136,12": "Mocną ręką i wyciągniętym ramieniem, bo na wieki jego miłosierdzie."
-"Ps136,13": "Tego, który rozdzielił Morze Czerwone na części, bo na wieki jego miłosierdzie;"
-"Ps136,14": "I przeprowadził środkiem Izraela, bo na wieki jego miłosierdzie."
-"Ps136,15": "I wrzucił faraona z jego wojskiem w Morze Czerwone, bo na wieki jego miłosierdzie."
-"Ps136,16": "Tego, który prowadził swój lud przez pustynię, bo na wieki jego miłosierdzie."
-"Ps136,17": "Tego, który pobił wielkich królów, bo na wieki jego miłosierdzie;"
-"Ps136,18": "I zgładził potężnych królów, bo na wieki jego miłosierdzie;"
-"Ps136,19": "Sychona, króla Amorytów, bo na wieki jego miłosierdzie;"
-"Ps136,20": "I Oga, króla Baszanu, bo na wieki jego miłosierdzie."
-"Ps136,21": "I dał ich ziemię w dziedzictwo, bo na wieki jego miłosierdzie;"
-"Ps136,22": "W dziedzictwo Izraelowi, swemu słudze, bo na wieki jego miłosierdzie."
-"Ps136,23": "Tego, który w naszym poniżeniu pamiętał o nas, bo na wieki jego miłosierdzie."
-"Ps136,24": "I wybawił nas od naszych nieprzyjaciół, bo na wieki jego miłosierdzie."
-"Ps136,25": "Tego, który daje pokarm wszelkiemu ciału, bo na wieki jego miłosierdzie."
-"Ps136,26": "Wysławiajcie Boga niebios, bo na wieki jego miłosierdzie."
+"Ps136,1":
+  text: "Wysławiajcie PANA, bo jest dobry; bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,2":
+  text: "Wysławiajcie Boga bogów, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,3":
+  text: "Wysławiajcie Pana panów, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,4":
+  text: "Tego, który sam czyni wielkie cuda, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,5":
+  text: "Tego, który w mądrości uczynił niebiosa, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,6":
+  text: "Tego, który rozpostarł ziemię nad wodami, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,7":
+  text: "Tego, który uczynił wielkie światła, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,8":
+  text: "Słońce, aby panowało we dnie, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,9":
+  text: "Księżyc i gwiazdy, aby panowały w nocy, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,10":
+  text: "Tego, który poraził Egipt w jego pierworodnych, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,11":
+  text: "Tego, który wyprowadził spośród niego Izraela, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,12":
+  text: "Mocną ręką i wyciągniętym ramieniem, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,13":
+  text: "Tego, który rozdzielił Morze Czerwone na części, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,14":
+  text: "I przeprowadził środkiem Izraela, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,15":
+  text: "I wrzucił faraona z jego wojskiem w Morze Czerwone, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,16":
+  text: "Tego, który prowadził swój lud przez pustynię, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,17":
+  text: "Tego, który pobił wielkich królów, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,18":
+  text: "I zgładził potężnych królów, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,19":
+  text: "Sychona, króla Amorytów, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,20":
+  text: "I Oga, króla Baszanu, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,21":
+  text: "I dał ich ziemię w dziedzictwo, bo na wieki jego miłosierdzie;"
+  tags: []
+"Ps136,22":
+  text: "W dziedzictwo Izraelowi, swemu słudze, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,23":
+  text: "Tego, który w naszym poniżeniu pamiętał o nas, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,24":
+  text: "I wybawił nas od naszych nieprzyjaciół, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,25":
+  text: "Tego, który daje pokarm wszelkiemu ciału, bo na wieki jego miłosierdzie."
+  tags: []
+"Ps136,26":
+  text: "Wysławiajcie Boga niebios, bo na wieki jego miłosierdzie."
+  tags: []

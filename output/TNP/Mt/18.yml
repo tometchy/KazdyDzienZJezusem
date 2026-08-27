@@ -1,35 +1,105 @@
-"Mt18,1": "W tej godzinie podeszli uczniowie do Jezusa, mówiąc: Kto więc jest większy od innych w Królestwie Niebios?"
-"Mt18,2": "I przywołał Jezus dziecko, i postawił je pośród nich,"
-"Mt18,3": "I powiedział: Zaprawdę mówię wam: Jeśli się nie nawrócicie i nie staniecie się jak dzieci, nie wejdziecie do Królestwa Niebios."
-"Mt18,4": "Kto więc uniżyłby się jak to dziecię, ten jest większy od innych w Królestwie Niebios."
-"Mt18,5": "A kto przyjąłby jedno takie dziecię w moim imieniu, mnie przyjmuje."
-"Mt18,6": "Kto natomiast byłby powodem upadku jednego z tych małych, którzy we mnie wierzą, pożyteczniej byłoby dla niego, aby zawieszono ośli kamień młyński na jego szyi, i utopiono go w głębinie morskiej."
-"Mt18,7": "Biada światu z powodu zgorszeń! Muszą wprawdzie przyjść zgorszenia, ale biada temu człowiekowi, przez którego przychodzi zgorszenie!"
-"Mt18,8": "Dlatego jeśli twoja ręka albo twoja noga jest dla ciebie powodem upadku, odetnij ją i odrzuć od siebie; lepiej jest tobie wejść do życia będąc chromym lub kalekim, niż mając dwie ręce albo dwie nogi, zostać wrzuconym do ognia wiecznego."
-"Mt18,9": "I jeśli oko twoje jest dla ciebie powodem upadku, wyłup je i odrzuć od siebie; lepiej jest tobie wejść do życia jednookim, niż z dwojgiem oczu być wrzuconym w ogień Gehenny."
-"Mt18,10": "Patrzcie, abyście nie gardzili żadnym z tych małych; albowiem mówię wam, że aniołowie ich w niebiosach przez cały czas patrzą na oblicze Ojca mojego, który jest w niebiosach."
-"Mt18,11": "Przyszedł bowiem Syn Człowieczy, aby zbawić to, co zginęło."
-"Mt18,12": "Jak się wam wydaje? Gdyby jakiś człowiek miał sto owiec, a zabłąkałaby się jedna z nich, czy nie zostawi dziewięćdziesięciu dziewięciu, i nie pójdzie w górach szukać zabłąkanej?"
-"Mt18,13": "I jeśli uda się mu ją znaleźć, zaprawdę mówię wam, że bardziej raduje się z niej, niż z owych dziewięćdziesięciu dziewięciu, które nie zabłądziły."
-"Mt18,14": "Tak też nie jest wolą Ojca waszego, który jest w niebiosach, aby zginął jeden z tych małych."
-"Mt18,15": "A jeśli zgrzeszyłby przeciwko tobie twój brat, idź, wskaż mu jego winę między tobą, a nim samym; jeśli usłuchałby ciebie, pozyskałeś swojego brata."
-"Mt18,16": "Jeśli jednak nie usłuchałby, weź ze sobą jeszcze jednego albo dwóch, aby na zeznaniu ust dwóch lub trzech świadków oparte było każde słowo."
-"Mt18,17": "A jeśli nie usłuchałby ich, powiedz zborowi; a jeśli nie usłuchałby zboru, niech będzie dla ciebie jak poganin i celnik."
-"Mt18,18": "Zaprawdę mówię wam: Cokolwiek zwiążecie na ziemi, będzie związane i w niebie; a co rozwiążecie na ziemi, będzie rozwiązane i w niebie."
-"Mt18,19": "I znów mówię wam: Gdyby dwaj z was na ziemi zgodzili się co do wszelkiej sprawy, wszystko, o co by prosili, stanie się im od Ojca mojego, który jest w niebiosach."
-"Mt18,20": "Albowiem gdzie są dwaj albo trzej zgromadzeni w moje imię, tam jestem pośród nich."
-"Mt18,21": "Wtedy Piotr podszedł do Niego i powiedział: Panie! Ile razy, jeżeli brat mój przeciwko mnie zgrzeszy, mam mu odpuścić? Czy aż do siedmiu razy?"
-"Mt18,22": "I Jezus powiedział mu: Nie mówię ci: Aż do siedmiu razy, ale aż do siedemdziesięciu razy siedem."
-"Mt18,23": "Dlatego podobne jest Królestwo Niebios do pewnego człowieka – króla, który chciał rozliczyć zobowiązania ze swoimi sługami."
-"Mt18,24": "A gdy oni zaczęli się rozliczać, przyprowadzono do niego jednego, który był winien dziesięć tysięcy talentów."
-"Mt18,25": "A gdy nie miał z czego oddać, nakazał go jego pan sprzedać, i jego żonę, i dzieci, i wszystko co miał, by tak został oddany dług."
-"Mt18,26": "Upadł więc sługa i pokłonił się mu, mówiąc: Panie! Bądź dla mnie cierpliwy, a oddam ci wszystko."
-"Mt18,27": "I zlitował się pan tego sługi, uwolnił go, i odpuścił jemu dług."
-"Mt18,28": "A gdy wyszedł ów sługa i znalazł jednego ze współsług, który był mu winien sto denarów, chwycił mocno i dusił go, mówiąc: Oddaj mi, co jesteś winny."
-"Mt18,29": "Padł więc współsługa do jego stóp i prosił go, mówiąc: Bądź dla mnie cierpliwy, a oddam ci wszystko."
-"Mt18,30": "Lecz on nie chciał, ale poszedł i wrzucił go do więzienia, aż odda co jest winny."
-"Mt18,31": "Ujrzeli więc współsłudzy jego, co się stało, i zasmucili się bardzo, poszli i dokładnie opowiedzieli swojemu panu wszystko, co zaszło."
-"Mt18,32": "Wtedy wezwał go jego pan i powiedział mu: Sługo zły! Cały dług tobie odpuściłem dlatego, że mnie poprosiłeś;"
-"Mt18,33": "Czy i ty nie powinieneś zlitować się nad swoim współsługą, jak i ja zlitowałem się nad tobą?"
-"Mt18,34": "I rozgniewał się jego pan, oddał go śledczym więziennym, dopóki nie odda wszystkiego, co jest mu winien."
-"Mt18,35": "Tak i Ojciec mój niebiański uczyni wam, jeśli nie odpuścicie swojemu bratu z serc waszych jego upadków."
+"Mt18,1":
+  text: "W tej godzinie podeszli uczniowie do Jezusa, mówiąc: Kto więc jest większy od innych w Królestwie Niebios?"
+  tags: []
+"Mt18,2":
+  text: "I przywołał Jezus dziecko, i postawił je pośród nich,"
+  tags: []
+"Mt18,3":
+  text: "I powiedział: Zaprawdę mówię wam: Jeśli się nie nawrócicie i nie staniecie się jak dzieci, nie wejdziecie do Królestwa Niebios."
+  tags: []
+"Mt18,4":
+  text: "Kto więc uniżyłby się jak to dziecię, ten jest większy od innych w Królestwie Niebios."
+  tags: []
+"Mt18,5":
+  text: "A kto przyjąłby jedno takie dziecię w moim imieniu, mnie przyjmuje."
+  tags: []
+"Mt18,6":
+  text: "Kto natomiast byłby powodem upadku jednego z tych małych, którzy we mnie wierzą, pożyteczniej byłoby dla niego, aby zawieszono ośli kamień młyński na jego szyi, i utopiono go w głębinie morskiej."
+  tags: []
+"Mt18,7":
+  text: "Biada światu z powodu zgorszeń! Muszą wprawdzie przyjść zgorszenia, ale biada temu człowiekowi, przez którego przychodzi zgorszenie!"
+  tags: []
+"Mt18,8":
+  text: "Dlatego jeśli twoja ręka albo twoja noga jest dla ciebie powodem upadku, odetnij ją i odrzuć od siebie; lepiej jest tobie wejść do życia będąc chromym lub kalekim, niż mając dwie ręce albo dwie nogi, zostać wrzuconym do ognia wiecznego."
+  tags: []
+"Mt18,9":
+  text: "I jeśli oko twoje jest dla ciebie powodem upadku, wyłup je i odrzuć od siebie; lepiej jest tobie wejść do życia jednookim, niż z dwojgiem oczu być wrzuconym w ogień Gehenny."
+  tags: []
+"Mt18,10":
+  text: "Patrzcie, abyście nie gardzili żadnym z tych małych; albowiem mówię wam, że aniołowie ich w niebiosach przez cały czas patrzą na oblicze Ojca mojego, który jest w niebiosach."
+  tags: []
+"Mt18,11":
+  text: "Przyszedł bowiem Syn Człowieczy, aby zbawić to, co zginęło."
+  tags: []
+"Mt18,12":
+  text: "Jak się wam wydaje? Gdyby jakiś człowiek miał sto owiec, a zabłąkałaby się jedna z nich, czy nie zostawi dziewięćdziesięciu dziewięciu, i nie pójdzie w górach szukać zabłąkanej?"
+  tags: []
+"Mt18,13":
+  text: "I jeśli uda się mu ją znaleźć, zaprawdę mówię wam, że bardziej raduje się z niej, niż z owych dziewięćdziesięciu dziewięciu, które nie zabłądziły."
+  tags: []
+"Mt18,14":
+  text: "Tak też nie jest wolą Ojca waszego, który jest w niebiosach, aby zginął jeden z tych małych."
+  tags: []
+"Mt18,15":
+  text: "A jeśli zgrzeszyłby przeciwko tobie twój brat, idź, wskaż mu jego winę między tobą, a nim samym; jeśli usłuchałby ciebie, pozyskałeś swojego brata."
+  tags: []
+"Mt18,16":
+  text: "Jeśli jednak nie usłuchałby, weź ze sobą jeszcze jednego albo dwóch, aby na zeznaniu ust dwóch lub trzech świadków oparte było każde słowo."
+  tags: []
+"Mt18,17":
+  text: "A jeśli nie usłuchałby ich, powiedz zborowi; a jeśli nie usłuchałby zboru, niech będzie dla ciebie jak poganin i celnik."
+  tags: []
+"Mt18,18":
+  text: "Zaprawdę mówię wam: Cokolwiek zwiążecie na ziemi, będzie związane i w niebie; a co rozwiążecie na ziemi, będzie rozwiązane i w niebie."
+  tags: []
+"Mt18,19":
+  text: "I znów mówię wam: Gdyby dwaj z was na ziemi zgodzili się co do wszelkiej sprawy, wszystko, o co by prosili, stanie się im od Ojca mojego, który jest w niebiosach."
+  tags: []
+"Mt18,20":
+  text: "Albowiem gdzie są dwaj albo trzej zgromadzeni w moje imię, tam jestem pośród nich."
+  tags: []
+"Mt18,21":
+  text: "Wtedy Piotr podszedł do Niego i powiedział: Panie! Ile razy, jeżeli brat mój przeciwko mnie zgrzeszy, mam mu odpuścić? Czy aż do siedmiu razy?"
+  tags: []
+"Mt18,22":
+  text: "I Jezus powiedział mu: Nie mówię ci: Aż do siedmiu razy, ale aż do siedemdziesięciu razy siedem."
+  tags: []
+"Mt18,23":
+  text: "Dlatego podobne jest Królestwo Niebios do pewnego człowieka – króla, który chciał rozliczyć zobowiązania ze swoimi sługami."
+  tags: []
+"Mt18,24":
+  text: "A gdy oni zaczęli się rozliczać, przyprowadzono do niego jednego, który był winien dziesięć tysięcy talentów."
+  tags: []
+"Mt18,25":
+  text: "A gdy nie miał z czego oddać, nakazał go jego pan sprzedać, i jego żonę, i dzieci, i wszystko co miał, by tak został oddany dług."
+  tags: []
+"Mt18,26":
+  text: "Upadł więc sługa i pokłonił się mu, mówiąc: Panie! Bądź dla mnie cierpliwy, a oddam ci wszystko."
+  tags: []
+"Mt18,27":
+  text: "I zlitował się pan tego sługi, uwolnił go, i odpuścił jemu dług."
+  tags: []
+"Mt18,28":
+  text: "A gdy wyszedł ów sługa i znalazł jednego ze współsług, który był mu winien sto denarów, chwycił mocno i dusił go, mówiąc: Oddaj mi, co jesteś winny."
+  tags: []
+"Mt18,29":
+  text: "Padł więc współsługa do jego stóp i prosił go, mówiąc: Bądź dla mnie cierpliwy, a oddam ci wszystko."
+  tags: []
+"Mt18,30":
+  text: "Lecz on nie chciał, ale poszedł i wrzucił go do więzienia, aż odda co jest winny."
+  tags: []
+"Mt18,31":
+  text: "Ujrzeli więc współsłudzy jego, co się stało, i zasmucili się bardzo, poszli i dokładnie opowiedzieli swojemu panu wszystko, co zaszło."
+  tags: []
+"Mt18,32":
+  text: "Wtedy wezwał go jego pan i powiedział mu: Sługo zły! Cały dług tobie odpuściłem dlatego, że mnie poprosiłeś;"
+  tags: []
+"Mt18,33":
+  text: "Czy i ty nie powinieneś zlitować się nad swoim współsługą, jak i ja zlitowałem się nad tobą?"
+  tags: []
+"Mt18,34":
+  text: "I rozgniewał się jego pan, oddał go śledczym więziennym, dopóki nie odda wszystkiego, co jest mu winien."
+  tags: []
+"Mt18,35":
+  text: "Tak i Ojciec mój niebiański uczyni wam, jeśli nie odpuścicie swojemu bratu z serc waszych jego upadków."
+  tags: []

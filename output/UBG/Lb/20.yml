@@ -1,29 +1,87 @@
-"Lb20,1": "I przyszło całe zgromadzenie synów Izraela na pustynię Syn w pierwszym miesiącu. I lud zamieszkał w Kadesz. Tam umarła Miriam i tam została pogrzebana."
-"Lb20,2": "A gdy zabrakło wody dla ludu, zebrali się przeciw Mojżeszowi i Aaronowi."
-"Lb20,3": "Lud spierał się z Mojżeszem, mówiąc: Obyśmy umarli, gdy nasi bracia umarli przed PANEM."
-"Lb20,4": "Dlaczego przyprowadziliście to zgromadzenie PANA na tę pustynię, abyśmy tu pomarli wraz z naszym bydłem?"
-"Lb20,5": "Po co wyprowadziliście nas z Egiptu, aby nas wprowadzić na to złe miejsce; na miejsce, w którym nie ma ani zboża, ani fig, ani winogron, ani jabłek granatu, nie ma nawet wody do picia?"
-"Lb20,6": "Wtedy Mojżesz i Aaron przeszli sprzed ludu przed wejście do Namiotu Zgromadzenia i upadli na twarze. A chwała PANA ukazała się im."
-"Lb20,7": "I PAN powiedział do Mojżesza:"
-"Lb20,8": "Weź laskę, zgromadźcie cały lud, ty i twój brat Aaron, i przemówcie na ich oczach do tej skały, a ona wyda z siebie wodę; wydobędziesz dla nich wodę ze skały i dasz pić całemu zgromadzeniu oraz ich zwierzętom."
-"Lb20,9": "Wziął więc Mojżesz laskę sprzed oblicza PANA, tak jak mu rozkazał."
-"Lb20,10": "I Mojżesz z Aaronem zgromadzili cały lud przed skałą, i Mojżesz mówił do nich: Słuchajcie teraz, buntownicy! Czy z tej skały mamy wyprowadzić dla was wodę?"
-"Lb20,11": "Następnie Mojżesz podniósł rękę i uderzył swoją laską dwa razy w skałę. Wtedy wypłynęła obficie woda i napiło się zgromadzenie oraz jego bydło."
-"Lb20,12": "I PAN powiedział do Mojżesza i Aarona: Ponieważ nie uwierzyliście mi, by mnie uświęcić na oczach synów Izraela, dlatego nie wprowadzicie tego zgromadzenia do ziemi, którą im daję."
-"Lb20,13": "To są wody Meriba, gdzie synowie Izraela spierali się z PANEM i został uświęcony w nich."
-"Lb20,14": "Potem Mojżesz wysłał z Kadesz posłańców do króla Edomu, mówiąc: Tak mówi twój brat Izrael: Ty znasz całą udrękę, która nas spotkała;"
-"Lb20,15": "Jak nasi ojcowie zstąpili do Egiptu i mieszkaliśmy w Egipcie wiele lat; i Egipcjanie dręczyli nas i naszych ojców;"
-"Lb20,16": "I wołaliśmy do PANA, a wysłuchał naszego głosu i posłał Anioła, i wyprowadził nas z Egiptu. Teraz jesteśmy w Kadesz, w mieście przy twojej granicy."
-"Lb20,17": "Pozwól nam, proszę, przejść przez twoją ziemię; nie pójdziemy przez pola ani przez winnice i nie będziemy pić wód ze studni. Pójdziemy drogą królewską, nie zboczymy ani w prawo, ani w lewo, dopóki nie przejdziemy twoich granic."
-"Lb20,18": "Edom odpowiedział mu: Nie przejdziesz przez moją ziemię, bo inaczej wyjdę przeciwko tobie z mieczem."
-"Lb20,19": "I synowie Izraela powiedzieli mu: Pójdziemy główną drogą, a jeśli będziemy pili twoją wodę, my i nasze zwierzęta, zapłacimy za to. Niczego innego nie żądamy; tylko przejdziemy pieszo."
-"Lb20,20": "A on odpowiedział: Nie przejdziesz. I Edom wyruszył naprzeciwko nim z licznym ludem i mocną ręką."
-"Lb20,21": "Tak Edom nie pozwolił Izraelowi przejść przez swoje granice. Izrael więc odstąpił od niego."
-"Lb20,22": "I synowie Izraela, całe zgromadzenie, wyruszyli z Kadesz i przyszli do góry Hor."
-"Lb20,23": "I PAN powiedział do Mojżesza i Aarona na górze Hor, na granicy ziemi Edomu:"
-"Lb20,24": "Aaron zostanie przyłączony do swego ludu; nie wejdzie bowiem do ziemi, którą dałem synom Izraela, ponieważ sprzeciwiliście się mojemu słowu przy wodach Meriba."
-"Lb20,25": "Weź Aarona i jego syna Eleazara i przyprowadź ich na górę Hor;"
-"Lb20,26": "I zdejmij z Aarona jego szaty, a ubierz w nie jego syna Eleazara. Aaron zaś zostanie przyłączony do swego ludu i tam umrze."
-"Lb20,27": "I Mojżesz uczynił tak, jak PAN rozkazał; i wstąpili na górę Hor na oczach całego zgromadzenia."
-"Lb20,28": "Mojżesz zdjął z Aarona jego szaty i ubrał w nie jego syna Eleazara. Aaron umarł tam na wierzchu góry, a Mojżesz i Eleazar zeszli z góry."
-"Lb20,29": "Gdy całe zgromadzenie zobaczyło, że Aaron nie żyje, opłakiwał Aarona cały dom Izraela przez trzydzieści dni."
+"Lb20,1":
+  text: "I przyszło całe zgromadzenie synów Izraela na pustynię Syn w pierwszym miesiącu. I lud zamieszkał w Kadesz. Tam umarła Miriam i tam została pogrzebana."
+  tags: []
+"Lb20,2":
+  text: "A gdy zabrakło wody dla ludu, zebrali się przeciw Mojżeszowi i Aaronowi."
+  tags: []
+"Lb20,3":
+  text: "Lud spierał się z Mojżeszem, mówiąc: Obyśmy umarli, gdy nasi bracia umarli przed PANEM."
+  tags: []
+"Lb20,4":
+  text: "Dlaczego przyprowadziliście to zgromadzenie PANA na tę pustynię, abyśmy tu pomarli wraz z naszym bydłem?"
+  tags: []
+"Lb20,5":
+  text: "Po co wyprowadziliście nas z Egiptu, aby nas wprowadzić na to złe miejsce; na miejsce, w którym nie ma ani zboża, ani fig, ani winogron, ani jabłek granatu, nie ma nawet wody do picia?"
+  tags: []
+"Lb20,6":
+  text: "Wtedy Mojżesz i Aaron przeszli sprzed ludu przed wejście do Namiotu Zgromadzenia i upadli na twarze. A chwała PANA ukazała się im."
+  tags: []
+"Lb20,7":
+  text: "I PAN powiedział do Mojżesza:"
+  tags: []
+"Lb20,8":
+  text: "Weź laskę, zgromadźcie cały lud, ty i twój brat Aaron, i przemówcie na ich oczach do tej skały, a ona wyda z siebie wodę; wydobędziesz dla nich wodę ze skały i dasz pić całemu zgromadzeniu oraz ich zwierzętom."
+  tags: []
+"Lb20,9":
+  text: "Wziął więc Mojżesz laskę sprzed oblicza PANA, tak jak mu rozkazał."
+  tags: []
+"Lb20,10":
+  text: "I Mojżesz z Aaronem zgromadzili cały lud przed skałą, i Mojżesz mówił do nich: Słuchajcie teraz, buntownicy! Czy z tej skały mamy wyprowadzić dla was wodę?"
+  tags: []
+"Lb20,11":
+  text: "Następnie Mojżesz podniósł rękę i uderzył swoją laską dwa razy w skałę. Wtedy wypłynęła obficie woda i napiło się zgromadzenie oraz jego bydło."
+  tags: []
+"Lb20,12":
+  text: "I PAN powiedział do Mojżesza i Aarona: Ponieważ nie uwierzyliście mi, by mnie uświęcić na oczach synów Izraela, dlatego nie wprowadzicie tego zgromadzenia do ziemi, którą im daję."
+  tags: []
+"Lb20,13":
+  text: "To są wody Meriba, gdzie synowie Izraela spierali się z PANEM i został uświęcony w nich."
+  tags: []
+"Lb20,14":
+  text: "Potem Mojżesz wysłał z Kadesz posłańców do króla Edomu, mówiąc: Tak mówi twój brat Izrael: Ty znasz całą udrękę, która nas spotkała;"
+  tags: []
+"Lb20,15":
+  text: "Jak nasi ojcowie zstąpili do Egiptu i mieszkaliśmy w Egipcie wiele lat; i Egipcjanie dręczyli nas i naszych ojców;"
+  tags: []
+"Lb20,16":
+  text: "I wołaliśmy do PANA, a wysłuchał naszego głosu i posłał Anioła, i wyprowadził nas z Egiptu. Teraz jesteśmy w Kadesz, w mieście przy twojej granicy."
+  tags: []
+"Lb20,17":
+  text: "Pozwól nam, proszę, przejść przez twoją ziemię; nie pójdziemy przez pola ani przez winnice i nie będziemy pić wód ze studni. Pójdziemy drogą królewską, nie zboczymy ani w prawo, ani w lewo, dopóki nie przejdziemy twoich granic."
+  tags: []
+"Lb20,18":
+  text: "Edom odpowiedział mu: Nie przejdziesz przez moją ziemię, bo inaczej wyjdę przeciwko tobie z mieczem."
+  tags: []
+"Lb20,19":
+  text: "I synowie Izraela powiedzieli mu: Pójdziemy główną drogą, a jeśli będziemy pili twoją wodę, my i nasze zwierzęta, zapłacimy za to. Niczego innego nie żądamy; tylko przejdziemy pieszo."
+  tags: []
+"Lb20,20":
+  text: "A on odpowiedział: Nie przejdziesz. I Edom wyruszył naprzeciwko nim z licznym ludem i mocną ręką."
+  tags: []
+"Lb20,21":
+  text: "Tak Edom nie pozwolił Izraelowi przejść przez swoje granice. Izrael więc odstąpił od niego."
+  tags: []
+"Lb20,22":
+  text: "I synowie Izraela, całe zgromadzenie, wyruszyli z Kadesz i przyszli do góry Hor."
+  tags: []
+"Lb20,23":
+  text: "I PAN powiedział do Mojżesza i Aarona na górze Hor, na granicy ziemi Edomu:"
+  tags: []
+"Lb20,24":
+  text: "Aaron zostanie przyłączony do swego ludu; nie wejdzie bowiem do ziemi, którą dałem synom Izraela, ponieważ sprzeciwiliście się mojemu słowu przy wodach Meriba."
+  tags: []
+"Lb20,25":
+  text: "Weź Aarona i jego syna Eleazara i przyprowadź ich na górę Hor;"
+  tags: []
+"Lb20,26":
+  text: "I zdejmij z Aarona jego szaty, a ubierz w nie jego syna Eleazara. Aaron zaś zostanie przyłączony do swego ludu i tam umrze."
+  tags: []
+"Lb20,27":
+  text: "I Mojżesz uczynił tak, jak PAN rozkazał; i wstąpili na górę Hor na oczach całego zgromadzenia."
+  tags: []
+"Lb20,28":
+  text: "Mojżesz zdjął z Aarona jego szaty i ubrał w nie jego syna Eleazara. Aaron umarł tam na wierzchu góry, a Mojżesz i Eleazar zeszli z góry."
+  tags: []
+"Lb20,29":
+  text: "Gdy całe zgromadzenie zobaczyło, że Aaron nie żyje, opłakiwał Aarona cały dom Izraela przez trzydzieści dni."
+  tags: []

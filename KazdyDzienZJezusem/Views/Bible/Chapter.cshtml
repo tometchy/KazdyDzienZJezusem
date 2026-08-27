@@ -67,7 +67,18 @@
 <article class="verse-list" aria-label="@Model.Book.Name, rozdział @Model.Chapter">
     @foreach (var verse in Model.Verses)
     {
-        <div class="bible-verse" id="@($"w{verse.Number}")">
+        var verseReference = $"{Model.Book.Abbreviation} {Model.Chapter},{verse.Number}";
+        <div class="bible-verse" id="@verse.Number">
+            <div class="verse-link-controls">
+                <a class="verse-link-button"
+                   href="@($"#{verse.Number}")"
+                   data-verse-link
+                   data-verse-reference="@verseReference"
+                   aria-label="Zaznacz werset @verseReference i skopiuj jego adres">
+                    <span class="verse-link-label">Kopiuj link</span>
+                    <span aria-hidden="true">#@verse.Number</span>
+                </a>
+            </div>
             <a class="verse-number"
                asp-action="Verse"
                asp-route-book="@Model.Book.Abbreviation"
@@ -79,6 +90,7 @@
             <span class="verse-text">@verse.Text</span>
         </div>
     }
+    <p class="visually-hidden" role="status" aria-live="polite" data-verse-link-status></p>
 </article>
 
 <div class="chapter-navigation chapter-navigation-bottom" aria-label="Nawigacja między rozdziałami">

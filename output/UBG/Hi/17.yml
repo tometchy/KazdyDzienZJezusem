@@ -1,16 +1,48 @@
-"Hi17,1": "Mój oddech jest skażony, moje dni gasną, groby na mnie czekają."
-"Hi17,2": "Czy nie szydercy są przy mnie? Czy moje oko nie czuwa przez ich zniewagi?"
-"Hi17,3": "Złóż więc zastaw za mnie u siebie. Któż jest ten, który za mnie poręczy?"
-"Hi17,4": "Ich serce bowiem ukryłeś przed zrozumieniem, dlatego ich nie wywyższysz."
-"Hi17,5": "Kto pochlebia przyjaciołom, tego dzieciom zgasną oczy."
-"Hi17,6": "Uczynił mnie tematem przysłowia wśród ludzi i pośmiewiskiem przed nimi."
-"Hi17,7": "Moje oko zaćmiło się od smutku, a wszystkie moje członki są jak cień."
-"Hi17,8": "Prawi zdumieją się nad tym, a niewinny powstanie przeciwko obłudnikowi."
-"Hi17,9": "Sprawiedliwy będzie trwał przy swojej drodze, a kto ma czyste ręce, nabierze siły."
-"Hi17,10": "Lecz wy wszyscy zawróćcie i przyjdźcie; bo mądrego wśród was nie znajduję."
-"Hi17,11": "Moje dni przeminęły, rozwiały się moje zamiary, myśli mego serca."
-"Hi17,12": "Noc zamieniają w dzień, światłość skraca się z powodu ciemności."
-"Hi17,13": "Gdybym czegoś oczekiwał, grób będzie moim domem, w ciemności rozłożyłem swoje posłanie."
-"Hi17,14": "Powiedziałem do zniszczenia: Jesteś moim ojcem, a robactwu: Moja matko i moja siostro."
-"Hi17,15": "Gdzie jest więc teraz moja nadzieja? Kto zobaczy moją nadzieję?"
-"Hi17,16": "Zstąpią do zasuw grobu, gdy razem odpoczniemy w prochu."
+"Hi17,1":
+  text: "Mój oddech jest skażony, moje dni gasną, groby na mnie czekają."
+  tags: []
+"Hi17,2":
+  text: "Czy nie szydercy są przy mnie? Czy moje oko nie czuwa przez ich zniewagi?"
+  tags: []
+"Hi17,3":
+  text: "Złóż więc zastaw za mnie u siebie. Któż jest ten, który za mnie poręczy?"
+  tags: []
+"Hi17,4":
+  text: "Ich serce bowiem ukryłeś przed zrozumieniem, dlatego ich nie wywyższysz."
+  tags: []
+"Hi17,5":
+  text: "Kto pochlebia przyjaciołom, tego dzieciom zgasną oczy."
+  tags: []
+"Hi17,6":
+  text: "Uczynił mnie tematem przysłowia wśród ludzi i pośmiewiskiem przed nimi."
+  tags: []
+"Hi17,7":
+  text: "Moje oko zaćmiło się od smutku, a wszystkie moje członki są jak cień."
+  tags: []
+"Hi17,8":
+  text: "Prawi zdumieją się nad tym, a niewinny powstanie przeciwko obłudnikowi."
+  tags: []
+"Hi17,9":
+  text: "Sprawiedliwy będzie trwał przy swojej drodze, a kto ma czyste ręce, nabierze siły."
+  tags: []
+"Hi17,10":
+  text: "Lecz wy wszyscy zawróćcie i przyjdźcie; bo mądrego wśród was nie znajduję."
+  tags: []
+"Hi17,11":
+  text: "Moje dni przeminęły, rozwiały się moje zamiary, myśli mego serca."
+  tags: []
+"Hi17,12":
+  text: "Noc zamieniają w dzień, światłość skraca się z powodu ciemności."
+  tags: []
+"Hi17,13":
+  text: "Gdybym czegoś oczekiwał, grób będzie moim domem, w ciemności rozłożyłem swoje posłanie."
+  tags: []
+"Hi17,14":
+  text: "Powiedziałem do zniszczenia: Jesteś moim ojcem, a robactwu: Moja matko i moja siostro."
+  tags: []
+"Hi17,15":
+  text: "Gdzie jest więc teraz moja nadzieja? Kto zobaczy moją nadzieję?"
+  tags: []
+"Hi17,16":
+  text: "Zstąpią do zasuw grobu, gdy razem odpoczniemy w prochu."
+  tags: []

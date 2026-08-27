@@ -1,12 +1,36 @@
-"Ps5,1": "Nakłoń ucha ku moim słowom, PANIE, zważ na moje westchnienie."
-"Ps5,2": "Słuchaj pilnie głosu mego wołania, mój Królu i mój Boże, bo się do ciebie modlę."
-"Ps5,3": "PANIE, z rana usłyszysz mój głos, z rana zaniosę do ciebie modlitwę i będę czekał."
-"Ps5,4": "Ty bowiem nie jesteś Bogiem, który miłuje nieprawość, zły z tobą nie zamieszka."
-"Ps5,5": "Głupcy nie ostoją się przed twymi oczyma. Nienawidzisz wszystkich czyniących nieprawość."
-"Ps5,6": "Wytracisz tych, którzy mówią kłamstwa. PAN brzydzi się człowiekiem krwawym i podstępnym."
-"Ps5,7": "Lecz ja dzięki obfitości twego miłosierdzia wejdę do twego domu, oddam pokłon przed twoim świętym przybytkiem w twojej bojaźni."
-"Ps5,8": "Prowadź mnie, PANIE, w swojej sprawiedliwości ze względu na moich wrogów; wyprostuj przede mną twoją drogę."
-"Ps5,9": "Bo w ich ustach nie ma szczerości, ich wnętrze pełne przewrotności, ich gardło jest grobem otwartym, swoim językiem pochlebiają."
-"Ps5,10": "Spustosz ich, Boże! Niech upadną przez własne zamiary. Z powodu ich licznych występków odtrąć ich, ponieważ buntują się przeciwko tobie."
-"Ps5,11": "Lecz niech się radują wszyscy, którzy tobie ufają; niech zawsze wykrzykują z radości, bo ty będziesz ich osłaniał. Niech rozradują się w tobie ci, którzy miłują twoje imię."
-"Ps5,12": "Ty bowiem, PANIE, będziesz błogosławił sprawiedliwego, osłonisz go dobrocią jak tarczą."
+"Ps5,1":
+  text: "Nakłoń ucha ku moim słowom, PANIE, zważ na moje westchnienie."
+  tags: []
+"Ps5,2":
+  text: "Słuchaj pilnie głosu mego wołania, mój Królu i mój Boże, bo się do ciebie modlę."
+  tags: []
+"Ps5,3":
+  text: "PANIE, z rana usłyszysz mój głos, z rana zaniosę do ciebie modlitwę i będę czekał."
+  tags: []
+"Ps5,4":
+  text: "Ty bowiem nie jesteś Bogiem, który miłuje nieprawość, zły z tobą nie zamieszka."
+  tags: []
+"Ps5,5":
+  text: "Głupcy nie ostoją się przed twymi oczyma. Nienawidzisz wszystkich czyniących nieprawość."
+  tags: []
+"Ps5,6":
+  text: "Wytracisz tych, którzy mówią kłamstwa. PAN brzydzi się człowiekiem krwawym i podstępnym."
+  tags: []
+"Ps5,7":
+  text: "Lecz ja dzięki obfitości twego miłosierdzia wejdę do twego domu, oddam pokłon przed twoim świętym przybytkiem w twojej bojaźni."
+  tags: []
+"Ps5,8":
+  text: "Prowadź mnie, PANIE, w swojej sprawiedliwości ze względu na moich wrogów; wyprostuj przede mną twoją drogę."
+  tags: []
+"Ps5,9":
+  text: "Bo w ich ustach nie ma szczerości, ich wnętrze pełne przewrotności, ich gardło jest grobem otwartym, swoim językiem pochlebiają."
+  tags: []
+"Ps5,10":
+  text: "Spustosz ich, Boże! Niech upadną przez własne zamiary. Z powodu ich licznych występków odtrąć ich, ponieważ buntują się przeciwko tobie."
+  tags: []
+"Ps5,11":
+  text: "Lecz niech się radują wszyscy, którzy tobie ufają; niech zawsze wykrzykują z radości, bo ty będziesz ich osłaniał. Niech rozradują się w tobie ci, którzy miłują twoje imię."
+  tags: []
+"Ps5,12":
+  text: "Ty bowiem, PANIE, będziesz błogosławił sprawiedliwego, osłonisz go dobrocią jak tarczą."
+  tags: []

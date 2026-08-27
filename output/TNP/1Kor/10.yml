@@ -1,33 +1,99 @@
-"1Kor10,1": "Nie chcę natomiast, bracia, abyście nie wiedzieli, że nasi ojcowie wszyscy byli pod obłokiem i wszyscy przeszli przez morze,"
-"1Kor10,2": "I wszyscy w Mojżesza zanurzyli się w obłoku i w morzu,"
-"1Kor10,3": "I wszyscy zjedli ten sam duchowy pokarm,"
-"1Kor10,4": "I wszyscy wypili ten sam duchowy napój; pili bowiem z duchowej skały, która im towarzyszyła – a tą skałą był Chrystus."
-"1Kor10,5": "Lecz w większości z nich Bóg nie miał upodobania; ciała ich bowiem zostały rozrzucone na pustyni."
-"1Kor10,6": "A te wydarzenia stały się dla nas przykładem, abyśmy nie pożądali złych rzeczy, jak oni pożądali."
-"1Kor10,7": "Nie stawajcie się też bałwochwalcami, jak niektórzy z nich, jak jest napisane: Siadł lud, aby zjeść i wypić, i wstali, aby się bawić."
-"1Kor10,8": "Nie oddawajmy się nierządowi, jak niektórzy z nich oddali się nierządowi i padło ich jednego dnia dwadzieścia trzy tysiące."
-"1Kor10,9": "Ani nie kuśmy Chrystusa, jak niektórzy z nich kusili i poginęli od węży."
-"1Kor10,10": "Ani nie szemrajcie, jak niektórzy z nich szemrali i poginęli za sprawą Niszczyciela."
-"1Kor10,11": "To wszystko natomiast, zdarzało się im dla przykładu, a zostało napisane dla napomnienia nas, do których dosięgnął koniec wieków."
-"1Kor10,12": "A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł."
-"1Kor10,13": "Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać."
-"1Kor10,14": "Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa."
-"1Kor10,15": "Jako do rozsądnych mówię; wy osądźcie, co mówię."
-"1Kor10,16": "Kielich błogosławieństwa, który błogosławimy, czyż nie jest społecznością krwi Chrystusa? Chleb, który łamiemy, czyż nie jest społecznością ciała Chrystusa?"
-"1Kor10,17": "Bo jak jeden jest chleb, tak wielu nas jest jednym ciałem, wszyscy mamy bowiem cząstkę z tego jednego chleba."
-"1Kor10,18": "Przyglądajcie się Izraelowi według ciała; czyż ci, którzy jedzą ofiary, nie są uczestnikami ołtarza?"
-"1Kor10,19": "Co zatem mówię? Że bożek jest czymś, lub że ofiara złożona bożkom jest czymś?"
-"1Kor10,20": "Raczej, że to, co ofiarowują poganie, ofiarowują demonom, a nie Bogu; a nie chcę, abyście stawali się wspólnikami demonów."
-"1Kor10,21": "Nie możecie pić kielicha Pana i kielicha demonów; nie możecie mieć udziału w stole Pana i stole demonów."
-"1Kor10,22": "Czy chcemy pobudzać Pana do zazdrości? Czy jesteśmy mocniejsi od Niego?"
-"1Kor10,23": "Wszystko mi wolno, ale nie wszystko jest pożyteczne; wszystko mi wolno, ale nie wszystko buduje."
-"1Kor10,24": "Niech nikt nie szuka swego, lecz każdy tego, co drugiej osoby."
-"1Kor10,25": "Jedzcie wszystko, co sprzedaje się w jatkach, o nic nie pytając z powodu sumienia."
-"1Kor10,26": "Albowiem PANA jest ziemia i cała jej pełnia."
-"1Kor10,27": "A jeśli ktoś z niewierzących zaprosi was, a chcecie pójść, wszystko, co przed wami jest postawione, jedzcie, o nic nie pytając z powodu sumienia."
-"1Kor10,28": "Jeśli natomiast ktoś powiedziałby: To jest ze złożonej bożkom ofiary; nie jedzcie z powodu tego, który to ujawnił i z powodu sumienia; gdyż PANA jest ziemia i cała jej pełnia."
-"1Kor10,29": "Mówię natomiast nie o twoim sumieniu, ale tej drugiej osoby; dlaczego bowiem inne sumienie sądzi moją wolność?"
-"1Kor10,30": "A jeśli ja z wdzięcznością biorę cząstkę pokarmu, dlaczego mają mi urągać za to, za co ja dziękuję?"
-"1Kor10,31": "Czy więc jecie, czy pijecie, czy cokolwiek czynicie, wszystko czyńcie na chwałę Boga."
-"1Kor10,32": "Nie dawajcie zgorszenia ani Żydom, ani Grekom, ani Kościołowi Boga;"
-"1Kor10,33": "Tak jak i ja staram się we wszystkim podobać się wszystkim, nie szukając w tym korzyści własnej, lecz wielu, aby byli zbawieni."
+"1Kor10,1":
+  text: "Nie chcę natomiast, bracia, abyście nie wiedzieli, że nasi ojcowie wszyscy byli pod obłokiem i wszyscy przeszli przez morze,"
+  tags: []
+"1Kor10,2":
+  text: "I wszyscy w Mojżesza zanurzyli się w obłoku i w morzu,"
+  tags: []
+"1Kor10,3":
+  text: "I wszyscy zjedli ten sam duchowy pokarm,"
+  tags: []
+"1Kor10,4":
+  text: "I wszyscy wypili ten sam duchowy napój; pili bowiem z duchowej skały, która im towarzyszyła – a tą skałą był Chrystus."
+  tags: []
+"1Kor10,5":
+  text: "Lecz w większości z nich Bóg nie miał upodobania; ciała ich bowiem zostały rozrzucone na pustyni."
+  tags: []
+"1Kor10,6":
+  text: "A te wydarzenia stały się dla nas przykładem, abyśmy nie pożądali złych rzeczy, jak oni pożądali."
+  tags: []
+"1Kor10,7":
+  text: "Nie stawajcie się też bałwochwalcami, jak niektórzy z nich, jak jest napisane: Siadł lud, aby zjeść i wypić, i wstali, aby się bawić."
+  tags: []
+"1Kor10,8":
+  text: "Nie oddawajmy się nierządowi, jak niektórzy z nich oddali się nierządowi i padło ich jednego dnia dwadzieścia trzy tysiące."
+  tags: []
+"1Kor10,9":
+  text: "Ani nie kuśmy Chrystusa, jak niektórzy z nich kusili i poginęli od węży."
+  tags: []
+"1Kor10,10":
+  text: "Ani nie szemrajcie, jak niektórzy z nich szemrali i poginęli za sprawą Niszczyciela."
+  tags: []
+"1Kor10,11":
+  text: "To wszystko natomiast, zdarzało się im dla przykładu, a zostało napisane dla napomnienia nas, do których dosięgnął koniec wieków."
+  tags: []
+"1Kor10,12":
+  text: "A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł."
+  tags: []
+"1Kor10,13":
+  text: "Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać."
+  tags: []
+"1Kor10,14":
+  text: "Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa."
+  tags: []
+"1Kor10,15":
+  text: "Jako do rozsądnych mówię; wy osądźcie, co mówię."
+  tags: []
+"1Kor10,16":
+  text: "Kielich błogosławieństwa, który błogosławimy, czyż nie jest społecznością krwi Chrystusa? Chleb, który łamiemy, czyż nie jest społecznością ciała Chrystusa?"
+  tags: []
+"1Kor10,17":
+  text: "Bo jak jeden jest chleb, tak wielu nas jest jednym ciałem, wszyscy mamy bowiem cząstkę z tego jednego chleba."
+  tags: []
+"1Kor10,18":
+  text: "Przyglądajcie się Izraelowi według ciała; czyż ci, którzy jedzą ofiary, nie są uczestnikami ołtarza?"
+  tags: []
+"1Kor10,19":
+  text: "Co zatem mówię? Że bożek jest czymś, lub że ofiara złożona bożkom jest czymś?"
+  tags: []
+"1Kor10,20":
+  text: "Raczej, że to, co ofiarowują poganie, ofiarowują demonom, a nie Bogu; a nie chcę, abyście stawali się wspólnikami demonów."
+  tags: []
+"1Kor10,21":
+  text: "Nie możecie pić kielicha Pana i kielicha demonów; nie możecie mieć udziału w stole Pana i stole demonów."
+  tags: []
+"1Kor10,22":
+  text: "Czy chcemy pobudzać Pana do zazdrości? Czy jesteśmy mocniejsi od Niego?"
+  tags: []
+"1Kor10,23":
+  text: "Wszystko mi wolno, ale nie wszystko jest pożyteczne; wszystko mi wolno, ale nie wszystko buduje."
+  tags: []
+"1Kor10,24":
+  text: "Niech nikt nie szuka swego, lecz każdy tego, co drugiej osoby."
+  tags: []
+"1Kor10,25":
+  text: "Jedzcie wszystko, co sprzedaje się w jatkach, o nic nie pytając z powodu sumienia."
+  tags: []
+"1Kor10,26":
+  text: "Albowiem PANA jest ziemia i cała jej pełnia."
+  tags: []
+"1Kor10,27":
+  text: "A jeśli ktoś z niewierzących zaprosi was, a chcecie pójść, wszystko, co przed wami jest postawione, jedzcie, o nic nie pytając z powodu sumienia."
+  tags: []
+"1Kor10,28":
+  text: "Jeśli natomiast ktoś powiedziałby: To jest ze złożonej bożkom ofiary; nie jedzcie z powodu tego, który to ujawnił i z powodu sumienia; gdyż PANA jest ziemia i cała jej pełnia."
+  tags: []
+"1Kor10,29":
+  text: "Mówię natomiast nie o twoim sumieniu, ale tej drugiej osoby; dlaczego bowiem inne sumienie sądzi moją wolność?"
+  tags: []
+"1Kor10,30":
+  text: "A jeśli ja z wdzięcznością biorę cząstkę pokarmu, dlaczego mają mi urągać za to, za co ja dziękuję?"
+  tags: []
+"1Kor10,31":
+  text: "Czy więc jecie, czy pijecie, czy cokolwiek czynicie, wszystko czyńcie na chwałę Boga."
+  tags: []
+"1Kor10,32":
+  text: "Nie dawajcie zgorszenia ani Żydom, ani Grekom, ani Kościołowi Boga;"
+  tags: []
+"1Kor10,33":
+  text: "Tak jak i ja staram się we wszystkim podobać się wszystkim, nie szukając w tym korzyści własnej, lecz wielu, aby byli zbawieni."
+  tags: []

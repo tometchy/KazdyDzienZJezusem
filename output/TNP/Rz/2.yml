@@ -1,29 +1,87 @@
-"Rz2,1": "Dlatego jesteś bez wymówki, o człowieku, kimkolwiek jesteś, który osądzasz; bo w czym innego osądzasz, samego siebie osądzasz, ponieważ ty, który osądzasz, czynisz to samo."
-"Rz2,2": "A wiemy, że sąd Boży jest zgodny z prawdą wobec tych, którzy czynią takie rzeczy."
-"Rz2,3": "Czy liczysz na to, o człowieku, który sądzisz tych, co czynią takie rzeczy, a sam je czynisz, że ty umkniesz sądu Bożego?"
-"Rz2,4": "Czy pogardzasz bogactwem Jego dobroci, powściągliwości i cierpliwości, nie wiedząc, że dobroć Boża prowadzi ciebie do upamiętania."
-"Rz2,5": "Ale według zatwardziałości swojej i nieskruszonego serca gromadzisz sobie gniew na dzień gniewu i objawienia sprawiedliwego sądu Boga,"
-"Rz2,6": "Który odda każdemu według jego czynów,"
-"Rz2,7": "Tym, wprawdzie którzy przez wytrwanie w dobrym czynie szukają chwały i czci, i niezniszczalności, odda życie wieczne;"
-"Rz2,8": "Natomiast kłótliwym i rzeczywiście nieposłusznym prawdzie, lecz posłusznym niesprawiedliwości, odda zapalczywość i gniew;"
-"Rz2,9": "Utrapienie i ucisk na duszę każdego człowieka, który czyni zło, najpierw Żyda, a także i Greka;"
-"Rz2,10": "A chwała i cześć, i pokój każdemu czyniącemu dobro, najpierw Żydowi, a także i Grekowi."
-"Rz2,11": "Bóg bowiem nie ma względu na osobę."
-"Rz2,12": "Ci bowiem, którzy bez prawa zgrzeszyli, bez prawa też zginą; a ci, którzy w prawie zgrzeszyli, przez prawo zostaną osądzeni."
-"Rz2,13": "Gdyż nie słuchacze Prawa są sprawiedliwi przed Bogiem, ale ci, którzy czynią Prawo, zostaną uznani za sprawiedliwych."
-"Rz2,14": "Skoro bowiem poganie, nie mając Prawa, z natury czynią to, co jest w prawie, oni nie mając prawa, sami sobie są prawem,"
-"Rz2,15": "Bo pokazują oni, że dzieło Prawa zapisane jest w ich sercach, gdyż razem świadczą o tym ich sumienie i myśli, oskarżające się pomiędzy sobą lub też biorące w obronę;"
-"Rz2,16": "W dniu, gdy Bóg sądzić będzie przez Jezusa Chrystusa ukryte sprawy ludzi, według mojej Ewangelii."
-"Rz2,17": "Oto ty, który nazywasz siebie Żydem i polegasz na Prawie, i chlubisz się w Bogu,"
-"Rz2,18": "I znasz Jego wolę, i badasz to, co jest ważne, będąc pouczanym przez Prawo,"
-"Rz2,19": "I masz przekonanie, że jesteś przewodnikiem ślepych, światłem dla tych, którzy są w ciemności,"
-"Rz2,20": "Wychowawcą nierozumnych, nauczycielem niemowląt, mając w Prawie formułę wiedzy i prawdy."
-"Rz2,21": "Ty więc, który uczysz drugiego, samego siebie nie nauczasz? Który głosisz, żeby nie kradziono, kradniesz?"
-"Rz2,22": "Który mówisz, żeby nie cudzołożono, cudzołożysz? Który brzydzisz się bożkami, popełniasz świętokradztwo?"
-"Rz2,23": "Który chlubisz się Prawem, przez przekraczanie Prawa znieważasz Boga?"
-"Rz2,24": "Albowiem tak, jak jest napisane: Z powodu was, poganie bluźnią imieniu Bożemu."
-"Rz2,25": "Obrzezanie bowiem jest korzystne, jeśli wykonujesz Prawo; a jeślibyś był przestępcą Prawa, twoje obrzezanie staje się nieobrzezaniem."
-"Rz2,26": "Jeżeli więc nieobrzezany przestrzega sprawiedliwości Prawa, czy jego nieobrzezanie nie będzie policzone za obrzezanie?"
-"Rz2,27": "I ten, który jest z natury nieobrzezany, a wypełnia Prawo, osądzi ciebie, który, mimo litery i obrzezania, jesteś przestępcą Prawa."
-"Rz2,28": "Żydem bowiem, nie jest się na podstawie tego co widać, ani obrzezanie nie jest tym co widać na ciele;"
-"Rz2,29": "Ale Żydem jest się w ukryciu, a obrzezanie serca jest w duchu, nie w literze; taki ma chwałę nie od ludzi, ale od Boga."
+"Rz2,1":
+  text: "Dlatego jesteś bez wymówki, o człowieku, kimkolwiek jesteś, który osądzasz; bo w czym innego osądzasz, samego siebie osądzasz, ponieważ ty, który osądzasz, czynisz to samo."
+  tags: []
+"Rz2,2":
+  text: "A wiemy, że sąd Boży jest zgodny z prawdą wobec tych, którzy czynią takie rzeczy."
+  tags: []
+"Rz2,3":
+  text: "Czy liczysz na to, o człowieku, który sądzisz tych, co czynią takie rzeczy, a sam je czynisz, że ty umkniesz sądu Bożego?"
+  tags: []
+"Rz2,4":
+  text: "Czy pogardzasz bogactwem Jego dobroci, powściągliwości i cierpliwości, nie wiedząc, że dobroć Boża prowadzi ciebie do upamiętania."
+  tags: []
+"Rz2,5":
+  text: "Ale według zatwardziałości swojej i nieskruszonego serca gromadzisz sobie gniew na dzień gniewu i objawienia sprawiedliwego sądu Boga,"
+  tags: []
+"Rz2,6":
+  text: "Który odda każdemu według jego czynów,"
+  tags: []
+"Rz2,7":
+  text: "Tym, wprawdzie którzy przez wytrwanie w dobrym czynie szukają chwały i czci, i niezniszczalności, odda życie wieczne;"
+  tags: []
+"Rz2,8":
+  text: "Natomiast kłótliwym i rzeczywiście nieposłusznym prawdzie, lecz posłusznym niesprawiedliwości, odda zapalczywość i gniew;"
+  tags: []
+"Rz2,9":
+  text: "Utrapienie i ucisk na duszę każdego człowieka, który czyni zło, najpierw Żyda, a także i Greka;"
+  tags: []
+"Rz2,10":
+  text: "A chwała i cześć, i pokój każdemu czyniącemu dobro, najpierw Żydowi, a także i Grekowi."
+  tags: []
+"Rz2,11":
+  text: "Bóg bowiem nie ma względu na osobę."
+  tags: []
+"Rz2,12":
+  text: "Ci bowiem, którzy bez prawa zgrzeszyli, bez prawa też zginą; a ci, którzy w prawie zgrzeszyli, przez prawo zostaną osądzeni."
+  tags: []
+"Rz2,13":
+  text: "Gdyż nie słuchacze Prawa są sprawiedliwi przed Bogiem, ale ci, którzy czynią Prawo, zostaną uznani za sprawiedliwych."
+  tags: []
+"Rz2,14":
+  text: "Skoro bowiem poganie, nie mając Prawa, z natury czynią to, co jest w prawie, oni nie mając prawa, sami sobie są prawem,"
+  tags: []
+"Rz2,15":
+  text: "Bo pokazują oni, że dzieło Prawa zapisane jest w ich sercach, gdyż razem świadczą o tym ich sumienie i myśli, oskarżające się pomiędzy sobą lub też biorące w obronę;"
+  tags: []
+"Rz2,16":
+  text: "W dniu, gdy Bóg sądzić będzie przez Jezusa Chrystusa ukryte sprawy ludzi, według mojej Ewangelii."
+  tags: []
+"Rz2,17":
+  text: "Oto ty, który nazywasz siebie Żydem i polegasz na Prawie, i chlubisz się w Bogu,"
+  tags: []
+"Rz2,18":
+  text: "I znasz Jego wolę, i badasz to, co jest ważne, będąc pouczanym przez Prawo,"
+  tags: []
+"Rz2,19":
+  text: "I masz przekonanie, że jesteś przewodnikiem ślepych, światłem dla tych, którzy są w ciemności,"
+  tags: []
+"Rz2,20":
+  text: "Wychowawcą nierozumnych, nauczycielem niemowląt, mając w Prawie formułę wiedzy i prawdy."
+  tags: []
+"Rz2,21":
+  text: "Ty więc, który uczysz drugiego, samego siebie nie nauczasz? Który głosisz, żeby nie kradziono, kradniesz?"
+  tags: []
+"Rz2,22":
+  text: "Który mówisz, żeby nie cudzołożono, cudzołożysz? Który brzydzisz się bożkami, popełniasz świętokradztwo?"
+  tags: []
+"Rz2,23":
+  text: "Który chlubisz się Prawem, przez przekraczanie Prawa znieważasz Boga?"
+  tags: []
+"Rz2,24":
+  text: "Albowiem tak, jak jest napisane: Z powodu was, poganie bluźnią imieniu Bożemu."
+  tags: []
+"Rz2,25":
+  text: "Obrzezanie bowiem jest korzystne, jeśli wykonujesz Prawo; a jeślibyś był przestępcą Prawa, twoje obrzezanie staje się nieobrzezaniem."
+  tags: []
+"Rz2,26":
+  text: "Jeżeli więc nieobrzezany przestrzega sprawiedliwości Prawa, czy jego nieobrzezanie nie będzie policzone za obrzezanie?"
+  tags: []
+"Rz2,27":
+  text: "I ten, który jest z natury nieobrzezany, a wypełnia Prawo, osądzi ciebie, który, mimo litery i obrzezania, jesteś przestępcą Prawa."
+  tags: []
+"Rz2,28":
+  text: "Żydem bowiem, nie jest się na podstawie tego co widać, ani obrzezanie nie jest tym co widać na ciele;"
+  tags: []
+"Rz2,29":
+  text: "Ale Żydem jest się w ukryciu, a obrzezanie serca jest w duchu, nie w literze; taki ma chwałę nie od ludzi, ale od Boga."
+  tags: []

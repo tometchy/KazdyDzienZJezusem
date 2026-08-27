@@ -1,16 +1,48 @@
-"Ps91,1": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty."
-"Ps91,2": "I will say of the LORD, [He is] my refuge and my fortress: my God; in him will I trust."
-"Ps91,3": "Surely he shall deliver thee from the snare of the fowler, [and] from the noisome pestilence."
-"Ps91,4": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth [shall be thy] shield and buckler."
-"Ps91,5": "Thou shalt not be afraid for the terror by night; [nor] for the arrow [that] flieth by day;"
-"Ps91,6": "[Nor] for the pestilence [that] walketh in darkness; [nor] for the destruction [that] wasteth at noonday."
-"Ps91,7": "A thousand shall fall at thy side, and ten thousand at thy right hand; [but] it shall not come nigh thee."
-"Ps91,8": "Only with thine eyes shalt thou behold and see the reward of the wicked."
-"Ps91,9": "Because thou hast made the LORD, [which is] my refuge, [even] the most High, thy habitation;"
-"Ps91,10": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling."
-"Ps91,11": "For he shall give his angels charge over thee, to keep thee in all thy ways."
-"Ps91,12": "They shall bear thee up in [their] hands, lest thou dash thy foot against a stone."
-"Ps91,13": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet."
-"Ps91,14": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name."
-"Ps91,15": "He shall call upon me, and I will answer him: I [will be] with him in trouble; I will deliver him, and honour him."
-"Ps91,16": "With long life will I satisfy him, and shew him my salvation."
+"Ps91,1":
+  text: "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty."
+  tags: []
+"Ps91,2":
+  text: "I will say of the LORD, [He is] my refuge and my fortress: my God; in him will I trust."
+  tags: []
+"Ps91,3":
+  text: "Surely he shall deliver thee from the snare of the fowler, [and] from the noisome pestilence."
+  tags: []
+"Ps91,4":
+  text: "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth [shall be thy] shield and buckler."
+  tags: []
+"Ps91,5":
+  text: "Thou shalt not be afraid for the terror by night; [nor] for the arrow [that] flieth by day;"
+  tags: []
+"Ps91,6":
+  text: "[Nor] for the pestilence [that] walketh in darkness; [nor] for the destruction [that] wasteth at noonday."
+  tags: []
+"Ps91,7":
+  text: "A thousand shall fall at thy side, and ten thousand at thy right hand; [but] it shall not come nigh thee."
+  tags: []
+"Ps91,8":
+  text: "Only with thine eyes shalt thou behold and see the reward of the wicked."
+  tags: []
+"Ps91,9":
+  text: "Because thou hast made the LORD, [which is] my refuge, [even] the most High, thy habitation;"
+  tags: []
+"Ps91,10":
+  text: "There shall no evil befall thee, neither shall any plague come nigh thy dwelling."
+  tags: []
+"Ps91,11":
+  text: "For he shall give his angels charge over thee, to keep thee in all thy ways."
+  tags: []
+"Ps91,12":
+  text: "They shall bear thee up in [their] hands, lest thou dash thy foot against a stone."
+  tags: []
+"Ps91,13":
+  text: "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet."
+  tags: []
+"Ps91,14":
+  text: "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name."
+  tags: []
+"Ps91,15":
+  text: "He shall call upon me, and I will answer him: I [will be] with him in trouble; I will deliver him, and honour him."
+  tags: []
+"Ps91,16":
+  text: "With long life will I satisfy him, and shew him my salvation."
+  tags: []

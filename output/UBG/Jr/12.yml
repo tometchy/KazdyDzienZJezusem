@@ -1,17 +1,51 @@
-"Jr12,1": "Sprawiedliwy jesteś, PANIE, choćbym się z tobą spierał. Ja jednak będę rozmawiać z tobą o twoich sądach. Czemu szczęści się droga bezbożnych? Czemu spokojnie żyją wszyscy, którzy postępują bardzo zdradliwie?"
-"Jr12,2": "Zasadziłeś ich, zapuścili też korzenie; rosną i nawet wydają owoc. Bliski jesteś ich ust, ale daleki od ich nerek."
-"Jr12,3": "Ale ty, PANIE, znasz mnie, wypatrujesz mnie i doświadczyłeś moje serce, i wiesz, że jest z tobą. Odłącz ich jak owce na rzeź i przygotuj ich na dzień zabicia."
-"Jr12,4": "Jak długo ziemia będzie płakać, a trawa na wszystkich polach będzie usychać z powodu niegodziwości jej mieszkańców? Giną wszystkie zwierzęta i ptactwo, bo mówią: Nie widzi naszego końca."
-"Jr12,5": "Jeśli biegłeś z pieszymi i zmęczyłeś się, to jak zmierzysz się z końmi? A jeśli zmęczyłeś się w spokojnej ziemi, w której pokładałeś nadzieję, co zrobisz przy wezbraniu Jordanu?"
-"Jr12,6": "Nawet twoi bracia i dom twego ojca sprzeniewierzyli się tobie, oni też głośno wołają za tobą. Ale nie wierz im, choćby mówili do ciebie piękne słowa."
-"Jr12,7": "Opuściłem swój dom, porzuciłem swoje dziedzictwo; umiłowaną mojej duszy wydałem w ręce jej wrogów."
-"Jr12,8": "Moje dziedzictwo stało się dla mnie jak lew w lesie; podnosi przeciwko mnie swój głos, dlatego je znienawidziłem."
-"Jr12,9": "Moje dziedzictwo jest pstrym ptakiem, ptaki dokoła będą przeciwko niemu. Chodźcie, zbierzcie wszystkie zwierzęta polne, zejdźcie się na żer."
-"Jr12,10": "Wielu pasterzy zniszczyło moją winnicę, zdeptało mój dział; mój rozkoszny dział zamienili w opustoszałe pustkowie."
-"Jr12,11": "Zamienili go w pustkowie; a spustoszony leży w żałobie przede mną; cała ziemia pustoszeje, bo nikt tego nie bierze sobie do serca."
-"Jr12,12": "Na wszystkie pustynne wzniesienia przyjdą niszczyciele, bo miecz PANA pożre wszystko od jednego krańca do drugiego krańca ziemi. Żadne ciało nie będzie miało pokoju."
-"Jr12,13": "Posiali pszenicę, ale będą zbierać ciernie; natrudzili się, ale nic nie osiągną. Zawstydzą się ze swoich plonów z powodu zapalczywego gniewu PANA."
-"Jr12,14": "Tak mówi PAN o wszystkich moich złych sąsiadach dotykających mojego dziedzictwa, które dałem w dziedzictwo memu ludowi Izraelowi: Oto wykorzenię ich z ich ziemi, a dom Judy wyrwę spośród nich."
-"Jr12,15": "A gdy ich wyrwę, wrócę, zlituję się nad nimi i znowu przyprowadzę każdego z nich do jego dziedzictwa i każdego z nich do jego ziemi."
-"Jr12,16": "I jeśli dokładnie się nauczą dróg mojego ludu, i będą przysięgać na moje imię, mówiąc: PAN żyje, podobnie jak nauczali mój lud przysięgać na Baala, wtedy zostaną zbudowani wśród mego ludu."
-"Jr12,17": "Ale jeśli nie usłuchają, wtedy wykorzenię ten naród, wyrwę i wytracę go, mówi PAN."
+"Jr12,1":
+  text: "Sprawiedliwy jesteś, PANIE, choćbym się z tobą spierał. Ja jednak będę rozmawiać z tobą o twoich sądach. Czemu szczęści się droga bezbożnych? Czemu spokojnie żyją wszyscy, którzy postępują bardzo zdradliwie?"
+  tags: []
+"Jr12,2":
+  text: "Zasadziłeś ich, zapuścili też korzenie; rosną i nawet wydają owoc. Bliski jesteś ich ust, ale daleki od ich nerek."
+  tags: []
+"Jr12,3":
+  text: "Ale ty, PANIE, znasz mnie, wypatrujesz mnie i doświadczyłeś moje serce, i wiesz, że jest z tobą. Odłącz ich jak owce na rzeź i przygotuj ich na dzień zabicia."
+  tags: []
+"Jr12,4":
+  text: "Jak długo ziemia będzie płakać, a trawa na wszystkich polach będzie usychać z powodu niegodziwości jej mieszkańców? Giną wszystkie zwierzęta i ptactwo, bo mówią: Nie widzi naszego końca."
+  tags: []
+"Jr12,5":
+  text: "Jeśli biegłeś z pieszymi i zmęczyłeś się, to jak zmierzysz się z końmi? A jeśli zmęczyłeś się w spokojnej ziemi, w której pokładałeś nadzieję, co zrobisz przy wezbraniu Jordanu?"
+  tags: []
+"Jr12,6":
+  text: "Nawet twoi bracia i dom twego ojca sprzeniewierzyli się tobie, oni też głośno wołają za tobą. Ale nie wierz im, choćby mówili do ciebie piękne słowa."
+  tags: []
+"Jr12,7":
+  text: "Opuściłem swój dom, porzuciłem swoje dziedzictwo; umiłowaną mojej duszy wydałem w ręce jej wrogów."
+  tags: []
+"Jr12,8":
+  text: "Moje dziedzictwo stało się dla mnie jak lew w lesie; podnosi przeciwko mnie swój głos, dlatego je znienawidziłem."
+  tags: []
+"Jr12,9":
+  text: "Moje dziedzictwo jest pstrym ptakiem, ptaki dokoła będą przeciwko niemu. Chodźcie, zbierzcie wszystkie zwierzęta polne, zejdźcie się na żer."
+  tags: []
+"Jr12,10":
+  text: "Wielu pasterzy zniszczyło moją winnicę, zdeptało mój dział; mój rozkoszny dział zamienili w opustoszałe pustkowie."
+  tags: []
+"Jr12,11":
+  text: "Zamienili go w pustkowie; a spustoszony leży w żałobie przede mną; cała ziemia pustoszeje, bo nikt tego nie bierze sobie do serca."
+  tags: []
+"Jr12,12":
+  text: "Na wszystkie pustynne wzniesienia przyjdą niszczyciele, bo miecz PANA pożre wszystko od jednego krańca do drugiego krańca ziemi. Żadne ciało nie będzie miało pokoju."
+  tags: []
+"Jr12,13":
+  text: "Posiali pszenicę, ale będą zbierać ciernie; natrudzili się, ale nic nie osiągną. Zawstydzą się ze swoich plonów z powodu zapalczywego gniewu PANA."
+  tags: []
+"Jr12,14":
+  text: "Tak mówi PAN o wszystkich moich złych sąsiadach dotykających mojego dziedzictwa, które dałem w dziedzictwo memu ludowi Izraelowi: Oto wykorzenię ich z ich ziemi, a dom Judy wyrwę spośród nich."
+  tags: []
+"Jr12,15":
+  text: "A gdy ich wyrwę, wrócę, zlituję się nad nimi i znowu przyprowadzę każdego z nich do jego dziedzictwa i każdego z nich do jego ziemi."
+  tags: []
+"Jr12,16":
+  text: "I jeśli dokładnie się nauczą dróg mojego ludu, i będą przysięgać na moje imię, mówiąc: PAN żyje, podobnie jak nauczali mój lud przysięgać na Baala, wtedy zostaną zbudowani wśród mego ludu."
+  tags: []
+"Jr12,17":
+  text: "Ale jeśli nie usłuchają, wtedy wykorzenię ten naród, wyrwę i wytracę go, mówi PAN."
+  tags: []

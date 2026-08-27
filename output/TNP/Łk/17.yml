@@ -1,37 +1,111 @@
-"Łk17,1": "I powiedział do uczniów: Niemożliwe jest, aby nie miały przyjść zgorszenia; lecz biada temu, przez którego przychodzą!"
-"Łk17,2": "Lepiej by mu było, aby zawieszono ośli kamień młyński u jego szyi i wrzucono go w morze, niż żeby miał zgorszyć jednego z tych małych."
-"Łk17,3": "Uważajcie na siebie. A jeśliby zgrzeszył przeciwko tobie twój brat, upomnij go; a jeśli się upamięta, odpuść mu."
-"Łk17,4": "I jeśliby zgrzeszył przeciwko tobie siedem razy na dzień i siedem razy na dzień zwrócił się do ciebie, mówiąc: Upamiętałem się – odpuść mu."
-"Łk17,5": "I powiedzieli apostołowie do Pana: Dodaj nam wiary."
-"Łk17,6": "A Pan powiedział: Jeśli mielibyście wiarę jak ziarnko gorczycy i powiedzieli temu drzewu czarnej morwy: Wyrwij się z korzeniem i przesadź się w morze, usłuchałoby was."
-"Łk17,7": "A kto z was, mając sługę, który orze lub pasie, powie mu zaraz, gdy wróci z pola: Przyjdź i spocznij przy stole?"
-"Łk17,8": "Czyż nie powie mu raczej: Przygotuj mi wieczerzę, przepasz się i służ mi, aż się najem i napiję, a potem i ty zjesz i napijesz się?"
-"Łk17,9": "Czy jest wdzięczny temu słudze za to, że uczynił to, co mu rozkazano? Nie wydaje mi się."
-"Łk17,10": "Tak i wy, gdy uczynicie wszystko, co wam rozkazano, mówcie: Sługami nieużytecznymi jesteśmy, gdyż to, co było naszą powinnością, uczyniliśmy."
-"Łk17,11": "I stało się, gdy szedł do Jerozolimy, że przechodził przez środek Samarii i Galilei."
-"Łk17,12": "I gdy wchodził do jednego miasteczka, wyszło mu naprzeciw dziesięciu trędowatych mężów, którzy stanęli z daleka."
-"Łk17,13": "I oni podnieśli głos, mówiąc: Jezusie, Mistrzu! Zmiłuj się nad nami."
-"Łk17,14": "I gdy ich zobaczył, powiedział im: Idźcie, ukażcie się kapłanom. I stało się, gdy odchodzili, że zostali oczyszczeni."
-"Łk17,15": "Jeden z nich natomiast, gdy zobaczył, że został uzdrowiony, wrócił, potężnym głosem chwaląc Boga;"
-"Łk17,16": "I padł na twarz u Jego stóp, dziękując Mu; a był on Samarytaninem."
-"Łk17,17": "A Jezus w odpowiedzi, rzekł: Czyż nie dziesięciu zostało oczyszczonych, a gdzie jest dziewięciu?"
-"Łk17,18": "Czy nie znalazł się żaden, kto wróciłby i dał chwałę Bogu, tylko ten cudzoziemiec?"
-"Łk17,19": "I powiedział mu: Wstań, idź, twoja wiara cię uzdrowiła."
-"Łk17,20": "Zapytany natomiast przez faryzeuszów, kiedy przyjdzie Królestwo Boga, w odpowiedzi, rzekł im: Królestwo Boga nie przychodzi w sposób możliwy do zaobserwowania;"
-"Łk17,21": "Nie powiedzą: Oto tu, albo: Oto jest tam; oto bowiem Królestwo Boże jest wewnątrz was."
-"Łk17,22": "A do uczniów powiedział: Przyjdą dni, że będziecie pragnęli widzieć jeden z dni Syna Człowieczego, a nie ujrzycie."
-"Łk17,23": "I powiedzą wam: Oto tu, albo: Oto jest tam; nie odchodźcie, ani o to nie zabiegajcie."
-"Łk17,24": "Albowiem tak, jak błyskawica, gdy zabłyśnie i świeci od jednego krańca pod niebem aż do drugiego krańca pod niebem; tak będzie i z Synem Człowieczym w Jego dniu."
-"Łk17,25": "Ale najpierw trzeba, aby wiele wycierpiał i został odrzucony przez to pokolenie."
-"Łk17,26": "A tak, jak stało się za dni Noego, tak będzie i w dniach Syna Człowieczego."
-"Łk17,27": "Jedli, pili, zaślubiali i były zaślubiane aż do tego dnia, kiedy wszedł Noe do arki i przyszedł potop, i wygubił wszystkich."
-"Łk17,28": "Podobnie też jak stało się za dni Lota: Jedli, pili, kupowali, sprzedawali, sadzili, budowali;"
-"Łk17,29": "Ale tego dnia, gdy wyszedł Lot z Sodomy, spadł z nieba deszcz ognia i siarki, i wygubił wszystkich;"
-"Łk17,30": "Tak właśnie będzie w dniu, w którym objawia się Syn Człowieczy."
-"Łk17,31": "W tym dniu, kto będzie na tarasie, a rzeczy jego w domu, niech nie zstępuje, aby je zabrać; a kto na polu, podobnie niech nie wraca."
-"Łk17,32": "Przypomnijcie sobie żonę Lota."
-"Łk17,33": "Kto chce duszę swoją zachować, straci ją; a kto ją straci, zachowa ją przy życiu."
-"Łk17,34": "Mówię wam: Tej nocy będzie dwóch na jednym łożu; jeden zostanie zabrany, a drugi zostanie pozostawiony."
-"Łk17,35": "Dwie będą mleć na tym samym miejscu; jedna zostanie zabrana, a druga zostanie pozostawiona."
-"Łk17,36": "Dwóch będzie w polu; jeden zostanie zabrany, a drugi zostanie pozostawiony."
-"Łk17,37": "A odzywając się, pytają Go: Gdzie, Panie? A On im powiedział: Gdzie jest ciało, tam gromadzą się orły."
+"Łk17,1":
+  text: "I powiedział do uczniów: Niemożliwe jest, aby nie miały przyjść zgorszenia; lecz biada temu, przez którego przychodzą!"
+  tags: []
+"Łk17,2":
+  text: "Lepiej by mu było, aby zawieszono ośli kamień młyński u jego szyi i wrzucono go w morze, niż żeby miał zgorszyć jednego z tych małych."
+  tags: []
+"Łk17,3":
+  text: "Uważajcie na siebie. A jeśliby zgrzeszył przeciwko tobie twój brat, upomnij go; a jeśli się upamięta, odpuść mu."
+  tags: []
+"Łk17,4":
+  text: "I jeśliby zgrzeszył przeciwko tobie siedem razy na dzień i siedem razy na dzień zwrócił się do ciebie, mówiąc: Upamiętałem się – odpuść mu."
+  tags: []
+"Łk17,5":
+  text: "I powiedzieli apostołowie do Pana: Dodaj nam wiary."
+  tags: []
+"Łk17,6":
+  text: "A Pan powiedział: Jeśli mielibyście wiarę jak ziarnko gorczycy i powiedzieli temu drzewu czarnej morwy: Wyrwij się z korzeniem i przesadź się w morze, usłuchałoby was."
+  tags: []
+"Łk17,7":
+  text: "A kto z was, mając sługę, który orze lub pasie, powie mu zaraz, gdy wróci z pola: Przyjdź i spocznij przy stole?"
+  tags: []
+"Łk17,8":
+  text: "Czyż nie powie mu raczej: Przygotuj mi wieczerzę, przepasz się i służ mi, aż się najem i napiję, a potem i ty zjesz i napijesz się?"
+  tags: []
+"Łk17,9":
+  text: "Czy jest wdzięczny temu słudze za to, że uczynił to, co mu rozkazano? Nie wydaje mi się."
+  tags: []
+"Łk17,10":
+  text: "Tak i wy, gdy uczynicie wszystko, co wam rozkazano, mówcie: Sługami nieużytecznymi jesteśmy, gdyż to, co było naszą powinnością, uczyniliśmy."
+  tags: []
+"Łk17,11":
+  text: "I stało się, gdy szedł do Jerozolimy, że przechodził przez środek Samarii i Galilei."
+  tags: []
+"Łk17,12":
+  text: "I gdy wchodził do jednego miasteczka, wyszło mu naprzeciw dziesięciu trędowatych mężów, którzy stanęli z daleka."
+  tags: []
+"Łk17,13":
+  text: "I oni podnieśli głos, mówiąc: Jezusie, Mistrzu! Zmiłuj się nad nami."
+  tags: []
+"Łk17,14":
+  text: "I gdy ich zobaczył, powiedział im: Idźcie, ukażcie się kapłanom. I stało się, gdy odchodzili, że zostali oczyszczeni."
+  tags: []
+"Łk17,15":
+  text: "Jeden z nich natomiast, gdy zobaczył, że został uzdrowiony, wrócił, potężnym głosem chwaląc Boga;"
+  tags: []
+"Łk17,16":
+  text: "I padł na twarz u Jego stóp, dziękując Mu; a był on Samarytaninem."
+  tags: []
+"Łk17,17":
+  text: "A Jezus w odpowiedzi, rzekł: Czyż nie dziesięciu zostało oczyszczonych, a gdzie jest dziewięciu?"
+  tags: []
+"Łk17,18":
+  text: "Czy nie znalazł się żaden, kto wróciłby i dał chwałę Bogu, tylko ten cudzoziemiec?"
+  tags: []
+"Łk17,19":
+  text: "I powiedział mu: Wstań, idź, twoja wiara cię uzdrowiła."
+  tags: []
+"Łk17,20":
+  text: "Zapytany natomiast przez faryzeuszów, kiedy przyjdzie Królestwo Boga, w odpowiedzi, rzekł im: Królestwo Boga nie przychodzi w sposób możliwy do zaobserwowania;"
+  tags: []
+"Łk17,21":
+  text: "Nie powiedzą: Oto tu, albo: Oto jest tam; oto bowiem Królestwo Boże jest wewnątrz was."
+  tags: []
+"Łk17,22":
+  text: "A do uczniów powiedział: Przyjdą dni, że będziecie pragnęli widzieć jeden z dni Syna Człowieczego, a nie ujrzycie."
+  tags: []
+"Łk17,23":
+  text: "I powiedzą wam: Oto tu, albo: Oto jest tam; nie odchodźcie, ani o to nie zabiegajcie."
+  tags: []
+"Łk17,24":
+  text: "Albowiem tak, jak błyskawica, gdy zabłyśnie i świeci od jednego krańca pod niebem aż do drugiego krańca pod niebem; tak będzie i z Synem Człowieczym w Jego dniu."
+  tags: []
+"Łk17,25":
+  text: "Ale najpierw trzeba, aby wiele wycierpiał i został odrzucony przez to pokolenie."
+  tags: []
+"Łk17,26":
+  text: "A tak, jak stało się za dni Noego, tak będzie i w dniach Syna Człowieczego."
+  tags: []
+"Łk17,27":
+  text: "Jedli, pili, zaślubiali i były zaślubiane aż do tego dnia, kiedy wszedł Noe do arki i przyszedł potop, i wygubił wszystkich."
+  tags: []
+"Łk17,28":
+  text: "Podobnie też jak stało się za dni Lota: Jedli, pili, kupowali, sprzedawali, sadzili, budowali;"
+  tags: []
+"Łk17,29":
+  text: "Ale tego dnia, gdy wyszedł Lot z Sodomy, spadł z nieba deszcz ognia i siarki, i wygubił wszystkich;"
+  tags: []
+"Łk17,30":
+  text: "Tak właśnie będzie w dniu, w którym objawia się Syn Człowieczy."
+  tags: []
+"Łk17,31":
+  text: "W tym dniu, kto będzie na tarasie, a rzeczy jego w domu, niech nie zstępuje, aby je zabrać; a kto na polu, podobnie niech nie wraca."
+  tags: []
+"Łk17,32":
+  text: "Przypomnijcie sobie żonę Lota."
+  tags: []
+"Łk17,33":
+  text: "Kto chce duszę swoją zachować, straci ją; a kto ją straci, zachowa ją przy życiu."
+  tags: []
+"Łk17,34":
+  text: "Mówię wam: Tej nocy będzie dwóch na jednym łożu; jeden zostanie zabrany, a drugi zostanie pozostawiony."
+  tags: []
+"Łk17,35":
+  text: "Dwie będą mleć na tym samym miejscu; jedna zostanie zabrana, a druga zostanie pozostawiona."
+  tags: []
+"Łk17,36":
+  text: "Dwóch będzie w polu; jeden zostanie zabrany, a drugi zostanie pozostawiony."
+  tags: []
+"Łk17,37":
+  text: "A odzywając się, pytają Go: Gdzie, Panie? A On im powiedział: Gdzie jest ciało, tam gromadzą się orły."
+  tags: []

@@ -1,28 +1,84 @@
-"Ps102,1": "JHWH, wysłuchaj mojej modlitwy i niech przyjdzie do Ciebie moje wołanie."
-"Ps102,2": "Nie ukrywaj przede mną swojego oblicza, w dniu mojego ucisku nakłoń ku mnie swoje ucho; w dniu, w którym Cię wzywam, szybko mi odpowiedz."
-"Ps102,3": "Moje dni bowiem nikną niczym w dymie, a moje kości płoną jak ognisko."
-"Ps102,4": "Moje serce zostało porażone jak trawa i uschło, tak że zapomniałem jeść mój chleb."
-"Ps102,5": "Od głosu mojego wzdychania, moje kości przylgnęły mi do ciała."
-"Ps102,6": "Jestem podobny do sowy na pustyni, stałem się jak puchacz na pustkowiu."
-"Ps102,7": "Czuwam i stałem się jak ptak samotny na dachu."
-"Ps102,8": "Każdego dnia urągają mi moi wrogowie i chełpią się wobec mnie ci, którzy mnie przeklinają."
-"Ps102,9": "Jadam bowiem popiół jak chleb, a mój napój mieszam z płaczem;"
-"Ps102,10": "W obliczu Twojego gniewu i zapalczywości, bo podniosłeś mnie i strąciłeś."
-"Ps102,11": "Moje dni są jak wydłużony cień, a ja sam usycham jak trawa."
-"Ps102,12": "Ale Ty, JHWH, trwasz na wieki, a pamięć o Tobie z pokolenia na pokolenie."
-"Ps102,13": "Ty powstaniesz i okażesz miłosierdzie Syjonowi, bo czas, byś się nad nim zlitował, bo nadszedł czas wyznaczony."
-"Ps102,14": "Twoi słudzy bowiem mają upodobanie w jego kamieniach i litują się nad jego prochem;"
-"Ps102,15": "A narody będą się bać imienia JHWH a wszyscy królowie ziemi – Twojej chwały;"
-"Ps102,16": "Gdy JHWH odbuduje Syjon i ukaże się w swojej chwale;"
-"Ps102,17": "Przychylił się do modlitwy obdartego i nie pogardził ich modlitwami."
-"Ps102,18": "Zostanie to zapisane dla następnego pokolenia, a lud, który ma być stworzony, będzie chwalić JH[WH]."
-"Ps102,19": "Gdyż spojrzał ze swojej świętej wysokości; JHWH spojrzał w dół z nieba na ziemię."
-"Ps102,20": "Aby wysłuchać jęku więźnia i uwolnić skazanych na śmierć;"
-"Ps102,21": "Aby głoszono na Syjonie imię JHWH i Jego chwałę w Jerozolimie;"
-"Ps102,22": "Gdy razem zostaną zgromadzone narody i królestwa, aby służyć JHWH."
-"Ps102,23": "Wyczerpała się w drodze jego siła, skrócił moje dni."
-"Ps102,24": "Powiedziałem: Mój Boże, nie zabieraj mnie w połowie moich dni; Twoje lata bowiem trwają z pokolenia na pokolenia."
-"Ps102,25": "Ty dawno założyłeś fundamenty ziemi i niebiosa są dziełem Twoich rąk."
-"Ps102,26": "One przeminą, ale Ty pozostaniesz; wszystkie jak szata się zużyją, zmienisz je jak płaszcz i będą zastąpione."
-"Ps102,27": "Ale Ty – jesteś ten sam, a Twoje lata się nie skończą."
-"Ps102,28": "Synowie Twoich sług będą mieszkać bezpiecznie, a ich potomstwo zostanie utwierdzone przed Twoim obliczem."
+"Ps102,1":
+  text: "JHWH, wysłuchaj mojej modlitwy i niech przyjdzie do Ciebie moje wołanie."
+  tags: []
+"Ps102,2":
+  text: "Nie ukrywaj przede mną swojego oblicza, w dniu mojego ucisku nakłoń ku mnie swoje ucho; w dniu, w którym Cię wzywam, szybko mi odpowiedz."
+  tags: []
+"Ps102,3":
+  text: "Moje dni bowiem nikną niczym w dymie, a moje kości płoną jak ognisko."
+  tags: []
+"Ps102,4":
+  text: "Moje serce zostało porażone jak trawa i uschło, tak że zapomniałem jeść mój chleb."
+  tags: []
+"Ps102,5":
+  text: "Od głosu mojego wzdychania, moje kości przylgnęły mi do ciała."
+  tags: []
+"Ps102,6":
+  text: "Jestem podobny do sowy na pustyni, stałem się jak puchacz na pustkowiu."
+  tags: []
+"Ps102,7":
+  text: "Czuwam i stałem się jak ptak samotny na dachu."
+  tags: []
+"Ps102,8":
+  text: "Każdego dnia urągają mi moi wrogowie i chełpią się wobec mnie ci, którzy mnie przeklinają."
+  tags: []
+"Ps102,9":
+  text: "Jadam bowiem popiół jak chleb, a mój napój mieszam z płaczem;"
+  tags: []
+"Ps102,10":
+  text: "W obliczu Twojego gniewu i zapalczywości, bo podniosłeś mnie i strąciłeś."
+  tags: []
+"Ps102,11":
+  text: "Moje dni są jak wydłużony cień, a ja sam usycham jak trawa."
+  tags: []
+"Ps102,12":
+  text: "Ale Ty, JHWH, trwasz na wieki, a pamięć o Tobie z pokolenia na pokolenie."
+  tags: []
+"Ps102,13":
+  text: "Ty powstaniesz i okażesz miłosierdzie Syjonowi, bo czas, byś się nad nim zlitował, bo nadszedł czas wyznaczony."
+  tags: []
+"Ps102,14":
+  text: "Twoi słudzy bowiem mają upodobanie w jego kamieniach i litują się nad jego prochem;"
+  tags: []
+"Ps102,15":
+  text: "A narody będą się bać imienia JHWH a wszyscy królowie ziemi – Twojej chwały;"
+  tags: []
+"Ps102,16":
+  text: "Gdy JHWH odbuduje Syjon i ukaże się w swojej chwale;"
+  tags: []
+"Ps102,17":
+  text: "Przychylił się do modlitwy obdartego i nie pogardził ich modlitwami."
+  tags: []
+"Ps102,18":
+  text: "Zostanie to zapisane dla następnego pokolenia, a lud, który ma być stworzony, będzie chwalić JH[WH]."
+  tags: []
+"Ps102,19":
+  text: "Gdyż spojrzał ze swojej świętej wysokości; JHWH spojrzał w dół z nieba na ziemię."
+  tags: []
+"Ps102,20":
+  text: "Aby wysłuchać jęku więźnia i uwolnić skazanych na śmierć;"
+  tags: []
+"Ps102,21":
+  text: "Aby głoszono na Syjonie imię JHWH i Jego chwałę w Jerozolimie;"
+  tags: []
+"Ps102,22":
+  text: "Gdy razem zostaną zgromadzone narody i królestwa, aby służyć JHWH."
+  tags: []
+"Ps102,23":
+  text: "Wyczerpała się w drodze jego siła, skrócił moje dni."
+  tags: []
+"Ps102,24":
+  text: "Powiedziałem: Mój Boże, nie zabieraj mnie w połowie moich dni; Twoje lata bowiem trwają z pokolenia na pokolenia."
+  tags: []
+"Ps102,25":
+  text: "Ty dawno założyłeś fundamenty ziemi i niebiosa są dziełem Twoich rąk."
+  tags: []
+"Ps102,26":
+  text: "One przeminą, ale Ty pozostaniesz; wszystkie jak szata się zużyją, zmienisz je jak płaszcz i będą zastąpione."
+  tags: []
+"Ps102,27":
+  text: "Ale Ty – jesteś ten sam, a Twoje lata się nie skończą."
+  tags: []
+"Ps102,28":
+  text: "Synowie Twoich sług będą mieszkać bezpiecznie, a ich potomstwo zostanie utwierdzone przed Twoim obliczem."
+  tags: []

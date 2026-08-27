@@ -1,32 +1,96 @@
-"Iz14,1": "PAN bowiem zlituje się nad Jakubem i znowu wybierze Izraela, i osadzi ich w ich własnej ziemi. Cudzoziemcy przyłączą się do nich i przystaną do domu Jakuba."
-"Iz14,2": "Wezmą ich narody i przyprowadzą do ich miejsca. A dom Izraela weźmie ich w posiadanie w ziemi PANA jako sługi i służące. I będą trzymać w niewoli tych, u których byli w niewoli, i będą panować nad swoimi ciemięzcami."
-"Iz14,3": "W tym dniu, kiedy PAN da ci odpoczynek po twojej udręce, po twoim strachu i po twojej ciężkiej niewoli, w którą zostałeś podbity;"
-"Iz14,4": "Podejmiesz tę przypowieść przeciw królowi Babilonu i powiesz: O jakże ustał ciemięzca! Jakże ustało złote miasto!"
-"Iz14,5": "PAN złamał kij niegodziwych i berło panujących;"
-"Iz14,6": "Tego, który smagał ludzi z wściekłością nieustannymi ciosami, który panował w gniewie nad narodami i dręczył bez litości."
-"Iz14,7": "Teraz cała ziemia odpoczywa i jest spokojna, wszyscy głośno śpiewają;"
-"Iz14,8": "Nawet cyprysy radują się z powodu ciebie, a także cedry Libanu, mówiąc: Odkąd ległeś, żaden drwal nie powstał przeciwko nam."
-"Iz14,9": "Piekło w dole poruszyło się przez ciebie, by wyjść ci na spotkanie; dla ciebie obudziło umarłych, wszystkich książąt ziemi; rozkazało wszystkim królom narodów powstać ze swoich tronów."
-"Iz14,10": "Ci wszyscy odezwą się i powiedzą ci: Czyż zasłabłeś jak i my? Czy stałeś się podobny do nas?"
-"Iz14,11": "Strącono do piekła twój przepych i dźwięk twojej lutni. Twoim posłaniem jest robactwo, robactwo też jest twoim przykryciem."
-"Iz14,12": "O jakże spadłeś z nieba, Lucyferze, synu jutrzenki! Powalony jesteś aż na ziemię, ty, który osłabiałeś narody!"
-"Iz14,13": "Ty bowiem mówiłeś w swoim sercu: Wstąpię do nieba, ponad gwiazdy Boga wywyższę swój tron. Zasiądę na górze zgromadzenia, na krańcach północy;"
-"Iz14,14": "Wzniosę się nad szczyty obłoków, będę równy Najwyższemu."
-"Iz14,15": "Lecz zostaniesz strącony aż do piekła, do krańców dołu."
-"Iz14,16": "Ci, którzy cię ujrzą, będą patrzeć na ciebie i zastanawiać się nad tobą, mówiąc: Czy to ten, który wprawił w drżenie ziemię i trząsł królestwami?"
-"Iz14,17": "Ten, który świat zamienił w pustynię i zniszczył jego miasta, a swoich więźniów nie wypuścił z ciemnicy?"
-"Iz14,18": "Wszyscy królowie narodów, wszyscy oni spoczywają w chwale, każdy w swoim domu."
-"Iz14,19": "Ale ty zostałeś wyrzucony ze swego grobu jak obrzydła latorośl, jak szata zabitych, których przeszyto mieczem, którzy zstępują do kamiennego dołu, zdeptani jak padlina."
-"Iz14,20": "Nie będziesz uczestniczył wraz z nimi w pogrzebie, bo zniszczyłeś swoją ziemię i wymordowałeś swój lud. Potomstwo złoczyńców nie będzie wspominane na wieki."
-"Iz14,21": "Przygotujcie rzeź dla jego synów z powodu nieprawości ich ojców, aby nie powstali ani nie odziedziczyli ziemi, ani nie pokryli powierzchni ziemi miastami."
-"Iz14,22": "Powstanę bowiem przeciwko nim, mówi PAN zastępów, a zniszczę z Babilonu imię, resztkę, syna i wnuka, mówi PAN;"
-"Iz14,23": "I uczynię go siedliskiem bąków i stawami wodnymi. I wymiotę go miotłą spustoszenia, mówi PAN zastępów."
-"Iz14,24": "Przysiągł PAN zastępów, mówiąc: Zaprawdę, jak obmyśliłem, tak będzie, a jak postanowiłem, tak się stanie;"
-"Iz14,25": "Złamię Asyryjczyka w mojej ziemi i na moich górach zdepczę go. Wtedy spadnie z nich jego jarzmo i jego brzemię spadnie z ich ramion."
-"Iz14,26": "To jest powzięty zamiar co do całej ziemi i to jest ręka wyciągnięta nad wszystkie narody."
-"Iz14,27": "Skoro PAN zastępów postanowił, któż to udaremni? Jego ręka jest wyciągnięta, któż ją odwróci?"
-"Iz14,28": "W roku, w którym umarł król Achaz, stało się takie oto proroctwo:"
-"Iz14,29": "Nie raduj się, cała ziemio Filisteo, z tego, że został złamany kij tego, który cię bił, bo z korzenia węża wyjdzie żmija, jego płodem będzie ognisty smok latający."
-"Iz14,30": "Pierworodni nędzarzy będą się paść, a ubodzy odpoczną bezpiecznie. Lecz twój korzeń wytępię głodem, a zabiję twoją resztkę."
-"Iz14,31": "Zawódź, bramo! Krzycz, miasto! Ty, cała Filisteo, już się rozpłynęłaś. Od północy bowiem nadciąga dym i nikt nie będzie stronił od jego szeregów."
-"Iz14,32": "I cóż odpowiedzieć posłom narodu? To, że PAN ugruntował Syjon i w nim będą się chronić ubodzy jego ludu."
+"Iz14,1":
+  text: "PAN bowiem zlituje się nad Jakubem i znowu wybierze Izraela, i osadzi ich w ich własnej ziemi. Cudzoziemcy przyłączą się do nich i przystaną do domu Jakuba."
+  tags: []
+"Iz14,2":
+  text: "Wezmą ich narody i przyprowadzą do ich miejsca. A dom Izraela weźmie ich w posiadanie w ziemi PANA jako sługi i służące. I będą trzymać w niewoli tych, u których byli w niewoli, i będą panować nad swoimi ciemięzcami."
+  tags: []
+"Iz14,3":
+  text: "W tym dniu, kiedy PAN da ci odpoczynek po twojej udręce, po twoim strachu i po twojej ciężkiej niewoli, w którą zostałeś podbity;"
+  tags: []
+"Iz14,4":
+  text: "Podejmiesz tę przypowieść przeciw królowi Babilonu i powiesz: O jakże ustał ciemięzca! Jakże ustało złote miasto!"
+  tags: []
+"Iz14,5":
+  text: "PAN złamał kij niegodziwych i berło panujących;"
+  tags: []
+"Iz14,6":
+  text: "Tego, który smagał ludzi z wściekłością nieustannymi ciosami, który panował w gniewie nad narodami i dręczył bez litości."
+  tags: []
+"Iz14,7":
+  text: "Teraz cała ziemia odpoczywa i jest spokojna, wszyscy głośno śpiewają;"
+  tags: []
+"Iz14,8":
+  text: "Nawet cyprysy radują się z powodu ciebie, a także cedry Libanu, mówiąc: Odkąd ległeś, żaden drwal nie powstał przeciwko nam."
+  tags: []
+"Iz14,9":
+  text: "Piekło w dole poruszyło się przez ciebie, by wyjść ci na spotkanie; dla ciebie obudziło umarłych, wszystkich książąt ziemi; rozkazało wszystkim królom narodów powstać ze swoich tronów."
+  tags: []
+"Iz14,10":
+  text: "Ci wszyscy odezwą się i powiedzą ci: Czyż zasłabłeś jak i my? Czy stałeś się podobny do nas?"
+  tags: []
+"Iz14,11":
+  text: "Strącono do piekła twój przepych i dźwięk twojej lutni. Twoim posłaniem jest robactwo, robactwo też jest twoim przykryciem."
+  tags: []
+"Iz14,12":
+  text: "O jakże spadłeś z nieba, Lucyferze, synu jutrzenki! Powalony jesteś aż na ziemię, ty, który osłabiałeś narody!"
+  tags: []
+"Iz14,13":
+  text: "Ty bowiem mówiłeś w swoim sercu: Wstąpię do nieba, ponad gwiazdy Boga wywyższę swój tron. Zasiądę na górze zgromadzenia, na krańcach północy;"
+  tags: []
+"Iz14,14":
+  text: "Wzniosę się nad szczyty obłoków, będę równy Najwyższemu."
+  tags: []
+"Iz14,15":
+  text: "Lecz zostaniesz strącony aż do piekła, do krańców dołu."
+  tags: []
+"Iz14,16":
+  text: "Ci, którzy cię ujrzą, będą patrzeć na ciebie i zastanawiać się nad tobą, mówiąc: Czy to ten, który wprawił w drżenie ziemię i trząsł królestwami?"
+  tags: []
+"Iz14,17":
+  text: "Ten, który świat zamienił w pustynię i zniszczył jego miasta, a swoich więźniów nie wypuścił z ciemnicy?"
+  tags: []
+"Iz14,18":
+  text: "Wszyscy królowie narodów, wszyscy oni spoczywają w chwale, każdy w swoim domu."
+  tags: []
+"Iz14,19":
+  text: "Ale ty zostałeś wyrzucony ze swego grobu jak obrzydła latorośl, jak szata zabitych, których przeszyto mieczem, którzy zstępują do kamiennego dołu, zdeptani jak padlina."
+  tags: []
+"Iz14,20":
+  text: "Nie będziesz uczestniczył wraz z nimi w pogrzebie, bo zniszczyłeś swoją ziemię i wymordowałeś swój lud. Potomstwo złoczyńców nie będzie wspominane na wieki."
+  tags: []
+"Iz14,21":
+  text: "Przygotujcie rzeź dla jego synów z powodu nieprawości ich ojców, aby nie powstali ani nie odziedziczyli ziemi, ani nie pokryli powierzchni ziemi miastami."
+  tags: []
+"Iz14,22":
+  text: "Powstanę bowiem przeciwko nim, mówi PAN zastępów, a zniszczę z Babilonu imię, resztkę, syna i wnuka, mówi PAN;"
+  tags: []
+"Iz14,23":
+  text: "I uczynię go siedliskiem bąków i stawami wodnymi. I wymiotę go miotłą spustoszenia, mówi PAN zastępów."
+  tags: []
+"Iz14,24":
+  text: "Przysiągł PAN zastępów, mówiąc: Zaprawdę, jak obmyśliłem, tak będzie, a jak postanowiłem, tak się stanie;"
+  tags: []
+"Iz14,25":
+  text: "Złamię Asyryjczyka w mojej ziemi i na moich górach zdepczę go. Wtedy spadnie z nich jego jarzmo i jego brzemię spadnie z ich ramion."
+  tags: []
+"Iz14,26":
+  text: "To jest powzięty zamiar co do całej ziemi i to jest ręka wyciągnięta nad wszystkie narody."
+  tags: []
+"Iz14,27":
+  text: "Skoro PAN zastępów postanowił, któż to udaremni? Jego ręka jest wyciągnięta, któż ją odwróci?"
+  tags: []
+"Iz14,28":
+  text: "W roku, w którym umarł król Achaz, stało się takie oto proroctwo:"
+  tags: []
+"Iz14,29":
+  text: "Nie raduj się, cała ziemio Filisteo, z tego, że został złamany kij tego, który cię bił, bo z korzenia węża wyjdzie żmija, jego płodem będzie ognisty smok latający."
+  tags: []
+"Iz14,30":
+  text: "Pierworodni nędzarzy będą się paść, a ubodzy odpoczną bezpiecznie. Lecz twój korzeń wytępię głodem, a zabiję twoją resztkę."
+  tags: []
+"Iz14,31":
+  text: "Zawódź, bramo! Krzycz, miasto! Ty, cała Filisteo, już się rozpłynęłaś. Od północy bowiem nadciąga dym i nikt nie będzie stronił od jego szeregów."
+  tags: []
+"Iz14,32":
+  text: "I cóż odpowiedzieć posłom narodu? To, że PAN ugruntował Syjon i w nim będą się chronić ubodzy jego ludu."
+  tags: []

@@ -1,25 +1,75 @@
-"Mt1,1": "Zwój o pochodzeniu Jezusa Chrystusa, syna Dawida, syna Abrahama."
-"Mt1,2": "Abraham spłodził Izaaka, a Izaak spłodził Jakuba, a Jakub spłodził Judę i jego braci."
-"Mt1,3": "A Juda spłodził z Tamar Faresa i Zarę, a Fares spłodził Esroma, a Esrom spłodził Arama."
-"Mt1,4": "A Aram spłodził Aminadaba, a Aminadab spłodził Naassona, a Naasson spłodził Salmona."
-"Mt1,5": "A Salmon spłodził z Rahab Booza, a Booz spłodził z Ruty Obeda, a Obed spłodził Jessego."
-"Mt1,6": "A Jesse spłodził Dawida króla, a Dawid król spłodził Salomona z tej, która była żoną Uriasza."
-"Mt1,7": "A Salomon spłodził Roboama, a Roboam spłodził Abiasza, a Abiasz spłodził Asę."
-"Mt1,8": "A Asa spłodził Jozafata, a Jozafat spłodził Jorama, a Joram spłodził Ozjasza."
-"Mt1,9": "Ozjasz spłodził Joatama, a Joatam spłodził Achaza, a Achaz spłodził Ezechiasza."
-"Mt1,10": "Ezechiasz spłodził Manassesa, a Manasses spłodził Amona, a Amon spłodził Josjasza."
-"Mt1,11": "A Josjasz spłodził Jechoniasza i jego braci w czasie przesiedlenia do Babilonu."
-"Mt1,12": "A po przesiedleniu do Babilonu Jechoniasz spłodził Salatiela, a Salatiel spłodził Zorobabela."
-"Mt1,13": "A Zorobabel spłodził Abiuda, a Abiud spłodził Eliakima, a Eliakim spłodził Azora."
-"Mt1,14": "Azor spłodził Sadoka, a Sadok spłodził Achima, a Achim spłodził Eliuda."
-"Mt1,15": "A Eliud spłodził Eleazara, a Eleazar spłodził Matana, a Matan spłodził Jakuba."
-"Mt1,16": "Jakub spłodził Józefa, męża Marii, z której został zrodzony Jezus, zwany Mesjaszem."
-"Mt1,17": "Wszystkich więc pokoleń od Abrahama aż do Dawida – pokoleń czternaście; a od Dawida aż do przesiedlenia do Babilonu – pokoleń czternaście; a od przesiedlenia do Babilonu aż do Mesjasza – pokoleń czternaście."
-"Mt1,18": "A z narodzeniem Jezusa – Mesjasza było tak: Gdy matka Jego, Maria, poślubiła Józefa, okazało się, zanim połączyli się razem, że była w ciąży z Ducha Świętego."
-"Mt1,19": "Józef natomiast, jej mąż, będąc sprawiedliwym i nie chcąc jej zniesławić, chciał ją potajemnie oddalić."
-"Mt1,20": "A gdy on to rozważył, oto anioł PANA ukazał mu się we śnie, mówiąc: Józefie, synu Dawida! Nie bój się przyjąć Marii, swojej żony. Bo to, co w niej zaistniało, jest z Ducha Świętego."
-"Mt1,21": "Urodzi więc syna i nazwiesz Go imieniem Jezus; bo On zbawi swój lud od jego grzechów."
-"Mt1,22": "A to wszystko stało się, aby wypełniło się to, co zostało powiedziane przez PANA poprzez proroka, mówiącego:"
-"Mt1,23": "Oto dziewica będzie w ciąży i urodzi syna, i nazwą Go imieniem Emmanuel, co jest tłumaczone: Bóg z nami."
-"Mt1,24": "A gdy Józef obudził się ze snu, uczynił jak mu rozkazał anioł PANA i przyjął swoją żonę,"
-"Mt1,25": "I nie współżył z nią, aż urodziła swojego pierworodnego syna i nazwał Go imieniem Jezus."
+"Mt1,1":
+  text: "Zwój o pochodzeniu Jezusa Chrystusa, syna Dawida, syna Abrahama."
+  tags: []
+"Mt1,2":
+  text: "Abraham spłodził Izaaka, a Izaak spłodził Jakuba, a Jakub spłodził Judę i jego braci."
+  tags: []
+"Mt1,3":
+  text: "A Juda spłodził z Tamar Faresa i Zarę, a Fares spłodził Esroma, a Esrom spłodził Arama."
+  tags: []
+"Mt1,4":
+  text: "A Aram spłodził Aminadaba, a Aminadab spłodził Naassona, a Naasson spłodził Salmona."
+  tags: []
+"Mt1,5":
+  text: "A Salmon spłodził z Rahab Booza, a Booz spłodził z Ruty Obeda, a Obed spłodził Jessego."
+  tags: []
+"Mt1,6":
+  text: "A Jesse spłodził Dawida króla, a Dawid król spłodził Salomona z tej, która była żoną Uriasza."
+  tags: []
+"Mt1,7":
+  text: "A Salomon spłodził Roboama, a Roboam spłodził Abiasza, a Abiasz spłodził Asę."
+  tags: []
+"Mt1,8":
+  text: "A Asa spłodził Jozafata, a Jozafat spłodził Jorama, a Joram spłodził Ozjasza."
+  tags: []
+"Mt1,9":
+  text: "Ozjasz spłodził Joatama, a Joatam spłodził Achaza, a Achaz spłodził Ezechiasza."
+  tags: []
+"Mt1,10":
+  text: "Ezechiasz spłodził Manassesa, a Manasses spłodził Amona, a Amon spłodził Josjasza."
+  tags: []
+"Mt1,11":
+  text: "A Josjasz spłodził Jechoniasza i jego braci w czasie przesiedlenia do Babilonu."
+  tags: []
+"Mt1,12":
+  text: "A po przesiedleniu do Babilonu Jechoniasz spłodził Salatiela, a Salatiel spłodził Zorobabela."
+  tags: []
+"Mt1,13":
+  text: "A Zorobabel spłodził Abiuda, a Abiud spłodził Eliakima, a Eliakim spłodził Azora."
+  tags: []
+"Mt1,14":
+  text: "Azor spłodził Sadoka, a Sadok spłodził Achima, a Achim spłodził Eliuda."
+  tags: []
+"Mt1,15":
+  text: "A Eliud spłodził Eleazara, a Eleazar spłodził Matana, a Matan spłodził Jakuba."
+  tags: []
+"Mt1,16":
+  text: "Jakub spłodził Józefa, męża Marii, z której został zrodzony Jezus, zwany Mesjaszem."
+  tags: []
+"Mt1,17":
+  text: "Wszystkich więc pokoleń od Abrahama aż do Dawida – pokoleń czternaście; a od Dawida aż do przesiedlenia do Babilonu – pokoleń czternaście; a od przesiedlenia do Babilonu aż do Mesjasza – pokoleń czternaście."
+  tags: []
+"Mt1,18":
+  text: "A z narodzeniem Jezusa – Mesjasza było tak: Gdy matka Jego, Maria, poślubiła Józefa, okazało się, zanim połączyli się razem, że była w ciąży z Ducha Świętego."
+  tags: []
+"Mt1,19":
+  text: "Józef natomiast, jej mąż, będąc sprawiedliwym i nie chcąc jej zniesławić, chciał ją potajemnie oddalić."
+  tags: []
+"Mt1,20":
+  text: "A gdy on to rozważył, oto anioł PANA ukazał mu się we śnie, mówiąc: Józefie, synu Dawida! Nie bój się przyjąć Marii, swojej żony. Bo to, co w niej zaistniało, jest z Ducha Świętego."
+  tags: []
+"Mt1,21":
+  text: "Urodzi więc syna i nazwiesz Go imieniem Jezus; bo On zbawi swój lud od jego grzechów."
+  tags: []
+"Mt1,22":
+  text: "A to wszystko stało się, aby wypełniło się to, co zostało powiedziane przez PANA poprzez proroka, mówiącego:"
+  tags: []
+"Mt1,23":
+  text: "Oto dziewica będzie w ciąży i urodzi syna, i nazwą Go imieniem Emmanuel, co jest tłumaczone: Bóg z nami."
+  tags: []
+"Mt1,24":
+  text: "A gdy Józef obudził się ze snu, uczynił jak mu rozkazał anioł PANA i przyjął swoją żonę,"
+  tags: []
+"Mt1,25":
+  text: "I nie współżył z nią, aż urodziła swojego pierworodnego syna i nazwał Go imieniem Jezus."
+  tags: []

@@ -1,18 +1,54 @@
-"2P3,1": "Ten list jest już drugim moim listem do was, umiłowani, w nich przez przypominanie pobudzam waszą czystą myśl,"
-"2P3,2": "Aby przypomnieć słowa zapowiedziane przez świętych proroków i to przykazanie Pana i Zbawiciela dane przez naszych apostołów."
-"2P3,3": "To najpierw wiedząc, że w dni ostateczne przyjdą szydercy, chodzący według swoich własnych pożądliwości,"
-"2P3,4": "I mówiący: Gdzie jest obietnica Jego przyjścia? Od kiedy bowiem ojcowie zasnęli, wszystko tak trwa od początku stworzenia."
-"2P3,5": "Nie zauważają bowiem, sami tego pragnąc, że niebiosa były od dawna i ziemia, która z wody i pośród wody razem zaistniała przez Słowo Boże,"
-"2P3,6": "Z powodu których ówczesny świat, zatopiony wodą, zginął."
-"2P3,7": "Teraz jednak przez to samo Słowo, niebiosa i ziemia są zachowane dla ognia i strzeżone na dzień sądu i zguby ludzi bezbożnych."
-"2P3,8": "A to jedno niech nie uchodzi waszej uwadze, umiłowani, że jeden dzień przed PANEM jest jak tysiąc lat, a tysiąc lat jak jeden dzień."
-"2P3,9": "Pan nie zwleka z dotrzymaniem obietnicy, jak niektórzy uważają, że zwleka, ale jest cierpliwy wobec nas, bo nie chce, aby ktoś zginął, ale aby wszyscy doszli do upamiętania."
-"2P3,10": "A dzień Pana przyjdzie jak złodziej w nocy; w którym to niebiosa z trzaskiem przeminą, a podstawy tego świata, które teraz są zapalane, zostaną stopione, ziemia i dzieła ludzkie na niej spłoną."
-"2P3,11": "Skoro więc wszystkie one mają ulec stopieniu; jakimi wy powinniście być w świętym postępowaniu i w pobożności,"
-"2P3,12": "Wy, którzy oczekujecie i ponaglacie się na przyjście dnia Bożego, z powodu którego niebiosa, które są rozżarzane zostaną rozwiązane i podstawy tego świata stopnieją?"
-"2P3,13": "Lecz my, zgodnie z Jego obietnicą, oczekujemy nowych niebios i nowej ziemi, w których prawdziwie zadomowiła się sprawiedliwość."
-"2P3,14": "Dlatego, umiłowani, tego oczekując, starajcie się, abyście zostali znalezieni przez Niego bez skazy i bez nagany, w pokoju."
-"2P3,15": "Cierpliwość Pana naszego uważajcie za zbawienie, tak jak i umiłowany brat nasz Paweł, według danej mu mądrości wam pisał,"
-"2P3,16": "Jak i we wszystkich swoich listach, gdzie o tym w nich mówi; są w nich pewne rzeczy trudne do zrozumienia, które nienauczeni i nieutwierdzeni przekręcają, jak i pozostałe Pisma, na swoją własną zgubę."
-"2P3,17": "Wy więc, umiłowani, wiedząc o tym wcześniej, strzeżcie się, abyście wyprowadzeni na manowce błędem nieprawych, nie wypadli z własnego mocnego stanowiska;"
-"2P3,18": "Ale wzrastajcie w łasce i w poznaniu Pana naszego i Zbawiciela Jezusa Chrystusa. Jemu chwała i teraz, i do dnia wieczności. Amen."
+"2P3,1":
+  text: "Ten list jest już drugim moim listem do was, umiłowani, w nich przez przypominanie pobudzam waszą czystą myśl,"
+  tags: []
+"2P3,2":
+  text: "Aby przypomnieć słowa zapowiedziane przez świętych proroków i to przykazanie Pana i Zbawiciela dane przez naszych apostołów."
+  tags: []
+"2P3,3":
+  text: "To najpierw wiedząc, że w dni ostateczne przyjdą szydercy, chodzący według swoich własnych pożądliwości,"
+  tags: []
+"2P3,4":
+  text: "I mówiący: Gdzie jest obietnica Jego przyjścia? Od kiedy bowiem ojcowie zasnęli, wszystko tak trwa od początku stworzenia."
+  tags: []
+"2P3,5":
+  text: "Nie zauważają bowiem, sami tego pragnąc, że niebiosa były od dawna i ziemia, która z wody i pośród wody razem zaistniała przez Słowo Boże,"
+  tags: []
+"2P3,6":
+  text: "Z powodu których ówczesny świat, zatopiony wodą, zginął."
+  tags: []
+"2P3,7":
+  text: "Teraz jednak przez to samo Słowo, niebiosa i ziemia są zachowane dla ognia i strzeżone na dzień sądu i zguby ludzi bezbożnych."
+  tags: []
+"2P3,8":
+  text: "A to jedno niech nie uchodzi waszej uwadze, umiłowani, że jeden dzień przed PANEM jest jak tysiąc lat, a tysiąc lat jak jeden dzień."
+  tags: []
+"2P3,9":
+  text: "Pan nie zwleka z dotrzymaniem obietnicy, jak niektórzy uważają, że zwleka, ale jest cierpliwy wobec nas, bo nie chce, aby ktoś zginął, ale aby wszyscy doszli do upamiętania."
+  tags: []
+"2P3,10":
+  text: "A dzień Pana przyjdzie jak złodziej w nocy; w którym to niebiosa z trzaskiem przeminą, a podstawy tego świata, które teraz są zapalane, zostaną stopione, ziemia i dzieła ludzkie na niej spłoną."
+  tags: []
+"2P3,11":
+  text: "Skoro więc wszystkie one mają ulec stopieniu; jakimi wy powinniście być w świętym postępowaniu i w pobożności,"
+  tags: []
+"2P3,12":
+  text: "Wy, którzy oczekujecie i ponaglacie się na przyjście dnia Bożego, z powodu którego niebiosa, które są rozżarzane zostaną rozwiązane i podstawy tego świata stopnieją?"
+  tags: []
+"2P3,13":
+  text: "Lecz my, zgodnie z Jego obietnicą, oczekujemy nowych niebios i nowej ziemi, w których prawdziwie zadomowiła się sprawiedliwość."
+  tags: []
+"2P3,14":
+  text: "Dlatego, umiłowani, tego oczekując, starajcie się, abyście zostali znalezieni przez Niego bez skazy i bez nagany, w pokoju."
+  tags: []
+"2P3,15":
+  text: "Cierpliwość Pana naszego uważajcie za zbawienie, tak jak i umiłowany brat nasz Paweł, według danej mu mądrości wam pisał,"
+  tags: []
+"2P3,16":
+  text: "Jak i we wszystkich swoich listach, gdzie o tym w nich mówi; są w nich pewne rzeczy trudne do zrozumienia, które nienauczeni i nieutwierdzeni przekręcają, jak i pozostałe Pisma, na swoją własną zgubę."
+  tags: []
+"2P3,17":
+  text: "Wy więc, umiłowani, wiedząc o tym wcześniej, strzeżcie się, abyście wyprowadzeni na manowce błędem nieprawych, nie wypadli z własnego mocnego stanowiska;"
+  tags: []
+"2P3,18":
+  text: "Ale wzrastajcie w łasce i w poznaniu Pana naszego i Zbawiciela Jezusa Chrystusa. Jemu chwała i teraz, i do dnia wieczności. Amen."
+  tags: []

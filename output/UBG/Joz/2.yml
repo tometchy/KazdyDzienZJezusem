@@ -1,24 +1,72 @@
-"Joz2,1": "Potem Jozue, syn Nuna, wysłał potajemnie z Szittim dwóch szpiegów, mówiąc: Idźcie, obejrzyjcie ziemię i Jerycho. Poszli więc i weszli do domu pewnej nierządnicy, która miała na imię Rachab, i tam odpoczęli."
-"Joz2,2": "I doniesiono królowi Jerycha: Oto jacyś mężczyźni spośród synów Izraela przyszli tu tej nocy, aby wybadać tę ziemię."
-"Joz2,3": "Król Jerycha posłał więc do Rachab, rozkazując: Wyprowadź mężczyzn, którzy przyszli do ciebie i weszli do twego domu, bo przyszli wybadać całą tę ziemię."
-"Joz2,4": "Kobieta jednak wzięła tych dwóch mężczyzn, ukryła ich i powiedziała: To prawda, że przyszli do mnie mężczyźni, ale nie wiedziałam, skąd oni są."
-"Joz2,5": "A gdy miano zamykać bramę o zmierzchu, mężczyźni ci wyszli i nie wiem, dokąd poszli. Ścigajcie ich prędko, to ich dogonicie."
-"Joz2,6": "Ona zaś zaprowadziła ich na dach i przykryła wiązkami lnu, które rozłożyła na dachu."
-"Joz2,7": "Wysłani mężczyźni ścigali ich w kierunku Jordanu aż do brodów; i jak tylko ścigający wyszli, zamknięto bramę."
-"Joz2,8": "A zanim usnęli, ona wyszła do nich na dach;"
-"Joz2,9": "I powiedziała do tych mężczyzn: Wiem, że PAN dał wam tę ziemię, bo strach przed wami padł na nas i wszyscy obywatele tej ziemi truchleją przed wami."
-"Joz2,10": "Słyszeliśmy bowiem, jak PAN wysuszył przed wami wody Morza Czerwonego, gdy wychodziliście z Egiptu, i co uczyniliście dwom królom amoryckim, którzy byli po tamtej stronie Jordanu, Sichonowi i Ogowi, których pobiliście."
-"Joz2,11": "Gdy o tym usłyszeliśmy, nasze serca struchlały i nie było już odwagi w nikim z waszego powodu; bo PAN, wasz Bóg, jest Bogiem wysoko na niebie i nisko na ziemi."
-"Joz2,12": "Dlatego teraz, proszę, przysięgnijcie mi na PANA, że jak ja okazałam wam miłosierdzie, tak i wy okażecie miłosierdzie domowi mego ojca, i dajcie mi pewny znak;"
-"Joz2,13": "Że zachowacie przy życiu mego ojca i moją matkę, moich braci i moje siostry, i wszystko, co do nich należy, i ocalicie nas od śmierci."
-"Joz2,14": "Odpowiedzieli jej mężczyźni: Ręczymy za was naszym życiem, jeśli nie wydacie tej naszej sprawy, i gdy PAN odda nam tę ziemię, okażemy ci miłosierdzie i wierność."
-"Joz2,15": "Potem spuściła ich na sznurze z okna, bo jej dom przylegał do muru i ona mieszkała w murze."
-"Joz2,16": "I powiedziała im: Idźcie w góry, by nie spotkali was ścigający; ukryjcie się tam przez trzy dni, aż powrócą ścigający, a potem pójdziecie swoją drogą."
-"Joz2,17": "Mężczyźni powiedzieli jej: Będziemy wolni od tej przysięgi, którą kazałaś nam złożyć;"
-"Joz2,18": "Gdy wejdziemy do ziemi, przywiążesz do okna czerwony sznur, po którym nas spuściłaś, i zbierzesz u siebie, w domu swego ojca, swoją matkę, swoich braci i cały dom swego ojca."
-"Joz2,19": "Ktokolwiek bowiem wyjdzie poza drzwi twego domu, jego krew spadnie mu na głowę, a my będziemy bez winy. Lecz krew każdego, kto będzie z tobą w domu, spadnie na naszą głowę, jeśli czyjaś ręka go dotknie."
-"Joz2,20": "Jeśli jednak wydasz naszą sprawę, będziemy wolni od przysięgi, którą kazałaś nam złożyć."
-"Joz2,21": "I odpowiedziała: Jak powiedzieliście, niech tak będzie. Wtedy wypuściła ich i poszli. I przywiązała czerwony sznur do okna."
-"Joz2,22": "Odeszli więc i przyszli na górę, i pozostali tam przez trzy dni, aż powrócili ścigający. A ścigający szukali ich po wszystkich drogach, ale nie znaleźli."
-"Joz2,23": "I zawrócili ci dwaj mężczyźni, zeszli z góry, przeprawili się przez rzekę, przyszli do Jozuego, syna Nuna, i opowiedzieli mu wszystko, co się z nimi działo;"
-"Joz2,24": "I mówili do Jozuego: PAN oddał w nasze ręce całą tę ziemię, bo wszyscy obywatele tej ziemi struchleli przed nami."
+"Joz2,1":
+  text: "Potem Jozue, syn Nuna, wysłał potajemnie z Szittim dwóch szpiegów, mówiąc: Idźcie, obejrzyjcie ziemię i Jerycho. Poszli więc i weszli do domu pewnej nierządnicy, która miała na imię Rachab, i tam odpoczęli."
+  tags: []
+"Joz2,2":
+  text: "I doniesiono królowi Jerycha: Oto jacyś mężczyźni spośród synów Izraela przyszli tu tej nocy, aby wybadać tę ziemię."
+  tags: []
+"Joz2,3":
+  text: "Król Jerycha posłał więc do Rachab, rozkazując: Wyprowadź mężczyzn, którzy przyszli do ciebie i weszli do twego domu, bo przyszli wybadać całą tę ziemię."
+  tags: []
+"Joz2,4":
+  text: "Kobieta jednak wzięła tych dwóch mężczyzn, ukryła ich i powiedziała: To prawda, że przyszli do mnie mężczyźni, ale nie wiedziałam, skąd oni są."
+  tags: []
+"Joz2,5":
+  text: "A gdy miano zamykać bramę o zmierzchu, mężczyźni ci wyszli i nie wiem, dokąd poszli. Ścigajcie ich prędko, to ich dogonicie."
+  tags: []
+"Joz2,6":
+  text: "Ona zaś zaprowadziła ich na dach i przykryła wiązkami lnu, które rozłożyła na dachu."
+  tags: []
+"Joz2,7":
+  text: "Wysłani mężczyźni ścigali ich w kierunku Jordanu aż do brodów; i jak tylko ścigający wyszli, zamknięto bramę."
+  tags: []
+"Joz2,8":
+  text: "A zanim usnęli, ona wyszła do nich na dach;"
+  tags: []
+"Joz2,9":
+  text: "I powiedziała do tych mężczyzn: Wiem, że PAN dał wam tę ziemię, bo strach przed wami padł na nas i wszyscy obywatele tej ziemi truchleją przed wami."
+  tags: []
+"Joz2,10":
+  text: "Słyszeliśmy bowiem, jak PAN wysuszył przed wami wody Morza Czerwonego, gdy wychodziliście z Egiptu, i co uczyniliście dwom królom amoryckim, którzy byli po tamtej stronie Jordanu, Sichonowi i Ogowi, których pobiliście."
+  tags: []
+"Joz2,11":
+  text: "Gdy o tym usłyszeliśmy, nasze serca struchlały i nie było już odwagi w nikim z waszego powodu; bo PAN, wasz Bóg, jest Bogiem wysoko na niebie i nisko na ziemi."
+  tags: []
+"Joz2,12":
+  text: "Dlatego teraz, proszę, przysięgnijcie mi na PANA, że jak ja okazałam wam miłosierdzie, tak i wy okażecie miłosierdzie domowi mego ojca, i dajcie mi pewny znak;"
+  tags: []
+"Joz2,13":
+  text: "Że zachowacie przy życiu mego ojca i moją matkę, moich braci i moje siostry, i wszystko, co do nich należy, i ocalicie nas od śmierci."
+  tags: []
+"Joz2,14":
+  text: "Odpowiedzieli jej mężczyźni: Ręczymy za was naszym życiem, jeśli nie wydacie tej naszej sprawy, i gdy PAN odda nam tę ziemię, okażemy ci miłosierdzie i wierność."
+  tags: []
+"Joz2,15":
+  text: "Potem spuściła ich na sznurze z okna, bo jej dom przylegał do muru i ona mieszkała w murze."
+  tags: []
+"Joz2,16":
+  text: "I powiedziała im: Idźcie w góry, by nie spotkali was ścigający; ukryjcie się tam przez trzy dni, aż powrócą ścigający, a potem pójdziecie swoją drogą."
+  tags: []
+"Joz2,17":
+  text: "Mężczyźni powiedzieli jej: Będziemy wolni od tej przysięgi, którą kazałaś nam złożyć;"
+  tags: []
+"Joz2,18":
+  text: "Gdy wejdziemy do ziemi, przywiążesz do okna czerwony sznur, po którym nas spuściłaś, i zbierzesz u siebie, w domu swego ojca, swoją matkę, swoich braci i cały dom swego ojca."
+  tags: []
+"Joz2,19":
+  text: "Ktokolwiek bowiem wyjdzie poza drzwi twego domu, jego krew spadnie mu na głowę, a my będziemy bez winy. Lecz krew każdego, kto będzie z tobą w domu, spadnie na naszą głowę, jeśli czyjaś ręka go dotknie."
+  tags: []
+"Joz2,20":
+  text: "Jeśli jednak wydasz naszą sprawę, będziemy wolni od przysięgi, którą kazałaś nam złożyć."
+  tags: []
+"Joz2,21":
+  text: "I odpowiedziała: Jak powiedzieliście, niech tak będzie. Wtedy wypuściła ich i poszli. I przywiązała czerwony sznur do okna."
+  tags: []
+"Joz2,22":
+  text: "Odeszli więc i przyszli na górę, i pozostali tam przez trzy dni, aż powrócili ścigający. A ścigający szukali ich po wszystkich drogach, ale nie znaleźli."
+  tags: []
+"Joz2,23":
+  text: "I zawrócili ci dwaj mężczyźni, zeszli z góry, przeprawili się przez rzekę, przyszli do Jozuego, syna Nuna, i opowiedzieli mu wszystko, co się z nimi działo;"
+  tags: []
+"Joz2,24":
+  text: "I mówili do Jozuego: PAN oddał w nasze ręce całą tę ziemię, bo wszyscy obywatele tej ziemi struchleli przed nami."
+  tags: []

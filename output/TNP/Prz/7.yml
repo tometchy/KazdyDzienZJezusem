@@ -1,27 +1,81 @@
-"Prz7,1": "Synu mój, strzeż moich słów i przechowuj u siebie moje przykazania."
-"Prz7,2": "Strzeż moich przykazań i żyj; a mojego Prawa jak źrenicy swojego oka."
-"Prz7,3": "Przywiąż je do swoich ramion, wypisz je na tablicy twojego serca."
-"Prz7,4": "Mów do mądrości: Ty jesteś moją siostrą, a roztropność nazwij swoją krewną;"
-"Prz7,5": "Aby cię strzegły przed cudzą kobietą i przed obcą, która schlebia pięknymi słowami."
-"Prz7,6": "Bo z okna swojego domu wyglądałem przez kratę;"
-"Prz7,7": "I zobaczyłem wśród prostych, zauważyłem wśród chłopców młodzieńca bez rozumu;"
-"Prz7,8": "Przechodząc ulicą blisko jej narożnika, stąpał drogą do jej domu."
-"Prz7,9": "W czasie zmroku kończącego się dnia, w głębokiej ciemności nocy i mroku."
-"Prz7,10": "A oto spotyka go kobieta w szacie nierządnicy i o czuwającym sercu;"
-"Prz7,11": "Wyzywająca i nieopanowana, jej noga nie może pozostać w domu:"
-"Prz7,12": "Raz na zewnątrz, raz na placach i czyha na każdym rogu."
-"Prz7,13": "Złapała go i całuje go, z bezczelną miną mówi do niego:"
-"Prz7,14": "U mnie jest ofiara dziękczynna; spełniłam dzisiaj swoje śluby."
-"Prz7,15": "Dlatego więc wyszłam, aby spotkać się z tobą, aby szukać cię gorliwie – i znalazłam cię."
-"Prz7,16": "Zasłałam swoje łoże kilimem, barwnymi płótnami z Egiptu."
-"Prz7,17": "Skropiłam swoje posłanie mirrą, aloesem i wonnym cynamonem."
-"Prz7,18": "Chodź, upójmy się pieszczotami aż do rana, rozkoszujmy się miłością."
-"Prz7,19": "Bo mojego męża nie ma w domu; udał się w daleką drogę."
-"Prz7,20": "Wziął ze sobą sakiewkę ze srebrem; wróci do swojego domu w dzień pełni."
-"Prz7,21": "Nakłoniła go mnogością swoich słów i zniewoliła go gładkością swoich warg."
-"Prz7,22": "Natychmiast poszedł za nią jak wół idący na rzeź i jak w łańcuchy na skaranie głupca."
-"Prz7,23": "Aż strzała przeszyje mu wątrobę; jak ptak pędzący w sidło, nie wiedząc, że zastawiono je na jego duszę."
-"Prz7,24": "A teraz słuchajcie mnie, synowie, i zważajcie na słowa moich ust."
-"Prz7,25": "Niech twoje serce nie zbacza na jej drogi i nie błąkaj się po jej ścieżkach."
-"Prz7,26": "Bo wielu zranionych doprowadziła do upadku i wielu mocarzy zamordowała."
-"Prz7,27": "Jej dom jest drogą do Szeolu, która schodzi do komnat śmierci."
+"Prz7,1":
+  text: "Synu mój, strzeż moich słów i przechowuj u siebie moje przykazania."
+  tags: []
+"Prz7,2":
+  text: "Strzeż moich przykazań i żyj; a mojego Prawa jak źrenicy swojego oka."
+  tags: []
+"Prz7,3":
+  text: "Przywiąż je do swoich ramion, wypisz je na tablicy twojego serca."
+  tags: []
+"Prz7,4":
+  text: "Mów do mądrości: Ty jesteś moją siostrą, a roztropność nazwij swoją krewną;"
+  tags: []
+"Prz7,5":
+  text: "Aby cię strzegły przed cudzą kobietą i przed obcą, która schlebia pięknymi słowami."
+  tags: []
+"Prz7,6":
+  text: "Bo z okna swojego domu wyglądałem przez kratę;"
+  tags: []
+"Prz7,7":
+  text: "I zobaczyłem wśród prostych, zauważyłem wśród chłopców młodzieńca bez rozumu;"
+  tags: []
+"Prz7,8":
+  text: "Przechodząc ulicą blisko jej narożnika, stąpał drogą do jej domu."
+  tags: []
+"Prz7,9":
+  text: "W czasie zmroku kończącego się dnia, w głębokiej ciemności nocy i mroku."
+  tags: []
+"Prz7,10":
+  text: "A oto spotyka go kobieta w szacie nierządnicy i o czuwającym sercu;"
+  tags: []
+"Prz7,11":
+  text: "Wyzywająca i nieopanowana, jej noga nie może pozostać w domu:"
+  tags: []
+"Prz7,12":
+  text: "Raz na zewnątrz, raz na placach i czyha na każdym rogu."
+  tags: []
+"Prz7,13":
+  text: "Złapała go i całuje go, z bezczelną miną mówi do niego:"
+  tags: []
+"Prz7,14":
+  text: "U mnie jest ofiara dziękczynna; spełniłam dzisiaj swoje śluby."
+  tags: []
+"Prz7,15":
+  text: "Dlatego więc wyszłam, aby spotkać się z tobą, aby szukać cię gorliwie – i znalazłam cię."
+  tags: []
+"Prz7,16":
+  text: "Zasłałam swoje łoże kilimem, barwnymi płótnami z Egiptu."
+  tags: []
+"Prz7,17":
+  text: "Skropiłam swoje posłanie mirrą, aloesem i wonnym cynamonem."
+  tags: []
+"Prz7,18":
+  text: "Chodź, upójmy się pieszczotami aż do rana, rozkoszujmy się miłością."
+  tags: []
+"Prz7,19":
+  text: "Bo mojego męża nie ma w domu; udał się w daleką drogę."
+  tags: []
+"Prz7,20":
+  text: "Wziął ze sobą sakiewkę ze srebrem; wróci do swojego domu w dzień pełni."
+  tags: []
+"Prz7,21":
+  text: "Nakłoniła go mnogością swoich słów i zniewoliła go gładkością swoich warg."
+  tags: []
+"Prz7,22":
+  text: "Natychmiast poszedł za nią jak wół idący na rzeź i jak w łańcuchy na skaranie głupca."
+  tags: []
+"Prz7,23":
+  text: "Aż strzała przeszyje mu wątrobę; jak ptak pędzący w sidło, nie wiedząc, że zastawiono je na jego duszę."
+  tags: []
+"Prz7,24":
+  text: "A teraz słuchajcie mnie, synowie, i zważajcie na słowa moich ust."
+  tags: []
+"Prz7,25":
+  text: "Niech twoje serce nie zbacza na jej drogi i nie błąkaj się po jej ścieżkach."
+  tags: []
+"Prz7,26":
+  text: "Bo wielu zranionych doprowadziła do upadku i wielu mocarzy zamordowała."
+  tags: []
+"Prz7,27":
+  text: "Jej dom jest drogą do Szeolu, która schodzi do komnat śmierci."
+  tags: []

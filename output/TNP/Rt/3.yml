@@ -1,18 +1,54 @@
-"Rt3,1": "I powiedziała do niej Noemi, jej teściowa: Moja córko, czy nie powinnam ci poszukać jakiegoś spokojnego miejsca, w którym będziesz czuła się dobrze?"
-"Rt3,2": "A teraz, czyż Boaz nie jest naszym krewnym, z którego służącymi byłaś? Oto dzisiaj wieczorem będzie on przewiewał jęczmień na klepisku."
-"Rt3,3": "Więc umyjesz się i namaścisz, nałożysz na siebie lepsze szaty i zejdziesz na to klepisko, lecz nie daj się poznać temu człowiekowi, dopóki nie skończy jeść i pić."
-"Rt3,4": "A to niech się stanie, gdy się położy spać: Upatrz miejsce, na którym się położy i podejdź tam, odkryj jego nogi i połóż się, a on ci wyjaśni, co masz czynić."
-"Rt3,5": "A ona powiedziała do niej: Zrobię wszystko, co do mnie powiedziałaś."
-"Rt3,6": "Zeszła więc na klepisko i zrobiła zgodnie z tym wszystkim, co nakazała jej teściowa."
-"Rt3,7": "A gdy Boaz najadł się i napił, i jego serce się rozweseliło, poszedł położyć się na skraju sterty zboża. Wtedy ona przyszła po cichu, odkryła jego nogi i położyła się."
-"Rt3,8": "I stało się w połowie tej nocy, że mąż ten zadrżał, obrócił się, a oto kobieta leży u jego stóp."
-"Rt3,9": "I powiedział: Kto ty jesteś? Odpowiedziała: Ja jestem Rut, twoja służebnica. Rozciągnij brzeg swojego płaszcza nad swoją służebnicą, bo ty jesteś moim wykupicielem."
-"Rt3,10": "A on odpowiedział: Błogosławiona ty jesteś u JHWH, moja córko. Jeszcze piękniej okazałaś miłosierdzie teraz niż na początku, bo nie poszłaś za młodzieńcami, czy to ubogimi, czy bogatymi."
-"Rt3,11": "A więc teraz, moja córko, nie bój się. Uczynię wszystko, co powiedziałaś, bo każde miasto mojego ludu wie, że jesteś dzielną kobietą."
-"Rt3,12": "A teraz, tak to prawda, że ja jestem twoim wykupicielem, ale także istnieje wykupiciel bliższy ode mnie."
-"Rt3,13": "Zostań tu tej nocy, a rankiem, jeśli tak się stanie, że on cię wykupi – dobrze, niech wykupi. Lecz jeśli nie spodoba mu się wykupić ciebie, ja cię wykupię – jako żyje JHWH! Śpij aż do rana!"
-"Rt3,14": "I spała u jego stóp aż do rana. Potem wstała zanim jeden mógł rozpoznać drugiego. A on pomyślał: Niech nikt się nie dowie, że ta kobieta przyszła na klepisko."
-"Rt3,15": "I powiedział: Daj okrycie, które masz na sobie i trzymaj je mocno. A gdy trzymała je, odmierzył jej sześć miar jęczmienia i narzucił to na nią. Po czym poszedł do miasta."
-"Rt3,16": "I gdy ona przyszła do swojej teściowej, ta powiedziała: Kim ty już teraz jesteś, moja córko? I opowiedziała jej wszystko, co ten człowiek uczynił dla niej."
-"Rt3,17": "I powiedziała też: Oto dał mi te sześć miar jęczmienia. Bo powiedział do mnie tak: Nie pójdziesz z pustymi rękami do swojej teściowej."
-"Rt3,18": "Wtedy ona powiedziała: Siedź spokojna, moja córko, aż się tego dowiesz, jak potoczy się sprawa, gdyż ten człowiek nie spocznie, lecz zakończy dzisiaj tę sprawę."
+"Rt3,1":
+  text: "I powiedziała do niej Noemi, jej teściowa: Moja córko, czy nie powinnam ci poszukać jakiegoś spokojnego miejsca, w którym będziesz czuła się dobrze?"
+  tags: []
+"Rt3,2":
+  text: "A teraz, czyż Boaz nie jest naszym krewnym, z którego służącymi byłaś? Oto dzisiaj wieczorem będzie on przewiewał jęczmień na klepisku."
+  tags: []
+"Rt3,3":
+  text: "Więc umyjesz się i namaścisz, nałożysz na siebie lepsze szaty i zejdziesz na to klepisko, lecz nie daj się poznać temu człowiekowi, dopóki nie skończy jeść i pić."
+  tags: []
+"Rt3,4":
+  text: "A to niech się stanie, gdy się położy spać: Upatrz miejsce, na którym się położy i podejdź tam, odkryj jego nogi i połóż się, a on ci wyjaśni, co masz czynić."
+  tags: []
+"Rt3,5":
+  text: "A ona powiedziała do niej: Zrobię wszystko, co do mnie powiedziałaś."
+  tags: []
+"Rt3,6":
+  text: "Zeszła więc na klepisko i zrobiła zgodnie z tym wszystkim, co nakazała jej teściowa."
+  tags: []
+"Rt3,7":
+  text: "A gdy Boaz najadł się i napił, i jego serce się rozweseliło, poszedł położyć się na skraju sterty zboża. Wtedy ona przyszła po cichu, odkryła jego nogi i położyła się."
+  tags: []
+"Rt3,8":
+  text: "I stało się w połowie tej nocy, że mąż ten zadrżał, obrócił się, a oto kobieta leży u jego stóp."
+  tags: []
+"Rt3,9":
+  text: "I powiedział: Kto ty jesteś? Odpowiedziała: Ja jestem Rut, twoja służebnica. Rozciągnij brzeg swojego płaszcza nad swoją służebnicą, bo ty jesteś moim wykupicielem."
+  tags: []
+"Rt3,10":
+  text: "A on odpowiedział: Błogosławiona ty jesteś u JHWH, moja córko. Jeszcze piękniej okazałaś miłosierdzie teraz niż na początku, bo nie poszłaś za młodzieńcami, czy to ubogimi, czy bogatymi."
+  tags: []
+"Rt3,11":
+  text: "A więc teraz, moja córko, nie bój się. Uczynię wszystko, co powiedziałaś, bo każde miasto mojego ludu wie, że jesteś dzielną kobietą."
+  tags: []
+"Rt3,12":
+  text: "A teraz, tak to prawda, że ja jestem twoim wykupicielem, ale także istnieje wykupiciel bliższy ode mnie."
+  tags: []
+"Rt3,13":
+  text: "Zostań tu tej nocy, a rankiem, jeśli tak się stanie, że on cię wykupi – dobrze, niech wykupi. Lecz jeśli nie spodoba mu się wykupić ciebie, ja cię wykupię – jako żyje JHWH! Śpij aż do rana!"
+  tags: []
+"Rt3,14":
+  text: "I spała u jego stóp aż do rana. Potem wstała zanim jeden mógł rozpoznać drugiego. A on pomyślał: Niech nikt się nie dowie, że ta kobieta przyszła na klepisko."
+  tags: []
+"Rt3,15":
+  text: "I powiedział: Daj okrycie, które masz na sobie i trzymaj je mocno. A gdy trzymała je, odmierzył jej sześć miar jęczmienia i narzucił to na nią. Po czym poszedł do miasta."
+  tags: []
+"Rt3,16":
+  text: "I gdy ona przyszła do swojej teściowej, ta powiedziała: Kim ty już teraz jesteś, moja córko? I opowiedziała jej wszystko, co ten człowiek uczynił dla niej."
+  tags: []
+"Rt3,17":
+  text: "I powiedziała też: Oto dał mi te sześć miar jęczmienia. Bo powiedział do mnie tak: Nie pójdziesz z pustymi rękami do swojej teściowej."
+  tags: []
+"Rt3,18":
+  text: "Wtedy ona powiedziała: Siedź spokojna, moja córko, aż się tego dowiesz, jak potoczy się sprawa, gdyż ten człowiek nie spocznie, lecz zakończy dzisiaj tę sprawę."
+  tags: []

@@ -1,20 +1,60 @@
-"Ne2,1": "I oto zdarzyło się w miesiącu Nisan, w dwudziestym roku króla Artakserksesa, gdy stało przed nim wino, że wziąłem je i podałem królowi, a nigdy przedtem nie byłem taki smutny w jego obecności."
-"Ne2,2": "Król więc zapytał mnie: Czemu tak smutno wyglądasz, skoro nie jesteś chory? Nic innego to jak smutek serca. I bardzo się przeraziłem."
-"Ne2,3": "I powiedziałem do króla: Niech król żyje na wieki. Jakże nie mam wyglądać smutno, gdy miasto, dom grobów moich ojców, jest zburzone, a jego bramy pochłonął ogień?"
-"Ne2,4": "Król ponownie zapytał mnie: O co chciałbyś prosić? Modliłem się więc do Boga niebios."
-"Ne2,5": "Potem powiedziałem do króla: Jeśli król uważa to za dobre i jeśli twój sługa znalazł łaskę w twoich oczach, proszę, abyś mnie posłał do Judy, do miasta grobów moich ojców, abym je odbudował."
-"Ne2,6": "Król – obok którego siedziała królowa – zapytał mnie: Jak długo potrwa twoja podróż i kiedy powrócisz? Gdy podałem mu termin, spodobało się to królowi i posłał mnie."
-"Ne2,7": "Potem powiedziałem królowi: Jeśli król uważa to za dobre, niech mi dadzą listy do namiestników zarzecza, aby mnie przeprowadzili, aż przyjdę do Judy;"
-"Ne2,8": "Także list do Asafa, dozorcy lasu królewskiego, aby mi dał drewno na belki do bram pałacu przy domu, na mur miejski i na dom, do którego się wprowadzę. Król więc dał mi listy, gdyż była nade mną łaskawa ręka mego Boga."
-"Ne2,9": "A gdy przyszedłem do namiestników zarzecza, oddałem im listy króla. A król wyprawił ze mną dowódców wojskowych i jeźdźców."
-"Ne2,10": "Kiedy Sanballat Choronita i Tobiasz, sługa ammonicki, usłyszeli o tym, bardzo im się nie spodobało to, że przyszedł człowiek, który będzie zabiegał o dobro synów Izraela."
-"Ne2,11": "Gdy więc przyszedłem do Jerozolimy, spędziłem tam trzy dni."
-"Ne2,12": "Potem wstałem w nocy, ja i kilku mężczyzn ze mną – a nikomu nie wyjawiłem, co mój Bóg położył mi na sercu, abym uczynił w Jerozolimie, nie miałem też ze sobą żadnego zwierzęcia oprócz tego, na którym jechałem;"
-"Ne2,13": "I wyjechałem nocą przez Bramę nad Doliną w kierunku Źródła Smoczego do Bramy Gnojnej, i oglądałem mury jerozolimskie, które były zburzone, a których bramy były strawione ogniem."
-"Ne2,14": "Potem dotarłem do Bramy Źródlanej i do Stawu Królewskiego, gdzie dla zwierzęcia, na którym jechałem, nie było już przejścia."
-"Ne2,15": "Jechałem więc nocą przez potok i oglądałem mur, po czym zawróciłem i przejechałem przez Bramę nad Doliną, i tak powróciłem."
-"Ne2,16": "Ale przełożeni nie wiedzieli, dokąd się udałem ani co uczyniłem. Dotychczas bowiem nie oznajmiłem tego ani Żydom, ani kapłanom, ani dostojnikom, ani przełożonym, ani żadnemu z budowniczych."
-"Ne2,17": "Wtedy powiedziałem do nich: Widzicie, w jakiej niedoli się znajdujemy, Jerozolima jest spustoszona i jej bramy spalone są ogniem. Chodźcie i odbudujmy mur Jerozolimy, abyśmy już nie byli zhańbieni."
-"Ne2,18": "A gdy opowiedziałem im o tym, jak łaskawa ręka mego Boga była nade mną, także o słowach, które wypowiedział do mnie król, powiedzieli: Wstańmy i budujmy. I zachęcali się do tego dobrego dzieła."
-"Ne2,19": "Kiedy usłyszeli o tym Sanballat Choronita i Tobiasz, sługa ammonicki, oraz Geszem Arab, szydzili z nas i wzgardzili nami, mówiąc: Co to za rzecz, którą robicie? Czy buntujecie się przeciw królowi?"
-"Ne2,20": "Odpowiedziałem im: Bóg niebios poszczęści nam; my więc, jego słudzy, powstaniemy i odbudujemy. Wy zaś nie macie ani działu, ani prawa, ani pamiątki w Jerozolimie."
+"Ne2,1":
+  text: "I oto zdarzyło się w miesiącu Nisan, w dwudziestym roku króla Artakserksesa, gdy stało przed nim wino, że wziąłem je i podałem królowi, a nigdy przedtem nie byłem taki smutny w jego obecności."
+  tags: []
+"Ne2,2":
+  text: "Król więc zapytał mnie: Czemu tak smutno wyglądasz, skoro nie jesteś chory? Nic innego to jak smutek serca. I bardzo się przeraziłem."
+  tags: []
+"Ne2,3":
+  text: "I powiedziałem do króla: Niech król żyje na wieki. Jakże nie mam wyglądać smutno, gdy miasto, dom grobów moich ojców, jest zburzone, a jego bramy pochłonął ogień?"
+  tags: []
+"Ne2,4":
+  text: "Król ponownie zapytał mnie: O co chciałbyś prosić? Modliłem się więc do Boga niebios."
+  tags: []
+"Ne2,5":
+  text: "Potem powiedziałem do króla: Jeśli król uważa to za dobre i jeśli twój sługa znalazł łaskę w twoich oczach, proszę, abyś mnie posłał do Judy, do miasta grobów moich ojców, abym je odbudował."
+  tags: []
+"Ne2,6":
+  text: "Król – obok którego siedziała królowa – zapytał mnie: Jak długo potrwa twoja podróż i kiedy powrócisz? Gdy podałem mu termin, spodobało się to królowi i posłał mnie."
+  tags: []
+"Ne2,7":
+  text: "Potem powiedziałem królowi: Jeśli król uważa to za dobre, niech mi dadzą listy do namiestników zarzecza, aby mnie przeprowadzili, aż przyjdę do Judy;"
+  tags: []
+"Ne2,8":
+  text: "Także list do Asafa, dozorcy lasu królewskiego, aby mi dał drewno na belki do bram pałacu przy domu, na mur miejski i na dom, do którego się wprowadzę. Król więc dał mi listy, gdyż była nade mną łaskawa ręka mego Boga."
+  tags: []
+"Ne2,9":
+  text: "A gdy przyszedłem do namiestników zarzecza, oddałem im listy króla. A król wyprawił ze mną dowódców wojskowych i jeźdźców."
+  tags: []
+"Ne2,10":
+  text: "Kiedy Sanballat Choronita i Tobiasz, sługa ammonicki, usłyszeli o tym, bardzo im się nie spodobało to, że przyszedł człowiek, który będzie zabiegał o dobro synów Izraela."
+  tags: []
+"Ne2,11":
+  text: "Gdy więc przyszedłem do Jerozolimy, spędziłem tam trzy dni."
+  tags: []
+"Ne2,12":
+  text: "Potem wstałem w nocy, ja i kilku mężczyzn ze mną – a nikomu nie wyjawiłem, co mój Bóg położył mi na sercu, abym uczynił w Jerozolimie, nie miałem też ze sobą żadnego zwierzęcia oprócz tego, na którym jechałem;"
+  tags: []
+"Ne2,13":
+  text: "I wyjechałem nocą przez Bramę nad Doliną w kierunku Źródła Smoczego do Bramy Gnojnej, i oglądałem mury jerozolimskie, które były zburzone, a których bramy były strawione ogniem."
+  tags: []
+"Ne2,14":
+  text: "Potem dotarłem do Bramy Źródlanej i do Stawu Królewskiego, gdzie dla zwierzęcia, na którym jechałem, nie było już przejścia."
+  tags: []
+"Ne2,15":
+  text: "Jechałem więc nocą przez potok i oglądałem mur, po czym zawróciłem i przejechałem przez Bramę nad Doliną, i tak powróciłem."
+  tags: []
+"Ne2,16":
+  text: "Ale przełożeni nie wiedzieli, dokąd się udałem ani co uczyniłem. Dotychczas bowiem nie oznajmiłem tego ani Żydom, ani kapłanom, ani dostojnikom, ani przełożonym, ani żadnemu z budowniczych."
+  tags: []
+"Ne2,17":
+  text: "Wtedy powiedziałem do nich: Widzicie, w jakiej niedoli się znajdujemy, Jerozolima jest spustoszona i jej bramy spalone są ogniem. Chodźcie i odbudujmy mur Jerozolimy, abyśmy już nie byli zhańbieni."
+  tags: []
+"Ne2,18":
+  text: "A gdy opowiedziałem im o tym, jak łaskawa ręka mego Boga była nade mną, także o słowach, które wypowiedział do mnie król, powiedzieli: Wstańmy i budujmy. I zachęcali się do tego dobrego dzieła."
+  tags: []
+"Ne2,19":
+  text: "Kiedy usłyszeli o tym Sanballat Choronita i Tobiasz, sługa ammonicki, oraz Geszem Arab, szydzili z nas i wzgardzili nami, mówiąc: Co to za rzecz, którą robicie? Czy buntujecie się przeciw królowi?"
+  tags: []
+"Ne2,20":
+  text: "Odpowiedziałem im: Bóg niebios poszczęści nam; my więc, jego słudzy, powstaniemy i odbudujemy. Wy zaś nie macie ani działu, ani prawa, ani pamiątki w Jerozolimie."
+  tags: []

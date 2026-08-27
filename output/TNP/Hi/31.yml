@@ -1,40 +1,120 @@
-"Hi31,1": "Zawarłem przymierze ze swoimi oczami; jakże mógłbym myśleć o pannie?"
-"Hi31,2": "A jaki byłby dział od Boga z góry? I jakie byłoby dziedzictwo od Wszechmogącego z wysoka?"
-"Hi31,3": "Czy klęska nie jest przygotowana dla niegodziwych i nieszczęście dla czyniących nieprawość?"
-"Hi31,4": "Czy On nie widzi moich dróg i nie liczy wszystkich moich kroków?"
-"Hi31,5": "Jeśli chodziłem w fałszu i jeśli moja noga śpieszyła się do oszustwa;"
-"Hi31,6": "To niech zważy mnie na rzetelnych szalach i niech Bóg pozna moją prawość."
-"Hi31,7": "Jeśli mój krok zboczył z właściwej drogi i moje serce poszło za moimi oczami, i jeśli jakaś zmaza przylgnęła do moich rąk;"
-"Hi31,8": "Wtedy niech ja sieję, a inny spożywa, a moje plony niech zostaną wykorzenione."
-"Hi31,9": "Jeśli moje serce dało się omamić przez inną kobietę i jeśli czyhałem u drzwi swojego bliźniego;"
-"Hi31,10": "To niech moja żona mieli dla innego i niech inni się nad nią schylają."
-"Hi31,11": "Bo byłaby to rzecz haniebna, byłaby to nieprawość do ukarania przez sędziów;"
-"Hi31,12": "Tak! To byłby ogień, który pożera aż do zniszczenia i cały mój plon wykorzenia."
-"Hi31,13": "Jeśli odrzuciłem roszczenie prawne swojego sługi i swojej służącej w ich sporze sądowym przeciwko mnie;"
-"Hi31,14": "Co wtedy zrobię, gdy Bóg powstanie? I gdyby zaczął mnie badać, co bym Mu odpowiedział?"
-"Hi31,15": "Czy nie Ten, który mnie stworzył we wnętrzu matki, nie stworzył i jego? I czy nie On jeden ukształtował nas w łonie?"
-"Hi31,16": "Jeśli odmówiłem prośbie ubogich i oczy wdowy przygasły;"
-"Hi31,17": "I jeśli sam jadłem swoją kromkę, chleba, a nie jadła z niej sierota;"
-"Hi31,18": "Bo od mojej młodości wychowywałem go jak ojciec i od łona mojej matki ją prowadziłem;"
-"Hi31,19": "Jeśli widziałem ginącego z powodu braku ubrania albo biedaka bez okrycia;"
-"Hi31,20": "Jeśli nie błogosławiły mi jego biodra i nie zagrzał się dzięki wełnie moich owiec;"
-"Hi31,21": "Jeśli wygrażałem moją ręką przeciwko sierocie, nawet gdy widziałem w bramie wsparcie dla mnie;"
-"Hi31,22": "To niech odpadnie moja łopatka od barku i niech moje ramię zostanie wyrwane ze stawu."
-"Hi31,23": "Gdyż grozę budzi nieszczęście od Boga na mnie i to, że przed Jego majestatem nie mógłbym się ostać."
-"Hi31,24": "Jeśli złoto uczyniłem swoją nadzieją, a do czystego złota mówiłem: O, ty moje bezpieczeństwo!"
-"Hi31,25": "Jeśli radowałem się, że wielkie było moje bogactwo i że wiele osiągnęła moja ręka."
-"Hi31,26": "Jeśli patrzyłem na światło, gdy świeciło i na księżyc, gdy sunął wspaniale;"
-"Hi31,27": "A moje serce dało się uwieść potajemnie i całowałem ustami moją rękę, przesyłając im pocałunki;"
-"Hi31,28": "Również to byłaby nieprawość do ukarania przez sędziów, bo zaparłbym się Boga z wysokości."
-"Hi31,29": "Jeśli radowałem się z upadku mojego wroga i triumfowałem, że spotkało go nieszczęście, to byłbym winny,"
-"Hi31,30": "Lecz nie dałem, by zgrzeszyć miało moje podniebienie, aby zabiegać z przekleństwem o jego duszę;"
-"Hi31,31": "Czyż mężczyźni z mojego namiotu nie mówili: Kto mógłby dać komuś z mięsa jego, a nie zostałby nasycony?"
-"Hi31,32": "Obcy nie nocował na dworze, swoje drzwi otwierałem podróżnemu."
-"Hi31,33": "Jeśli ukrywałem swoje przestępstwa jak Adam, aby schować w zanadrzu swoją nieprawość;"
-"Hi31,34": "Jak gdybym miał się lękać licznego tłumu, a pogarda rodów miałaby spowodować moje przerażenie – tak bym milczał i nie wychodził poza drzwi?"
-"Hi31,35": "To kogo dostałbym, aby mnie wysłuchał! Oto mój podpis, a Wszechmogący niech odpowie mi i niech napisze zwój z oskarżeniem mój przeciwnik."
-"Hi31,36": "Czy nie wziąłbym go sobie na ramiona i nie uwieńczyłbym nim siebie jak wieńcami?"
-"Hi31,37": "Oznajmiłbym Mu liczbę moich kroków; zbliżyłbym się blisko do Niego jak do księcia."
-"Hi31,38": "Jeśli moja rola wołała przeciwko mnie, a razem z nią płakały jej zagony;"
-"Hi31,39": "Jeśli spożywałem jej plon bez zapłaty, a duszę jej właścicieli zgasiłem;"
-"Hi31,40": "Wtedy zamiast pszenicy niech wyjdą ciernie, zamiast jęczmienia – cuchnące chwasty. Tu skończyły się słowa Hioba."
+"Hi31,1":
+  text: "Zawarłem przymierze ze swoimi oczami; jakże mógłbym myśleć o pannie?"
+  tags: []
+"Hi31,2":
+  text: "A jaki byłby dział od Boga z góry? I jakie byłoby dziedzictwo od Wszechmogącego z wysoka?"
+  tags: []
+"Hi31,3":
+  text: "Czy klęska nie jest przygotowana dla niegodziwych i nieszczęście dla czyniących nieprawość?"
+  tags: []
+"Hi31,4":
+  text: "Czy On nie widzi moich dróg i nie liczy wszystkich moich kroków?"
+  tags: []
+"Hi31,5":
+  text: "Jeśli chodziłem w fałszu i jeśli moja noga śpieszyła się do oszustwa;"
+  tags: []
+"Hi31,6":
+  text: "To niech zważy mnie na rzetelnych szalach i niech Bóg pozna moją prawość."
+  tags: []
+"Hi31,7":
+  text: "Jeśli mój krok zboczył z właściwej drogi i moje serce poszło za moimi oczami, i jeśli jakaś zmaza przylgnęła do moich rąk;"
+  tags: []
+"Hi31,8":
+  text: "Wtedy niech ja sieję, a inny spożywa, a moje plony niech zostaną wykorzenione."
+  tags: []
+"Hi31,9":
+  text: "Jeśli moje serce dało się omamić przez inną kobietę i jeśli czyhałem u drzwi swojego bliźniego;"
+  tags: []
+"Hi31,10":
+  text: "To niech moja żona mieli dla innego i niech inni się nad nią schylają."
+  tags: []
+"Hi31,11":
+  text: "Bo byłaby to rzecz haniebna, byłaby to nieprawość do ukarania przez sędziów;"
+  tags: []
+"Hi31,12":
+  text: "Tak! To byłby ogień, który pożera aż do zniszczenia i cały mój plon wykorzenia."
+  tags: []
+"Hi31,13":
+  text: "Jeśli odrzuciłem roszczenie prawne swojego sługi i swojej służącej w ich sporze sądowym przeciwko mnie;"
+  tags: []
+"Hi31,14":
+  text: "Co wtedy zrobię, gdy Bóg powstanie? I gdyby zaczął mnie badać, co bym Mu odpowiedział?"
+  tags: []
+"Hi31,15":
+  text: "Czy nie Ten, który mnie stworzył we wnętrzu matki, nie stworzył i jego? I czy nie On jeden ukształtował nas w łonie?"
+  tags: []
+"Hi31,16":
+  text: "Jeśli odmówiłem prośbie ubogich i oczy wdowy przygasły;"
+  tags: []
+"Hi31,17":
+  text: "I jeśli sam jadłem swoją kromkę, chleba, a nie jadła z niej sierota;"
+  tags: []
+"Hi31,18":
+  text: "Bo od mojej młodości wychowywałem go jak ojciec i od łona mojej matki ją prowadziłem;"
+  tags: []
+"Hi31,19":
+  text: "Jeśli widziałem ginącego z powodu braku ubrania albo biedaka bez okrycia;"
+  tags: []
+"Hi31,20":
+  text: "Jeśli nie błogosławiły mi jego biodra i nie zagrzał się dzięki wełnie moich owiec;"
+  tags: []
+"Hi31,21":
+  text: "Jeśli wygrażałem moją ręką przeciwko sierocie, nawet gdy widziałem w bramie wsparcie dla mnie;"
+  tags: []
+"Hi31,22":
+  text: "To niech odpadnie moja łopatka od barku i niech moje ramię zostanie wyrwane ze stawu."
+  tags: []
+"Hi31,23":
+  text: "Gdyż grozę budzi nieszczęście od Boga na mnie i to, że przed Jego majestatem nie mógłbym się ostać."
+  tags: []
+"Hi31,24":
+  text: "Jeśli złoto uczyniłem swoją nadzieją, a do czystego złota mówiłem: O, ty moje bezpieczeństwo!"
+  tags: []
+"Hi31,25":
+  text: "Jeśli radowałem się, że wielkie było moje bogactwo i że wiele osiągnęła moja ręka."
+  tags: []
+"Hi31,26":
+  text: "Jeśli patrzyłem na światło, gdy świeciło i na księżyc, gdy sunął wspaniale;"
+  tags: []
+"Hi31,27":
+  text: "A moje serce dało się uwieść potajemnie i całowałem ustami moją rękę, przesyłając im pocałunki;"
+  tags: []
+"Hi31,28":
+  text: "Również to byłaby nieprawość do ukarania przez sędziów, bo zaparłbym się Boga z wysokości."
+  tags: []
+"Hi31,29":
+  text: "Jeśli radowałem się z upadku mojego wroga i triumfowałem, że spotkało go nieszczęście, to byłbym winny,"
+  tags: []
+"Hi31,30":
+  text: "Lecz nie dałem, by zgrzeszyć miało moje podniebienie, aby zabiegać z przekleństwem o jego duszę;"
+  tags: []
+"Hi31,31":
+  text: "Czyż mężczyźni z mojego namiotu nie mówili: Kto mógłby dać komuś z mięsa jego, a nie zostałby nasycony?"
+  tags: []
+"Hi31,32":
+  text: "Obcy nie nocował na dworze, swoje drzwi otwierałem podróżnemu."
+  tags: []
+"Hi31,33":
+  text: "Jeśli ukrywałem swoje przestępstwa jak Adam, aby schować w zanadrzu swoją nieprawość;"
+  tags: []
+"Hi31,34":
+  text: "Jak gdybym miał się lękać licznego tłumu, a pogarda rodów miałaby spowodować moje przerażenie – tak bym milczał i nie wychodził poza drzwi?"
+  tags: []
+"Hi31,35":
+  text: "To kogo dostałbym, aby mnie wysłuchał! Oto mój podpis, a Wszechmogący niech odpowie mi i niech napisze zwój z oskarżeniem mój przeciwnik."
+  tags: []
+"Hi31,36":
+  text: "Czy nie wziąłbym go sobie na ramiona i nie uwieńczyłbym nim siebie jak wieńcami?"
+  tags: []
+"Hi31,37":
+  text: "Oznajmiłbym Mu liczbę moich kroków; zbliżyłbym się blisko do Niego jak do księcia."
+  tags: []
+"Hi31,38":
+  text: "Jeśli moja rola wołała przeciwko mnie, a razem z nią płakały jej zagony;"
+  tags: []
+"Hi31,39":
+  text: "Jeśli spożywałem jej plon bez zapłaty, a duszę jej właścicieli zgasiłem;"
+  tags: []
+"Hi31,40":
+  text: "Wtedy zamiast pszenicy niech wyjdą ciernie, zamiast jęczmienia – cuchnące chwasty. Tu skończyły się słowa Hioba."
+  tags: []

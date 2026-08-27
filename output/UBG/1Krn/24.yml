@@ -1,31 +1,93 @@
-"1Krn24,1": "A oto podział synów Aarona. Synami Aarona byli: Nadab, Abihu, Eleazar i Itamar;"
-"1Krn24,2": "Ale Nadab i Abihu umarli przed swoim ojcem i nie mieli synów, dlatego Eleazar i Itamar sprawowali urząd kapłański."
-"1Krn24,3": "I Dawid podzielił ich, to jest Sadoka z synów Eleazara i Achimeleka z synów Itamara, według ich urzędu w ich służbie."
-"1Krn24,4": "I okazało się, że spośród synów Eleazara było więcej naczelników niż spośród synów Itamara. Tak więc ich podzielono: spośród synów Eleazara było szesnastu naczelników według rodów, a spośród synów Itamara według rodów – ośmiu."
-"1Krn24,5": "A zostali podzieleni przez losowanie, zarówno jedni, jak i drudzy, gdyż przełożeni świątyni i przełożeni domu Bożego byli spośród synów Eleazara, jak i spośród synów Itamara."
-"1Krn24,6": "A Szemajasz, syn Netaneela, pisarz z pokolenia Lewiego, spisał ich wobec króla i książąt, kapłana Sadoka, Achimeleka, syna Abiatara, oraz naczelników rodów kapłańskich i lewickich. Losowano na przemian jeden dom z rodu Eleazara, drugi – z Itamara."
-"1Krn24,7": "Pierwszy los padł na Jehojariba, drugi na Jedajasza;"
-"1Krn24,8": "Trzeci na Charima, czwarty na Seorima;"
-"1Krn24,9": "Piąty na Malkiasza, szósty na Mijamina;"
-"1Krn24,10": "Siódmy na Hakkosa, ósmy na Abiasza;"
-"1Krn24,11": "Dziewiąty na Jeszuę, dziesiąty na Szekaniasza;"
-"1Krn24,12": "Jedenasty na Eliasziba, dwunasty na Jakima;"
-"1Krn24,13": "Trzynasty na Chuppę, czternasty na Jeszebaba;"
-"1Krn24,14": "Piętnasty na Bilgę, szesnasty na Immera;"
-"1Krn24,15": "Siedemnasty na Chezira, osiemnasty na Happisesa;"
-"1Krn24,16": "Dziewiętnasty na Petachiasza, dwudziesty na Ezechiela;"
-"1Krn24,17": "Dwudziesty pierwszy na Jachina, dwudziesty drugi na Gamula;"
-"1Krn24,18": "Dwudziesty trzeci na Delajasza, dwudziesty czwarty na Maazjasza."
-"1Krn24,19": "Taka była kolejność w służbie, aby wchodzili do domu PANA zgodnie z ustaleniem, jakie pochodziło od ich ojca Aarona, jak mu rozkazał PAN, Bóg Izraela."
-"1Krn24,20": "A pozostali z synów Lewiego to: z synów Amrama – Szubael; z synów Szubaela – Jechdejasz."
-"1Krn24,21": "Z Rechabiasza: z synów Rechabiasza pierwszym był Jisziasz."
-"1Krn24,22": "Z Ishara – Szelomit; z synów Szelomita – Jachat."
-"1Krn24,23": "A synowie Chebrona: pierwszy Jeriasz, drugi Amariasz, trzeci Jachaziel, czwarty Jekameam."
-"1Krn24,24": "Synowie Uzziela: Mika; z synów Miki – Szamir."
-"1Krn24,25": "Brat Miki: Jisziasz; z synów Jisziasza – Zachariasz."
-"1Krn24,26": "Synowie Merariego: Machli i Muszi; synowie Jaazjasza: Beno."
-"1Krn24,27": "Synowie Merariego z Jaazjasza: Beno, Szoham, Zakkur i Ibri."
-"1Krn24,28": "Z Machliego: Eleazar, który nie miał synów."
-"1Krn24,29": "Z Kisza, synowie Kisza: Jerachmeel."
-"1Krn24,30": "A synowie Musziego: Machli, Eder i Jerimot. Ci byli synami Lewitów według ich rodów."
-"1Krn24,31": "Oni również rzucali losy tak samo jak ich bracia, synowie Aarona, przed królem Dawidem, Sadokiem, Achimelekiem oraz naczelnikami rodów kapłańskich i lewickich – naczelnicy rodów na równi z młodszymi ich braćmi."
+"1Krn24,1":
+  text: "A oto podział synów Aarona. Synami Aarona byli: Nadab, Abihu, Eleazar i Itamar;"
+  tags: []
+"1Krn24,2":
+  text: "Ale Nadab i Abihu umarli przed swoim ojcem i nie mieli synów, dlatego Eleazar i Itamar sprawowali urząd kapłański."
+  tags: []
+"1Krn24,3":
+  text: "I Dawid podzielił ich, to jest Sadoka z synów Eleazara i Achimeleka z synów Itamara, według ich urzędu w ich służbie."
+  tags: []
+"1Krn24,4":
+  text: "I okazało się, że spośród synów Eleazara było więcej naczelników niż spośród synów Itamara. Tak więc ich podzielono: spośród synów Eleazara było szesnastu naczelników według rodów, a spośród synów Itamara według rodów – ośmiu."
+  tags: []
+"1Krn24,5":
+  text: "A zostali podzieleni przez losowanie, zarówno jedni, jak i drudzy, gdyż przełożeni świątyni i przełożeni domu Bożego byli spośród synów Eleazara, jak i spośród synów Itamara."
+  tags: []
+"1Krn24,6":
+  text: "A Szemajasz, syn Netaneela, pisarz z pokolenia Lewiego, spisał ich wobec króla i książąt, kapłana Sadoka, Achimeleka, syna Abiatara, oraz naczelników rodów kapłańskich i lewickich. Losowano na przemian jeden dom z rodu Eleazara, drugi – z Itamara."
+  tags: []
+"1Krn24,7":
+  text: "Pierwszy los padł na Jehojariba, drugi na Jedajasza;"
+  tags: []
+"1Krn24,8":
+  text: "Trzeci na Charima, czwarty na Seorima;"
+  tags: []
+"1Krn24,9":
+  text: "Piąty na Malkiasza, szósty na Mijamina;"
+  tags: []
+"1Krn24,10":
+  text: "Siódmy na Hakkosa, ósmy na Abiasza;"
+  tags: []
+"1Krn24,11":
+  text: "Dziewiąty na Jeszuę, dziesiąty na Szekaniasza;"
+  tags: []
+"1Krn24,12":
+  text: "Jedenasty na Eliasziba, dwunasty na Jakima;"
+  tags: []
+"1Krn24,13":
+  text: "Trzynasty na Chuppę, czternasty na Jeszebaba;"
+  tags: []
+"1Krn24,14":
+  text: "Piętnasty na Bilgę, szesnasty na Immera;"
+  tags: []
+"1Krn24,15":
+  text: "Siedemnasty na Chezira, osiemnasty na Happisesa;"
+  tags: []
+"1Krn24,16":
+  text: "Dziewiętnasty na Petachiasza, dwudziesty na Ezechiela;"
+  tags: []
+"1Krn24,17":
+  text: "Dwudziesty pierwszy na Jachina, dwudziesty drugi na Gamula;"
+  tags: []
+"1Krn24,18":
+  text: "Dwudziesty trzeci na Delajasza, dwudziesty czwarty na Maazjasza."
+  tags: []
+"1Krn24,19":
+  text: "Taka była kolejność w służbie, aby wchodzili do domu PANA zgodnie z ustaleniem, jakie pochodziło od ich ojca Aarona, jak mu rozkazał PAN, Bóg Izraela."
+  tags: []
+"1Krn24,20":
+  text: "A pozostali z synów Lewiego to: z synów Amrama – Szubael; z synów Szubaela – Jechdejasz."
+  tags: []
+"1Krn24,21":
+  text: "Z Rechabiasza: z synów Rechabiasza pierwszym był Jisziasz."
+  tags: []
+"1Krn24,22":
+  text: "Z Ishara – Szelomit; z synów Szelomita – Jachat."
+  tags: []
+"1Krn24,23":
+  text: "A synowie Chebrona: pierwszy Jeriasz, drugi Amariasz, trzeci Jachaziel, czwarty Jekameam."
+  tags: []
+"1Krn24,24":
+  text: "Synowie Uzziela: Mika; z synów Miki – Szamir."
+  tags: []
+"1Krn24,25":
+  text: "Brat Miki: Jisziasz; z synów Jisziasza – Zachariasz."
+  tags: []
+"1Krn24,26":
+  text: "Synowie Merariego: Machli i Muszi; synowie Jaazjasza: Beno."
+  tags: []
+"1Krn24,27":
+  text: "Synowie Merariego z Jaazjasza: Beno, Szoham, Zakkur i Ibri."
+  tags: []
+"1Krn24,28":
+  text: "Z Machliego: Eleazar, który nie miał synów."
+  tags: []
+"1Krn24,29":
+  text: "Z Kisza, synowie Kisza: Jerachmeel."
+  tags: []
+"1Krn24,30":
+  text: "A synowie Musziego: Machli, Eder i Jerimot. Ci byli synami Lewitów według ich rodów."
+  tags: []
+"1Krn24,31":
+  text: "Oni również rzucali losy tak samo jak ich bracia, synowie Aarona, przed królem Dawidem, Sadokiem, Achimelekiem oraz naczelnikami rodów kapłańskich i lewickich – naczelnicy rodów na równi z młodszymi ich braćmi."
+  tags: []

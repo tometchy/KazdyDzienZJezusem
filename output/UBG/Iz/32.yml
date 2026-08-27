@@ -1,20 +1,60 @@
-"Iz32,1": "Oto król będzie panował w sprawiedliwości, a książęta będą rządzić w prawości."
-"Iz32,2": "I ten mężczyzna będzie jak zasłona przed wiatrem i jak schronienie przed burzą; jak strumienie wód w suchym miejscu, jak cień wielkiej skały w spragnionej ziemi."
-"Iz32,3": "Oczy patrzących nie będą zaćmione i uszy słuchających będą uważnie słuchać."
-"Iz32,4": "Serce pochopnych zrozumie wiedzę, a język jąkających się będzie mówić pewnie i wyraźnie."
-"Iz32,5": "Nieszlachetnego nie będą już nazywać szlachetnym ani o skąpym nie powie się, że jest szczodry;"
-"Iz32,6": "Nieszlachetny bowiem mówi nikczemnie i jego serce obmyśla nieprawość, aby postępował obłudnie i mówił przeciwko PANU przewrotnie, by wyniszczył duszę głodnego i spragnionego pozbawił napoju."
-"Iz32,7": "Zamierzenia skąpego są złe, bo chytrze obmyśla, jak zniszczyć biednych słowami kłamstwa i mówić przeciwko ubogim przed sądem."
-"Iz32,8": "Ale szczodry ma szczodrobliwe myśli i będzie obstawać przy swojej szczodrobliwości."
-"Iz32,9": "Kobiety beztroskie, powstańcie, słuchajcie mego głosu; córki pewne siebie, nakłońcie ucha na moją mowę."
-"Iz32,10": "Przez wiele dni i lat będziecie zatrwożone, wy pewne siebie! Ustanie bowiem winobranie, zbioru nie będzie."
-"Iz32,11": "Zatrwóżcie się, wy beztroskie, ulęknijcie się, pewne siebie! Rozbierzcie się i obnażcie się, a przepaszcie worem biodra."
-"Iz32,12": "Nastanie lament nad piersiami, nad rozkosznymi polami i nad urodzajną winoroślą."
-"Iz32,13": "Na ziemi mojego ludu wyrosną ciernie i osty – tak, we wszystkich wesołych domach w rozbawionym mieście."
-"Iz32,14": "Pałace bowiem zostaną opuszczone, ustanie wrzawa miasta, zamek i baszty staną się jaskiniami na zawsze, miejscem uciechy dla dzikich osłów, pastwiskiem dla stad;"
-"Iz32,15": "Aż zostanie wylany na nas duch z wysoka, pustynia obróci się w urodzajne pole, a urodzajne pole będzie uważane za las."
-"Iz32,16": "Sąd zamieszka na pustyni, sprawiedliwość osiądzie na urodzajnym polu."
-"Iz32,17": "Dziełem sprawiedliwości będzie pokój, owocem sprawiedliwości odpoczynek i bezpieczeństwo na wieki."
-"Iz32,18": "Mój lud bowiem będzie mieszkał w przybytku pokoju, w bezpiecznych mieszkaniach i w spokojnych miejscach odpoczynku;"
-"Iz32,19": "Gdy spadnie na las grad, a miasto będzie bardzo poniżone."
-"Iz32,20": "Błogosławieni jesteście, wy, którzy siejecie na wszelkich urodzajnych miejscach, puszczając tam wolno woły i osły."
+"Iz32,1":
+  text: "Oto król będzie panował w sprawiedliwości, a książęta będą rządzić w prawości."
+  tags: []
+"Iz32,2":
+  text: "I ten mężczyzna będzie jak zasłona przed wiatrem i jak schronienie przed burzą; jak strumienie wód w suchym miejscu, jak cień wielkiej skały w spragnionej ziemi."
+  tags: []
+"Iz32,3":
+  text: "Oczy patrzących nie będą zaćmione i uszy słuchających będą uważnie słuchać."
+  tags: []
+"Iz32,4":
+  text: "Serce pochopnych zrozumie wiedzę, a język jąkających się będzie mówić pewnie i wyraźnie."
+  tags: []
+"Iz32,5":
+  text: "Nieszlachetnego nie będą już nazywać szlachetnym ani o skąpym nie powie się, że jest szczodry;"
+  tags: []
+"Iz32,6":
+  text: "Nieszlachetny bowiem mówi nikczemnie i jego serce obmyśla nieprawość, aby postępował obłudnie i mówił przeciwko PANU przewrotnie, by wyniszczył duszę głodnego i spragnionego pozbawił napoju."
+  tags: []
+"Iz32,7":
+  text: "Zamierzenia skąpego są złe, bo chytrze obmyśla, jak zniszczyć biednych słowami kłamstwa i mówić przeciwko ubogim przed sądem."
+  tags: []
+"Iz32,8":
+  text: "Ale szczodry ma szczodrobliwe myśli i będzie obstawać przy swojej szczodrobliwości."
+  tags: []
+"Iz32,9":
+  text: "Kobiety beztroskie, powstańcie, słuchajcie mego głosu; córki pewne siebie, nakłońcie ucha na moją mowę."
+  tags: []
+"Iz32,10":
+  text: "Przez wiele dni i lat będziecie zatrwożone, wy pewne siebie! Ustanie bowiem winobranie, zbioru nie będzie."
+  tags: []
+"Iz32,11":
+  text: "Zatrwóżcie się, wy beztroskie, ulęknijcie się, pewne siebie! Rozbierzcie się i obnażcie się, a przepaszcie worem biodra."
+  tags: []
+"Iz32,12":
+  text: "Nastanie lament nad piersiami, nad rozkosznymi polami i nad urodzajną winoroślą."
+  tags: []
+"Iz32,13":
+  text: "Na ziemi mojego ludu wyrosną ciernie i osty – tak, we wszystkich wesołych domach w rozbawionym mieście."
+  tags: []
+"Iz32,14":
+  text: "Pałace bowiem zostaną opuszczone, ustanie wrzawa miasta, zamek i baszty staną się jaskiniami na zawsze, miejscem uciechy dla dzikich osłów, pastwiskiem dla stad;"
+  tags: []
+"Iz32,15":
+  text: "Aż zostanie wylany na nas duch z wysoka, pustynia obróci się w urodzajne pole, a urodzajne pole będzie uważane za las."
+  tags: []
+"Iz32,16":
+  text: "Sąd zamieszka na pustyni, sprawiedliwość osiądzie na urodzajnym polu."
+  tags: []
+"Iz32,17":
+  text: "Dziełem sprawiedliwości będzie pokój, owocem sprawiedliwości odpoczynek i bezpieczeństwo na wieki."
+  tags: []
+"Iz32,18":
+  text: "Mój lud bowiem będzie mieszkał w przybytku pokoju, w bezpiecznych mieszkaniach i w spokojnych miejscach odpoczynku;"
+  tags: []
+"Iz32,19":
+  text: "Gdy spadnie na las grad, a miasto będzie bardzo poniżone."
+  tags: []
+"Iz32,20":
+  text: "Błogosławieni jesteście, wy, którzy siejecie na wszelkich urodzajnych miejscach, puszczając tam wolno woły i osły."
+  tags: []

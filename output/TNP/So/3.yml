@@ -1,20 +1,60 @@
-"So3,1": "Biada plugawemu i skalanemu miastu ucisku!"
-"So3,2": "Nie słuchało głosu, nie przyjmowało upomnienia, nie ufało JHWH, nie zbliżyło się do swojego Boga."
-"So3,3": "Jego książęta w jego wnętrzu są ryczącymi lwami, jego sędziowie to wilki wieczorem, które nie gryzą kości do rana."
-"So3,4": "Jego prorocy są lekkomyślni, to ludzie wiarołomni; jego kapłani zbezcześcili świątynię, pogwałcili Prawo."
-"So3,5": "JHWH sprawiedliwy jest wewnątrz niego, nie czyni nieprawości; poranek za porankiem swój słuszny sąd wywodzi na światłość – niczego nie brak; lecz niegodziwiec nie zna wstydu."
-"So3,6": "Wykorzeniłem narody, ich baszty zostały spustoszone, zniszczyłem ich ulice, nikt nie przechodzi. Ich miasta zostały spustoszone, tak że nie ma człowieka, ani nie ma mieszkańca."
-"So3,7": "Powiedziałem: Na pewno teraz będziesz się Mnie bać, przyjmiesz upomnienie, aby nie została ci odjęta twoja siedziba, wszystko to, co dotyczy jej ukarania. Lecz tym chętniej rujnowali wszystkie swoje czyny."
-"So3,8": "Dlatego oczekujcie Mnie – oświadczenie JHWH – w dniu, w którym powstanę na łup. Bo moim postanowieniem jest, by zebrać narody i zgromadzić królestwa, by wylać na nie swoją zapalczywość, cały żar swojego gniewu. Bo w ogniu mojej żarliwości zostanie pochłonięta cała ta ziemia."
-"So3,9": "Wtedy bowiem zmienię ludom ich wargi na czyste, aby wszyscy wzywali imienia JHWH i służyli Mu ramię w ramię."
-"So3,10": "Spoza rzek Kusz moi czciciele – córka moich rozproszonych – przyniosą mi dary."
-"So3,11": "W tym dniu nie doznasz już wstydu z powodu wszystkich twoich uczynków, którymi buntowałaś się przeciwko mnie. Bo wtedy usunę spośród ciebie pyszną twoją chlubę i nie będziesz się więcej wywyższać na mojej świętej górze."
-"So3,12": "I pozostawię pośród ciebie lud pokorny i nędzny, i będą pokładać ufność w imieniu JHWH."
-"So3,13": "Resztka Izraela nie będzie czynić nieprawości ani nie będzie mówić kłamstwa; nie znajdzie się w jej ustach język zdradliwy. Bo oni będę się paść i położą się, a nie będzie powodującego przerażenie."
-"So3,14": "Wiwatuj, córko Syjonu! Wykrzykuj, Izraelu! Ciesz się i raduj z całego serca, córko Jerozolimy!"
-"So3,15": "JHWH oddalił wyroki na ciebie, usunął twojego wroga. Król Izraela, JHWH, jest pośród ciebie. Nie będziesz więcej bał się zła."
-"So3,16": "W tym dniu powiedzą do Jerozolimy: Nie bój się! A do Syjonu: Nie opuszczaj swoich rąk!"
-"So3,17": "JHWH, twój Bóg, pośród ciebie, Potężny; On wybawi, rozraduje się nad tobą, uciszy się w swojej miłości, rozweseli się nad tobą z okrzykiem radości."
-"So3,18": "Zbiorę smutek z uroczystego zgromadzenia pośród ciebie, które było brzemieniem zniewagi z powodu niego."
-"So3,19": "Oto ja zajmę się wszystkimi, którzy cię dręczyli w tym czasie, i wybawię utykającą i zgromadzę wygnaną; okryję ich chwałą i imieniem w całej ziemi ich hańby."
-"So3,20": "W tym czasie przyprowadzę was, w tym czasie, zgromadzę was. Bo dam wam imię i chwałę wobec wszystkich ludów ziemi, gdy na waszych oczach odmienię waszą niewolę – mówi JHWH."
+"So3,1":
+  text: "Biada plugawemu i skalanemu miastu ucisku!"
+  tags: []
+"So3,2":
+  text: "Nie słuchało głosu, nie przyjmowało upomnienia, nie ufało JHWH, nie zbliżyło się do swojego Boga."
+  tags: []
+"So3,3":
+  text: "Jego książęta w jego wnętrzu są ryczącymi lwami, jego sędziowie to wilki wieczorem, które nie gryzą kości do rana."
+  tags: []
+"So3,4":
+  text: "Jego prorocy są lekkomyślni, to ludzie wiarołomni; jego kapłani zbezcześcili świątynię, pogwałcili Prawo."
+  tags: []
+"So3,5":
+  text: "JHWH sprawiedliwy jest wewnątrz niego, nie czyni nieprawości; poranek za porankiem swój słuszny sąd wywodzi na światłość – niczego nie brak; lecz niegodziwiec nie zna wstydu."
+  tags: []
+"So3,6":
+  text: "Wykorzeniłem narody, ich baszty zostały spustoszone, zniszczyłem ich ulice, nikt nie przechodzi. Ich miasta zostały spustoszone, tak że nie ma człowieka, ani nie ma mieszkańca."
+  tags: []
+"So3,7":
+  text: "Powiedziałem: Na pewno teraz będziesz się Mnie bać, przyjmiesz upomnienie, aby nie została ci odjęta twoja siedziba, wszystko to, co dotyczy jej ukarania. Lecz tym chętniej rujnowali wszystkie swoje czyny."
+  tags: []
+"So3,8":
+  text: "Dlatego oczekujcie Mnie – oświadczenie JHWH – w dniu, w którym powstanę na łup. Bo moim postanowieniem jest, by zebrać narody i zgromadzić królestwa, by wylać na nie swoją zapalczywość, cały żar swojego gniewu. Bo w ogniu mojej żarliwości zostanie pochłonięta cała ta ziemia."
+  tags: []
+"So3,9":
+  text: "Wtedy bowiem zmienię ludom ich wargi na czyste, aby wszyscy wzywali imienia JHWH i służyli Mu ramię w ramię."
+  tags: []
+"So3,10":
+  text: "Spoza rzek Kusz moi czciciele – córka moich rozproszonych – przyniosą mi dary."
+  tags: []
+"So3,11":
+  text: "W tym dniu nie doznasz już wstydu z powodu wszystkich twoich uczynków, którymi buntowałaś się przeciwko mnie. Bo wtedy usunę spośród ciebie pyszną twoją chlubę i nie będziesz się więcej wywyższać na mojej świętej górze."
+  tags: []
+"So3,12":
+  text: "I pozostawię pośród ciebie lud pokorny i nędzny, i będą pokładać ufność w imieniu JHWH."
+  tags: []
+"So3,13":
+  text: "Resztka Izraela nie będzie czynić nieprawości ani nie będzie mówić kłamstwa; nie znajdzie się w jej ustach język zdradliwy. Bo oni będę się paść i położą się, a nie będzie powodującego przerażenie."
+  tags: []
+"So3,14":
+  text: "Wiwatuj, córko Syjonu! Wykrzykuj, Izraelu! Ciesz się i raduj z całego serca, córko Jerozolimy!"
+  tags: []
+"So3,15":
+  text: "JHWH oddalił wyroki na ciebie, usunął twojego wroga. Król Izraela, JHWH, jest pośród ciebie. Nie będziesz więcej bał się zła."
+  tags: []
+"So3,16":
+  text: "W tym dniu powiedzą do Jerozolimy: Nie bój się! A do Syjonu: Nie opuszczaj swoich rąk!"
+  tags: []
+"So3,17":
+  text: "JHWH, twój Bóg, pośród ciebie, Potężny; On wybawi, rozraduje się nad tobą, uciszy się w swojej miłości, rozweseli się nad tobą z okrzykiem radości."
+  tags: []
+"So3,18":
+  text: "Zbiorę smutek z uroczystego zgromadzenia pośród ciebie, które było brzemieniem zniewagi z powodu niego."
+  tags: []
+"So3,19":
+  text: "Oto ja zajmę się wszystkimi, którzy cię dręczyli w tym czasie, i wybawię utykającą i zgromadzę wygnaną; okryję ich chwałą i imieniem w całej ziemi ich hańby."
+  tags: []
+"So3,20":
+  text: "W tym czasie przyprowadzę was, w tym czasie, zgromadzę was. Bo dam wam imię i chwałę wobec wszystkich ludów ziemi, gdy na waszych oczach odmienię waszą niewolę – mówi JHWH."
+  tags: []

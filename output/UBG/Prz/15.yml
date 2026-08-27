@@ -1,33 +1,99 @@
-"Prz15,1": "Łagodna odpowiedź uśmierza zapalczywość, a przykre słowa wzniecają gniew."
-"Prz15,2": "Język mądrych zdobi wiedzę, ale usta głupich tryskają głupotą."
-"Prz15,3": "Oczy PANA są na każdym miejscu, upatrują złych i dobrych."
-"Prz15,4": "Zdrowy język jest drzewem życia, a jego przewrotność jest zniszczeniem dla ducha."
-"Prz15,5": "Głupi gardzi pouczeniem swego ojca, a kto przyjmuje upomnienia, jest roztropny."
-"Prz15,6": "W domu sprawiedliwego jest wielki dostatek, a w dochodach niegodziwego jest zamieszanie."
-"Prz15,7": "Wargi mądrych szerzą wiedzę, a serce głupich nie."
-"Prz15,8": "Ofiara niegodziwych budzi odrazę w PANU, a modlitwa prawych mu się podoba."
-"Prz15,9": "Droga niegodziwego wzbudza odrazę w PANU, a miłuje on tego, kto podąża za sprawiedliwością."
-"Prz15,10": "Sroga kara należy się temu, kto zbacza z drogi, a kto nienawidzi upomnień, umrze."
-"Prz15,11": "Piekło i zatracenie są przed PANEM; o ileż bardziej serca synów ludzkich."
-"Prz15,12": "Szyderca nie miłuje tego, który go strofuje, ani nie pójdzie do mądrych."
-"Prz15,13": "Radosne serce rozwesela twarz, ale gdy smutek w sercu, duch jest przygnębiony."
-"Prz15,14": "Serce rozumne szuka wiedzy, a usta głupich karmią się głupotą."
-"Prz15,15": "Wszystkie dni strapionego są złe, ale kto jest wesołego serca, ma nieustanną ucztę."
-"Prz15,16": "Lepiej mieć mało z bojaźnią PANA niż wielki skarb z kłopotem."
-"Prz15,17": "Lepsza jest potrawa z jarzyn, gdzie miłość, niż tuczny wół, gdzie panuje nienawiść."
-"Prz15,18": "Człowiek gniewny wszczyna kłótnie, a nieskory do gniewu łagodzi spory."
-"Prz15,19": "Droga leniwego jest jak płot cierniowy, a ścieżka prawych jest wyrównana."
-"Prz15,20": "Mądry syn jest radością ojca, a człowiek głupi gardzi własną matką."
-"Prz15,21": "Głupota jest radością dla nierozumnego, a człowiek roztropny postępuje uczciwie."
-"Prz15,22": "Gdzie nie ma rady, nie udają się zamysły; powiodą się zaś przy mnóstwie doradców."
-"Prz15,23": "Człowiek cieszy się z odpowiedzi swoich ust, a słowo powiedziane we właściwym czasie jakże jest dobre!"
-"Prz15,24": "Droga życia dla mądrego jest w górze, aby uniknął głębokiego piekła."
-"Prz15,25": "PAN zniszczy dom pysznych, a utwierdzi granicę wdowy."
-"Prz15,26": "Myśli złego budzą odrazę w PANU, a słowa czystych są przyjemne."
-"Prz15,27": "Kto jest chciwy zysku, ściąga kłopoty na własny dom, a kto nienawidzi darów, będzie żył."
-"Prz15,28": "Serce sprawiedliwego rozmyśla nad odpowiedzią, a usta niegodziwych tryskają złymi rzeczami."
-"Prz15,29": "PAN jest daleko od niegodziwych, ale wysłuchuje modlitwy sprawiedliwych."
-"Prz15,30": "Światło oczu rozwesela serce, a dobra wieść tuczy kości."
-"Prz15,31": "Ucho, które słucha upomnienia życia, będzie mieszkać pośród mądrych."
-"Prz15,32": "Kto odrzuca karność, gardzi własną duszą, a kto przyjmuje upomnienie, nabiera rozumu."
-"Prz15,33": "Bojaźń PANA jest pouczeniem w mądrości, a pokora poprzedza chwałę."
+"Prz15,1":
+  text: "Łagodna odpowiedź uśmierza zapalczywość, a przykre słowa wzniecają gniew."
+  tags: []
+"Prz15,2":
+  text: "Język mądrych zdobi wiedzę, ale usta głupich tryskają głupotą."
+  tags: []
+"Prz15,3":
+  text: "Oczy PANA są na każdym miejscu, upatrują złych i dobrych."
+  tags: []
+"Prz15,4":
+  text: "Zdrowy język jest drzewem życia, a jego przewrotność jest zniszczeniem dla ducha."
+  tags: []
+"Prz15,5":
+  text: "Głupi gardzi pouczeniem swego ojca, a kto przyjmuje upomnienia, jest roztropny."
+  tags: []
+"Prz15,6":
+  text: "W domu sprawiedliwego jest wielki dostatek, a w dochodach niegodziwego jest zamieszanie."
+  tags: []
+"Prz15,7":
+  text: "Wargi mądrych szerzą wiedzę, a serce głupich nie."
+  tags: []
+"Prz15,8":
+  text: "Ofiara niegodziwych budzi odrazę w PANU, a modlitwa prawych mu się podoba."
+  tags: []
+"Prz15,9":
+  text: "Droga niegodziwego wzbudza odrazę w PANU, a miłuje on tego, kto podąża za sprawiedliwością."
+  tags: []
+"Prz15,10":
+  text: "Sroga kara należy się temu, kto zbacza z drogi, a kto nienawidzi upomnień, umrze."
+  tags: []
+"Prz15,11":
+  text: "Piekło i zatracenie są przed PANEM; o ileż bardziej serca synów ludzkich."
+  tags: []
+"Prz15,12":
+  text: "Szyderca nie miłuje tego, który go strofuje, ani nie pójdzie do mądrych."
+  tags: []
+"Prz15,13":
+  text: "Radosne serce rozwesela twarz, ale gdy smutek w sercu, duch jest przygnębiony."
+  tags: []
+"Prz15,14":
+  text: "Serce rozumne szuka wiedzy, a usta głupich karmią się głupotą."
+  tags: []
+"Prz15,15":
+  text: "Wszystkie dni strapionego są złe, ale kto jest wesołego serca, ma nieustanną ucztę."
+  tags: []
+"Prz15,16":
+  text: "Lepiej mieć mało z bojaźnią PANA niż wielki skarb z kłopotem."
+  tags: []
+"Prz15,17":
+  text: "Lepsza jest potrawa z jarzyn, gdzie miłość, niż tuczny wół, gdzie panuje nienawiść."
+  tags: []
+"Prz15,18":
+  text: "Człowiek gniewny wszczyna kłótnie, a nieskory do gniewu łagodzi spory."
+  tags: []
+"Prz15,19":
+  text: "Droga leniwego jest jak płot cierniowy, a ścieżka prawych jest wyrównana."
+  tags: []
+"Prz15,20":
+  text: "Mądry syn jest radością ojca, a człowiek głupi gardzi własną matką."
+  tags: []
+"Prz15,21":
+  text: "Głupota jest radością dla nierozumnego, a człowiek roztropny postępuje uczciwie."
+  tags: []
+"Prz15,22":
+  text: "Gdzie nie ma rady, nie udają się zamysły; powiodą się zaś przy mnóstwie doradców."
+  tags: []
+"Prz15,23":
+  text: "Człowiek cieszy się z odpowiedzi swoich ust, a słowo powiedziane we właściwym czasie jakże jest dobre!"
+  tags: []
+"Prz15,24":
+  text: "Droga życia dla mądrego jest w górze, aby uniknął głębokiego piekła."
+  tags: []
+"Prz15,25":
+  text: "PAN zniszczy dom pysznych, a utwierdzi granicę wdowy."
+  tags: []
+"Prz15,26":
+  text: "Myśli złego budzą odrazę w PANU, a słowa czystych są przyjemne."
+  tags: []
+"Prz15,27":
+  text: "Kto jest chciwy zysku, ściąga kłopoty na własny dom, a kto nienawidzi darów, będzie żył."
+  tags: []
+"Prz15,28":
+  text: "Serce sprawiedliwego rozmyśla nad odpowiedzią, a usta niegodziwych tryskają złymi rzeczami."
+  tags: []
+"Prz15,29":
+  text: "PAN jest daleko od niegodziwych, ale wysłuchuje modlitwy sprawiedliwych."
+  tags: []
+"Prz15,30":
+  text: "Światło oczu rozwesela serce, a dobra wieść tuczy kości."
+  tags: []
+"Prz15,31":
+  text: "Ucho, które słucha upomnienia życia, będzie mieszkać pośród mądrych."
+  tags: []
+"Prz15,32":
+  text: "Kto odrzuca karność, gardzi własną duszą, a kto przyjmuje upomnienie, nabiera rozumu."
+  tags: []
+"Prz15,33":
+  text: "Bojaźń PANA jest pouczeniem w mądrości, a pokora poprzedza chwałę."
+  tags: []

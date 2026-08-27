@@ -1,22 +1,66 @@
-"Hi16,1": "Then Job answered and said,"
-"Hi16,2": "I have heard many such things: miserable comforters [are] ye all."
-"Hi16,3": "Shall vain words have an end? or what emboldeneth thee that thou answerest?"
-"Hi16,4": "I also could speak as ye [do]: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you."
-"Hi16,5": "[But] I would strengthen you with my mouth, and the moving of my lips should asswage [your grief]."
-"Hi16,6": "Though I speak, my grief is not asswaged: and [though] I forbear, what am I eased?"
-"Hi16,7": "But now he hath made me weary: thou hast made desolate all my company."
-"Hi16,8": "And thou hast filled me with wrinkles, [which] is a witness [against me]: and my leanness rising up in me beareth witness to my face."
-"Hi16,9": "He teareth [me] in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me."
-"Hi16,10": "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me."
-"Hi16,11": "God hath delivered me to the ungodly, and turned me over into the hands of the wicked."
-"Hi16,12": "I was at ease, but he hath broken me asunder: he hath also taken [me] by my neck, and shaken me to pieces, and set me up for his mark."
-"Hi16,13": "His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground."
-"Hi16,14": "He breaketh me with breach upon breach, he runneth upon me like a giant."
-"Hi16,15": "I have sewed sackcloth upon my skin, and defiled my horn in the dust."
-"Hi16,16": "My face is foul with weeping, and on my eyelids [is] the shadow of death;"
-"Hi16,17": "Not for [any] injustice in mine hands: also my prayer [is] pure."
-"Hi16,18": "O earth, cover not thou my blood, and let my cry have no place."
-"Hi16,19": "Also now, behold, my witness [is] in heaven, and my record [is] on high."
-"Hi16,20": "My friends scorn me: [but] mine eye poureth out [tears] unto God."
-"Hi16,21": "O that one might plead for a man with God, as a man [pleadeth] for his neighbour!"
-"Hi16,22": "When a few years are come, then I shall go the way [whence] I shall not return."
+"Hi16,1":
+  text: "Then Job answered and said,"
+  tags: []
+"Hi16,2":
+  text: "I have heard many such things: miserable comforters [are] ye all."
+  tags: []
+"Hi16,3":
+  text: "Shall vain words have an end? or what emboldeneth thee that thou answerest?"
+  tags: []
+"Hi16,4":
+  text: "I also could speak as ye [do]: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you."
+  tags: []
+"Hi16,5":
+  text: "[But] I would strengthen you with my mouth, and the moving of my lips should asswage [your grief]."
+  tags: []
+"Hi16,6":
+  text: "Though I speak, my grief is not asswaged: and [though] I forbear, what am I eased?"
+  tags: []
+"Hi16,7":
+  text: "But now he hath made me weary: thou hast made desolate all my company."
+  tags: []
+"Hi16,8":
+  text: "And thou hast filled me with wrinkles, [which] is a witness [against me]: and my leanness rising up in me beareth witness to my face."
+  tags: []
+"Hi16,9":
+  text: "He teareth [me] in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me."
+  tags: []
+"Hi16,10":
+  text: "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me."
+  tags: []
+"Hi16,11":
+  text: "God hath delivered me to the ungodly, and turned me over into the hands of the wicked."
+  tags: []
+"Hi16,12":
+  text: "I was at ease, but he hath broken me asunder: he hath also taken [me] by my neck, and shaken me to pieces, and set me up for his mark."
+  tags: []
+"Hi16,13":
+  text: "His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground."
+  tags: []
+"Hi16,14":
+  text: "He breaketh me with breach upon breach, he runneth upon me like a giant."
+  tags: []
+"Hi16,15":
+  text: "I have sewed sackcloth upon my skin, and defiled my horn in the dust."
+  tags: []
+"Hi16,16":
+  text: "My face is foul with weeping, and on my eyelids [is] the shadow of death;"
+  tags: []
+"Hi16,17":
+  text: "Not for [any] injustice in mine hands: also my prayer [is] pure."
+  tags: []
+"Hi16,18":
+  text: "O earth, cover not thou my blood, and let my cry have no place."
+  tags: []
+"Hi16,19":
+  text: "Also now, behold, my witness [is] in heaven, and my record [is] on high."
+  tags: []
+"Hi16,20":
+  text: "My friends scorn me: [but] mine eye poureth out [tears] unto God."
+  tags: []
+"Hi16,21":
+  text: "O that one might plead for a man with God, as a man [pleadeth] for his neighbour!"
+  tags: []
+"Hi16,22":
+  text: "When a few years are come, then I shall go the way [whence] I shall not return."
+  tags: []

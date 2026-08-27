@@ -1,17 +1,51 @@
-"Za11,1": "Stwórz swoje wrota, Libanie, i niech ogień strawi twoje cedry."
-"Za11,2": "Zawódź, cyprysie, bo upadł cedr, że te wspaniałości zostały spustoszone. Zawódźcie, dęby Baszanu, bo został powalony niedostępny las."
-"Za11,3": "Słychać głos narzekania pasterzy, bo ich chwała została spustoszona; słychać głos ryku jakby lwiąt, bo duma Jordanu została spustoszona."
-"Za11,4": "Tak mówi JHWH, mój Bóg: Paś owce przeznaczone na rzeź;"
-"Za11,5": "Ci, którzy je kupują, zarzynają je, a nie czują się winni, a sprzedający je mówią: Błogosławiony niech będzie JHWH, bo się wzbogacę. A ich pasterze nie mają dla nich współczucia."
-"Za11,6": "Dlatego więcej nie będę miał współczucia dla mieszkańców tej ziemi – oświadczenie JHWH. I oto ja wydam każdego człowieka w rękę jego bliźniego i w rękę jego króla. I rozbiję tę ziemię, a nikogo nie wyrwę z ich ręki."
-"Za11,7": "I pasłem owce przeznaczone na rzeź, tak oto biedne były te owce! I wziąłem sobie dwie laski, i jedną nazwałem „Przychylność”, a drugą nazwałem „Jedność”, i pasłem te owce."
-"Za11,8": "Zgładziłem trzech pasterzy w jednym miesiącu; i moja dusza straciła do nich cierpliwość, a ich dusza też brzydziła się mną."
-"Za11,9": "I powiedziałem: Nie będę was pasł. Umierająca, niech umrze, a ginąca, niech zginie, a te co pozostaną przy życiu, niech każda pożera ciało swojej towarzyszki"
-"Za11,10": "I wziąłem swoją laskę „Przychylność”, i złamałem ją, aby zerwać moje przymierze, które zawarłem z wszystkimi ludami."
-"Za11,11": "I zostało zerwane w tym dniu. I tak oto poznały biedne owce, które się mnie trzymały, że to było Słowo JHWH."
-"Za11,12": "I powiedziałem im: Jeśli to jest słuszne, dajcie mi moją zapłatę, a jeśli nie, zaniechajcie jej. I odważyli mi zapłatę: trzydzieści srebrników."
-"Za11,13": "I JHWH powiedział do mnie: Rzuć je przed garncarza, tę wspaniałą wartość, na jaką mnie wysoko wycenili. I wziąłem trzydzieści srebrników i rzuciłem je przed garncarza w domu JHWH."
-"Za11,14": "Potem złamałem swoją drugą laskę, „Jedność”, aby zerwać braterstwo między Judą i między Izraelem."
-"Za11,15": "I JHWH powiedział jeszcze do mnie: Weź sobie narzędzie nierozumnego pasterza."
-"Za11,16": "Bo oto ja wzbudzę pasterza w tej ziemi, który nie będzie troszczył się o zaginione, nie będzie szukał młodej, nie będzie leczył okaleczonej, a stojącej nie będzie wspierał. Zje mięso tłustej, a kopyta ich zetrze."
-"Za11,17": "Biada pasterzowi nieużytecznemu, który opuszcza owce! Niech spadnie miecz na jego ramię i na jego prawe oko. Jego ramię całkiem uschnie, a jego prawe oko całkiem osłabnie."
+"Za11,1":
+  text: "Stwórz swoje wrota, Libanie, i niech ogień strawi twoje cedry."
+  tags: []
+"Za11,2":
+  text: "Zawódź, cyprysie, bo upadł cedr, że te wspaniałości zostały spustoszone. Zawódźcie, dęby Baszanu, bo został powalony niedostępny las."
+  tags: []
+"Za11,3":
+  text: "Słychać głos narzekania pasterzy, bo ich chwała została spustoszona; słychać głos ryku jakby lwiąt, bo duma Jordanu została spustoszona."
+  tags: []
+"Za11,4":
+  text: "Tak mówi JHWH, mój Bóg: Paś owce przeznaczone na rzeź;"
+  tags: []
+"Za11,5":
+  text: "Ci, którzy je kupują, zarzynają je, a nie czują się winni, a sprzedający je mówią: Błogosławiony niech będzie JHWH, bo się wzbogacę. A ich pasterze nie mają dla nich współczucia."
+  tags: []
+"Za11,6":
+  text: "Dlatego więcej nie będę miał współczucia dla mieszkańców tej ziemi – oświadczenie JHWH. I oto ja wydam każdego człowieka w rękę jego bliźniego i w rękę jego króla. I rozbiję tę ziemię, a nikogo nie wyrwę z ich ręki."
+  tags: []
+"Za11,7":
+  text: "I pasłem owce przeznaczone na rzeź, tak oto biedne były te owce! I wziąłem sobie dwie laski, i jedną nazwałem „Przychylność”, a drugą nazwałem „Jedność”, i pasłem te owce."
+  tags: []
+"Za11,8":
+  text: "Zgładziłem trzech pasterzy w jednym miesiącu; i moja dusza straciła do nich cierpliwość, a ich dusza też brzydziła się mną."
+  tags: []
+"Za11,9":
+  text: "I powiedziałem: Nie będę was pasł. Umierająca, niech umrze, a ginąca, niech zginie, a te co pozostaną przy życiu, niech każda pożera ciało swojej towarzyszki"
+  tags: []
+"Za11,10":
+  text: "I wziąłem swoją laskę „Przychylność”, i złamałem ją, aby zerwać moje przymierze, które zawarłem z wszystkimi ludami."
+  tags: []
+"Za11,11":
+  text: "I zostało zerwane w tym dniu. I tak oto poznały biedne owce, które się mnie trzymały, że to było Słowo JHWH."
+  tags: []
+"Za11,12":
+  text: "I powiedziałem im: Jeśli to jest słuszne, dajcie mi moją zapłatę, a jeśli nie, zaniechajcie jej. I odważyli mi zapłatę: trzydzieści srebrników."
+  tags: []
+"Za11,13":
+  text: "I JHWH powiedział do mnie: Rzuć je przed garncarza, tę wspaniałą wartość, na jaką mnie wysoko wycenili. I wziąłem trzydzieści srebrników i rzuciłem je przed garncarza w domu JHWH."
+  tags: []
+"Za11,14":
+  text: "Potem złamałem swoją drugą laskę, „Jedność”, aby zerwać braterstwo między Judą i między Izraelem."
+  tags: []
+"Za11,15":
+  text: "I JHWH powiedział jeszcze do mnie: Weź sobie narzędzie nierozumnego pasterza."
+  tags: []
+"Za11,16":
+  text: "Bo oto ja wzbudzę pasterza w tej ziemi, który nie będzie troszczył się o zaginione, nie będzie szukał młodej, nie będzie leczył okaleczonej, a stojącej nie będzie wspierał. Zje mięso tłustej, a kopyta ich zetrze."
+  tags: []
+"Za11,17":
+  text: "Biada pasterzowi nieużytecznemu, który opuszcza owce! Niech spadnie miecz na jego ramię i na jego prawe oko. Jego ramię całkiem uschnie, a jego prawe oko całkiem osłabnie."
+  tags: []

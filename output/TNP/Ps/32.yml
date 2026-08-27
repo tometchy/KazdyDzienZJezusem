@@ -1,11 +1,33 @@
-"Ps32,1": "Dawidowy. Pieśń pouczająca. Błogosławiony ten, któremu przebaczono występek, komu zakryto grzech!"
-"Ps32,2": "Błogosławiony człowiek, któremu JHWH nie zalicza nieprawości, a w jego duchu nie ma podstępu."
-"Ps32,3": "Gdy milczałem, zużyły się moje kości od jęczenia każdego dnia."
-"Ps32,4": "Bo we dnie i w nocy ciążyła na mnie Twoja ręka, moja soczystość zmieniła się w upałach lata. Sela."
-"Ps32,5": "Ujawniłem Ci mój grzech i nie ukryłem mojej nieprawości. Powiedziałem: Wyznam moje występki JHWH, a wtedy Ty przebaczyłeś nieprawość mojego grzechu. Sela."
-"Ps32,6": "Dlatego do Ciebie będzie się modlił każdy pobożny w czasie, gdy można Cię znaleźć; w czasie powodzi największych wód, one na pewno go nie dosięgną."
-"Ps32,7": "Ty jesteś moim schronieniem, zachowasz mnie od ucisku; otaczasz mnie okrzykiem wybawienia. Sela."
-"Ps32,8": "Pouczę cię i wskażę ci drogę, którą masz iść, dam ci radę, na tobie spocznie moje oko."
-"Ps32,9": "Nie bądźcie nierozumni jak koń czy jak muł, których pyski trzeba powstrzymać uzdą i wędzidłem, aby się do ciebie nie zbliżały."
-"Ps32,10": "Wiele cierpień spada na niegodziwego, lecz ufającego JHWH otoczy miłosierdzie."
-"Ps32,11": "Weselcie się w JHWH i radujcie się sprawiedliwi, wykrzykujcie z radości, wszyscy prawego serca."
+"Ps32,1":
+  text: "Dawidowy. Pieśń pouczająca. Błogosławiony ten, któremu przebaczono występek, komu zakryto grzech!"
+  tags: []
+"Ps32,2":
+  text: "Błogosławiony człowiek, któremu JHWH nie zalicza nieprawości, a w jego duchu nie ma podstępu."
+  tags: []
+"Ps32,3":
+  text: "Gdy milczałem, zużyły się moje kości od jęczenia każdego dnia."
+  tags: []
+"Ps32,4":
+  text: "Bo we dnie i w nocy ciążyła na mnie Twoja ręka, moja soczystość zmieniła się w upałach lata. Sela."
+  tags: []
+"Ps32,5":
+  text: "Ujawniłem Ci mój grzech i nie ukryłem mojej nieprawości. Powiedziałem: Wyznam moje występki JHWH, a wtedy Ty przebaczyłeś nieprawość mojego grzechu. Sela."
+  tags: []
+"Ps32,6":
+  text: "Dlatego do Ciebie będzie się modlił każdy pobożny w czasie, gdy można Cię znaleźć; w czasie powodzi największych wód, one na pewno go nie dosięgną."
+  tags: []
+"Ps32,7":
+  text: "Ty jesteś moim schronieniem, zachowasz mnie od ucisku; otaczasz mnie okrzykiem wybawienia. Sela."
+  tags: []
+"Ps32,8":
+  text: "Pouczę cię i wskażę ci drogę, którą masz iść, dam ci radę, na tobie spocznie moje oko."
+  tags: []
+"Ps32,9":
+  text: "Nie bądźcie nierozumni jak koń czy jak muł, których pyski trzeba powstrzymać uzdą i wędzidłem, aby się do ciebie nie zbliżały."
+  tags: []
+"Ps32,10":
+  text: "Wiele cierpień spada na niegodziwego, lecz ufającego JHWH otoczy miłosierdzie."
+  tags: []
+"Ps32,11":
+  text: "Weselcie się w JHWH i radujcie się sprawiedliwi, wykrzykujcie z radości, wszyscy prawego serca."
+  tags: []

@@ -1,28 +1,84 @@
-"Dz14,1": "A w Ikonium stało się tak samo: weszli do synagogi żydowskiej i przemawiali tak, że uwierzyła wielka rzesza Żydów i Greków."
-"Dz14,2": "Jednak ci Żydzi, którzy nie okazali posłuszeństwa, podburzyli i źle usposobili dusze pogan przeciwko braciom."
-"Dz14,3": "Przebywali tam więc przez dłuższy czas, śmiało mówiąc dzięki Panu, który poświadczał słowo swojej łaski i sprawiał, że przez ich ręce działy się znaki i cuda."
-"Dz14,4": "Jednak ludność miasta została rozdarta, jedni wprawdzie byli z Żydami, a drudzy z apostołami."
-"Dz14,5": "Gdy więc nastał tumult, poganie i Żydzi ze swoimi przełożonymi chcieli ich znieważyć i ukamienować,"
-"Dz14,6": "Świadomi tego, uszli do miast Likaonii – do Listry i do Derbe oraz okolicy,"
-"Dz14,7": "I tam głosili Ewangelię."
-"Dz14,8": "A był pewien mąż w Listrze, o bezwładnych nogach, który siedział, bo był chromy już w łonie swojej matki i nigdy nie chodził."
-"Dz14,9": "Ten słuchał przemawiającego Pawła, który patrząc uważnie na niego, i widząc, że ma wiarę, by zostać uzdrowionym,"
-"Dz14,10": "Powiedział potężnym głosem: Stań prosto na swoje nogi! A on poderwał się i zaczął chodzić."
-"Dz14,11": "A tłumy, widząc, co uczynił Paweł, podniosły swój głos, mówiąc po likaońsku: Bogowie stali się podobni ludziom i zstąpili do nas."
-"Dz14,12": "Tak więc zaczęli nazywać Barnabę Zeusem, a Pawła Hermesem, ponieważ on przewodził w mowie."
-"Dz14,13": "A kapłan Zeusa, ze świątyni będącej przed ich miastem, przyprowadził do bram woły z wieńcami i chciał wraz z ludem złożyć im ofiarę."
-"Dz14,14": "Słysząc to apostołowie Barnaba i Paweł, rozdarli swoje szaty i wpadli w tłum, krzycząc i wołając:"
-"Dz14,15": "Ludzie! Dlaczego to czynicie? I my jesteśmy ludźmi, poddani tym samym doznaniom co wy, głoszącymi wam dobrą nowinę, abyście odwrócili się od tych marności do Boga żywego, który uczynił niebo i ziemię, i morze, i wszystko, co w nich jest;"
-"Dz14,16": "Który w minionych pokoleniach dopuścił wszystkim poganom chodzić swoimi drogami,"
-"Dz14,17": "Jednakże w żadnym razie nie przestawał dawać o sobie świadectwa, czyniąc dobro, dając nam z nieba deszcze i czasy urodzajne, napełniając pokarmem i radością nasze serca."
-"Dz14,18": "A to mówiąc, z trudem uspokoili tłumy, aby nie złożyli im ofiary."
-"Dz14,19": "Przybyli jednak z Antiochii i z Ikonium Żydzi, którzy przekonali tłumy, i ukamienowali Pawła, i wywlekli go na zewnątrz miasta sądząc, że umarł."
-"Dz14,20": "Lecz gdy otoczyli go uczniowie, wstał i wszedł do miasta, a następnego dnia odszedł z Barnabą do Derbe."
-"Dz14,21": "I po ogłoszeniu dobrej nowiny temu miastu i pozyskaniu znacznego grona uczniów, wrócili do Listry i do Ikonium, i do Antiochii,"
-"Dz14,22": "Utwierdzając dusze uczniów i zachęcając, aby trwali w wierze, mówiąc, że przez wiele ucisków trzeba nam wejść do Królestwa Bożego."
-"Dz14,23": "A gdy im w każdym zborze ustanowili starszych w modlitwie z postem, powierzyli ich Panu, w którego uwierzyli."
-"Dz14,24": "I gdy przeszli Pizydię, przybyli do Pamfilii."
-"Dz14,25": "A gdy opowiedzieli Słowo w Perge, zeszli do Atalii."
-"Dz14,26": "I stamtąd odpłynęli do Antiochii, gdzie zostali oddani łasce Bożej ku temu dziełu, które wypełnili."
-"Dz14,27": "A gdy tam przybyli i zgromadzili zbór, oznajmili, jak wiele Bóg przez nich uczynił, i że otworzył poganom drzwi wiary."
-"Dz14,28": "I spędzili tam niemały czas z uczniami."
+"Dz14,1":
+  text: "A w Ikonium stało się tak samo: weszli do synagogi żydowskiej i przemawiali tak, że uwierzyła wielka rzesza Żydów i Greków."
+  tags: []
+"Dz14,2":
+  text: "Jednak ci Żydzi, którzy nie okazali posłuszeństwa, podburzyli i źle usposobili dusze pogan przeciwko braciom."
+  tags: []
+"Dz14,3":
+  text: "Przebywali tam więc przez dłuższy czas, śmiało mówiąc dzięki Panu, który poświadczał słowo swojej łaski i sprawiał, że przez ich ręce działy się znaki i cuda."
+  tags: []
+"Dz14,4":
+  text: "Jednak ludność miasta została rozdarta, jedni wprawdzie byli z Żydami, a drudzy z apostołami."
+  tags: []
+"Dz14,5":
+  text: "Gdy więc nastał tumult, poganie i Żydzi ze swoimi przełożonymi chcieli ich znieważyć i ukamienować,"
+  tags: []
+"Dz14,6":
+  text: "Świadomi tego, uszli do miast Likaonii – do Listry i do Derbe oraz okolicy,"
+  tags: []
+"Dz14,7":
+  text: "I tam głosili Ewangelię."
+  tags: []
+"Dz14,8":
+  text: "A był pewien mąż w Listrze, o bezwładnych nogach, który siedział, bo był chromy już w łonie swojej matki i nigdy nie chodził."
+  tags: []
+"Dz14,9":
+  text: "Ten słuchał przemawiającego Pawła, który patrząc uważnie na niego, i widząc, że ma wiarę, by zostać uzdrowionym,"
+  tags: []
+"Dz14,10":
+  text: "Powiedział potężnym głosem: Stań prosto na swoje nogi! A on poderwał się i zaczął chodzić."
+  tags: []
+"Dz14,11":
+  text: "A tłumy, widząc, co uczynił Paweł, podniosły swój głos, mówiąc po likaońsku: Bogowie stali się podobni ludziom i zstąpili do nas."
+  tags: []
+"Dz14,12":
+  text: "Tak więc zaczęli nazywać Barnabę Zeusem, a Pawła Hermesem, ponieważ on przewodził w mowie."
+  tags: []
+"Dz14,13":
+  text: "A kapłan Zeusa, ze świątyni będącej przed ich miastem, przyprowadził do bram woły z wieńcami i chciał wraz z ludem złożyć im ofiarę."
+  tags: []
+"Dz14,14":
+  text: "Słysząc to apostołowie Barnaba i Paweł, rozdarli swoje szaty i wpadli w tłum, krzycząc i wołając:"
+  tags: []
+"Dz14,15":
+  text: "Ludzie! Dlaczego to czynicie? I my jesteśmy ludźmi, poddani tym samym doznaniom co wy, głoszącymi wam dobrą nowinę, abyście odwrócili się od tych marności do Boga żywego, który uczynił niebo i ziemię, i morze, i wszystko, co w nich jest;"
+  tags: []
+"Dz14,16":
+  text: "Który w minionych pokoleniach dopuścił wszystkim poganom chodzić swoimi drogami,"
+  tags: []
+"Dz14,17":
+  text: "Jednakże w żadnym razie nie przestawał dawać o sobie świadectwa, czyniąc dobro, dając nam z nieba deszcze i czasy urodzajne, napełniając pokarmem i radością nasze serca."
+  tags: []
+"Dz14,18":
+  text: "A to mówiąc, z trudem uspokoili tłumy, aby nie złożyli im ofiary."
+  tags: []
+"Dz14,19":
+  text: "Przybyli jednak z Antiochii i z Ikonium Żydzi, którzy przekonali tłumy, i ukamienowali Pawła, i wywlekli go na zewnątrz miasta sądząc, że umarł."
+  tags: []
+"Dz14,20":
+  text: "Lecz gdy otoczyli go uczniowie, wstał i wszedł do miasta, a następnego dnia odszedł z Barnabą do Derbe."
+  tags: []
+"Dz14,21":
+  text: "I po ogłoszeniu dobrej nowiny temu miastu i pozyskaniu znacznego grona uczniów, wrócili do Listry i do Ikonium, i do Antiochii,"
+  tags: []
+"Dz14,22":
+  text: "Utwierdzając dusze uczniów i zachęcając, aby trwali w wierze, mówiąc, że przez wiele ucisków trzeba nam wejść do Królestwa Bożego."
+  tags: []
+"Dz14,23":
+  text: "A gdy im w każdym zborze ustanowili starszych w modlitwie z postem, powierzyli ich Panu, w którego uwierzyli."
+  tags: []
+"Dz14,24":
+  text: "I gdy przeszli Pizydię, przybyli do Pamfilii."
+  tags: []
+"Dz14,25":
+  text: "A gdy opowiedzieli Słowo w Perge, zeszli do Atalii."
+  tags: []
+"Dz14,26":
+  text: "I stamtąd odpłynęli do Antiochii, gdzie zostali oddani łasce Bożej ku temu dziełu, które wypełnili."
+  tags: []
+"Dz14,27":
+  text: "A gdy tam przybyli i zgromadzili zbór, oznajmili, jak wiele Bóg przez nich uczynił, i że otworzył poganom drzwi wiary."
+  tags: []
+"Dz14,28":
+  text: "I spędzili tam niemały czas z uczniami."
+  tags: []

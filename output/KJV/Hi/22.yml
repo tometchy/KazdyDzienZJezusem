@@ -1,30 +1,90 @@
-"Hi22,1": "Then Eliphaz the Temanite answered and said,"
-"Hi22,2": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?"
-"Hi22,3": "[Is it] any pleasure to the Almighty, that thou art righteous? or [is it] gain [to him], that thou makest thy ways perfect?"
-"Hi22,4": "Will he reprove thee for fear of thee? will he enter with thee into judgment?"
-"Hi22,5": "[Is] not thy wickedness great? and thine iniquities infinite?"
-"Hi22,6": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing."
-"Hi22,7": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry."
-"Hi22,8": "But [as for] the mighty man, he had the earth; and the honourable man dwelt in it."
-"Hi22,9": "Thou hast sent widows away empty, and the arms of the fatherless have been broken."
-"Hi22,10": "Therefore snares [are] round about thee, and sudden fear troubleth thee;"
-"Hi22,11": "Or darkness, [that] thou canst not see; and abundance of waters cover thee."
-"Hi22,12": "[Is] not God in the height of heaven? and behold the height of the stars, how high they are!"
-"Hi22,13": "And thou sayest, How doth God know? can he judge through the dark cloud?"
-"Hi22,14": "Thick clouds [are] a covering to him, that he seeth not; and he walketh in the circuit of heaven."
-"Hi22,15": "Hast thou marked the old way which wicked men have trodden?"
-"Hi22,16": "Which were cut down out of time, whose foundation was overflown with a flood:"
-"Hi22,17": "Which said unto God, Depart from us: and what can the Almighty do for them?"
-"Hi22,18": "Yet he filled their houses with good [things]: but the counsel of the wicked is far from me."
-"Hi22,19": "The righteous see [it], and are glad: and the innocent laugh them to scorn."
-"Hi22,20": "Whereas our substance is not cut down, but the remnant of them the fire consumeth."
-"Hi22,21": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee."
-"Hi22,22": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart."
-"Hi22,23": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles."
-"Hi22,24": "Then shalt thou lay up gold as dust, and the [gold] of Ophir as the stones of the brooks."
-"Hi22,25": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver."
-"Hi22,26": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God."
-"Hi22,27": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows."
-"Hi22,28": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways."
-"Hi22,29": "When [men] are cast down, then thou shalt say, [There is] lifting up; and he shall save the humble person."
-"Hi22,30": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands."
+"Hi22,1":
+  text: "Then Eliphaz the Temanite answered and said,"
+  tags: []
+"Hi22,2":
+  text: "Can a man be profitable unto God, as he that is wise may be profitable unto himself?"
+  tags: []
+"Hi22,3":
+  text: "[Is it] any pleasure to the Almighty, that thou art righteous? or [is it] gain [to him], that thou makest thy ways perfect?"
+  tags: []
+"Hi22,4":
+  text: "Will he reprove thee for fear of thee? will he enter with thee into judgment?"
+  tags: []
+"Hi22,5":
+  text: "[Is] not thy wickedness great? and thine iniquities infinite?"
+  tags: []
+"Hi22,6":
+  text: "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing."
+  tags: []
+"Hi22,7":
+  text: "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry."
+  tags: []
+"Hi22,8":
+  text: "But [as for] the mighty man, he had the earth; and the honourable man dwelt in it."
+  tags: []
+"Hi22,9":
+  text: "Thou hast sent widows away empty, and the arms of the fatherless have been broken."
+  tags: []
+"Hi22,10":
+  text: "Therefore snares [are] round about thee, and sudden fear troubleth thee;"
+  tags: []
+"Hi22,11":
+  text: "Or darkness, [that] thou canst not see; and abundance of waters cover thee."
+  tags: []
+"Hi22,12":
+  text: "[Is] not God in the height of heaven? and behold the height of the stars, how high they are!"
+  tags: []
+"Hi22,13":
+  text: "And thou sayest, How doth God know? can he judge through the dark cloud?"
+  tags: []
+"Hi22,14":
+  text: "Thick clouds [are] a covering to him, that he seeth not; and he walketh in the circuit of heaven."
+  tags: []
+"Hi22,15":
+  text: "Hast thou marked the old way which wicked men have trodden?"
+  tags: []
+"Hi22,16":
+  text: "Which were cut down out of time, whose foundation was overflown with a flood:"
+  tags: []
+"Hi22,17":
+  text: "Which said unto God, Depart from us: and what can the Almighty do for them?"
+  tags: []
+"Hi22,18":
+  text: "Yet he filled their houses with good [things]: but the counsel of the wicked is far from me."
+  tags: []
+"Hi22,19":
+  text: "The righteous see [it], and are glad: and the innocent laugh them to scorn."
+  tags: []
+"Hi22,20":
+  text: "Whereas our substance is not cut down, but the remnant of them the fire consumeth."
+  tags: []
+"Hi22,21":
+  text: "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee."
+  tags: []
+"Hi22,22":
+  text: "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart."
+  tags: []
+"Hi22,23":
+  text: "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles."
+  tags: []
+"Hi22,24":
+  text: "Then shalt thou lay up gold as dust, and the [gold] of Ophir as the stones of the brooks."
+  tags: []
+"Hi22,25":
+  text: "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver."
+  tags: []
+"Hi22,26":
+  text: "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God."
+  tags: []
+"Hi22,27":
+  text: "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows."
+  tags: []
+"Hi22,28":
+  text: "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways."
+  tags: []
+"Hi22,29":
+  text: "When [men] are cast down, then thou shalt say, [There is] lifting up; and he shall save the humble person."
+  tags: []
+"Hi22,30":
+  text: "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands."
+  tags: []

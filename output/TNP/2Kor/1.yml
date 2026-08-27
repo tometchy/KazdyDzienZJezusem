@@ -1,24 +1,72 @@
-"2Kor1,1": "Paweł, apostoł Jezusa Chrystusa z woli Boga, i Tymoteusz brat, zborowi Boga, który jest w Koryncie, razem ze wszystkimi świętymi, którzy są w całej Achai,"
-"2Kor1,2": "Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa."
-"2Kor1,3": "Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy,"
-"2Kor1,4": "On pociesza nas we wszelkim naszym ucisku, abyśmy również mogli pocieszać tych, którzy są we wszelkim ucisku, poprzez tę pociechę, którą sami jesteśmy przez Boga pocieszani."
-"2Kor1,5": "Gdyż tak jak obfitują względem nas cierpienia Chrystusa, tak przez Chrystusa obfituje i nasze pocieszenie."
-"2Kor1,6": "A jeśli jesteśmy uciskani, to dla waszego pocieszenia i zbawienia, skutecznie działającego w wytrwałości w tych cierpieniach, które i my znosimy; czy to, gdy jesteśmy pocieszani, to dla waszego pocieszenia i zbawienia;"
-"2Kor1,7": "A nadzieja nasza co do was jest mocna, ponieważ wiemy, że jak jesteście uczestnikami cierpień, tak i pocieszenia."
-"2Kor1,8": "Bo nie chcemy, abyście nie wiedzieli, bracia, o naszym ucisku, który nas spotkał w Azji, że ponad miarę i ponad naszą siłę byliśmy obciążeni, tak że zaczęliśmy wątpić i o życiu,"
-"2Kor1,9": "Co więcej, sami w sobie mieliśmy wyrok śmierci, abyśmy nie na sobie samych polegali, ale na Bogu, który wzbudza umarłych;"
-"2Kor1,10": "Który wyrwał nas z tak wielkiej śmierci i wyrywa, w którym pokładamy nadzieję, że i nadal będzie wyrywał;"
-"2Kor1,11": "Przy współudziale waszych modlitw za nas, aby z wielu wzniesionych twarzy zostało złożone za nas dziękczynienie – za ten okazany nam dar łaski dla wielu."
-"2Kor1,12": "To bowiem jest naszą chlubą – świadectwo naszego sumienia, że żyliśmy na tym świecie w prostocie, w szczerości Boga, nie w cielesnej mądrości, lecz w łasce Boga, a tym obficiej u was."
-"2Kor1,13": "Albowiem nie piszemy wam nic innego, tylko to, co czytacie i co poznajecie, a mam nadzieję, że i do końca poznacie,"
-"2Kor1,14": "Tak jak po części nas poznaliście, że jesteśmy waszą chlubą, tak jak i wy naszą w dniu Pana Jezusa."
-"2Kor1,15": "I z tą ufnością chciałem już wcześniej przyjść do was, abyście po raz drugi otrzymali łaskę;"
-"2Kor1,16": "A od was przejść do Macedonii, a z Macedonii ponownie przyjść do was, abyście wy mnie wyprawili do Judei."
-"2Kor1,17": "To więc postanawiając, czy wykazałem się jakąś lekkomyślnością? Albo czy to, co postanawiam, według ciała postanawiam? Aby było u mnie „tak, tak” i równocześnie „nie, nie”?"
-"2Kor1,18": "A jak wierny jest Bóg, tak słowo nasze do was nie było równocześnie „tak” i „nie”."
-"2Kor1,19": "Bo Syn Boży, Jezus Chrystus, który przez nas wśród was został ogłoszony, przeze mnie i Sylwana, i Tymoteusza, nie był równocześnie „tak” i „nie”; lecz w Nim było „tak”."
-"2Kor1,20": "Bo ile było obietnic Boga, w Nim mają swoje „tak”, i w Nim są „amen”, na chwałę Bogu przez nas."
-"2Kor1,21": "A Tym, który nas utwierdza razem z wami w Chrystusie i który nas namaścił, jest Bóg;"
-"2Kor1,22": "Który też położył na nas pieczęć i dał zadatek Ducha w nasze serca."
-"2Kor1,23": "A ja przywołuję Boga na świadka mojej duszy, że aby was oszczędzać nie przybyłem do Koryntu,"
-"2Kor1,24": "Nie żebyśmy panowali nad waszą wiarą, ale jesteśmy współpracownikami dla waszej radości; albowiem wiarą stoicie."
+"2Kor1,1":
+  text: "Paweł, apostoł Jezusa Chrystusa z woli Boga, i Tymoteusz brat, zborowi Boga, który jest w Koryncie, razem ze wszystkimi świętymi, którzy są w całej Achai,"
+  tags: []
+"2Kor1,2":
+  text: "Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa."
+  tags: []
+"2Kor1,3":
+  text: "Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy,"
+  tags: []
+"2Kor1,4":
+  text: "On pociesza nas we wszelkim naszym ucisku, abyśmy również mogli pocieszać tych, którzy są we wszelkim ucisku, poprzez tę pociechę, którą sami jesteśmy przez Boga pocieszani."
+  tags: []
+"2Kor1,5":
+  text: "Gdyż tak jak obfitują względem nas cierpienia Chrystusa, tak przez Chrystusa obfituje i nasze pocieszenie."
+  tags: []
+"2Kor1,6":
+  text: "A jeśli jesteśmy uciskani, to dla waszego pocieszenia i zbawienia, skutecznie działającego w wytrwałości w tych cierpieniach, które i my znosimy; czy to, gdy jesteśmy pocieszani, to dla waszego pocieszenia i zbawienia;"
+  tags: []
+"2Kor1,7":
+  text: "A nadzieja nasza co do was jest mocna, ponieważ wiemy, że jak jesteście uczestnikami cierpień, tak i pocieszenia."
+  tags: []
+"2Kor1,8":
+  text: "Bo nie chcemy, abyście nie wiedzieli, bracia, o naszym ucisku, który nas spotkał w Azji, że ponad miarę i ponad naszą siłę byliśmy obciążeni, tak że zaczęliśmy wątpić i o życiu,"
+  tags: []
+"2Kor1,9":
+  text: "Co więcej, sami w sobie mieliśmy wyrok śmierci, abyśmy nie na sobie samych polegali, ale na Bogu, który wzbudza umarłych;"
+  tags: []
+"2Kor1,10":
+  text: "Który wyrwał nas z tak wielkiej śmierci i wyrywa, w którym pokładamy nadzieję, że i nadal będzie wyrywał;"
+  tags: []
+"2Kor1,11":
+  text: "Przy współudziale waszych modlitw za nas, aby z wielu wzniesionych twarzy zostało złożone za nas dziękczynienie – za ten okazany nam dar łaski dla wielu."
+  tags: []
+"2Kor1,12":
+  text: "To bowiem jest naszą chlubą – świadectwo naszego sumienia, że żyliśmy na tym świecie w prostocie, w szczerości Boga, nie w cielesnej mądrości, lecz w łasce Boga, a tym obficiej u was."
+  tags: []
+"2Kor1,13":
+  text: "Albowiem nie piszemy wam nic innego, tylko to, co czytacie i co poznajecie, a mam nadzieję, że i do końca poznacie,"
+  tags: []
+"2Kor1,14":
+  text: "Tak jak po części nas poznaliście, że jesteśmy waszą chlubą, tak jak i wy naszą w dniu Pana Jezusa."
+  tags: []
+"2Kor1,15":
+  text: "I z tą ufnością chciałem już wcześniej przyjść do was, abyście po raz drugi otrzymali łaskę;"
+  tags: []
+"2Kor1,16":
+  text: "A od was przejść do Macedonii, a z Macedonii ponownie przyjść do was, abyście wy mnie wyprawili do Judei."
+  tags: []
+"2Kor1,17":
+  text: "To więc postanawiając, czy wykazałem się jakąś lekkomyślnością? Albo czy to, co postanawiam, według ciała postanawiam? Aby było u mnie „tak, tak” i równocześnie „nie, nie”?"
+  tags: []
+"2Kor1,18":
+  text: "A jak wierny jest Bóg, tak słowo nasze do was nie było równocześnie „tak” i „nie”."
+  tags: []
+"2Kor1,19":
+  text: "Bo Syn Boży, Jezus Chrystus, który przez nas wśród was został ogłoszony, przeze mnie i Sylwana, i Tymoteusza, nie był równocześnie „tak” i „nie”; lecz w Nim było „tak”."
+  tags: []
+"2Kor1,20":
+  text: "Bo ile było obietnic Boga, w Nim mają swoje „tak”, i w Nim są „amen”, na chwałę Bogu przez nas."
+  tags: []
+"2Kor1,21":
+  text: "A Tym, który nas utwierdza razem z wami w Chrystusie i który nas namaścił, jest Bóg;"
+  tags: []
+"2Kor1,22":
+  text: "Który też położył na nas pieczęć i dał zadatek Ducha w nasze serca."
+  tags: []
+"2Kor1,23":
+  text: "A ja przywołuję Boga na świadka mojej duszy, że aby was oszczędzać nie przybyłem do Koryntu,"
+  tags: []
+"2Kor1,24":
+  text: "Nie żebyśmy panowali nad waszą wiarą, ale jesteśmy współpracownikami dla waszej radości; albowiem wiarą stoicie."
+  tags: []

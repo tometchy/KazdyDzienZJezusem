@@ -1,23 +1,69 @@
-"Oz2,1": "Mówcie swoim braciom: Ammi, i swoim siostrom, Ruchama!"
-"Oz2,2": "Spierajcie się z waszą matką, spierajcie się, bo ona nie jest moją żoną, a ja też nie jestem jej mężem. Niech usunie swoje czyny nierządu sprzed swego oblicza, a swoje cudzołóstwa spośród swoich piersi;"
-"Oz2,3": "W przeciwnym razie rozbiorę ją do naga i wystawię taką, jaka była w dniu swego narodzenia; uczynię ją podobną do pustyni, zostawię ją jak suchą ziemię i uśmiercę ją pragnieniem."
-"Oz2,4": "Nie zlituję się nad jej dziećmi, gdyż są dziećmi nierządu."
-"Oz2,5": "Ich matka bowiem uprawiała nierząd, bezwstydnie postępowała ich rodzicielka. Mówiła bowiem: Pójdę za moimi kochankami, którzy dają mi mój chleb i moją wodę, moją wełnę i mój len, moją oliwę i moje napoje."
-"Oz2,6": "Dlatego oto zagrodzę jej drogę cierniami i otoczę murem, aby nie mogła znaleźć swoich ścieżek."
-"Oz2,7": "Wtedy będzie biegać za swymi kochankami, lecz ich nie dogoni; będzie ich szukać, ale nie znajdzie. Potem powie: Pójdę i wrócę do swego pierwszego męża, bo lepiej mi było wtedy niż teraz."
-"Oz2,8": "Ona bowiem nie wie, że to ja dawałem jej zboże, moszcz i oliwę, że dawałem jej obfitość srebra i złota, których oni używali dla Baala."
-"Oz2,9": "Dlatego wrócę i zabiorę moje zboże w swoim czasie, mój moszcz w swoim czasie, odbiorę jej moją wełnę i mój len, który dałem na okrywanie jej nagości."
-"Oz2,10": "A teraz odkryję jej bezwstydność na oczach jej kochanków i nikt jej nie wyrwie z mojej ręki."
-"Oz2,11": "I położę kres całej jej radości, jej świętom, jej nowiom, jej szabatom i wszystkim jej uroczystym świętom."
-"Oz2,12": "Zniszczę też jej winorośle i drzewa figowe, o których mówiła: Oto moja zapłata, którą mi dali moi kochankowie. I zamienię je w lasy, które pożrą polne zwierzęta."
-"Oz2,13": "I ukarzę ją za te dni Baalów, gdy im paliła kadzidło, stroiła się w swoje kolczyki i klejnoty i chodziła za swymi kochankami, a o mnie zapomniała, mówi PAN."
-"Oz2,14": "Dlatego oto zwabię ją, zaprowadzę na pustynię i będę mówić do niej łaskawie;"
-"Oz2,15": "I dam jej winnice z tego miejsca i dolinę Akor jako wrota nadziei. Ona będzie tam śpiewała jak za dni swej młodości, jak w dniu, kiedy wyszła z ziemi Egiptu."
-"Oz2,16": "W tym dniu, mówi PAN, będziesz mnie nazywać Iszi – mój mężu, a nie będziesz mnie już nazywała Baal – mój panie!"
-"Oz2,17": "Usunę bowiem z twoich ust imiona Baalów i ich imiona nie będą już wspomniane."
-"Oz2,18": "W tym dniu zawrę dla ciebie przymierze z polnymi zwierzętami, z ptactwem nieba i z tym, co pełza po ziemi. Pokruszę łuk i miecz, wojnę z ziemi usunę i sprawię, że będą mieszkać bezpiecznie."
-"Oz2,19": "I poślubię cię sobie na wieki; poślubię cię sobie w sprawiedliwości, w sądzie, w miłosierdziu i w litości."
-"Oz2,20": "Poślubię cię też sobie w wierności i poznasz PANA."
-"Oz2,21": "W tym dniu wysłucham, mówi PAN, wysłucham niebios, a one wysłuchają ziemi;"
-"Oz2,22": "Ziemia wysłucha zboża, moszczu i oliwy, a te rzeczy wysłuchają Jizreel."
-"Oz2,23": "Zasieję go sobie na ziemi i zlituję się nad tym, który nie dostąpił miłosierdzia, i powiem do tego, który nie był moim ludem: Ty jesteś moim ludem! A on powie: Ty jesteś moim Bogiem."
+"Oz2,1":
+  text: "Mówcie swoim braciom: Ammi, i swoim siostrom, Ruchama!"
+  tags: []
+"Oz2,2":
+  text: "Spierajcie się z waszą matką, spierajcie się, bo ona nie jest moją żoną, a ja też nie jestem jej mężem. Niech usunie swoje czyny nierządu sprzed swego oblicza, a swoje cudzołóstwa spośród swoich piersi;"
+  tags: []
+"Oz2,3":
+  text: "W przeciwnym razie rozbiorę ją do naga i wystawię taką, jaka była w dniu swego narodzenia; uczynię ją podobną do pustyni, zostawię ją jak suchą ziemię i uśmiercę ją pragnieniem."
+  tags: []
+"Oz2,4":
+  text: "Nie zlituję się nad jej dziećmi, gdyż są dziećmi nierządu."
+  tags: []
+"Oz2,5":
+  text: "Ich matka bowiem uprawiała nierząd, bezwstydnie postępowała ich rodzicielka. Mówiła bowiem: Pójdę za moimi kochankami, którzy dają mi mój chleb i moją wodę, moją wełnę i mój len, moją oliwę i moje napoje."
+  tags: []
+"Oz2,6":
+  text: "Dlatego oto zagrodzę jej drogę cierniami i otoczę murem, aby nie mogła znaleźć swoich ścieżek."
+  tags: []
+"Oz2,7":
+  text: "Wtedy będzie biegać za swymi kochankami, lecz ich nie dogoni; będzie ich szukać, ale nie znajdzie. Potem powie: Pójdę i wrócę do swego pierwszego męża, bo lepiej mi było wtedy niż teraz."
+  tags: []
+"Oz2,8":
+  text: "Ona bowiem nie wie, że to ja dawałem jej zboże, moszcz i oliwę, że dawałem jej obfitość srebra i złota, których oni używali dla Baala."
+  tags: []
+"Oz2,9":
+  text: "Dlatego wrócę i zabiorę moje zboże w swoim czasie, mój moszcz w swoim czasie, odbiorę jej moją wełnę i mój len, który dałem na okrywanie jej nagości."
+  tags: []
+"Oz2,10":
+  text: "A teraz odkryję jej bezwstydność na oczach jej kochanków i nikt jej nie wyrwie z mojej ręki."
+  tags: []
+"Oz2,11":
+  text: "I położę kres całej jej radości, jej świętom, jej nowiom, jej szabatom i wszystkim jej uroczystym świętom."
+  tags: []
+"Oz2,12":
+  text: "Zniszczę też jej winorośle i drzewa figowe, o których mówiła: Oto moja zapłata, którą mi dali moi kochankowie. I zamienię je w lasy, które pożrą polne zwierzęta."
+  tags: []
+"Oz2,13":
+  text: "I ukarzę ją za te dni Baalów, gdy im paliła kadzidło, stroiła się w swoje kolczyki i klejnoty i chodziła za swymi kochankami, a o mnie zapomniała, mówi PAN."
+  tags: []
+"Oz2,14":
+  text: "Dlatego oto zwabię ją, zaprowadzę na pustynię i będę mówić do niej łaskawie;"
+  tags: []
+"Oz2,15":
+  text: "I dam jej winnice z tego miejsca i dolinę Akor jako wrota nadziei. Ona będzie tam śpiewała jak za dni swej młodości, jak w dniu, kiedy wyszła z ziemi Egiptu."
+  tags: []
+"Oz2,16":
+  text: "W tym dniu, mówi PAN, będziesz mnie nazywać Iszi – mój mężu, a nie będziesz mnie już nazywała Baal – mój panie!"
+  tags: []
+"Oz2,17":
+  text: "Usunę bowiem z twoich ust imiona Baalów i ich imiona nie będą już wspomniane."
+  tags: []
+"Oz2,18":
+  text: "W tym dniu zawrę dla ciebie przymierze z polnymi zwierzętami, z ptactwem nieba i z tym, co pełza po ziemi. Pokruszę łuk i miecz, wojnę z ziemi usunę i sprawię, że będą mieszkać bezpiecznie."
+  tags: []
+"Oz2,19":
+  text: "I poślubię cię sobie na wieki; poślubię cię sobie w sprawiedliwości, w sądzie, w miłosierdziu i w litości."
+  tags: []
+"Oz2,20":
+  text: "Poślubię cię też sobie w wierności i poznasz PANA."
+  tags: []
+"Oz2,21":
+  text: "W tym dniu wysłucham, mówi PAN, wysłucham niebios, a one wysłuchają ziemi;"
+  tags: []
+"Oz2,22":
+  text: "Ziemia wysłucha zboża, moszczu i oliwy, a te rzeczy wysłuchają Jizreel."
+  tags: []
+"Oz2,23":
+  text: "Zasieję go sobie na ziemi i zlituję się nad tym, który nie dostąpił miłosierdzia, i powiem do tego, który nie był moim ludem: Ty jesteś moim ludem! A on powie: Ty jesteś moim Bogiem."
+  tags: []

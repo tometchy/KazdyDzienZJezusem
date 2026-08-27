@@ -1,30 +1,90 @@
-"Hi6,1": "Wtedy odpowiedział Hiob i rzekł:"
-"Hi6,2": "O, gdyby tylko dokładnie zważono moją udrękę i razem położono na szali moje nieszczęście!"
-"Hi6,3": "Bo teraz jest to cięższe niż piasek mórz. Dlatego też moje słowa plączą się."
-"Hi6,4": "Tak, strzały Wszechmogącego tkwią we mnie, mój duch pije ich jad, a przerażające rzeczy Boże szykiem nacierają na mnie."
-"Hi6,5": "Czy dziki osioł rży, gdy ma trawę? Czy wół ryczy nad swoją paszą?"
-"Hi6,6": "Czy można jeść niesmaczną potrawę bez soli? Czy jest jakiś smak w zawiesinie portulaki?"
-"Hi6,7": "Czego moja dusza odmawiała dotknąć, to teraz jest jak ohydny pokarm dla mnie."
-"Hi6,8": "Kto sprawi, że spełni się moja prośba? I oby Bóg dał mi nadzieję!"
-"Hi6,9": "Oby Bóg zdecydował i zmiażdżył mnie, oby uwolnił swoją rękę i odciął mnie!"
-"Hi6,10": "I to wciąż byłoby moją pociechą i cieszyłbym się w nieustającym bólu, bo nie ukryłem słów Świętego."
-"Hi6,11": "Skąd wezmę moją siłę, by jeszcze mieć nadzieję? I jaki jest mój kres, bym przedłużał moje życie?"
-"Hi6,12": "Czy moja siła jest siłą kamieni? Czy moje ciało jest ze spiżu?"
-"Hi6,13": "Czy nie ma pomocy dla mnie? Czy moje powodzenie zostało odepchnięte ode mnie?"
-"Hi6,14": "Zrozpaczonemu należy się życzliwość od przyjaciela, choćby porzucił on bojaźń Wszechmogącego."
-"Hi6,15": "Moi bracia zawodzą jak tymczasowy potok, jak koryto potoków , które przepływają;"
-"Hi6,16": "Ciemnieją od lodu, w których ukrywa się śnieg;"
-"Hi6,17": "W czasie gorączki niszczeją; nikną w upale ze swych miejsc."
-"Hi6,18": "Wiją się ścieżki ich dróg; wstępują w nicość i giną."
-"Hi6,19": "Karawany z Tema wypatrują ich; kolumny kupców z Szeby ich oczekują."
-"Hi6,20": "I są zawstydzeni, że im zaufali, przybyli do niej i są zmieszani."
-"Hi6,21": "Także teraz i wy staliście się nikim; widzicie grozę i lękacie się."
-"Hi6,22": "Czy także powiedziałem: Dajcie mi coś? Lub: Złóżcie mi dar z waszego mienia?"
-"Hi6,23": "Wybawcie mnie z ręki wroga? Lub: Wykupcie mnie z ręki okrutników?"
-"Hi6,24": "Pouczcie mnie, a ja zamilknę; w czym zbłądziłem – dajcie mi to zrozumieć."
-"Hi6,25": "O, jak bolesne są szczere słowa! Lecz czego dowiedzie wasze strofowanie?"
-"Hi6,26": "Czy zamierzacie ganić moje wypowiedzi i jak wiatr traktować słowa zrozpaczonego?"
-"Hi6,27": "Nawet o sierotę rzucilibyście los i wykopiecie dół pod swoim przyjacielem!"
-"Hi6,28": "A teraz zechciejcie zwrócić się do mnie, czy będę więc przed waszym obliczem kłamał?"
-"Hi6,29": "Zawróćcie, proszę i niech nie będzie nieprawości; tak, zawróćcie, bo nadal jest w tym moja sprawiedliwość."
-"Hi6,30": "Czy jest na moim języku jakaś nieprawość? Czy moje podniebienie nie rozeznaje złych pragnień?"
+"Hi6,1":
+  text: "Wtedy odpowiedział Hiob i rzekł:"
+  tags: []
+"Hi6,2":
+  text: "O, gdyby tylko dokładnie zważono moją udrękę i razem położono na szali moje nieszczęście!"
+  tags: []
+"Hi6,3":
+  text: "Bo teraz jest to cięższe niż piasek mórz. Dlatego też moje słowa plączą się."
+  tags: []
+"Hi6,4":
+  text: "Tak, strzały Wszechmogącego tkwią we mnie, mój duch pije ich jad, a przerażające rzeczy Boże szykiem nacierają na mnie."
+  tags: []
+"Hi6,5":
+  text: "Czy dziki osioł rży, gdy ma trawę? Czy wół ryczy nad swoją paszą?"
+  tags: []
+"Hi6,6":
+  text: "Czy można jeść niesmaczną potrawę bez soli? Czy jest jakiś smak w zawiesinie portulaki?"
+  tags: []
+"Hi6,7":
+  text: "Czego moja dusza odmawiała dotknąć, to teraz jest jak ohydny pokarm dla mnie."
+  tags: []
+"Hi6,8":
+  text: "Kto sprawi, że spełni się moja prośba? I oby Bóg dał mi nadzieję!"
+  tags: []
+"Hi6,9":
+  text: "Oby Bóg zdecydował i zmiażdżył mnie, oby uwolnił swoją rękę i odciął mnie!"
+  tags: []
+"Hi6,10":
+  text: "I to wciąż byłoby moją pociechą i cieszyłbym się w nieustającym bólu, bo nie ukryłem słów Świętego."
+  tags: []
+"Hi6,11":
+  text: "Skąd wezmę moją siłę, by jeszcze mieć nadzieję? I jaki jest mój kres, bym przedłużał moje życie?"
+  tags: []
+"Hi6,12":
+  text: "Czy moja siła jest siłą kamieni? Czy moje ciało jest ze spiżu?"
+  tags: []
+"Hi6,13":
+  text: "Czy nie ma pomocy dla mnie? Czy moje powodzenie zostało odepchnięte ode mnie?"
+  tags: []
+"Hi6,14":
+  text: "Zrozpaczonemu należy się życzliwość od przyjaciela, choćby porzucił on bojaźń Wszechmogącego."
+  tags: []
+"Hi6,15":
+  text: "Moi bracia zawodzą jak tymczasowy potok, jak koryto potoków , które przepływają;"
+  tags: []
+"Hi6,16":
+  text: "Ciemnieją od lodu, w których ukrywa się śnieg;"
+  tags: []
+"Hi6,17":
+  text: "W czasie gorączki niszczeją; nikną w upale ze swych miejsc."
+  tags: []
+"Hi6,18":
+  text: "Wiją się ścieżki ich dróg; wstępują w nicość i giną."
+  tags: []
+"Hi6,19":
+  text: "Karawany z Tema wypatrują ich; kolumny kupców z Szeby ich oczekują."
+  tags: []
+"Hi6,20":
+  text: "I są zawstydzeni, że im zaufali, przybyli do niej i są zmieszani."
+  tags: []
+"Hi6,21":
+  text: "Także teraz i wy staliście się nikim; widzicie grozę i lękacie się."
+  tags: []
+"Hi6,22":
+  text: "Czy także powiedziałem: Dajcie mi coś? Lub: Złóżcie mi dar z waszego mienia?"
+  tags: []
+"Hi6,23":
+  text: "Wybawcie mnie z ręki wroga? Lub: Wykupcie mnie z ręki okrutników?"
+  tags: []
+"Hi6,24":
+  text: "Pouczcie mnie, a ja zamilknę; w czym zbłądziłem – dajcie mi to zrozumieć."
+  tags: []
+"Hi6,25":
+  text: "O, jak bolesne są szczere słowa! Lecz czego dowiedzie wasze strofowanie?"
+  tags: []
+"Hi6,26":
+  text: "Czy zamierzacie ganić moje wypowiedzi i jak wiatr traktować słowa zrozpaczonego?"
+  tags: []
+"Hi6,27":
+  text: "Nawet o sierotę rzucilibyście los i wykopiecie dół pod swoim przyjacielem!"
+  tags: []
+"Hi6,28":
+  text: "A teraz zechciejcie zwrócić się do mnie, czy będę więc przed waszym obliczem kłamał?"
+  tags: []
+"Hi6,29":
+  text: "Zawróćcie, proszę i niech nie będzie nieprawości; tak, zawróćcie, bo nadal jest w tym moja sprawiedliwość."
+  tags: []
+"Hi6,30":
+  text: "Czy jest na moim języku jakaś nieprawość? Czy moje podniebienie nie rozeznaje złych pragnień?"
+  tags: []

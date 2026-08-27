@@ -1,19 +1,57 @@
-"1Krn22,1": "Wtedy Dawid powiedział: To jest dom PANA Boga i to jest ołtarz całopalenia dla Izraela."
-"1Krn22,2": "Dawid rozkazał zgromadzić cudzoziemców, którzy byli w ziemi Izraela, i ustanowił spośród nich kamieniarzy do obróbki kamieni ciosanych na budowę domu Bożego."
-"1Krn22,3": "Dawid przygotował też bardzo dużo żelaza na gwoździe do drzwi w bramach i na spojenie oraz niezliczoną wagę brązu;"
-"1Krn22,4": "Także drzewa cedrowego niezliczoną ilość, bo Sydończycy i Tyryjczycy przywieźli Dawidowi bardzo wiele drewna cedrowego."
-"1Krn22,5": "Dawid powiedział: Salomon, mój syn, jest młody i niedoświadczony, a dom, który ma być zbudowany dla PANA, musi być niezmiernie okazały, aby był znany i sławny we wszystkich krajach. Teraz więc poczynię przygotowania za niego. I wiele przygotował Dawid przed swoją śmiercią."
-"1Krn22,6": "Potem zawołał swego syna Salomona i nakazał mu zbudować dom dla PANA, Boga Izraela."
-"1Krn22,7": "I Dawid powiedział do Salomona: Synu mój! Pragnąłem zbudować dom dla imienia PANA, swego Boga."
-"1Krn22,8": "Lecz doszło do mnie słowo PANA mówiące: Rozlałeś wiele krwi i prowadziłeś wielkie wojny. Nie będziesz budował domu dla mojego imienia, ponieważ rozlałeś wiele krwi na ziemię przed moim obliczem."
-"1Krn22,9": "Oto urodzi ci się syn, który będzie człowiekiem pokoju, bo dam mu odpoczynek od wszystkich jego wrogów wokoło. Będzie miał na imię Salomon, ponieważ za jego dni dam Izraelowi pokój i odpoczynek."
-"1Krn22,10": "On zbuduje dom dla mojego imienia i on będzie mi synem, a ja będę mu ojcem i utwierdzę tron jego królestwa nad Izraelem na wieki."
-"1Krn22,11": "Teraz więc, mój synu, niech PAN będzie z tobą i niech ci się powodzi, abyś zbudował dom dla PANA, swego Boga, jak zapowiedział o tobie."
-"1Krn22,12": "Oby tylko PAN ci dał roztropność i rozwagę i niech cię ustanowi nad Izraelem, abyś strzegł prawa PANA, swego Boga."
-"1Krn22,13": "Wtedy będzie ci się powodziło, jeśli będziesz strzegł i wypełniał przykazania i prawa, które PAN dał Mojżeszowi dla Izraela. Bądź silny i mężny, nie bój się ani się nie lękaj."
-"1Krn22,14": "A oto w moim trudzie przygotowałem na dom PANA sto tysięcy talentów złota i tysiąc tysięcy talentów srebra, brązu i żelaza zaś bez wagi, bo tego jest wiele. Przygotowałem również drewno i kamień, a ty możesz do tego dokładać."
-"1Krn22,15": "Masz też u siebie wielu rzemieślników, kamieniarzy, murarzy, cieśli i wszelkich biegłych w każdym rzemiośle."
-"1Krn22,16": "Złota, srebra, brązu i żelaza jest bez liku. Wstań więc i działaj, a PAN niech będzie z tobą."
-"1Krn22,17": "Dawid też nakazał wszystkim książętom Izraela, aby pomagali jego synowi Salomonowi;"
-"1Krn22,18": "Mówiąc: Czy PAN, wasz Bóg, nie jest z wami? Czy nie dał wam odpoczynku wokoło? Dał bowiem w moją rękę mieszkańców tej ziemi, a ziemia została poddana PANU i jego ludowi."
-"1Krn22,19": "Teraz więc oddajcie swoje serce i swoją duszę ku szukaniu PANA, waszego Boga. Wstańcie i budujcie świątynię PANA Boga, abyście mogli tam wnieść arkę przymierza PANA oraz święte naczynia Boga, do domu, który będzie zbudowany dla imienia PANA."
+"1Krn22,1":
+  text: "Wtedy Dawid powiedział: To jest dom PANA Boga i to jest ołtarz całopalenia dla Izraela."
+  tags: []
+"1Krn22,2":
+  text: "Dawid rozkazał zgromadzić cudzoziemców, którzy byli w ziemi Izraela, i ustanowił spośród nich kamieniarzy do obróbki kamieni ciosanych na budowę domu Bożego."
+  tags: []
+"1Krn22,3":
+  text: "Dawid przygotował też bardzo dużo żelaza na gwoździe do drzwi w bramach i na spojenie oraz niezliczoną wagę brązu;"
+  tags: []
+"1Krn22,4":
+  text: "Także drzewa cedrowego niezliczoną ilość, bo Sydończycy i Tyryjczycy przywieźli Dawidowi bardzo wiele drewna cedrowego."
+  tags: []
+"1Krn22,5":
+  text: "Dawid powiedział: Salomon, mój syn, jest młody i niedoświadczony, a dom, który ma być zbudowany dla PANA, musi być niezmiernie okazały, aby był znany i sławny we wszystkich krajach. Teraz więc poczynię przygotowania za niego. I wiele przygotował Dawid przed swoją śmiercią."
+  tags: []
+"1Krn22,6":
+  text: "Potem zawołał swego syna Salomona i nakazał mu zbudować dom dla PANA, Boga Izraela."
+  tags: []
+"1Krn22,7":
+  text: "I Dawid powiedział do Salomona: Synu mój! Pragnąłem zbudować dom dla imienia PANA, swego Boga."
+  tags: []
+"1Krn22,8":
+  text: "Lecz doszło do mnie słowo PANA mówiące: Rozlałeś wiele krwi i prowadziłeś wielkie wojny. Nie będziesz budował domu dla mojego imienia, ponieważ rozlałeś wiele krwi na ziemię przed moim obliczem."
+  tags: []
+"1Krn22,9":
+  text: "Oto urodzi ci się syn, który będzie człowiekiem pokoju, bo dam mu odpoczynek od wszystkich jego wrogów wokoło. Będzie miał na imię Salomon, ponieważ za jego dni dam Izraelowi pokój i odpoczynek."
+  tags: []
+"1Krn22,10":
+  text: "On zbuduje dom dla mojego imienia i on będzie mi synem, a ja będę mu ojcem i utwierdzę tron jego królestwa nad Izraelem na wieki."
+  tags: []
+"1Krn22,11":
+  text: "Teraz więc, mój synu, niech PAN będzie z tobą i niech ci się powodzi, abyś zbudował dom dla PANA, swego Boga, jak zapowiedział o tobie."
+  tags: []
+"1Krn22,12":
+  text: "Oby tylko PAN ci dał roztropność i rozwagę i niech cię ustanowi nad Izraelem, abyś strzegł prawa PANA, swego Boga."
+  tags: []
+"1Krn22,13":
+  text: "Wtedy będzie ci się powodziło, jeśli będziesz strzegł i wypełniał przykazania i prawa, które PAN dał Mojżeszowi dla Izraela. Bądź silny i mężny, nie bój się ani się nie lękaj."
+  tags: []
+"1Krn22,14":
+  text: "A oto w moim trudzie przygotowałem na dom PANA sto tysięcy talentów złota i tysiąc tysięcy talentów srebra, brązu i żelaza zaś bez wagi, bo tego jest wiele. Przygotowałem również drewno i kamień, a ty możesz do tego dokładać."
+  tags: []
+"1Krn22,15":
+  text: "Masz też u siebie wielu rzemieślników, kamieniarzy, murarzy, cieśli i wszelkich biegłych w każdym rzemiośle."
+  tags: []
+"1Krn22,16":
+  text: "Złota, srebra, brązu i żelaza jest bez liku. Wstań więc i działaj, a PAN niech będzie z tobą."
+  tags: []
+"1Krn22,17":
+  text: "Dawid też nakazał wszystkim książętom Izraela, aby pomagali jego synowi Salomonowi;"
+  tags: []
+"1Krn22,18":
+  text: "Mówiąc: Czy PAN, wasz Bóg, nie jest z wami? Czy nie dał wam odpoczynku wokoło? Dał bowiem w moją rękę mieszkańców tej ziemi, a ziemia została poddana PANU i jego ludowi."
+  tags: []
+"1Krn22,19":
+  text: "Teraz więc oddajcie swoje serce i swoją duszę ku szukaniu PANA, waszego Boga. Wstańcie i budujcie świątynię PANA Boga, abyście mogli tam wnieść arkę przymierza PANA oraz święte naczynia Boga, do domu, który będzie zbudowany dla imienia PANA."
+  tags: []

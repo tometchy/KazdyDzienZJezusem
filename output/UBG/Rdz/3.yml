@@ -1,24 +1,72 @@
-"Rdz3,1": "A wąż był bardziej przebiegły niż wszystkie zwierzęta polne, które PAN Bóg uczynił. Powiedział on do kobiety: Czy Bóg rzeczywiście powiedział: Nie wolno wam jeść ze wszystkich drzew tego ogrodu?"
-"Rdz3,2": "I kobieta odpowiedziała wężowi: Możemy jeść owoce z drzew tego ogrodu;"
-"Rdz3,3": "Ale o owocu drzewa, które jest pośrodku ogrodu, Bóg powiedział: Nie będziecie z niego jeść ani go dotykać, abyście nie umarli."
-"Rdz3,4": "I wąż powiedział do kobiety: Na pewno nie umrzecie;"
-"Rdz3,5": "Ale Bóg wie, że tego dnia, gdy z niego zjecie, otworzą się wasze oczy i będziecie jak bogowie znający dobro i zło."
-"Rdz3,6": "A gdy kobieta spostrzegła, że owoc drzewa był dobry do jedzenia i miły dla oka, a drzewo godne pożądania dla zdobycia wiedzy, wzięła z niego owoc i zjadła; dała też swemu mężowi, który był z nią; i on zjadł."
-"Rdz3,7": "I otworzyły się im obojgu oczy i poznali, że są nadzy. Spletli więc liście figowe i zrobili sobie przepaski."
-"Rdz3,8": "Wtedy usłyszeli głos PANA Boga chodzącego po ogrodzie w powiewie dziennym. I Adam, i jego żona ukryli się przed obliczem PANA Boga wśród drzew ogrodu."
-"Rdz3,9": "I PAN Bóg zawołał na Adama, i zapytał go: Gdzie jesteś?"
-"Rdz3,10": "On odpowiedział: Usłyszałem twój głos w ogrodzie i zląkłem się, gdyż jestem nagi, i ukryłem się."
-"Rdz3,11": "Bóg zapytał: Kto ci powiedział, że jesteś nagi? Czy zjadłeś z drzewa, z którego zakazałem ci jeść?"
-"Rdz3,12": "Adam odpowiedział: Kobieta, którą mi dałeś, aby była ze mną, ona dała mi z tego drzewa i zjadłem."
-"Rdz3,13": "PAN Bóg zapytał kobietę: Co zrobiłaś? I odpowiedziała kobieta: Wąż mnie zwiódł i zjadłam."
-"Rdz3,14": "Wtedy PAN Bóg powiedział do węża: Ponieważ to uczyniłeś, będziesz przeklęty wśród wszelkiego bydła i wśród wszelkich zwierząt polnych. Na brzuchu będziesz się czołgać i proch będziesz jeść po wszystkie dni swego życia."
-"Rdz3,15": "I wprowadzę nieprzyjaźń między tobą a kobietą, między twoim potomstwem a jej potomstwem. Ono zrani ci głowę, a ty zranisz mu piętę."
-"Rdz3,16": "A do kobiety powiedział: Wielce pomnożę twoje cierpienia i twoje poczęcia, w bólu będziesz rodzić dzieci. Twoje pragnienie będzie ku twemu mężowi, a on będzie nad tobą panować."
-"Rdz3,17": "Do Adama zaś powiedział: Ponieważ usłuchałeś głosu swojej żony i zjadłeś z drzewa, o którym ci przykazałem, mówiąc: Nie będziesz z niego jadł – przeklęta będzie ziemia z twego powodu, w trudzie będziesz z niej spożywać po wszystkie dni twego życia."
-"Rdz3,18": "Ona będzie ci rodzić ciernie i oset i będziesz spożywał rośliny polne."
-"Rdz3,19": "W pocie czoła będziesz spożywał chleb, aż wrócisz do ziemi, gdyż z niej zostałeś wzięty. Bo jesteś prochem i w proch się obrócisz."
-"Rdz3,20": "I Adam nadał swojej żonie imię Ewa, bo ona była matką wszystkich żyjących."
-"Rdz3,21": "I PAN Bóg sporządził dla Adama i jego żony odzienie ze skór i przyodział ich."
-"Rdz3,22": "Wtedy PAN Bóg powiedział: Oto człowiek stał się jak jeden z nas, znający dobro i zło. Wygnajmy go więc, aby nie wyciągnął swej ręki i nie wziął z drzewa życia, by jeść i żyć na wieki."
-"Rdz3,23": "PAN Bóg wydalił go więc z ogrodu Eden, aby uprawiał ziemię, z której został wzięty."
-"Rdz3,24": "Tak wygnał człowieka i postawił na wschód od ogrodu Eden cherubinów i płomienisty miecz obracający się we wszystkie strony, aby strzegły drogi do drzewa życia."
+"Rdz3,1":
+  text: "A wąż był bardziej przebiegły niż wszystkie zwierzęta polne, które PAN Bóg uczynił. Powiedział on do kobiety: Czy Bóg rzeczywiście powiedział: Nie wolno wam jeść ze wszystkich drzew tego ogrodu?"
+  tags: []
+"Rdz3,2":
+  text: "I kobieta odpowiedziała wężowi: Możemy jeść owoce z drzew tego ogrodu;"
+  tags: []
+"Rdz3,3":
+  text: "Ale o owocu drzewa, które jest pośrodku ogrodu, Bóg powiedział: Nie będziecie z niego jeść ani go dotykać, abyście nie umarli."
+  tags: []
+"Rdz3,4":
+  text: "I wąż powiedział do kobiety: Na pewno nie umrzecie;"
+  tags: []
+"Rdz3,5":
+  text: "Ale Bóg wie, że tego dnia, gdy z niego zjecie, otworzą się wasze oczy i będziecie jak bogowie znający dobro i zło."
+  tags: []
+"Rdz3,6":
+  text: "A gdy kobieta spostrzegła, że owoc drzewa był dobry do jedzenia i miły dla oka, a drzewo godne pożądania dla zdobycia wiedzy, wzięła z niego owoc i zjadła; dała też swemu mężowi, który był z nią; i on zjadł."
+  tags: []
+"Rdz3,7":
+  text: "I otworzyły się im obojgu oczy i poznali, że są nadzy. Spletli więc liście figowe i zrobili sobie przepaski."
+  tags: []
+"Rdz3,8":
+  text: "Wtedy usłyszeli głos PANA Boga chodzącego po ogrodzie w powiewie dziennym. I Adam, i jego żona ukryli się przed obliczem PANA Boga wśród drzew ogrodu."
+  tags: []
+"Rdz3,9":
+  text: "I PAN Bóg zawołał na Adama, i zapytał go: Gdzie jesteś?"
+  tags: []
+"Rdz3,10":
+  text: "On odpowiedział: Usłyszałem twój głos w ogrodzie i zląkłem się, gdyż jestem nagi, i ukryłem się."
+  tags: []
+"Rdz3,11":
+  text: "Bóg zapytał: Kto ci powiedział, że jesteś nagi? Czy zjadłeś z drzewa, z którego zakazałem ci jeść?"
+  tags: []
+"Rdz3,12":
+  text: "Adam odpowiedział: Kobieta, którą mi dałeś, aby była ze mną, ona dała mi z tego drzewa i zjadłem."
+  tags: []
+"Rdz3,13":
+  text: "PAN Bóg zapytał kobietę: Co zrobiłaś? I odpowiedziała kobieta: Wąż mnie zwiódł i zjadłam."
+  tags: []
+"Rdz3,14":
+  text: "Wtedy PAN Bóg powiedział do węża: Ponieważ to uczyniłeś, będziesz przeklęty wśród wszelkiego bydła i wśród wszelkich zwierząt polnych. Na brzuchu będziesz się czołgać i proch będziesz jeść po wszystkie dni swego życia."
+  tags: []
+"Rdz3,15":
+  text: "I wprowadzę nieprzyjaźń między tobą a kobietą, między twoim potomstwem a jej potomstwem. Ono zrani ci głowę, a ty zranisz mu piętę."
+  tags: []
+"Rdz3,16":
+  text: "A do kobiety powiedział: Wielce pomnożę twoje cierpienia i twoje poczęcia, w bólu będziesz rodzić dzieci. Twoje pragnienie będzie ku twemu mężowi, a on będzie nad tobą panować."
+  tags: []
+"Rdz3,17":
+  text: "Do Adama zaś powiedział: Ponieważ usłuchałeś głosu swojej żony i zjadłeś z drzewa, o którym ci przykazałem, mówiąc: Nie będziesz z niego jadł – przeklęta będzie ziemia z twego powodu, w trudzie będziesz z niej spożywać po wszystkie dni twego życia."
+  tags: []
+"Rdz3,18":
+  text: "Ona będzie ci rodzić ciernie i oset i będziesz spożywał rośliny polne."
+  tags: []
+"Rdz3,19":
+  text: "W pocie czoła będziesz spożywał chleb, aż wrócisz do ziemi, gdyż z niej zostałeś wzięty. Bo jesteś prochem i w proch się obrócisz."
+  tags: []
+"Rdz3,20":
+  text: "I Adam nadał swojej żonie imię Ewa, bo ona była matką wszystkich żyjących."
+  tags: []
+"Rdz3,21":
+  text: "I PAN Bóg sporządził dla Adama i jego żony odzienie ze skór i przyodział ich."
+  tags: []
+"Rdz3,22":
+  text: "Wtedy PAN Bóg powiedział: Oto człowiek stał się jak jeden z nas, znający dobro i zło. Wygnajmy go więc, aby nie wyciągnął swej ręki i nie wziął z drzewa życia, by jeść i żyć na wieki."
+  tags: []
+"Rdz3,23":
+  text: "PAN Bóg wydalił go więc z ogrodu Eden, aby uprawiał ziemię, z której został wzięty."
+  tags: []
+"Rdz3,24":
+  text: "Tak wygnał człowieka i postawił na wschód od ogrodu Eden cherubinów i płomienisty miecz obracający się we wszystkie strony, aby strzegły drogi do drzewa życia."
+  tags: []

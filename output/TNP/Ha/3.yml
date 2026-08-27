@@ -1,19 +1,57 @@
-"Ha3,1": "Modlitwa proroka Habakuka na Szigginot."
-"Ha3,2": "JHWH, usłyszałem Twoją wieść i uląkłem się JHWH Twojego dzieła, niech ono ożyje w najbliższych latach, ujawnij je w najbliższych latach; w gniewie pamiętaj o miłosierdziu."
-"Ha3,3": "Bóg nadejdzie z Temanu, a Święty z góry Paran. Sela. Jego majestat okrył niebiosa, a Jego chwała wypełniła ziemię."
-"Ha3,4": "Jego blask stanie się jak światła, promienie wychodzą z Jego rąk i tam jest kryjówka Jego mocy."
-"Ha3,5": "Przed Nim pójdzie zaraza, a plaga wyruszy za Jego stopami."
-"Ha3,6": "Stanął i zmierzył ziemię, spojrzał i wstrząsnął narody, a góry prastare zostały skruszone, skłoniły się pagórki odwieczne. Jego drogi są wieczne."
-"Ha3,7": "Widziałem namioty Kuszanu dotknięte uciskiem, trzęsą się zasłony ziemi Midianu."
-"Ha3,8": "Czy JHWH zapłonął przeciwko rzekom? Czy przeciwko rzekom skierowałeś Twój gniew? Czy przeciwko morzu zwróciła się Twoja zapalczywość, gdy siadasz na swoje konie i na swoje zwycięskie rydwany?"
-"Ha3,9": "Wzniesiony, obnażony Twój łuk. Twe klątwy jak dzidy miotają słowa. Sela. Podzieliłeś ziemię rzekami."
-"Ha3,10": "Ujrzały Cię góry i zaczęły wirować, ulewa wód przechodzi. Otchłań wydała swój głos, wysoko podniosła swoje ręce."
-"Ha3,11": "Słońce i księżyc stoją na wysokości, z powodu światła lecących strzał Twoich, z powodu blasku Twojej lśniącej włóczni."
-"Ha3,12": "W gniewie przemierzasz ziemię, w zapalczywości depczesz narody."
-"Ha3,13": "Wyruszyłeś, aby wybawić Twój lud, aby wybawić Twojego pomazańca; roztrzaskałeś głowę domu niegodziwego, by obnażyć fundament aż do podstawy. Sela."
-"Ha3,14": "Przeszyłeś swoimi dzidami głowę jego wodza; burzą się, aby mnie rozproszyć; ich radość jak tego, kto w ukryciu pożera ubogiego."
-"Ha3,15": "Wdeptałeś w morze jego konie, w skupisko wielkich wód."
-"Ha3,16": "Gdy to usłyszałem, zatrzęsło się moje wnętrze, z powodu tego głosu zadrżały moje wargi. Zepsucie weszło w moje kości i kolana trzęsą się pode mną, ponieważ chcę odpocząć w dniu utrapienia, gdy wstąpi na ten lud, który nas zaatakuje."
-"Ha3,17": "Choćby figowiec nie wypuścił swoich pąków i nie było plonu w winnicach, choćby zawiódł owoc oliwki i pola nie przyniosły zboża, a trzoda zniknęła z zagrody i nie było bydła w oborach;"
-"Ha3,18": "A ja jednak będę się radował w JHWH, weselił się w Bogu mojego zbawienia."
-"Ha3,19": "JHWH PAN jest moją mocą i uczynił moje nogi jak u łani, i sprawił, że kroczę po moich wyżynach. Przewodnikowi chóru, na moje instrumenty strunowe."
+"Ha3,1":
+  text: "Modlitwa proroka Habakuka na Szigginot."
+  tags: []
+"Ha3,2":
+  text: "JHWH, usłyszałem Twoją wieść i uląkłem się JHWH Twojego dzieła, niech ono ożyje w najbliższych latach, ujawnij je w najbliższych latach; w gniewie pamiętaj o miłosierdziu."
+  tags: []
+"Ha3,3":
+  text: "Bóg nadejdzie z Temanu, a Święty z góry Paran. Sela. Jego majestat okrył niebiosa, a Jego chwała wypełniła ziemię."
+  tags: []
+"Ha3,4":
+  text: "Jego blask stanie się jak światła, promienie wychodzą z Jego rąk i tam jest kryjówka Jego mocy."
+  tags: []
+"Ha3,5":
+  text: "Przed Nim pójdzie zaraza, a plaga wyruszy za Jego stopami."
+  tags: []
+"Ha3,6":
+  text: "Stanął i zmierzył ziemię, spojrzał i wstrząsnął narody, a góry prastare zostały skruszone, skłoniły się pagórki odwieczne. Jego drogi są wieczne."
+  tags: []
+"Ha3,7":
+  text: "Widziałem namioty Kuszanu dotknięte uciskiem, trzęsą się zasłony ziemi Midianu."
+  tags: []
+"Ha3,8":
+  text: "Czy JHWH zapłonął przeciwko rzekom? Czy przeciwko rzekom skierowałeś Twój gniew? Czy przeciwko morzu zwróciła się Twoja zapalczywość, gdy siadasz na swoje konie i na swoje zwycięskie rydwany?"
+  tags: []
+"Ha3,9":
+  text: "Wzniesiony, obnażony Twój łuk. Twe klątwy jak dzidy miotają słowa. Sela. Podzieliłeś ziemię rzekami."
+  tags: []
+"Ha3,10":
+  text: "Ujrzały Cię góry i zaczęły wirować, ulewa wód przechodzi. Otchłań wydała swój głos, wysoko podniosła swoje ręce."
+  tags: []
+"Ha3,11":
+  text: "Słońce i księżyc stoją na wysokości, z powodu światła lecących strzał Twoich, z powodu blasku Twojej lśniącej włóczni."
+  tags: []
+"Ha3,12":
+  text: "W gniewie przemierzasz ziemię, w zapalczywości depczesz narody."
+  tags: []
+"Ha3,13":
+  text: "Wyruszyłeś, aby wybawić Twój lud, aby wybawić Twojego pomazańca; roztrzaskałeś głowę domu niegodziwego, by obnażyć fundament aż do podstawy. Sela."
+  tags: []
+"Ha3,14":
+  text: "Przeszyłeś swoimi dzidami głowę jego wodza; burzą się, aby mnie rozproszyć; ich radość jak tego, kto w ukryciu pożera ubogiego."
+  tags: []
+"Ha3,15":
+  text: "Wdeptałeś w morze jego konie, w skupisko wielkich wód."
+  tags: []
+"Ha3,16":
+  text: "Gdy to usłyszałem, zatrzęsło się moje wnętrze, z powodu tego głosu zadrżały moje wargi. Zepsucie weszło w moje kości i kolana trzęsą się pode mną, ponieważ chcę odpocząć w dniu utrapienia, gdy wstąpi na ten lud, który nas zaatakuje."
+  tags: []
+"Ha3,17":
+  text: "Choćby figowiec nie wypuścił swoich pąków i nie było plonu w winnicach, choćby zawiódł owoc oliwki i pola nie przyniosły zboża, a trzoda zniknęła z zagrody i nie było bydła w oborach;"
+  tags: []
+"Ha3,18":
+  text: "A ja jednak będę się radował w JHWH, weselił się w Bogu mojego zbawienia."
+  tags: []
+"Ha3,19":
+  text: "JHWH PAN jest moją mocą i uczynił moje nogi jak u łani, i sprawił, że kroczę po moich wyżynach. Przewodnikowi chóru, na moje instrumenty strunowe."
+  tags: []

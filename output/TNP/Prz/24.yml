@@ -1,34 +1,102 @@
-"Prz24,1": "Nie zazdrość złym ludziom ani nie pragnij z nimi przebywać;"
-"Prz24,2": "Bo ich serce obmyśla gwałt, a ich wargi mówią o krzywdzie."
-"Prz24,3": "Dom buduje się mądrością, a utwierdza się rozumem."
-"Prz24,4": "A dzięki wiedzy komory zostaną napełnione wszelkim bogactwem – cennym i pięknym."
-"Prz24,5": "Mądry wojownik jest silny, a mąż który ma wiedzę, zapewnia potęgę."
-"Prz24,6": "Bo dzięki mądrej radzie prowadzisz wojnę, a wielu doradców umożliwi ci zwycięstwo."
-"Prz24,7": "Mądrość jest dla głupca zbyt wzniosła; niech w bramie nie otwiera on swoich ust."
-"Prz24,8": "Kto obmyśla zło, tego nazwą mężem zamętu."
-"Prz24,9": "Zamysł głupca jest grzechem, a szyderca budzi odrazę w ludziach."
-"Prz24,10": "Jeżeli w dniu ucisku okazujesz się gnuśnym, to twoja siła jest mierna."
-"Prz24,11": "Ratuj prowadzonych na śmierć. Czy ochronisz drżących przed rzezią?"
-"Prz24,12": "Bo jeśli powiesz: Ach, nie wiedzieliśmy o tym! Czy nie przejrzy tego Ten, który ocenia serca? Czy Ten, który strzeże twojej duszy, nie dowie się o tym? I czy nie odpłaci człowiekowi według jego uczynków?"
-"Prz24,13": "Synu mój, jedz miód, bo jest dobry i słodki jest plaster miodu dla twojego podniebienia."
-"Prz24,14": "Tym samym niech będzie poznanie mądrości dla twojej duszy; jeśli ją znajdziesz, jest przed tobą przyszłość, a twoja nadzieja nie będzie zawiedziona."
-"Prz24,15": "Nie zastawiaj pułapki, niegodziwy człowieku, przed mieszkaniem sprawiedliwego, nie niszcz miejsca jego odpoczynku;"
-"Prz24,16": "Bo sprawiedliwy upadnie siedmiokrotnie, lecz powstanie; a niegodziwi potykają się w nieszczęściu."
-"Prz24,17": "Nie raduj się, gdy twój nieprzyjaciel upadnie, i niech twoje serce się nie cieszy, gdy się potknie;"
-"Prz24,18": "Aby JHWH nie zobaczył tego, bo jest to złe w Jego oczach i nie odwrócił od niego swojego gniewu."
-"Prz24,19": "Nie unoś się gniewem na złoczyńców ani nie zazdrość niegodziwym;"
-"Prz24,20": "Bo zły człowiek nie ma przyszłości, a lampa niegodziwych zgaśnie."
-"Prz24,21": "Synu mój, bój się JHWH i króla, i nie łącz się z ludźmi zmiennymi;"
-"Prz24,22": "Bo ich nieszczęście nastąpi nagle, a kto wie o klęsce obu?"
-"Prz24,23": "I to też są przysłowia od mędrców. Niedobrze jest mieć wzgląd na osobę w sądzie."
-"Prz24,24": "Kto mówi niegodziwemu: Jesteś sprawiedliwy, tego przeklinają ludy, a narody mu złorzeczą."
-"Prz24,25": "A ci, którzy wyrokują właściwie, doznają radości i przyjdzie na nich stosowne błogosławieństwo."
-"Prz24,26": "W usta całuje ten, kto odpowiada prawymi słowami."
-"Prz24,27": "Przyszykuj swoją pracę na zewnątrz i przygotuj ją na swoim polu, a potem buduj swój dom."
-"Prz24,28": "Nie bądź bez powodu świadkiem przeciw swojemu bliźniemu ani nie oszukuj swoimi wargami."
-"Prz24,29": "Nie mów: Uczynię mu jak on mi uczynił; oddam temu człowiekowi według jego uczynku."
-"Prz24,30": "Szedłem koło pola człowieka leniwego i koło winnicy człowieka bez rozumu;"
-"Prz24,31": "A oto wszystko zarosło cierniem, pokrzywy pokryły powierzchnię, a kamienny mur był w rozsypce."
-"Prz24,32": "Spojrzałem i złożyłem to w sercu; zobaczyłem i odebrałem naukę."
-"Prz24,33": "Trochę snu, trochę drzemania, trochę założenia rąk, by odpocząć;"
-"Prz24,34": "A twoje ubóstwo przyjdzie jak włóczęga, a niedostatek – jak człowiek z tarczą."
+"Prz24,1":
+  text: "Nie zazdrość złym ludziom ani nie pragnij z nimi przebywać;"
+  tags: []
+"Prz24,2":
+  text: "Bo ich serce obmyśla gwałt, a ich wargi mówią o krzywdzie."
+  tags: []
+"Prz24,3":
+  text: "Dom buduje się mądrością, a utwierdza się rozumem."
+  tags: []
+"Prz24,4":
+  text: "A dzięki wiedzy komory zostaną napełnione wszelkim bogactwem – cennym i pięknym."
+  tags: []
+"Prz24,5":
+  text: "Mądry wojownik jest silny, a mąż który ma wiedzę, zapewnia potęgę."
+  tags: []
+"Prz24,6":
+  text: "Bo dzięki mądrej radzie prowadzisz wojnę, a wielu doradców umożliwi ci zwycięstwo."
+  tags: []
+"Prz24,7":
+  text: "Mądrość jest dla głupca zbyt wzniosła; niech w bramie nie otwiera on swoich ust."
+  tags: []
+"Prz24,8":
+  text: "Kto obmyśla zło, tego nazwą mężem zamętu."
+  tags: []
+"Prz24,9":
+  text: "Zamysł głupca jest grzechem, a szyderca budzi odrazę w ludziach."
+  tags: []
+"Prz24,10":
+  text: "Jeżeli w dniu ucisku okazujesz się gnuśnym, to twoja siła jest mierna."
+  tags: []
+"Prz24,11":
+  text: "Ratuj prowadzonych na śmierć. Czy ochronisz drżących przed rzezią?"
+  tags: []
+"Prz24,12":
+  text: "Bo jeśli powiesz: Ach, nie wiedzieliśmy o tym! Czy nie przejrzy tego Ten, który ocenia serca? Czy Ten, który strzeże twojej duszy, nie dowie się o tym? I czy nie odpłaci człowiekowi według jego uczynków?"
+  tags: []
+"Prz24,13":
+  text: "Synu mój, jedz miód, bo jest dobry i słodki jest plaster miodu dla twojego podniebienia."
+  tags: []
+"Prz24,14":
+  text: "Tym samym niech będzie poznanie mądrości dla twojej duszy; jeśli ją znajdziesz, jest przed tobą przyszłość, a twoja nadzieja nie będzie zawiedziona."
+  tags: []
+"Prz24,15":
+  text: "Nie zastawiaj pułapki, niegodziwy człowieku, przed mieszkaniem sprawiedliwego, nie niszcz miejsca jego odpoczynku;"
+  tags: []
+"Prz24,16":
+  text: "Bo sprawiedliwy upadnie siedmiokrotnie, lecz powstanie; a niegodziwi potykają się w nieszczęściu."
+  tags: []
+"Prz24,17":
+  text: "Nie raduj się, gdy twój nieprzyjaciel upadnie, i niech twoje serce się nie cieszy, gdy się potknie;"
+  tags: []
+"Prz24,18":
+  text: "Aby JHWH nie zobaczył tego, bo jest to złe w Jego oczach i nie odwrócił od niego swojego gniewu."
+  tags: []
+"Prz24,19":
+  text: "Nie unoś się gniewem na złoczyńców ani nie zazdrość niegodziwym;"
+  tags: []
+"Prz24,20":
+  text: "Bo zły człowiek nie ma przyszłości, a lampa niegodziwych zgaśnie."
+  tags: []
+"Prz24,21":
+  text: "Synu mój, bój się JHWH i króla, i nie łącz się z ludźmi zmiennymi;"
+  tags: []
+"Prz24,22":
+  text: "Bo ich nieszczęście nastąpi nagle, a kto wie o klęsce obu?"
+  tags: []
+"Prz24,23":
+  text: "I to też są przysłowia od mędrców. Niedobrze jest mieć wzgląd na osobę w sądzie."
+  tags: []
+"Prz24,24":
+  text: "Kto mówi niegodziwemu: Jesteś sprawiedliwy, tego przeklinają ludy, a narody mu złorzeczą."
+  tags: []
+"Prz24,25":
+  text: "A ci, którzy wyrokują właściwie, doznają radości i przyjdzie na nich stosowne błogosławieństwo."
+  tags: []
+"Prz24,26":
+  text: "W usta całuje ten, kto odpowiada prawymi słowami."
+  tags: []
+"Prz24,27":
+  text: "Przyszykuj swoją pracę na zewnątrz i przygotuj ją na swoim polu, a potem buduj swój dom."
+  tags: []
+"Prz24,28":
+  text: "Nie bądź bez powodu świadkiem przeciw swojemu bliźniemu ani nie oszukuj swoimi wargami."
+  tags: []
+"Prz24,29":
+  text: "Nie mów: Uczynię mu jak on mi uczynił; oddam temu człowiekowi według jego uczynku."
+  tags: []
+"Prz24,30":
+  text: "Szedłem koło pola człowieka leniwego i koło winnicy człowieka bez rozumu;"
+  tags: []
+"Prz24,31":
+  text: "A oto wszystko zarosło cierniem, pokrzywy pokryły powierzchnię, a kamienny mur był w rozsypce."
+  tags: []
+"Prz24,32":
+  text: "Spojrzałem i złożyłem to w sercu; zobaczyłem i odebrałem naukę."
+  tags: []
+"Prz24,33":
+  text: "Trochę snu, trochę drzemania, trochę założenia rąk, by odpocząć;"
+  tags: []
+"Prz24,34":
+  text: "A twoje ubóstwo przyjdzie jak włóczęga, a niedostatek – jak człowiek z tarczą."
+  tags: []

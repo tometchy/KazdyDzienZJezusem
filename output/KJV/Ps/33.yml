@@ -1,22 +1,66 @@
-"Ps33,1": "Rejoice in the LORD, O ye righteous: [for] praise is comely for the upright."
-"Ps33,2": "Praise the LORD with harp: sing unto him with the psaltery [and] an instrument of ten strings."
-"Ps33,3": "Sing unto him a new song; play skilfully with a loud noise."
-"Ps33,4": "For the word of the LORD [is] right; and all his works [are done] in truth."
-"Ps33,5": "He loveth righteousness and judgment: the earth is full of the goodness of the LORD."
-"Ps33,6": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth."
-"Ps33,7": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses."
-"Ps33,8": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him."
-"Ps33,9": "For he spake, and it was [done]; he commanded, and it stood fast."
-"Ps33,10": "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
-"Ps33,11": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations."
-"Ps33,12": "Blessed [is] the nation whose God [is] the LORD; [and] the people [whom] he hath chosen for his own inheritance."
-"Ps33,13": "The LORD looketh from heaven; he beholdeth all the sons of men."
-"Ps33,14": "From the place of his habitation he looketh upon all the inhabitants of the earth."
-"Ps33,15": "He fashioneth their hearts alike; he considereth all their works."
-"Ps33,16": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength."
-"Ps33,17": "An horse [is] a vain thing for safety: neither shall he deliver [any] by his great strength."
-"Ps33,18": "Behold, the eye of the LORD [is] upon them that fear him, upon them that hope in his mercy;"
-"Ps33,19": "To deliver their soul from death, and to keep them alive in famine."
-"Ps33,20": "Our soul waiteth for the LORD: he [is] our help and our shield."
-"Ps33,21": "For our heart shall rejoice in him, because we have trusted in his holy name."
-"Ps33,22": "Let thy mercy, O LORD, be upon us, according as we hope in thee."
+"Ps33,1":
+  text: "Rejoice in the LORD, O ye righteous: [for] praise is comely for the upright."
+  tags: []
+"Ps33,2":
+  text: "Praise the LORD with harp: sing unto him with the psaltery [and] an instrument of ten strings."
+  tags: []
+"Ps33,3":
+  text: "Sing unto him a new song; play skilfully with a loud noise."
+  tags: []
+"Ps33,4":
+  text: "For the word of the LORD [is] right; and all his works [are done] in truth."
+  tags: []
+"Ps33,5":
+  text: "He loveth righteousness and judgment: the earth is full of the goodness of the LORD."
+  tags: []
+"Ps33,6":
+  text: "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth."
+  tags: []
+"Ps33,7":
+  text: "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses."
+  tags: []
+"Ps33,8":
+  text: "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him."
+  tags: []
+"Ps33,9":
+  text: "For he spake, and it was [done]; he commanded, and it stood fast."
+  tags: []
+"Ps33,10":
+  text: "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
+  tags: []
+"Ps33,11":
+  text: "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations."
+  tags: []
+"Ps33,12":
+  text: "Blessed [is] the nation whose God [is] the LORD; [and] the people [whom] he hath chosen for his own inheritance."
+  tags: []
+"Ps33,13":
+  text: "The LORD looketh from heaven; he beholdeth all the sons of men."
+  tags: []
+"Ps33,14":
+  text: "From the place of his habitation he looketh upon all the inhabitants of the earth."
+  tags: []
+"Ps33,15":
+  text: "He fashioneth their hearts alike; he considereth all their works."
+  tags: []
+"Ps33,16":
+  text: "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength."
+  tags: []
+"Ps33,17":
+  text: "An horse [is] a vain thing for safety: neither shall he deliver [any] by his great strength."
+  tags: []
+"Ps33,18":
+  text: "Behold, the eye of the LORD [is] upon them that fear him, upon them that hope in his mercy;"
+  tags: []
+"Ps33,19":
+  text: "To deliver their soul from death, and to keep them alive in famine."
+  tags: []
+"Ps33,20":
+  text: "Our soul waiteth for the LORD: he [is] our help and our shield."
+  tags: []
+"Ps33,21":
+  text: "For our heart shall rejoice in him, because we have trusted in his holy name."
+  tags: []
+"Ps33,22":
+  text: "Let thy mercy, O LORD, be upon us, according as we hope in thee."
+  tags: []

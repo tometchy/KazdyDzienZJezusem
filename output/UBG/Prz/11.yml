@@ -1,31 +1,93 @@
-"Prz11,1": "Fałszywa waga budzi odrazę w PANU, ale podobają mu się uczciwe odważniki."
-"Prz11,2": "Za pychą przychodzi hańba, a u pokornych jest mądrość."
-"Prz11,3": "Uczciwość prawych poprowadzi ich, lecz grzeszników zgubi ich przewrotność."
-"Prz11,4": "Bogactwa nie pomogą w dniu gniewu, ale sprawiedliwość ocala od śmierci."
-"Prz11,5": "Sprawiedliwość nienagannego toruje mu drogę, a niegodziwy upadnie przez swoją niegodziwość."
-"Prz11,6": "Sprawiedliwość prawych ocali ich, a przewrotni będą schwytani w swojej przewrotności."
-"Prz11,7": "Gdy umiera niegodziwy, ginie jego nadzieja, a oczekiwanie niesprawiedliwych znika."
-"Prz11,8": "Sprawiedliwy bywa wybawiony z ucisku, a na jego miejsce przychodzi niegodziwy."
-"Prz11,9": "Obłudnik ustami niszczy swego bliźniego, a sprawiedliwi bywają wybawieni dzięki wiedzy."
-"Prz11,10": "Gdy sprawiedliwym się powodzi, miasto się cieszy, a gdy giną niegodziwi, panuje radość."
-"Prz11,11": "Dzięki błogosławieństwu prawych wznosi się miasto, a usta niegodziwych je burzą."
-"Prz11,12": "Nierozumny gardzi swym bliźnim, a człowiek roztropny milczy."
-"Prz11,13": "Plotkarz wyjawia tajemnice, ale człowiek wiernego serca ukrywa powierzoną sprawę."
-"Prz11,14": "Gdzie nie ma dobrej rady, lud upada, a gdzie wielu radców, tam jest wybawienie."
-"Prz11,15": "Bardzo sobie szkodzi, kto ręczy za obcego, a kto nienawidzi poręki, jest bezpieczny."
-"Prz11,16": "Miła kobieta dostępuje chwały, a mocarze zdobywają bogactwa."
-"Prz11,17": "Człowiek miłosierny czyni dobrze swej duszy, a okrutnik dręczy własne ciało."
-"Prz11,18": "Niegodziwy czyni zwodnicze dzieło, a kto sieje sprawiedliwość, ma zapłatę pewną."
-"Prz11,19": "Jak sprawiedliwość prowadzi do życia, tak do śmierci zmierza ten, kto naśladuje zło."
-"Prz11,20": "Ludzie przewrotnego serca budzą odrazę w PANU, a podobają mu się ci, których droga jest prawa."
-"Prz11,21": "Zły nie uniknie kary, choćby innych wezwał na pomoc, a potomstwo sprawiedliwych będzie ocalone."
-"Prz11,22": "Czym złoty kolczyk w ryju świni, tym piękna kobieta pozbawiona roztropności."
-"Prz11,23": "Pragnieniem sprawiedliwych jest tylko dobro, oczekiwaniem zaś niegodziwych – gniew."
-"Prz11,24": "Jeden hojnie rozdaje, a jednak mu przybywa, drugi nad miarę skąpi, a ubożeje."
-"Prz11,25": "Człowiek szczodry będzie bogatszy, a kto innych syci, sam też będzie nasycony."
-"Prz11,26": "Kto zatrzymuje zboże, tego lud przeklnie, a błogosławieństwo będzie nad głową tego, który je sprzedaje."
-"Prz11,27": "Kto pilnie szuka dobrego, zdobędzie przychylność, lecz kto szuka zła, przyjdzie ono na niego."
-"Prz11,28": "Kto ufność pokłada w swych bogactwach, ten upadnie, a sprawiedliwi będą zielenić się jak latorośl."
-"Prz11,29": "Kto niepokoi swój dom, odziedziczy wiatr, a głupi będzie sługą mądrego."
-"Prz11,30": "Owoc sprawiedliwego jest drzewem życia; a kto zyskuje dusze, jest mądry."
-"Prz11,31": "Jeśli sprawiedliwy otrzyma zapłatę na ziemi, to tym bardziej niegodziwy i grzesznik."
+"Prz11,1":
+  text: "Fałszywa waga budzi odrazę w PANU, ale podobają mu się uczciwe odważniki."
+  tags: []
+"Prz11,2":
+  text: "Za pychą przychodzi hańba, a u pokornych jest mądrość."
+  tags: []
+"Prz11,3":
+  text: "Uczciwość prawych poprowadzi ich, lecz grzeszników zgubi ich przewrotność."
+  tags: []
+"Prz11,4":
+  text: "Bogactwa nie pomogą w dniu gniewu, ale sprawiedliwość ocala od śmierci."
+  tags: []
+"Prz11,5":
+  text: "Sprawiedliwość nienagannego toruje mu drogę, a niegodziwy upadnie przez swoją niegodziwość."
+  tags: []
+"Prz11,6":
+  text: "Sprawiedliwość prawych ocali ich, a przewrotni będą schwytani w swojej przewrotności."
+  tags: []
+"Prz11,7":
+  text: "Gdy umiera niegodziwy, ginie jego nadzieja, a oczekiwanie niesprawiedliwych znika."
+  tags: []
+"Prz11,8":
+  text: "Sprawiedliwy bywa wybawiony z ucisku, a na jego miejsce przychodzi niegodziwy."
+  tags: []
+"Prz11,9":
+  text: "Obłudnik ustami niszczy swego bliźniego, a sprawiedliwi bywają wybawieni dzięki wiedzy."
+  tags: []
+"Prz11,10":
+  text: "Gdy sprawiedliwym się powodzi, miasto się cieszy, a gdy giną niegodziwi, panuje radość."
+  tags: []
+"Prz11,11":
+  text: "Dzięki błogosławieństwu prawych wznosi się miasto, a usta niegodziwych je burzą."
+  tags: []
+"Prz11,12":
+  text: "Nierozumny gardzi swym bliźnim, a człowiek roztropny milczy."
+  tags: []
+"Prz11,13":
+  text: "Plotkarz wyjawia tajemnice, ale człowiek wiernego serca ukrywa powierzoną sprawę."
+  tags: []
+"Prz11,14":
+  text: "Gdzie nie ma dobrej rady, lud upada, a gdzie wielu radców, tam jest wybawienie."
+  tags: []
+"Prz11,15":
+  text: "Bardzo sobie szkodzi, kto ręczy za obcego, a kto nienawidzi poręki, jest bezpieczny."
+  tags: []
+"Prz11,16":
+  text: "Miła kobieta dostępuje chwały, a mocarze zdobywają bogactwa."
+  tags: []
+"Prz11,17":
+  text: "Człowiek miłosierny czyni dobrze swej duszy, a okrutnik dręczy własne ciało."
+  tags: []
+"Prz11,18":
+  text: "Niegodziwy czyni zwodnicze dzieło, a kto sieje sprawiedliwość, ma zapłatę pewną."
+  tags: []
+"Prz11,19":
+  text: "Jak sprawiedliwość prowadzi do życia, tak do śmierci zmierza ten, kto naśladuje zło."
+  tags: []
+"Prz11,20":
+  text: "Ludzie przewrotnego serca budzą odrazę w PANU, a podobają mu się ci, których droga jest prawa."
+  tags: []
+"Prz11,21":
+  text: "Zły nie uniknie kary, choćby innych wezwał na pomoc, a potomstwo sprawiedliwych będzie ocalone."
+  tags: []
+"Prz11,22":
+  text: "Czym złoty kolczyk w ryju świni, tym piękna kobieta pozbawiona roztropności."
+  tags: []
+"Prz11,23":
+  text: "Pragnieniem sprawiedliwych jest tylko dobro, oczekiwaniem zaś niegodziwych – gniew."
+  tags: []
+"Prz11,24":
+  text: "Jeden hojnie rozdaje, a jednak mu przybywa, drugi nad miarę skąpi, a ubożeje."
+  tags: []
+"Prz11,25":
+  text: "Człowiek szczodry będzie bogatszy, a kto innych syci, sam też będzie nasycony."
+  tags: []
+"Prz11,26":
+  text: "Kto zatrzymuje zboże, tego lud przeklnie, a błogosławieństwo będzie nad głową tego, który je sprzedaje."
+  tags: []
+"Prz11,27":
+  text: "Kto pilnie szuka dobrego, zdobędzie przychylność, lecz kto szuka zła, przyjdzie ono na niego."
+  tags: []
+"Prz11,28":
+  text: "Kto ufność pokłada w swych bogactwach, ten upadnie, a sprawiedliwi będą zielenić się jak latorośl."
+  tags: []
+"Prz11,29":
+  text: "Kto niepokoi swój dom, odziedziczy wiatr, a głupi będzie sługą mądrego."
+  tags: []
+"Prz11,30":
+  text: "Owoc sprawiedliwego jest drzewem życia; a kto zyskuje dusze, jest mądry."
+  tags: []
+"Prz11,31":
+  text: "Jeśli sprawiedliwy otrzyma zapłatę na ziemi, to tym bardziej niegodziwy i grzesznik."
+  tags: []

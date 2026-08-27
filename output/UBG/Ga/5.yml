@@ -1,26 +1,78 @@
-"Ga5,1": "Trwajcie więc w tej wolności, którą nas Chrystus wyzwolił, i nie poddawajcie się na nowo pod jarzmo niewoli."
-"Ga5,2": "Oto ja, Paweł, mówię wam, że jeśli dacie się obrzezać, Chrystus na nic wam się nie przyda."
-"Ga5,3": "A oświadczam raz jeszcze każdemu człowiekowi, który daje się obrzezać, że jest zobowiązany wypełnić całe prawo."
-"Ga5,4": "Pozbawiliście się Chrystusa wszyscy, którzy usprawiedliwiacie się przez prawo; wypadliście z łaski."
-"Ga5,5": "My bowiem przez Ducha oczekujemy nadziei sprawiedliwości z wiary."
-"Ga5,6": "Bo w Chrystusie Jezusie ani obrzezanie nic nie znaczy, ani nieobrzezanie, ale wiara, która działa przez miłość."
-"Ga5,7": "Biegliście dobrze. Któż wam przeszkodził, abyście nie byli posłuszni prawdzie?"
-"Ga5,8": "Namawianie to nie pochodzi od tego, który was powołuje."
-"Ga5,9": "Trochę zakwasu całe ciasto zakwasza."
-"Ga5,10": "Mam co do was przekonanie w Panu, że nie będziecie innego zdania. A ten, kto was niepokoi, zostanie osądzony, kimkolwiek by był."
-"Ga5,11": "A ja, bracia, jeśli nadal obrzezanie głoszę, to dlaczego jeszcze cierpię prześladowanie? Przecież wtedy zniesione byłoby zgorszenie krzyża."
-"Ga5,12": "Bodajby byli odcięci ci, którzy was niepokoją."
-"Ga5,13": "Bo wy, bracia, zostaliście powołani do wolności, tylko pod pozorem tej wolności nie pobłażajcie ciału, ale z miłości służcie jedni drugim."
-"Ga5,14": "Całe bowiem prawo wypełnia się w tym jednym słowie, mianowicie: Będziesz miłował swego bliźniego jak samego siebie."
-"Ga5,15": "Lecz jeśli wzajemnie się kąsacie i pożeracie, uważajcie, abyście się wzajemnie nie zjedli."
-"Ga5,16": "Mówię więc: Postępujcie w Duchu, a nie spełnicie pożądania ciała."
-"Ga5,17": "Ciało bowiem pożąda na przekór Duchowi, a Duch na przekór ciału; są one sobie przeciwne, tak że nie możecie czynić tego, co chcecie."
-"Ga5,18": "Lecz jeśli jesteście prowadzeni przez Ducha, nie jesteście pod prawem."
-"Ga5,19": "A znane są uczynki ciała, którymi są: cudzołóstwo, nierząd, nieczystość, rozpusta;"
-"Ga5,20": "Bałwochwalstwo, czary, nienawiść, niezgoda, zawiść, gniew, spory, kłótnie, herezje;"
-"Ga5,21": "Zazdrość, zabójstwa, pijaństwo, hulanki i tym podobne; o nich wam mówię, jak już przedtem powiedziałem, że ci, którzy takie rzeczy czynią, królestwa Bożego nie odziedziczą."
-"Ga5,22": "Owocem zaś Ducha jest miłość, radość, pokój, cierpliwość, życzliwość, dobroć, wiara;"
-"Ga5,23": "Łagodność, powściągliwość. Przeciwko takim nie ma prawa."
-"Ga5,24": "A ci, którzy należą do Chrystusa, ukrzyżowali swoje ciało wraz z namiętnościami i pożądliwościami."
-"Ga5,25": "Jeśli żyjemy w Duchu, w Duchu też postępujmy."
-"Ga5,26": "Nie bądźmy żądni próżnej chwały, jedni drugich drażniąc, jedni drugim zazdroszcząc."
+"Ga5,1":
+  text: "Trwajcie więc w tej wolności, którą nas Chrystus wyzwolił, i nie poddawajcie się na nowo pod jarzmo niewoli."
+  tags: []
+"Ga5,2":
+  text: "Oto ja, Paweł, mówię wam, że jeśli dacie się obrzezać, Chrystus na nic wam się nie przyda."
+  tags: []
+"Ga5,3":
+  text: "A oświadczam raz jeszcze każdemu człowiekowi, który daje się obrzezać, że jest zobowiązany wypełnić całe prawo."
+  tags: []
+"Ga5,4":
+  text: "Pozbawiliście się Chrystusa wszyscy, którzy usprawiedliwiacie się przez prawo; wypadliście z łaski."
+  tags: []
+"Ga5,5":
+  text: "My bowiem przez Ducha oczekujemy nadziei sprawiedliwości z wiary."
+  tags: []
+"Ga5,6":
+  text: "Bo w Chrystusie Jezusie ani obrzezanie nic nie znaczy, ani nieobrzezanie, ale wiara, która działa przez miłość."
+  tags: []
+"Ga5,7":
+  text: "Biegliście dobrze. Któż wam przeszkodził, abyście nie byli posłuszni prawdzie?"
+  tags: []
+"Ga5,8":
+  text: "Namawianie to nie pochodzi od tego, który was powołuje."
+  tags: []
+"Ga5,9":
+  text: "Trochę zakwasu całe ciasto zakwasza."
+  tags: []
+"Ga5,10":
+  text: "Mam co do was przekonanie w Panu, że nie będziecie innego zdania. A ten, kto was niepokoi, zostanie osądzony, kimkolwiek by był."
+  tags: []
+"Ga5,11":
+  text: "A ja, bracia, jeśli nadal obrzezanie głoszę, to dlaczego jeszcze cierpię prześladowanie? Przecież wtedy zniesione byłoby zgorszenie krzyża."
+  tags: []
+"Ga5,12":
+  text: "Bodajby byli odcięci ci, którzy was niepokoją."
+  tags: []
+"Ga5,13":
+  text: "Bo wy, bracia, zostaliście powołani do wolności, tylko pod pozorem tej wolności nie pobłażajcie ciału, ale z miłości służcie jedni drugim."
+  tags: []
+"Ga5,14":
+  text: "Całe bowiem prawo wypełnia się w tym jednym słowie, mianowicie: Będziesz miłował swego bliźniego jak samego siebie."
+  tags: []
+"Ga5,15":
+  text: "Lecz jeśli wzajemnie się kąsacie i pożeracie, uważajcie, abyście się wzajemnie nie zjedli."
+  tags: []
+"Ga5,16":
+  text: "Mówię więc: Postępujcie w Duchu, a nie spełnicie pożądania ciała."
+  tags: []
+"Ga5,17":
+  text: "Ciało bowiem pożąda na przekór Duchowi, a Duch na przekór ciału; są one sobie przeciwne, tak że nie możecie czynić tego, co chcecie."
+  tags: []
+"Ga5,18":
+  text: "Lecz jeśli jesteście prowadzeni przez Ducha, nie jesteście pod prawem."
+  tags: []
+"Ga5,19":
+  text: "A znane są uczynki ciała, którymi są: cudzołóstwo, nierząd, nieczystość, rozpusta;"
+  tags: []
+"Ga5,20":
+  text: "Bałwochwalstwo, czary, nienawiść, niezgoda, zawiść, gniew, spory, kłótnie, herezje;"
+  tags: []
+"Ga5,21":
+  text: "Zazdrość, zabójstwa, pijaństwo, hulanki i tym podobne; o nich wam mówię, jak już przedtem powiedziałem, że ci, którzy takie rzeczy czynią, królestwa Bożego nie odziedziczą."
+  tags: []
+"Ga5,22":
+  text: "Owocem zaś Ducha jest miłość, radość, pokój, cierpliwość, życzliwość, dobroć, wiara;"
+  tags: []
+"Ga5,23":
+  text: "Łagodność, powściągliwość. Przeciwko takim nie ma prawa."
+  tags: []
+"Ga5,24":
+  text: "A ci, którzy należą do Chrystusa, ukrzyżowali swoje ciało wraz z namiętnościami i pożądliwościami."
+  tags: []
+"Ga5,25":
+  text: "Jeśli żyjemy w Duchu, w Duchu też postępujmy."
+  tags: []
+"Ga5,26":
+  text: "Nie bądźmy żądni próżnej chwały, jedni drugich drażniąc, jedni drugim zazdroszcząc."
+  tags: []

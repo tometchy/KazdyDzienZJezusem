@@ -1,27 +1,81 @@
-"Prz27,1": "Nie chlub się dniem jutrzejszym, bo nie wiesz, co dzień ten ci przyniesie."
-"Prz27,2": "Niech inny cię chwali, a nie twoje usta; ktoś obcy, a nie twoje wargi."
-"Prz27,3": "Ciężki jest kamień i piasek sporo waży, ale rozdrażnienie głupca jest cięższe od obu."
-"Prz27,4": "Okrutna jest wściekłość i powódź zapalczywości, a kto się ostoi przed zazdrością?"
-"Prz27,5": "Lepsza jest jawna nagana niż skryta miłość."
-"Prz27,6": "Rany od przyjaciela są oznaką wierności, ale pocałunki wroga są zwodnicze."
-"Prz27,7": "Dusza nasycona depcze plaster miodu, a dla duszy wygłodzonej wszystko, co gorzkie, jest słodkie."
-"Prz27,8": "Jak ptak ucieka z gniazda, tak człowiek ucieka ze swojego miejsca."
-"Prz27,9": "Oliwa i kadzidło radują serce, tak słodycz przyjaciela lepsza jest niż własna rada."
-"Prz27,10": "Nie opuszczaj swojego przyjaciela ani przyjaciela twojego ojca, a w dniu twego nieszczęścia nie wchodź do domu twego brata, bo lepszy jest sąsiad bliski niż brat daleki."
-"Prz27,11": "Bądź mądrym, synu mój, rozwesel moje serce, abym mógł odpowiedzieć temu, który mi urąga słowem."
-"Prz27,12": "Roztropny dostrzega zło i ukrywa się, a prości idą dalej i ponoszą karę."
-"Prz27,13": "Zabierz mu szatę, bo ręczył za obcego, ponieważ ręczył za cudzą kobietę, weź zastaw."
-"Prz27,14": "Kto wczesnym rankiem błogosławi swojemu przyjacielowi donośnym głosem, temu będzie to policzone za przekleństwo."
-"Prz27,15": "Ciągłe kapanie w dzień gwałtownej ulewy i kłótliwa żona są sobie podobne;"
-"Prz27,16": "Kto ją powstrzymuje, powstrzymuje wiatr, a swoją prawicą chwyta oliwę."
-"Prz27,17": "Żelazo ostrzy się żelazem, a charakter drugiego wyostrza przyjaciel."
-"Prz27,18": "Kto strzeże figowca, spożyje jego owoc; tak kto ochrania swojego pana, zostanie uczczony."
-"Prz27,19": "Jak woda twarz jawi twarzy, tak serce człowieka – człowiekowi."
-"Prz27,20": "Szeol i Abaddon są nienasycone, i oczy człowieka są nienasycone."
-"Prz27,21": "Czym dla srebra tygiel, a dla złota piec, tym są człowiekowi usta tego, który go chwali."
-"Prz27,22": "Jeślibyś starł głupca w moździerzu tłuczkiem razem z ziarnami, nie opuści go jego głupota."
-"Prz27,23": "Znaj dobrze wygląd swojej trzody i przyłóż swoje serce do stad."
-"Prz27,24": "Bo bogactwo nie trwa na wieki ani korona z pokolenia na pokolenie."
-"Prz27,25": "Znikła trawa i ukazała się zieleń, gdy zebrano zioła ze wzgórz,"
-"Prz27,26": "Masz jagnięta na odzież, a kozły są zapłatą za pole;"
-"Prz27,27": "I wystarczająco mleka koziego na wyżywienie dla ciebie, na wyżywienie dla twojego domu i na życie dla twoich dziewcząt."
+"Prz27,1":
+  text: "Nie chlub się dniem jutrzejszym, bo nie wiesz, co dzień ten ci przyniesie."
+  tags: []
+"Prz27,2":
+  text: "Niech inny cię chwali, a nie twoje usta; ktoś obcy, a nie twoje wargi."
+  tags: []
+"Prz27,3":
+  text: "Ciężki jest kamień i piasek sporo waży, ale rozdrażnienie głupca jest cięższe od obu."
+  tags: []
+"Prz27,4":
+  text: "Okrutna jest wściekłość i powódź zapalczywości, a kto się ostoi przed zazdrością?"
+  tags: []
+"Prz27,5":
+  text: "Lepsza jest jawna nagana niż skryta miłość."
+  tags: []
+"Prz27,6":
+  text: "Rany od przyjaciela są oznaką wierności, ale pocałunki wroga są zwodnicze."
+  tags: []
+"Prz27,7":
+  text: "Dusza nasycona depcze plaster miodu, a dla duszy wygłodzonej wszystko, co gorzkie, jest słodkie."
+  tags: []
+"Prz27,8":
+  text: "Jak ptak ucieka z gniazda, tak człowiek ucieka ze swojego miejsca."
+  tags: []
+"Prz27,9":
+  text: "Oliwa i kadzidło radują serce, tak słodycz przyjaciela lepsza jest niż własna rada."
+  tags: []
+"Prz27,10":
+  text: "Nie opuszczaj swojego przyjaciela ani przyjaciela twojego ojca, a w dniu twego nieszczęścia nie wchodź do domu twego brata, bo lepszy jest sąsiad bliski niż brat daleki."
+  tags: []
+"Prz27,11":
+  text: "Bądź mądrym, synu mój, rozwesel moje serce, abym mógł odpowiedzieć temu, który mi urąga słowem."
+  tags: []
+"Prz27,12":
+  text: "Roztropny dostrzega zło i ukrywa się, a prości idą dalej i ponoszą karę."
+  tags: []
+"Prz27,13":
+  text: "Zabierz mu szatę, bo ręczył za obcego, ponieważ ręczył za cudzą kobietę, weź zastaw."
+  tags: []
+"Prz27,14":
+  text: "Kto wczesnym rankiem błogosławi swojemu przyjacielowi donośnym głosem, temu będzie to policzone za przekleństwo."
+  tags: []
+"Prz27,15":
+  text: "Ciągłe kapanie w dzień gwałtownej ulewy i kłótliwa żona są sobie podobne;"
+  tags: []
+"Prz27,16":
+  text: "Kto ją powstrzymuje, powstrzymuje wiatr, a swoją prawicą chwyta oliwę."
+  tags: []
+"Prz27,17":
+  text: "Żelazo ostrzy się żelazem, a charakter drugiego wyostrza przyjaciel."
+  tags: []
+"Prz27,18":
+  text: "Kto strzeże figowca, spożyje jego owoc; tak kto ochrania swojego pana, zostanie uczczony."
+  tags: []
+"Prz27,19":
+  text: "Jak woda twarz jawi twarzy, tak serce człowieka – człowiekowi."
+  tags: []
+"Prz27,20":
+  text: "Szeol i Abaddon są nienasycone, i oczy człowieka są nienasycone."
+  tags: []
+"Prz27,21":
+  text: "Czym dla srebra tygiel, a dla złota piec, tym są człowiekowi usta tego, który go chwali."
+  tags: []
+"Prz27,22":
+  text: "Jeślibyś starł głupca w moździerzu tłuczkiem razem z ziarnami, nie opuści go jego głupota."
+  tags: []
+"Prz27,23":
+  text: "Znaj dobrze wygląd swojej trzody i przyłóż swoje serce do stad."
+  tags: []
+"Prz27,24":
+  text: "Bo bogactwo nie trwa na wieki ani korona z pokolenia na pokolenie."
+  tags: []
+"Prz27,25":
+  text: "Znikła trawa i ukazała się zieleń, gdy zebrano zioła ze wzgórz,"
+  tags: []
+"Prz27,26":
+  text: "Masz jagnięta na odzież, a kozły są zapłatą za pole;"
+  tags: []
+"Prz27,27":
+  text: "I wystarczająco mleka koziego na wyżywienie dla ciebie, na wyżywienie dla twojego domu i na życie dla twoich dziewcząt."
+  tags: []

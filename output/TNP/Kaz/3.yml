@@ -1,22 +1,66 @@
-"Kaz3,1": "Na wszystko jest wyznaczony czas i na każde pragnienie jest właściwa pora pod niebiosami."
-"Kaz3,2": "Jest czas rodzenia i czas umierania, czas sadzenia i czas wykorzeniania tego, co zasadzono."
-"Kaz3,3": "Czas zabijania i czas uzdrawiania, czas burzenia i czas odbudowywania;"
-"Kaz3,4": "Czas płaczu i czas śmiechu, czas lamentu i czas pląsów;"
-"Kaz3,5": "Czas rzucania kamieni i czas gromadzenia kamieni, czas uścisków i czas powstrzymywania się od uścisków;"
-"Kaz3,6": "Czas szukania i czas tracenia, czas zachowania i czas wyrzucania;"
-"Kaz3,7": "Czas rozdzierania i czas zszywania, czas milczenia i czas mówienia;"
-"Kaz3,8": "Czas miłowania i czas nienawiści, czas wojny i czas pokoju."
-"Kaz3,9": "Jaki pożytek ma pracujący z tego, że on się trudzi?"
-"Kaz3,10": "Widziałem zadanie, które Bóg dał synom ludzkim, aby się nim trudzić."
-"Kaz3,11": "Wszystko pięknie uczynił w swoim czasie. Także wieczność włożył w ich serca, jednak człowiek nie zdoła pojąć dzieła, które Bóg uczynił od początku do końca."
-"Kaz3,12": "Poznałem, że nie ma dla nich nic lepszego niż to, by się radowali i czynili dobro w swoim życiu."
-"Kaz3,13": "Także i to, gdy każdy człowiek je i pije, i ogląda to, co dobre z całego swojego trudu. Jest to dar Boga."
-"Kaz3,14": "Poznałem, że wszystko, co czyni Bóg, będzie trwać na wieki. Nie można nic do tego dodać ani nic ująć, a Bóg czyni to, aby się bano Jego oblicza."
-"Kaz3,15": "To, co się stało, jest teraz i co ma być, już się stało. Bóg jednak znajduje to, co przeminęło."
-"Kaz3,16": "A poza tym widziałem pod słońcem niegodziwość w miejscu sądu, a w miejscu sprawiedliwości – niegodziwego."
-"Kaz3,17": "Powiedziałem ja w swoim sercu: Bóg będzie sądził sprawiedliwego i niegodziwego, bo tam każda przyjemność w związku z każdą tą sprawą ma swój czas sądu."
-"Kaz3,18": "Powiedziałem ja w swoim sercu to, co tyczy się odnośnie synów ludzkich: Bóg, aby ich oczyścić, chce im pokazać, że oni są zwierzętami – dla samych siebie."
-"Kaz3,19": "Bo los synów ludzkich i los zwierząt – ich los jest jeden. Bo jak umiera ten, tak umiera i tamto. Wszyscy mają jedno tchnienie, a człowiek nie ma przewagi nad zwierzęciem, bo wszystko jest marnością."
-"Kaz3,20": "Wszystko idzie na jedno miejsce; wszystko zaistniało z prochu i wszystko w proch się obraca."
-"Kaz3,21": "Kto wie, czy duch synów ludzkich wstępuje w górę, a duch zwierzęcia zstępuje w dół, do ziemi?"
-"Kaz3,22": "Zobaczyłem więc, że nie ma nic lepszego nad to, aby człowiek radował się ze swoich dzieł, gdyż taki jest jego dział. Bo kto może wprowadzić go, by ujrzał, co stanie się po nim?"
+"Kaz3,1":
+  text: "Na wszystko jest wyznaczony czas i na każde pragnienie jest właściwa pora pod niebiosami."
+  tags: []
+"Kaz3,2":
+  text: "Jest czas rodzenia i czas umierania, czas sadzenia i czas wykorzeniania tego, co zasadzono."
+  tags: []
+"Kaz3,3":
+  text: "Czas zabijania i czas uzdrawiania, czas burzenia i czas odbudowywania;"
+  tags: []
+"Kaz3,4":
+  text: "Czas płaczu i czas śmiechu, czas lamentu i czas pląsów;"
+  tags: []
+"Kaz3,5":
+  text: "Czas rzucania kamieni i czas gromadzenia kamieni, czas uścisków i czas powstrzymywania się od uścisków;"
+  tags: []
+"Kaz3,6":
+  text: "Czas szukania i czas tracenia, czas zachowania i czas wyrzucania;"
+  tags: []
+"Kaz3,7":
+  text: "Czas rozdzierania i czas zszywania, czas milczenia i czas mówienia;"
+  tags: []
+"Kaz3,8":
+  text: "Czas miłowania i czas nienawiści, czas wojny i czas pokoju."
+  tags: []
+"Kaz3,9":
+  text: "Jaki pożytek ma pracujący z tego, że on się trudzi?"
+  tags: []
+"Kaz3,10":
+  text: "Widziałem zadanie, które Bóg dał synom ludzkim, aby się nim trudzić."
+  tags: []
+"Kaz3,11":
+  text: "Wszystko pięknie uczynił w swoim czasie. Także wieczność włożył w ich serca, jednak człowiek nie zdoła pojąć dzieła, które Bóg uczynił od początku do końca."
+  tags: []
+"Kaz3,12":
+  text: "Poznałem, że nie ma dla nich nic lepszego niż to, by się radowali i czynili dobro w swoim życiu."
+  tags: []
+"Kaz3,13":
+  text: "Także i to, gdy każdy człowiek je i pije, i ogląda to, co dobre z całego swojego trudu. Jest to dar Boga."
+  tags: []
+"Kaz3,14":
+  text: "Poznałem, że wszystko, co czyni Bóg, będzie trwać na wieki. Nie można nic do tego dodać ani nic ująć, a Bóg czyni to, aby się bano Jego oblicza."
+  tags: []
+"Kaz3,15":
+  text: "To, co się stało, jest teraz i co ma być, już się stało. Bóg jednak znajduje to, co przeminęło."
+  tags: []
+"Kaz3,16":
+  text: "A poza tym widziałem pod słońcem niegodziwość w miejscu sądu, a w miejscu sprawiedliwości – niegodziwego."
+  tags: []
+"Kaz3,17":
+  text: "Powiedziałem ja w swoim sercu: Bóg będzie sądził sprawiedliwego i niegodziwego, bo tam każda przyjemność w związku z każdą tą sprawą ma swój czas sądu."
+  tags: []
+"Kaz3,18":
+  text: "Powiedziałem ja w swoim sercu to, co tyczy się odnośnie synów ludzkich: Bóg, aby ich oczyścić, chce im pokazać, że oni są zwierzętami – dla samych siebie."
+  tags: []
+"Kaz3,19":
+  text: "Bo los synów ludzkich i los zwierząt – ich los jest jeden. Bo jak umiera ten, tak umiera i tamto. Wszyscy mają jedno tchnienie, a człowiek nie ma przewagi nad zwierzęciem, bo wszystko jest marnością."
+  tags: []
+"Kaz3,20":
+  text: "Wszystko idzie na jedno miejsce; wszystko zaistniało z prochu i wszystko w proch się obraca."
+  tags: []
+"Kaz3,21":
+  text: "Kto wie, czy duch synów ludzkich wstępuje w górę, a duch zwierzęcia zstępuje w dół, do ziemi?"
+  tags: []
+"Kaz3,22":
+  text: "Zobaczyłem więc, że nie ma nic lepszego nad to, aby człowiek radował się ze swoich dzieł, gdyż taki jest jego dział. Bo kto może wprowadzić go, by ujrzał, co stanie się po nim?"
+  tags: []

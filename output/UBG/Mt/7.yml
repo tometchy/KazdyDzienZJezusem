@@ -1,29 +1,87 @@
-"Mt7,1": "Nie sądźcie, abyście nie byli sądzeni."
-"Mt7,2": "Jakim bowiem sądem sądzicie, takim będziecie sądzeni, i jaką miarą mierzycie, taką będzie wam odmierzone."
-"Mt7,3": "A czemu widzisz źdźbło w oku swego brata, a na belkę, która jest w twoim oku, nie zwracasz uwagi?"
-"Mt7,4": "Albo jak możesz mówić swemu bratu: Pozwól, że wyjmę źdźbło z twego oka, gdy belka jest w twoim oku?"
-"Mt7,5": "Obłudniku, wyjmij najpierw belkę ze swego oka, a wtedy przejrzysz, aby wyjąć źdźbło z oka twego brata."
-"Mt7,6": "Nie dawajcie psom tego, co święte, i nie rzucajcie swoich pereł przed świnie, by ich nie podeptały swymi nogami i odwróciwszy się, nie rozszarpały was."
-"Mt7,7": "Proście, a będzie wam dane, szukajcie, a znajdziecie, pukajcie, a będzie wam otworzone."
-"Mt7,8": "Każdy bowiem, kto prosi, otrzymuje, kto szuka, znajduje, a temu, kto puka, będzie otworzone."
-"Mt7,9": "I czy jest wśród was człowiek, który da synowi kamień, gdy ten prosi o chleb?"
-"Mt7,10": "A gdy prosi o rybę, czy da mu węża?"
-"Mt7,11": "Jeśli więc wy, będąc złymi, umiecie dawać dobre dary waszym dzieciom, o ileż bardziej wasz Ojciec, który jest w niebie, da dobre rzeczy tym, którzy go proszą."
-"Mt7,12": "Wszystko więc, co chcecie, aby wam ludzie czynili, i wy im czyńcie. To bowiem jest Prawo i Prorocy."
-"Mt7,13": "Wchodźcie przez ciasną bramę. Szeroka bowiem jest brama i przestronna droga, która prowadzi na zatracenie, a wielu jest takich, którzy przez nią wchodzą."
-"Mt7,14": "Ciasna bowiem jest brama i wąska droga, która prowadzi do życia, a mało jest takich, którzy ją znajdują."
-"Mt7,15": "Strzeżcie się fałszywych proroków, którzy przychodzą do was w owczej skórze, ale wewnątrz są drapieżnymi wilkami."
-"Mt7,16": "Po ich owocach poznacie ich. Czy zbierają winogrona z cierni albo z ostu figi?"
-"Mt7,17": "Tak każde dobre drzewo wydaje dobre owoce, ale złe drzewo wydaje złe owoce."
-"Mt7,18": "Nie może dobre drzewo wydawać złych owoców ani złe drzewo wydawać dobrych owoców."
-"Mt7,19": "Każde drzewo, które nie wydaje dobrego owocu, zostaje wycięte i wrzucone w ogień."
-"Mt7,20": "Tak więc po ich owocach poznacie ich."
-"Mt7,21": "Nie każdy, kto mi mówi: Panie, Panie, wejdzie do królestwa niebieskiego, lecz ten, kto wypełnia wolę mojego Ojca, który jest w niebie."
-"Mt7,22": "Wielu powie mi tego dnia: Panie, Panie, czyż nie prorokowaliśmy w twoim imieniu i w twoim imieniu nie wypędzaliśmy demonów, i w twoim imieniu nie czyniliśmy wielu cudów?"
-"Mt7,23": "A wtedy im oświadczę: Nigdy was nie znałem. Odstąpcie ode mnie wy, którzy czynicie nieprawość."
-"Mt7,24": "Każdego więc, kto słucha tych moich słów i wypełnia je, przyrównam do człowieka mądrego, który zbudował swój dom na skale."
-"Mt7,25": "I spadł deszcz, przyszła powódź, zerwały się wichry i uderzyły w ten dom, ale się nie zawalił, bo był założony na skale."
-"Mt7,26": "A każdy, kto słucha tych moich słów, a nie wypełnia ich, będzie przyrównany do człowieka głupiego, który zbudował swój dom na piasku."
-"Mt7,27": "I spadł deszcz, przyszła powódź, zerwały się wichry i uderzyły w ten dom, i zawalił się, a jego upadek był wielki."
-"Mt7,28": "A gdy Jezus dokończył tych słów, ludzie zdumiewali się jego nauką."
-"Mt7,29": "Uczył ich bowiem jak ten, który ma moc, a nie jak uczeni w Piśmie."
+"Mt7,1":
+  text: "Nie sądźcie, abyście nie byli sądzeni."
+  tags: []
+"Mt7,2":
+  text: "Jakim bowiem sądem sądzicie, takim będziecie sądzeni, i jaką miarą mierzycie, taką będzie wam odmierzone."
+  tags: []
+"Mt7,3":
+  text: "A czemu widzisz źdźbło w oku swego brata, a na belkę, która jest w twoim oku, nie zwracasz uwagi?"
+  tags: []
+"Mt7,4":
+  text: "Albo jak możesz mówić swemu bratu: Pozwól, że wyjmę źdźbło z twego oka, gdy belka jest w twoim oku?"
+  tags: []
+"Mt7,5":
+  text: "Obłudniku, wyjmij najpierw belkę ze swego oka, a wtedy przejrzysz, aby wyjąć źdźbło z oka twego brata."
+  tags: []
+"Mt7,6":
+  text: "Nie dawajcie psom tego, co święte, i nie rzucajcie swoich pereł przed świnie, by ich nie podeptały swymi nogami i odwróciwszy się, nie rozszarpały was."
+  tags: []
+"Mt7,7":
+  text: "Proście, a będzie wam dane, szukajcie, a znajdziecie, pukajcie, a będzie wam otworzone."
+  tags: []
+"Mt7,8":
+  text: "Każdy bowiem, kto prosi, otrzymuje, kto szuka, znajduje, a temu, kto puka, będzie otworzone."
+  tags: []
+"Mt7,9":
+  text: "I czy jest wśród was człowiek, który da synowi kamień, gdy ten prosi o chleb?"
+  tags: []
+"Mt7,10":
+  text: "A gdy prosi o rybę, czy da mu węża?"
+  tags: []
+"Mt7,11":
+  text: "Jeśli więc wy, będąc złymi, umiecie dawać dobre dary waszym dzieciom, o ileż bardziej wasz Ojciec, który jest w niebie, da dobre rzeczy tym, którzy go proszą."
+  tags: []
+"Mt7,12":
+  text: "Wszystko więc, co chcecie, aby wam ludzie czynili, i wy im czyńcie. To bowiem jest Prawo i Prorocy."
+  tags: []
+"Mt7,13":
+  text: "Wchodźcie przez ciasną bramę. Szeroka bowiem jest brama i przestronna droga, która prowadzi na zatracenie, a wielu jest takich, którzy przez nią wchodzą."
+  tags: []
+"Mt7,14":
+  text: "Ciasna bowiem jest brama i wąska droga, która prowadzi do życia, a mało jest takich, którzy ją znajdują."
+  tags: []
+"Mt7,15":
+  text: "Strzeżcie się fałszywych proroków, którzy przychodzą do was w owczej skórze, ale wewnątrz są drapieżnymi wilkami."
+  tags: []
+"Mt7,16":
+  text: "Po ich owocach poznacie ich. Czy zbierają winogrona z cierni albo z ostu figi?"
+  tags: []
+"Mt7,17":
+  text: "Tak każde dobre drzewo wydaje dobre owoce, ale złe drzewo wydaje złe owoce."
+  tags: []
+"Mt7,18":
+  text: "Nie może dobre drzewo wydawać złych owoców ani złe drzewo wydawać dobrych owoców."
+  tags: []
+"Mt7,19":
+  text: "Każde drzewo, które nie wydaje dobrego owocu, zostaje wycięte i wrzucone w ogień."
+  tags: []
+"Mt7,20":
+  text: "Tak więc po ich owocach poznacie ich."
+  tags: []
+"Mt7,21":
+  text: "Nie każdy, kto mi mówi: Panie, Panie, wejdzie do królestwa niebieskiego, lecz ten, kto wypełnia wolę mojego Ojca, który jest w niebie."
+  tags: []
+"Mt7,22":
+  text: "Wielu powie mi tego dnia: Panie, Panie, czyż nie prorokowaliśmy w twoim imieniu i w twoim imieniu nie wypędzaliśmy demonów, i w twoim imieniu nie czyniliśmy wielu cudów?"
+  tags: []
+"Mt7,23":
+  text: "A wtedy im oświadczę: Nigdy was nie znałem. Odstąpcie ode mnie wy, którzy czynicie nieprawość."
+  tags: []
+"Mt7,24":
+  text: "Każdego więc, kto słucha tych moich słów i wypełnia je, przyrównam do człowieka mądrego, który zbudował swój dom na skale."
+  tags: []
+"Mt7,25":
+  text: "I spadł deszcz, przyszła powódź, zerwały się wichry i uderzyły w ten dom, ale się nie zawalił, bo był założony na skale."
+  tags: []
+"Mt7,26":
+  text: "A każdy, kto słucha tych moich słów, a nie wypełnia ich, będzie przyrównany do człowieka głupiego, który zbudował swój dom na piasku."
+  tags: []
+"Mt7,27":
+  text: "I spadł deszcz, przyszła powódź, zerwały się wichry i uderzyły w ten dom, i zawalił się, a jego upadek był wielki."
+  tags: []
+"Mt7,28":
+  text: "A gdy Jezus dokończył tych słów, ludzie zdumiewali się jego nauką."
+  tags: []
+"Mt7,29":
+  text: "Uczył ich bowiem jak ten, który ma moc, a nie jak uczeni w Piśmie."
+  tags: []

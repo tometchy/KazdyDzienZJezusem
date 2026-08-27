@@ -1,23 +1,69 @@
-"Ps74,1": "Boże, dlaczego odrzuciłeś nas na zawsze? Czemu płonie twój gniew przeciwko owcom twego pastwiska?"
-"Ps74,2": "Wspomnij na swoje zgromadzenie, które dawno nabyłeś; na szczep twego dziedzictwa, który odkupiłeś; na górę Syjon, na której mieszkasz."
-"Ps74,3": "Pospiesz na miejsce ciągłych spustoszeń; o, jak wróg zburzył wszystko w świątyni!"
-"Ps74,4": "Ryknęli twoi wrogowie pośrodku twego zgromadzenia, a na znak zatknęli swoje sztandary."
-"Ps74,5": "Za sławnego uważano tego, który wznosił wysoko siekierę na gęste drzewo."
-"Ps74,6": "A teraz już jego rzeźby rąbią siekierami i młotami."
-"Ps74,7": "Oddali na pastwę ognia twoją świątynię i obaliwszy na ziemię, zbezcześcili przybytek twego imienia."
-"Ps74,8": "Mówili w swym sercu: Zburzmy ich razem! Spalili wszystkie miejsca zgromadzeń Bożych na ziemi."
-"Ps74,9": "Nie widzimy naszych znaków; już nie ma proroka i nikt spośród nas nie wie, jak długo to ma trwać."
-"Ps74,10": "Jak długo, Boże, przeciwnik będzie urągać? Czy wróg będzie wiecznie bluźnił przeciwko twemu imieniu?"
-"Ps74,11": "Dlaczego cofasz swoją rękę i swojej prawicy z zanadrza nie wyjmujesz?"
-"Ps74,12": "Przecież ty, Boże, jesteś moim Królem od dawna, ty dokonujesz zbawienia na ziemi."
-"Ps74,13": "Ty swoją mocą rozdzieliłeś morze, zmiażdżyłeś głowy smoków w wodach."
-"Ps74,14": "Ty skruszyłeś głowy Lewiatana, dałeś go na pokarm mieszkańcom pustyni."
-"Ps74,15": "Ty rozszczepiłeś źródła i potoki, ty osuszyłeś potężne rzeki."
-"Ps74,16": "Twój jest dzień, twoja i noc, ty ustanowiłeś światło i słońce."
-"Ps74,17": "Ty wyznaczyłeś wszystkie granice ziemi, ty ustanowiłeś lato i zimę."
-"Ps74,18": "Pamiętaj o tym, że wróg zelżył ciebie, PANIE, a głupi lud urągał twemu imieniu."
-"Ps74,19": "Nie wydawaj tej zgrai duszy twojej synogarlicy, nie zapominaj nigdy o stadku twoich ubogich."
-"Ps74,20": "Zważ na twoje przymierze, bo ciemne zakątki ziemi pełne są siedlisk przemocy."
-"Ps74,21": "Niech uciśniony nie wraca ze wstydem, niech ubogi i potrzebujący chwali twoje imię."
-"Ps74,22": "Powstań, Boże, broń swojej sprawy; pamiętaj o zniewadze, którą co dzień wyrządza ci głupiec."
-"Ps74,23": "Nie zapominaj krzyku twoich wrogów, wciąż rosnącej wrzawy tych, którzy powstają przeciwko tobie."
+"Ps74,1":
+  text: "Boże, dlaczego odrzuciłeś nas na zawsze? Czemu płonie twój gniew przeciwko owcom twego pastwiska?"
+  tags: []
+"Ps74,2":
+  text: "Wspomnij na swoje zgromadzenie, które dawno nabyłeś; na szczep twego dziedzictwa, który odkupiłeś; na górę Syjon, na której mieszkasz."
+  tags: []
+"Ps74,3":
+  text: "Pospiesz na miejsce ciągłych spustoszeń; o, jak wróg zburzył wszystko w świątyni!"
+  tags: []
+"Ps74,4":
+  text: "Ryknęli twoi wrogowie pośrodku twego zgromadzenia, a na znak zatknęli swoje sztandary."
+  tags: []
+"Ps74,5":
+  text: "Za sławnego uważano tego, który wznosił wysoko siekierę na gęste drzewo."
+  tags: []
+"Ps74,6":
+  text: "A teraz już jego rzeźby rąbią siekierami i młotami."
+  tags: []
+"Ps74,7":
+  text: "Oddali na pastwę ognia twoją świątynię i obaliwszy na ziemię, zbezcześcili przybytek twego imienia."
+  tags: []
+"Ps74,8":
+  text: "Mówili w swym sercu: Zburzmy ich razem! Spalili wszystkie miejsca zgromadzeń Bożych na ziemi."
+  tags: []
+"Ps74,9":
+  text: "Nie widzimy naszych znaków; już nie ma proroka i nikt spośród nas nie wie, jak długo to ma trwać."
+  tags: []
+"Ps74,10":
+  text: "Jak długo, Boże, przeciwnik będzie urągać? Czy wróg będzie wiecznie bluźnił przeciwko twemu imieniu?"
+  tags: []
+"Ps74,11":
+  text: "Dlaczego cofasz swoją rękę i swojej prawicy z zanadrza nie wyjmujesz?"
+  tags: []
+"Ps74,12":
+  text: "Przecież ty, Boże, jesteś moim Królem od dawna, ty dokonujesz zbawienia na ziemi."
+  tags: []
+"Ps74,13":
+  text: "Ty swoją mocą rozdzieliłeś morze, zmiażdżyłeś głowy smoków w wodach."
+  tags: []
+"Ps74,14":
+  text: "Ty skruszyłeś głowy Lewiatana, dałeś go na pokarm mieszkańcom pustyni."
+  tags: []
+"Ps74,15":
+  text: "Ty rozszczepiłeś źródła i potoki, ty osuszyłeś potężne rzeki."
+  tags: []
+"Ps74,16":
+  text: "Twój jest dzień, twoja i noc, ty ustanowiłeś światło i słońce."
+  tags: []
+"Ps74,17":
+  text: "Ty wyznaczyłeś wszystkie granice ziemi, ty ustanowiłeś lato i zimę."
+  tags: []
+"Ps74,18":
+  text: "Pamiętaj o tym, że wróg zelżył ciebie, PANIE, a głupi lud urągał twemu imieniu."
+  tags: []
+"Ps74,19":
+  text: "Nie wydawaj tej zgrai duszy twojej synogarlicy, nie zapominaj nigdy o stadku twoich ubogich."
+  tags: []
+"Ps74,20":
+  text: "Zważ na twoje przymierze, bo ciemne zakątki ziemi pełne są siedlisk przemocy."
+  tags: []
+"Ps74,21":
+  text: "Niech uciśniony nie wraca ze wstydem, niech ubogi i potrzebujący chwali twoje imię."
+  tags: []
+"Ps74,22":
+  text: "Powstań, Boże, broń swojej sprawy; pamiętaj o zniewadze, którą co dzień wyrządza ci głupiec."
+  tags: []
+"Ps74,23":
+  text: "Nie zapominaj krzyku twoich wrogów, wciąż rosnącej wrzawy tych, którzy powstają przeciwko tobie."
+  tags: []

@@ -1,28 +1,84 @@
-"Ps35,1": "Spieraj się, PANIE, z tymi, którzy się ze mną spierają; walcz z tymi, którzy walczą ze mną."
-"Ps35,2": "Chwyć tarczę i puklerz i powstań mi na pomoc."
-"Ps35,3": "Dobądź włóczni i zagrodź drogę tym, którzy mnie prześladują. Powiedz mojej duszy: Ja jestem twoim zbawieniem."
-"Ps35,4": "Niech hańba i wstyd okryją tych, którzy czyhają na moją duszę; niech cofną się i niech będą zawstydzeni ci, którzy obmyślają zło przeciwko mnie."
-"Ps35,5": "Niech będą jak plewy na wietrze i niech anioł PANA ich rozproszy."
-"Ps35,6": "Niech droga ich będzie ciemna i śliska i niech anioł PANA ich ściga."
-"Ps35,7": "Bez powodu bowiem zastawili na mnie w dole sieci, bez powodu wykopali dół na moją duszę."
-"Ps35,8": "Niech niespodziewanie przyjdzie na nich zniszczenie; niech złowi ich sieć, którą zastawili. Niech w nią wpadną ku zniszczeniu."
-"Ps35,9": "A moja dusza będzie się radować w PANU, będzie się weselić jego zbawieniem."
-"Ps35,10": "Wszystkie moje kości powiedzą: PANIE, któż podobny do ciebie, który uwalniasz uciśnionego od silniejszego, a nędznego i ubogiego od łupieżcy?"
-"Ps35,11": "Powstają fałszywi świadkowie i pytają mnie o to, czego nie wiem."
-"Ps35,12": "Odpłacają mi złem za dobro, chcąc pozbawić mnie mojej duszy."
-"Ps35,13": "Lecz ja, gdy oni chorowali, wkładałem wór pokutny, umartwiałem postem moją duszę i moja modlitwa wracała do mojej piersi."
-"Ps35,14": "Postępowałem jak z przyjacielem, jak z bratem, uginałem się pod brzemieniem smutku jak w żałobie po matce."
-"Ps35,15": "Lecz gdy ja byłem strapiony, oni się cieszyli i zbierali się; gromadzili się przeciwko mnie nikczemni, a tego nie widziałem; szarpali mnie nieustannie."
-"Ps35,16": "Wraz z obłudnikami, szydercami i pochlebcami zgrzytali na mnie zębami."
-"Ps35,17": "Panie, jak długo będziesz na to patrzeć? Wybaw od zniszczenia moją duszę, od lwów drogą duszę moją."
-"Ps35,18": "Będę cię wysławiał w wielkim zgromadzeniu, wśród licznego ludu będę cię chwalił."
-"Ps35,19": "Niech się nie cieszą z mojego powodu ci, którzy bez przyczyny są moimi wrogami, niech nie mrugają okiem ci, którzy niesłusznie mnie nienawidzą."
-"Ps35,20": "Nie mówią bowiem o pokoju, lecz przeciwko spokojnym na ziemi obmyślają zdradliwe słowa."
-"Ps35,21": "Owszem, otwierają przeciw mnie swe usta, mówiąc: Ha, ha! Widzieliśmy to na własne oczy."
-"Ps35,22": "Widziałeś to, PANIE, nie milcz; Panie, nie oddalaj się ode mnie."
-"Ps35,23": "Obudź się i wystąp w mojej obronie, w mojej sprawie, mój Boże i Panie!"
-"Ps35,24": "Osądź mnie według swojej sprawiedliwości, PANIE, mój Boże! Niech się nie cieszą z mojego powodu."
-"Ps35,25": "Niech nie mówią w swoim sercu: Ha! Tego chcieliśmy! Niech nie mówią: Pożarliśmy go!"
-"Ps35,26": "Niech się zawstydzą i zawiodą wszyscy, którzy cieszą się z mojego nieszczęścia; niech się okryją wstydem i hańbą ci, którzy wynoszą się nade mnie."
-"Ps35,27": "Ale niech śpiewają i radują się ci, którzy sprzyjają mojej słusznej sprawie; niech mówią nieustannie: Niech będzie wywyższony PAN, który pragnie pokoju dla swego sługi."
-"Ps35,28": "A mój język będzie głosił twoją sprawiedliwość i chwałę twoją przez cały dzień."
+"Ps35,1":
+  text: "Spieraj się, PANIE, z tymi, którzy się ze mną spierają; walcz z tymi, którzy walczą ze mną."
+  tags: []
+"Ps35,2":
+  text: "Chwyć tarczę i puklerz i powstań mi na pomoc."
+  tags: []
+"Ps35,3":
+  text: "Dobądź włóczni i zagrodź drogę tym, którzy mnie prześladują. Powiedz mojej duszy: Ja jestem twoim zbawieniem."
+  tags: []
+"Ps35,4":
+  text: "Niech hańba i wstyd okryją tych, którzy czyhają na moją duszę; niech cofną się i niech będą zawstydzeni ci, którzy obmyślają zło przeciwko mnie."
+  tags: []
+"Ps35,5":
+  text: "Niech będą jak plewy na wietrze i niech anioł PANA ich rozproszy."
+  tags: []
+"Ps35,6":
+  text: "Niech droga ich będzie ciemna i śliska i niech anioł PANA ich ściga."
+  tags: []
+"Ps35,7":
+  text: "Bez powodu bowiem zastawili na mnie w dole sieci, bez powodu wykopali dół na moją duszę."
+  tags: []
+"Ps35,8":
+  text: "Niech niespodziewanie przyjdzie na nich zniszczenie; niech złowi ich sieć, którą zastawili. Niech w nią wpadną ku zniszczeniu."
+  tags: []
+"Ps35,9":
+  text: "A moja dusza będzie się radować w PANU, będzie się weselić jego zbawieniem."
+  tags: []
+"Ps35,10":
+  text: "Wszystkie moje kości powiedzą: PANIE, któż podobny do ciebie, który uwalniasz uciśnionego od silniejszego, a nędznego i ubogiego od łupieżcy?"
+  tags: []
+"Ps35,11":
+  text: "Powstają fałszywi świadkowie i pytają mnie o to, czego nie wiem."
+  tags: []
+"Ps35,12":
+  text: "Odpłacają mi złem za dobro, chcąc pozbawić mnie mojej duszy."
+  tags: []
+"Ps35,13":
+  text: "Lecz ja, gdy oni chorowali, wkładałem wór pokutny, umartwiałem postem moją duszę i moja modlitwa wracała do mojej piersi."
+  tags: []
+"Ps35,14":
+  text: "Postępowałem jak z przyjacielem, jak z bratem, uginałem się pod brzemieniem smutku jak w żałobie po matce."
+  tags: []
+"Ps35,15":
+  text: "Lecz gdy ja byłem strapiony, oni się cieszyli i zbierali się; gromadzili się przeciwko mnie nikczemni, a tego nie widziałem; szarpali mnie nieustannie."
+  tags: []
+"Ps35,16":
+  text: "Wraz z obłudnikami, szydercami i pochlebcami zgrzytali na mnie zębami."
+  tags: []
+"Ps35,17":
+  text: "Panie, jak długo będziesz na to patrzeć? Wybaw od zniszczenia moją duszę, od lwów drogą duszę moją."
+  tags: []
+"Ps35,18":
+  text: "Będę cię wysławiał w wielkim zgromadzeniu, wśród licznego ludu będę cię chwalił."
+  tags: []
+"Ps35,19":
+  text: "Niech się nie cieszą z mojego powodu ci, którzy bez przyczyny są moimi wrogami, niech nie mrugają okiem ci, którzy niesłusznie mnie nienawidzą."
+  tags: []
+"Ps35,20":
+  text: "Nie mówią bowiem o pokoju, lecz przeciwko spokojnym na ziemi obmyślają zdradliwe słowa."
+  tags: []
+"Ps35,21":
+  text: "Owszem, otwierają przeciw mnie swe usta, mówiąc: Ha, ha! Widzieliśmy to na własne oczy."
+  tags: []
+"Ps35,22":
+  text: "Widziałeś to, PANIE, nie milcz; Panie, nie oddalaj się ode mnie."
+  tags: []
+"Ps35,23":
+  text: "Obudź się i wystąp w mojej obronie, w mojej sprawie, mój Boże i Panie!"
+  tags: []
+"Ps35,24":
+  text: "Osądź mnie według swojej sprawiedliwości, PANIE, mój Boże! Niech się nie cieszą z mojego powodu."
+  tags: []
+"Ps35,25":
+  text: "Niech nie mówią w swoim sercu: Ha! Tego chcieliśmy! Niech nie mówią: Pożarliśmy go!"
+  tags: []
+"Ps35,26":
+  text: "Niech się zawstydzą i zawiodą wszyscy, którzy cieszą się z mojego nieszczęścia; niech się okryją wstydem i hańbą ci, którzy wynoszą się nade mnie."
+  tags: []
+"Ps35,27":
+  text: "Ale niech śpiewają i radują się ci, którzy sprzyjają mojej słusznej sprawie; niech mówią nieustannie: Niech będzie wywyższony PAN, który pragnie pokoju dla swego sługi."
+  tags: []
+"Ps35,28":
+  text: "A mój język będzie głosił twoją sprawiedliwość i chwałę twoją przez cały dzień."
+  tags: []

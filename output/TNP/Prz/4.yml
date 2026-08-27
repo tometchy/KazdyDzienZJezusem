@@ -1,27 +1,81 @@
-"Prz4,1": "Słuchajcie synowie pouczenia ojca i bądźcie uważni, abyście poznali roztropność;"
-"Prz4,2": "Bo daję wam dobrą naukę, nie porzucajcie mojego Prawa."
-"Prz4,3": "Gdy byłem synem u mojego ojca i miłym jedynakiem w oczach mojej matki,"
-"Prz4,4": "On uczył mnie i mówił do mnie: Niech twoje serce trzyma się moich słów; strzeż moich przykazań, a będziesz żył."
-"Prz4,5": "Nabywaj mądrości, nabywaj roztropności; nie zapominaj i nie odstępuj od słów płynących z moich ust."
-"Prz4,6": "Nie porzucaj jej, a będzie cię strzegła; pokochaj ją, a ochroni cię."
-"Prz4,7": "Początek mądrości jest taki: nabywaj mądrości i za cały swój majątek nabywaj roztropności."
-"Prz4,8": "Ceń ją, a ona cię wywyższy, obdarzy chwałą, gdy ją przygarniesz."
-"Prz4,9": "Zdobny wieniec włoży ci na głowę, przekaże ci koronę chwały."
-"Prz4,10": "Słuchaj, synu mój, i przyjmij moje słowa, a pomnożą się lata twojego życia."
-"Prz4,11": "Nauczyłem cię drogi mądrości, po ścieżkach prawości cię prowadziłem;"
-"Prz4,12": "Gdy nimi pójdziesz, twoje kroki nie będą skrępowane; a jeśli pobiegniesz, nie potkniesz się."
-"Prz4,13": "Trzymaj się karności, nie porzucaj jej, strzeż jej, bo ona jest twoim życiem."
-"Prz4,14": "Nie wkraczaj na ścieżkę niegodziwych i nie chodź drogą złych ludzi."
-"Prz4,15": "Unikaj jej, nie chodź po niej; odwróć się od niej i omiń ją;"
-"Prz4,16": "Bo oni nie zasną, jeśli nie wyrządzą czegoś złego; sen ich dopiero zmoże, gdy przywiodą kogoś do upadku;"
-"Prz4,17": "Bo jedzą chleb niegodziwości i piją wino przemocy."
-"Prz4,18": "Ale ścieżka sprawiedliwych jest jak promieniująca światłość, idzie i jaśnieje aż do dnia doskonałego."
-"Prz4,19": "Droga niegodziwych jest jak gęsty mrok; nie wiedzą, o co się potkną."
-"Prz4,20": "Synu mój, zważaj na moje słowa; ku moim wypowiedziom nakłoń swoje ucho."
-"Prz4,21": "Niech nie schodzą ci z oczu, zachowaj je w głębi twojego serca."
-"Prz4,22": "Są bowiem życiem dla tych, którzy je znajdują i lekarstwem dla całego ich ciała."
-"Prz4,23": "Strzeż swojego serca z całą czujnością, bo z niego tryska źródło życia."
-"Prz4,24": "Odsuń od siebie przewrotność ust, oddal od siebie obłudę warg."
-"Prz4,25": "Niech twoje oczy patrzą na wprost, a twoje powieki niech się kierują prosto przed siebie."
-"Prz4,26": "Równaj szlak dla twojej nogi, aby wszystkie twoje drogi były pewne."
-"Prz4,27": "Nie zbaczaj ani na prawo, ani na lewo; odwróć twoją nogę od zła."
+"Prz4,1":
+  text: "Słuchajcie synowie pouczenia ojca i bądźcie uważni, abyście poznali roztropność;"
+  tags: []
+"Prz4,2":
+  text: "Bo daję wam dobrą naukę, nie porzucajcie mojego Prawa."
+  tags: []
+"Prz4,3":
+  text: "Gdy byłem synem u mojego ojca i miłym jedynakiem w oczach mojej matki,"
+  tags: []
+"Prz4,4":
+  text: "On uczył mnie i mówił do mnie: Niech twoje serce trzyma się moich słów; strzeż moich przykazań, a będziesz żył."
+  tags: []
+"Prz4,5":
+  text: "Nabywaj mądrości, nabywaj roztropności; nie zapominaj i nie odstępuj od słów płynących z moich ust."
+  tags: []
+"Prz4,6":
+  text: "Nie porzucaj jej, a będzie cię strzegła; pokochaj ją, a ochroni cię."
+  tags: []
+"Prz4,7":
+  text: "Początek mądrości jest taki: nabywaj mądrości i za cały swój majątek nabywaj roztropności."
+  tags: []
+"Prz4,8":
+  text: "Ceń ją, a ona cię wywyższy, obdarzy chwałą, gdy ją przygarniesz."
+  tags: []
+"Prz4,9":
+  text: "Zdobny wieniec włoży ci na głowę, przekaże ci koronę chwały."
+  tags: []
+"Prz4,10":
+  text: "Słuchaj, synu mój, i przyjmij moje słowa, a pomnożą się lata twojego życia."
+  tags: []
+"Prz4,11":
+  text: "Nauczyłem cię drogi mądrości, po ścieżkach prawości cię prowadziłem;"
+  tags: []
+"Prz4,12":
+  text: "Gdy nimi pójdziesz, twoje kroki nie będą skrępowane; a jeśli pobiegniesz, nie potkniesz się."
+  tags: []
+"Prz4,13":
+  text: "Trzymaj się karności, nie porzucaj jej, strzeż jej, bo ona jest twoim życiem."
+  tags: []
+"Prz4,14":
+  text: "Nie wkraczaj na ścieżkę niegodziwych i nie chodź drogą złych ludzi."
+  tags: []
+"Prz4,15":
+  text: "Unikaj jej, nie chodź po niej; odwróć się od niej i omiń ją;"
+  tags: []
+"Prz4,16":
+  text: "Bo oni nie zasną, jeśli nie wyrządzą czegoś złego; sen ich dopiero zmoże, gdy przywiodą kogoś do upadku;"
+  tags: []
+"Prz4,17":
+  text: "Bo jedzą chleb niegodziwości i piją wino przemocy."
+  tags: []
+"Prz4,18":
+  text: "Ale ścieżka sprawiedliwych jest jak promieniująca światłość, idzie i jaśnieje aż do dnia doskonałego."
+  tags: []
+"Prz4,19":
+  text: "Droga niegodziwych jest jak gęsty mrok; nie wiedzą, o co się potkną."
+  tags: []
+"Prz4,20":
+  text: "Synu mój, zważaj na moje słowa; ku moim wypowiedziom nakłoń swoje ucho."
+  tags: []
+"Prz4,21":
+  text: "Niech nie schodzą ci z oczu, zachowaj je w głębi twojego serca."
+  tags: []
+"Prz4,22":
+  text: "Są bowiem życiem dla tych, którzy je znajdują i lekarstwem dla całego ich ciała."
+  tags: []
+"Prz4,23":
+  text: "Strzeż swojego serca z całą czujnością, bo z niego tryska źródło życia."
+  tags: []
+"Prz4,24":
+  text: "Odsuń od siebie przewrotność ust, oddal od siebie obłudę warg."
+  tags: []
+"Prz4,25":
+  text: "Niech twoje oczy patrzą na wprost, a twoje powieki niech się kierują prosto przed siebie."
+  tags: []
+"Prz4,26":
+  text: "Równaj szlak dla twojej nogi, aby wszystkie twoje drogi były pewne."
+  tags: []
+"Prz4,27":
+  text: "Nie zbaczaj ani na prawo, ani na lewo; odwróć twoją nogę od zła."
+  tags: []

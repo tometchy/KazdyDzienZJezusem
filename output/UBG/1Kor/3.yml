@@ -1,23 +1,69 @@
-"1Kor3,1": "I ja, bracia, nie mogłem do was mówić jak do ludzi duchowych, ale jak do cielesnych, jak do niemowląt w Chrystusie."
-"1Kor3,2": "Karmiłem was mlekiem, a nie stałym pokarmem, bo jeszcze nie mogliście go przyjąć, a nawet teraz jeszcze nie możecie;"
-"1Kor3,3": "Gdyż jeszcze jesteście cieleśni. Skoro bowiem jest między wami zazdrość, kłótnie i podziały, to czyż nie jesteście cieleśni i nie postępujecie na sposób ludzki?"
-"1Kor3,4": "Skoro ktoś mówi: Ja jestem Pawła, a inny: Ja Apollosa, to czyż nie jesteście cieleśni?"
-"1Kor3,5": "Kim bowiem jest Paweł? Kim Apollos? Tylko sługami, przez których uwierzyliście, a to tak, jak każdemu dał Pan."
-"1Kor3,6": "Ja siałem, Apollos podlewał, ale Bóg dał wzrost."
-"1Kor3,7": "Tak więc ani ten, który sieje, ani ten, który podlewa, nic nie znaczą, tylko Bóg, który daje wzrost."
-"1Kor3,8": "Ten zaś, który sieje, i ten, który podlewa, stanowią jedno, a każdy otrzyma swoją zapłatę stosownie do swojej pracy."
-"1Kor3,9": "Jesteśmy bowiem współpracownikami Bożymi; wy jesteście Bożą rolą i Bożą budowlą."
-"1Kor3,10": "Według łaski Boga, która została mi dana, jak mądry budowniczy położyłem fundament, a inny na nim buduje. Jednak każdy niech uważa, jak na nim buduje."
-"1Kor3,11": "Nikt bowiem nie może położyć innego fundamentu niż ten, który jest położony, którym jest Jezus Chrystus."
-"1Kor3,12": "A czy ktoś na tym fundamencie buduje ze złota, srebra, z drogich kamieni, drewna, siana czy ze słomy;"
-"1Kor3,13": "Dzieło każdego będzie jawne. Dzień ten bowiem to pokaże, gdyż przez ogień zostanie objawione i ogień wypróbuje, jakie jest dzieło każdego."
-"1Kor3,14": "Jeśli czyjeś dzieło budowane na tym fundamencie przetrwa, ten otrzyma zapłatę."
-"1Kor3,15": "Jeśli zaś czyjeś dzieło spłonie, ten poniesie szkodę. Lecz on sam będzie zbawiony, tak jednak, jak przez ogień."
-"1Kor3,16": "Czyż nie wiecie, że jesteście świątynią Boga i że Duch Boży w was mieszka?"
-"1Kor3,17": "A jeśli ktoś niszczy świątynię Boga, tego zniszczy Bóg, bo świątynia Boga jest święta, a wy nią jesteście."
-"1Kor3,18": "Niech nikt nie oszukuje samego siebie. Jeśli komuś spośród was wydaje się, że jest mądry na tym świecie, niech się stanie głupim, aby stał się mądrym."
-"1Kor3,19": "Mądrość bowiem tego świata jest głupstwem u Boga. Bo jest napisane: On chwyta mądrych w ich przebiegłości."
-"1Kor3,20": "I znowu: Pan zna myśli mądrych i wie, że są marnością."
-"1Kor3,21": "Niech się więc nikt nie chlubi ludźmi. Wszystko bowiem jest wasze:"
-"1Kor3,22": "Czy Paweł, czy Apollos, czy Kefas, czy świat, czy życie, czy śmierć, czy to, co teraźniejsze, czy to, co przyszłe – wszystko jest wasze;"
-"1Kor3,23": "Wy zaś jesteście Chrystusa, a Chrystus Boga."
+"1Kor3,1":
+  text: "I ja, bracia, nie mogłem do was mówić jak do ludzi duchowych, ale jak do cielesnych, jak do niemowląt w Chrystusie."
+  tags: []
+"1Kor3,2":
+  text: "Karmiłem was mlekiem, a nie stałym pokarmem, bo jeszcze nie mogliście go przyjąć, a nawet teraz jeszcze nie możecie;"
+  tags: []
+"1Kor3,3":
+  text: "Gdyż jeszcze jesteście cieleśni. Skoro bowiem jest między wami zazdrość, kłótnie i podziały, to czyż nie jesteście cieleśni i nie postępujecie na sposób ludzki?"
+  tags: []
+"1Kor3,4":
+  text: "Skoro ktoś mówi: Ja jestem Pawła, a inny: Ja Apollosa, to czyż nie jesteście cieleśni?"
+  tags: []
+"1Kor3,5":
+  text: "Kim bowiem jest Paweł? Kim Apollos? Tylko sługami, przez których uwierzyliście, a to tak, jak każdemu dał Pan."
+  tags: []
+"1Kor3,6":
+  text: "Ja siałem, Apollos podlewał, ale Bóg dał wzrost."
+  tags: []
+"1Kor3,7":
+  text: "Tak więc ani ten, który sieje, ani ten, który podlewa, nic nie znaczą, tylko Bóg, który daje wzrost."
+  tags: []
+"1Kor3,8":
+  text: "Ten zaś, który sieje, i ten, który podlewa, stanowią jedno, a każdy otrzyma swoją zapłatę stosownie do swojej pracy."
+  tags: []
+"1Kor3,9":
+  text: "Jesteśmy bowiem współpracownikami Bożymi; wy jesteście Bożą rolą i Bożą budowlą."
+  tags: []
+"1Kor3,10":
+  text: "Według łaski Boga, która została mi dana, jak mądry budowniczy położyłem fundament, a inny na nim buduje. Jednak każdy niech uważa, jak na nim buduje."
+  tags: []
+"1Kor3,11":
+  text: "Nikt bowiem nie może położyć innego fundamentu niż ten, który jest położony, którym jest Jezus Chrystus."
+  tags: []
+"1Kor3,12":
+  text: "A czy ktoś na tym fundamencie buduje ze złota, srebra, z drogich kamieni, drewna, siana czy ze słomy;"
+  tags: []
+"1Kor3,13":
+  text: "Dzieło każdego będzie jawne. Dzień ten bowiem to pokaże, gdyż przez ogień zostanie objawione i ogień wypróbuje, jakie jest dzieło każdego."
+  tags: []
+"1Kor3,14":
+  text: "Jeśli czyjeś dzieło budowane na tym fundamencie przetrwa, ten otrzyma zapłatę."
+  tags: []
+"1Kor3,15":
+  text: "Jeśli zaś czyjeś dzieło spłonie, ten poniesie szkodę. Lecz on sam będzie zbawiony, tak jednak, jak przez ogień."
+  tags: []
+"1Kor3,16":
+  text: "Czyż nie wiecie, że jesteście świątynią Boga i że Duch Boży w was mieszka?"
+  tags: []
+"1Kor3,17":
+  text: "A jeśli ktoś niszczy świątynię Boga, tego zniszczy Bóg, bo świątynia Boga jest święta, a wy nią jesteście."
+  tags: []
+"1Kor3,18":
+  text: "Niech nikt nie oszukuje samego siebie. Jeśli komuś spośród was wydaje się, że jest mądry na tym świecie, niech się stanie głupim, aby stał się mądrym."
+  tags: []
+"1Kor3,19":
+  text: "Mądrość bowiem tego świata jest głupstwem u Boga. Bo jest napisane: On chwyta mądrych w ich przebiegłości."
+  tags: []
+"1Kor3,20":
+  text: "I znowu: Pan zna myśli mądrych i wie, że są marnością."
+  tags: []
+"1Kor3,21":
+  text: "Niech się więc nikt nie chlubi ludźmi. Wszystko bowiem jest wasze:"
+  tags: []
+"1Kor3,22":
+  text: "Czy Paweł, czy Apollos, czy Kefas, czy świat, czy życie, czy śmierć, czy to, co teraźniejsze, czy to, co przyszłe – wszystko jest wasze;"
+  tags: []
+"1Kor3,23":
+  text: "Wy zaś jesteście Chrystusa, a Chrystus Boga."
+  tags: []

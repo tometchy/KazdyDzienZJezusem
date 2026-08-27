@@ -1,21 +1,63 @@
-"Ez26,1": "W jedenastym roku, pierwszego dnia miesiąca, doszło do mnie słowo PANA mówiące:"
-"Ez26,2": "Synu człowieczy, ponieważ Tyr mówił o Jerozolimie: Ha! Zniszczona została brama ludu, obróciła się do mnie. Teraz będę napełniony, gdyż ona jest spustoszona."
-"Ez26,3": "Dlatego tak mówi Pan BÓG: Oto wystąpię przeciwko tobie, Tyrze, i sprowadzę na ciebie wiele narodów, jak morze podnosi swoje fale."
-"Ez26,4": "Zburzą mury Tyru i wywrócą jego wieże. Wymiotę z niego jego proch i uczynię go wierzchołkiem gładkiej skały."
-"Ez26,5": "Stanie się miejscem suszenia sieci pośród morza, bo ja to powiedziałem, mówi Pan BÓG. Stanie się łupem narodów."
-"Ez26,6": "A jego córki, które będą na polu, zostaną zabite mieczem; i poznają, że ja jestem PANEM."
-"Ez26,7": "Tak bowiem mówi Pan BÓG: Oto sprowadzę z północy przeciwko Tyrowi Nabuchodonozora, króla Babilonu, króla królów, z końmi, rydwanami, jeźdźcami, oddziałami i z wielkim ludem."
-"Ez26,8": "Twoje córki na polu zabije mieczem, zbuduje przeciwko tobie baszty, usypie przeciwko tobie wał i podniesie przeciwko tobie tarczę."
-"Ez26,9": "Skieruje tarany przeciwko twoim murom i zburzy twoje wieże swymi młotami wojennymi."
-"Ez26,10": "Z powodu mnóstwa jego koni okryje cię ich kurz; od grzmotu jeźdźców, wozów i rydwanów zadrżą twoje mury, gdy wjedzie w twoje bramy, jak wtedy, gdy wjeżdża się do zburzonego miasta."
-"Ez26,11": "Kopytami swoich koni zdepcze wszystkie twoje ulice, twój lud zabije mieczem i twoje potężne słupy runą na ziemię."
-"Ez26,12": "Złupią twoje bogactwo i zrabują twoje towary, zburzą twoje mury i zniszczą twoje wspaniałe domy, a twoje kamienie, drewno i proch wrzucą do wody."
-"Ez26,13": "I sprawię, że ustanie głos twoich pieśni, a dźwięku twoich harf nie będzie już słychać."
-"Ez26,14": "I uczynię cię wierzchołkiem gładkiej skały, staniesz się miejscem suszenia sieci i nie będziesz już odbudowany, bo ja, PAN, to powiedziałem, mówi Pan BÓG."
-"Ez26,15": "Tak mówi Pan BÓG do Tyru: Czy nie zadrżą wyspy na huk twego upadku, gdy ranni będą wołać, gdy będzie okrutna rzeź pośród ciebie?"
-"Ez26,16": "Wtedy wszyscy książęta morscy zejdą ze swoich tronów, złożą z siebie swoje płaszcze i zdejmą swoje haftowane szaty. Przyobleką się w strach, usiądą na ziemi, będą drżeć nieustannie i zdumiewać się nad tobą."
-"Ez26,17": "I podniosą lament nad tobą, i będą mówić do ciebie: Jakżeś zginęło, miasto zamieszkane z powodu swej bliskości do morza, miasto sławne, które było potężne na morzu, ono i jego mieszkańcy, którzy budzili grozę u wszystkich mieszkańców na morzu!"
-"Ez26,18": "Wtedy zadrżą wyspy w dniu twego upadku; tak, wyspy morskie zatrwożą się z powodu twego zginięcia."
-"Ez26,19": "Tak bowiem mówi Pan BÓG: Gdy uczynię cię miastem spustoszonym jak miasta, w których nikt nie mieszka, gdy sprowadzę na ciebie głębinę, tak że przykryją cię wielkie fale;"
-"Ez26,20": "Gdy strącę cię do tych, którzy zstępują do dołu, do ludu dawnego, i umieszczę cię w najniższych stronach ziemi – w dawnych miejscach opustoszałych – z tymi, co zstępują do dołu, abyś nie było zamieszkane, wtedy pokażę sławę w ziemi żyjących."
-"Ez26,21": "Uczynię z ciebie postrach i przestaniesz istnieć; a choć będą cię szukać, nigdy cię nie znajdą, mówi Pan BÓG."
+"Ez26,1":
+  text: "W jedenastym roku, pierwszego dnia miesiąca, doszło do mnie słowo PANA mówiące:"
+  tags: []
+"Ez26,2":
+  text: "Synu człowieczy, ponieważ Tyr mówił o Jerozolimie: Ha! Zniszczona została brama ludu, obróciła się do mnie. Teraz będę napełniony, gdyż ona jest spustoszona."
+  tags: []
+"Ez26,3":
+  text: "Dlatego tak mówi Pan BÓG: Oto wystąpię przeciwko tobie, Tyrze, i sprowadzę na ciebie wiele narodów, jak morze podnosi swoje fale."
+  tags: []
+"Ez26,4":
+  text: "Zburzą mury Tyru i wywrócą jego wieże. Wymiotę z niego jego proch i uczynię go wierzchołkiem gładkiej skały."
+  tags: []
+"Ez26,5":
+  text: "Stanie się miejscem suszenia sieci pośród morza, bo ja to powiedziałem, mówi Pan BÓG. Stanie się łupem narodów."
+  tags: []
+"Ez26,6":
+  text: "A jego córki, które będą na polu, zostaną zabite mieczem; i poznają, że ja jestem PANEM."
+  tags: []
+"Ez26,7":
+  text: "Tak bowiem mówi Pan BÓG: Oto sprowadzę z północy przeciwko Tyrowi Nabuchodonozora, króla Babilonu, króla królów, z końmi, rydwanami, jeźdźcami, oddziałami i z wielkim ludem."
+  tags: []
+"Ez26,8":
+  text: "Twoje córki na polu zabije mieczem, zbuduje przeciwko tobie baszty, usypie przeciwko tobie wał i podniesie przeciwko tobie tarczę."
+  tags: []
+"Ez26,9":
+  text: "Skieruje tarany przeciwko twoim murom i zburzy twoje wieże swymi młotami wojennymi."
+  tags: []
+"Ez26,10":
+  text: "Z powodu mnóstwa jego koni okryje cię ich kurz; od grzmotu jeźdźców, wozów i rydwanów zadrżą twoje mury, gdy wjedzie w twoje bramy, jak wtedy, gdy wjeżdża się do zburzonego miasta."
+  tags: []
+"Ez26,11":
+  text: "Kopytami swoich koni zdepcze wszystkie twoje ulice, twój lud zabije mieczem i twoje potężne słupy runą na ziemię."
+  tags: []
+"Ez26,12":
+  text: "Złupią twoje bogactwo i zrabują twoje towary, zburzą twoje mury i zniszczą twoje wspaniałe domy, a twoje kamienie, drewno i proch wrzucą do wody."
+  tags: []
+"Ez26,13":
+  text: "I sprawię, że ustanie głos twoich pieśni, a dźwięku twoich harf nie będzie już słychać."
+  tags: []
+"Ez26,14":
+  text: "I uczynię cię wierzchołkiem gładkiej skały, staniesz się miejscem suszenia sieci i nie będziesz już odbudowany, bo ja, PAN, to powiedziałem, mówi Pan BÓG."
+  tags: []
+"Ez26,15":
+  text: "Tak mówi Pan BÓG do Tyru: Czy nie zadrżą wyspy na huk twego upadku, gdy ranni będą wołać, gdy będzie okrutna rzeź pośród ciebie?"
+  tags: []
+"Ez26,16":
+  text: "Wtedy wszyscy książęta morscy zejdą ze swoich tronów, złożą z siebie swoje płaszcze i zdejmą swoje haftowane szaty. Przyobleką się w strach, usiądą na ziemi, będą drżeć nieustannie i zdumiewać się nad tobą."
+  tags: []
+"Ez26,17":
+  text: "I podniosą lament nad tobą, i będą mówić do ciebie: Jakżeś zginęło, miasto zamieszkane z powodu swej bliskości do morza, miasto sławne, które było potężne na morzu, ono i jego mieszkańcy, którzy budzili grozę u wszystkich mieszkańców na morzu!"
+  tags: []
+"Ez26,18":
+  text: "Wtedy zadrżą wyspy w dniu twego upadku; tak, wyspy morskie zatrwożą się z powodu twego zginięcia."
+  tags: []
+"Ez26,19":
+  text: "Tak bowiem mówi Pan BÓG: Gdy uczynię cię miastem spustoszonym jak miasta, w których nikt nie mieszka, gdy sprowadzę na ciebie głębinę, tak że przykryją cię wielkie fale;"
+  tags: []
+"Ez26,20":
+  text: "Gdy strącę cię do tych, którzy zstępują do dołu, do ludu dawnego, i umieszczę cię w najniższych stronach ziemi – w dawnych miejscach opustoszałych – z tymi, co zstępują do dołu, abyś nie było zamieszkane, wtedy pokażę sławę w ziemi żyjących."
+  tags: []
+"Ez26,21":
+  text: "Uczynię z ciebie postrach i przestaniesz istnieć; a choć będą cię szukać, nigdy cię nie znajdą, mówi Pan BÓG."
+  tags: []

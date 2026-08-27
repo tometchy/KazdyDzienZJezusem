@@ -1,32 +1,96 @@
-"Rdz10,1": "Oto dzieje rodu synów Noego: Sema, Chama i Jafeta, którym po potopie urodzili się synowie."
-"Rdz10,2": "Synowie Jafeta: Gomer, Magog, Madaj, Jawan, Tubal, Meszek i Tiras."
-"Rdz10,3": "Synowie Gomera: Aszkenaz, Rifat i Togarma."
-"Rdz10,4": "Synowie Jawana: Elisza, Tarszisz, Kittim i Dodanim."
-"Rdz10,5": "Od nich rozdzielone zostały wyspy narodów po swych ziemiach; każdy według swojego języka i według swoich rodów, w swoich narodach."
-"Rdz10,6": "A synowie Chama: Kusz, Misraim, Put i Kanaan."
-"Rdz10,7": "Synowie zaś Kusza: Seba, Chawila, Sabta, Rama i Sabteka. Synowie Ramy: Szeba i Dedan."
-"Rdz10,8": "Kusz spłodził Nimroda, który zaczął być mocarzem na ziemi."
-"Rdz10,9": "Ten był mocarnym myśliwym przed PANEM. Dlatego mówi się: Tak jak Nimrod, mocarny myśliwy przed PANEM."
-"Rdz10,10": "Początkiem jego królestwa były Babel, Erek, Akkad i Kalne w ziemi Szinear."
-"Rdz10,11": "Z tej ziemi wyszedł Assur i zbudował Niniwę i miasto Rechobot, i Kalach."
-"Rdz10,12": "Także wielkie miasto Resan pomiędzy Niniwą i Kalach."
-"Rdz10,13": "Misraim zaś spłodził Ludima, Ananima, Lahabima i Naftuchima;"
-"Rdz10,14": "Oraz Patrusyma, Kasluchima (z których pochodzą Filistyni) i Kaftoryma."
-"Rdz10,15": "Kanaan zaś spłodził Sydona, swego pierworodnego, i Cheta;"
-"Rdz10,16": "I Jebusytów, Amorytów, i Girgaszytów;"
-"Rdz10,17": "I Chiwwitów, Arkitów, i Sinitów;"
-"Rdz10,18": "I Arwadytów, Semarytów, i Chamatytów. A potem rozproszyły się rody Kananejczyków."
-"Rdz10,19": "A granica Kananejczyków biegła od Sydonu w kierunku Gerary aż do Gazy, w kierunku Sodomy i Gomory, Adamy i Seboima aż do Leszy."
-"Rdz10,20": "To są synowie Chama według ich rodów i języków, w ich ziemiach i narodach."
-"Rdz10,21": "A Semowi, ojcu wszystkich synów Ebera, bratu Jafeta, który był starszy, urodzili się synowie."
-"Rdz10,22": "Synowie Sema: Elam, Assur, Arpachszad, Lud i Aram."
-"Rdz10,23": "Synowie Arama: Us, Chul, Geter i Masz."
-"Rdz10,24": "Arpachszad zaś spłodził Szelacha, a Szelach spłodził Ebera."
-"Rdz10,25": "Eberowi urodzili się dwaj synowie: imię jednego – Peleg, gdyż za jego dni ziemia została rozdzielona; a imię jego brata – Joktan."
-"Rdz10,26": "Joktan spłodził Almodada, Szelefa, Chasarmaweta i Jeracha;"
-"Rdz10,27": "Hadorama, Uzala i Diklę;"
-"Rdz10,28": "Obala, Abimaela i Szeba;"
-"Rdz10,29": "Ofira, Chawilę i Jobaba; ci wszyscy byli synami Joktana."
-"Rdz10,30": "A obszar ich zamieszkania ciągnął się od Meszy w kierunku Sefar, wschodniej góry."
-"Rdz10,31": "To są synowie Sema według ich rodów i języków, w ich ziemiach i narodach."
-"Rdz10,32": "To są rody synów Noego według ich pokoleń i w ich narodach. Od nich wywodzą się narody, które rozprzestrzeniły się na ziemi po potopie."
+"Rdz10,1":
+  text: "Oto dzieje rodu synów Noego: Sema, Chama i Jafeta, którym po potopie urodzili się synowie."
+  tags: []
+"Rdz10,2":
+  text: "Synowie Jafeta: Gomer, Magog, Madaj, Jawan, Tubal, Meszek i Tiras."
+  tags: []
+"Rdz10,3":
+  text: "Synowie Gomera: Aszkenaz, Rifat i Togarma."
+  tags: []
+"Rdz10,4":
+  text: "Synowie Jawana: Elisza, Tarszisz, Kittim i Dodanim."
+  tags: []
+"Rdz10,5":
+  text: "Od nich rozdzielone zostały wyspy narodów po swych ziemiach; każdy według swojego języka i według swoich rodów, w swoich narodach."
+  tags: []
+"Rdz10,6":
+  text: "A synowie Chama: Kusz, Misraim, Put i Kanaan."
+  tags: []
+"Rdz10,7":
+  text: "Synowie zaś Kusza: Seba, Chawila, Sabta, Rama i Sabteka. Synowie Ramy: Szeba i Dedan."
+  tags: []
+"Rdz10,8":
+  text: "Kusz spłodził Nimroda, który zaczął być mocarzem na ziemi."
+  tags: []
+"Rdz10,9":
+  text: "Ten był mocarnym myśliwym przed PANEM. Dlatego mówi się: Tak jak Nimrod, mocarny myśliwy przed PANEM."
+  tags: []
+"Rdz10,10":
+  text: "Początkiem jego królestwa były Babel, Erek, Akkad i Kalne w ziemi Szinear."
+  tags: []
+"Rdz10,11":
+  text: "Z tej ziemi wyszedł Assur i zbudował Niniwę i miasto Rechobot, i Kalach."
+  tags: []
+"Rdz10,12":
+  text: "Także wielkie miasto Resan pomiędzy Niniwą i Kalach."
+  tags: []
+"Rdz10,13":
+  text: "Misraim zaś spłodził Ludima, Ananima, Lahabima i Naftuchima;"
+  tags: []
+"Rdz10,14":
+  text: "Oraz Patrusyma, Kasluchima (z których pochodzą Filistyni) i Kaftoryma."
+  tags: []
+"Rdz10,15":
+  text: "Kanaan zaś spłodził Sydona, swego pierworodnego, i Cheta;"
+  tags: []
+"Rdz10,16":
+  text: "I Jebusytów, Amorytów, i Girgaszytów;"
+  tags: []
+"Rdz10,17":
+  text: "I Chiwwitów, Arkitów, i Sinitów;"
+  tags: []
+"Rdz10,18":
+  text: "I Arwadytów, Semarytów, i Chamatytów. A potem rozproszyły się rody Kananejczyków."
+  tags: []
+"Rdz10,19":
+  text: "A granica Kananejczyków biegła od Sydonu w kierunku Gerary aż do Gazy, w kierunku Sodomy i Gomory, Adamy i Seboima aż do Leszy."
+  tags: []
+"Rdz10,20":
+  text: "To są synowie Chama według ich rodów i języków, w ich ziemiach i narodach."
+  tags: []
+"Rdz10,21":
+  text: "A Semowi, ojcu wszystkich synów Ebera, bratu Jafeta, który był starszy, urodzili się synowie."
+  tags: []
+"Rdz10,22":
+  text: "Synowie Sema: Elam, Assur, Arpachszad, Lud i Aram."
+  tags: []
+"Rdz10,23":
+  text: "Synowie Arama: Us, Chul, Geter i Masz."
+  tags: []
+"Rdz10,24":
+  text: "Arpachszad zaś spłodził Szelacha, a Szelach spłodził Ebera."
+  tags: []
+"Rdz10,25":
+  text: "Eberowi urodzili się dwaj synowie: imię jednego – Peleg, gdyż za jego dni ziemia została rozdzielona; a imię jego brata – Joktan."
+  tags: []
+"Rdz10,26":
+  text: "Joktan spłodził Almodada, Szelefa, Chasarmaweta i Jeracha;"
+  tags: []
+"Rdz10,27":
+  text: "Hadorama, Uzala i Diklę;"
+  tags: []
+"Rdz10,28":
+  text: "Obala, Abimaela i Szeba;"
+  tags: []
+"Rdz10,29":
+  text: "Ofira, Chawilę i Jobaba; ci wszyscy byli synami Joktana."
+  tags: []
+"Rdz10,30":
+  text: "A obszar ich zamieszkania ciągnął się od Meszy w kierunku Sefar, wschodniej góry."
+  tags: []
+"Rdz10,31":
+  text: "To są synowie Sema według ich rodów i języków, w ich ziemiach i narodach."
+  tags: []
+"Rdz10,32":
+  text: "To są rody synów Noego według ich pokoleń i w ich narodach. Od nich wywodzą się narody, które rozprzestrzeniły się na ziemi po potopie."
+  tags: []

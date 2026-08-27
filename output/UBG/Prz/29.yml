@@ -1,27 +1,81 @@
-"Prz29,1": "Człowiek, który czyni twardym swój kark mimo częstych nagan, zostanie nagle zniszczony i pozbawiony ratunku."
-"Prz29,2": "Gdy sprawiedliwi są u władzy, lud się weseli, a gdy panują niegodziwi, lud wzdycha."
-"Prz29,3": "Kto miłuje mądrość, raduje swego ojca, a kto zadaje się z nierządnicami, trwoni majątek."
-"Prz29,4": "Król utwierdza ziemię sądem, ale kto przyjmuje dary, burzy ją."
-"Prz29,5": "Człowiek, który pochlebia swemu bliźniemu, rozciąga sieć przed jego nogami."
-"Prz29,6": "Grzech złego człowieka jest jego sidłem, ale sprawiedliwy śpiewa i weseli się."
-"Prz29,7": "Sprawiedliwy zważa na sprawę ubogich, a niegodziwemu nie zależy na jej poznawaniu."
-"Prz29,8": "Szydercy prowadzą miasto w sidła, ale mądrzy odwracają gniew."
-"Prz29,9": "Jeśli mądry człowiek spiera się z głupim, czy się gniewa, czy się śmieje, nie ma pokoju."
-"Prz29,10": "Krwiożercy nienawidzą prawego, ale sprawiedliwi szukają jego duszy."
-"Prz29,11": "Głupi ujawnia cały swój umysł, a mądry zachowuje go na później."
-"Prz29,12": "Jeśli władca słucha kłamstw, to wszyscy jego słudzy są niegodziwi."
-"Prz29,13": "Ubogi i zdzierca spotykają się, a PAN obu oświeca oczy."
-"Prz29,14": "Tron króla, który sądzi ubogich według prawdy, będzie umocniony na wieki."
-"Prz29,15": "Rózga i upomnienia dają mądrość, a samowolne dziecko przynosi wstyd swojej matce."
-"Prz29,16": "Gdy niegodziwi się mnożą, to mnoży się i przestępstwo, lecz sprawiedliwi ujrzą ich upadek."
-"Prz29,17": "Karć swego syna, a da ci odpocząć i przyniesie rozkosz twojej duszy."
-"Prz29,18": "Gdy nie ma proroctwa, lud ginie, a kto przestrzega prawa, jest błogosławiony."
-"Prz29,19": "Sługi nie poprawi się słowami, bo choć rozumie, jednak nie odpowiada."
-"Prz29,20": "Widzisz człowieka, który jest pochopny w swoich słowach? Więcej nadziei dla głupca niż dla niego."
-"Prz29,21": "Kto czule wychowuje sługę od młodości, na ostatek będzie go miał za syna."
-"Prz29,22": "Człowiek gniewliwy wszczyna spór, a człowiek porywczy mnoży grzechy."
-"Prz29,23": "Pycha człowieka poniża go, ale pokorny w duchu dostąpi chwały."
-"Prz29,24": "Wspólnik złodzieja nienawidzi swojej duszy; słyszy przekleństwa, a nie wydaje go."
-"Prz29,25": "Strach przed człowiekiem zastawia sidła, ale kto ufa PANU, będzie bezpieczny."
-"Prz29,26": "Wielu zabiega o względy władcy, ale sąd każdego człowieka pochodzi od PANA."
-"Prz29,27": "Bezbożny budzi odrazę w sprawiedliwych, a kto postępuje uczciwie, budzi odrazę w niegodziwych."
+"Prz29,1":
+  text: "Człowiek, który czyni twardym swój kark mimo częstych nagan, zostanie nagle zniszczony i pozbawiony ratunku."
+  tags: []
+"Prz29,2":
+  text: "Gdy sprawiedliwi są u władzy, lud się weseli, a gdy panują niegodziwi, lud wzdycha."
+  tags: []
+"Prz29,3":
+  text: "Kto miłuje mądrość, raduje swego ojca, a kto zadaje się z nierządnicami, trwoni majątek."
+  tags: []
+"Prz29,4":
+  text: "Król utwierdza ziemię sądem, ale kto przyjmuje dary, burzy ją."
+  tags: []
+"Prz29,5":
+  text: "Człowiek, który pochlebia swemu bliźniemu, rozciąga sieć przed jego nogami."
+  tags: []
+"Prz29,6":
+  text: "Grzech złego człowieka jest jego sidłem, ale sprawiedliwy śpiewa i weseli się."
+  tags: []
+"Prz29,7":
+  text: "Sprawiedliwy zważa na sprawę ubogich, a niegodziwemu nie zależy na jej poznawaniu."
+  tags: []
+"Prz29,8":
+  text: "Szydercy prowadzą miasto w sidła, ale mądrzy odwracają gniew."
+  tags: []
+"Prz29,9":
+  text: "Jeśli mądry człowiek spiera się z głupim, czy się gniewa, czy się śmieje, nie ma pokoju."
+  tags: []
+"Prz29,10":
+  text: "Krwiożercy nienawidzą prawego, ale sprawiedliwi szukają jego duszy."
+  tags: []
+"Prz29,11":
+  text: "Głupi ujawnia cały swój umysł, a mądry zachowuje go na później."
+  tags: []
+"Prz29,12":
+  text: "Jeśli władca słucha kłamstw, to wszyscy jego słudzy są niegodziwi."
+  tags: []
+"Prz29,13":
+  text: "Ubogi i zdzierca spotykają się, a PAN obu oświeca oczy."
+  tags: []
+"Prz29,14":
+  text: "Tron króla, który sądzi ubogich według prawdy, będzie umocniony na wieki."
+  tags: []
+"Prz29,15":
+  text: "Rózga i upomnienia dają mądrość, a samowolne dziecko przynosi wstyd swojej matce."
+  tags: []
+"Prz29,16":
+  text: "Gdy niegodziwi się mnożą, to mnoży się i przestępstwo, lecz sprawiedliwi ujrzą ich upadek."
+  tags: []
+"Prz29,17":
+  text: "Karć swego syna, a da ci odpocząć i przyniesie rozkosz twojej duszy."
+  tags: []
+"Prz29,18":
+  text: "Gdy nie ma proroctwa, lud ginie, a kto przestrzega prawa, jest błogosławiony."
+  tags: []
+"Prz29,19":
+  text: "Sługi nie poprawi się słowami, bo choć rozumie, jednak nie odpowiada."
+  tags: []
+"Prz29,20":
+  text: "Widzisz człowieka, który jest pochopny w swoich słowach? Więcej nadziei dla głupca niż dla niego."
+  tags: []
+"Prz29,21":
+  text: "Kto czule wychowuje sługę od młodości, na ostatek będzie go miał za syna."
+  tags: []
+"Prz29,22":
+  text: "Człowiek gniewliwy wszczyna spór, a człowiek porywczy mnoży grzechy."
+  tags: []
+"Prz29,23":
+  text: "Pycha człowieka poniża go, ale pokorny w duchu dostąpi chwały."
+  tags: []
+"Prz29,24":
+  text: "Wspólnik złodzieja nienawidzi swojej duszy; słyszy przekleństwa, a nie wydaje go."
+  tags: []
+"Prz29,25":
+  text: "Strach przed człowiekiem zastawia sidła, ale kto ufa PANU, będzie bezpieczny."
+  tags: []
+"Prz29,26":
+  text: "Wielu zabiega o względy władcy, ale sąd każdego człowieka pochodzi od PANA."
+  tags: []
+"Prz29,27":
+  text: "Bezbożny budzi odrazę w sprawiedliwych, a kto postępuje uczciwie, budzi odrazę w niegodziwych."
+  tags: []

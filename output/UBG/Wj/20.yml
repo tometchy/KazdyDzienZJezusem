@@ -1,26 +1,78 @@
-"Wj20,1": "I Bóg mówił te wszystkie słowa:"
-"Wj20,2": "Ja jestem PAN, twój Bóg, który cię wyprowadził z ziemi Egiptu, z domu niewoli."
-"Wj20,3": "Nie będziesz miał innych bogów przede mną."
-"Wj20,4": "Nie będziesz czynił sobie żadnego rzeźbionego posągu ani żadnej podobizny czegokolwiek, co jest w górze na niebie, co jest nisko na ziemi ani co jest w wodach pod ziemią."
-"Wj20,5": "Nie będziesz oddawał im pokłonu ani nie będziesz im służył, bo ja jestem PAN, twój Bóg, Bóg zazdrosny, nawiedzający nieprawość ojców na synach do trzeciego i czwartego pokolenia tych, którzy mnie nienawidzą;"
-"Wj20,6": "A okazujący miłosierdzie tysiącom tych, którzy mnie miłują i strzegą moich przykazań."
-"Wj20,7": "Nie będziesz brał imienia PANA, twego Boga, nadaremnie, gdyż PAN nie zostawi bez kary tego, który bierze jego imię nadaremnie."
-"Wj20,8": "Pamiętaj o dniu szabatu, aby go święcić."
-"Wj20,9": "Sześć dni będziesz pracować i wykonywać wszystkie swoje prace;"
-"Wj20,10": "Ale siódmy dzień jest szabatem PANA, twego Boga. W tym dniu nie będziesz wykonywał żadnej pracy – ani ty, ani twój syn, ani twoja córka, ani twój sługa, ani twoja służąca, ani twoje bydło, ani twój gość, który jest w obrębie twoich bram."
-"Wj20,11": "PAN bowiem przez sześć dni stworzył niebo i ziemię, morze i wszystko, co jest w nich, a siódmego dnia odpoczął. Dlatego PAN błogosławił dzień szabatu i uświęcił go."
-"Wj20,12": "Czcij swego ojca i swoją matkę, aby twoje dni były długie na ziemi, którą PAN, twój Bóg, da tobie."
-"Wj20,13": "Nie będziesz zabijał."
-"Wj20,14": "Nie będziesz cudzołożył."
-"Wj20,15": "Nie będziesz kradł."
-"Wj20,16": "Nie będziesz fałszywie świadczył przeciw twemu bliźniemu."
-"Wj20,17": "Nie będziesz pożądał domu twego bliźniego ani nie będziesz pożądał żony twego bliźniego, ani jego sługi, ani jego służącej, ani jego wołu, ani jego osła, ani żadnej rzeczy, która należy do twego bliźniego."
-"Wj20,18": "Wtedy cały lud widział gromy i błyskawice i słyszał głos trąby, i dostrzegał dymiącą górę. Gdy lud to widział, cofnął się i stanął z daleka."
-"Wj20,19": "I mówił do Mojżesza: Ty mów do nas, a będziemy słuchać, ale niech Bóg do nas nie mówi, byśmy nie pomarli."
-"Wj20,20": "Mojżesz odpowiedział ludowi: Nie bójcie się. Bóg bowiem przyszedł, aby was wystawić na próbę i żeby jego bojaźń była przed waszym obliczem, byście nie grzeszyli."
-"Wj20,21": "Stał więc lud z daleka, a Mojżesz zbliżył się do gęstego mroku, w którym był Bóg."
-"Wj20,22": "I PAN powiedział do Mojżesza: Tak powiesz synom Izraela: Widzieliście, że mówiłem do was z nieba."
-"Wj20,23": "Nie będziecie czynić przy mnie bogów ze srebra ani bogów ze złota nie będziecie sobie czynić."
-"Wj20,24": "Uczynisz mi ołtarz z ziemi i będziesz składać na nim twoje całopalenia i twoje ofiary pojednawcze, twoje owce i twoje bydło. Na każdym miejscu, gdzie upamiętnię swoje imię, przyjdę do ciebie i będę ci błogosławił."
-"Wj20,25": "A jeśli uczynisz mi ołtarz kamienny, nie buduj go z ciosanego kamienia. Jeśli bowiem przyłożysz do niego żelazne narzędzie, zbezcześcisz go."
-"Wj20,26": "Nie będziesz wstępował po stopniach do mojego ołtarza, aby twoja nagość nie była przy nim odkryta."
+"Wj20,1":
+  text: "I Bóg mówił te wszystkie słowa:"
+  tags: []
+"Wj20,2":
+  text: "Ja jestem PAN, twój Bóg, który cię wyprowadził z ziemi Egiptu, z domu niewoli."
+  tags: []
+"Wj20,3":
+  text: "Nie będziesz miał innych bogów przede mną."
+  tags: []
+"Wj20,4":
+  text: "Nie będziesz czynił sobie żadnego rzeźbionego posągu ani żadnej podobizny czegokolwiek, co jest w górze na niebie, co jest nisko na ziemi ani co jest w wodach pod ziemią."
+  tags: []
+"Wj20,5":
+  text: "Nie będziesz oddawał im pokłonu ani nie będziesz im służył, bo ja jestem PAN, twój Bóg, Bóg zazdrosny, nawiedzający nieprawość ojców na synach do trzeciego i czwartego pokolenia tych, którzy mnie nienawidzą;"
+  tags: []
+"Wj20,6":
+  text: "A okazujący miłosierdzie tysiącom tych, którzy mnie miłują i strzegą moich przykazań."
+  tags: []
+"Wj20,7":
+  text: "Nie będziesz brał imienia PANA, twego Boga, nadaremnie, gdyż PAN nie zostawi bez kary tego, który bierze jego imię nadaremnie."
+  tags: []
+"Wj20,8":
+  text: "Pamiętaj o dniu szabatu, aby go święcić."
+  tags: []
+"Wj20,9":
+  text: "Sześć dni będziesz pracować i wykonywać wszystkie swoje prace;"
+  tags: []
+"Wj20,10":
+  text: "Ale siódmy dzień jest szabatem PANA, twego Boga. W tym dniu nie będziesz wykonywał żadnej pracy – ani ty, ani twój syn, ani twoja córka, ani twój sługa, ani twoja służąca, ani twoje bydło, ani twój gość, który jest w obrębie twoich bram."
+  tags: []
+"Wj20,11":
+  text: "PAN bowiem przez sześć dni stworzył niebo i ziemię, morze i wszystko, co jest w nich, a siódmego dnia odpoczął. Dlatego PAN błogosławił dzień szabatu i uświęcił go."
+  tags: []
+"Wj20,12":
+  text: "Czcij swego ojca i swoją matkę, aby twoje dni były długie na ziemi, którą PAN, twój Bóg, da tobie."
+  tags: []
+"Wj20,13":
+  text: "Nie będziesz zabijał."
+  tags: []
+"Wj20,14":
+  text: "Nie będziesz cudzołożył."
+  tags: []
+"Wj20,15":
+  text: "Nie będziesz kradł."
+  tags: []
+"Wj20,16":
+  text: "Nie będziesz fałszywie świadczył przeciw twemu bliźniemu."
+  tags: []
+"Wj20,17":
+  text: "Nie będziesz pożądał domu twego bliźniego ani nie będziesz pożądał żony twego bliźniego, ani jego sługi, ani jego służącej, ani jego wołu, ani jego osła, ani żadnej rzeczy, która należy do twego bliźniego."
+  tags: []
+"Wj20,18":
+  text: "Wtedy cały lud widział gromy i błyskawice i słyszał głos trąby, i dostrzegał dymiącą górę. Gdy lud to widział, cofnął się i stanął z daleka."
+  tags: []
+"Wj20,19":
+  text: "I mówił do Mojżesza: Ty mów do nas, a będziemy słuchać, ale niech Bóg do nas nie mówi, byśmy nie pomarli."
+  tags: []
+"Wj20,20":
+  text: "Mojżesz odpowiedział ludowi: Nie bójcie się. Bóg bowiem przyszedł, aby was wystawić na próbę i żeby jego bojaźń była przed waszym obliczem, byście nie grzeszyli."
+  tags: []
+"Wj20,21":
+  text: "Stał więc lud z daleka, a Mojżesz zbliżył się do gęstego mroku, w którym był Bóg."
+  tags: []
+"Wj20,22":
+  text: "I PAN powiedział do Mojżesza: Tak powiesz synom Izraela: Widzieliście, że mówiłem do was z nieba."
+  tags: []
+"Wj20,23":
+  text: "Nie będziecie czynić przy mnie bogów ze srebra ani bogów ze złota nie będziecie sobie czynić."
+  tags: []
+"Wj20,24":
+  text: "Uczynisz mi ołtarz z ziemi i będziesz składać na nim twoje całopalenia i twoje ofiary pojednawcze, twoje owce i twoje bydło. Na każdym miejscu, gdzie upamiętnię swoje imię, przyjdę do ciebie i będę ci błogosławił."
+  tags: []
+"Wj20,25":
+  text: "A jeśli uczynisz mi ołtarz kamienny, nie buduj go z ciosanego kamienia. Jeśli bowiem przyłożysz do niego żelazne narzędzie, zbezcześcisz go."
+  tags: []
+"Wj20,26":
+  text: "Nie będziesz wstępował po stopniach do mojego ołtarza, aby twoja nagość nie była przy nim odkryta."
+  tags: []

@@ -1,34 +1,102 @@
-"Lb2,1": "Potem PAN przemówił do Mojżesza i Aarona:"
-"Lb2,2": "Każdy z synów Izraela rozbije obóz przy swoim sztandarze, pod znakami domów swych ojców. Będą rozbijać obóz w pewnej odległości od Namiotu Zgromadzenia, wokół niego."
-"Lb2,3": "Od strony wschodniej rozbiją obóz ludzie pod sztandarem obozu Judy, według swych oddziałów, a wodzem nad synami Judy będzie Nachszon, syn Amminadaba;"
-"Lb2,4": "A jego policzony zastęp wynosił siedemdziesiąt cztery tysiące sześciuset ludzi."
-"Lb2,5": "Obok niego rozbije obóz pokolenie Issachara, a wodzem synów Issachara będzie Netaneel, syn Suara;"
-"Lb2,6": "A jego policzony zastęp wynosił pięćdziesiąt cztery tysiące czterystu ludzi."
-"Lb2,7": "Obok nich – pokolenie Zebulona, a wodzem synów Zebulona będzie Eliab, syn Chelona;"
-"Lb2,8": "A jego policzony zastęp wynosił pięćdziesiąt siedem tysięcy czterystu ludzi."
-"Lb2,9": "Wszystkich policzonych w obozie Judy, według ich zastępów, było sto osiemdziesiąt sześć tysięcy czterystu. Oni wyruszą pierwsi."
-"Lb2,10": "Od strony południowej będzie sztandar obozu Rubena, według swych zastępów, a wodzem synów Rubena będzie Elisur, syn Szedeura;"
-"Lb2,11": "A jego policzony zastęp wynosił czterdzieści sześć tysięcy pięciuset ludzi."
-"Lb2,12": "Obok niego rozbije obóz pokolenie Symeona, a wodzem synów Symeona będzie Szelumiel, syn Suriszaddaja;"
-"Lb2,13": "A jego policzony zastęp wynosił pięćdziesiąt dziewięć tysięcy trzystu ludzi."
-"Lb2,14": "Następnie pokolenie Gada, a wodzem synów Gada będzie Eliasaf, syn Reuela;"
-"Lb2,15": "A jego policzony zastęp wynosił czterdzieści pięć tysięcy sześciuset pięćdziesięciu ludzi."
-"Lb2,16": "Wszystkich policzonych w obozie Rubena, według ich zastępów, było sto pięćdziesiąt jeden tysięcy czterystu pięćdziesięciu. Oni wyruszą w drugiej kolejności."
-"Lb2,17": "Następnie wyruszy Namiot Zgromadzenia z obozem Lewitów pośrodku obozu. Jak będą obozować, tak będą wyruszać, każdy na swoim miejscu, pod swoim sztandarem."
-"Lb2,18": "Od strony zachodniej będzie sztandar obozu Efraima, według swych zastępów, a wodzem synów Efraima będzie Eliszama, syn Ammihuda;"
-"Lb2,19": "A jego policzony zastęp wynosił czterdzieści tysięcy pięciuset ludzi."
-"Lb2,20": "Obok niego pokolenie Manassesa, a wodzem synów Manassesa będzie Gamliel, syn Pedahsura."
-"Lb2,21": "A jego policzony zastęp wynosił trzydzieści dwa tysiące dwustu ludzi."
-"Lb2,22": "Następnie pokolenie Beniamina, a wodzem synów Beniamina będzie Abidan, syn Gideoniego;"
-"Lb2,23": "A jego policzony zastęp wynosił trzydzieści pięć tysięcy czterystu ludzi."
-"Lb2,24": "Wszystkich policzonych w obozie Efraima było sto osiem tysięcy stu według swoich zastępów. Oni wyruszą w trzeciej kolejności."
-"Lb2,25": "Od strony północnej będzie sztandar obozu Dana, według swych zastępów, a wodzem synów Dana będzie Achiezer, syn Ammiszadaja;"
-"Lb2,26": "A jego policzony zastęp wynosił sześćdziesiąt dwa tysiące siedmiuset ludzi."
-"Lb2,27": "Obok niego rozbije obóz pokolenie Aszera, a wodzem synów Aszera będzie Pagiel, syn Okrana;"
-"Lb2,28": "A jego policzony zastęp wynosił czterdzieści jeden tysięcy pięciuset ludzi."
-"Lb2,29": "Następnie pokolenie Neftalego, a wodzem synów Neftalego będzie Achira, syn Enana;"
-"Lb2,30": "A jego policzony zastęp wynosił pięćdziesiąt trzy tysiące czterystu ludzi."
-"Lb2,31": "Wszystkich policzonych w obozie Dana było sto pięćdziesiąt siedem tysięcy sześciuset. Oni wyruszą ostatni pod swoimi sztandarami."
-"Lb2,32": "To są policzeni spośród synów Izraela według domów ich ojców. Wszystkich policzonych w obozach, według ich zastępów, było sześćset trzy tysiące pięciuset pięćdziesięciu."
-"Lb2,33": "Lewitów zaś nie liczono wśród synów Izraela, jak PAN rozkazał Mojżeszowi."
-"Lb2,34": "I synowie Izraela uczynili zgodnie ze wszystkim, co PAN rozkazał Mojżeszowi: tak rozbijali obozy przy swych sztandarach i tak wyruszali, każdy według swych rodzin i według domów swych ojców."
+"Lb2,1":
+  text: "Potem PAN przemówił do Mojżesza i Aarona:"
+  tags: []
+"Lb2,2":
+  text: "Każdy z synów Izraela rozbije obóz przy swoim sztandarze, pod znakami domów swych ojców. Będą rozbijać obóz w pewnej odległości od Namiotu Zgromadzenia, wokół niego."
+  tags: []
+"Lb2,3":
+  text: "Od strony wschodniej rozbiją obóz ludzie pod sztandarem obozu Judy, według swych oddziałów, a wodzem nad synami Judy będzie Nachszon, syn Amminadaba;"
+  tags: []
+"Lb2,4":
+  text: "A jego policzony zastęp wynosił siedemdziesiąt cztery tysiące sześciuset ludzi."
+  tags: []
+"Lb2,5":
+  text: "Obok niego rozbije obóz pokolenie Issachara, a wodzem synów Issachara będzie Netaneel, syn Suara;"
+  tags: []
+"Lb2,6":
+  text: "A jego policzony zastęp wynosił pięćdziesiąt cztery tysiące czterystu ludzi."
+  tags: []
+"Lb2,7":
+  text: "Obok nich – pokolenie Zebulona, a wodzem synów Zebulona będzie Eliab, syn Chelona;"
+  tags: []
+"Lb2,8":
+  text: "A jego policzony zastęp wynosił pięćdziesiąt siedem tysięcy czterystu ludzi."
+  tags: []
+"Lb2,9":
+  text: "Wszystkich policzonych w obozie Judy, według ich zastępów, było sto osiemdziesiąt sześć tysięcy czterystu. Oni wyruszą pierwsi."
+  tags: []
+"Lb2,10":
+  text: "Od strony południowej będzie sztandar obozu Rubena, według swych zastępów, a wodzem synów Rubena będzie Elisur, syn Szedeura;"
+  tags: []
+"Lb2,11":
+  text: "A jego policzony zastęp wynosił czterdzieści sześć tysięcy pięciuset ludzi."
+  tags: []
+"Lb2,12":
+  text: "Obok niego rozbije obóz pokolenie Symeona, a wodzem synów Symeona będzie Szelumiel, syn Suriszaddaja;"
+  tags: []
+"Lb2,13":
+  text: "A jego policzony zastęp wynosił pięćdziesiąt dziewięć tysięcy trzystu ludzi."
+  tags: []
+"Lb2,14":
+  text: "Następnie pokolenie Gada, a wodzem synów Gada będzie Eliasaf, syn Reuela;"
+  tags: []
+"Lb2,15":
+  text: "A jego policzony zastęp wynosił czterdzieści pięć tysięcy sześciuset pięćdziesięciu ludzi."
+  tags: []
+"Lb2,16":
+  text: "Wszystkich policzonych w obozie Rubena, według ich zastępów, było sto pięćdziesiąt jeden tysięcy czterystu pięćdziesięciu. Oni wyruszą w drugiej kolejności."
+  tags: []
+"Lb2,17":
+  text: "Następnie wyruszy Namiot Zgromadzenia z obozem Lewitów pośrodku obozu. Jak będą obozować, tak będą wyruszać, każdy na swoim miejscu, pod swoim sztandarem."
+  tags: []
+"Lb2,18":
+  text: "Od strony zachodniej będzie sztandar obozu Efraima, według swych zastępów, a wodzem synów Efraima będzie Eliszama, syn Ammihuda;"
+  tags: []
+"Lb2,19":
+  text: "A jego policzony zastęp wynosił czterdzieści tysięcy pięciuset ludzi."
+  tags: []
+"Lb2,20":
+  text: "Obok niego pokolenie Manassesa, a wodzem synów Manassesa będzie Gamliel, syn Pedahsura."
+  tags: []
+"Lb2,21":
+  text: "A jego policzony zastęp wynosił trzydzieści dwa tysiące dwustu ludzi."
+  tags: []
+"Lb2,22":
+  text: "Następnie pokolenie Beniamina, a wodzem synów Beniamina będzie Abidan, syn Gideoniego;"
+  tags: []
+"Lb2,23":
+  text: "A jego policzony zastęp wynosił trzydzieści pięć tysięcy czterystu ludzi."
+  tags: []
+"Lb2,24":
+  text: "Wszystkich policzonych w obozie Efraima było sto osiem tysięcy stu według swoich zastępów. Oni wyruszą w trzeciej kolejności."
+  tags: []
+"Lb2,25":
+  text: "Od strony północnej będzie sztandar obozu Dana, według swych zastępów, a wodzem synów Dana będzie Achiezer, syn Ammiszadaja;"
+  tags: []
+"Lb2,26":
+  text: "A jego policzony zastęp wynosił sześćdziesiąt dwa tysiące siedmiuset ludzi."
+  tags: []
+"Lb2,27":
+  text: "Obok niego rozbije obóz pokolenie Aszera, a wodzem synów Aszera będzie Pagiel, syn Okrana;"
+  tags: []
+"Lb2,28":
+  text: "A jego policzony zastęp wynosił czterdzieści jeden tysięcy pięciuset ludzi."
+  tags: []
+"Lb2,29":
+  text: "Następnie pokolenie Neftalego, a wodzem synów Neftalego będzie Achira, syn Enana;"
+  tags: []
+"Lb2,30":
+  text: "A jego policzony zastęp wynosił pięćdziesiąt trzy tysiące czterystu ludzi."
+  tags: []
+"Lb2,31":
+  text: "Wszystkich policzonych w obozie Dana było sto pięćdziesiąt siedem tysięcy sześciuset. Oni wyruszą ostatni pod swoimi sztandarami."
+  tags: []
+"Lb2,32":
+  text: "To są policzeni spośród synów Izraela według domów ich ojców. Wszystkich policzonych w obozach, według ich zastępów, było sześćset trzy tysiące pięciuset pięćdziesięciu."
+  tags: []
+"Lb2,33":
+  text: "Lewitów zaś nie liczono wśród synów Izraela, jak PAN rozkazał Mojżeszowi."
+  tags: []
+"Lb2,34":
+  text: "I synowie Izraela uczynili zgodnie ze wszystkim, co PAN rozkazał Mojżeszowi: tak rozbijali obozy przy swych sztandarach i tak wyruszali, każdy według swych rodzin i według domów swych ojców."
+  tags: []

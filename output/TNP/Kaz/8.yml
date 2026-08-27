@@ -1,17 +1,51 @@
-"Kaz8,1": "Kto jest jak ten mędrzec? Kto zna wyjaśnienie rzeczy? Mądrość człowieka rozjaśnia jego oblicze, a srogość jego twarzy zostanie zmieniona."
-"Kaz8,2": "Ja radzę ci: Przestrzegaj rozkazu króla, a to ze względu na przysięgę złożoną Bogu."
-"Kaz8,3": "Nie śpiesz się z odejściem sprzed jego oblicza i nie trwaj przy złej sprawie. Bo on czyni wszystko, co zapragnie."
-"Kaz8,4": "Gdyż w słowie króla jest władza. A kto mu powie: Co czynisz?"
-"Kaz8,5": "Kto przestrzega przykazania, nie doświadczy złej sprawy. A serce mądrego zna czas i sąd."
-"Kaz8,6": "Bo każda sprawa ma swój czas i sąd, choć liczne nieszczęścia spadają na człowieka."
-"Kaz8,7": "Ponieważ nikt nie wie, co będzie. Bo kiedy to będzie – kto mu oznajmi?"
-"Kaz8,8": "Nie ma człowieka mającego władzę nad tchnieniem życia, aby zatrzymać to tchnienie, i nie ma mocarza nad dniem śmierci. I nikt nie jest zwolniony z tej walki, a niegodziwość nie uratuje swojego pana."
-"Kaz8,9": "To wszystko widziałem, przykładając swoje serce do każdego dzieła, które się dokonuje pod słońcem. To czas, kiedy człowiek panuje nad człowiekiem ku jego krzywdzie."
-"Kaz8,10": "Stąd też widziałem niegodziwych grzebanych z czcią, a przychodzili oni do miejsca świętego i odchodzili z niego, i zapomniano im to w mieście, w którym tak bezbożnie postępowali. Także to jest marnością."
-"Kaz8,11": "Ponieważ wyroku za zły czyn nie wykonuje się szybko, serce synów ludzkich jest pełne w nich chęci, aby popełniali zło."
-"Kaz8,12": "Bo choć grzesznik sto razy popełnia zło, a jego dni się przedłużają, to jednak ja wiem, że szczęści się tym, którzy boją się Boga, którzy się boją Jego oblicza."
-"Kaz8,13": "A niegodziwemu nie będzie się szczęścić i nie przedłuży on swoich dni, przeminą one jak cień, bo nie ma on bojaźni przed obliczem Boga."
-"Kaz8,14": "Jest też marność, która się dzieje na ziemi, że są sprawiedliwi, którym się odpłaca według czynów niegodziwych; są też niegodziwi, którym się odpłaca według czynów sprawiedliwych. Powiedziałem, że także to jest marnością."
-"Kaz8,15": "I wychwalałem ja radość, bo nie ma dla człowieka nic lepszego pod słońcem nad to, by jeść, pić i radować się. I to niech mu towarzyszy w jego trudzie po wszystkie dni jego życia, które pod słońcem dał mu Bóg."
-"Kaz8,16": "Gdy przyłożyłem swoje serce, aby poznać mądrość i rozważać każde dzieło, które zostało uczynione na ziemi, tak że oczy patrzącego nie zaznają snu ani we dnie, ani w nocy;"
-"Kaz8,17": "Wówczas zobaczyłem całe dzieło Boga – że człowiek nie jest w stanie zgłębić tego dzieła, które ma miejsce pod słońcem. Chociaż człowiek trudzi się, by to odszukać, nie zgłębi tego; a też powiedziałem: Mądry, który chce to poznać, nie będzie w stanie tego zgłębić."
+"Kaz8,1":
+  text: "Kto jest jak ten mędrzec? Kto zna wyjaśnienie rzeczy? Mądrość człowieka rozjaśnia jego oblicze, a srogość jego twarzy zostanie zmieniona."
+  tags: []
+"Kaz8,2":
+  text: "Ja radzę ci: Przestrzegaj rozkazu króla, a to ze względu na przysięgę złożoną Bogu."
+  tags: []
+"Kaz8,3":
+  text: "Nie śpiesz się z odejściem sprzed jego oblicza i nie trwaj przy złej sprawie. Bo on czyni wszystko, co zapragnie."
+  tags: []
+"Kaz8,4":
+  text: "Gdyż w słowie króla jest władza. A kto mu powie: Co czynisz?"
+  tags: []
+"Kaz8,5":
+  text: "Kto przestrzega przykazania, nie doświadczy złej sprawy. A serce mądrego zna czas i sąd."
+  tags: []
+"Kaz8,6":
+  text: "Bo każda sprawa ma swój czas i sąd, choć liczne nieszczęścia spadają na człowieka."
+  tags: []
+"Kaz8,7":
+  text: "Ponieważ nikt nie wie, co będzie. Bo kiedy to będzie – kto mu oznajmi?"
+  tags: []
+"Kaz8,8":
+  text: "Nie ma człowieka mającego władzę nad tchnieniem życia, aby zatrzymać to tchnienie, i nie ma mocarza nad dniem śmierci. I nikt nie jest zwolniony z tej walki, a niegodziwość nie uratuje swojego pana."
+  tags: []
+"Kaz8,9":
+  text: "To wszystko widziałem, przykładając swoje serce do każdego dzieła, które się dokonuje pod słońcem. To czas, kiedy człowiek panuje nad człowiekiem ku jego krzywdzie."
+  tags: []
+"Kaz8,10":
+  text: "Stąd też widziałem niegodziwych grzebanych z czcią, a przychodzili oni do miejsca świętego i odchodzili z niego, i zapomniano im to w mieście, w którym tak bezbożnie postępowali. Także to jest marnością."
+  tags: []
+"Kaz8,11":
+  text: "Ponieważ wyroku za zły czyn nie wykonuje się szybko, serce synów ludzkich jest pełne w nich chęci, aby popełniali zło."
+  tags: []
+"Kaz8,12":
+  text: "Bo choć grzesznik sto razy popełnia zło, a jego dni się przedłużają, to jednak ja wiem, że szczęści się tym, którzy boją się Boga, którzy się boją Jego oblicza."
+  tags: []
+"Kaz8,13":
+  text: "A niegodziwemu nie będzie się szczęścić i nie przedłuży on swoich dni, przeminą one jak cień, bo nie ma on bojaźni przed obliczem Boga."
+  tags: []
+"Kaz8,14":
+  text: "Jest też marność, która się dzieje na ziemi, że są sprawiedliwi, którym się odpłaca według czynów niegodziwych; są też niegodziwi, którym się odpłaca według czynów sprawiedliwych. Powiedziałem, że także to jest marnością."
+  tags: []
+"Kaz8,15":
+  text: "I wychwalałem ja radość, bo nie ma dla człowieka nic lepszego pod słońcem nad to, by jeść, pić i radować się. I to niech mu towarzyszy w jego trudzie po wszystkie dni jego życia, które pod słońcem dał mu Bóg."
+  tags: []
+"Kaz8,16":
+  text: "Gdy przyłożyłem swoje serce, aby poznać mądrość i rozważać każde dzieło, które zostało uczynione na ziemi, tak że oczy patrzącego nie zaznają snu ani we dnie, ani w nocy;"
+  tags: []
+"Kaz8,17":
+  text: "Wówczas zobaczyłem całe dzieło Boga – że człowiek nie jest w stanie zgłębić tego dzieła, które ma miejsce pod słońcem. Chociaż człowiek trudzi się, by to odszukać, nie zgłębi tego; a też powiedziałem: Mądry, który chce to poznać, nie będzie w stanie tego zgłębić."
+  tags: []

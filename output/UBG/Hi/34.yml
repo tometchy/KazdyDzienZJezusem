@@ -1,37 +1,111 @@
-"Hi34,1": "Elihu mówił dalej:"
-"Hi34,2": "Słuchajcie, mądrzy, moich słów i wy, uczeni, posłuchajcie mnie."
-"Hi34,3": "Ucho bowiem bada słowa, jak podniebienie smakuje pokarm."
-"Hi34,4": "Wybierzmy sobie sąd, rozeznajmy między sobą, co jest dobre."
-"Hi34,5": "Hiob bowiem powiedział: Jestem sprawiedliwy, a Bóg odrzucił moją sprawę."
-"Hi34,6": "Czy mam kłamać wbrew swojej racji? Nieuleczalna jest moja rana, bez przestępstwa."
-"Hi34,7": "Czy jest człowiek podobny do Hioba, który pije obelgi jak wodę?"
-"Hi34,8": "I który obraca się w towarzystwie czyniących nieprawość i chodzi z niegodziwcami?"
-"Hi34,9": "Powiedział bowiem: Nic to nie pomoże człowiekowi, że ma upodobanie w Bogu."
-"Hi34,10": "Dlatego posłuchajcie mnie, ludzie rozumni: Daleki jest Bóg od niegodziwości, Wszechmocny – od nieprawości."
-"Hi34,11": "Bo odpłaci człowiekowi według jego czynu i wynagrodzi każdemu według jego drogi."
-"Hi34,12": "Nie, naprawdę Bóg nie czyni przewrotnie, Wszechmocny nie wypacza sądu."
-"Hi34,13": "Któż mu powierzył ziemię? Kto urządził cały okrąg świata?"
-"Hi34,14": "Gdyby zwrócił ku człowiekowi swoje serce, gdyby wziął do siebie jego ducha i tchnienie;"
-"Hi34,15": "To zginęłoby wszelkie ciało razem, a człowiek w proch by się obrócił."
-"Hi34,16": "Jeśli więc masz rozum, posłuchaj tego i nadstaw uszu na moje słowa."
-"Hi34,17": "Czy ma panować ten, który nienawidzi prawości? Czy potępisz tego, który jest bardzo sprawiedliwy?"
-"Hi34,18": "Czy wypada do króla mówić: Nikczemniku? A do książąt: Bezbożni?"
-"Hi34,19": "Tym bardziej do tego, który nie ma względu na książąt i nie stawia bogacza nad ubogim? Oni wszyscy bowiem są dziełem jego rąk."
-"Hi34,20": "Umrą nagle, o północy lud będzie wzruszony i przeminie, a mocarz zostanie usunięty bez udziału ręki ludzkiej."
-"Hi34,21": "Jego oczy bowiem patrzą na drogi człowieka i on widzi wszystkie jego kroki."
-"Hi34,22": "Nie ma ciemności ani cienia śmierci, gdzie mogliby się ukryć ci, którzy czynią nieprawość."
-"Hi34,23": "Na człowieka bowiem nie wkłada więcej niż to, co słuszne, aby stawił się na sąd przed Bogiem."
-"Hi34,24": "Rozbije wielu mocarzy i innych osadzi w ich miejsce."
-"Hi34,25": "A ponieważ zna ich czyny, wywraca ich w nocy, aby byli zmiażdżeni."
-"Hi34,26": "Chłoszcze ich jako niegodziwych w miejscu widocznym;"
-"Hi34,27": "Za to, że odstąpili od niego i nie zważali na żadne jego drogi;"
-"Hi34,28": "Z tego powodu dochodzi do niego wołanie biednych, a on wysłuchuje wołania ubogich."
-"Hi34,29": "Gdy zaprowadzi pokój, któż go zburzy? A gdy zakryje swoje oblicze, któż go ujrzy? A czyni tak zarówno narodowi, jak i człowiekowi;"
-"Hi34,30": "Aby obłudnik już nie panował i nie był pułapką dla ludzi."
-"Hi34,31": "Doprawdy, powinieneś mówić do Boga: Poniosłem karę i nie będę już grzeszyć."
-"Hi34,32": "Naucz mnie tego, czego nie widzę; jeśli popełniłem nieprawość, już więcej tego nie uczynię."
-"Hi34,33": "Czy wszystko ma być po twojej myśli? On odpłaci, czy odrzucisz, czy wybierzesz, a nie ja. Ale jeśli wiesz lepiej, to powiedz."
-"Hi34,34": "Niech mi powiedzą ludzie rozumni, niech człowiek mądry posłucha mnie:"
-"Hi34,35": "Hiob mówi niemądrze, a jego słowa nie są roztropne."
-"Hi34,36": "Niech Hiob zostanie doświadczony do końca za swoje odpowiedzi odnośnie do niegodziwych ludzi."
-"Hi34,37": "Dodaje bowiem buntu do swego grzechu, klaszcze przy nas rękoma i mnoży swoje słowa przeciwko Bogu."
+"Hi34,1":
+  text: "Elihu mówił dalej:"
+  tags: []
+"Hi34,2":
+  text: "Słuchajcie, mądrzy, moich słów i wy, uczeni, posłuchajcie mnie."
+  tags: []
+"Hi34,3":
+  text: "Ucho bowiem bada słowa, jak podniebienie smakuje pokarm."
+  tags: []
+"Hi34,4":
+  text: "Wybierzmy sobie sąd, rozeznajmy między sobą, co jest dobre."
+  tags: []
+"Hi34,5":
+  text: "Hiob bowiem powiedział: Jestem sprawiedliwy, a Bóg odrzucił moją sprawę."
+  tags: []
+"Hi34,6":
+  text: "Czy mam kłamać wbrew swojej racji? Nieuleczalna jest moja rana, bez przestępstwa."
+  tags: []
+"Hi34,7":
+  text: "Czy jest człowiek podobny do Hioba, który pije obelgi jak wodę?"
+  tags: []
+"Hi34,8":
+  text: "I który obraca się w towarzystwie czyniących nieprawość i chodzi z niegodziwcami?"
+  tags: []
+"Hi34,9":
+  text: "Powiedział bowiem: Nic to nie pomoże człowiekowi, że ma upodobanie w Bogu."
+  tags: []
+"Hi34,10":
+  text: "Dlatego posłuchajcie mnie, ludzie rozumni: Daleki jest Bóg od niegodziwości, Wszechmocny – od nieprawości."
+  tags: []
+"Hi34,11":
+  text: "Bo odpłaci człowiekowi według jego czynu i wynagrodzi każdemu według jego drogi."
+  tags: []
+"Hi34,12":
+  text: "Nie, naprawdę Bóg nie czyni przewrotnie, Wszechmocny nie wypacza sądu."
+  tags: []
+"Hi34,13":
+  text: "Któż mu powierzył ziemię? Kto urządził cały okrąg świata?"
+  tags: []
+"Hi34,14":
+  text: "Gdyby zwrócił ku człowiekowi swoje serce, gdyby wziął do siebie jego ducha i tchnienie;"
+  tags: []
+"Hi34,15":
+  text: "To zginęłoby wszelkie ciało razem, a człowiek w proch by się obrócił."
+  tags: []
+"Hi34,16":
+  text: "Jeśli więc masz rozum, posłuchaj tego i nadstaw uszu na moje słowa."
+  tags: []
+"Hi34,17":
+  text: "Czy ma panować ten, który nienawidzi prawości? Czy potępisz tego, który jest bardzo sprawiedliwy?"
+  tags: []
+"Hi34,18":
+  text: "Czy wypada do króla mówić: Nikczemniku? A do książąt: Bezbożni?"
+  tags: []
+"Hi34,19":
+  text: "Tym bardziej do tego, który nie ma względu na książąt i nie stawia bogacza nad ubogim? Oni wszyscy bowiem są dziełem jego rąk."
+  tags: []
+"Hi34,20":
+  text: "Umrą nagle, o północy lud będzie wzruszony i przeminie, a mocarz zostanie usunięty bez udziału ręki ludzkiej."
+  tags: []
+"Hi34,21":
+  text: "Jego oczy bowiem patrzą na drogi człowieka i on widzi wszystkie jego kroki."
+  tags: []
+"Hi34,22":
+  text: "Nie ma ciemności ani cienia śmierci, gdzie mogliby się ukryć ci, którzy czynią nieprawość."
+  tags: []
+"Hi34,23":
+  text: "Na człowieka bowiem nie wkłada więcej niż to, co słuszne, aby stawił się na sąd przed Bogiem."
+  tags: []
+"Hi34,24":
+  text: "Rozbije wielu mocarzy i innych osadzi w ich miejsce."
+  tags: []
+"Hi34,25":
+  text: "A ponieważ zna ich czyny, wywraca ich w nocy, aby byli zmiażdżeni."
+  tags: []
+"Hi34,26":
+  text: "Chłoszcze ich jako niegodziwych w miejscu widocznym;"
+  tags: []
+"Hi34,27":
+  text: "Za to, że odstąpili od niego i nie zważali na żadne jego drogi;"
+  tags: []
+"Hi34,28":
+  text: "Z tego powodu dochodzi do niego wołanie biednych, a on wysłuchuje wołania ubogich."
+  tags: []
+"Hi34,29":
+  text: "Gdy zaprowadzi pokój, któż go zburzy? A gdy zakryje swoje oblicze, któż go ujrzy? A czyni tak zarówno narodowi, jak i człowiekowi;"
+  tags: []
+"Hi34,30":
+  text: "Aby obłudnik już nie panował i nie był pułapką dla ludzi."
+  tags: []
+"Hi34,31":
+  text: "Doprawdy, powinieneś mówić do Boga: Poniosłem karę i nie będę już grzeszyć."
+  tags: []
+"Hi34,32":
+  text: "Naucz mnie tego, czego nie widzę; jeśli popełniłem nieprawość, już więcej tego nie uczynię."
+  tags: []
+"Hi34,33":
+  text: "Czy wszystko ma być po twojej myśli? On odpłaci, czy odrzucisz, czy wybierzesz, a nie ja. Ale jeśli wiesz lepiej, to powiedz."
+  tags: []
+"Hi34,34":
+  text: "Niech mi powiedzą ludzie rozumni, niech człowiek mądry posłucha mnie:"
+  tags: []
+"Hi34,35":
+  text: "Hiob mówi niemądrze, a jego słowa nie są roztropne."
+  tags: []
+"Hi34,36":
+  text: "Niech Hiob zostanie doświadczony do końca za swoje odpowiedzi odnośnie do niegodziwych ludzi."
+  tags: []
+"Hi34,37":
+  text: "Dodaje bowiem buntu do swego grzechu, klaszcze przy nas rękoma i mnoży swoje słowa przeciwko Bogu."
+  tags: []

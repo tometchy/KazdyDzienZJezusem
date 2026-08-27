@@ -1,20 +1,60 @@
-"Kaz5,1": "Pilnuj swoich kroków, gdy idziesz do domu Bożego; zbliżyć się, by słuchać jest lepsze niż dawać ofiarę głupich. Bo nie mają zrozumienia, czyniąc źle."
-"Kaz5,2": "Nie ponaglaj swoich ust i niech twoje serce nie śpieszy się do wypowiadania słowa przed obliczem Boga. Bo Bóg jest w niebiosach, a ty na ziemi. Niech więc niewiele będzie twoich słów."
-"Kaz5,3": "Bo z wielu zajęć przychodzi sen, a głos głupca z wielu słów."
-"Kaz5,4": "Gdy złożysz Bogu ślub, nie zwlekaj z jego wypełnieniem, gdyż w głupcach nie ma On upodobania. Cokolwiek ślubujesz – wypełnij."
-"Kaz5,5": "Lepiej kiedy nie będziesz ślubował, niż byś ślubował, a tego nie wypełnił."
-"Kaz5,6": "Nie pozwól, by twoje usta doprowadziły do grzechu twoje ciało i nie mów przed posłańcem – to był błąd. Dlaczego Bóg miałby się gniewać z powodu twojego głosu i zniszczyć dzieło twoich rąk?"
-"Kaz5,7": "Bo gdzie jest wiele snów, tam wiele marności i wiele słów. Lecz ty bój się Boga."
-"Kaz5,8": "Jeśli widzisz w prowincji ucisk ubogiego i gwałcenie prawa i sprawiedliwości, nie dziw się z powodu tej sprawy, gdyż wyższy chroni wysokiego, a nad nimi jest jeszcze wyższy."
-"Kaz5,9": "A pożytek dla ziemi w tym wszystkim jest taki: Król zostaje uczyniony sługą na ziemi."
-"Kaz5,10": "Kto kocha srebro, nie nasyci się srebrem, a kto kocha się w bogactwie, nie będzie miał z niego zysku. To także jest marnością."
-"Kaz5,11": "Gdy dobra się mnożą, mnożą się spożywający je. A jaka w tym korzyść dla właściciela? Że widzą to jego oczy."
-"Kaz5,12": "Słodki jest sen robotnika, czy je mało, czy dużo, ale obfitość bogatego nie zezwala mu spać."
-"Kaz5,13": "Jest bolesne zło, które widziałem pod słońcem: Bogactwo strzeżone dla właściciela na jego własną krzywdę."
-"Kaz5,14": "Bo takie bogactwo przepada przez złe zajęcie. I spłodził syna i nie ma nic z tego w swoim ręku."
-"Kaz5,15": "Jak wyszedł z łona swojej matki nagi, tak wróci jak przyszedł, i nie zabierze nic ze swojego trudu, co wyszło spod jego ręki."
-"Kaz5,16": "To także jest bolesnym złem, wszystko dokładnie jak przyszło, tak samo odejdzie. Jaka więc korzyść z tego, że trudził się na wiatr?"
-"Kaz5,17": "Również każdego dnia jadał w ciemności i wielkim smutku, chorobie i gniewie."
-"Kaz5,18": "Oto, co ja zobaczyłem, że jest dobre i piękne – jeść i pić, i oglądać powodzenie w całym swoim trudzie, którym się człowiek mozoli pod słońcem przez tę parę dni swojego życia, które dał mu Bóg – bo to jest jego działem."
-"Kaz5,19": "Również każdy człowiek, któremu Bóg dał majątek i bogactwo, i możliwość, aby z nich korzystać i mieć w nich swój dział, i radować się ze swojego trudu – to jest dar Boga."
-"Kaz5,20": "Ponieważ taki niewiele pamięta o przykrych dniach swojego życia, bo Bóg udziela zadowolenia jego sercu."
+"Kaz5,1":
+  text: "Pilnuj swoich kroków, gdy idziesz do domu Bożego; zbliżyć się, by słuchać jest lepsze niż dawać ofiarę głupich. Bo nie mają zrozumienia, czyniąc źle."
+  tags: []
+"Kaz5,2":
+  text: "Nie ponaglaj swoich ust i niech twoje serce nie śpieszy się do wypowiadania słowa przed obliczem Boga. Bo Bóg jest w niebiosach, a ty na ziemi. Niech więc niewiele będzie twoich słów."
+  tags: []
+"Kaz5,3":
+  text: "Bo z wielu zajęć przychodzi sen, a głos głupca z wielu słów."
+  tags: []
+"Kaz5,4":
+  text: "Gdy złożysz Bogu ślub, nie zwlekaj z jego wypełnieniem, gdyż w głupcach nie ma On upodobania. Cokolwiek ślubujesz – wypełnij."
+  tags: []
+"Kaz5,5":
+  text: "Lepiej kiedy nie będziesz ślubował, niż byś ślubował, a tego nie wypełnił."
+  tags: []
+"Kaz5,6":
+  text: "Nie pozwól, by twoje usta doprowadziły do grzechu twoje ciało i nie mów przed posłańcem – to był błąd. Dlaczego Bóg miałby się gniewać z powodu twojego głosu i zniszczyć dzieło twoich rąk?"
+  tags: []
+"Kaz5,7":
+  text: "Bo gdzie jest wiele snów, tam wiele marności i wiele słów. Lecz ty bój się Boga."
+  tags: []
+"Kaz5,8":
+  text: "Jeśli widzisz w prowincji ucisk ubogiego i gwałcenie prawa i sprawiedliwości, nie dziw się z powodu tej sprawy, gdyż wyższy chroni wysokiego, a nad nimi jest jeszcze wyższy."
+  tags: []
+"Kaz5,9":
+  text: "A pożytek dla ziemi w tym wszystkim jest taki: Król zostaje uczyniony sługą na ziemi."
+  tags: []
+"Kaz5,10":
+  text: "Kto kocha srebro, nie nasyci się srebrem, a kto kocha się w bogactwie, nie będzie miał z niego zysku. To także jest marnością."
+  tags: []
+"Kaz5,11":
+  text: "Gdy dobra się mnożą, mnożą się spożywający je. A jaka w tym korzyść dla właściciela? Że widzą to jego oczy."
+  tags: []
+"Kaz5,12":
+  text: "Słodki jest sen robotnika, czy je mało, czy dużo, ale obfitość bogatego nie zezwala mu spać."
+  tags: []
+"Kaz5,13":
+  text: "Jest bolesne zło, które widziałem pod słońcem: Bogactwo strzeżone dla właściciela na jego własną krzywdę."
+  tags: []
+"Kaz5,14":
+  text: "Bo takie bogactwo przepada przez złe zajęcie. I spłodził syna i nie ma nic z tego w swoim ręku."
+  tags: []
+"Kaz5,15":
+  text: "Jak wyszedł z łona swojej matki nagi, tak wróci jak przyszedł, i nie zabierze nic ze swojego trudu, co wyszło spod jego ręki."
+  tags: []
+"Kaz5,16":
+  text: "To także jest bolesnym złem, wszystko dokładnie jak przyszło, tak samo odejdzie. Jaka więc korzyść z tego, że trudził się na wiatr?"
+  tags: []
+"Kaz5,17":
+  text: "Również każdego dnia jadał w ciemności i wielkim smutku, chorobie i gniewie."
+  tags: []
+"Kaz5,18":
+  text: "Oto, co ja zobaczyłem, że jest dobre i piękne – jeść i pić, i oglądać powodzenie w całym swoim trudzie, którym się człowiek mozoli pod słońcem przez tę parę dni swojego życia, które dał mu Bóg – bo to jest jego działem."
+  tags: []
+"Kaz5,19":
+  text: "Również każdy człowiek, któremu Bóg dał majątek i bogactwo, i możliwość, aby z nich korzystać i mieć w nich swój dział, i radować się ze swojego trudu – to jest dar Boga."
+  tags: []
+"Kaz5,20":
+  text: "Ponieważ taki niewiele pamięta o przykrych dniach swojego życia, bo Bóg udziela zadowolenia jego sercu."
+  tags: []

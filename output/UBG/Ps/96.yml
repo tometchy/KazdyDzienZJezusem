@@ -1,13 +1,39 @@
-"Ps96,1": "Śpiewajcie PANU nową pieśń, śpiewaj PANU, cała ziemio!"
-"Ps96,2": "Śpiewajcie PANU, błogosławcie jego imię, opowiadajcie o jego zbawieniu dzień po dniu."
-"Ps96,3": "Głoście wśród narodów jego chwałę, wśród wszystkich ludów jego cuda."
-"Ps96,4": "Wielki bowiem jest PAN i godny wszelkiej chwały, straszliwszy nad wszystkich bogów."
-"Ps96,5": "Gdyż wszyscy bogowie narodów są bożkami, a PAN uczynił niebiosa."
-"Ps96,6": "Cześć i majestat przed jego obliczem, moc i piękno w jego świątyni."
-"Ps96,7": "Oddajcie PANU, rodziny narodów, oddajcie PANU chwałę i moc."
-"Ps96,8": "Oddajcie PANU chwałę jego imienia, przynieście dary i wejdźcie do jego przedsionków."
-"Ps96,9": "Oddajcie PANU pokłon w ozdobie świętości, niech cała ziemia drży przed nim."
-"Ps96,10": "Mówcie wśród pogan: PAN króluje; świat będzie utwierdzony, aby się nie poruszył, i on będzie sądził ludzi sprawiedliwie."
-"Ps96,11": "Niech się weselą niebiosa i niech raduje się ziemia; niech zaszumi morze i to, co w nim jest."
-"Ps96,12": "Niech radują się pola i wszystko, co jest na nich, wtedy radośnie wykrzykną wszystkie drzewa leśne;"
-"Ps96,13": "Przed obliczem PANA, bo idzie, zaprawdę idzie, aby sądzić ziemię. Będzie sądził świat w sprawiedliwości, a narody w swojej prawdzie."
+"Ps96,1":
+  text: "Śpiewajcie PANU nową pieśń, śpiewaj PANU, cała ziemio!"
+  tags: []
+"Ps96,2":
+  text: "Śpiewajcie PANU, błogosławcie jego imię, opowiadajcie o jego zbawieniu dzień po dniu."
+  tags: []
+"Ps96,3":
+  text: "Głoście wśród narodów jego chwałę, wśród wszystkich ludów jego cuda."
+  tags: []
+"Ps96,4":
+  text: "Wielki bowiem jest PAN i godny wszelkiej chwały, straszliwszy nad wszystkich bogów."
+  tags: []
+"Ps96,5":
+  text: "Gdyż wszyscy bogowie narodów są bożkami, a PAN uczynił niebiosa."
+  tags: []
+"Ps96,6":
+  text: "Cześć i majestat przed jego obliczem, moc i piękno w jego świątyni."
+  tags: []
+"Ps96,7":
+  text: "Oddajcie PANU, rodziny narodów, oddajcie PANU chwałę i moc."
+  tags: []
+"Ps96,8":
+  text: "Oddajcie PANU chwałę jego imienia, przynieście dary i wejdźcie do jego przedsionków."
+  tags: []
+"Ps96,9":
+  text: "Oddajcie PANU pokłon w ozdobie świętości, niech cała ziemia drży przed nim."
+  tags: []
+"Ps96,10":
+  text: "Mówcie wśród pogan: PAN króluje; świat będzie utwierdzony, aby się nie poruszył, i on będzie sądził ludzi sprawiedliwie."
+  tags: []
+"Ps96,11":
+  text: "Niech się weselą niebiosa i niech raduje się ziemia; niech zaszumi morze i to, co w nim jest."
+  tags: []
+"Ps96,12":
+  text: "Niech radują się pola i wszystko, co jest na nich, wtedy radośnie wykrzykną wszystkie drzewa leśne;"
+  tags: []
+"Ps96,13":
+  text: "Przed obliczem PANA, bo idzie, zaprawdę idzie, aby sądzić ziemię. Będzie sądził świat w sprawiedliwości, a narody w swojej prawdzie."
+  tags: []

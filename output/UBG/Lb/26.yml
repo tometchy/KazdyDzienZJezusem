@@ -1,65 +1,195 @@
-"Lb26,1": "A po tej pladze PAN powiedział do Mojżesza i Eleazara, syna Aarona, kapłana:"
-"Lb26,2": "Policzcie całe zgromadzenie synów Izraela, od dwudziestego roku życia wzwyż, według domów ich ojców, wszystkich zdolnych do walki w Izraelu."
-"Lb26,3": "Przemówił więc Mojżesz i kapłan Eleazar do nich na równinach Moabu, nad Jordanem, naprzeciw Jerycha:"
-"Lb26,4": "Policzcie lud, od dwudziestego roku życia wzwyż, jak PAN rozkazał Mojżeszowi i synom Izraela, którzy wyszli z ziemi Egiptu."
-"Lb26,5": "Ruben, pierworodny Izraela: synowie Rubena to Henoch, od którego pochodzi rodzina Henochitów; Pallu, od którego pochodzi rodzina Palluitów;"
-"Lb26,6": "Chesron, od którego pochodzi rodzina Chesronitów, i Karmi, od którego pochodzi rodzina Karmitów."
-"Lb26,7": "To są rodziny Rubenitów; a było ich policzonych czterdzieści trzy tysiące siedmiuset trzydziestu."
-"Lb26,8": "A synowie Pallu to Eliab."
-"Lb26,9": "Synowie zaś Eliaba to Nemuel, Datan i Abiram. To ten Datan i Abiram, osławieni wśród zgromadzenia, którzy zbuntowali się przeciwko Mojżeszowi i Aaronowi z gromadą Koracha, gdy zbuntowali się przeciwko PANU."
-"Lb26,10": "I ziemia otworzyła swoją paszczę, i pochłonęła ich razem z Korachem, podczas gdy cała gromada zginęła; ogień pochłonął dwustu pięćdziesięciu mężczyzn. Stali się oni znakiem;"
-"Lb26,11": "Lecz synowie Koracha nie umarli."
-"Lb26,12": "Synowie Symeona według swych rodzin to: Nemuel, od którego pochodzi rodzina Nemuelitów, Jamin, od którego rodzina Jaminitów, Jachin, od którego rodzina Jachinitów;"
-"Lb26,13": "Zerach, od którego rodzina Zerachitów, Szaul, od którego rodzina Szaulitów."
-"Lb26,14": "To są rodziny Symeonitów; a było ich dwadzieścia dwa tysiące dwustu."
-"Lb26,15": "Synowie Gada według swych rodzin to: Sefon, od którego pochodzi rodzina Sefonitów, Chaggi, od którego rodzina Chaggitów, Szuni, od którego rodzina Szunitów;"
-"Lb26,16": "Ozni, od którego rodzina Oznitów, Er, od którego rodzina Erytów;"
-"Lb26,17": "Arod, od którego rodzina Arodytów, Ariel, od którego rodzina Arielitów."
-"Lb26,18": "To są rodziny synów Gada według ich spisu, czterdzieści tysięcy pięciuset."
-"Lb26,19": "Synowie Judy to Er i Onan. Er i Onan umarli w ziemi Kanaan."
-"Lb26,20": "Synowie Judy według swych rodzin to: Szela, od którego pochodzi rodzina Szelitów, Peres, od którego rodzina Peresytów, Zerach, od którego rodzina Zerachitów;"
-"Lb26,21": "Synowie Peresa to: Chesron, od którego rodzina Chesronitów, Chamul, od którego rodzina Chamulitów."
-"Lb26,22": "To są rodziny Judy według ich spisu, siedemdziesiąt sześć tysięcy pięciuset."
-"Lb26,23": "Synowie Issachara według swych rodzin to: Tola, od którego pochodzi rodzina Tolaitów, Puwwa, od którego rodzina Puwwitów;"
-"Lb26,24": "Jaszub, od którego rodzina Jaszubitów, Szimrona, od którego rodzina Szimronitów."
-"Lb26,25": "To są rodziny Issachara według ich spisu, sześćdziesiąt cztery tysiące trzystu."
-"Lb26,26": "Synowie Zebulona według swych rodzin to: Sered, od którego pochodzi rodzina Seredytów, Elon, od którego rodzina Elonitów, Jachleel, od którego rodzina Jachleelitów."
-"Lb26,27": "A to są rodziny Zebulonitów według ich spisu, sześćdziesiąt tysięcy pięciuset."
-"Lb26,28": "Synowie Józefa według swych rodzin to Manasses i Efraim."
-"Lb26,29": "Synowie Manassesa to: Makir, od którego pochodzi rodzina Makirytów; a Makir spłodził Gileada, od Gileada pochodzi rodzina Gileadczyków;"
-"Lb26,30": "To są synowie Gileada: Jezer, od którego rodzina Jezerytów, Chelek, od którego rodzina Chelekitów;"
-"Lb26,31": "Asriel, od którego rodzina Asrielitów, Szechem, od którego rodzina Sychemitów;"
-"Lb26,32": "Szemida, od którego rodzina Szemidaitów, oraz Chefer, od którego rodzina Cheferytów."
-"Lb26,33": "A Selofchad, syn Chefera, nie miał synów, lecz tylko córki, a imiona córek Selofchada to: Machla, Noa, Chogla, Milka i Tirsa."
-"Lb26,34": "To są rodziny Manassesa według ich spisu, pięćdziesiąt dwa tysiące siedmiuset."
-"Lb26,35": "To są synowie Efraima według swych rodzin: Szutelach, od którego pochodzi rodzina Szutelachitów, Becher, od którego rodzina Becherytów, Tachan, od którego rodzina Tachanitów;"
-"Lb26,36": "A to są synowie Szutelacha: Eran, od którego rodzina Eranitów."
-"Lb26,37": "To są rodziny synów Efraima według ich spisu: trzydzieści dwa tysiące pięciuset. To są synowie Józefa według swych rodzin."
-"Lb26,38": "A synowie Beniamina według swych rodzin to: Bela, od którego pochodzi rodzina Belaitów, Aszbel, od którego rodzina Aszbelitów, Achiram, od którego rodzina Achiramitów;"
-"Lb26,39": "Szufam, od którego rodzina Szufamitów, Chufam, od którego rodzina Chufamitów."
-"Lb26,40": "Synowie Beli to Ard i Naaman, od Arda rodzina Ardytów, a od Naamana rodzina Naamitów."
-"Lb26,41": "To są synowie Beniamina według swych rodzin. Ich liczba wynosi czterdzieści pięć tysięcy sześciuset."
-"Lb26,42": "To są synowie Dana według swych rodzin: Szucham, od którego pochodzi rodzina Szuchamitów. To są rodziny Dana według swych rodzin."
-"Lb26,43": "Wszystkich rodzin Szuchamitów według ich spisu było sześćdziesiąt cztery tysiące czterystu."
-"Lb26,44": "Synowie Aszera według swych rodzin to: Jimna, od którego pochodzi rodzina Jimnaitów, Jiszwi, od którego rodzina Jiszwitów, Beria, od którego rodzina Beriaitów;"
-"Lb26,45": "Synowie Berii to: Cheber, od którego rodzina Cheberytów, Malkiel, od którego rodzina Malkielitów."
-"Lb26,46": "A córce Aszera było na imię Sarach."
-"Lb26,47": "To są rodziny synów Aszera według ich spisu: pięćdziesiąt trzy tysiące czterystu."
-"Lb26,48": "Synowie Neftalego według swych rodzin to: Jachseel, od którego pochodzi rodzina Jachseelitów, Guni, od którego rodzina Gunitów;"
-"Lb26,49": "Jeser, od którego rodzina Jeserytów, Szillem, od którego rodzina Szillemitów."
-"Lb26,50": "To są rodziny Neftalego według ich rodzin. Ich liczba wynosi czterdzieści pięć tysięcy czterystu."
-"Lb26,51": "To jest liczba synów Izraela: sześćset jeden tysięcy siedmiuset trzydziestu."
-"Lb26,52": "I PAN powiedział do Mojżesza:"
-"Lb26,53": "Pomiędzy nich zostanie podzielona ziemia jako dziedzictwo według liczby imion."
-"Lb26,54": "Liczniejszemu dasz większe dziedzictwo, a mniej licznemu dasz mniejsze dziedzictwo. Każdemu będzie dane jego dziedzictwo według liczby policzonych."
-"Lb26,55": "Ziemia jednak będzie rozdzielona przez losowanie; otrzymają dziedzictwo według imion pokoleń swoich ojców."
-"Lb26,56": "Zgodnie z losem będzie rozdzielone dziedzictwo pomiędzy liczne i nieliczne."
-"Lb26,57": "Oto policzeni z Lewitów według swych rodzin: Gerszon, od którego pochodzi rodzina Gerszonitów, Kehat, od którego rodzina Kehatytów, Merari, od którego rodzina Meraritów."
-"Lb26,58": "To są rodziny Lewiego: rodzina Libnitów, rodzina Chebronitów, rodzina Machlitów, rodzina Muszitów, rodzina Korachitów; a Kehat spłodził Amrama."
-"Lb26,59": "A żonie Amrama było na imię Jochebed, była to córka Lewiego, która mu się urodziła w Egipcie; to ona urodziła Amramowi Aarona i Mojżesza oraz ich siostrę Miriam."
-"Lb26,60": "Aaronowi urodzili się Nadab i Abihu, Eleazar i Itamar."
-"Lb26,61": "Ale Nadab i Abihu umarli, gdy ofiarowali inny ogień przed PANEM."
-"Lb26,62": "A ich liczba wynosiła dwadzieścia trzy tysiące, wszystkich mężczyzn od miesiąca wzwyż; nie zostali jednak policzeni wśród synów Izraela, gdyż nie dano im dziedzictwa pośród synów Izraela."
-"Lb26,63": "To są ci policzeni przez Mojżesza i kapłana Eleazara; oni policzyli synów Izraela na równinach Moabu, nad Jordanem, naprzeciw Jerycha."
-"Lb26,64": "Lecz wśród nich nie było nikogo z tych policzonych przez Mojżesza i kapłana Aarona, gdy policzyli synów Izraela na pustyni Synaj;"
-"Lb26,65": "PAN bowiem powiedział o nich: Z pewnością umrą na pustyni. I nie pozostał żaden z nich oprócz Kaleba, syna Jefunnego, i Jozuego, syna Nuna."
+"Lb26,1":
+  text: "A po tej pladze PAN powiedział do Mojżesza i Eleazara, syna Aarona, kapłana:"
+  tags: []
+"Lb26,2":
+  text: "Policzcie całe zgromadzenie synów Izraela, od dwudziestego roku życia wzwyż, według domów ich ojców, wszystkich zdolnych do walki w Izraelu."
+  tags: []
+"Lb26,3":
+  text: "Przemówił więc Mojżesz i kapłan Eleazar do nich na równinach Moabu, nad Jordanem, naprzeciw Jerycha:"
+  tags: []
+"Lb26,4":
+  text: "Policzcie lud, od dwudziestego roku życia wzwyż, jak PAN rozkazał Mojżeszowi i synom Izraela, którzy wyszli z ziemi Egiptu."
+  tags: []
+"Lb26,5":
+  text: "Ruben, pierworodny Izraela: synowie Rubena to Henoch, od którego pochodzi rodzina Henochitów; Pallu, od którego pochodzi rodzina Palluitów;"
+  tags: []
+"Lb26,6":
+  text: "Chesron, od którego pochodzi rodzina Chesronitów, i Karmi, od którego pochodzi rodzina Karmitów."
+  tags: []
+"Lb26,7":
+  text: "To są rodziny Rubenitów; a było ich policzonych czterdzieści trzy tysiące siedmiuset trzydziestu."
+  tags: []
+"Lb26,8":
+  text: "A synowie Pallu to Eliab."
+  tags: []
+"Lb26,9":
+  text: "Synowie zaś Eliaba to Nemuel, Datan i Abiram. To ten Datan i Abiram, osławieni wśród zgromadzenia, którzy zbuntowali się przeciwko Mojżeszowi i Aaronowi z gromadą Koracha, gdy zbuntowali się przeciwko PANU."
+  tags: []
+"Lb26,10":
+  text: "I ziemia otworzyła swoją paszczę, i pochłonęła ich razem z Korachem, podczas gdy cała gromada zginęła; ogień pochłonął dwustu pięćdziesięciu mężczyzn. Stali się oni znakiem;"
+  tags: []
+"Lb26,11":
+  text: "Lecz synowie Koracha nie umarli."
+  tags: []
+"Lb26,12":
+  text: "Synowie Symeona według swych rodzin to: Nemuel, od którego pochodzi rodzina Nemuelitów, Jamin, od którego rodzina Jaminitów, Jachin, od którego rodzina Jachinitów;"
+  tags: []
+"Lb26,13":
+  text: "Zerach, od którego rodzina Zerachitów, Szaul, od którego rodzina Szaulitów."
+  tags: []
+"Lb26,14":
+  text: "To są rodziny Symeonitów; a było ich dwadzieścia dwa tysiące dwustu."
+  tags: []
+"Lb26,15":
+  text: "Synowie Gada według swych rodzin to: Sefon, od którego pochodzi rodzina Sefonitów, Chaggi, od którego rodzina Chaggitów, Szuni, od którego rodzina Szunitów;"
+  tags: []
+"Lb26,16":
+  text: "Ozni, od którego rodzina Oznitów, Er, od którego rodzina Erytów;"
+  tags: []
+"Lb26,17":
+  text: "Arod, od którego rodzina Arodytów, Ariel, od którego rodzina Arielitów."
+  tags: []
+"Lb26,18":
+  text: "To są rodziny synów Gada według ich spisu, czterdzieści tysięcy pięciuset."
+  tags: []
+"Lb26,19":
+  text: "Synowie Judy to Er i Onan. Er i Onan umarli w ziemi Kanaan."
+  tags: []
+"Lb26,20":
+  text: "Synowie Judy według swych rodzin to: Szela, od którego pochodzi rodzina Szelitów, Peres, od którego rodzina Peresytów, Zerach, od którego rodzina Zerachitów;"
+  tags: []
+"Lb26,21":
+  text: "Synowie Peresa to: Chesron, od którego rodzina Chesronitów, Chamul, od którego rodzina Chamulitów."
+  tags: []
+"Lb26,22":
+  text: "To są rodziny Judy według ich spisu, siedemdziesiąt sześć tysięcy pięciuset."
+  tags: []
+"Lb26,23":
+  text: "Synowie Issachara według swych rodzin to: Tola, od którego pochodzi rodzina Tolaitów, Puwwa, od którego rodzina Puwwitów;"
+  tags: []
+"Lb26,24":
+  text: "Jaszub, od którego rodzina Jaszubitów, Szimrona, od którego rodzina Szimronitów."
+  tags: []
+"Lb26,25":
+  text: "To są rodziny Issachara według ich spisu, sześćdziesiąt cztery tysiące trzystu."
+  tags: []
+"Lb26,26":
+  text: "Synowie Zebulona według swych rodzin to: Sered, od którego pochodzi rodzina Seredytów, Elon, od którego rodzina Elonitów, Jachleel, od którego rodzina Jachleelitów."
+  tags: []
+"Lb26,27":
+  text: "A to są rodziny Zebulonitów według ich spisu, sześćdziesiąt tysięcy pięciuset."
+  tags: []
+"Lb26,28":
+  text: "Synowie Józefa według swych rodzin to Manasses i Efraim."
+  tags: []
+"Lb26,29":
+  text: "Synowie Manassesa to: Makir, od którego pochodzi rodzina Makirytów; a Makir spłodził Gileada, od Gileada pochodzi rodzina Gileadczyków;"
+  tags: []
+"Lb26,30":
+  text: "To są synowie Gileada: Jezer, od którego rodzina Jezerytów, Chelek, od którego rodzina Chelekitów;"
+  tags: []
+"Lb26,31":
+  text: "Asriel, od którego rodzina Asrielitów, Szechem, od którego rodzina Sychemitów;"
+  tags: []
+"Lb26,32":
+  text: "Szemida, od którego rodzina Szemidaitów, oraz Chefer, od którego rodzina Cheferytów."
+  tags: []
+"Lb26,33":
+  text: "A Selofchad, syn Chefera, nie miał synów, lecz tylko córki, a imiona córek Selofchada to: Machla, Noa, Chogla, Milka i Tirsa."
+  tags: []
+"Lb26,34":
+  text: "To są rodziny Manassesa według ich spisu, pięćdziesiąt dwa tysiące siedmiuset."
+  tags: []
+"Lb26,35":
+  text: "To są synowie Efraima według swych rodzin: Szutelach, od którego pochodzi rodzina Szutelachitów, Becher, od którego rodzina Becherytów, Tachan, od którego rodzina Tachanitów;"
+  tags: []
+"Lb26,36":
+  text: "A to są synowie Szutelacha: Eran, od którego rodzina Eranitów."
+  tags: []
+"Lb26,37":
+  text: "To są rodziny synów Efraima według ich spisu: trzydzieści dwa tysiące pięciuset. To są synowie Józefa według swych rodzin."
+  tags: []
+"Lb26,38":
+  text: "A synowie Beniamina według swych rodzin to: Bela, od którego pochodzi rodzina Belaitów, Aszbel, od którego rodzina Aszbelitów, Achiram, od którego rodzina Achiramitów;"
+  tags: []
+"Lb26,39":
+  text: "Szufam, od którego rodzina Szufamitów, Chufam, od którego rodzina Chufamitów."
+  tags: []
+"Lb26,40":
+  text: "Synowie Beli to Ard i Naaman, od Arda rodzina Ardytów, a od Naamana rodzina Naamitów."
+  tags: []
+"Lb26,41":
+  text: "To są synowie Beniamina według swych rodzin. Ich liczba wynosi czterdzieści pięć tysięcy sześciuset."
+  tags: []
+"Lb26,42":
+  text: "To są synowie Dana według swych rodzin: Szucham, od którego pochodzi rodzina Szuchamitów. To są rodziny Dana według swych rodzin."
+  tags: []
+"Lb26,43":
+  text: "Wszystkich rodzin Szuchamitów według ich spisu było sześćdziesiąt cztery tysiące czterystu."
+  tags: []
+"Lb26,44":
+  text: "Synowie Aszera według swych rodzin to: Jimna, od którego pochodzi rodzina Jimnaitów, Jiszwi, od którego rodzina Jiszwitów, Beria, od którego rodzina Beriaitów;"
+  tags: []
+"Lb26,45":
+  text: "Synowie Berii to: Cheber, od którego rodzina Cheberytów, Malkiel, od którego rodzina Malkielitów."
+  tags: []
+"Lb26,46":
+  text: "A córce Aszera było na imię Sarach."
+  tags: []
+"Lb26,47":
+  text: "To są rodziny synów Aszera według ich spisu: pięćdziesiąt trzy tysiące czterystu."
+  tags: []
+"Lb26,48":
+  text: "Synowie Neftalego według swych rodzin to: Jachseel, od którego pochodzi rodzina Jachseelitów, Guni, od którego rodzina Gunitów;"
+  tags: []
+"Lb26,49":
+  text: "Jeser, od którego rodzina Jeserytów, Szillem, od którego rodzina Szillemitów."
+  tags: []
+"Lb26,50":
+  text: "To są rodziny Neftalego według ich rodzin. Ich liczba wynosi czterdzieści pięć tysięcy czterystu."
+  tags: []
+"Lb26,51":
+  text: "To jest liczba synów Izraela: sześćset jeden tysięcy siedmiuset trzydziestu."
+  tags: []
+"Lb26,52":
+  text: "I PAN powiedział do Mojżesza:"
+  tags: []
+"Lb26,53":
+  text: "Pomiędzy nich zostanie podzielona ziemia jako dziedzictwo według liczby imion."
+  tags: []
+"Lb26,54":
+  text: "Liczniejszemu dasz większe dziedzictwo, a mniej licznemu dasz mniejsze dziedzictwo. Każdemu będzie dane jego dziedzictwo według liczby policzonych."
+  tags: []
+"Lb26,55":
+  text: "Ziemia jednak będzie rozdzielona przez losowanie; otrzymają dziedzictwo według imion pokoleń swoich ojców."
+  tags: []
+"Lb26,56":
+  text: "Zgodnie z losem będzie rozdzielone dziedzictwo pomiędzy liczne i nieliczne."
+  tags: []
+"Lb26,57":
+  text: "Oto policzeni z Lewitów według swych rodzin: Gerszon, od którego pochodzi rodzina Gerszonitów, Kehat, od którego rodzina Kehatytów, Merari, od którego rodzina Meraritów."
+  tags: []
+"Lb26,58":
+  text: "To są rodziny Lewiego: rodzina Libnitów, rodzina Chebronitów, rodzina Machlitów, rodzina Muszitów, rodzina Korachitów; a Kehat spłodził Amrama."
+  tags: []
+"Lb26,59":
+  text: "A żonie Amrama było na imię Jochebed, była to córka Lewiego, która mu się urodziła w Egipcie; to ona urodziła Amramowi Aarona i Mojżesza oraz ich siostrę Miriam."
+  tags: []
+"Lb26,60":
+  text: "Aaronowi urodzili się Nadab i Abihu, Eleazar i Itamar."
+  tags: []
+"Lb26,61":
+  text: "Ale Nadab i Abihu umarli, gdy ofiarowali inny ogień przed PANEM."
+  tags: []
+"Lb26,62":
+  text: "A ich liczba wynosiła dwadzieścia trzy tysiące, wszystkich mężczyzn od miesiąca wzwyż; nie zostali jednak policzeni wśród synów Izraela, gdyż nie dano im dziedzictwa pośród synów Izraela."
+  tags: []
+"Lb26,63":
+  text: "To są ci policzeni przez Mojżesza i kapłana Eleazara; oni policzyli synów Izraela na równinach Moabu, nad Jordanem, naprzeciw Jerycha."
+  tags: []
+"Lb26,64":
+  text: "Lecz wśród nich nie było nikogo z tych policzonych przez Mojżesza i kapłana Aarona, gdy policzyli synów Izraela na pustyni Synaj;"
+  tags: []
+"Lb26,65":
+  text: "PAN bowiem powiedział o nich: Z pewnością umrą na pustyni. I nie pozostał żaden z nich oprócz Kaleba, syna Jefunnego, i Jozuego, syna Nuna."
+  tags: []

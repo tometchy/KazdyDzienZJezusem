@@ -1,30 +1,90 @@
-"Jr6,1": "Synowie Beniamina, zgromadźcie się, by uciekać z Jerozolimy, zadmijcie w trąbę w Tekoa, wznieście znak nad Bet-Kerem. Z północy bowiem nadchodzi nieszczęście i wielkie zniszczenie."
-"Jr6,2": "Przyrównałem córkę Syjonu do pięknej, rozkosznej panny;"
-"Jr6,3": "Do niej przyjdą pasterze wraz ze swymi trzodami; rozbiją naprzeciwko niej namioty dokoła, każdy będzie paść w swoim miejscu."
-"Jr6,4": "Ogłoście przeciwko niej wojnę, wstańcie, wyruszymy w południe. Biada nam, bo dzień się kończy, bo wydłużają się cienie wieczorne!"
-"Jr6,5": "Wstańcie, wtargnijmy w nocy i zburzmy jej pałace."
-"Jr6,6": "Tak bowiem mówi PAN zastępów: Narąbcie drzewa i usypcie wał przeciw Jerozolimie. Jest to miasto, które ma być ukarane; pośrodku niej jest całkowity ucisk."
-"Jr6,7": "Jak źródło wylewa swe wody, tak ona wylewa swoją niegodziwość. Słychać w niej ucisk i spustoszenie, mam przed sobą nieustannie cierpienie i bicie."
-"Jr6,8": "Przyjmij upomnienie, Jerozolimo, aby moja dusza nie odstąpiła od ciebie, bym cię nie zamienił w pustkowie, ziemię bezludną."
-"Jr6,9": "Tak mówi PAN zastępów: Wyzbierają resztkę Izraela aż do grona, jak winorośl. Sięgaj swoją ręką do kosza, jak zbieracz."
-"Jr6,10": "Do kogo będę mówić i kogo ostrzegę, aby słyszeli? Oto ich uszy są nieobrzezane, tak że nie mogą słuchać. Oto słowo PANA uważają za hańbę i nie mają w nim upodobania."
-"Jr6,11": "Dlatego jestem pełen zapalczywości PANA, zamęczam się, aby ją powstrzymać. Wyleję ją zarówno na dzieci na ulicy, jak i na gromadę młodzieńców, gdyż będą pojmani – mąż z żoną, starzec z podeszłym w wieku."
-"Jr6,12": "Ich domy przypadną innym, także ich pola i żony, gdyż wyciągnę swoją rękę na mieszkańców tej ziemi, mówi PAN;"
-"Jr6,13": "Gdyż od najmniejszego z nich aż do największego – wszyscy oddani są chciwości i od proroka aż do kapłana – wszyscy popełniają oszustwo."
-"Jr6,14": "I leczą rany córki mego ludu tylko powierzchownie, mówiąc: Pokój, pokój! Ale nie ma pokoju."
-"Jr6,15": "Czy zawstydzili się, że popełnili obrzydliwość? Bynajmniej, wcale nie wstydzili się ani nie potrafili się rumienić. Dlatego upadną wśród tych, którzy mają upaść. W czasie gdy ich nawiedzę, upadną, mówi PAN."
-"Jr6,16": "Tak mówi PAN: Stańcie na drogach, spójrzcie i pytajcie o stare ścieżki, gdzie jest ta dobra droga – i idźcie nią, a znajdziecie odpoczynek dla waszej duszy. Lecz powiedzieli: Nie pójdziemy."
-"Jr6,17": "I ustanowiłem nad wami stróżów, mówiąc: Słuchajcie głosu trąby! Wtedy powiedzieli: Nie będziemy słuchać."
-"Jr6,18": "Dlatego słuchajcie, narody; poznaj, o zgromadzenie, co się wśród nich dzieje."
-"Jr6,19": "Słuchaj, ziemio! Oto sprowadzę nieszczęście na ten lud – owoc jego myśli, gdyż nie słuchał moich słów ani mego prawa, ale je odrzucił."
-"Jr6,20": "Na cóż mi kadzidło z Szeby i cynamon wonny i wyborny z dalekiej ziemi? Wasze całopalenia nie są dla mnie przyjemne i wasze ofiary nie podobają mi się."
-"Jr6,21": "Dlatego tak mówi PAN: Oto kładę przed tym ludem przeszkody, o które potykać się będą ojcowie wraz z synami; sąsiad i jego przyjaciel zginą."
-"Jr6,22": "Tak mówi PAN: Oto nadciągnie lud z ziemi północnej, wielki naród powstanie z krańców ziemi."
-"Jr6,23": "Łuk i włócznię trzymają, są okrutni i bezlitośni. Ich głos huczy jak morze i na koniach jeżdżą, gotowi jak jeden mąż do walki przeciwko tobie, o córko Syjonu!"
-"Jr6,24": "Gdy usłyszeliśmy wieść o nich, nasze ręce osłabły, ogarnęły nas trwoga i ból, jak u rodzącej."
-"Jr6,25": "Nie wychodźcie na pole i nie idźcie po drodze, bo miecz wroga i strach dokoła."
-"Jr6,26": "Córko mojego ludu, przepasz się worem i tarzaj się w popiele. Urządź sobie żałobę jak po jedynaku, gorzką żałobę, bo nagle spadnie na nas niszczyciel."
-"Jr6,27": "Ustanowiłem cię basztą i wieżą wśród mego ludu, abyś poznał i zbadał jego drogi."
-"Jr6,28": "Wszyscy są ogromnie krnąbrni, postępują jak oszczercy. Są jak miedź i żelazo; wszyscy są skażeni."
-"Jr6,29": "Miech uległ zużyciu, ołów od ognia niszczeje; na próżno przetapia go hutnik, bo źli nie zostali oddaleni."
-"Jr6,30": "Będą nazwani srebrem odrzuconym, bo PAN ich odrzucił."
+"Jr6,1":
+  text: "Synowie Beniamina, zgromadźcie się, by uciekać z Jerozolimy, zadmijcie w trąbę w Tekoa, wznieście znak nad Bet-Kerem. Z północy bowiem nadchodzi nieszczęście i wielkie zniszczenie."
+  tags: []
+"Jr6,2":
+  text: "Przyrównałem córkę Syjonu do pięknej, rozkosznej panny;"
+  tags: []
+"Jr6,3":
+  text: "Do niej przyjdą pasterze wraz ze swymi trzodami; rozbiją naprzeciwko niej namioty dokoła, każdy będzie paść w swoim miejscu."
+  tags: []
+"Jr6,4":
+  text: "Ogłoście przeciwko niej wojnę, wstańcie, wyruszymy w południe. Biada nam, bo dzień się kończy, bo wydłużają się cienie wieczorne!"
+  tags: []
+"Jr6,5":
+  text: "Wstańcie, wtargnijmy w nocy i zburzmy jej pałace."
+  tags: []
+"Jr6,6":
+  text: "Tak bowiem mówi PAN zastępów: Narąbcie drzewa i usypcie wał przeciw Jerozolimie. Jest to miasto, które ma być ukarane; pośrodku niej jest całkowity ucisk."
+  tags: []
+"Jr6,7":
+  text: "Jak źródło wylewa swe wody, tak ona wylewa swoją niegodziwość. Słychać w niej ucisk i spustoszenie, mam przed sobą nieustannie cierpienie i bicie."
+  tags: []
+"Jr6,8":
+  text: "Przyjmij upomnienie, Jerozolimo, aby moja dusza nie odstąpiła od ciebie, bym cię nie zamienił w pustkowie, ziemię bezludną."
+  tags: []
+"Jr6,9":
+  text: "Tak mówi PAN zastępów: Wyzbierają resztkę Izraela aż do grona, jak winorośl. Sięgaj swoją ręką do kosza, jak zbieracz."
+  tags: []
+"Jr6,10":
+  text: "Do kogo będę mówić i kogo ostrzegę, aby słyszeli? Oto ich uszy są nieobrzezane, tak że nie mogą słuchać. Oto słowo PANA uważają za hańbę i nie mają w nim upodobania."
+  tags: []
+"Jr6,11":
+  text: "Dlatego jestem pełen zapalczywości PANA, zamęczam się, aby ją powstrzymać. Wyleję ją zarówno na dzieci na ulicy, jak i na gromadę młodzieńców, gdyż będą pojmani – mąż z żoną, starzec z podeszłym w wieku."
+  tags: []
+"Jr6,12":
+  text: "Ich domy przypadną innym, także ich pola i żony, gdyż wyciągnę swoją rękę na mieszkańców tej ziemi, mówi PAN;"
+  tags: []
+"Jr6,13":
+  text: "Gdyż od najmniejszego z nich aż do największego – wszyscy oddani są chciwości i od proroka aż do kapłana – wszyscy popełniają oszustwo."
+  tags: []
+"Jr6,14":
+  text: "I leczą rany córki mego ludu tylko powierzchownie, mówiąc: Pokój, pokój! Ale nie ma pokoju."
+  tags: []
+"Jr6,15":
+  text: "Czy zawstydzili się, że popełnili obrzydliwość? Bynajmniej, wcale nie wstydzili się ani nie potrafili się rumienić. Dlatego upadną wśród tych, którzy mają upaść. W czasie gdy ich nawiedzę, upadną, mówi PAN."
+  tags: []
+"Jr6,16":
+  text: "Tak mówi PAN: Stańcie na drogach, spójrzcie i pytajcie o stare ścieżki, gdzie jest ta dobra droga – i idźcie nią, a znajdziecie odpoczynek dla waszej duszy. Lecz powiedzieli: Nie pójdziemy."
+  tags: []
+"Jr6,17":
+  text: "I ustanowiłem nad wami stróżów, mówiąc: Słuchajcie głosu trąby! Wtedy powiedzieli: Nie będziemy słuchać."
+  tags: []
+"Jr6,18":
+  text: "Dlatego słuchajcie, narody; poznaj, o zgromadzenie, co się wśród nich dzieje."
+  tags: []
+"Jr6,19":
+  text: "Słuchaj, ziemio! Oto sprowadzę nieszczęście na ten lud – owoc jego myśli, gdyż nie słuchał moich słów ani mego prawa, ale je odrzucił."
+  tags: []
+"Jr6,20":
+  text: "Na cóż mi kadzidło z Szeby i cynamon wonny i wyborny z dalekiej ziemi? Wasze całopalenia nie są dla mnie przyjemne i wasze ofiary nie podobają mi się."
+  tags: []
+"Jr6,21":
+  text: "Dlatego tak mówi PAN: Oto kładę przed tym ludem przeszkody, o które potykać się będą ojcowie wraz z synami; sąsiad i jego przyjaciel zginą."
+  tags: []
+"Jr6,22":
+  text: "Tak mówi PAN: Oto nadciągnie lud z ziemi północnej, wielki naród powstanie z krańców ziemi."
+  tags: []
+"Jr6,23":
+  text: "Łuk i włócznię trzymają, są okrutni i bezlitośni. Ich głos huczy jak morze i na koniach jeżdżą, gotowi jak jeden mąż do walki przeciwko tobie, o córko Syjonu!"
+  tags: []
+"Jr6,24":
+  text: "Gdy usłyszeliśmy wieść o nich, nasze ręce osłabły, ogarnęły nas trwoga i ból, jak u rodzącej."
+  tags: []
+"Jr6,25":
+  text: "Nie wychodźcie na pole i nie idźcie po drodze, bo miecz wroga i strach dokoła."
+  tags: []
+"Jr6,26":
+  text: "Córko mojego ludu, przepasz się worem i tarzaj się w popiele. Urządź sobie żałobę jak po jedynaku, gorzką żałobę, bo nagle spadnie na nas niszczyciel."
+  tags: []
+"Jr6,27":
+  text: "Ustanowiłem cię basztą i wieżą wśród mego ludu, abyś poznał i zbadał jego drogi."
+  tags: []
+"Jr6,28":
+  text: "Wszyscy są ogromnie krnąbrni, postępują jak oszczercy. Są jak miedź i żelazo; wszyscy są skażeni."
+  tags: []
+"Jr6,29":
+  text: "Miech uległ zużyciu, ołów od ognia niszczeje; na próżno przetapia go hutnik, bo źli nie zostali oddaleni."
+  tags: []
+"Jr6,30":
+  text: "Będą nazwani srebrem odrzuconym, bo PAN ich odrzucił."
+  tags: []

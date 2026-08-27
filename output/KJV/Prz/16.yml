@@ -1,33 +1,99 @@
-"Prz16,1": "The preparations of the heart in man, and the answer of the tongue, [is] from the LORD."
-"Prz16,2": "All the ways of a man [are] clean in his own eyes; but the LORD weigheth the spirits."
-"Prz16,3": "Commit thy works unto the LORD, and thy thoughts shall be established."
-"Prz16,4": "The LORD hath made all [things] for himself: yea, even the wicked for the day of evil."
-"Prz16,5": "Every one [that is] proud in heart [is] an abomination to the LORD: [though] hand [join] in hand, he shall not be unpunished."
-"Prz16,6": "By mercy and truth iniquity is purged: and by the fear of the LORD [men] depart from evil."
-"Prz16,7": "When a man's ways please the LORD, he maketh even his enemies to be at peace with him."
-"Prz16,8": "Better [is] a little with righteousness than great revenues without right."
-"Prz16,9": "A man's heart deviseth his way: but the LORD directeth his steps."
-"Prz16,10": "A divine sentence [is] in the lips of the king: his mouth transgresseth not in judgment."
-"Prz16,11": "A just weight and balance [are] the LORD'S: all the weights of the bag [are] his work."
-"Prz16,12": "[It is] an abomination to kings to commit wickedness: for the throne is established by righteousness."
-"Prz16,13": "Righteous lips [are] the delight of kings; and they love him that speaketh right."
-"Prz16,14": "The wrath of a king [is as] messengers of death: but a wise man will pacify it."
-"Prz16,15": "In the light of the king's countenance [is] life; and his favour [is] as a cloud of the latter rain."
-"Prz16,16": "How much better [is it] to get wisdom than gold! and to get understanding rather to be chosen than silver!"
-"Prz16,17": "The highway of the upright [is] to depart from evil: he that keepeth his way preserveth his soul."
-"Prz16,18": "Pride [goeth] before destruction, and an haughty spirit before a fall."
-"Prz16,19": "Better [it is to be] of an humble spirit with the lowly, than to divide the spoil with the proud."
-"Prz16,20": "He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy [is] he."
-"Prz16,21": "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning."
-"Prz16,22": "Understanding [is] a wellspring of life unto him that hath it: but the instruction of fools [is] folly."
-"Prz16,23": "The heart of the wise teacheth his mouth, and addeth learning to his lips."
-"Prz16,24": "Pleasant words [are as] an honeycomb, sweet to the soul, and health to the bones."
-"Prz16,25": "There is a way that seemeth right unto a man, but the end thereof [are] the ways of death."
-"Prz16,26": "He that laboureth laboureth for himself; for his mouth craveth it of him."
-"Prz16,27": "An ungodly man diggeth up evil: and in his lips [there is] as a burning fire."
-"Prz16,28": "A froward man soweth strife: and a whisperer separateth chief friends."
-"Prz16,29": "A violent man enticeth his neighbour, and leadeth him into the way [that is] not good."
-"Prz16,30": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass."
-"Prz16,31": "The hoary head [is] a crown of glory, [if] it be found in the way of righteousness."
-"Prz16,32": "[He that is] slow to anger [is] better than the mighty; and he that ruleth his spirit than he that taketh a city."
-"Prz16,33": "The lot is cast into the lap; but the whole disposing thereof [is] of the LORD."
+"Prz16,1":
+  text: "The preparations of the heart in man, and the answer of the tongue, [is] from the LORD."
+  tags: []
+"Prz16,2":
+  text: "All the ways of a man [are] clean in his own eyes; but the LORD weigheth the spirits."
+  tags: []
+"Prz16,3":
+  text: "Commit thy works unto the LORD, and thy thoughts shall be established."
+  tags: []
+"Prz16,4":
+  text: "The LORD hath made all [things] for himself: yea, even the wicked for the day of evil."
+  tags: []
+"Prz16,5":
+  text: "Every one [that is] proud in heart [is] an abomination to the LORD: [though] hand [join] in hand, he shall not be unpunished."
+  tags: []
+"Prz16,6":
+  text: "By mercy and truth iniquity is purged: and by the fear of the LORD [men] depart from evil."
+  tags: []
+"Prz16,7":
+  text: "When a man's ways please the LORD, he maketh even his enemies to be at peace with him."
+  tags: []
+"Prz16,8":
+  text: "Better [is] a little with righteousness than great revenues without right."
+  tags: []
+"Prz16,9":
+  text: "A man's heart deviseth his way: but the LORD directeth his steps."
+  tags: []
+"Prz16,10":
+  text: "A divine sentence [is] in the lips of the king: his mouth transgresseth not in judgment."
+  tags: []
+"Prz16,11":
+  text: "A just weight and balance [are] the LORD'S: all the weights of the bag [are] his work."
+  tags: []
+"Prz16,12":
+  text: "[It is] an abomination to kings to commit wickedness: for the throne is established by righteousness."
+  tags: []
+"Prz16,13":
+  text: "Righteous lips [are] the delight of kings; and they love him that speaketh right."
+  tags: []
+"Prz16,14":
+  text: "The wrath of a king [is as] messengers of death: but a wise man will pacify it."
+  tags: []
+"Prz16,15":
+  text: "In the light of the king's countenance [is] life; and his favour [is] as a cloud of the latter rain."
+  tags: []
+"Prz16,16":
+  text: "How much better [is it] to get wisdom than gold! and to get understanding rather to be chosen than silver!"
+  tags: []
+"Prz16,17":
+  text: "The highway of the upright [is] to depart from evil: he that keepeth his way preserveth his soul."
+  tags: []
+"Prz16,18":
+  text: "Pride [goeth] before destruction, and an haughty spirit before a fall."
+  tags: []
+"Prz16,19":
+  text: "Better [it is to be] of an humble spirit with the lowly, than to divide the spoil with the proud."
+  tags: []
+"Prz16,20":
+  text: "He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy [is] he."
+  tags: []
+"Prz16,21":
+  text: "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning."
+  tags: []
+"Prz16,22":
+  text: "Understanding [is] a wellspring of life unto him that hath it: but the instruction of fools [is] folly."
+  tags: []
+"Prz16,23":
+  text: "The heart of the wise teacheth his mouth, and addeth learning to his lips."
+  tags: []
+"Prz16,24":
+  text: "Pleasant words [are as] an honeycomb, sweet to the soul, and health to the bones."
+  tags: []
+"Prz16,25":
+  text: "There is a way that seemeth right unto a man, but the end thereof [are] the ways of death."
+  tags: []
+"Prz16,26":
+  text: "He that laboureth laboureth for himself; for his mouth craveth it of him."
+  tags: []
+"Prz16,27":
+  text: "An ungodly man diggeth up evil: and in his lips [there is] as a burning fire."
+  tags: []
+"Prz16,28":
+  text: "A froward man soweth strife: and a whisperer separateth chief friends."
+  tags: []
+"Prz16,29":
+  text: "A violent man enticeth his neighbour, and leadeth him into the way [that is] not good."
+  tags: []
+"Prz16,30":
+  text: "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass."
+  tags: []
+"Prz16,31":
+  text: "The hoary head [is] a crown of glory, [if] it be found in the way of righteousness."
+  tags: []
+"Prz16,32":
+  text: "[He that is] slow to anger [is] better than the mighty; and he that ruleth his spirit than he that taketh a city."
+  tags: []
+"Prz16,33":
+  text: "The lot is cast into the lap; but the whole disposing thereof [is] of the LORD."
+  tags: []

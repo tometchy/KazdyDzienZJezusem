@@ -1,31 +1,93 @@
-"Ps22,1": "Boże mój, Boże mój, dlaczego mnie opuściłeś? Dalekie od mego wybawienia są słowa mojego jęku?"
-"Ps22,2": "Boże mój, wołam za dnia, a nie odpowiadasz mi; w nocy, a nie mogę się uspokoić."
-"Ps22,3": "Ale Ty jesteś Święty, zasiadasz ponad pieśniami chwały Izraela."
-"Ps22,4": "Tobie ufali nasi ojcowie, ufali i dałeś im uwolnienie."
-"Ps22,5": "Do Ciebie wołali i zostali wyzwoleni, Tobie ufali i nie doznali zawstydzenia."
-"Ps22,6": "Ale ja jestem robakiem, a nie człowiekiem, szyderstwem ludzi i wzgardą ludu."
-"Ps22,7": "Wszyscy, którzy mnie widzą, szydzą ze mnie, wykrzywiają usta, potrząsają głową, mówiąc:"
-"Ps22,8": "Zaufał JHWH, niech go wyzwoli, niech go ocali, skoro ma w nim upodobanie."
-"Ps22,9": "Ale to Ty mnie wydobyłeś z łona, uczyniłeś bezpiecznym jeszcze u piersi mojej matki."
-"Ps22,10": "Tobie zostałem powierzony od narodzenia, od łona matki Ty jesteś moim Bogiem."
-"Ps22,11": "Nie oddalaj się ode mnie, bo utrapienie jest bliskie, ponieważ nie ma pomocnika."
-"Ps22,12": "Otoczyło mnie mnóstwo cielców, osaczyły mnie byki Baszanu."
-"Ps22,13": "Rozwarły na mnie swoje paszcze jak lew, rozszarpujący i ryczący."
-"Ps22,14": "Rozlany zostałem jak woda i rozłączyły się wszystkie moje kości; moje serce stało się jak wosk, roztopiło się w środku mojego wnętrza."
-"Ps22,15": "Moja siła wyschła jak skorupa, a mój język przylgnął do podniebienia; złożyłeś mnie w prochu śmierci."
-"Ps22,16": "Psy bowiem mnie otoczyły, banda złoczyńców; przebili moje ręce i nogi."
-"Ps22,17": "Mogę policzyć wszystkie moje kości, a oni patrzą i wpatrują się we mnie."
-"Ps22,18": "Dzielą między siebie moje szaty i o moją suknię rzucają losy."
-"Ps22,19": "Ale Ty, JHWH, nie oddalaj się; mój Wspomożycielu, przyjdź szybko mi z pomocą."
-"Ps22,20": "Ocal od miecza moją duszę, od mocy psa moją duszę jedyną."
-"Ps22,21": "Wybaw mnie z paszczy lwa i od rogów dzikiego woła. Ty mi odpowiedziałeś."
-"Ps22,22": "Będę głosił Twoje imię moim braciom, będę Cię chwalił pośród zgromadzenia."
-"Ps22,23": "Chwalcie JHWH, wy, którzy się Go boicie; oddawajcie mu cześć wszyscy potomkowie Jakuba; bójcie się Go wszyscy potomkowie Izraela."
-"Ps22,24": "Bo nie wzgardził ani nie brzydził się udręką ubogiego, ani nie ukrył przed nim swojego oblicza, lecz gdy ten do niego wołał, wysłuchał go."
-"Ps22,25": "Od Ciebie pochodzi moja pieśń chwały w wielkim zgromadzeniu; wypełnię moje śluby wobec tych, którzy się Ciebie boją."
-"Ps22,26": "Ubodzy będą jeść i nasycą się, chwalić JHWH będą ci, którzy Go szukają; ich serce będzie żyć na wieki."
-"Ps22,27": "Przypomną sobie i zawrócą do JHWH wszystkie krańce ziemi i oddadzą pokłon przed Twoim obliczem wszystkie rodziny narodów."
-"Ps22,28": "Do JHWH bowiem należy królestwo i On rządzi narodami."
-"Ps22,29": "Wszyscy możni ziemi będą jeść i oddawać Mu pokłon, upadną przed Jego obliczem wszyscy, którzy zstępują do prochu, i ten, którego dusza nie pozostanie żywa."
-"Ps22,30": "Potomstwo będzie Mu służyć. I będzie opowiadane o PANU kolejnemu pokoleniu."
-"Ps22,31": "Przyjdą i ludowi, który się narodzi, ogłoszą Jego sprawiedliwość – ponieważ On tak uczynił."
+"Ps22,1":
+  text: "Boże mój, Boże mój, dlaczego mnie opuściłeś? Dalekie od mego wybawienia są słowa mojego jęku?"
+  tags: []
+"Ps22,2":
+  text: "Boże mój, wołam za dnia, a nie odpowiadasz mi; w nocy, a nie mogę się uspokoić."
+  tags: []
+"Ps22,3":
+  text: "Ale Ty jesteś Święty, zasiadasz ponad pieśniami chwały Izraela."
+  tags: []
+"Ps22,4":
+  text: "Tobie ufali nasi ojcowie, ufali i dałeś im uwolnienie."
+  tags: []
+"Ps22,5":
+  text: "Do Ciebie wołali i zostali wyzwoleni, Tobie ufali i nie doznali zawstydzenia."
+  tags: []
+"Ps22,6":
+  text: "Ale ja jestem robakiem, a nie człowiekiem, szyderstwem ludzi i wzgardą ludu."
+  tags: []
+"Ps22,7":
+  text: "Wszyscy, którzy mnie widzą, szydzą ze mnie, wykrzywiają usta, potrząsają głową, mówiąc:"
+  tags: []
+"Ps22,8":
+  text: "Zaufał JHWH, niech go wyzwoli, niech go ocali, skoro ma w nim upodobanie."
+  tags: []
+"Ps22,9":
+  text: "Ale to Ty mnie wydobyłeś z łona, uczyniłeś bezpiecznym jeszcze u piersi mojej matki."
+  tags: []
+"Ps22,10":
+  text: "Tobie zostałem powierzony od narodzenia, od łona matki Ty jesteś moim Bogiem."
+  tags: []
+"Ps22,11":
+  text: "Nie oddalaj się ode mnie, bo utrapienie jest bliskie, ponieważ nie ma pomocnika."
+  tags: []
+"Ps22,12":
+  text: "Otoczyło mnie mnóstwo cielców, osaczyły mnie byki Baszanu."
+  tags: []
+"Ps22,13":
+  text: "Rozwarły na mnie swoje paszcze jak lew, rozszarpujący i ryczący."
+  tags: []
+"Ps22,14":
+  text: "Rozlany zostałem jak woda i rozłączyły się wszystkie moje kości; moje serce stało się jak wosk, roztopiło się w środku mojego wnętrza."
+  tags: []
+"Ps22,15":
+  text: "Moja siła wyschła jak skorupa, a mój język przylgnął do podniebienia; złożyłeś mnie w prochu śmierci."
+  tags: []
+"Ps22,16":
+  text: "Psy bowiem mnie otoczyły, banda złoczyńców; przebili moje ręce i nogi."
+  tags: []
+"Ps22,17":
+  text: "Mogę policzyć wszystkie moje kości, a oni patrzą i wpatrują się we mnie."
+  tags: []
+"Ps22,18":
+  text: "Dzielą między siebie moje szaty i o moją suknię rzucają losy."
+  tags: []
+"Ps22,19":
+  text: "Ale Ty, JHWH, nie oddalaj się; mój Wspomożycielu, przyjdź szybko mi z pomocą."
+  tags: []
+"Ps22,20":
+  text: "Ocal od miecza moją duszę, od mocy psa moją duszę jedyną."
+  tags: []
+"Ps22,21":
+  text: "Wybaw mnie z paszczy lwa i od rogów dzikiego woła. Ty mi odpowiedziałeś."
+  tags: []
+"Ps22,22":
+  text: "Będę głosił Twoje imię moim braciom, będę Cię chwalił pośród zgromadzenia."
+  tags: []
+"Ps22,23":
+  text: "Chwalcie JHWH, wy, którzy się Go boicie; oddawajcie mu cześć wszyscy potomkowie Jakuba; bójcie się Go wszyscy potomkowie Izraela."
+  tags: []
+"Ps22,24":
+  text: "Bo nie wzgardził ani nie brzydził się udręką ubogiego, ani nie ukrył przed nim swojego oblicza, lecz gdy ten do niego wołał, wysłuchał go."
+  tags: []
+"Ps22,25":
+  text: "Od Ciebie pochodzi moja pieśń chwały w wielkim zgromadzeniu; wypełnię moje śluby wobec tych, którzy się Ciebie boją."
+  tags: []
+"Ps22,26":
+  text: "Ubodzy będą jeść i nasycą się, chwalić JHWH będą ci, którzy Go szukają; ich serce będzie żyć na wieki."
+  tags: []
+"Ps22,27":
+  text: "Przypomną sobie i zawrócą do JHWH wszystkie krańce ziemi i oddadzą pokłon przed Twoim obliczem wszystkie rodziny narodów."
+  tags: []
+"Ps22,28":
+  text: "Do JHWH bowiem należy królestwo i On rządzi narodami."
+  tags: []
+"Ps22,29":
+  text: "Wszyscy możni ziemi będą jeść i oddawać Mu pokłon, upadną przed Jego obliczem wszyscy, którzy zstępują do prochu, i ten, którego dusza nie pozostanie żywa."
+  tags: []
+"Ps22,30":
+  text: "Potomstwo będzie Mu służyć. I będzie opowiadane o PANU kolejnemu pokoleniu."
+  tags: []
+"Ps22,31":
+  text: "Przyjdą i ludowi, który się narodzi, ogłoszą Jego sprawiedliwość – ponieważ On tak uczynił."
+  tags: []

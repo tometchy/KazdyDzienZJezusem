@@ -1,35 +1,105 @@
-"Ps104,1": "Błogosław, duszo moja, JHWH! JHWH, Boże mój, jesteś bardzo wielki! Przyoblekłeś się w majestat i dostojeństwo."
-"Ps104,2": "Owijasz się światłością jak szatą, rozciągnąłeś niebiosa jak zasłonę."
-"Ps104,3": "Wznosisz na wodach swoje tarasy, czynisz obłoki swoim rydwanem, chodzisz na skrzydłach wiatru."
-"Ps104,4": "Czynisz swoimi posłańcami wiatry, swoimi sługami ogień płonący."
-"Ps104,5": "Podtrzymujesz fundamenty ziemi, nie zostanie poruszona na wieki wieczne."
-"Ps104,6": "Odziałeś ją głębią jak szatą, wody stanęły nad górami."
-"Ps104,7": "Na Twoje napomnienie umkną, a na dźwięk Twojego grzmotu uciekną w pośpiechu."
-"Ps104,8": "Wzniosły się ponad góry, zniżyły się w doliny, na miejsce, które dla nich ustanowiłeś."
-"Ps104,9": "Wyznaczyłeś im granicę, aby jej nie przekroczyły i nie powróciły, aby okryć ziemię."
-"Ps104,10": "Ty posyłasz strumienie w doliny, aby płynęły między górami;"
-"Ps104,11": "Napoją każde zwierzę polne, dzikie osły ugaszą w nich swoje pragnienie."
-"Ps104,12": "Nad nimi osiedli się ptactwo niebios; spośród listowia wyda swój głos."
-"Ps104,13": "Nawadniasz góry ze swoich górnych komnat, owocem Twoich dzieł nasyci się ziemia."
-"Ps104,14": "Sprawiasz, że rośnie trawa dla bydła i zioła dla pracy człowieka, aby mógł wydobyć chleb z tej ziemi;"
-"Ps104,15": "I wino, które rozweseli serce człowieka, i oliwę, od której zostanie rozjaśnione oblicze, i chleb, który wzmocni serce człowieka."
-"Ps104,16": "Nasycą się drzewa JHWH, cedry Libanu, które zasadził;"
-"Ps104,17": "Na których ptaki budują gniazda; cyprysy, gdzie bocian ma swój dom."
-"Ps104,18": "Wysokie góry są dla górskich kozic, a skały schronieniem dla królików."
-"Ps104,19": "Uczynił księżyc, dla oznaczenia czasów; słońce wie kiedy ma zachodzić."
-"Ps104,20": "Sprowadzisz ciemność, aby była noc, w niej krążą wszystkie zwierzęta leśne."
-"Ps104,21": "Lwięta ryczą za łupem i żądają pokarmu od Boga."
-"Ps104,22": "A gdy słońce wstaje, schodzą się razem i kładą się w swoich legowiskach."
-"Ps104,23": "Wtedy wychodzi człowiek do swojego dzieła i do swojej pracy aż do wieczora."
-"Ps104,24": "O, jak liczne są Twoje dzieła, JHWH! Wszystkie je uczyniłeś mądrze, ziemia jest pełna Twojego bogactwa."
-"Ps104,25": "A tutaj morze wielkie, na obie strony szerokie, w nim niezliczone istoty pełzające, zwierzęta małe z dużymi."
-"Ps104,26": "Po nim poruszają się okręty i Lewiatan, którego ukształtowałeś, aby się w nim bawił."
-"Ps104,27": "Wszystko to czeka na Ciebie, abyś dał im pokarm we właściwym czasie."
-"Ps104,28": "A gdy im dajesz, zbierają; gdy otwierasz swoją rękę, nasycają się dobrami."
-"Ps104,29": "Lecz gdy ukrywasz swoje oblicze, trwożą się; gdy odbierasz im ducha, giną i obracają się w swój proch."
-"Ps104,30": "Gdy wysyłasz Twojego ducha, zostają stworzone i odnawiasz oblicze ziemi."
-"Ps104,31": "Niech chwała JHWH będzie na wieki, niech się raduje JHWH swoimi dziełami."
-"Ps104,32": "Patrzy na ziemię, a ona drży, dotyka gór i dymią."
-"Ps104,33": "Będę śpiewał JHWH, dopóki żyję; będę chwalił śpiewem mojego Boga, dopóki istnieję."
-"Ps104,34": "Niech przyjemne będzie dla Niego moje rozmyślanie o Nim, ja rozraduję się w JHWH."
-"Ps104,35": "Niech zostaną wytraceni z ziemi grzesznicy – a niegodziwych niech już nie będzie! Błogosław, moja duszo, JHWH. Chwalcie JH[WH]."
+"Ps104,1":
+  text: "Błogosław, duszo moja, JHWH! JHWH, Boże mój, jesteś bardzo wielki! Przyoblekłeś się w majestat i dostojeństwo."
+  tags: []
+"Ps104,2":
+  text: "Owijasz się światłością jak szatą, rozciągnąłeś niebiosa jak zasłonę."
+  tags: []
+"Ps104,3":
+  text: "Wznosisz na wodach swoje tarasy, czynisz obłoki swoim rydwanem, chodzisz na skrzydłach wiatru."
+  tags: []
+"Ps104,4":
+  text: "Czynisz swoimi posłańcami wiatry, swoimi sługami ogień płonący."
+  tags: []
+"Ps104,5":
+  text: "Podtrzymujesz fundamenty ziemi, nie zostanie poruszona na wieki wieczne."
+  tags: []
+"Ps104,6":
+  text: "Odziałeś ją głębią jak szatą, wody stanęły nad górami."
+  tags: []
+"Ps104,7":
+  text: "Na Twoje napomnienie umkną, a na dźwięk Twojego grzmotu uciekną w pośpiechu."
+  tags: []
+"Ps104,8":
+  text: "Wzniosły się ponad góry, zniżyły się w doliny, na miejsce, które dla nich ustanowiłeś."
+  tags: []
+"Ps104,9":
+  text: "Wyznaczyłeś im granicę, aby jej nie przekroczyły i nie powróciły, aby okryć ziemię."
+  tags: []
+"Ps104,10":
+  text: "Ty posyłasz strumienie w doliny, aby płynęły między górami;"
+  tags: []
+"Ps104,11":
+  text: "Napoją każde zwierzę polne, dzikie osły ugaszą w nich swoje pragnienie."
+  tags: []
+"Ps104,12":
+  text: "Nad nimi osiedli się ptactwo niebios; spośród listowia wyda swój głos."
+  tags: []
+"Ps104,13":
+  text: "Nawadniasz góry ze swoich górnych komnat, owocem Twoich dzieł nasyci się ziemia."
+  tags: []
+"Ps104,14":
+  text: "Sprawiasz, że rośnie trawa dla bydła i zioła dla pracy człowieka, aby mógł wydobyć chleb z tej ziemi;"
+  tags: []
+"Ps104,15":
+  text: "I wino, które rozweseli serce człowieka, i oliwę, od której zostanie rozjaśnione oblicze, i chleb, który wzmocni serce człowieka."
+  tags: []
+"Ps104,16":
+  text: "Nasycą się drzewa JHWH, cedry Libanu, które zasadził;"
+  tags: []
+"Ps104,17":
+  text: "Na których ptaki budują gniazda; cyprysy, gdzie bocian ma swój dom."
+  tags: []
+"Ps104,18":
+  text: "Wysokie góry są dla górskich kozic, a skały schronieniem dla królików."
+  tags: []
+"Ps104,19":
+  text: "Uczynił księżyc, dla oznaczenia czasów; słońce wie kiedy ma zachodzić."
+  tags: []
+"Ps104,20":
+  text: "Sprowadzisz ciemność, aby była noc, w niej krążą wszystkie zwierzęta leśne."
+  tags: []
+"Ps104,21":
+  text: "Lwięta ryczą za łupem i żądają pokarmu od Boga."
+  tags: []
+"Ps104,22":
+  text: "A gdy słońce wstaje, schodzą się razem i kładą się w swoich legowiskach."
+  tags: []
+"Ps104,23":
+  text: "Wtedy wychodzi człowiek do swojego dzieła i do swojej pracy aż do wieczora."
+  tags: []
+"Ps104,24":
+  text: "O, jak liczne są Twoje dzieła, JHWH! Wszystkie je uczyniłeś mądrze, ziemia jest pełna Twojego bogactwa."
+  tags: []
+"Ps104,25":
+  text: "A tutaj morze wielkie, na obie strony szerokie, w nim niezliczone istoty pełzające, zwierzęta małe z dużymi."
+  tags: []
+"Ps104,26":
+  text: "Po nim poruszają się okręty i Lewiatan, którego ukształtowałeś, aby się w nim bawił."
+  tags: []
+"Ps104,27":
+  text: "Wszystko to czeka na Ciebie, abyś dał im pokarm we właściwym czasie."
+  tags: []
+"Ps104,28":
+  text: "A gdy im dajesz, zbierają; gdy otwierasz swoją rękę, nasycają się dobrami."
+  tags: []
+"Ps104,29":
+  text: "Lecz gdy ukrywasz swoje oblicze, trwożą się; gdy odbierasz im ducha, giną i obracają się w swój proch."
+  tags: []
+"Ps104,30":
+  text: "Gdy wysyłasz Twojego ducha, zostają stworzone i odnawiasz oblicze ziemi."
+  tags: []
+"Ps104,31":
+  text: "Niech chwała JHWH będzie na wieki, niech się raduje JHWH swoimi dziełami."
+  tags: []
+"Ps104,32":
+  text: "Patrzy na ziemię, a ona drży, dotyka gór i dymią."
+  tags: []
+"Ps104,33":
+  text: "Będę śpiewał JHWH, dopóki żyję; będę chwalił śpiewem mojego Boga, dopóki istnieję."
+  tags: []
+"Ps104,34":
+  text: "Niech przyjemne będzie dla Niego moje rozmyślanie o Nim, ja rozraduję się w JHWH."
+  tags: []
+"Ps104,35":
+  text: "Niech zostaną wytraceni z ziemi grzesznicy – a niegodziwych niech już nie będzie! Błogosław, moja duszo, JHWH. Chwalcie JH[WH]."
+  tags: []

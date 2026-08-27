@@ -1,176 +1,528 @@
-"Ps119,1": "Błogosławieni ci, których droga jest nienaganna , którzy chodzą według Prawa JHWH!"
-"Ps119,2": "Błogosławieni ci, którzy strzegą Jego świadectw i szukają Go całym sercem;"
-"Ps119,3": "Którzy także nie czynią nieprawości, ale chodzą Jego drogami."
-"Ps119,4": "Ty nakazałeś, aby pilnie strzec Twoich ustaw."
-"Ps119,5": "Obym trzymał się moich dróg, aby zachowywać Twoje postanowienia!"
-"Ps119,6": "Wtedy nie zawstydzę się, gdy będę zważał na wszystkie Twoje przykazania."
-"Ps119,7": "Pragnę Cię wysławiać w szczerości serca, gdy nauczę się Twoich sprawiedliwych orzeczeń."
-"Ps119,8": "Będę strzegł Twoich postanowień, nigdy mnie nie opuszczaj."
-"Ps119,9": "W jaki sposób młodzieniec oczyści swoją ścieżkę? Gdy przestrzegać będzie Twojego Słowa."
-"Ps119,10": "Szukam Ciebie z całego serca, nie daj mi zboczyć od Twoich przykazań."
-"Ps119,11": "W sercu swoim przechowuję Twoje wypowiedzi, abym nie zgrzeszył przeciwko Tobie."
-"Ps119,12": "Błogosławiony jesteś, JHWH; naucz mnie Twoich postanowień."
-"Ps119,13": "Swoimi wargami opowiadam wszystkie orzeczenia Twoich ust."
-"Ps119,14": "Raduję się na drodze Twoich świadectw jak z całego bogactwa."
-"Ps119,15": "Pragnę rozmyślać o Twoich ustawach i pragnę przyglądać się Twoim ścieżkom."
-"Ps119,16": "Zachwycam się Twoimi zarządzeniami i nie zapominam Twojego Słowa."
-"Ps119,17": "Okaż wspaniałomyślność swojemu słudze, abym żył i zachowywał Twoje Słowo."
-"Ps119,18": "Odsłoń moje oczy, abym mógł zobaczyć cudowność Twojego Prawa."
-"Ps119,19": "Jestem przybyszem na ziemi, nie ukrywaj przede mną Twoich przykazań."
-"Ps119,20": "Moją duszę przez cały czas druzgocze tęsknota za Twoimi orzeczeniami."
-"Ps119,21": "Skarciłeś pysznych, przeklętych, którzy odstępują od Twoich przykazań."
-"Ps119,22": "Zdejmij ze mnie hańbę i pogardę, gdyż zachowuję Twoje świadectwo."
-"Ps119,23": "Nawet książęta zasiadają i zmawiają się przeciwko mnie, lecz Twój sługa rozmyśla o Twoich postanowieniach."
-"Ps119,24": "Również Twoje świadectwa są moją rozkoszą i jako mężowie będący moimi doradcami."
-"Ps119,25": "Moja dusza przylgnęła do prochu, ożyw mnie według Twojego Słowa."
-"Ps119,26": "Opowiedziałem Ci o moich drogach i odpowiedziałeś mi; naucz mnie Twoich postanowień."
-"Ps119,27": "Spraw, bym zrozumiał drogę Twoich ustaw, a będę rozmyślał o Twoich cudownych dziełach."
-"Ps119,28": "Dusza moja rozpływa się we łzach ze smutku, utwierdź mnie według Twojego Słowa."
-"Ps119,29": "Oddal ode mnie drogę kłamstwa, a obdarz mnie łaskawie swoim Prawem."
-"Ps119,30": "Wybrałem drogę prawdy, a Twoje orzeczenia stawiam przed sobą."
-"Ps119,31": "Przylgnąłem do Twoich świadectw; JHWH, nie pozwól mi zaznać wstydu."
-"Ps119,32": "Pobiegnę drogą Twoich przykazań, ponieważ rozszerzasz moje serce."
-"Ps119,33": "Naucz mnie, JHWH, drogi Twoich postanowień, a będę jej strzegł aż do końca."
-"Ps119,34": "Daj mi zrozumienie, bym strzegł Twojego Prawa; abym go przestrzegał całym sercem."
-"Ps119,35": "Spraw, bym chodził ścieżką Twoich przykazań, gdyż w niej mam upodobanie."
-"Ps119,36": "Nagnij moje serce do Twoich świadectw, a nie do zysków."
-"Ps119,37": "Odwróć moje oczy, aby nie patrzyły na marność, ożyw mnie na Twojej drodze."
-"Ps119,38": "Utwierdź swoją wypowiedź względem Twojego sługi, który się oddał Twojej bojaźni."
-"Ps119,39": "Oddal ode mnie mą hańbę, której się boję, bo Twoje orzeczenia są dobre."
-"Ps119,40": "Oto tęsknię do Twoich ustaw; ożyw mnie w swojej sprawiedliwości."
-"Ps119,41": "I niech zstąpi na mnie Twoje miłosierdzie, JHWH, Twoje zbawienie według Twojej wypowiedzi;"
-"Ps119,42": "Wówczas odpowiem słowem temu, który mi urąga, bo ufam Twojemu Słowu."
-"Ps119,43": "I proszę nie odejmuj żadną miarą z moich ust słowa prawdy, bo oczekuję Twoich orzeczeń."
-"Ps119,44": "I chcę nieustannie strzec Twojego Prawa, na wieki i na zawsze."
-"Ps119,45": "I będę chodził drogą przestronną, bo szukam Twoich ustaw."
-"Ps119,46": "Nawet przed królami będę mówił o Twoich świadectwach i nie doznam zawstydzenia."
-"Ps119,47": "Będę się również rozkoszował Twoimi przykazaniami, które umiłowałem."
-"Ps119,48": "I podniosę mą rękę ku Twoim przykazaniom, które miłuję, i będę rozmyślał o Twoich postanowieniach."
-"Ps119,49": "Pamiętaj o słowie wypowiedzianym do Twojego sługi, na które kierujesz moją nadzieję."
-"Ps119,50": "To jest moim pocieszeniem w mojej udręce, bo Twoja wypowiedź mnie ożywia."
-"Ps119,51": "Butni tak bardzo szydzą ze mnie, lecz ja nie odstępuję od Twojego Prawa."
-"Ps119,52": "Przypominam sobie Twoje odwieczne orzeczenia, JHWH, i pragnę pocieszać się nimi."
-"Ps119,53": "Ogarnia mnie gniew z powodu niegodziwych porzucających Twoje Prawo."
-"Ps119,54": "Twoje postanowienia są dla mnie pieśniami w domu mojego zamieszkania."
-"Ps119,55": "W nocy wspominam Twoje imię, JHWH, i strzegę Twojego Prawa."
-"Ps119,56": "To mnie spotkało, bo przestrzegam Twoich ustaw."
-"Ps119,57": "JHWH jest moim działem – obiecałem przestrzegać Twoich słów."
-"Ps119,58": "Całym sercem przebłagiwałem Twoje oblicze, zlituj się nade mną stosownie do Twojej wypowiedzi."
-"Ps119,59": "Rozmyślałem o moich drogach i skierowałem swoje kroki ku Twoim świadectwom."
-"Ps119,60": "Śpieszyłem się i nie zwlekałem, aby strzec Twoich przykazań."
-"Ps119,61": "Powrozy niegodziwych spętały mnie, ale nie zapominam Twojego Prawa."
-"Ps119,62": "Wstaję w środku nocy, aby wysławiać Cię za Twoje sprawiedliwe orzeczenia."
-"Ps119,63": "Jestem przyjacielem wszystkich, którzy boją się Ciebie i strzegą Twoich ustaw."
-"Ps119,64": "JHWH, ziemia jest pełna Twojego miłosierdzia; naucz mnie Twoich postanowień."
-"Ps119,65": "Wyświadczyłeś dobro Twojemu słudze, JHWH, według Twojego Słowa."
-"Ps119,66": "Naucz mnie trafnego osądu i wiedzy, bo uwierzyłem Twoim przykazaniom."
-"Ps119,67": "Zanim doznałem utrapienia, błądziłem; lecz teraz strzegę Twojej wypowiedzi."
-"Ps119,68": "Jesteś dobry i czynisz dobro; naucz mnie Twoich postanowień."
-"Ps119,69": "Butni zmyślili przeciwko mnie kłamstwo, ale ja całym sercem strzegę Twoich ustaw."
-"Ps119,70": "Serce ich tłuszczem otyłe , ale ja rozkoszuję się Twoim Prawem."
-"Ps119,71": "Dobrze to dla mnie, że zostałem upokorzony, abym się nauczył Twoich postanowień."
-"Ps119,72": "Lepsze jest dla mnie Prawo Twoich ust niż tysiące sztuk złota i srebra."
-"Ps119,73": "Twoje ręce mnie uczyniły i trwale ustanowiły; daj mi zrozumienie, abym się nauczył Twoich przykazań;"
-"Ps119,74": "Ci, którzy boją się Ciebie, widząc mnie, będą się radować, że pokładam nadzieję w Twoim Słowie."
-"Ps119,75": "Wiem, JHWH, że Twoje orzeczenia są sprawiedliwe i że ze względu na wierność mnie upokorzyłeś."
-"Ps119,76": "Proszę, niech teraz mnie pocieszy Twoje miłosierdzie według Twojej wypowiedzi dla Twojego sługi."
-"Ps119,77": "Niech zstąpi na mnie Twoje współczucie, abym żył; bo Twoje Prawo jest moją rozkoszą."
-"Ps119,78": "Niech się zawstydzą butni, którzy za pomocą kłamstwa mnie poniżyli, ale ja będę rozmyślać o Twoich ustawach."
-"Ps119,79": "Niech się zwrócą do mnie ci, którzy się boją Ciebie, i ci, którzy poznają Twoje świadectwa."
-"Ps119,80": "Niech moje serce będzie nienaganne w przestrzeganiu Twoich postanowień, po to, abym nie doznał wstydu!"
-"Ps119,81": "Moja dusza osłabła z tęsknoty za Twoim zbawieniem; pokładam nadzieję w Twoim Słowie."
-"Ps119,82": "Moje oczy osłabły z tęsknoty za Twoją wypowiedzią, mówiąc: Kiedy mnie pocieszysz?"
-"Ps119,83": "Chociaż stałem się jak bukłak w dymie, to nie zapomniałem Twoich postanowień."
-"Ps119,84": "Ile dni zostało Twojemu słudze? Kiedy wykonasz orzeczenie na tych, którzy mnie prześladują?"
-"Ps119,85": "Doły wykopali dla mnie butni, którzy nie postępują zgodnie z Twoim Prawem."
-"Ps119,86": "Wszystkie Twoje przykazania są prawdą; za pomocą kłamstwa mnie prześladują; pomóż mi!"
-"Ps119,87": "Omal nie zgładzili mnie na ziemi; ale ja nie porzuciłem Twoich ustaw."
-"Ps119,88": "Według Twojego miłosierdzia ożyw mnie, abym strzegł świadectwa Twoich ust."
-"Ps119,89": "Na wieki, o JHWH, Twoje Słowo jest ustanowione w niebiosach."
-"Ps119,90": "Twoja prawda z pokolenia na pokolenie; ugruntowałeś ziemię i trwa."
-"Ps119,91": "Według Twoich orzeczeń trwa do dziś, bo wszyscy są Twoimi sługami."
-"Ps119,92": "Gdyby Twoje Prawo nie było moją rozkoszą, wtedy zginąłbym w moim utrapieniu."
-"Ps119,93": "Nigdy nie zapomnę Twoich ustaw, bo przez nie mnie ożywiłeś."
-"Ps119,94": "Ja jestem Twój, wybaw mnie, bo szukam Twoich ustaw."
-"Ps119,95": "Wyczekują na mnie niegodziwi, aby mnie zgubić, ale ja starannie rozważam Twoje świadectwa."
-"Ps119,96": "Widziałem koniec wszelkiej doskonałości, ale Twoje przykazanie jest bardzo szerokie."
-"Ps119,97": "O, jak bardzo miłuję Twoje Prawo! Przez cały dzień o nim rozmyślam."
-"Ps119,98": "Twoje przykazanie czyni mnie mądrzejszym od moich wrogów, bo jest ono przy mnie na wieki."
-"Ps119,99": "Stałem się rozumniejszy od wszystkich moich nauczycieli, bo rozmyślam o Twoich świadectwach."
-"Ps119,100": "Jestem roztropniejszy od starszych, bo strzegę Twojej ustawy."
-"Ps119,101": "Powstrzymuję swoje nogi od wszelkiej złej ścieżki, po to bym strzegł Twojego Słowa."
-"Ps119,102": "Nie odstępuję od Twoich orzeczeń, bo Ty mnie uczysz."
-"Ps119,103": "O, jak słodka dla mojego podniebienia jest Twoja wypowiedź! Słodsza niż miód dla moich ust."
-"Ps119,104": "Dzięki Twoim ustawom staję się rozumniejszy; dlatego też nienawidzę wszelkiej ścieżki kłamliwej."
-"Ps119,105": "Twoje Słowo jest lampą dla moich nóg i światłem dla mojej ścieżki."
-"Ps119,106": "Złożyłem przysięgę i wypełnię ją, będę strzegł Twoich sprawiedliwych orzeczeń."
-"Ps119,107": "Jestem tak bardzo udręczony; JHWH, ożyw mnie zgodnie z Twoim Słowem!"
-"Ps119,108": "JHWH, przyjmij proszę dobrowolne ofiary wdzięczności z moich ust i naucz mnie Twoich orzeczeń."
-"Ps119,109": "Moja dusza jest ciągle w mojej dłoni, ale nie zapominam Twojego Prawa."
-"Ps119,110": "Niegodziwi zastawili na mnie sidło, ale ja nie zbaczam od Twoich ustaw."
-"Ps119,111": "Odziedziczyłem Twoje świadectwa na wieki, bo są radością mojego serca."
-"Ps119,112": "Nakłoniłem moje serce, by zawsze wykonywać Twoje postanowienia, aż do końca."
-"Ps119,113": "Nienawidzę chwiejnych, ale miłuję Twoje Prawo."
-"Ps119,114": "Ty jesteś moją ucieczką i tarczą, pokładam nadzieję w Twoim Słowie."
-"Ps119,115": "Niech odstąpią ode mnie czyniący niegodziwość, bym mógł strzec przykazań mojego Boga."
-"Ps119,116": "Wesprzyj mnie zgodnie ze swoją wypowiedzią, abym żył i nie został zawstydzony w mojej nadziei."
-"Ps119,117": "Podtrzymaj mnie, a będę wybawiony i będę zawsze wpatrywał się w Twoje postanowienia."
-"Ps119,118": "Odrzuciłeś wszystkich, którzy odstępują od Twoich postanowień, bo fałsz ich jest zwodniczy."
-"Ps119,119": "To żużel! Skończysz ze wszystkimi niegodziwymi ziemi; dlatego miłuję Twoje świadectwa."
-"Ps119,120": "Moje ciało drży ze strachu przed Tobą i lękam się Twoich orzeczeń."
-"Ps119,121": "Wykonałem Twoje orzeczenie i sprawiedliwość; nie pozostawiaj mnie tym, którzy mnie krzywdzą."
-"Ps119,122": "Poręcz za Twojego sługę dla mojego dobra, aby nie krzywdzili mnie butni."
-"Ps119,123": "Moje oczy słabną, wypatrując Twojego zbawienia i słowa Twojej sprawiedliwości."
-"Ps119,124": "Postąp ze swoim sługą według Twojego miłosierdzia i naucz mnie Twoich postanowień."
-"Ps119,125": "Jestem Twoim sługą, daj mi zrozumienie i poznanie Twoich świadectw."
-"Ps119,126": "Już czas, JHWH, abyś działał, bo naruszono Twoje Prawo."
-"Ps119,127": "Dlatego umiłowałem Twoje przykazania bardziej od złota, bardziej od najczystszego złota."
-"Ps119,128": "Dlatego wszystkie Twoje ustawy, każdą z nich uznaję za słuszną, a nienawidzę wszelkiej ścieżki kłamstwa."
-"Ps119,129": "Twoje świadectwa są przedziwne, dlatego moja dusza ich strzeże."
-"Ps119,130": "Wykład Twoich słów oświeca i daje zrozumienie prostym."
-"Ps119,131": "Otwieram szeroko swoje usta i wzdycham, bo tęsknię za Twoimi przykazaniami."
-"Ps119,132": "Zwróć się ku mnie i bądź łaskawy dla mnie, jak orzekłeś wobec tych, którzy miłują Twoje imię."
-"Ps119,133": "Utwierdź moje kroki w Twojej wypowiedzi, niech nie zapanuje nade mną żadna nieprawość."
-"Ps119,134": "Wyzwól mnie od ucisku człowieka, abym strzegł Twoich ustaw."
-"Ps119,135": "Rozjaśnij swoje oblicze nad Twoim sługą i naucz mnie Twoich postanowień."
-"Ps119,136": "Jak korytami wód płyną łzy z moich oczu, dlatego że nie strzegą Twojego Prawa."
-"Ps119,137": "Sprawiedliwy jesteś, JHWH, i prawe są Twoje orzeczenia."
-"Ps119,138": "Zarządziłeś sprawiedliwość Twoich świadectw i wielką ich wierność."
-"Ps119,139": "Gorliwość wyniszcza mnie, bo moi wrogowie zapominają Twoje słowa."
-"Ps119,140": "Twoja wypowiedź została w pełni wypróbowana, dlatego Twój sługa ją kocha."
-"Ps119,141": "Ja jestem mały i wzgardzony, lecz nie zapominam Twoich ustaw."
-"Ps119,142": "Twoja sprawiedliwość jest sprawiedliwością na wieki, a Twoje Prawo jest prawdą."
-"Ps119,143": "Ucisk i utrapienie znalazły mnie, lecz Twoje przykazania stały się moją rozkoszą."
-"Ps119,144": "Sprawiedliwość Twoich świadectw trwa na wieki; daj mi zrozumienie, a będę żył."
-"Ps119,145": "Wołam z całego serca, wysłuchaj mnie, o JHWH, a będę strzegł Twoich postanowień."
-"Ps119,146": "Wołam do Ciebie, wybaw mnie, a będę strzegł Twoich świadectw."
-"Ps119,147": "Wstaję przed świtem i wołam o pomoc, oczekuję na Twoje Słowa."
-"Ps119,148": "Moje oczy wyprzedzają straże nocne, abym mógł rozmyślać o Twojej wypowiedzi."
-"Ps119,149": "JHWH, usłysz mój głos ze względu na Twoją łaskawość; ożyw mnie zgodnie z Twoim orzeczeniem."
-"Ps119,150": "Zbliżyli się do mnie prześladowcy w złym celu, są daleko od Twojego Prawa."
-"Ps119,151": "Blisko jesteś, JHWH, i wszystkie Twoje przykazania są prawdą."
-"Ps119,152": "Od dawna znam Twoje świadectwa, bo ustanowiłeś je na wieki."
-"Ps119,153": "Popatrz na moje ubóstwo i wyzwól mnie, gdyż nie zapominam Twojego Prawa."
-"Ps119,154": "Broń mojej sprawy i odkup mnie; ożyw mnie zgodnie z Twoją wypowiedzią."
-"Ps119,155": "Zbawienie jest dalekie od niegodziwych, bo nie szukają Twoich postanowień."
-"Ps119,156": "Wielka jest Twoja litość, JHWH; ożyw mnie zgodnie z Twoimi orzeczeniami."
-"Ps119,157": "Liczni są ci, którzy mnie prześladują i moi wrogowie; lecz nie odstępuję od Twoich świadectw."
-"Ps119,158": "Widzę postępujących podstępnie i czuję odrazę do tych, którzy nie strzegą Twoich wypowiedzi."
-"Ps119,159": "Zobacz, że miłuję Twoje ustawy JHWH; ożyw mnie według Twojego miłosierdzia."
-"Ps119,160": "Sedno Twojego Słowa to wierność i na wieki trwa każde orzeczenie Twojej sprawiedliwości."
-"Ps119,161": "Książęta prześladują mnie bez przyczyny; lecz moje serce boi się Twoich słów."
-"Ps119,162": "Raduję się z Twojej wypowiedzi jak ten, który znajduje wielki łup."
-"Ps119,163": "Nienawidzę kłamstwa i brzydzę się nim, ale miłuję Twoje Prawo."
-"Ps119,164": "Wysławiam Cię siedem razy dziennie za Twoje sprawiedliwe orzeczenia."
-"Ps119,165": "Głęboki pokój dla tych, którzy miłują Twoje Prawo, a nie potkną się."
-"Ps119,166": "JHWH, oczekuję na Twoje zbawienie i wypełniam Twoje przykazania."
-"Ps119,167": "Moja dusza strzeże Twoich świadectw, bo bardzo je miłuję."
-"Ps119,168": "Strzegę Twoich ustaw i świadectw, bo wszystkie moje drogi są przed Tobą."
-"Ps119,169": "JHWH, niech dotrze moje wołanie przed Twoje oblicze, daj mi zrozumienie zgodnie z Twoim Słowem."
-"Ps119,170": "Niech dojdzie moja prośba przed Twoje oblicze, ocal mnie zgodnie z Twoją wypowiedzią."
-"Ps119,171": "Niech spłyną moje wargi pieśnią chwały, bo nauczasz mnie Twoich postanowień."
-"Ps119,172": "Niech mój język ogłasza Twoją wypowiedź, bo wszystkie Twoje przykazania są sprawiedliwe."
-"Ps119,173": "Niech Twoja ręka będzie mi pomocą, bo wybrałem Twoje ustawy."
-"Ps119,174": "JHWH, tęsknię do Twojego zbawienia, a Twoje Prawo jest moją rozkoszą."
-"Ps119,175": "Niech moja dusza żyje, aby Ciebie chwalić; niech Twoje nakazy będą dla mnie pomocą."
-"Ps119,176": "Zbłądziłem jak zagubiona owca; odszukaj Twojego sługi, bo nie zapomniałem Twoich przykazań."
+"Ps119,1":
+  text: "Błogosławieni ci, których droga jest nienaganna , którzy chodzą według Prawa JHWH!"
+  tags: []
+"Ps119,2":
+  text: "Błogosławieni ci, którzy strzegą Jego świadectw i szukają Go całym sercem;"
+  tags: []
+"Ps119,3":
+  text: "Którzy także nie czynią nieprawości, ale chodzą Jego drogami."
+  tags: []
+"Ps119,4":
+  text: "Ty nakazałeś, aby pilnie strzec Twoich ustaw."
+  tags: []
+"Ps119,5":
+  text: "Obym trzymał się moich dróg, aby zachowywać Twoje postanowienia!"
+  tags: []
+"Ps119,6":
+  text: "Wtedy nie zawstydzę się, gdy będę zważał na wszystkie Twoje przykazania."
+  tags: []
+"Ps119,7":
+  text: "Pragnę Cię wysławiać w szczerości serca, gdy nauczę się Twoich sprawiedliwych orzeczeń."
+  tags: []
+"Ps119,8":
+  text: "Będę strzegł Twoich postanowień, nigdy mnie nie opuszczaj."
+  tags: []
+"Ps119,9":
+  text: "W jaki sposób młodzieniec oczyści swoją ścieżkę? Gdy przestrzegać będzie Twojego Słowa."
+  tags: []
+"Ps119,10":
+  text: "Szukam Ciebie z całego serca, nie daj mi zboczyć od Twoich przykazań."
+  tags: []
+"Ps119,11":
+  text: "W sercu swoim przechowuję Twoje wypowiedzi, abym nie zgrzeszył przeciwko Tobie."
+  tags: []
+"Ps119,12":
+  text: "Błogosławiony jesteś, JHWH; naucz mnie Twoich postanowień."
+  tags: []
+"Ps119,13":
+  text: "Swoimi wargami opowiadam wszystkie orzeczenia Twoich ust."
+  tags: []
+"Ps119,14":
+  text: "Raduję się na drodze Twoich świadectw jak z całego bogactwa."
+  tags: []
+"Ps119,15":
+  text: "Pragnę rozmyślać o Twoich ustawach i pragnę przyglądać się Twoim ścieżkom."
+  tags: []
+"Ps119,16":
+  text: "Zachwycam się Twoimi zarządzeniami i nie zapominam Twojego Słowa."
+  tags: []
+"Ps119,17":
+  text: "Okaż wspaniałomyślność swojemu słudze, abym żył i zachowywał Twoje Słowo."
+  tags: []
+"Ps119,18":
+  text: "Odsłoń moje oczy, abym mógł zobaczyć cudowność Twojego Prawa."
+  tags: []
+"Ps119,19":
+  text: "Jestem przybyszem na ziemi, nie ukrywaj przede mną Twoich przykazań."
+  tags: []
+"Ps119,20":
+  text: "Moją duszę przez cały czas druzgocze tęsknota za Twoimi orzeczeniami."
+  tags: []
+"Ps119,21":
+  text: "Skarciłeś pysznych, przeklętych, którzy odstępują od Twoich przykazań."
+  tags: []
+"Ps119,22":
+  text: "Zdejmij ze mnie hańbę i pogardę, gdyż zachowuję Twoje świadectwo."
+  tags: []
+"Ps119,23":
+  text: "Nawet książęta zasiadają i zmawiają się przeciwko mnie, lecz Twój sługa rozmyśla o Twoich postanowieniach."
+  tags: []
+"Ps119,24":
+  text: "Również Twoje świadectwa są moją rozkoszą i jako mężowie będący moimi doradcami."
+  tags: []
+"Ps119,25":
+  text: "Moja dusza przylgnęła do prochu, ożyw mnie według Twojego Słowa."
+  tags: []
+"Ps119,26":
+  text: "Opowiedziałem Ci o moich drogach i odpowiedziałeś mi; naucz mnie Twoich postanowień."
+  tags: []
+"Ps119,27":
+  text: "Spraw, bym zrozumiał drogę Twoich ustaw, a będę rozmyślał o Twoich cudownych dziełach."
+  tags: []
+"Ps119,28":
+  text: "Dusza moja rozpływa się we łzach ze smutku, utwierdź mnie według Twojego Słowa."
+  tags: []
+"Ps119,29":
+  text: "Oddal ode mnie drogę kłamstwa, a obdarz mnie łaskawie swoim Prawem."
+  tags: []
+"Ps119,30":
+  text: "Wybrałem drogę prawdy, a Twoje orzeczenia stawiam przed sobą."
+  tags: []
+"Ps119,31":
+  text: "Przylgnąłem do Twoich świadectw; JHWH, nie pozwól mi zaznać wstydu."
+  tags: []
+"Ps119,32":
+  text: "Pobiegnę drogą Twoich przykazań, ponieważ rozszerzasz moje serce."
+  tags: []
+"Ps119,33":
+  text: "Naucz mnie, JHWH, drogi Twoich postanowień, a będę jej strzegł aż do końca."
+  tags: []
+"Ps119,34":
+  text: "Daj mi zrozumienie, bym strzegł Twojego Prawa; abym go przestrzegał całym sercem."
+  tags: []
+"Ps119,35":
+  text: "Spraw, bym chodził ścieżką Twoich przykazań, gdyż w niej mam upodobanie."
+  tags: []
+"Ps119,36":
+  text: "Nagnij moje serce do Twoich świadectw, a nie do zysków."
+  tags: []
+"Ps119,37":
+  text: "Odwróć moje oczy, aby nie patrzyły na marność, ożyw mnie na Twojej drodze."
+  tags: []
+"Ps119,38":
+  text: "Utwierdź swoją wypowiedź względem Twojego sługi, który się oddał Twojej bojaźni."
+  tags: []
+"Ps119,39":
+  text: "Oddal ode mnie mą hańbę, której się boję, bo Twoje orzeczenia są dobre."
+  tags: []
+"Ps119,40":
+  text: "Oto tęsknię do Twoich ustaw; ożyw mnie w swojej sprawiedliwości."
+  tags: []
+"Ps119,41":
+  text: "I niech zstąpi na mnie Twoje miłosierdzie, JHWH, Twoje zbawienie według Twojej wypowiedzi;"
+  tags: []
+"Ps119,42":
+  text: "Wówczas odpowiem słowem temu, który mi urąga, bo ufam Twojemu Słowu."
+  tags: []
+"Ps119,43":
+  text: "I proszę nie odejmuj żadną miarą z moich ust słowa prawdy, bo oczekuję Twoich orzeczeń."
+  tags: []
+"Ps119,44":
+  text: "I chcę nieustannie strzec Twojego Prawa, na wieki i na zawsze."
+  tags: []
+"Ps119,45":
+  text: "I będę chodził drogą przestronną, bo szukam Twoich ustaw."
+  tags: []
+"Ps119,46":
+  text: "Nawet przed królami będę mówił o Twoich świadectwach i nie doznam zawstydzenia."
+  tags: []
+"Ps119,47":
+  text: "Będę się również rozkoszował Twoimi przykazaniami, które umiłowałem."
+  tags: []
+"Ps119,48":
+  text: "I podniosę mą rękę ku Twoim przykazaniom, które miłuję, i będę rozmyślał o Twoich postanowieniach."
+  tags: []
+"Ps119,49":
+  text: "Pamiętaj o słowie wypowiedzianym do Twojego sługi, na które kierujesz moją nadzieję."
+  tags: []
+"Ps119,50":
+  text: "To jest moim pocieszeniem w mojej udręce, bo Twoja wypowiedź mnie ożywia."
+  tags: []
+"Ps119,51":
+  text: "Butni tak bardzo szydzą ze mnie, lecz ja nie odstępuję od Twojego Prawa."
+  tags: []
+"Ps119,52":
+  text: "Przypominam sobie Twoje odwieczne orzeczenia, JHWH, i pragnę pocieszać się nimi."
+  tags: []
+"Ps119,53":
+  text: "Ogarnia mnie gniew z powodu niegodziwych porzucających Twoje Prawo."
+  tags: []
+"Ps119,54":
+  text: "Twoje postanowienia są dla mnie pieśniami w domu mojego zamieszkania."
+  tags: []
+"Ps119,55":
+  text: "W nocy wspominam Twoje imię, JHWH, i strzegę Twojego Prawa."
+  tags: []
+"Ps119,56":
+  text: "To mnie spotkało, bo przestrzegam Twoich ustaw."
+  tags: []
+"Ps119,57":
+  text: "JHWH jest moim działem – obiecałem przestrzegać Twoich słów."
+  tags: []
+"Ps119,58":
+  text: "Całym sercem przebłagiwałem Twoje oblicze, zlituj się nade mną stosownie do Twojej wypowiedzi."
+  tags: []
+"Ps119,59":
+  text: "Rozmyślałem o moich drogach i skierowałem swoje kroki ku Twoim świadectwom."
+  tags: []
+"Ps119,60":
+  text: "Śpieszyłem się i nie zwlekałem, aby strzec Twoich przykazań."
+  tags: []
+"Ps119,61":
+  text: "Powrozy niegodziwych spętały mnie, ale nie zapominam Twojego Prawa."
+  tags: []
+"Ps119,62":
+  text: "Wstaję w środku nocy, aby wysławiać Cię za Twoje sprawiedliwe orzeczenia."
+  tags: []
+"Ps119,63":
+  text: "Jestem przyjacielem wszystkich, którzy boją się Ciebie i strzegą Twoich ustaw."
+  tags: []
+"Ps119,64":
+  text: "JHWH, ziemia jest pełna Twojego miłosierdzia; naucz mnie Twoich postanowień."
+  tags: []
+"Ps119,65":
+  text: "Wyświadczyłeś dobro Twojemu słudze, JHWH, według Twojego Słowa."
+  tags: []
+"Ps119,66":
+  text: "Naucz mnie trafnego osądu i wiedzy, bo uwierzyłem Twoim przykazaniom."
+  tags: []
+"Ps119,67":
+  text: "Zanim doznałem utrapienia, błądziłem; lecz teraz strzegę Twojej wypowiedzi."
+  tags: []
+"Ps119,68":
+  text: "Jesteś dobry i czynisz dobro; naucz mnie Twoich postanowień."
+  tags: []
+"Ps119,69":
+  text: "Butni zmyślili przeciwko mnie kłamstwo, ale ja całym sercem strzegę Twoich ustaw."
+  tags: []
+"Ps119,70":
+  text: "Serce ich tłuszczem otyłe , ale ja rozkoszuję się Twoim Prawem."
+  tags: []
+"Ps119,71":
+  text: "Dobrze to dla mnie, że zostałem upokorzony, abym się nauczył Twoich postanowień."
+  tags: []
+"Ps119,72":
+  text: "Lepsze jest dla mnie Prawo Twoich ust niż tysiące sztuk złota i srebra."
+  tags: []
+"Ps119,73":
+  text: "Twoje ręce mnie uczyniły i trwale ustanowiły; daj mi zrozumienie, abym się nauczył Twoich przykazań;"
+  tags: []
+"Ps119,74":
+  text: "Ci, którzy boją się Ciebie, widząc mnie, będą się radować, że pokładam nadzieję w Twoim Słowie."
+  tags: []
+"Ps119,75":
+  text: "Wiem, JHWH, że Twoje orzeczenia są sprawiedliwe i że ze względu na wierność mnie upokorzyłeś."
+  tags: []
+"Ps119,76":
+  text: "Proszę, niech teraz mnie pocieszy Twoje miłosierdzie według Twojej wypowiedzi dla Twojego sługi."
+  tags: []
+"Ps119,77":
+  text: "Niech zstąpi na mnie Twoje współczucie, abym żył; bo Twoje Prawo jest moją rozkoszą."
+  tags: []
+"Ps119,78":
+  text: "Niech się zawstydzą butni, którzy za pomocą kłamstwa mnie poniżyli, ale ja będę rozmyślać o Twoich ustawach."
+  tags: []
+"Ps119,79":
+  text: "Niech się zwrócą do mnie ci, którzy się boją Ciebie, i ci, którzy poznają Twoje świadectwa."
+  tags: []
+"Ps119,80":
+  text: "Niech moje serce będzie nienaganne w przestrzeganiu Twoich postanowień, po to, abym nie doznał wstydu!"
+  tags: []
+"Ps119,81":
+  text: "Moja dusza osłabła z tęsknoty za Twoim zbawieniem; pokładam nadzieję w Twoim Słowie."
+  tags: []
+"Ps119,82":
+  text: "Moje oczy osłabły z tęsknoty za Twoją wypowiedzią, mówiąc: Kiedy mnie pocieszysz?"
+  tags: []
+"Ps119,83":
+  text: "Chociaż stałem się jak bukłak w dymie, to nie zapomniałem Twoich postanowień."
+  tags: []
+"Ps119,84":
+  text: "Ile dni zostało Twojemu słudze? Kiedy wykonasz orzeczenie na tych, którzy mnie prześladują?"
+  tags: []
+"Ps119,85":
+  text: "Doły wykopali dla mnie butni, którzy nie postępują zgodnie z Twoim Prawem."
+  tags: []
+"Ps119,86":
+  text: "Wszystkie Twoje przykazania są prawdą; za pomocą kłamstwa mnie prześladują; pomóż mi!"
+  tags: []
+"Ps119,87":
+  text: "Omal nie zgładzili mnie na ziemi; ale ja nie porzuciłem Twoich ustaw."
+  tags: []
+"Ps119,88":
+  text: "Według Twojego miłosierdzia ożyw mnie, abym strzegł świadectwa Twoich ust."
+  tags: []
+"Ps119,89":
+  text: "Na wieki, o JHWH, Twoje Słowo jest ustanowione w niebiosach."
+  tags: []
+"Ps119,90":
+  text: "Twoja prawda z pokolenia na pokolenie; ugruntowałeś ziemię i trwa."
+  tags: []
+"Ps119,91":
+  text: "Według Twoich orzeczeń trwa do dziś, bo wszyscy są Twoimi sługami."
+  tags: []
+"Ps119,92":
+  text: "Gdyby Twoje Prawo nie było moją rozkoszą, wtedy zginąłbym w moim utrapieniu."
+  tags: []
+"Ps119,93":
+  text: "Nigdy nie zapomnę Twoich ustaw, bo przez nie mnie ożywiłeś."
+  tags: []
+"Ps119,94":
+  text: "Ja jestem Twój, wybaw mnie, bo szukam Twoich ustaw."
+  tags: []
+"Ps119,95":
+  text: "Wyczekują na mnie niegodziwi, aby mnie zgubić, ale ja starannie rozważam Twoje świadectwa."
+  tags: []
+"Ps119,96":
+  text: "Widziałem koniec wszelkiej doskonałości, ale Twoje przykazanie jest bardzo szerokie."
+  tags: []
+"Ps119,97":
+  text: "O, jak bardzo miłuję Twoje Prawo! Przez cały dzień o nim rozmyślam."
+  tags: []
+"Ps119,98":
+  text: "Twoje przykazanie czyni mnie mądrzejszym od moich wrogów, bo jest ono przy mnie na wieki."
+  tags: []
+"Ps119,99":
+  text: "Stałem się rozumniejszy od wszystkich moich nauczycieli, bo rozmyślam o Twoich świadectwach."
+  tags: []
+"Ps119,100":
+  text: "Jestem roztropniejszy od starszych, bo strzegę Twojej ustawy."
+  tags: []
+"Ps119,101":
+  text: "Powstrzymuję swoje nogi od wszelkiej złej ścieżki, po to bym strzegł Twojego Słowa."
+  tags: []
+"Ps119,102":
+  text: "Nie odstępuję od Twoich orzeczeń, bo Ty mnie uczysz."
+  tags: []
+"Ps119,103":
+  text: "O, jak słodka dla mojego podniebienia jest Twoja wypowiedź! Słodsza niż miód dla moich ust."
+  tags: []
+"Ps119,104":
+  text: "Dzięki Twoim ustawom staję się rozumniejszy; dlatego też nienawidzę wszelkiej ścieżki kłamliwej."
+  tags: []
+"Ps119,105":
+  text: "Twoje Słowo jest lampą dla moich nóg i światłem dla mojej ścieżki."
+  tags: []
+"Ps119,106":
+  text: "Złożyłem przysięgę i wypełnię ją, będę strzegł Twoich sprawiedliwych orzeczeń."
+  tags: []
+"Ps119,107":
+  text: "Jestem tak bardzo udręczony; JHWH, ożyw mnie zgodnie z Twoim Słowem!"
+  tags: []
+"Ps119,108":
+  text: "JHWH, przyjmij proszę dobrowolne ofiary wdzięczności z moich ust i naucz mnie Twoich orzeczeń."
+  tags: []
+"Ps119,109":
+  text: "Moja dusza jest ciągle w mojej dłoni, ale nie zapominam Twojego Prawa."
+  tags: []
+"Ps119,110":
+  text: "Niegodziwi zastawili na mnie sidło, ale ja nie zbaczam od Twoich ustaw."
+  tags: []
+"Ps119,111":
+  text: "Odziedziczyłem Twoje świadectwa na wieki, bo są radością mojego serca."
+  tags: []
+"Ps119,112":
+  text: "Nakłoniłem moje serce, by zawsze wykonywać Twoje postanowienia, aż do końca."
+  tags: []
+"Ps119,113":
+  text: "Nienawidzę chwiejnych, ale miłuję Twoje Prawo."
+  tags: []
+"Ps119,114":
+  text: "Ty jesteś moją ucieczką i tarczą, pokładam nadzieję w Twoim Słowie."
+  tags: []
+"Ps119,115":
+  text: "Niech odstąpią ode mnie czyniący niegodziwość, bym mógł strzec przykazań mojego Boga."
+  tags: []
+"Ps119,116":
+  text: "Wesprzyj mnie zgodnie ze swoją wypowiedzią, abym żył i nie został zawstydzony w mojej nadziei."
+  tags: []
+"Ps119,117":
+  text: "Podtrzymaj mnie, a będę wybawiony i będę zawsze wpatrywał się w Twoje postanowienia."
+  tags: []
+"Ps119,118":
+  text: "Odrzuciłeś wszystkich, którzy odstępują od Twoich postanowień, bo fałsz ich jest zwodniczy."
+  tags: []
+"Ps119,119":
+  text: "To żużel! Skończysz ze wszystkimi niegodziwymi ziemi; dlatego miłuję Twoje świadectwa."
+  tags: []
+"Ps119,120":
+  text: "Moje ciało drży ze strachu przed Tobą i lękam się Twoich orzeczeń."
+  tags: []
+"Ps119,121":
+  text: "Wykonałem Twoje orzeczenie i sprawiedliwość; nie pozostawiaj mnie tym, którzy mnie krzywdzą."
+  tags: []
+"Ps119,122":
+  text: "Poręcz za Twojego sługę dla mojego dobra, aby nie krzywdzili mnie butni."
+  tags: []
+"Ps119,123":
+  text: "Moje oczy słabną, wypatrując Twojego zbawienia i słowa Twojej sprawiedliwości."
+  tags: []
+"Ps119,124":
+  text: "Postąp ze swoim sługą według Twojego miłosierdzia i naucz mnie Twoich postanowień."
+  tags: []
+"Ps119,125":
+  text: "Jestem Twoim sługą, daj mi zrozumienie i poznanie Twoich świadectw."
+  tags: []
+"Ps119,126":
+  text: "Już czas, JHWH, abyś działał, bo naruszono Twoje Prawo."
+  tags: []
+"Ps119,127":
+  text: "Dlatego umiłowałem Twoje przykazania bardziej od złota, bardziej od najczystszego złota."
+  tags: []
+"Ps119,128":
+  text: "Dlatego wszystkie Twoje ustawy, każdą z nich uznaję za słuszną, a nienawidzę wszelkiej ścieżki kłamstwa."
+  tags: []
+"Ps119,129":
+  text: "Twoje świadectwa są przedziwne, dlatego moja dusza ich strzeże."
+  tags: []
+"Ps119,130":
+  text: "Wykład Twoich słów oświeca i daje zrozumienie prostym."
+  tags: []
+"Ps119,131":
+  text: "Otwieram szeroko swoje usta i wzdycham, bo tęsknię za Twoimi przykazaniami."
+  tags: []
+"Ps119,132":
+  text: "Zwróć się ku mnie i bądź łaskawy dla mnie, jak orzekłeś wobec tych, którzy miłują Twoje imię."
+  tags: []
+"Ps119,133":
+  text: "Utwierdź moje kroki w Twojej wypowiedzi, niech nie zapanuje nade mną żadna nieprawość."
+  tags: []
+"Ps119,134":
+  text: "Wyzwól mnie od ucisku człowieka, abym strzegł Twoich ustaw."
+  tags: []
+"Ps119,135":
+  text: "Rozjaśnij swoje oblicze nad Twoim sługą i naucz mnie Twoich postanowień."
+  tags: []
+"Ps119,136":
+  text: "Jak korytami wód płyną łzy z moich oczu, dlatego że nie strzegą Twojego Prawa."
+  tags: []
+"Ps119,137":
+  text: "Sprawiedliwy jesteś, JHWH, i prawe są Twoje orzeczenia."
+  tags: []
+"Ps119,138":
+  text: "Zarządziłeś sprawiedliwość Twoich świadectw i wielką ich wierność."
+  tags: []
+"Ps119,139":
+  text: "Gorliwość wyniszcza mnie, bo moi wrogowie zapominają Twoje słowa."
+  tags: []
+"Ps119,140":
+  text: "Twoja wypowiedź została w pełni wypróbowana, dlatego Twój sługa ją kocha."
+  tags: []
+"Ps119,141":
+  text: "Ja jestem mały i wzgardzony, lecz nie zapominam Twoich ustaw."
+  tags: []
+"Ps119,142":
+  text: "Twoja sprawiedliwość jest sprawiedliwością na wieki, a Twoje Prawo jest prawdą."
+  tags: []
+"Ps119,143":
+  text: "Ucisk i utrapienie znalazły mnie, lecz Twoje przykazania stały się moją rozkoszą."
+  tags: []
+"Ps119,144":
+  text: "Sprawiedliwość Twoich świadectw trwa na wieki; daj mi zrozumienie, a będę żył."
+  tags: []
+"Ps119,145":
+  text: "Wołam z całego serca, wysłuchaj mnie, o JHWH, a będę strzegł Twoich postanowień."
+  tags: []
+"Ps119,146":
+  text: "Wołam do Ciebie, wybaw mnie, a będę strzegł Twoich świadectw."
+  tags: []
+"Ps119,147":
+  text: "Wstaję przed świtem i wołam o pomoc, oczekuję na Twoje Słowa."
+  tags: []
+"Ps119,148":
+  text: "Moje oczy wyprzedzają straże nocne, abym mógł rozmyślać o Twojej wypowiedzi."
+  tags: []
+"Ps119,149":
+  text: "JHWH, usłysz mój głos ze względu na Twoją łaskawość; ożyw mnie zgodnie z Twoim orzeczeniem."
+  tags: []
+"Ps119,150":
+  text: "Zbliżyli się do mnie prześladowcy w złym celu, są daleko od Twojego Prawa."
+  tags: []
+"Ps119,151":
+  text: "Blisko jesteś, JHWH, i wszystkie Twoje przykazania są prawdą."
+  tags: []
+"Ps119,152":
+  text: "Od dawna znam Twoje świadectwa, bo ustanowiłeś je na wieki."
+  tags: []
+"Ps119,153":
+  text: "Popatrz na moje ubóstwo i wyzwól mnie, gdyż nie zapominam Twojego Prawa."
+  tags: []
+"Ps119,154":
+  text: "Broń mojej sprawy i odkup mnie; ożyw mnie zgodnie z Twoją wypowiedzią."
+  tags: []
+"Ps119,155":
+  text: "Zbawienie jest dalekie od niegodziwych, bo nie szukają Twoich postanowień."
+  tags: []
+"Ps119,156":
+  text: "Wielka jest Twoja litość, JHWH; ożyw mnie zgodnie z Twoimi orzeczeniami."
+  tags: []
+"Ps119,157":
+  text: "Liczni są ci, którzy mnie prześladują i moi wrogowie; lecz nie odstępuję od Twoich świadectw."
+  tags: []
+"Ps119,158":
+  text: "Widzę postępujących podstępnie i czuję odrazę do tych, którzy nie strzegą Twoich wypowiedzi."
+  tags: []
+"Ps119,159":
+  text: "Zobacz, że miłuję Twoje ustawy JHWH; ożyw mnie według Twojego miłosierdzia."
+  tags: []
+"Ps119,160":
+  text: "Sedno Twojego Słowa to wierność i na wieki trwa każde orzeczenie Twojej sprawiedliwości."
+  tags: []
+"Ps119,161":
+  text: "Książęta prześladują mnie bez przyczyny; lecz moje serce boi się Twoich słów."
+  tags: []
+"Ps119,162":
+  text: "Raduję się z Twojej wypowiedzi jak ten, który znajduje wielki łup."
+  tags: []
+"Ps119,163":
+  text: "Nienawidzę kłamstwa i brzydzę się nim, ale miłuję Twoje Prawo."
+  tags: []
+"Ps119,164":
+  text: "Wysławiam Cię siedem razy dziennie za Twoje sprawiedliwe orzeczenia."
+  tags: []
+"Ps119,165":
+  text: "Głęboki pokój dla tych, którzy miłują Twoje Prawo, a nie potkną się."
+  tags: []
+"Ps119,166":
+  text: "JHWH, oczekuję na Twoje zbawienie i wypełniam Twoje przykazania."
+  tags: []
+"Ps119,167":
+  text: "Moja dusza strzeże Twoich świadectw, bo bardzo je miłuję."
+  tags: []
+"Ps119,168":
+  text: "Strzegę Twoich ustaw i świadectw, bo wszystkie moje drogi są przed Tobą."
+  tags: []
+"Ps119,169":
+  text: "JHWH, niech dotrze moje wołanie przed Twoje oblicze, daj mi zrozumienie zgodnie z Twoim Słowem."
+  tags: []
+"Ps119,170":
+  text: "Niech dojdzie moja prośba przed Twoje oblicze, ocal mnie zgodnie z Twoją wypowiedzią."
+  tags: []
+"Ps119,171":
+  text: "Niech spłyną moje wargi pieśnią chwały, bo nauczasz mnie Twoich postanowień."
+  tags: []
+"Ps119,172":
+  text: "Niech mój język ogłasza Twoją wypowiedź, bo wszystkie Twoje przykazania są sprawiedliwe."
+  tags: []
+"Ps119,173":
+  text: "Niech Twoja ręka będzie mi pomocą, bo wybrałem Twoje ustawy."
+  tags: []
+"Ps119,174":
+  text: "JHWH, tęsknię do Twojego zbawienia, a Twoje Prawo jest moją rozkoszą."
+  tags: []
+"Ps119,175":
+  text: "Niech moja dusza żyje, aby Ciebie chwalić; niech Twoje nakazy będą dla mnie pomocą."
+  tags: []
+"Ps119,176":
+  text: "Zbłądziłem jak zagubiona owca; odszukaj Twojego sługi, bo nie zapomniałem Twoich przykazań."
+  tags: []

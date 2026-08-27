@@ -1,33 +1,99 @@
-"Prz16,1": "Do człowieka należą plany serca, ale odpowiedź języka jest od JHWH."
-"Prz16,2": "Wszystkie drogi człowieka wydają się czyste w jego oczach, ale JHWH ocenia duchy."
-"Prz16,3": "Powierz JHWH swoje dzieła, a twoje zamysły zostaną utwierdzone."
-"Prz16,4": "JHWH uczynił wszystko dla swojego celu, nawet niegodziwego na dzień zły."
-"Prz16,5": "Każde wyniosłe serce budzi odrazę w JHWH; ręka za rękę – nie zostanie uniewinniony."
-"Prz16,6": "W miłosierdziu i prawdzie przebłaganie za nieprawość, a w bojaźni JHWH oddzielenie od zła."
-"Prz16,7": "Gdy drogi człowieka podobają się JHWH, to godzi On z nim nawet jego nieprzyjaciół."
-"Prz16,8": "Lepiej mieć mało w sprawiedliwości niż wiele dochodów bezprawnych."
-"Prz16,9": "Serce człowieka obmyśla swoją drogę, ale JHWH kieruje jego krokami."
-"Prz16,10": "Wyrok Boży jest na wargach króla; jego usta nie są wiarołomne w sądzie."
-"Prz16,11": "Sprawiedliwa waga i szale należą do JHWH i wszystkie ciężarki w trzosie są Jego dziełem."
-"Prz16,12": "Niegodziwe postępowanie budzi odrazę w królach, bo tron zostanie utwierdzony sprawiedliwością."
-"Prz16,13": "Wargi sprawiedliwe są rozkoszą królów, każdy z nich kocha tego, kto mówi to, co słuszne."
-"Prz16,14": "Gniew króla jest posłańcem śmierci, ale mądry człowiek uśmierzy go."
-"Prz16,15": "W jasności twarzy króla jest życie, a jego przychylność jest jak obłok z późnym deszczem."
-"Prz16,16": "O wiele lepiej jest nabyć mądrość niż złoto; a nabyć rozum lepiej niż srebro."
-"Prz16,17": "Ubity trakt to odstępowanie od zła prawych; kto chroni swoją drogę, strzeże swojej duszy."
-"Prz16,18": "Pycha kroczy przed ruiną, a wyniosły duch przed upadkiem."
-"Prz16,19": "Lepiej być uniżonego ducha z pokornymi, niż dzielić łup z pysznymi."
-"Prz16,20": "Kto zważa na Słowo, znajduje dobro, a kto pokłada ufność w JHWH jest szczęśliwy."
-"Prz16,21": "Tego, kto ma mądre serce, nazywają rozumnym, a słodycz warg pomnaża zrozumienie."
-"Prz16,22": "Rozsądek jest zdrojem życia dla jego posiadaczy, a karą dla głupich jest głupota."
-"Prz16,23": "Serce mądrego udziela jego ustom rozwagi i pomnaża jego wargom zrozumienie."
-"Prz16,24": "Miłe słowa są jak plaster miodu, słodyczą dla duszy i lekarstwem dla kości."
-"Prz16,25": "Bywa jakaś droga, która człowiekowi wydaje się słuszna, lecz na końcu jest drogą wiodącą do śmierci."
-"Prz16,26": "Pragnienie robotnika pracuje dla niego, bo usta zgłodniałe przymuszają go."
-"Prz16,27": "Człowiek nikczemny wygrzebuje zło, a to, co na jego wargach – jakby ogień płonący."
-"Prz16,28": "Człowiek przewrotny roznieca spory, a oszczerca rozdziela przyjaciół."
-"Prz16,29": "Człowiek gwałtowny zwodzi swojego bliźniego i sprowadza go na niedobrą drogę."
-"Prz16,30": "Kto zamyka swoje oczy, by myśleć przewrotnie, kto zaciska swoje wargi już popełnia zło."
-"Prz16,31": "Siwizna jest koroną chwały, zostanie ona znaleziona na drodze sprawiedliwości."
-"Prz16,32": "Lepszy jest nieskory do gniewu niż mocarz, a kto panuje nad swoim duchem, znaczy więcej niż zdobywca miasta."
-"Prz16,33": "Los wrzuca się w zanadrze, lecz każde jego rozstrzygnięcie zależy od JHWH."
+"Prz16,1":
+  text: "Do człowieka należą plany serca, ale odpowiedź języka jest od JHWH."
+  tags: []
+"Prz16,2":
+  text: "Wszystkie drogi człowieka wydają się czyste w jego oczach, ale JHWH ocenia duchy."
+  tags: []
+"Prz16,3":
+  text: "Powierz JHWH swoje dzieła, a twoje zamysły zostaną utwierdzone."
+  tags: []
+"Prz16,4":
+  text: "JHWH uczynił wszystko dla swojego celu, nawet niegodziwego na dzień zły."
+  tags: []
+"Prz16,5":
+  text: "Każde wyniosłe serce budzi odrazę w JHWH; ręka za rękę – nie zostanie uniewinniony."
+  tags: []
+"Prz16,6":
+  text: "W miłosierdziu i prawdzie przebłaganie za nieprawość, a w bojaźni JHWH oddzielenie od zła."
+  tags: []
+"Prz16,7":
+  text: "Gdy drogi człowieka podobają się JHWH, to godzi On z nim nawet jego nieprzyjaciół."
+  tags: []
+"Prz16,8":
+  text: "Lepiej mieć mało w sprawiedliwości niż wiele dochodów bezprawnych."
+  tags: []
+"Prz16,9":
+  text: "Serce człowieka obmyśla swoją drogę, ale JHWH kieruje jego krokami."
+  tags: []
+"Prz16,10":
+  text: "Wyrok Boży jest na wargach króla; jego usta nie są wiarołomne w sądzie."
+  tags: []
+"Prz16,11":
+  text: "Sprawiedliwa waga i szale należą do JHWH i wszystkie ciężarki w trzosie są Jego dziełem."
+  tags: []
+"Prz16,12":
+  text: "Niegodziwe postępowanie budzi odrazę w królach, bo tron zostanie utwierdzony sprawiedliwością."
+  tags: []
+"Prz16,13":
+  text: "Wargi sprawiedliwe są rozkoszą królów, każdy z nich kocha tego, kto mówi to, co słuszne."
+  tags: []
+"Prz16,14":
+  text: "Gniew króla jest posłańcem śmierci, ale mądry człowiek uśmierzy go."
+  tags: []
+"Prz16,15":
+  text: "W jasności twarzy króla jest życie, a jego przychylność jest jak obłok z późnym deszczem."
+  tags: []
+"Prz16,16":
+  text: "O wiele lepiej jest nabyć mądrość niż złoto; a nabyć rozum lepiej niż srebro."
+  tags: []
+"Prz16,17":
+  text: "Ubity trakt to odstępowanie od zła prawych; kto chroni swoją drogę, strzeże swojej duszy."
+  tags: []
+"Prz16,18":
+  text: "Pycha kroczy przed ruiną, a wyniosły duch przed upadkiem."
+  tags: []
+"Prz16,19":
+  text: "Lepiej być uniżonego ducha z pokornymi, niż dzielić łup z pysznymi."
+  tags: []
+"Prz16,20":
+  text: "Kto zważa na Słowo, znajduje dobro, a kto pokłada ufność w JHWH jest szczęśliwy."
+  tags: []
+"Prz16,21":
+  text: "Tego, kto ma mądre serce, nazywają rozumnym, a słodycz warg pomnaża zrozumienie."
+  tags: []
+"Prz16,22":
+  text: "Rozsądek jest zdrojem życia dla jego posiadaczy, a karą dla głupich jest głupota."
+  tags: []
+"Prz16,23":
+  text: "Serce mądrego udziela jego ustom rozwagi i pomnaża jego wargom zrozumienie."
+  tags: []
+"Prz16,24":
+  text: "Miłe słowa są jak plaster miodu, słodyczą dla duszy i lekarstwem dla kości."
+  tags: []
+"Prz16,25":
+  text: "Bywa jakaś droga, która człowiekowi wydaje się słuszna, lecz na końcu jest drogą wiodącą do śmierci."
+  tags: []
+"Prz16,26":
+  text: "Pragnienie robotnika pracuje dla niego, bo usta zgłodniałe przymuszają go."
+  tags: []
+"Prz16,27":
+  text: "Człowiek nikczemny wygrzebuje zło, a to, co na jego wargach – jakby ogień płonący."
+  tags: []
+"Prz16,28":
+  text: "Człowiek przewrotny roznieca spory, a oszczerca rozdziela przyjaciół."
+  tags: []
+"Prz16,29":
+  text: "Człowiek gwałtowny zwodzi swojego bliźniego i sprowadza go na niedobrą drogę."
+  tags: []
+"Prz16,30":
+  text: "Kto zamyka swoje oczy, by myśleć przewrotnie, kto zaciska swoje wargi już popełnia zło."
+  tags: []
+"Prz16,31":
+  text: "Siwizna jest koroną chwały, zostanie ona znaleziona na drodze sprawiedliwości."
+  tags: []
+"Prz16,32":
+  text: "Lepszy jest nieskory do gniewu niż mocarz, a kto panuje nad swoim duchem, znaczy więcej niż zdobywca miasta."
+  tags: []
+"Prz16,33":
+  text: "Los wrzuca się w zanadrze, lecz każde jego rozstrzygnięcie zależy od JHWH."
+  tags: []

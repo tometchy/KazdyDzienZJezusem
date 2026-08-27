@@ -1,18 +1,54 @@
-"Kaz1,1": "Słowa Kaznodziei, syna Dawida, króla w Jerozolimie."
-"Kaz1,2": "Marność nad marnościami – mówi Kaznodzieja – marność nad marnościami. Wszystko to marność."
-"Kaz1,3": "Jaki pożytek ma człowiek w całym swoim mozole, którym trudzi się pod słońcem?"
-"Kaz1,4": "Pokolenie odchodzi, pokolenie przychodzi, lecz ziemia trwa na wieki."
-"Kaz1,5": "I słońce wschodzi i słońce zachodzi, i pragnie przyjść na swoje miejsce, a tam ono ponownie wschodzi."
-"Kaz1,6": "Wiatr wieje na południe i krąży na północ; wiatr krąży, krąży i wieje ze wszystkich stron, i zawraca."
-"Kaz1,7": "Wszystkie rzeki płyną ku morzu, a morze się nie przepełnia; do miejsca, z którego rzeki płyną, tam one zawracają, by ponownie płynąć."
-"Kaz1,8": "Wszystkie słowa wyczerpują, a człowiek nie jest zdolny wszystkiego wypowiedzieć. Oko nie nasyci się patrzeniem ani ucho nie napełni się słuchaniem."
-"Kaz1,9": "Cokolwiek było, to będzie; i cokolwiek się wykonało, to się wykona. I nie ma nic nowego pod słońcem."
-"Kaz1,10": "Czy jest sprawa, o której można by powiedzieć: Spójrz, to coś nowego? To już było w dawnych czasach, które były przed nami."
-"Kaz1,11": "Nie ma pamięci o tych, którzy byli wcześniej; a także o tych, którzy będą później, oni też nie pozostaną w pamięci u tych, którzy następni nastaną."
-"Kaz1,12": "Ja, Kaznodzieja, byłem królem nad Izraelem w Jerozolimie;"
-"Kaz1,13": "I postanowiłem w swoim sercu, aby szukać i zbadać w mądrości wszystko, co się dzieje pod niebem. To nieszczęsne zadanie Bóg dał synom ludzkim, aby się nim trudzić."
-"Kaz1,14": "Widziałem wszystkie dzieła, które zostały uczynione pod słońcem – a oto wszystko jest marnością i utrapieniem ducha."
-"Kaz1,15": "Tego, co krzywe, nie można wyprostować, a tego, czego brak, nie można policzyć."
-"Kaz1,16": "I ja powiedziałem w swoim sercu, mówiąc: Oto ja powiększałem i dodawałem więcej mądrości nad wszystkich, którzy byli przede mną w Jerozolimie. I moje serce doświadczyło wielkiej mądrości i wiedzy."
-"Kaz1,17": "I postanowiłem w swoim sercu, aby poznać mądrość i poznać szaleństwo i głupotę. I poznałem, że to także jest utrapieniem ducha."
-"Kaz1,18": "Bo gdzie obfitość mądrości, tam jest wiele smutku. A kto pomnaża poznanie, pomnaża i cierpienie."
+"Kaz1,1":
+  text: "Słowa Kaznodziei, syna Dawida, króla w Jerozolimie."
+  tags: []
+"Kaz1,2":
+  text: "Marność nad marnościami – mówi Kaznodzieja – marność nad marnościami. Wszystko to marność."
+  tags: []
+"Kaz1,3":
+  text: "Jaki pożytek ma człowiek w całym swoim mozole, którym trudzi się pod słońcem?"
+  tags: []
+"Kaz1,4":
+  text: "Pokolenie odchodzi, pokolenie przychodzi, lecz ziemia trwa na wieki."
+  tags: []
+"Kaz1,5":
+  text: "I słońce wschodzi i słońce zachodzi, i pragnie przyjść na swoje miejsce, a tam ono ponownie wschodzi."
+  tags: []
+"Kaz1,6":
+  text: "Wiatr wieje na południe i krąży na północ; wiatr krąży, krąży i wieje ze wszystkich stron, i zawraca."
+  tags: []
+"Kaz1,7":
+  text: "Wszystkie rzeki płyną ku morzu, a morze się nie przepełnia; do miejsca, z którego rzeki płyną, tam one zawracają, by ponownie płynąć."
+  tags: []
+"Kaz1,8":
+  text: "Wszystkie słowa wyczerpują, a człowiek nie jest zdolny wszystkiego wypowiedzieć. Oko nie nasyci się patrzeniem ani ucho nie napełni się słuchaniem."
+  tags: []
+"Kaz1,9":
+  text: "Cokolwiek było, to będzie; i cokolwiek się wykonało, to się wykona. I nie ma nic nowego pod słońcem."
+  tags: []
+"Kaz1,10":
+  text: "Czy jest sprawa, o której można by powiedzieć: Spójrz, to coś nowego? To już było w dawnych czasach, które były przed nami."
+  tags: []
+"Kaz1,11":
+  text: "Nie ma pamięci o tych, którzy byli wcześniej; a także o tych, którzy będą później, oni też nie pozostaną w pamięci u tych, którzy następni nastaną."
+  tags: []
+"Kaz1,12":
+  text: "Ja, Kaznodzieja, byłem królem nad Izraelem w Jerozolimie;"
+  tags: []
+"Kaz1,13":
+  text: "I postanowiłem w swoim sercu, aby szukać i zbadać w mądrości wszystko, co się dzieje pod niebem. To nieszczęsne zadanie Bóg dał synom ludzkim, aby się nim trudzić."
+  tags: []
+"Kaz1,14":
+  text: "Widziałem wszystkie dzieła, które zostały uczynione pod słońcem – a oto wszystko jest marnością i utrapieniem ducha."
+  tags: []
+"Kaz1,15":
+  text: "Tego, co krzywe, nie można wyprostować, a tego, czego brak, nie można policzyć."
+  tags: []
+"Kaz1,16":
+  text: "I ja powiedziałem w swoim sercu, mówiąc: Oto ja powiększałem i dodawałem więcej mądrości nad wszystkich, którzy byli przede mną w Jerozolimie. I moje serce doświadczyło wielkiej mądrości i wiedzy."
+  tags: []
+"Kaz1,17":
+  text: "I postanowiłem w swoim sercu, aby poznać mądrość i poznać szaleństwo i głupotę. I poznałem, że to także jest utrapieniem ducha."
+  tags: []
+"Kaz1,18":
+  text: "Bo gdzie obfitość mądrości, tam jest wiele smutku. A kto pomnaża poznanie, pomnaża i cierpienie."
+  tags: []

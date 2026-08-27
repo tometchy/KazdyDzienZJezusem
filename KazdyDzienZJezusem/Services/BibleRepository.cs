@@ -189,6 +189,40 @@ public sealed class BibleRepository
         var keyPrefix = $"{book.Abbreviation}{chapter},";
         var seenVerses = new HashSet<int>();
         var verses = new List<BibleVerse>();
+        string? currentKey = null;
+        int? currentVerseNumber = null;
+        string? currentText = null;
+        IReadOnlyList<string>? currentTags = null;
+        var hasText = false;
+        var hasTags = false;
+
+        void AddCurrentVerse()
+        {
+            if (currentKey is null || currentVerseNumber is null)
+            {
+                return;
+            }
+
+            if (!hasText || string.IsNullOrWhiteSpace(currentText))
+            {
+                throw new InvalidDataException(
+                    $"Field 'text' in verse '{currentKey}' must be a non-empty string in {path}");
+            }
+
+            if (!hasTags || currentTags is null)
+            {
+                throw new InvalidDataException(
+                    $"Field 'tags' is required in verse '{currentKey}' in {path}");
+            }
+
+            if (!seenVerses.Add(currentVerseNumber.Value))
+            {
+                throw new InvalidDataException(
+                    $"Duplicate verse '{currentKey}' in {path}");
+            }
+
+            verses.Add(new BibleVerse(currentVerseNumber.Value, currentText, currentTags));
+        }
 
         foreach (var line in _fileSystem.ReadLines(path))
         {
@@ -197,37 +231,151 @@ public sealed class BibleRepository
                 continue;
             }
 
-            using var document = JsonDocument.Parse($"{{{line}}}");
-            var properties = document.RootElement.EnumerateObject().ToArray();
-            if (properties.Length != 1)
+            if (!char.IsWhiteSpace(line[0]))
             {
-                throw new InvalidDataException(
-                    $"Expected one verse per line in {path}");
+                AddCurrentVerse();
+
+                currentKey = ParseVerseKey(line, path);
+                currentVerseNumber = ParseVerseNumber(currentKey, keyPrefix, path);
+                currentText = null;
+                currentTags = null;
+                hasText = false;
+                hasTags = false;
+                continue;
             }
 
-            var property = properties[0];
-            if (!property.Name.StartsWith(keyPrefix, StringComparison.Ordinal)
-                || !int.TryParse(
-                    property.Name.AsSpan(keyPrefix.Length),
-                    NumberStyles.None,
-                    CultureInfo.InvariantCulture,
-                    out var verseNumber))
+            if (currentKey is null)
             {
                 throw new InvalidDataException(
-                    $"Invalid verse key '{property.Name}' in {path}");
+                    $"Verse field found before a verse key in {path}");
             }
 
-            var text = property.Value.GetString();
-            if (string.IsNullOrWhiteSpace(text) || !seenVerses.Add(verseNumber))
+            var trimmedLine = line.Trim();
+            var separatorIndex = trimmedLine.IndexOf(':');
+            if (separatorIndex < 1)
             {
                 throw new InvalidDataException(
-                    $"Invalid or duplicate verse '{property.Name}' in {path}");
+                    $"Invalid field in verse '{currentKey}' in {path}");
             }
 
-            verses.Add(new BibleVerse(verseNumber, text));
+            var fieldName = trimmedLine[..separatorIndex];
+            var serializedValue = trimmedLine[(separatorIndex + 1)..].Trim();
+            switch (fieldName)
+            {
+                case "text" when !hasText:
+                    currentText = ParseText(serializedValue, currentKey, path);
+                    hasText = true;
+                    break;
+                case "tags" when !hasTags:
+                    currentTags = ParseTags(serializedValue, currentKey, path);
+                    hasTags = true;
+                    break;
+                default:
+                    throw new InvalidDataException(
+                        $"Unknown or duplicate field '{fieldName}' in verse '{currentKey}' in {path}");
+            }
         }
 
+        AddCurrentVerse();
         return verses.OrderBy(verse => verse.Number).ToArray();
+    }
+
+    private static string ParseVerseKey(string line, string path)
+    {
+        var trimmedLine = line.TrimEnd();
+        if (!trimmedLine.EndsWith(':'))
+        {
+            throw new InvalidDataException($"Invalid verse key in {path}: {line}");
+        }
+
+        try
+        {
+            using var document = JsonDocument.Parse($"{{{trimmedLine}null}}");
+            var properties = document.RootElement.EnumerateObject().ToArray();
+            if (properties.Length != 1 || properties[0].Value.ValueKind != JsonValueKind.Null)
+            {
+                throw new InvalidDataException($"Invalid verse key in {path}: {line}");
+            }
+
+            return properties[0].Name;
+        }
+        catch (JsonException exception)
+        {
+            throw new InvalidDataException($"Invalid verse key in {path}: {line}", exception);
+        }
+    }
+
+    private static int ParseVerseNumber(string key, string keyPrefix, string path)
+    {
+        if (!key.StartsWith(keyPrefix, StringComparison.Ordinal)
+            || !int.TryParse(
+                key.AsSpan(keyPrefix.Length),
+                NumberStyles.None,
+                CultureInfo.InvariantCulture,
+                out var verseNumber)
+            || verseNumber < 1)
+        {
+            throw new InvalidDataException($"Invalid verse key '{key}' in {path}");
+        }
+
+        return verseNumber;
+    }
+
+    private static string ParseText(string serializedValue, string key, string path)
+    {
+        using var document = ParseJsonValue(serializedValue, "text", key, path);
+        if (document.RootElement.ValueKind != JsonValueKind.String)
+        {
+            throw new InvalidDataException(
+                $"Field 'text' in verse '{key}' must be a string in {path}");
+        }
+
+        return document.RootElement.GetString()!;
+    }
+
+    private static IReadOnlyList<string> ParseTags(
+        string serializedValue,
+        string key,
+        string path)
+    {
+        using var document = ParseJsonValue(serializedValue, "tags", key, path);
+        if (document.RootElement.ValueKind != JsonValueKind.Array)
+        {
+            throw new InvalidDataException(
+                $"Field 'tags' in verse '{key}' must be an array in {path}");
+        }
+
+        var tags = new List<string>();
+        foreach (var element in document.RootElement.EnumerateArray())
+        {
+            if (element.ValueKind != JsonValueKind.String)
+            {
+                throw new InvalidDataException(
+                    $"Every tag in verse '{key}' must be a string in {path}");
+            }
+
+            tags.Add(element.GetString()!);
+        }
+
+        return tags;
+    }
+
+    private static JsonDocument ParseJsonValue(
+        string serializedValue,
+        string fieldName,
+        string key,
+        string path)
+    {
+        try
+        {
+            return JsonDocument.Parse(serializedValue);
+        }
+        catch (JsonException exception)
+        {
+            throw new InvalidDataException(
+                $"Field '{fieldName}' in verse '{key}' has an invalid value in {path}",
+                exception);
+        }
     }
 
     private string GetTranslationPath(BibleTranslation translation) =>

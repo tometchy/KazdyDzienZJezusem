@@ -1,35 +1,105 @@
-"Mk3,1": "I wszedł ponownie do synagogi, a był tam człowiek, który miał uschłą rękę."
-"Mk3,2": "I śledzili Go, czy uzdrowi go w szabat, aby móc Go oskarżyć."
-"Mk3,3": "I mówi do człowieka, który ma uschłą rękę: Stań pośrodku!"
-"Mk3,4": "A do nich mówi: Czy wolno w szabat czynić dobrze, czy czynić źle? Życie uratować, czy zabić? Oni natomiast milczeli."
-"Mk3,5": "Wtedy spojrzał wokół z gniewem i smucąc się z powodu zatwardziałości ich serca, powiedział do tego człowieka: Wyciągnij swoją rękę! I wyciągnął; a jego ręka stała się zdrowa jak druga."
-"Mk3,6": "A gdy faryzeusze wyszli, zaraz zwołali naradę z herodianami przeciwko Niemu, jak Go zgładzić."
-"Mk3,7": "A Jezus odszedł ze swoimi uczniami w stronę morza; a wielka rzesza ludzi podążała za Nim z Galilei i z Judei,"
-"Mk3,8": "I z Jerozolimy, i z Idumei, i zza Jordanu, i ci z okolic Tyru i Sydonu, wielkie rzesze ludzi, słysząc jak wielkie rzeczy czynił, przyszło do Niego."
-"Mk3,9": "I powiedział swoim uczniom, aby mieli w pogotowiu łódkę dla Niego z powodu tłumu, aby Go nie stratował."
-"Mk3,10": "Albowiem wielu uzdrowił, tak że ci mający wiele dolegliwości parli na Niego, aby Go dotknąć."
-"Mk3,11": "I duchy nieczyste, gdy Go ujrzały, padały przed Nim i wołały, mówiąc: Ty jesteś Synem Bożym!"
-"Mk3,12": "A On wielokrotnie je karcił, aby Go nie ujawniały."
-"Mk3,13": "I wstąpił na górę, i przywołał do siebie tych, których sam chciał; i przyszli do Niego."
-"Mk3,14": "I ustanowił dwunastu, aby byli z Nim, i aby wysłać ich do głoszenia Ewangelii,"
-"Mk3,15": "I aby mieli moc uzdrawiać choroby i wyrzucać demony:"
-"Mk3,16": "Szymona, któremu nadał imię Piotr,"
-"Mk3,17": "I Jakuba, syna Zebedeusza, i Jana, brata Jakuba, i nadał im imiona Boanerges, to jest – Synowie Gromu;"
-"Mk3,18": "I Andrzeja, i Filipa, i Bartłomieja, i Mateusza, i Tomasza, i Jakuba, syna Alfeusza, i Tadeusza, i Szymona Kananejczyka,"
-"Mk3,19": "I Judasza Iskariotę, który Go wydał."
-"Mk3,20": "I przyszli do domu. I zgromadził się ponownie tłum, tak że nie mogli nawet zjeść chleba."
-"Mk3,21": "A gdy o tym usłyszeli Jego bliscy, przyszli, aby Go pochwycić; bo mówili, że postradał rozum."
-"Mk3,22": "A uczeni w Piśmie, którzy byli z Jerozolimy, przyszli i mówili, że ma Belzebuba, i że przez władcę demonów wyrzuca demony."
-"Mk3,23": "I przywołał ich do siebie, i mówił do nich w podobieństwach: Jak może szatan szatana wyrzucać?"
-"Mk3,24": "A jeśli jakieś królestwo zostanie wewnętrznie podzielone, to takie królestwo nie może się ostać."
-"Mk3,25": "I jeśli dom zostanie wewnętrznie podzielony, ów dom nie może się ostać."
-"Mk3,26": "I jeśli szatan powstaje przeciwko samemu sobie, i jest podzielony, nie może się ostać, ale to jest jego koniec."
-"Mk3,27": "Nikt nie może wejść do domu mocarza i zagrabić jego sprzętu, jeśli najpierw tego mocarza nie zwiąże, a dopiero potem może ograbić jego dom."
-"Mk3,28": "Zaprawdę mówię wam: Wszystkie grzechy synom ludzkim będą odpuszczone, nawet bluźnierstwa, ilekroć by zbluźnili;"
-"Mk3,29": "Ale kto zbluźniłby przeciwko Duchowi Świętemu, nie ma dla niego odpuszczenia na wieki, ale jest winien sądu wiecznego."
-"Mk3,30": "Bo mówili: Ma ducha nieczystego."
-"Mk3,31": "A Jego bracia i Jego matka przyszli, i gdy stali na zewnątrz, posłali do Niego, wołając Go."
-"Mk3,32": "A lud siedział wokół Niego. I powiedzieli do Niego: Oto matka Twoja i Twoi bracia stoją na zewnątrz i szukają Cię."
-"Mk3,33": "I odpowiedział im, mówiąc: Kto jest moją matką, albo moimi braćmi?"
-"Mk3,34": "I spojrzał dookoła na tych, którzy siedzieli wokół Niego, i powiedział: Oto matka moja i moi bracia!"
-"Mk3,35": "Bo kto uczyniłby wolę Boga, ten jest moim bratem i moją siostrą, i moją matką."
+"Mk3,1":
+  text: "I wszedł ponownie do synagogi, a był tam człowiek, który miał uschłą rękę."
+  tags: []
+"Mk3,2":
+  text: "I śledzili Go, czy uzdrowi go w szabat, aby móc Go oskarżyć."
+  tags: []
+"Mk3,3":
+  text: "I mówi do człowieka, który ma uschłą rękę: Stań pośrodku!"
+  tags: []
+"Mk3,4":
+  text: "A do nich mówi: Czy wolno w szabat czynić dobrze, czy czynić źle? Życie uratować, czy zabić? Oni natomiast milczeli."
+  tags: []
+"Mk3,5":
+  text: "Wtedy spojrzał wokół z gniewem i smucąc się z powodu zatwardziałości ich serca, powiedział do tego człowieka: Wyciągnij swoją rękę! I wyciągnął; a jego ręka stała się zdrowa jak druga."
+  tags: []
+"Mk3,6":
+  text: "A gdy faryzeusze wyszli, zaraz zwołali naradę z herodianami przeciwko Niemu, jak Go zgładzić."
+  tags: []
+"Mk3,7":
+  text: "A Jezus odszedł ze swoimi uczniami w stronę morza; a wielka rzesza ludzi podążała za Nim z Galilei i z Judei,"
+  tags: []
+"Mk3,8":
+  text: "I z Jerozolimy, i z Idumei, i zza Jordanu, i ci z okolic Tyru i Sydonu, wielkie rzesze ludzi, słysząc jak wielkie rzeczy czynił, przyszło do Niego."
+  tags: []
+"Mk3,9":
+  text: "I powiedział swoim uczniom, aby mieli w pogotowiu łódkę dla Niego z powodu tłumu, aby Go nie stratował."
+  tags: []
+"Mk3,10":
+  text: "Albowiem wielu uzdrowił, tak że ci mający wiele dolegliwości parli na Niego, aby Go dotknąć."
+  tags: []
+"Mk3,11":
+  text: "I duchy nieczyste, gdy Go ujrzały, padały przed Nim i wołały, mówiąc: Ty jesteś Synem Bożym!"
+  tags: []
+"Mk3,12":
+  text: "A On wielokrotnie je karcił, aby Go nie ujawniały."
+  tags: []
+"Mk3,13":
+  text: "I wstąpił na górę, i przywołał do siebie tych, których sam chciał; i przyszli do Niego."
+  tags: []
+"Mk3,14":
+  text: "I ustanowił dwunastu, aby byli z Nim, i aby wysłać ich do głoszenia Ewangelii,"
+  tags: []
+"Mk3,15":
+  text: "I aby mieli moc uzdrawiać choroby i wyrzucać demony:"
+  tags: []
+"Mk3,16":
+  text: "Szymona, któremu nadał imię Piotr,"
+  tags: []
+"Mk3,17":
+  text: "I Jakuba, syna Zebedeusza, i Jana, brata Jakuba, i nadał im imiona Boanerges, to jest – Synowie Gromu;"
+  tags: []
+"Mk3,18":
+  text: "I Andrzeja, i Filipa, i Bartłomieja, i Mateusza, i Tomasza, i Jakuba, syna Alfeusza, i Tadeusza, i Szymona Kananejczyka,"
+  tags: []
+"Mk3,19":
+  text: "I Judasza Iskariotę, który Go wydał."
+  tags: []
+"Mk3,20":
+  text: "I przyszli do domu. I zgromadził się ponownie tłum, tak że nie mogli nawet zjeść chleba."
+  tags: []
+"Mk3,21":
+  text: "A gdy o tym usłyszeli Jego bliscy, przyszli, aby Go pochwycić; bo mówili, że postradał rozum."
+  tags: []
+"Mk3,22":
+  text: "A uczeni w Piśmie, którzy byli z Jerozolimy, przyszli i mówili, że ma Belzebuba, i że przez władcę demonów wyrzuca demony."
+  tags: []
+"Mk3,23":
+  text: "I przywołał ich do siebie, i mówił do nich w podobieństwach: Jak może szatan szatana wyrzucać?"
+  tags: []
+"Mk3,24":
+  text: "A jeśli jakieś królestwo zostanie wewnętrznie podzielone, to takie królestwo nie może się ostać."
+  tags: []
+"Mk3,25":
+  text: "I jeśli dom zostanie wewnętrznie podzielony, ów dom nie może się ostać."
+  tags: []
+"Mk3,26":
+  text: "I jeśli szatan powstaje przeciwko samemu sobie, i jest podzielony, nie może się ostać, ale to jest jego koniec."
+  tags: []
+"Mk3,27":
+  text: "Nikt nie może wejść do domu mocarza i zagrabić jego sprzętu, jeśli najpierw tego mocarza nie zwiąże, a dopiero potem może ograbić jego dom."
+  tags: []
+"Mk3,28":
+  text: "Zaprawdę mówię wam: Wszystkie grzechy synom ludzkim będą odpuszczone, nawet bluźnierstwa, ilekroć by zbluźnili;"
+  tags: []
+"Mk3,29":
+  text: "Ale kto zbluźniłby przeciwko Duchowi Świętemu, nie ma dla niego odpuszczenia na wieki, ale jest winien sądu wiecznego."
+  tags: []
+"Mk3,30":
+  text: "Bo mówili: Ma ducha nieczystego."
+  tags: []
+"Mk3,31":
+  text: "A Jego bracia i Jego matka przyszli, i gdy stali na zewnątrz, posłali do Niego, wołając Go."
+  tags: []
+"Mk3,32":
+  text: "A lud siedział wokół Niego. I powiedzieli do Niego: Oto matka Twoja i Twoi bracia stoją na zewnątrz i szukają Cię."
+  tags: []
+"Mk3,33":
+  text: "I odpowiedział im, mówiąc: Kto jest moją matką, albo moimi braćmi?"
+  tags: []
+"Mk3,34":
+  text: "I spojrzał dookoła na tych, którzy siedzieli wokół Niego, i powiedział: Oto matka moja i moi bracia!"
+  tags: []
+"Mk3,35":
+  text: "Bo kto uczyniłby wolę Boga, ten jest moim bratem i moją siostrą, i moją matką."
+  tags: []

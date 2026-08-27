@@ -1,29 +1,87 @@
-"Prz19,1": "Lepszy ubogi, chodzący w swej uczciwości, niż człowiek o przewrotnych wargach, który jest głupcem."
-"Prz19,2": "Zaiste nie jest dobrze duszy bez poznania, a kto jest prędkich nóg, grzeszy."
-"Prz19,3": "Głupota człowieka wypacza jego drogę, lecz jego serce gniewa się na JHWH."
-"Prz19,4": "Bogactwo przysparza wielu przyjaciół, ale ubogi zostaje oddzielony od swojego przyjaciela."
-"Prz19,5": "Fałszywy świadek nie umknie niewinny, a kto zieje kłamstwem, nie ucieknie."
-"Prz19,6": "Wielu płaszczy się przed dostojnikiem i każdy jest przyjacielem człowieka dającego dary."
-"Prz19,7": "Wszyscy bracia ubogiego nienawidzą go, tym bardziej dalecy są od niego jego przyjaciele; zabiega o nich usilnie słowami, lecz ich nie ma."
-"Prz19,8": "Kto nabywa rozumu, miłuje swoją duszę, a kto strzeże roztropności, znajdzie dobro."
-"Prz19,9": "Fałszywy świadek nie umknie niewinny, a kto zieje kłamstwem, zginie."
-"Prz19,10": "Głupiemu nie przystoi przepych, tym bardziej słudze panować nad książętami."
-"Prz19,11": "Rozsądny człowiek opanowuje swój gniew, a jego chwałą jest darować wykroczenie."
-"Prz19,12": "Wściekłość króla jest jak ryk lwa, a jego przychylność jak rosa na trawie."
-"Prz19,13": "Głupi syn jest klęską dla swojego ojca, a kłótliwa żona jest jak nieustanne kapanie z dachu."
-"Prz19,14": "Dom i bogactwo są dziedzictwem po ojcach, a roztropna żona jest od JHWH."
-"Prz19,15": "Lenistwo pogrąża w głębokim śnie, a dusza ospała będzie głodować."
-"Prz19,16": "Kto przestrzega przykazania, zachowuje swoją duszę, ale kto gardzi swoimi drogami, zginie."
-"Prz19,17": "Kto lituje się nad ubogim, pożycza samemu JHWH, a On mu odpłaci za jego dobrodziejstwo."
-"Prz19,18": "Karć swojego syna, dopóki jest nadzieja, lecz nie unoś się, aby czasem nie umarł."
-"Prz19,19": "Kto unosi się wielkim gniewem, zasługuje na karę, bo jeśli go uwolnisz od niej, to jeszcze uczyni to ponownie."
-"Prz19,20": "Posłuchaj rady i przyjmij pouczenie, byś był mądry w przyszłości."
-"Prz19,21": "Wiele jest zamysłów w sercu człowieka, ale rada JHWH – ta się ostoi."
-"Prz19,22": "Pragnieniem człowieka jest jego dobroć, a lepszy jest człowiek ubogi niż kłamca."
-"Prz19,23": "Bojaźń JHWH prowadzi do życia – i nasycony odpoczywa; nie nawiedzi go zło."
-"Prz19,24": "Leniwy grzebie swą ręką w misie, jednak do ust jej nie podnosi."
-"Prz19,25": "Uderz szydercę, a prosty stanie się bystrzejszym; napominaj rozumnego, a pojmie wiedzę."
-"Prz19,26": "Kto napada ojca i wypędza matkę, ten jest synem przynoszącym wstyd i hańbę."
-"Prz19,27": "Synu mój, przestań słuchać pouczeń, które oddalają cię od słów mądrości."
-"Prz19,28": "Nikczemny świadek gardzi sądem, a usta niegodziwych pożerają nieprawość."
-"Prz19,29": "Kara jest przygotowana dla szyderców, a razy na grzbiet głupców."
+"Prz19,1":
+  text: "Lepszy ubogi, chodzący w swej uczciwości, niż człowiek o przewrotnych wargach, który jest głupcem."
+  tags: []
+"Prz19,2":
+  text: "Zaiste nie jest dobrze duszy bez poznania, a kto jest prędkich nóg, grzeszy."
+  tags: []
+"Prz19,3":
+  text: "Głupota człowieka wypacza jego drogę, lecz jego serce gniewa się na JHWH."
+  tags: []
+"Prz19,4":
+  text: "Bogactwo przysparza wielu przyjaciół, ale ubogi zostaje oddzielony od swojego przyjaciela."
+  tags: []
+"Prz19,5":
+  text: "Fałszywy świadek nie umknie niewinny, a kto zieje kłamstwem, nie ucieknie."
+  tags: []
+"Prz19,6":
+  text: "Wielu płaszczy się przed dostojnikiem i każdy jest przyjacielem człowieka dającego dary."
+  tags: []
+"Prz19,7":
+  text: "Wszyscy bracia ubogiego nienawidzą go, tym bardziej dalecy są od niego jego przyjaciele; zabiega o nich usilnie słowami, lecz ich nie ma."
+  tags: []
+"Prz19,8":
+  text: "Kto nabywa rozumu, miłuje swoją duszę, a kto strzeże roztropności, znajdzie dobro."
+  tags: []
+"Prz19,9":
+  text: "Fałszywy świadek nie umknie niewinny, a kto zieje kłamstwem, zginie."
+  tags: []
+"Prz19,10":
+  text: "Głupiemu nie przystoi przepych, tym bardziej słudze panować nad książętami."
+  tags: []
+"Prz19,11":
+  text: "Rozsądny człowiek opanowuje swój gniew, a jego chwałą jest darować wykroczenie."
+  tags: []
+"Prz19,12":
+  text: "Wściekłość króla jest jak ryk lwa, a jego przychylność jak rosa na trawie."
+  tags: []
+"Prz19,13":
+  text: "Głupi syn jest klęską dla swojego ojca, a kłótliwa żona jest jak nieustanne kapanie z dachu."
+  tags: []
+"Prz19,14":
+  text: "Dom i bogactwo są dziedzictwem po ojcach, a roztropna żona jest od JHWH."
+  tags: []
+"Prz19,15":
+  text: "Lenistwo pogrąża w głębokim śnie, a dusza ospała będzie głodować."
+  tags: []
+"Prz19,16":
+  text: "Kto przestrzega przykazania, zachowuje swoją duszę, ale kto gardzi swoimi drogami, zginie."
+  tags: []
+"Prz19,17":
+  text: "Kto lituje się nad ubogim, pożycza samemu JHWH, a On mu odpłaci za jego dobrodziejstwo."
+  tags: []
+"Prz19,18":
+  text: "Karć swojego syna, dopóki jest nadzieja, lecz nie unoś się, aby czasem nie umarł."
+  tags: []
+"Prz19,19":
+  text: "Kto unosi się wielkim gniewem, zasługuje na karę, bo jeśli go uwolnisz od niej, to jeszcze uczyni to ponownie."
+  tags: []
+"Prz19,20":
+  text: "Posłuchaj rady i przyjmij pouczenie, byś był mądry w przyszłości."
+  tags: []
+"Prz19,21":
+  text: "Wiele jest zamysłów w sercu człowieka, ale rada JHWH – ta się ostoi."
+  tags: []
+"Prz19,22":
+  text: "Pragnieniem człowieka jest jego dobroć, a lepszy jest człowiek ubogi niż kłamca."
+  tags: []
+"Prz19,23":
+  text: "Bojaźń JHWH prowadzi do życia – i nasycony odpoczywa; nie nawiedzi go zło."
+  tags: []
+"Prz19,24":
+  text: "Leniwy grzebie swą ręką w misie, jednak do ust jej nie podnosi."
+  tags: []
+"Prz19,25":
+  text: "Uderz szydercę, a prosty stanie się bystrzejszym; napominaj rozumnego, a pojmie wiedzę."
+  tags: []
+"Prz19,26":
+  text: "Kto napada ojca i wypędza matkę, ten jest synem przynoszącym wstyd i hańbę."
+  tags: []
+"Prz19,27":
+  text: "Synu mój, przestań słuchać pouczeń, które oddalają cię od słów mądrości."
+  tags: []
+"Prz19,28":
+  text: "Nikczemny świadek gardzi sądem, a usta niegodziwych pożerają nieprawość."
+  tags: []
+"Prz19,29":
+  text: "Kara jest przygotowana dla szyderców, a razy na grzbiet głupców."
+  tags: []

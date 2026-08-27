@@ -1,17 +1,51 @@
-"Ml2,1": "A teraz do was kapłani kieruję to postanowienie."
-"Ml2,2": "Jeśli nie usłuchacie i jeśli nie weźmiecie tego do serca, aby oddać chwałę mojemu imieniu – mówi JHWH Zastępów, wtedy ześlę na was klątwę i będę przeklinać wasze błogosławieństwa. I już je przekląłem, bo nie wzięliście tego do serca."
-"Ml2,3": "Oto ja zepsuję wasze zasiewy i rzucę wam kałem w twarz, kałem z waszych świątecznych ofiar. I położę was na nim."
-"Ml2,4": "I poznacie, że posłałem do was to postanowienie: Aby moje przymierze trwało z Lewim – mówi JHWH Zastępów."
-"Ml2,5": "Moim przymierzem z nim było życie i pokój – dałem mu go, lęk – i bał się mnie – i przed obliczem mojego imienia był on zatrwożony."
-"Ml2,6": "Prawo prawdy było na jego ustach i nie znaleziono na jego wargach nieprawości. Chodził ze mną w pokoju i prawości, i wielu odwrócił od nieprawości."
-"Ml2,7": "Bo wargi kapłana mają strzec poznania, a w jego ustach będą szukać Prawa, gdyż on jest posłańcem JHWH Zastępów."
-"Ml2,8": "Ale wy zboczyliście z drogi i byliście powodem potknięcia wielu w Prawie, wypaczyliście przymierze Lewiego – mówi JHWH Zastępów."
-"Ml2,9": "Również i ja wydałem was na wzgardę i poniżenie u wszystkich ludzi, jako nic nie znaczący, ponieważ nie ma wśród was strzegących moich dróg i jesteście stronniczy w stosowaniu Prawa."
-"Ml2,10": "Czy nie mamy wszyscy jednego Ojca? Czy nie stworzył nas jeden Bóg? Dlaczego więc każdy zdradza swojego brata, aby bezcześcić przymierze naszych ojców?"
-"Ml2,11": "Juda postępuje zdradliwie, obrzydliwość dzieje się w Izraelu i Jerozolimie. Juda bowiem zbezcześcił świętość JHWH, który ją ukochał, i poślubił córkę obcego boga."
-"Ml2,12": "Niech JHWH odetnie z namiotów Jakuba człowieka, który jej to czyni, zarówno pobudzającego, jak i reagującego na to, oraz przynoszącego ofiarę JHWH Zastępów."
-"Ml2,13": "A oto kolejna rzecz, którą czynicie: okrywacie ołtarz JHWH łzami, płaczem i wzdychaniem, tak że nie zwraca się On więcej ku ofierze i nie przyjmuje już życzliwie ofiar z waszych rąk."
-"Ml2,14": "I pytacie: Dlaczego? W jakim celu? Dlatego że JHWH jest świadkiem pomiędzy tobą i pomiędzy żoną twojej młodości, wobec której ty nie dochowałeś wierności. Bo ona jest twoją towarzyszką i żoną twojego przymierza."
-"Ml2,15": "Czy nie Jeden ją dla niego uczynił i ma cząstkę ducha? I czego ten Jeden pragnie? Potomstwa Bożego. Strzeżcie się w swoim duchu i żonie swojej młodości nie bądźcie niewierni"
-"Ml2,16": "Gdyż On znienawidził oddalanie – mówi JHWH, Bóg Izraela, a taki okrył gwałtem swoją szatę – mówi JHWH Zastępów. Strzeżcie swojego ducha i nie bądźcie niewierni."
-"Ml2,17": "Naprzykrzacie się JHWH swoimi słowami i mówicie: W czym się naprzykrzamy? Przez mówienie: Każdy, kto czyni zło, jest dobry w oczach JHWH i w takich ma On swoje upodobanie; albo: Gdzież jest Bóg sądu?"
+"Ml2,1":
+  text: "A teraz do was kapłani kieruję to postanowienie."
+  tags: []
+"Ml2,2":
+  text: "Jeśli nie usłuchacie i jeśli nie weźmiecie tego do serca, aby oddać chwałę mojemu imieniu – mówi JHWH Zastępów, wtedy ześlę na was klątwę i będę przeklinać wasze błogosławieństwa. I już je przekląłem, bo nie wzięliście tego do serca."
+  tags: []
+"Ml2,3":
+  text: "Oto ja zepsuję wasze zasiewy i rzucę wam kałem w twarz, kałem z waszych świątecznych ofiar. I położę was na nim."
+  tags: []
+"Ml2,4":
+  text: "I poznacie, że posłałem do was to postanowienie: Aby moje przymierze trwało z Lewim – mówi JHWH Zastępów."
+  tags: []
+"Ml2,5":
+  text: "Moim przymierzem z nim było życie i pokój – dałem mu go, lęk – i bał się mnie – i przed obliczem mojego imienia był on zatrwożony."
+  tags: []
+"Ml2,6":
+  text: "Prawo prawdy było na jego ustach i nie znaleziono na jego wargach nieprawości. Chodził ze mną w pokoju i prawości, i wielu odwrócił od nieprawości."
+  tags: []
+"Ml2,7":
+  text: "Bo wargi kapłana mają strzec poznania, a w jego ustach będą szukać Prawa, gdyż on jest posłańcem JHWH Zastępów."
+  tags: []
+"Ml2,8":
+  text: "Ale wy zboczyliście z drogi i byliście powodem potknięcia wielu w Prawie, wypaczyliście przymierze Lewiego – mówi JHWH Zastępów."
+  tags: []
+"Ml2,9":
+  text: "Również i ja wydałem was na wzgardę i poniżenie u wszystkich ludzi, jako nic nie znaczący, ponieważ nie ma wśród was strzegących moich dróg i jesteście stronniczy w stosowaniu Prawa."
+  tags: []
+"Ml2,10":
+  text: "Czy nie mamy wszyscy jednego Ojca? Czy nie stworzył nas jeden Bóg? Dlaczego więc każdy zdradza swojego brata, aby bezcześcić przymierze naszych ojców?"
+  tags: []
+"Ml2,11":
+  text: "Juda postępuje zdradliwie, obrzydliwość dzieje się w Izraelu i Jerozolimie. Juda bowiem zbezcześcił świętość JHWH, który ją ukochał, i poślubił córkę obcego boga."
+  tags: []
+"Ml2,12":
+  text: "Niech JHWH odetnie z namiotów Jakuba człowieka, który jej to czyni, zarówno pobudzającego, jak i reagującego na to, oraz przynoszącego ofiarę JHWH Zastępów."
+  tags: []
+"Ml2,13":
+  text: "A oto kolejna rzecz, którą czynicie: okrywacie ołtarz JHWH łzami, płaczem i wzdychaniem, tak że nie zwraca się On więcej ku ofierze i nie przyjmuje już życzliwie ofiar z waszych rąk."
+  tags: []
+"Ml2,14":
+  text: "I pytacie: Dlaczego? W jakim celu? Dlatego że JHWH jest świadkiem pomiędzy tobą i pomiędzy żoną twojej młodości, wobec której ty nie dochowałeś wierności. Bo ona jest twoją towarzyszką i żoną twojego przymierza."
+  tags: []
+"Ml2,15":
+  text: "Czy nie Jeden ją dla niego uczynił i ma cząstkę ducha? I czego ten Jeden pragnie? Potomstwa Bożego. Strzeżcie się w swoim duchu i żonie swojej młodości nie bądźcie niewierni"
+  tags: []
+"Ml2,16":
+  text: "Gdyż On znienawidził oddalanie – mówi JHWH, Bóg Izraela, a taki okrył gwałtem swoją szatę – mówi JHWH Zastępów. Strzeżcie swojego ducha i nie bądźcie niewierni."
+  tags: []
+"Ml2,17":
+  text: "Naprzykrzacie się JHWH swoimi słowami i mówicie: W czym się naprzykrzamy? Przez mówienie: Każdy, kto czyni zło, jest dobry w oczach JHWH i w takich ma On swoje upodobanie; albo: Gdzież jest Bóg sądu?"
+  tags: []

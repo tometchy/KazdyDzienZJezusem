@@ -1,33 +1,99 @@
-"Prz15,1": "Łagodna odpowiedź uśmierza zapalczywość, a bolesne słowo pobudza gniew."
-"Prz15,2": "Język mądrych zdobi wiedzę, ale usta głupich tryskają głupotą."
-"Prz15,3": "Oczy JHWH są na każdym miejscu, obserwują złych i dobrych."
-"Prz15,4": "Zdrowy język jest drzewem życia, a jego przewrotność jest rozbiciem ducha."
-"Prz15,5": "Głupi gardzi pouczeniem swojego ojca, a kto przyjmuje upomnienia stanie się bystrzejszym."
-"Prz15,6": "W domu sprawiedliwego jest wiele zapasów, a dochód niegodziwego powoduje nieszczęście."
-"Prz15,7": "Wargi mądrych szerzą wiedzę, lecz serce głupich nie jest takie."
-"Prz15,8": "Ofiara niegodziwych budzi obrzydzenie w JHWH, a modlitwa prawych sprawia Mu przyjemność."
-"Prz15,9": "Droga niegodziwego budzi obrzydzenie w JHWH, kocha On tego, kto podąża za sprawiedliwością."
-"Prz15,10": "Najgorsza kara należy się temu, kto porzuca ścieżkę, a kto nienawidzi upomnienia, umrze."
-"Prz15,11": "Szeol i Abaddon są otwarte przed JHWH; tym bardziej serca synów ludzkich."
-"Prz15,12": "Szyderca nie lubi tego, który go strofuje i nie chodzi on do mądrych."
-"Prz15,13": "Radosne serce rozwesela oblicze, lecz gdy serce cierpi, duch jest złamany."
-"Prz15,14": "Serce rozumne szuka poznania, a usta głupich karmią się głupotą."
-"Prz15,15": "Wszystkie dni udręczonego są złe, ale dobre serce ma ciągłą ucztę."
-"Prz15,16": "Lepiej mieć mało z bojaźnią JHWH niż wielki skarb, a przez niego zamęt."
-"Prz15,17": "Lepszy jest posiłek z jarzyn, a przy tym miłość, niż utuczony wół, a z nim nienawiść."
-"Prz15,18": "Człowiek gniewny wywołuje kłótnie, a nieskory do gniewu uśmierza spory."
-"Prz15,19": "Droga leniwego jest jak żywopłot z cierni, a ścieżka prawych jest wyrównana."
-"Prz15,20": "Mądry syn rozradowuje ojca, lecz głupi człowiek lekceważy swą matkę."
-"Prz15,21": "Głupota jest radością dla pozbawionego rozumu, a człowiek roztropny chodzi prostą drogą."
-"Prz15,22": "Gdzie nie ma narady, zamysły są pokrzyżowane; ostoją się przy wielu doradcach."
-"Prz15,23": "Człowiek jest zadowolony z odpowiedzi swoich ust; o jak dobre jest słowo we właściwym czasie!"
-"Prz15,24": "Ścieżka życia rozważnego wiedzie w górę, aby uniknąć Szeolu w dole."
-"Prz15,25": "JHWH zniszczy dom pysznych, lecz utwierdzi granicę wdowy."
-"Prz15,26": "Myśli złego budzą odrazę w JHWH, a słowa czystych są przyjemne."
-"Prz15,27": "Kto zdobywa nieuczciwe zyski, krzywdzi swój dom, a kto nienawidzi łapówek, będzie żył."
-"Prz15,28": "Serce sprawiedliwego rozmyśla nad odpowiedzią, lecz usta niegodziwych tryskają złem."
-"Prz15,29": "JHWH jest daleko od niegodziwych, ale wysłuchuje modlitwy sprawiedliwych."
-"Prz15,30": "Blask oczu rozwesela serce, a dobra nowina wzmacnia kości."
-"Prz15,31": "Ucho słuchające upomnienia życia, będzie przebywać wśród mądrych."
-"Prz15,32": "Kto odrzuca karność, gardzi swoją duszą, a kto jest posłuszny upomnieniu, nabywa rozumu."
-"Prz15,33": "Bojaźń JHWH jest pouczeniem mądrości, a pokora poprzedza chwałę."
+"Prz15,1":
+  text: "Łagodna odpowiedź uśmierza zapalczywość, a bolesne słowo pobudza gniew."
+  tags: []
+"Prz15,2":
+  text: "Język mądrych zdobi wiedzę, ale usta głupich tryskają głupotą."
+  tags: []
+"Prz15,3":
+  text: "Oczy JHWH są na każdym miejscu, obserwują złych i dobrych."
+  tags: []
+"Prz15,4":
+  text: "Zdrowy język jest drzewem życia, a jego przewrotność jest rozbiciem ducha."
+  tags: []
+"Prz15,5":
+  text: "Głupi gardzi pouczeniem swojego ojca, a kto przyjmuje upomnienia stanie się bystrzejszym."
+  tags: []
+"Prz15,6":
+  text: "W domu sprawiedliwego jest wiele zapasów, a dochód niegodziwego powoduje nieszczęście."
+  tags: []
+"Prz15,7":
+  text: "Wargi mądrych szerzą wiedzę, lecz serce głupich nie jest takie."
+  tags: []
+"Prz15,8":
+  text: "Ofiara niegodziwych budzi obrzydzenie w JHWH, a modlitwa prawych sprawia Mu przyjemność."
+  tags: []
+"Prz15,9":
+  text: "Droga niegodziwego budzi obrzydzenie w JHWH, kocha On tego, kto podąża za sprawiedliwością."
+  tags: []
+"Prz15,10":
+  text: "Najgorsza kara należy się temu, kto porzuca ścieżkę, a kto nienawidzi upomnienia, umrze."
+  tags: []
+"Prz15,11":
+  text: "Szeol i Abaddon są otwarte przed JHWH; tym bardziej serca synów ludzkich."
+  tags: []
+"Prz15,12":
+  text: "Szyderca nie lubi tego, który go strofuje i nie chodzi on do mądrych."
+  tags: []
+"Prz15,13":
+  text: "Radosne serce rozwesela oblicze, lecz gdy serce cierpi, duch jest złamany."
+  tags: []
+"Prz15,14":
+  text: "Serce rozumne szuka poznania, a usta głupich karmią się głupotą."
+  tags: []
+"Prz15,15":
+  text: "Wszystkie dni udręczonego są złe, ale dobre serce ma ciągłą ucztę."
+  tags: []
+"Prz15,16":
+  text: "Lepiej mieć mało z bojaźnią JHWH niż wielki skarb, a przez niego zamęt."
+  tags: []
+"Prz15,17":
+  text: "Lepszy jest posiłek z jarzyn, a przy tym miłość, niż utuczony wół, a z nim nienawiść."
+  tags: []
+"Prz15,18":
+  text: "Człowiek gniewny wywołuje kłótnie, a nieskory do gniewu uśmierza spory."
+  tags: []
+"Prz15,19":
+  text: "Droga leniwego jest jak żywopłot z cierni, a ścieżka prawych jest wyrównana."
+  tags: []
+"Prz15,20":
+  text: "Mądry syn rozradowuje ojca, lecz głupi człowiek lekceważy swą matkę."
+  tags: []
+"Prz15,21":
+  text: "Głupota jest radością dla pozbawionego rozumu, a człowiek roztropny chodzi prostą drogą."
+  tags: []
+"Prz15,22":
+  text: "Gdzie nie ma narady, zamysły są pokrzyżowane; ostoją się przy wielu doradcach."
+  tags: []
+"Prz15,23":
+  text: "Człowiek jest zadowolony z odpowiedzi swoich ust; o jak dobre jest słowo we właściwym czasie!"
+  tags: []
+"Prz15,24":
+  text: "Ścieżka życia rozważnego wiedzie w górę, aby uniknąć Szeolu w dole."
+  tags: []
+"Prz15,25":
+  text: "JHWH zniszczy dom pysznych, lecz utwierdzi granicę wdowy."
+  tags: []
+"Prz15,26":
+  text: "Myśli złego budzą odrazę w JHWH, a słowa czystych są przyjemne."
+  tags: []
+"Prz15,27":
+  text: "Kto zdobywa nieuczciwe zyski, krzywdzi swój dom, a kto nienawidzi łapówek, będzie żył."
+  tags: []
+"Prz15,28":
+  text: "Serce sprawiedliwego rozmyśla nad odpowiedzią, lecz usta niegodziwych tryskają złem."
+  tags: []
+"Prz15,29":
+  text: "JHWH jest daleko od niegodziwych, ale wysłuchuje modlitwy sprawiedliwych."
+  tags: []
+"Prz15,30":
+  text: "Blask oczu rozwesela serce, a dobra nowina wzmacnia kości."
+  tags: []
+"Prz15,31":
+  text: "Ucho słuchające upomnienia życia, będzie przebywać wśród mądrych."
+  tags: []
+"Prz15,32":
+  text: "Kto odrzuca karność, gardzi swoją duszą, a kto jest posłuszny upomnieniu, nabywa rozumu."
+  tags: []
+"Prz15,33":
+  text: "Bojaźń JHWH jest pouczeniem mądrości, a pokora poprzedza chwałę."
+  tags: []

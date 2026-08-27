@@ -1,20 +1,60 @@
-"Ob1,1": "Objawienie Jezusa Chrystusa, które dał mu Bóg, aby pokazał swoim sługom to, co musi się stać wkrótce; a co zaznaczył przez posłanie swojego anioła słudze swojemu Janowi,"
-"Ob1,2": "Który poświadczył Słowo Boga i świadectwo Jezusa Chrystusa, a także cokolwiek zobaczył."
-"Ob1,3": "Błogosławiony ten, który czyta i ci, którzy słuchają słów tego proroctwa i zachowują to, co w nim jest napisane; albowiem czas jest bliski."
-"Ob1,4": "Jan do siedmiu zborów, które są w Azji. Łaska wam i pokój od Tego, który jest i był, i który przychodzi; i od siedmiu duchów, które są przed Jego tronem;"
-"Ob1,5": "I od Jezusa Chrystusa, który jest świadkiem wiernym, pierworodnym z umarłych i władcą królów ziemi; który nas umiłował i obmył nas z naszych grzechów w swojej krwi,"
-"Ob1,6": "I uczynił nas królami i kapłanami Boga i Ojca swojego; Jemu chwała i moc na wieki wieków. Amen."
-"Ob1,7": "Oto przychodzi z obłokami i ujrzy Go każde oko i ci, którzy Go przebili; i uderzą się w piersi przez wzgląd na Niego wszystkie pokolenia ziemi. Tak! Amen."
-"Ob1,8": "Ja jestem Alfa i Omega, początek i koniec, mówi PAN, który jest i był, i który przychodzi, Wszechmogący."
-"Ob1,9": "Ja, Jan i wasz brat i współuczestnik w ucisku i w Królestwie, i w wytrwałości Jezusa Chrystusa, byłem na wyspie, zwanej Patmos, z powodu Słowa Bożego i z powodu świadectwa Jezusa Chrystusa."
-"Ob1,10": "Byłem w Duchu w dniu Pańskim i usłyszałem za sobą potężny głos jakby trąby, mówiący:"
-"Ob1,11": "Ja jestem Alfa i Omega, pierwszy i ostatni; a to, co widzisz, napisz w zwoju i poślij do siedmiu zborów, które są w Azji: do Efezu, do Smyrny, do Pergamonu, do Tiatyry, do Sardes, do Filadelfii i do Laodycei."
-"Ob1,12": "I obróciłem się, aby zobaczyć, co to za głos, który mówił ze mną; a gdy obróciłem się, ujrzałem siedem złotych świeczników,"
-"Ob1,13": "A pośrodku siedmiu świeczników kogoś podobnego do Syna Człowieczego, który jest obleczony w szatę sięgającą stóp, i który jest przepasany na piersiach złotym pasem;"
-"Ob1,14": "A głowa Jego i włosy białe jak biała wełna i jak śnieg, a oczy Jego jak płomień ognia;"
-"Ob1,15": "I stopy Jego podobne do roztopionego drogocennego metalu, jakby rozpalone w piecu, a głos Jego jak głos wielu wód."
-"Ob1,16": "I ma w swojej prawej dłoni siedem gwiazd, a z Jego ust wychodzi ostry obosieczny miecz, a Jego oblicze było jak słońce, gdy świeci w swojej mocy."
-"Ob1,17": "A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,"
-"Ob1,18": "I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci."
-"Ob1,19": "Napisz to, co widziałeś, i to, co jest, i to, co zaraz ma się stać po tych wydarzeniach."
-"Ob1,20": "Oto tajemnica siedmiu gwiazd, które widziałeś w mojej prawej dłoni i siedmiu złotych świeczników: siedem gwiazd, to są aniołowie siedmiu zborów, a siedem świeczników, które widziałeś, to jest siedem zborów."
+"Ob1,1":
+  text: "Objawienie Jezusa Chrystusa, które dał mu Bóg, aby pokazał swoim sługom to, co musi się stać wkrótce; a co zaznaczył przez posłanie swojego anioła słudze swojemu Janowi,"
+  tags: []
+"Ob1,2":
+  text: "Który poświadczył Słowo Boga i świadectwo Jezusa Chrystusa, a także cokolwiek zobaczył."
+  tags: []
+"Ob1,3":
+  text: "Błogosławiony ten, który czyta i ci, którzy słuchają słów tego proroctwa i zachowują to, co w nim jest napisane; albowiem czas jest bliski."
+  tags: []
+"Ob1,4":
+  text: "Jan do siedmiu zborów, które są w Azji. Łaska wam i pokój od Tego, który jest i był, i który przychodzi; i od siedmiu duchów, które są przed Jego tronem;"
+  tags: []
+"Ob1,5":
+  text: "I od Jezusa Chrystusa, który jest świadkiem wiernym, pierworodnym z umarłych i władcą królów ziemi; który nas umiłował i obmył nas z naszych grzechów w swojej krwi,"
+  tags: []
+"Ob1,6":
+  text: "I uczynił nas królami i kapłanami Boga i Ojca swojego; Jemu chwała i moc na wieki wieków. Amen."
+  tags: []
+"Ob1,7":
+  text: "Oto przychodzi z obłokami i ujrzy Go każde oko i ci, którzy Go przebili; i uderzą się w piersi przez wzgląd na Niego wszystkie pokolenia ziemi. Tak! Amen."
+  tags: []
+"Ob1,8":
+  text: "Ja jestem Alfa i Omega, początek i koniec, mówi PAN, który jest i był, i który przychodzi, Wszechmogący."
+  tags: []
+"Ob1,9":
+  text: "Ja, Jan i wasz brat i współuczestnik w ucisku i w Królestwie, i w wytrwałości Jezusa Chrystusa, byłem na wyspie, zwanej Patmos, z powodu Słowa Bożego i z powodu świadectwa Jezusa Chrystusa."
+  tags: []
+"Ob1,10":
+  text: "Byłem w Duchu w dniu Pańskim i usłyszałem za sobą potężny głos jakby trąby, mówiący:"
+  tags: []
+"Ob1,11":
+  text: "Ja jestem Alfa i Omega, pierwszy i ostatni; a to, co widzisz, napisz w zwoju i poślij do siedmiu zborów, które są w Azji: do Efezu, do Smyrny, do Pergamonu, do Tiatyry, do Sardes, do Filadelfii i do Laodycei."
+  tags: []
+"Ob1,12":
+  text: "I obróciłem się, aby zobaczyć, co to za głos, który mówił ze mną; a gdy obróciłem się, ujrzałem siedem złotych świeczników,"
+  tags: []
+"Ob1,13":
+  text: "A pośrodku siedmiu świeczników kogoś podobnego do Syna Człowieczego, który jest obleczony w szatę sięgającą stóp, i który jest przepasany na piersiach złotym pasem;"
+  tags: []
+"Ob1,14":
+  text: "A głowa Jego i włosy białe jak biała wełna i jak śnieg, a oczy Jego jak płomień ognia;"
+  tags: []
+"Ob1,15":
+  text: "I stopy Jego podobne do roztopionego drogocennego metalu, jakby rozpalone w piecu, a głos Jego jak głos wielu wód."
+  tags: []
+"Ob1,16":
+  text: "I ma w swojej prawej dłoni siedem gwiazd, a z Jego ust wychodzi ostry obosieczny miecz, a Jego oblicze było jak słońce, gdy świeci w swojej mocy."
+  tags: []
+"Ob1,17":
+  text: "A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,"
+  tags: []
+"Ob1,18":
+  text: "I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci."
+  tags: []
+"Ob1,19":
+  text: "Napisz to, co widziałeś, i to, co jest, i to, co zaraz ma się stać po tych wydarzeniach."
+  tags: []
+"Ob1,20":
+  text: "Oto tajemnica siedmiu gwiazd, które widziałeś w mojej prawej dłoni i siedmiu złotych świeczników: siedem gwiazd, to są aniołowie siedmiu zborów, a siedem świeczników, które widziałeś, to jest siedem zborów."
+  tags: []

@@ -1,29 +1,87 @@
-"Hi20,1": "Wtedy Sofar z Naama odpowiedział:"
-"Hi20,2": "Dlatego moje myśli skłaniają mnie do odpowiedzi i z tego powodu mówię pośpiesznie."
-"Hi20,3": "Słuchałem obraźliwego upomnienia i duch mojego zrozumienia podsuwa mi odpowiedź:"
-"Hi20,4": "Czy nie wiesz, że od wieków, odkąd człowieka postawiono na ziemi;"
-"Hi20,5": "Radość niegodziwych jest krótka, a wesołość obłudnika trwa okamgnienie?"
-"Hi20,6": "Choćby jego wyniosłość sięgała aż do niebios, a jego głowa – do obłoków;"
-"Hi20,7": "To jednak zginie on na wieki jak jego własny gnój, a ci, którzy go widzieli, powiedzą: Gdzie on się podział?"
-"Hi20,8": "Uleci jak sen i nie znajdą go; ucieknie jak nocne widzenie."
-"Hi20,9": "Oko, które go widziało, nie zobaczy go więcej, i już nie ujrzy go jego miejsce."
-"Hi20,10": "Jego synowie będą się korzyć przed ubogim, jego ręce zwrócą swe bogactwo."
-"Hi20,11": "Jego kości są pełne grzechów jego młodości, razem z nim spoczną w prochu."
-"Hi20,12": "A choć zło jest słodkie w jego ustach i zataja je pod swoim językiem;"
-"Hi20,13": "Chociaż rozkoszuje się nim i nie opuszcza go, zatrzymując je na swoim podniebieniu;"
-"Hi20,14": "To jednak jego pokarm we wnętrznościach przemienia się, staje się żółcią żmii w jego wnętrzu."
-"Hi20,15": "Połknął bogactwa i zwróci je; Bóg je wyrzuci z jego brzucha."
-"Hi20,16": "Będzie ssał jad żmii, zabije go język węża."
-"Hi20,17": "Nie zobaczy rzek, potoków, strumieni miodu ani masła."
-"Hi20,18": "Zwróci swój zysk i nie połknie go; i choć znowu zdobędzie wielki majątek, nie ucieszy się z niego."
-"Hi20,19": "Bo uciskał i opuszczał ubogich, przemocą zabrał dom, którego nie zbudował."
-"Hi20,20": "Dlatego nie zazna pokoju w swoim wnętrzu, nie zatrzyma tego, czego pragnął."
-"Hi20,21": "Z jego pokarmów nic nie zostanie, nie rozmnożą się jego dobra."
-"Hi20,22": "Mimo obfitości jego dostatku dosięgnie go bieda. Wszelka ręka nikczemnych uderzy na niego."
-"Hi20,23": "Gdy będzie miał czym napełnić swój brzuch, Bóg ześle na niego zapalczywość swego gniewu, wyleje na niego i na jego pokarmy."
-"Hi20,24": "Gdy będzie uciekał przed żelazną bronią, przebije go łuk spiżowy."
-"Hi20,25": "Wyjęta będzie strzała z grzbietu, a grot przeszyje jego wątrobę; ogarnie go strach."
-"Hi20,26": "Wszelka ciemność zaczai się w jego kryjówkach. Pożre go ogień niewzniecony, a ten, kto pozostał w jego przybytku, będzie udręczony."
-"Hi20,27": "Niebo odkryje jego nieprawość, a ziemia powstanie przeciwko niemu."
-"Hi20,28": "Dobytek jego domu przepadnie, jego dobra rozpłyną się w dniu Bożego gniewu."
-"Hi20,29": "Taki jest dział Boga dla niegodziwego i dziedzictwo przeznaczone mu przez Boga."
+"Hi20,1":
+  text: "Wtedy Sofar z Naama odpowiedział:"
+  tags: []
+"Hi20,2":
+  text: "Dlatego moje myśli skłaniają mnie do odpowiedzi i z tego powodu mówię pośpiesznie."
+  tags: []
+"Hi20,3":
+  text: "Słuchałem obraźliwego upomnienia i duch mojego zrozumienia podsuwa mi odpowiedź:"
+  tags: []
+"Hi20,4":
+  text: "Czy nie wiesz, że od wieków, odkąd człowieka postawiono na ziemi;"
+  tags: []
+"Hi20,5":
+  text: "Radość niegodziwych jest krótka, a wesołość obłudnika trwa okamgnienie?"
+  tags: []
+"Hi20,6":
+  text: "Choćby jego wyniosłość sięgała aż do niebios, a jego głowa – do obłoków;"
+  tags: []
+"Hi20,7":
+  text: "To jednak zginie on na wieki jak jego własny gnój, a ci, którzy go widzieli, powiedzą: Gdzie on się podział?"
+  tags: []
+"Hi20,8":
+  text: "Uleci jak sen i nie znajdą go; ucieknie jak nocne widzenie."
+  tags: []
+"Hi20,9":
+  text: "Oko, które go widziało, nie zobaczy go więcej, i już nie ujrzy go jego miejsce."
+  tags: []
+"Hi20,10":
+  text: "Jego synowie będą się korzyć przed ubogim, jego ręce zwrócą swe bogactwo."
+  tags: []
+"Hi20,11":
+  text: "Jego kości są pełne grzechów jego młodości, razem z nim spoczną w prochu."
+  tags: []
+"Hi20,12":
+  text: "A choć zło jest słodkie w jego ustach i zataja je pod swoim językiem;"
+  tags: []
+"Hi20,13":
+  text: "Chociaż rozkoszuje się nim i nie opuszcza go, zatrzymując je na swoim podniebieniu;"
+  tags: []
+"Hi20,14":
+  text: "To jednak jego pokarm we wnętrznościach przemienia się, staje się żółcią żmii w jego wnętrzu."
+  tags: []
+"Hi20,15":
+  text: "Połknął bogactwa i zwróci je; Bóg je wyrzuci z jego brzucha."
+  tags: []
+"Hi20,16":
+  text: "Będzie ssał jad żmii, zabije go język węża."
+  tags: []
+"Hi20,17":
+  text: "Nie zobaczy rzek, potoków, strumieni miodu ani masła."
+  tags: []
+"Hi20,18":
+  text: "Zwróci swój zysk i nie połknie go; i choć znowu zdobędzie wielki majątek, nie ucieszy się z niego."
+  tags: []
+"Hi20,19":
+  text: "Bo uciskał i opuszczał ubogich, przemocą zabrał dom, którego nie zbudował."
+  tags: []
+"Hi20,20":
+  text: "Dlatego nie zazna pokoju w swoim wnętrzu, nie zatrzyma tego, czego pragnął."
+  tags: []
+"Hi20,21":
+  text: "Z jego pokarmów nic nie zostanie, nie rozmnożą się jego dobra."
+  tags: []
+"Hi20,22":
+  text: "Mimo obfitości jego dostatku dosięgnie go bieda. Wszelka ręka nikczemnych uderzy na niego."
+  tags: []
+"Hi20,23":
+  text: "Gdy będzie miał czym napełnić swój brzuch, Bóg ześle na niego zapalczywość swego gniewu, wyleje na niego i na jego pokarmy."
+  tags: []
+"Hi20,24":
+  text: "Gdy będzie uciekał przed żelazną bronią, przebije go łuk spiżowy."
+  tags: []
+"Hi20,25":
+  text: "Wyjęta będzie strzała z grzbietu, a grot przeszyje jego wątrobę; ogarnie go strach."
+  tags: []
+"Hi20,26":
+  text: "Wszelka ciemność zaczai się w jego kryjówkach. Pożre go ogień niewzniecony, a ten, kto pozostał w jego przybytku, będzie udręczony."
+  tags: []
+"Hi20,27":
+  text: "Niebo odkryje jego nieprawość, a ziemia powstanie przeciwko niemu."
+  tags: []
+"Hi20,28":
+  text: "Dobytek jego domu przepadnie, jego dobra rozpłyną się w dniu Bożego gniewu."
+  tags: []
+"Hi20,29":
+  text: "Taki jest dział Boga dla niegodziwego i dziedzictwo przeznaczone mu przez Boga."
+  tags: []

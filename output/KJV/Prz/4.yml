@@ -1,27 +1,81 @@
-"Prz4,1": "Hear, ye children, the instruction of a father, and attend to know understanding."
-"Prz4,2": "For I give you good doctrine, forsake ye not my law."
-"Prz4,3": "For I was my father's son, tender and only [beloved] in the sight of my mother."
-"Prz4,4": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
-"Prz4,5": "Get wisdom, get understanding: forget [it] not; neither decline from the words of my mouth."
-"Prz4,6": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
-"Prz4,7": "Wisdom [is] the principal thing; [therefore] get wisdom: and with all thy getting get understanding."
-"Prz4,8": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
-"Prz4,9": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee."
-"Prz4,10": "Hear, O my son, and receive my sayings; and the years of thy life shall be many."
-"Prz4,11": "I have taught thee in the way of wisdom; I have led thee in right paths."
-"Prz4,12": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
-"Prz4,13": "Take fast hold of instruction; let [her] not go: keep her; for she [is] thy life."
-"Prz4,14": "Enter not into the path of the wicked, and go not in the way of evil [men]."
-"Prz4,15": "Avoid it, pass not by it, turn from it, and pass away."
-"Prz4,16": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause [some] to fall."
-"Prz4,17": "For they eat the bread of wickedness, and drink the wine of violence."
-"Prz4,18": "But the path of the just [is] as the shining light, that shineth more and more unto the perfect day."
-"Prz4,19": "The way of the wicked [is] as darkness: they know not at what they stumble."
-"Prz4,20": "My son, attend to my words; incline thine ear unto my sayings."
-"Prz4,21": "Let them not depart from thine eyes; keep them in the midst of thine heart."
-"Prz4,22": "For they [are] life unto those that find them, and health to all their flesh."
-"Prz4,23": "Keep thy heart with all diligence; for out of it [are] the issues of life."
-"Prz4,24": "Put away from thee a froward mouth, and perverse lips put far from thee."
-"Prz4,25": "Let thine eyes look right on, and let thine eyelids look straight before thee."
-"Prz4,26": "Ponder the path of thy feet, and let all thy ways be established."
-"Prz4,27": "Turn not to the right hand nor to the left: remove thy foot from evil."
+"Prz4,1":
+  text: "Hear, ye children, the instruction of a father, and attend to know understanding."
+  tags: []
+"Prz4,2":
+  text: "For I give you good doctrine, forsake ye not my law."
+  tags: []
+"Prz4,3":
+  text: "For I was my father's son, tender and only [beloved] in the sight of my mother."
+  tags: []
+"Prz4,4":
+  text: "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+  tags: []
+"Prz4,5":
+  text: "Get wisdom, get understanding: forget [it] not; neither decline from the words of my mouth."
+  tags: []
+"Prz4,6":
+  text: "Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
+  tags: []
+"Prz4,7":
+  text: "Wisdom [is] the principal thing; [therefore] get wisdom: and with all thy getting get understanding."
+  tags: []
+"Prz4,8":
+  text: "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
+  tags: []
+"Prz4,9":
+  text: "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee."
+  tags: []
+"Prz4,10":
+  text: "Hear, O my son, and receive my sayings; and the years of thy life shall be many."
+  tags: []
+"Prz4,11":
+  text: "I have taught thee in the way of wisdom; I have led thee in right paths."
+  tags: []
+"Prz4,12":
+  text: "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
+  tags: []
+"Prz4,13":
+  text: "Take fast hold of instruction; let [her] not go: keep her; for she [is] thy life."
+  tags: []
+"Prz4,14":
+  text: "Enter not into the path of the wicked, and go not in the way of evil [men]."
+  tags: []
+"Prz4,15":
+  text: "Avoid it, pass not by it, turn from it, and pass away."
+  tags: []
+"Prz4,16":
+  text: "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause [some] to fall."
+  tags: []
+"Prz4,17":
+  text: "For they eat the bread of wickedness, and drink the wine of violence."
+  tags: []
+"Prz4,18":
+  text: "But the path of the just [is] as the shining light, that shineth more and more unto the perfect day."
+  tags: []
+"Prz4,19":
+  text: "The way of the wicked [is] as darkness: they know not at what they stumble."
+  tags: []
+"Prz4,20":
+  text: "My son, attend to my words; incline thine ear unto my sayings."
+  tags: []
+"Prz4,21":
+  text: "Let them not depart from thine eyes; keep them in the midst of thine heart."
+  tags: []
+"Prz4,22":
+  text: "For they [are] life unto those that find them, and health to all their flesh."
+  tags: []
+"Prz4,23":
+  text: "Keep thy heart with all diligence; for out of it [are] the issues of life."
+  tags: []
+"Prz4,24":
+  text: "Put away from thee a froward mouth, and perverse lips put far from thee."
+  tags: []
+"Prz4,25":
+  text: "Let thine eyes look right on, and let thine eyelids look straight before thee."
+  tags: []
+"Prz4,26":
+  text: "Ponder the path of thy feet, and let all thy ways be established."
+  tags: []
+"Prz4,27":
+  text: "Turn not to the right hand nor to the left: remove thy foot from evil."
+  tags: []

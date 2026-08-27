@@ -1,26 +1,78 @@
-"Kaz2,1": "I ja powiedziałem w swoim sercu: Przyjdźże! Doświadcz siebie w radości i zakosztuj w szczęściu. Lecz to także jest marnością."
-"Kaz2,2": "O śmiechu powiedziałem: Szalejesz, a o radości: Cóż to sprawia?"
-"Kaz2,3": "Postanowiłem w sercu poddać swoje ciało działaniu wina – serce jednak wiodąc ku mądrości – i uchwycić głupoty, aż zobaczę to, co dla synów ludzkich jest dobrem, które mogą czynić pod niebem, przez liczne dni swojego życia."
-"Kaz2,4": "Dokonałem wielkich dzieł, zbudowałem sobie domy, zasadziłem sobie winnice."
-"Kaz2,5": "Założyłem sobie ogrody i parki, i posadziłem w nich wszelkiego rodzaju drzewa owocowe."
-"Kaz2,6": "Zbudowałem też sobie stawy na wodę, by nawadniać z nich las rosnących drzew."
-"Kaz2,7": "Nabyłem sługi i służące, miałem też sługi urodzone w domu. Miałem również stada wołów i owiec większe niż wszyscy, którzy byli przede mną w Jerozolimie."
-"Kaz2,8": "Zgromadziłem także sobie srebro i złoto, własność królów i prowincji. Przygotowałem sobie śpiewaków i śpiewaczki, i inne rozkosze synów ludzkich oraz liczne instrumenty muzyczne."
-"Kaz2,9": "I stałem się wielkim i uczyniłem więcej niż wszyscy, którzy byli przede mną w Jerozolimie. Co więcej, moja mądrość pozostała przy mnie."
-"Kaz2,10": "I niczego, czego domagały się moje oczy nie wzbraniałem im, nie odmawiałem swojemu sercu żadnej radości; bo moje serce radowało się z całego mojego trudu. A to był mój dział za cały mój trud."
-"Kaz2,11": "I ja skierowałem uwagę na wszystkie dzieła, jakie uczyniły moje ręce, i na trud, którym się mozoliłem dla ich wykonania, a oto wszystko to marność i utrapienie ducha i nie ma żadnego pożytku pod słońcem."
-"Kaz2,12": "I ja skierowałem uwagę, by przyjrzeć się mądrości, szaleństwu i głupocie. Bo co uczyni ten człowiek, który przyjdzie po królu? To, co uczyniono już wcześniej."
-"Kaz2,13": "I ja zobaczyłem, że mądrość jest korzystniejsza od głupoty, tak jak światłość jest korzystniejsza od ciemności."
-"Kaz2,14": "Mądry ma oczy w swojej głowie, a głupi chodzi w ciemności. I poznałem również, że ten sam los spotyka wszystkich."
-"Kaz2,15": "I ja powiedziałem sobie w sercu: Los, który spotyka głupiego, spotka również mnie. W jakim celu ja przewyższyłem go mądrością? I powiedziałem w sercu, że to także jest marnością,"
-"Kaz2,16": "Bo nie pozostanie na wieki w pamięci mądry, jak i głupi. Gdyż to, co było wcześniej, w nadchodzących dniach – wszystko to zastanie zapomniane. A jak umiera mądry? Tak jak głupi."
-"Kaz2,17": "I ja znienawidziłem życie, ponieważ przykre są dla mnie wszystkie dzieła dokonane pod słońcem. Wszystko bowiem jest marnością i utrapieniem ducha."
-"Kaz2,18": "I ja znienawidziłem cały mój trud, którym byłem utrudzony pod słońcem, który zostawiłem jemu – człowiekowi, który przyjdzie po mnie."
-"Kaz2,19": "I kto wie: Czy będzie mądry, czy głupi? A jednak będzie panował nad całym moim efektem trudu, nad jakim w mojej mądrości mozoliłem się pod słońcem. To także jest marnością."
-"Kaz2,20": "I zaczęła mnie w sercu ogarniać rozpacz z powodu całego trudu, jakim mozoliłem się pod słońcem."
-"Kaz2,21": "Gdyż jest tak, że człowiek trudzi się mądrze, umiejętnie i pomyślnie, a swój dział oddaje człowiekowi, który się w tym nie trudził. To także jest marnością i wielkim złem."
-"Kaz2,22": "Bo co ma człowiek z całego swojego trudu i dążenia swojego serca, którym trudzi się on pod słońcem?"
-"Kaz2,23": "Bo wszystkie jego dni są cierpieniem, a jego zajęcie – smutkiem; nawet w nocy jego serce nie zaznaje spokoju. To także jest marnością."
-"Kaz2,24": "Nie ma nic lepszego dla człowieka niż to, aby jadł i pił, i czynił dobrze swojej duszy w swoim trudzie. To także zobaczyłem ja, że i to pochodzi z ręki Boga."
-"Kaz2,25": "Bo kto może jeść i kto cieszyć się z dala od Niego?"
-"Kaz2,26": "Gdyż Bóg, człowiekowi, który jest dobry przed Jego obliczem, daje mądrość, wiedzę i radość. Ale grzesznikowi daje zajęcie, aby zbierał i gromadził, a potem dał to temu, który jest dobry przed obliczem Boga. To także jest marnością i utrapieniem ducha."
+"Kaz2,1":
+  text: "I ja powiedziałem w swoim sercu: Przyjdźże! Doświadcz siebie w radości i zakosztuj w szczęściu. Lecz to także jest marnością."
+  tags: []
+"Kaz2,2":
+  text: "O śmiechu powiedziałem: Szalejesz, a o radości: Cóż to sprawia?"
+  tags: []
+"Kaz2,3":
+  text: "Postanowiłem w sercu poddać swoje ciało działaniu wina – serce jednak wiodąc ku mądrości – i uchwycić głupoty, aż zobaczę to, co dla synów ludzkich jest dobrem, które mogą czynić pod niebem, przez liczne dni swojego życia."
+  tags: []
+"Kaz2,4":
+  text: "Dokonałem wielkich dzieł, zbudowałem sobie domy, zasadziłem sobie winnice."
+  tags: []
+"Kaz2,5":
+  text: "Założyłem sobie ogrody i parki, i posadziłem w nich wszelkiego rodzaju drzewa owocowe."
+  tags: []
+"Kaz2,6":
+  text: "Zbudowałem też sobie stawy na wodę, by nawadniać z nich las rosnących drzew."
+  tags: []
+"Kaz2,7":
+  text: "Nabyłem sługi i służące, miałem też sługi urodzone w domu. Miałem również stada wołów i owiec większe niż wszyscy, którzy byli przede mną w Jerozolimie."
+  tags: []
+"Kaz2,8":
+  text: "Zgromadziłem także sobie srebro i złoto, własność królów i prowincji. Przygotowałem sobie śpiewaków i śpiewaczki, i inne rozkosze synów ludzkich oraz liczne instrumenty muzyczne."
+  tags: []
+"Kaz2,9":
+  text: "I stałem się wielkim i uczyniłem więcej niż wszyscy, którzy byli przede mną w Jerozolimie. Co więcej, moja mądrość pozostała przy mnie."
+  tags: []
+"Kaz2,10":
+  text: "I niczego, czego domagały się moje oczy nie wzbraniałem im, nie odmawiałem swojemu sercu żadnej radości; bo moje serce radowało się z całego mojego trudu. A to był mój dział za cały mój trud."
+  tags: []
+"Kaz2,11":
+  text: "I ja skierowałem uwagę na wszystkie dzieła, jakie uczyniły moje ręce, i na trud, którym się mozoliłem dla ich wykonania, a oto wszystko to marność i utrapienie ducha i nie ma żadnego pożytku pod słońcem."
+  tags: []
+"Kaz2,12":
+  text: "I ja skierowałem uwagę, by przyjrzeć się mądrości, szaleństwu i głupocie. Bo co uczyni ten człowiek, który przyjdzie po królu? To, co uczyniono już wcześniej."
+  tags: []
+"Kaz2,13":
+  text: "I ja zobaczyłem, że mądrość jest korzystniejsza od głupoty, tak jak światłość jest korzystniejsza od ciemności."
+  tags: []
+"Kaz2,14":
+  text: "Mądry ma oczy w swojej głowie, a głupi chodzi w ciemności. I poznałem również, że ten sam los spotyka wszystkich."
+  tags: []
+"Kaz2,15":
+  text: "I ja powiedziałem sobie w sercu: Los, który spotyka głupiego, spotka również mnie. W jakim celu ja przewyższyłem go mądrością? I powiedziałem w sercu, że to także jest marnością,"
+  tags: []
+"Kaz2,16":
+  text: "Bo nie pozostanie na wieki w pamięci mądry, jak i głupi. Gdyż to, co było wcześniej, w nadchodzących dniach – wszystko to zastanie zapomniane. A jak umiera mądry? Tak jak głupi."
+  tags: []
+"Kaz2,17":
+  text: "I ja znienawidziłem życie, ponieważ przykre są dla mnie wszystkie dzieła dokonane pod słońcem. Wszystko bowiem jest marnością i utrapieniem ducha."
+  tags: []
+"Kaz2,18":
+  text: "I ja znienawidziłem cały mój trud, którym byłem utrudzony pod słońcem, który zostawiłem jemu – człowiekowi, który przyjdzie po mnie."
+  tags: []
+"Kaz2,19":
+  text: "I kto wie: Czy będzie mądry, czy głupi? A jednak będzie panował nad całym moim efektem trudu, nad jakim w mojej mądrości mozoliłem się pod słońcem. To także jest marnością."
+  tags: []
+"Kaz2,20":
+  text: "I zaczęła mnie w sercu ogarniać rozpacz z powodu całego trudu, jakim mozoliłem się pod słońcem."
+  tags: []
+"Kaz2,21":
+  text: "Gdyż jest tak, że człowiek trudzi się mądrze, umiejętnie i pomyślnie, a swój dział oddaje człowiekowi, który się w tym nie trudził. To także jest marnością i wielkim złem."
+  tags: []
+"Kaz2,22":
+  text: "Bo co ma człowiek z całego swojego trudu i dążenia swojego serca, którym trudzi się on pod słońcem?"
+  tags: []
+"Kaz2,23":
+  text: "Bo wszystkie jego dni są cierpieniem, a jego zajęcie – smutkiem; nawet w nocy jego serce nie zaznaje spokoju. To także jest marnością."
+  tags: []
+"Kaz2,24":
+  text: "Nie ma nic lepszego dla człowieka niż to, aby jadł i pił, i czynił dobrze swojej duszy w swoim trudzie. To także zobaczyłem ja, że i to pochodzi z ręki Boga."
+  tags: []
+"Kaz2,25":
+  text: "Bo kto może jeść i kto cieszyć się z dala od Niego?"
+  tags: []
+"Kaz2,26":
+  text: "Gdyż Bóg, człowiekowi, który jest dobry przed Jego obliczem, daje mądrość, wiedzę i radość. Ale grzesznikowi daje zajęcie, aby zbierał i gromadził, a potem dał to temu, który jest dobry przed obliczem Boga. To także jest marnością i utrapieniem ducha."
+  tags: []

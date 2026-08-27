@@ -1,30 +1,90 @@
-"Hi39,1": "Czy znasz czas, kiedy mają rodzić kozice górskie? Czy obserwujesz, kiedy rodzą łanie?"
-"Hi39,2": "Czy możesz zliczyć miesiące, aż wypełni się czas ciąży? Czy znasz czas ich porodu?"
-"Hi39,3": "Przykucają, przebijają się ich młode, bóle ich porodu zakończyły się;"
-"Hi39,4": "Ich młode wzmacniają się, rosną w polu, odchodzą i nie wracają do nich."
-"Hi39,5": "Kto wypuścił zebrę na wolność i kto rozwiązał pęta osła?"
-"Hi39,6": "Tego, któremu przeznaczyłem step na dom i słone miejsca na mieszkanie."
-"Hi39,7": "On naśmiewa się ze zgiełku miasta i nie słucha krzyku poganiacza."
-"Hi39,8": "Przemierza góry szukając pastwiska i zabiega o wszelką zieloną trawę."
-"Hi39,9": "Czy dziki bawół zechce ci służyć lub nocować przy twoim żłobie?"
-"Hi39,10": "Czy dzikiego bawołu przywiążesz jego powrozem do bruzdy? Czy będzie bronował doliny za tobą?"
-"Hi39,11": "Czy zaufasz mu, ponieważ jego siła jest wielka? I chcesz złożyć na niego swój trud?"
-"Hi39,12": "Czy zawierzysz mu, że zwiezie twoje ziarno i zgromadzi je w twoim spichlerzu?"
-"Hi39,13": "Skrzydła strusicy trzepoczą radośnie, lecz nie mogą się równać z lotką i piórem bociana?"
-"Hi39,14": "Bo składa swoje jaja na ziemię i ogrzewa je w prochu;"
-"Hi39,15": "I zapomina, że stopa może je rozgnieść, a dzikie zwierzę zdeptać."
-"Hi39,16": "Twardo postępuje ze swoimi synami, jak nie ze swoimi. Nie boi się, że jej trud jest daremny;"
-"Hi39,17": "Bo Bóg pozbawił ją mądrości i nie udzielił jej rozumu."
-"Hi39,18": "Lecz w czasie, gdy podnosi wysoko swoje skrzydła, naśmiewa się z konia i z jego jeźdźca."
-"Hi39,19": "Czy dajesz koniowi moc? Czy grzywą ozdobiłeś jego szyję?"
-"Hi39,20": "Czy możesz przestraszyć go jak szarańczę? Wigor jego rżenia wzbudza postrach."
-"Hi39,21": "Biją kopytami w ziemi i cieszy się on swoją siłą, wybiega na spotkanie oręża."
-"Hi39,22": "Śmieje się z trwogi i nie boi się, i nie ustępuje przed ostrzem miecza."
-"Hi39,23": "Kołczan na nim chrzęści, błyszczy oszczep i dzida."
-"Hi39,24": "Z tętentem i gniewem pochłania ziemię i nie ustoi spokojnie, gdy słychać głos trąby."
-"Hi39,25": "Gdy tylko słyszy trąbę rży: Haa; z daleka czuje zapach bitwy, głos dowódców i okrzyk bojowy."
-"Hi39,26": "Czy dzięki twojemu rozumowi wznosi się jastrząb i rozciąga swoje skrzydła ku południu?"
-"Hi39,27": "Czy na twój rozkaz orzeł wzbija się i umieszcza wysoko swoje gniazdo?"
-"Hi39,28": "Mieszka na skale i przebywa na iglicach skalnych i graniach."
-"Hi39,29": "Stamtąd wypatruje sobie żeru, jego oczy widzą daleko."
-"Hi39,30": "Jego młode ssą krew, a tam gdzie są przebici, tam jest i on."
+"Hi39,1":
+  text: "Czy znasz czas, kiedy mają rodzić kozice górskie? Czy obserwujesz, kiedy rodzą łanie?"
+  tags: []
+"Hi39,2":
+  text: "Czy możesz zliczyć miesiące, aż wypełni się czas ciąży? Czy znasz czas ich porodu?"
+  tags: []
+"Hi39,3":
+  text: "Przykucają, przebijają się ich młode, bóle ich porodu zakończyły się;"
+  tags: []
+"Hi39,4":
+  text: "Ich młode wzmacniają się, rosną w polu, odchodzą i nie wracają do nich."
+  tags: []
+"Hi39,5":
+  text: "Kto wypuścił zebrę na wolność i kto rozwiązał pęta osła?"
+  tags: []
+"Hi39,6":
+  text: "Tego, któremu przeznaczyłem step na dom i słone miejsca na mieszkanie."
+  tags: []
+"Hi39,7":
+  text: "On naśmiewa się ze zgiełku miasta i nie słucha krzyku poganiacza."
+  tags: []
+"Hi39,8":
+  text: "Przemierza góry szukając pastwiska i zabiega o wszelką zieloną trawę."
+  tags: []
+"Hi39,9":
+  text: "Czy dziki bawół zechce ci służyć lub nocować przy twoim żłobie?"
+  tags: []
+"Hi39,10":
+  text: "Czy dzikiego bawołu przywiążesz jego powrozem do bruzdy? Czy będzie bronował doliny za tobą?"
+  tags: []
+"Hi39,11":
+  text: "Czy zaufasz mu, ponieważ jego siła jest wielka? I chcesz złożyć na niego swój trud?"
+  tags: []
+"Hi39,12":
+  text: "Czy zawierzysz mu, że zwiezie twoje ziarno i zgromadzi je w twoim spichlerzu?"
+  tags: []
+"Hi39,13":
+  text: "Skrzydła strusicy trzepoczą radośnie, lecz nie mogą się równać z lotką i piórem bociana?"
+  tags: []
+"Hi39,14":
+  text: "Bo składa swoje jaja na ziemię i ogrzewa je w prochu;"
+  tags: []
+"Hi39,15":
+  text: "I zapomina, że stopa może je rozgnieść, a dzikie zwierzę zdeptać."
+  tags: []
+"Hi39,16":
+  text: "Twardo postępuje ze swoimi synami, jak nie ze swoimi. Nie boi się, że jej trud jest daremny;"
+  tags: []
+"Hi39,17":
+  text: "Bo Bóg pozbawił ją mądrości i nie udzielił jej rozumu."
+  tags: []
+"Hi39,18":
+  text: "Lecz w czasie, gdy podnosi wysoko swoje skrzydła, naśmiewa się z konia i z jego jeźdźca."
+  tags: []
+"Hi39,19":
+  text: "Czy dajesz koniowi moc? Czy grzywą ozdobiłeś jego szyję?"
+  tags: []
+"Hi39,20":
+  text: "Czy możesz przestraszyć go jak szarańczę? Wigor jego rżenia wzbudza postrach."
+  tags: []
+"Hi39,21":
+  text: "Biją kopytami w ziemi i cieszy się on swoją siłą, wybiega na spotkanie oręża."
+  tags: []
+"Hi39,22":
+  text: "Śmieje się z trwogi i nie boi się, i nie ustępuje przed ostrzem miecza."
+  tags: []
+"Hi39,23":
+  text: "Kołczan na nim chrzęści, błyszczy oszczep i dzida."
+  tags: []
+"Hi39,24":
+  text: "Z tętentem i gniewem pochłania ziemię i nie ustoi spokojnie, gdy słychać głos trąby."
+  tags: []
+"Hi39,25":
+  text: "Gdy tylko słyszy trąbę rży: Haa; z daleka czuje zapach bitwy, głos dowódców i okrzyk bojowy."
+  tags: []
+"Hi39,26":
+  text: "Czy dzięki twojemu rozumowi wznosi się jastrząb i rozciąga swoje skrzydła ku południu?"
+  tags: []
+"Hi39,27":
+  text: "Czy na twój rozkaz orzeł wzbija się i umieszcza wysoko swoje gniazdo?"
+  tags: []
+"Hi39,28":
+  text: "Mieszka na skale i przebywa na iglicach skalnych i graniach."
+  tags: []
+"Hi39,29":
+  text: "Stamtąd wypatruje sobie żeru, jego oczy widzą daleko."
+  tags: []
+"Hi39,30":
+  text: "Jego młode ssą krew, a tam gdzie są przebici, tam jest i on."
+  tags: []

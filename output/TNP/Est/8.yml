@@ -1,17 +1,51 @@
-"Est8,1": "Tego dnia król Achaszwerosz dał królowej Esterze dom Hamana, prześladowcy Żydów, a Mordocheusz przyszedł przed oblicze króla, gdyż Estera powiedziała mu, kim on jest dla niej."
-"Est8,2": "Zsunął też król swój pierścień, który zabrał Hamanowi i dał go Mordocheuszowi. A Estera ustanowiła Mordocheusza zarządcą nad domem Hamana."
-"Est8,3": "I mówiła jeszcze Estera przed obliczem króla. Upadła mu do stóp i płakała, i prosiła go o łaskę, aby odwrócić zło Hamana, Agagity, i jego zamiar, który powziął przeciwko Żydom."
-"Est8,4": "Wtedy król wyciągnął ku Esterze złote berło, a Estera podniosła się i stanęła przed obliczem króla."
-"Est8,5": "I powiedziała: Jeśli król uzna to za dobre, jeśli znalazłam łaskę przed jego obliczem, i jest to słowo słuszne przed obliczem króla i ja jestem miła w jego oczach, niech zostanie napisane, aby wycofać listy z planem Hamana, syna Hammedaty, Agagity, które napisał, aby wytracić Żydów, którzy są we wszystkich prowincjach królewskich."
-"Est8,6": "Bo jakże mogłabym patrzeć na to nieszczęście, które ma spotkać mój lud, i jakże mogłabym patrzeć na zgubę mojego rodu?"
-"Est8,7": "Wtedy król Achaszwerosz powiedział do królowej Estery i do Żyda Mordocheusza: Oto dałem Esterze dom Hamana, a jego powieszono na palu, za to, że podniósł rękę na Żydów."
-"Est8,8": "Napiszcie więc wy o Żydach, co uznacie za słuszne, w imieniu króla i opieczętujcie to pierścieniem króla. Bo pisma, które jest napisane w imieniu króla i zostało zapieczętowane pierścieniem króla, nie można odwołać."
-"Est8,9": "I zwołano pisarzy króla w tym czasie, trzeciego miesiąca, to jest miesiąca Siwan, dwudziestego trzeciego dnia tego miesiąca, i napisano wszystko, tak jak nakazał Mordocheusz, do Żydów, do satrapów i namiestników, i książąt prowincji, które rozciągają się od Indii i aż do Kusz, do stu i dwudziestu i siedmiu prowincji, do każdej prowincji jej pismem i do każdego ludu w jego języku, i do Żydów ich pismem i w ich języku."
-"Est8,10": "I napisał w imieniu króla Achaszwerosza, i zapieczętował pierścieniem króla, rozesłał listy przez gońców jeżdżących na koniach, na rumakach królewskich, źrebiętach klaczy;"
-"Est8,11": "Że król dał to prawo Żydom po wszystkich poszczególnych miastach, zgromadzić się i stanąć w obronie swojego życia, aby wytracić, zabić i wygubić wszystkich zbrojnych ludu i prowincji – ich wrogów, ich dzieci i kobiety, a ich mienie zabrać jako łup;"
-"Est8,12": "W jednym dniu we wszystkich prowincjach króla Achaszwerosza, trzynastego dnia dwunastego miesiąca, to jest miesiąca Adar."
-"Est8,13": "Odpis tego pisma należy podać jako zarządzenie w każdej poszczególnej prowincji i ogłosić wszystkim ludom, aby Żydzi byli gotowi na ten dzień, by zemścić się nad swoimi wrogami."
-"Est8,14": "Gońcy jeżdżący na rumakach królewskich wyruszyli pośpieszani i ponaglani słowem króla. Dekret ogłoszono także w pałacu w Suzie."
-"Est8,15": "A Mordocheusz wyszedł sprzed oblicza króla odziany w szatę królewską niebieską i białą, i w wielkiej złotej koronie, i w płaszczu z bisioru i szkarłatu. A miasto Suza weseliło i radowało się."
-"Est8,16": "Dla Żydów nastał czas światła i radości, wesela i uszanowania."
-"Est8,17": "A w każdej poszczególnej prowincji i w każdym poszczególnym mieście, w miejscu gdzie dotarło słowo króla i jego zarządzenie, wzbierała radość i wesele wśród Żydów, uczta i szczęśliwy dzień. A wielu spośród ludu tych ziem przyłączyło się do Żydów. Bo padł na nich strach przed Żydami."
+"Est8,1":
+  text: "Tego dnia król Achaszwerosz dał królowej Esterze dom Hamana, prześladowcy Żydów, a Mordocheusz przyszedł przed oblicze króla, gdyż Estera powiedziała mu, kim on jest dla niej."
+  tags: []
+"Est8,2":
+  text: "Zsunął też król swój pierścień, który zabrał Hamanowi i dał go Mordocheuszowi. A Estera ustanowiła Mordocheusza zarządcą nad domem Hamana."
+  tags: []
+"Est8,3":
+  text: "I mówiła jeszcze Estera przed obliczem króla. Upadła mu do stóp i płakała, i prosiła go o łaskę, aby odwrócić zło Hamana, Agagity, i jego zamiar, który powziął przeciwko Żydom."
+  tags: []
+"Est8,4":
+  text: "Wtedy król wyciągnął ku Esterze złote berło, a Estera podniosła się i stanęła przed obliczem króla."
+  tags: []
+"Est8,5":
+  text: "I powiedziała: Jeśli król uzna to za dobre, jeśli znalazłam łaskę przed jego obliczem, i jest to słowo słuszne przed obliczem króla i ja jestem miła w jego oczach, niech zostanie napisane, aby wycofać listy z planem Hamana, syna Hammedaty, Agagity, które napisał, aby wytracić Żydów, którzy są we wszystkich prowincjach królewskich."
+  tags: []
+"Est8,6":
+  text: "Bo jakże mogłabym patrzeć na to nieszczęście, które ma spotkać mój lud, i jakże mogłabym patrzeć na zgubę mojego rodu?"
+  tags: []
+"Est8,7":
+  text: "Wtedy król Achaszwerosz powiedział do królowej Estery i do Żyda Mordocheusza: Oto dałem Esterze dom Hamana, a jego powieszono na palu, za to, że podniósł rękę na Żydów."
+  tags: []
+"Est8,8":
+  text: "Napiszcie więc wy o Żydach, co uznacie za słuszne, w imieniu króla i opieczętujcie to pierścieniem króla. Bo pisma, które jest napisane w imieniu króla i zostało zapieczętowane pierścieniem króla, nie można odwołać."
+  tags: []
+"Est8,9":
+  text: "I zwołano pisarzy króla w tym czasie, trzeciego miesiąca, to jest miesiąca Siwan, dwudziestego trzeciego dnia tego miesiąca, i napisano wszystko, tak jak nakazał Mordocheusz, do Żydów, do satrapów i namiestników, i książąt prowincji, które rozciągają się od Indii i aż do Kusz, do stu i dwudziestu i siedmiu prowincji, do każdej prowincji jej pismem i do każdego ludu w jego języku, i do Żydów ich pismem i w ich języku."
+  tags: []
+"Est8,10":
+  text: "I napisał w imieniu króla Achaszwerosza, i zapieczętował pierścieniem króla, rozesłał listy przez gońców jeżdżących na koniach, na rumakach królewskich, źrebiętach klaczy;"
+  tags: []
+"Est8,11":
+  text: "Że król dał to prawo Żydom po wszystkich poszczególnych miastach, zgromadzić się i stanąć w obronie swojego życia, aby wytracić, zabić i wygubić wszystkich zbrojnych ludu i prowincji – ich wrogów, ich dzieci i kobiety, a ich mienie zabrać jako łup;"
+  tags: []
+"Est8,12":
+  text: "W jednym dniu we wszystkich prowincjach króla Achaszwerosza, trzynastego dnia dwunastego miesiąca, to jest miesiąca Adar."
+  tags: []
+"Est8,13":
+  text: "Odpis tego pisma należy podać jako zarządzenie w każdej poszczególnej prowincji i ogłosić wszystkim ludom, aby Żydzi byli gotowi na ten dzień, by zemścić się nad swoimi wrogami."
+  tags: []
+"Est8,14":
+  text: "Gońcy jeżdżący na rumakach królewskich wyruszyli pośpieszani i ponaglani słowem króla. Dekret ogłoszono także w pałacu w Suzie."
+  tags: []
+"Est8,15":
+  text: "A Mordocheusz wyszedł sprzed oblicza króla odziany w szatę królewską niebieską i białą, i w wielkiej złotej koronie, i w płaszczu z bisioru i szkarłatu. A miasto Suza weseliło i radowało się."
+  tags: []
+"Est8,16":
+  text: "Dla Żydów nastał czas światła i radości, wesela i uszanowania."
+  tags: []
+"Est8,17":
+  text: "A w każdej poszczególnej prowincji i w każdym poszczególnym mieście, w miejscu gdzie dotarło słowo króla i jego zarządzenie, wzbierała radość i wesele wśród Żydów, uczta i szczęśliwy dzień. A wielu spośród ludu tych ziem przyłączyło się do Żydów. Bo padł na nich strach przed Żydami."
+  tags: []

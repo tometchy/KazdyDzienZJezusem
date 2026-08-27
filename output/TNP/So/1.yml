@@ -1,18 +1,54 @@
-"So1,1": "Słowo JHWH, które stało się do Sofoniasza, syna Kusziego, syna Gedaliasza, syna Amariasza, syna Ezechiasza, za dni Jozjasza, syna Amona, króla Judy."
-"So1,2": "Na pewno zmiotę wszystko z powierzchni tej ziemi – oświadczenie JHWH."
-"So1,3": "Zmiotę człowieka i zwierzęta, zmiotę ptactwo niebios i ryby morza, i zgorszenia wraz z bezbożnymi. Wytnę człowieka z powierzchni tej ziemi, oświadczenie JHWH."
-"So1,4": "Wyciągnę swoją rękę na Judę i na wszystkich mieszkańców Jerozolimy; wytnę z tego miejsca pozostałości Baala i imiona bałwochwalczych kapłanów wraz z kapłanami;"
-"So1,5": "I tych, którzy na dachach oddają pokłon zastępom niebios; i tych, którzy oddając pokłon przysięgają na JHWH i przysięgają na Milkoma;"
-"So1,6": "I odwracających się od JHWH i tych, którzy nie szukają JHWH ani się Jego nie radzą."
-"So1,7": "Umilknij przed obliczem JHWH PANA, gdyż bliski jest dzień JHWH! JHWH bowiem przygotował ofiarę, poświęcił swoich zaproszonych."
-"So1,8": "I stanie się w dniu ofiary JHWH, że ukarzę książąt i synów króla oraz wszystkich, którzy ubierają się w szaty cudzoziemskie."
-"So1,9": "Ukarzę też w tym dniu przeskakujących przez próg, którzy napełniają domy swoich panów gwałtem i oszustwem."
-"So1,10": "I stanie się w tym dniu – oświadczenie JHWH – krzyk rozpaczy od strony Bramy Rybnej, zawodzenie od Drugiej dzielnicy miasta i wielki wyłom od strony wzgórz."
-"So1,11": "Zawódźcie, mieszkańcy Maktesz, bo będzie zniszczony cały lud Kanaanu, będą wykorzenieni wszyscy, którzy odważają srebro."
-"So1,12": "I stanie się w tym czasie, że będę przeszukiwał Jerozolimę przy świetle lamp i ukarzę mężczyzn, odrętwiałych nad fusami wina, mówiących w swoim sercu: JHWH nie uczyni dobrze ani nie uczyni źle."
-"So1,13": "I stanie się ich bogactwo łupem, a ich domy – spustoszeniem. Pobudują domy, lecz nie będą w nich mieszkać; zasadzą winnice, ale nie będą pić z nich wina."
-"So1,14": "Blisko jest wielki dzień JHWH, blisko jest i bardzo szybko nadchodzi głos dnia JHWH. Gorzko krzyczeć tam będzie mocarz."
-"So1,15": "Ten dzień będzie dniem zapalczywości, dniem utrapienia i ucisku, dniem ruiny i spustoszenia, dniem ciemności i mroku, dniem obłoku i gęstych chmur;"
-"So1,16": "Dniem trąby i trąbienia przeciwko miastom warownym i przeciwko murom wysokim."
-"So1,17": "I udręczę człowieka, i będą chodzić jak niewidomi, ponieważ zgrzeszyli przeciwko JHWH. Ich krew będzie rozlana jak proch, a ich wnętrzności – jak gnój."
-"So1,18": "Ani ich srebro, ani ich złoto nie będzie mogło ich wybawić w dniu zapalczywości JHWH, i w ogniu Jego żarliwości zostanie pożarta cała ziemia. Bo zagładę – ach jak przerażającą – sprawi wszystkim mieszkającym w tej ziemi."
+"So1,1":
+  text: "Słowo JHWH, które stało się do Sofoniasza, syna Kusziego, syna Gedaliasza, syna Amariasza, syna Ezechiasza, za dni Jozjasza, syna Amona, króla Judy."
+  tags: []
+"So1,2":
+  text: "Na pewno zmiotę wszystko z powierzchni tej ziemi – oświadczenie JHWH."
+  tags: []
+"So1,3":
+  text: "Zmiotę człowieka i zwierzęta, zmiotę ptactwo niebios i ryby morza, i zgorszenia wraz z bezbożnymi. Wytnę człowieka z powierzchni tej ziemi, oświadczenie JHWH."
+  tags: []
+"So1,4":
+  text: "Wyciągnę swoją rękę na Judę i na wszystkich mieszkańców Jerozolimy; wytnę z tego miejsca pozostałości Baala i imiona bałwochwalczych kapłanów wraz z kapłanami;"
+  tags: []
+"So1,5":
+  text: "I tych, którzy na dachach oddają pokłon zastępom niebios; i tych, którzy oddając pokłon przysięgają na JHWH i przysięgają na Milkoma;"
+  tags: []
+"So1,6":
+  text: "I odwracających się od JHWH i tych, którzy nie szukają JHWH ani się Jego nie radzą."
+  tags: []
+"So1,7":
+  text: "Umilknij przed obliczem JHWH PANA, gdyż bliski jest dzień JHWH! JHWH bowiem przygotował ofiarę, poświęcił swoich zaproszonych."
+  tags: []
+"So1,8":
+  text: "I stanie się w dniu ofiary JHWH, że ukarzę książąt i synów króla oraz wszystkich, którzy ubierają się w szaty cudzoziemskie."
+  tags: []
+"So1,9":
+  text: "Ukarzę też w tym dniu przeskakujących przez próg, którzy napełniają domy swoich panów gwałtem i oszustwem."
+  tags: []
+"So1,10":
+  text: "I stanie się w tym dniu – oświadczenie JHWH – krzyk rozpaczy od strony Bramy Rybnej, zawodzenie od Drugiej dzielnicy miasta i wielki wyłom od strony wzgórz."
+  tags: []
+"So1,11":
+  text: "Zawódźcie, mieszkańcy Maktesz, bo będzie zniszczony cały lud Kanaanu, będą wykorzenieni wszyscy, którzy odważają srebro."
+  tags: []
+"So1,12":
+  text: "I stanie się w tym czasie, że będę przeszukiwał Jerozolimę przy świetle lamp i ukarzę mężczyzn, odrętwiałych nad fusami wina, mówiących w swoim sercu: JHWH nie uczyni dobrze ani nie uczyni źle."
+  tags: []
+"So1,13":
+  text: "I stanie się ich bogactwo łupem, a ich domy – spustoszeniem. Pobudują domy, lecz nie będą w nich mieszkać; zasadzą winnice, ale nie będą pić z nich wina."
+  tags: []
+"So1,14":
+  text: "Blisko jest wielki dzień JHWH, blisko jest i bardzo szybko nadchodzi głos dnia JHWH. Gorzko krzyczeć tam będzie mocarz."
+  tags: []
+"So1,15":
+  text: "Ten dzień będzie dniem zapalczywości, dniem utrapienia i ucisku, dniem ruiny i spustoszenia, dniem ciemności i mroku, dniem obłoku i gęstych chmur;"
+  tags: []
+"So1,16":
+  text: "Dniem trąby i trąbienia przeciwko miastom warownym i przeciwko murom wysokim."
+  tags: []
+"So1,17":
+  text: "I udręczę człowieka, i będą chodzić jak niewidomi, ponieważ zgrzeszyli przeciwko JHWH. Ich krew będzie rozlana jak proch, a ich wnętrzności – jak gnój."
+  tags: []
+"So1,18":
+  text: "Ani ich srebro, ani ich złoto nie będzie mogło ich wybawić w dniu zapalczywości JHWH, i w ogniu Jego żarliwości zostanie pożarta cała ziemia. Bo zagładę – ach jak przerażającą – sprawi wszystkim mieszkającym w tej ziemi."
+  tags: []

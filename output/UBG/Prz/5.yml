@@ -1,23 +1,69 @@
-"Prz5,1": "Synu mój, zważaj na moją mądrość i nakłoń twego ucha ku mojemu rozumowi;"
-"Prz5,2": "Abyś zachował rozwagę i aby twoje wargi strzegły wiedzy."
-"Prz5,3": "Bo wargi obcej kobiety ociekają miodem, a jej usta gładsze są niż oliwa;"
-"Prz5,4": "Lecz jej koniec jest gorzki jak piołun, ostry jak miecz obosieczny."
-"Prz5,5": "Jej nogi zstępują do śmierci, jej kroki prowadzą do piekła."
-"Prz5,6": "Abyś nie rozważał ścieżki życia, jej drogi są tak niestałe, że nie poznasz ich."
-"Prz5,7": "Teraz więc, synowie, słuchajcie mnie i nie odstępujcie od słów moich ust."
-"Prz5,8": "Oddal od niej swą drogę i nie zbliżaj się do drzwi jej domu;"
-"Prz5,9": "Abyś nie oddał obcym twojej sławy, a twoich lat okrutnikowi;"
-"Prz5,10": "Aby obcy nie nasycili się twoim dobytkiem, a twój dorobek nie został w cudzym domu;"
-"Prz5,11": "I abyś nie jęczał u kresu swych dni, gdy twoja skóra i ciało będą zniszczone;"
-"Prz5,12": "I nie musiał powiedzieć: O, jakże nienawidziłem karności i moje serce gardziło upomnieniem!"
-"Prz5,13": "Nie słuchałem głosu moich wychowawców i nie nakłaniałem ucha ku tym, którzy mnie nauczali!"
-"Prz5,14": "O mało co nie wpadłem we wszelkie nieszczęście wśród zebrania i zgromadzenia."
-"Prz5,15": "Pij wodę z własnego zdroju i wody płynące z twojego źródła!"
-"Prz5,16": "Niech rozproszą się twoje źródła, a po ulicach strumienie wód."
-"Prz5,17": "Niech należą tylko do ciebie, a nie do obcych wraz z tobą."
-"Prz5,18": "Niech twój zdrój będzie błogosławiony i ciesz się żoną twojej młodości."
-"Prz5,19": "Niech będzie jak wdzięczna łania i rozkoszna sarna; niech jej piersi zawsze cię nasycają, nieustannie zachwycaj się jej miłością."
-"Prz5,20": "Dlaczego, synu mój, masz zachwycać się obcą kobietą i obejmować piersi cudzej?"
-"Prz5,21": "Gdyż drogi człowieka są przed oczami PANA i waży on wszystkie jego ścieżki."
-"Prz5,22": "Niegodziwego schwytają jego własne nieprawości i uwikła się w powrozy swego grzechu."
-"Prz5,23": "Umrze z braku karności i będzie błądził z powodu swojej wielkiej głupoty."
+"Prz5,1":
+  text: "Synu mój, zważaj na moją mądrość i nakłoń twego ucha ku mojemu rozumowi;"
+  tags: []
+"Prz5,2":
+  text: "Abyś zachował rozwagę i aby twoje wargi strzegły wiedzy."
+  tags: []
+"Prz5,3":
+  text: "Bo wargi obcej kobiety ociekają miodem, a jej usta gładsze są niż oliwa;"
+  tags: []
+"Prz5,4":
+  text: "Lecz jej koniec jest gorzki jak piołun, ostry jak miecz obosieczny."
+  tags: []
+"Prz5,5":
+  text: "Jej nogi zstępują do śmierci, jej kroki prowadzą do piekła."
+  tags: []
+"Prz5,6":
+  text: "Abyś nie rozważał ścieżki życia, jej drogi są tak niestałe, że nie poznasz ich."
+  tags: []
+"Prz5,7":
+  text: "Teraz więc, synowie, słuchajcie mnie i nie odstępujcie od słów moich ust."
+  tags: []
+"Prz5,8":
+  text: "Oddal od niej swą drogę i nie zbliżaj się do drzwi jej domu;"
+  tags: []
+"Prz5,9":
+  text: "Abyś nie oddał obcym twojej sławy, a twoich lat okrutnikowi;"
+  tags: []
+"Prz5,10":
+  text: "Aby obcy nie nasycili się twoim dobytkiem, a twój dorobek nie został w cudzym domu;"
+  tags: []
+"Prz5,11":
+  text: "I abyś nie jęczał u kresu swych dni, gdy twoja skóra i ciało będą zniszczone;"
+  tags: []
+"Prz5,12":
+  text: "I nie musiał powiedzieć: O, jakże nienawidziłem karności i moje serce gardziło upomnieniem!"
+  tags: []
+"Prz5,13":
+  text: "Nie słuchałem głosu moich wychowawców i nie nakłaniałem ucha ku tym, którzy mnie nauczali!"
+  tags: []
+"Prz5,14":
+  text: "O mało co nie wpadłem we wszelkie nieszczęście wśród zebrania i zgromadzenia."
+  tags: []
+"Prz5,15":
+  text: "Pij wodę z własnego zdroju i wody płynące z twojego źródła!"
+  tags: []
+"Prz5,16":
+  text: "Niech rozproszą się twoje źródła, a po ulicach strumienie wód."
+  tags: []
+"Prz5,17":
+  text: "Niech należą tylko do ciebie, a nie do obcych wraz z tobą."
+  tags: []
+"Prz5,18":
+  text: "Niech twój zdrój będzie błogosławiony i ciesz się żoną twojej młodości."
+  tags: []
+"Prz5,19":
+  text: "Niech będzie jak wdzięczna łania i rozkoszna sarna; niech jej piersi zawsze cię nasycają, nieustannie zachwycaj się jej miłością."
+  tags: []
+"Prz5,20":
+  text: "Dlaczego, synu mój, masz zachwycać się obcą kobietą i obejmować piersi cudzej?"
+  tags: []
+"Prz5,21":
+  text: "Gdyż drogi człowieka są przed oczami PANA i waży on wszystkie jego ścieżki."
+  tags: []
+"Prz5,22":
+  text: "Niegodziwego schwytają jego własne nieprawości i uwikła się w powrozy swego grzechu."
+  tags: []
+"Prz5,23":
+  text: "Umrze z braku karności i będzie błądził z powodu swojej wielkiej głupoty."
+  tags: []

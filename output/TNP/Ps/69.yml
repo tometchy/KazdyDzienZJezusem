@@ -1,36 +1,108 @@
-"Ps69,1": "Wybaw mnie, Boże, bo wody doszły aż do mojego gardła."
-"Ps69,2": "Grzęznę w głębokim błocie, gdzie nie ma oparcia; dostałem się w głębie wód i porywa mnie płynący strumień."
-"Ps69,3": "Zmęczyłem się wołaniem, moje gardło jest wyschnięte; słabną moje oczy, gdy czekam na mojego Boga."
-"Ps69,4": "Ci, którzy mnie nienawidzą bez przyczyny są liczniejsi niż włosy na mojej głowie; są potężni ci, którzy mnie niszczą – moi wrogowie oddani kłamstwu; muszę zwrócić to, czego nie zrabowałem."
-"Ps69,5": "Boże, Ty znasz moją głupotę, a moje grzechy nie są ukryte przed Tobą."
-"Ps69,6": "Niech nie będą zawstydzeni przeze mnie ci, którzy na Ciebie czekają, PANIE JHWH Zastępów, niech nie zostaną upokorzeni przeze mnie ci, którzy Ciebie szukają, Boże Izraela."
-"Ps69,7": "Bo dla Ciebie znoszę pogardę, hańba okrywa moją twarz."
-"Ps69,8": "Stałem się obcy dla moich braci i cudzoziemcem dla synów mojej matki;"
-"Ps69,9": "Bo gorliwość o Twój dom pożarła mnie, a drwiny lżących Ciebie spadły na mnie."
-"Ps69,10": "Gdy wypłakiwałem w poście swoją duszę, stało się to dla mnie hańbą."
-"Ps69,11": "Gdy założyłem szatę jako wór to stałem się dla nich przysłowiem."
-"Ps69,12": "Opowiadają o mnie siedzący w bramie i wyśpiewują pijący sycerę."
-"Ps69,13": "Ale ja wznoszę modlitwę do Ciebie, JHWH, w czasie Twojej łaskawości; Boże, wysłuchaj mnie według Twojego wielkiego miłosierdzia, w wierności Twojego zbawienia."
-"Ps69,14": "Wyrwij mnie z błota, abym się nie zapadł; spraw, bym został wyrwany z rąk tych, którzy mnie nienawidzą, i z wód głębokich ocal mnie."
-"Ps69,15": "Niech nie porwie mnie strumień wód i nie pochłonie głębina, a studnia niech nie zamknie nade mną swoich ust."
-"Ps69,16": "Odpowiedz mi, JHWH, bo dobre jest Twoje miłosierdzie, według Twojej wielkiej litości zwróć się ku mnie."
-"Ps69,17": "Nie zakrywaj Twojego oblicza przed swoim sługą, bo jestem w utrapieniu; śpiesznie mi odpowiedz."
-"Ps69,18": "Zbliż się do mojej duszy i wybaw ją, odkup mnie z powodu moich wrogów."
-"Ps69,19": "Ty znasz moją hańbę, mój wstyd i zniewagę, przed Tobą są wszyscy ci, którzy mnie dręczą."
-"Ps69,20": "Hańba złamała moje serce, jestem chory; oczekiwałem na współczucie, ale go nie było; i na pocieszających, ale nie znalazłem."
-"Ps69,21": "Zamiast pokarmu dali mi żółć, a w moim pragnieniu, napoili mnie octem."
-"Ps69,22": "Niech ich stół przed nimi stanie się dla nich sidłem, a ich pomyślność – pułapką."
-"Ps69,23": "Niech zaćmią się ich oczy, aby nie widzieli, i spraw, by ich biodra wciąż drżały."
-"Ps69,24": "Wylej na nich swoje oburzenie i niech dosięgnie ich żar Twojego gniewu."
-"Ps69,25": "Niech ich obozowisko będzie spustoszone, w ich namiotach niech nikt nie mieszka."
-"Ps69,26": "Bo prześladują tego, którego Ty uderzyłeś i rozpowiadają o bólu tego, którego przebiłeś."
-"Ps69,27": "Dodaj winę do ich winy i niech nie chodzą w Twojej sprawiedliwości."
-"Ps69,28": "Niech zostaną wymazani ze zwoju żyjących i niech nie będą zapisani ze sprawiedliwymi."
-"Ps69,29": "Ja natomiast jestem utrapiony i zbolały; niech Twoje zbawienie, Boże, podniesie mnie."
-"Ps69,30": "Będę chwalił imię Boga pieśnią, będę Go wywyższał dziękczynieniem."
-"Ps69,31": "I będzie to miłe dla JHWH bardziej niż wół lub cielec rogaty z rozdzielonymi kopytami."
-"Ps69,32": "To oglądają pokorni i będą się radować, ożyje serce szukających Boga."
-"Ps69,33": "JHWH bowiem wysłuchuje ubogich i nie gardzi swoimi więźniami."
-"Ps69,34": "Niech Go chwalą niebiosa i ziemia, morze i wszystko, co się w nich porusza."
-"Ps69,35": "Bóg bowiem wybawi Syjon i odbuduje miasta Judy; będą tam mieszkać i posiądą tę ziemię."
-"Ps69,36": "Także i potomstwo Jego sług obejmie ją w posiadanie i zamieszkają w niej ci, którzy miłują Jego imię."
+"Ps69,1":
+  text: "Wybaw mnie, Boże, bo wody doszły aż do mojego gardła."
+  tags: []
+"Ps69,2":
+  text: "Grzęznę w głębokim błocie, gdzie nie ma oparcia; dostałem się w głębie wód i porywa mnie płynący strumień."
+  tags: []
+"Ps69,3":
+  text: "Zmęczyłem się wołaniem, moje gardło jest wyschnięte; słabną moje oczy, gdy czekam na mojego Boga."
+  tags: []
+"Ps69,4":
+  text: "Ci, którzy mnie nienawidzą bez przyczyny są liczniejsi niż włosy na mojej głowie; są potężni ci, którzy mnie niszczą – moi wrogowie oddani kłamstwu; muszę zwrócić to, czego nie zrabowałem."
+  tags: []
+"Ps69,5":
+  text: "Boże, Ty znasz moją głupotę, a moje grzechy nie są ukryte przed Tobą."
+  tags: []
+"Ps69,6":
+  text: "Niech nie będą zawstydzeni przeze mnie ci, którzy na Ciebie czekają, PANIE JHWH Zastępów, niech nie zostaną upokorzeni przeze mnie ci, którzy Ciebie szukają, Boże Izraela."
+  tags: []
+"Ps69,7":
+  text: "Bo dla Ciebie znoszę pogardę, hańba okrywa moją twarz."
+  tags: []
+"Ps69,8":
+  text: "Stałem się obcy dla moich braci i cudzoziemcem dla synów mojej matki;"
+  tags: []
+"Ps69,9":
+  text: "Bo gorliwość o Twój dom pożarła mnie, a drwiny lżących Ciebie spadły na mnie."
+  tags: []
+"Ps69,10":
+  text: "Gdy wypłakiwałem w poście swoją duszę, stało się to dla mnie hańbą."
+  tags: []
+"Ps69,11":
+  text: "Gdy założyłem szatę jako wór to stałem się dla nich przysłowiem."
+  tags: []
+"Ps69,12":
+  text: "Opowiadają o mnie siedzący w bramie i wyśpiewują pijący sycerę."
+  tags: []
+"Ps69,13":
+  text: "Ale ja wznoszę modlitwę do Ciebie, JHWH, w czasie Twojej łaskawości; Boże, wysłuchaj mnie według Twojego wielkiego miłosierdzia, w wierności Twojego zbawienia."
+  tags: []
+"Ps69,14":
+  text: "Wyrwij mnie z błota, abym się nie zapadł; spraw, bym został wyrwany z rąk tych, którzy mnie nienawidzą, i z wód głębokich ocal mnie."
+  tags: []
+"Ps69,15":
+  text: "Niech nie porwie mnie strumień wód i nie pochłonie głębina, a studnia niech nie zamknie nade mną swoich ust."
+  tags: []
+"Ps69,16":
+  text: "Odpowiedz mi, JHWH, bo dobre jest Twoje miłosierdzie, według Twojej wielkiej litości zwróć się ku mnie."
+  tags: []
+"Ps69,17":
+  text: "Nie zakrywaj Twojego oblicza przed swoim sługą, bo jestem w utrapieniu; śpiesznie mi odpowiedz."
+  tags: []
+"Ps69,18":
+  text: "Zbliż się do mojej duszy i wybaw ją, odkup mnie z powodu moich wrogów."
+  tags: []
+"Ps69,19":
+  text: "Ty znasz moją hańbę, mój wstyd i zniewagę, przed Tobą są wszyscy ci, którzy mnie dręczą."
+  tags: []
+"Ps69,20":
+  text: "Hańba złamała moje serce, jestem chory; oczekiwałem na współczucie, ale go nie było; i na pocieszających, ale nie znalazłem."
+  tags: []
+"Ps69,21":
+  text: "Zamiast pokarmu dali mi żółć, a w moim pragnieniu, napoili mnie octem."
+  tags: []
+"Ps69,22":
+  text: "Niech ich stół przed nimi stanie się dla nich sidłem, a ich pomyślność – pułapką."
+  tags: []
+"Ps69,23":
+  text: "Niech zaćmią się ich oczy, aby nie widzieli, i spraw, by ich biodra wciąż drżały."
+  tags: []
+"Ps69,24":
+  text: "Wylej na nich swoje oburzenie i niech dosięgnie ich żar Twojego gniewu."
+  tags: []
+"Ps69,25":
+  text: "Niech ich obozowisko będzie spustoszone, w ich namiotach niech nikt nie mieszka."
+  tags: []
+"Ps69,26":
+  text: "Bo prześladują tego, którego Ty uderzyłeś i rozpowiadają o bólu tego, którego przebiłeś."
+  tags: []
+"Ps69,27":
+  text: "Dodaj winę do ich winy i niech nie chodzą w Twojej sprawiedliwości."
+  tags: []
+"Ps69,28":
+  text: "Niech zostaną wymazani ze zwoju żyjących i niech nie będą zapisani ze sprawiedliwymi."
+  tags: []
+"Ps69,29":
+  text: "Ja natomiast jestem utrapiony i zbolały; niech Twoje zbawienie, Boże, podniesie mnie."
+  tags: []
+"Ps69,30":
+  text: "Będę chwalił imię Boga pieśnią, będę Go wywyższał dziękczynieniem."
+  tags: []
+"Ps69,31":
+  text: "I będzie to miłe dla JHWH bardziej niż wół lub cielec rogaty z rozdzielonymi kopytami."
+  tags: []
+"Ps69,32":
+  text: "To oglądają pokorni i będą się radować, ożyje serce szukających Boga."
+  tags: []
+"Ps69,33":
+  text: "JHWH bowiem wysłuchuje ubogich i nie gardzi swoimi więźniami."
+  tags: []
+"Ps69,34":
+  text: "Niech Go chwalą niebiosa i ziemia, morze i wszystko, co się w nich porusza."
+  tags: []
+"Ps69,35":
+  text: "Bóg bowiem wybawi Syjon i odbuduje miasta Judy; będą tam mieszkać i posiądą tę ziemię."
+  tags: []
+"Ps69,36":
+  text: "Także i potomstwo Jego sług obejmie ją w posiadanie i zamieszkają w niej ci, którzy miłują Jego imię."
+  tags: []

@@ -1,21 +1,63 @@
-"Ob19,1": "And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:"
-"Ob19,2": "For true and righteous [are] his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand."
-"Ob19,3": "And again they said, Alleluia. And her smoke rose up for ever and ever."
-"Ob19,4": "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia."
-"Ob19,5": "And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great."
-"Ob19,6": "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth."
-"Ob19,7": "Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready."
-"Ob19,8": "And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints."
-"Ob19,9": "And he saith unto me, Write, Blessed [are] they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God."
-"Ob19,10": "And I fell at his feet to worship him. And he said unto me, See [thou do it] not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
-"Ob19,11": "And I saw heaven opened, and behold a white horse; and he that sat upon him [was] called Faithful and True, and in righteousness he doth judge and make war."
-"Ob19,12": "His eyes [were] as a flame of fire, and on his head [were] many crowns; and he had a name written, that no man knew, but he himself."
-"Ob19,13": "And he [was] clothed with a vesture dipped in blood: and his name is called The Word of God."
-"Ob19,14": "And the armies [which were] in heaven followed him upon white horses, clothed in fine linen, white and clean."
-"Ob19,15": "And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God."
-"Ob19,16": "And he hath on [his] vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS."
-"Ob19,17": "And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;"
-"Ob19,18": "That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all [men, both] free and bond, both small and great."
-"Ob19,19": "And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army."
-"Ob19,20": "And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone."
-"Ob19,21": "And the remnant were slain with the sword of him that sat upon the horse, which [sword] proceeded out of his mouth: and all the fowls were filled with their flesh."
+"Ob19,1":
+  text: "And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:"
+  tags: []
+"Ob19,2":
+  text: "For true and righteous [are] his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand."
+  tags: []
+"Ob19,3":
+  text: "And again they said, Alleluia. And her smoke rose up for ever and ever."
+  tags: []
+"Ob19,4":
+  text: "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia."
+  tags: []
+"Ob19,5":
+  text: "And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great."
+  tags: []
+"Ob19,6":
+  text: "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth."
+  tags: []
+"Ob19,7":
+  text: "Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready."
+  tags: []
+"Ob19,8":
+  text: "And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints."
+  tags: []
+"Ob19,9":
+  text: "And he saith unto me, Write, Blessed [are] they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God."
+  tags: []
+"Ob19,10":
+  text: "And I fell at his feet to worship him. And he said unto me, See [thou do it] not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
+  tags: []
+"Ob19,11":
+  text: "And I saw heaven opened, and behold a white horse; and he that sat upon him [was] called Faithful and True, and in righteousness he doth judge and make war."
+  tags: []
+"Ob19,12":
+  text: "His eyes [were] as a flame of fire, and on his head [were] many crowns; and he had a name written, that no man knew, but he himself."
+  tags: []
+"Ob19,13":
+  text: "And he [was] clothed with a vesture dipped in blood: and his name is called The Word of God."
+  tags: []
+"Ob19,14":
+  text: "And the armies [which were] in heaven followed him upon white horses, clothed in fine linen, white and clean."
+  tags: []
+"Ob19,15":
+  text: "And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God."
+  tags: []
+"Ob19,16":
+  text: "And he hath on [his] vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS."
+  tags: []
+"Ob19,17":
+  text: "And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;"
+  tags: []
+"Ob19,18":
+  text: "That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all [men, both] free and bond, both small and great."
+  tags: []
+"Ob19,19":
+  text: "And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army."
+  tags: []
+"Ob19,20":
+  text: "And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone."
+  tags: []
+"Ob19,21":
+  text: "And the remnant were slain with the sword of him that sat upon the horse, which [sword] proceeded out of his mouth: and all the fowls were filled with their flesh."
+  tags: []

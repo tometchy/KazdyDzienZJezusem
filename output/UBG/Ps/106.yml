@@ -1,48 +1,144 @@
-"Ps106,1": "Alleluja. Wysławiajcie PANA, bo jest dobry, bo jego miłosierdzie trwa na wieki."
-"Ps106,2": "Któż wypowie wielkie dzieła PANA i ogłosi całą jego chwałę?"
-"Ps106,3": "Błogosławieni, którzy strzegą sądu i czynią sprawiedliwość w każdym czasie."
-"Ps106,4": "Pamiętaj o mnie, PANIE, przez miłość do swego ludu; nawiedź mnie swoim zbawieniem;"
-"Ps106,5": "Abym widział szczęście twoich wybranych, cieszył się radością twego narodu i chlubił się razem z twoim dziedzictwem."
-"Ps106,6": "Zgrzeszyliśmy wraz z naszymi ojcami, popełniliśmy nieprawość i postąpiliśmy niegodziwie."
-"Ps106,7": "Nasi ojcowie w Egipcie nie zrozumieli twoich cudów, nie pamiętali wielkości twego miłosierdzia, lecz buntowali się nad Morzem Czerwonym."
-"Ps106,8": "A jednak ich wybawił przez wzgląd na swoje imię, aby okazać swą moc."
-"Ps106,9": "Zgromił Morze Czerwone i wyschło; i przeprowadził ich przez głębiny jak przez pustynię."
-"Ps106,10": "Tak wybawił ich z ręki tego, który ich nienawidził, i odkupił ich z ręki wroga."
-"Ps106,11": "Wody okryły ich ciemięzców, nie został ani jeden z nich."
-"Ps106,12": "Wtedy uwierzyli jego słowom i śpiewali na jego chwałę."
-"Ps106,13": "Szybko jednak zapomnieli o jego dziełach, nie czekali na jego rady."
-"Ps106,14": "Pałali żądzą na pustyni, na próbę wystawiali Boga na pustkowiu."
-"Ps106,15": "I dał im, czego żądali, lecz zesłał na ich dusze wycieńczenie."
-"Ps106,16": "Gdy w obozie zazdrościli Mojżeszowi i Aaronowi, świętemu PANA;"
-"Ps106,17": "Otworzyła się ziemia i pochłonęła Datana, i zakryła zgromadzenie Abirama;"
-"Ps106,18": "I zapłonął ogień w tym zgromadzeniu, płomień spalił niegodziwych."
-"Ps106,19": "Zrobili cielca na Horebie i odlanemu posągowi oddali pokłon;"
-"Ps106,20": "I zamienili swą chwałę na podobieństwo wołu jedzącego trawę."
-"Ps106,21": "Zapomnieli o Bogu, swoim wybawcy, który dokonywał wielkich czynów w Egipcie;"
-"Ps106,22": "Cudownych dzieł w ziemi Chama, rzeczy strasznych nad Morzem Czerwonym."
-"Ps106,23": "Dlatego powiedział, że wytraciłby ich, gdyby Mojżesz, jego wybrany, nie stanął w wyłomie przed nim, aby odwrócić jego gniew, by ich nie wytracił."
-"Ps106,24": "Wzgardzili też wspaniałą ziemią, nie wierząc jego słowu."
-"Ps106,25": "I szemrząc w swoich namiotach, nie byli posłuszni głosowi PANA."
-"Ps106,26": "Dlatego podniósł na nich swoją rękę, aby ich wytracić na pustyni;"
-"Ps106,27": "Aby ich potomstwo rozrzucić wśród pogan i rozproszyć ich po ziemiach."
-"Ps106,28": "Przyłączyli się też do Baal-Peor i jedli ofiary składane umarłym."
-"Ps106,29": "Tak pobudzili Boga do gniewu swymi postępkami, że spadła na nich plaga;"
-"Ps106,30": "Wtedy powstał Pinchas, dokonał sądu i plaga ustała."
-"Ps106,31": "Poczytano mu to za sprawiedliwość po wszystkie pokolenia, na wieki."
-"Ps106,32": "Rozgniewali go znowu u wód Meriba, tak że Mojżesz wiele ucierpiał z ich powodu;"
-"Ps106,33": "Rozdrażnili bowiem jego ducha i mówił nierozważnie swymi ustami."
-"Ps106,34": "Nie wytępili narodów, jak im to PAN nakazał."
-"Ps106,35": "Lecz zmieszali się z tymi narodami i nauczyli się ich czynów;"
-"Ps106,36": "I służyli ich bożkom, które stały się dla nich pułapką."
-"Ps106,37": "Ofiarowali bowiem demonom swoich synów i swoje córki;"
-"Ps106,38": "I przelewali krew niewinną, krew swoich synów i córek, których ofiarowali bożkom Kanaanu, i ziemia została skalana rozlewem krwi."
-"Ps106,39": "Splamili się swymi czynami i cudzołożyli swymi postępkami."
-"Ps106,40": "Dlatego PAN zapłonął gniewem przeciw swemu ludowi, tak że obrzydził sobie swoje dziedzictwo."
-"Ps106,41": "I wydał ich w ręce pogan, i panowali nad nimi ci, którzy ich nienawidzili."
-"Ps106,42": "I uciskali ich wrogowie, ujarzmili ich swoją ręką."
-"Ps106,43": "Wielokrotnie ich ocalał, lecz oni rozgniewali go swymi zamysłami i zostali upokorzeni przez swoje nieprawości."
-"Ps106,44": "A jednak wejrzał na ich ucisk i usłyszał ich wołanie."
-"Ps106,45": "Przypomniał sobie bowiem o swoim przymierzu z nimi i pożałował według swej wielkiej litości."
-"Ps106,46": "Wzbudził też litość dla nich u wszystkich, którzy ich uprowadzili w niewolę."
-"Ps106,47": "Wybaw nas, PANIE, nasz Boże, i zgromadź nas spośród pogan, abyśmy wysławiali twoje święte imię i chlubili się twoją chwałą."
-"Ps106,48": "Błogosławiony PAN, Bóg Izraela, od wieków na wieki; niech cały lud powie: Amen. Alleluja."
+"Ps106,1":
+  text: "Alleluja. Wysławiajcie PANA, bo jest dobry, bo jego miłosierdzie trwa na wieki."
+  tags: []
+"Ps106,2":
+  text: "Któż wypowie wielkie dzieła PANA i ogłosi całą jego chwałę?"
+  tags: []
+"Ps106,3":
+  text: "Błogosławieni, którzy strzegą sądu i czynią sprawiedliwość w każdym czasie."
+  tags: []
+"Ps106,4":
+  text: "Pamiętaj o mnie, PANIE, przez miłość do swego ludu; nawiedź mnie swoim zbawieniem;"
+  tags: []
+"Ps106,5":
+  text: "Abym widział szczęście twoich wybranych, cieszył się radością twego narodu i chlubił się razem z twoim dziedzictwem."
+  tags: []
+"Ps106,6":
+  text: "Zgrzeszyliśmy wraz z naszymi ojcami, popełniliśmy nieprawość i postąpiliśmy niegodziwie."
+  tags: []
+"Ps106,7":
+  text: "Nasi ojcowie w Egipcie nie zrozumieli twoich cudów, nie pamiętali wielkości twego miłosierdzia, lecz buntowali się nad Morzem Czerwonym."
+  tags: []
+"Ps106,8":
+  text: "A jednak ich wybawił przez wzgląd na swoje imię, aby okazać swą moc."
+  tags: []
+"Ps106,9":
+  text: "Zgromił Morze Czerwone i wyschło; i przeprowadził ich przez głębiny jak przez pustynię."
+  tags: []
+"Ps106,10":
+  text: "Tak wybawił ich z ręki tego, który ich nienawidził, i odkupił ich z ręki wroga."
+  tags: []
+"Ps106,11":
+  text: "Wody okryły ich ciemięzców, nie został ani jeden z nich."
+  tags: []
+"Ps106,12":
+  text: "Wtedy uwierzyli jego słowom i śpiewali na jego chwałę."
+  tags: []
+"Ps106,13":
+  text: "Szybko jednak zapomnieli o jego dziełach, nie czekali na jego rady."
+  tags: []
+"Ps106,14":
+  text: "Pałali żądzą na pustyni, na próbę wystawiali Boga na pustkowiu."
+  tags: []
+"Ps106,15":
+  text: "I dał im, czego żądali, lecz zesłał na ich dusze wycieńczenie."
+  tags: []
+"Ps106,16":
+  text: "Gdy w obozie zazdrościli Mojżeszowi i Aaronowi, świętemu PANA;"
+  tags: []
+"Ps106,17":
+  text: "Otworzyła się ziemia i pochłonęła Datana, i zakryła zgromadzenie Abirama;"
+  tags: []
+"Ps106,18":
+  text: "I zapłonął ogień w tym zgromadzeniu, płomień spalił niegodziwych."
+  tags: []
+"Ps106,19":
+  text: "Zrobili cielca na Horebie i odlanemu posągowi oddali pokłon;"
+  tags: []
+"Ps106,20":
+  text: "I zamienili swą chwałę na podobieństwo wołu jedzącego trawę."
+  tags: []
+"Ps106,21":
+  text: "Zapomnieli o Bogu, swoim wybawcy, który dokonywał wielkich czynów w Egipcie;"
+  tags: []
+"Ps106,22":
+  text: "Cudownych dzieł w ziemi Chama, rzeczy strasznych nad Morzem Czerwonym."
+  tags: []
+"Ps106,23":
+  text: "Dlatego powiedział, że wytraciłby ich, gdyby Mojżesz, jego wybrany, nie stanął w wyłomie przed nim, aby odwrócić jego gniew, by ich nie wytracił."
+  tags: []
+"Ps106,24":
+  text: "Wzgardzili też wspaniałą ziemią, nie wierząc jego słowu."
+  tags: []
+"Ps106,25":
+  text: "I szemrząc w swoich namiotach, nie byli posłuszni głosowi PANA."
+  tags: []
+"Ps106,26":
+  text: "Dlatego podniósł na nich swoją rękę, aby ich wytracić na pustyni;"
+  tags: []
+"Ps106,27":
+  text: "Aby ich potomstwo rozrzucić wśród pogan i rozproszyć ich po ziemiach."
+  tags: []
+"Ps106,28":
+  text: "Przyłączyli się też do Baal-Peor i jedli ofiary składane umarłym."
+  tags: []
+"Ps106,29":
+  text: "Tak pobudzili Boga do gniewu swymi postępkami, że spadła na nich plaga;"
+  tags: []
+"Ps106,30":
+  text: "Wtedy powstał Pinchas, dokonał sądu i plaga ustała."
+  tags: []
+"Ps106,31":
+  text: "Poczytano mu to za sprawiedliwość po wszystkie pokolenia, na wieki."
+  tags: []
+"Ps106,32":
+  text: "Rozgniewali go znowu u wód Meriba, tak że Mojżesz wiele ucierpiał z ich powodu;"
+  tags: []
+"Ps106,33":
+  text: "Rozdrażnili bowiem jego ducha i mówił nierozważnie swymi ustami."
+  tags: []
+"Ps106,34":
+  text: "Nie wytępili narodów, jak im to PAN nakazał."
+  tags: []
+"Ps106,35":
+  text: "Lecz zmieszali się z tymi narodami i nauczyli się ich czynów;"
+  tags: []
+"Ps106,36":
+  text: "I służyli ich bożkom, które stały się dla nich pułapką."
+  tags: []
+"Ps106,37":
+  text: "Ofiarowali bowiem demonom swoich synów i swoje córki;"
+  tags: []
+"Ps106,38":
+  text: "I przelewali krew niewinną, krew swoich synów i córek, których ofiarowali bożkom Kanaanu, i ziemia została skalana rozlewem krwi."
+  tags: []
+"Ps106,39":
+  text: "Splamili się swymi czynami i cudzołożyli swymi postępkami."
+  tags: []
+"Ps106,40":
+  text: "Dlatego PAN zapłonął gniewem przeciw swemu ludowi, tak że obrzydził sobie swoje dziedzictwo."
+  tags: []
+"Ps106,41":
+  text: "I wydał ich w ręce pogan, i panowali nad nimi ci, którzy ich nienawidzili."
+  tags: []
+"Ps106,42":
+  text: "I uciskali ich wrogowie, ujarzmili ich swoją ręką."
+  tags: []
+"Ps106,43":
+  text: "Wielokrotnie ich ocalał, lecz oni rozgniewali go swymi zamysłami i zostali upokorzeni przez swoje nieprawości."
+  tags: []
+"Ps106,44":
+  text: "A jednak wejrzał na ich ucisk i usłyszał ich wołanie."
+  tags: []
+"Ps106,45":
+  text: "Przypomniał sobie bowiem o swoim przymierzu z nimi i pożałował według swej wielkiej litości."
+  tags: []
+"Ps106,46":
+  text: "Wzbudził też litość dla nich u wszystkich, którzy ich uprowadzili w niewolę."
+  tags: []
+"Ps106,47":
+  text: "Wybaw nas, PANIE, nasz Boże, i zgromadź nas spośród pogan, abyśmy wysławiali twoje święte imię i chlubili się twoją chwałą."
+  tags: []
+"Ps106,48":
+  text: "Błogosławiony PAN, Bóg Izraela, od wieków na wieki; niech cały lud powie: Amen. Alleluja."
+  tags: []

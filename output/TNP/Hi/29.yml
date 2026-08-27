@@ -1,25 +1,75 @@
-"Hi29,1": "I Hiob ciągnął dalej swoją przypowieść, i rzekł:"
-"Hi29,2": "Kto da mi, abym był taki jak za wcześniejszych miesięcy, jak za dni, w których Bóg mnie strzegł;"
-"Hi29,3": "Gdy Jego pochodnia świeciła mi nad moją głową, w Jego świetle chodziłem w ciemności;"
-"Hi29,4": "Taki, jaki byłem w dniach mojej dojrzałości, gdy Bóg w przyjaźni pozostawał nad moim namiotem;"
-"Hi29,5": "Gdy Wszechmogący był jeszcze ze mną i otoczeniem moim były moje dzieci;"
-"Hi29,6": "Gdy moje ścieżki opływały w masło, a opoka wylewała dla mnie strumienie oliwy;"
-"Hi29,7": "Gdy wychodziłem do bramy nad miastem i na rynku przygotowałem sobie miejsce."
-"Hi29,8": "Widzieli mnie młodzieńcy i milkli, a starcy podnosili się i stali."
-"Hi29,9": "Książęta powstrzymywali się w swoich mowach i kładli dłoń na swoich ustach."
-"Hi29,10": "Głos dostojników milknął, a ich język przylegał im do podniebienia."
-"Hi29,11": "Tak! Ucho, które mnie słyszało, nazywało mnie szczęśliwym, także oko widziało i świadczyło o mnie dobrze;"
-"Hi29,12": "Bo wybawiałem ubogiego, gdy wołał o pomoc i sierotę, i tego, kto nie miał pomocnika."
-"Hi29,13": "Błogosławieństwo ginącego przychodziło do mnie, a serce wdowy rozweselałem."
-"Hi29,14": "Przyoblekłem się w sprawiedliwość i okrywała mnie, moja prawość była niczym płaszcz i zawój na głowie."
-"Hi29,15": "Byłem oczami dla ślepego i nogami dla chromego."
-"Hi29,16": "To ja byłem ojcem dla potrzebujących, a sporną sprawę tego, którego nie znałem – badałem."
-"Hi29,17": "I roztrzaskałem kły niegodziwego, a z jego zębów wydzierałem łup."
-"Hi29,18": "I mówiłem: Odejdę z moim gniazdem i jak piasku namnożę moje dni."
-"Hi29,19": "Mój korzeń otwiera się ku wodzie, a rosa nocuje na moich gałązkach."
-"Hi29,20": "Moja godność pozostanie świeża ze mną, a mój łuk odnowi się w mojej ręce."
-"Hi29,21": "Słuchano mnie i czekano na mnie, i milczeli w oczekiwaniu na moją radę."
-"Hi29,22": "Po moim słowie już nic nie zmieniano, moja mowa skapywała na nich."
-"Hi29,23": "Oczekiwali na mnie jak na deszcz, otwierali swe usta jak na późny deszcz."
-"Hi29,24": "Uśmiechałem się do nich, jednak nie wierzyli, lecz światła mojego oblicza nie odrzucali."
-"Hi29,25": "Wybierałem im drogę i siadałem na czele, a także przybywałem jak król pośród zastępu, jak ten, który pociesza żałobników."
+"Hi29,1":
+  text: "I Hiob ciągnął dalej swoją przypowieść, i rzekł:"
+  tags: []
+"Hi29,2":
+  text: "Kto da mi, abym był taki jak za wcześniejszych miesięcy, jak za dni, w których Bóg mnie strzegł;"
+  tags: []
+"Hi29,3":
+  text: "Gdy Jego pochodnia świeciła mi nad moją głową, w Jego świetle chodziłem w ciemności;"
+  tags: []
+"Hi29,4":
+  text: "Taki, jaki byłem w dniach mojej dojrzałości, gdy Bóg w przyjaźni pozostawał nad moim namiotem;"
+  tags: []
+"Hi29,5":
+  text: "Gdy Wszechmogący był jeszcze ze mną i otoczeniem moim były moje dzieci;"
+  tags: []
+"Hi29,6":
+  text: "Gdy moje ścieżki opływały w masło, a opoka wylewała dla mnie strumienie oliwy;"
+  tags: []
+"Hi29,7":
+  text: "Gdy wychodziłem do bramy nad miastem i na rynku przygotowałem sobie miejsce."
+  tags: []
+"Hi29,8":
+  text: "Widzieli mnie młodzieńcy i milkli, a starcy podnosili się i stali."
+  tags: []
+"Hi29,9":
+  text: "Książęta powstrzymywali się w swoich mowach i kładli dłoń na swoich ustach."
+  tags: []
+"Hi29,10":
+  text: "Głos dostojników milknął, a ich język przylegał im do podniebienia."
+  tags: []
+"Hi29,11":
+  text: "Tak! Ucho, które mnie słyszało, nazywało mnie szczęśliwym, także oko widziało i świadczyło o mnie dobrze;"
+  tags: []
+"Hi29,12":
+  text: "Bo wybawiałem ubogiego, gdy wołał o pomoc i sierotę, i tego, kto nie miał pomocnika."
+  tags: []
+"Hi29,13":
+  text: "Błogosławieństwo ginącego przychodziło do mnie, a serce wdowy rozweselałem."
+  tags: []
+"Hi29,14":
+  text: "Przyoblekłem się w sprawiedliwość i okrywała mnie, moja prawość była niczym płaszcz i zawój na głowie."
+  tags: []
+"Hi29,15":
+  text: "Byłem oczami dla ślepego i nogami dla chromego."
+  tags: []
+"Hi29,16":
+  text: "To ja byłem ojcem dla potrzebujących, a sporną sprawę tego, którego nie znałem – badałem."
+  tags: []
+"Hi29,17":
+  text: "I roztrzaskałem kły niegodziwego, a z jego zębów wydzierałem łup."
+  tags: []
+"Hi29,18":
+  text: "I mówiłem: Odejdę z moim gniazdem i jak piasku namnożę moje dni."
+  tags: []
+"Hi29,19":
+  text: "Mój korzeń otwiera się ku wodzie, a rosa nocuje na moich gałązkach."
+  tags: []
+"Hi29,20":
+  text: "Moja godność pozostanie świeża ze mną, a mój łuk odnowi się w mojej ręce."
+  tags: []
+"Hi29,21":
+  text: "Słuchano mnie i czekano na mnie, i milczeli w oczekiwaniu na moją radę."
+  tags: []
+"Hi29,22":
+  text: "Po moim słowie już nic nie zmieniano, moja mowa skapywała na nich."
+  tags: []
+"Hi29,23":
+  text: "Oczekiwali na mnie jak na deszcz, otwierali swe usta jak na późny deszcz."
+  tags: []
+"Hi29,24":
+  text: "Uśmiechałem się do nich, jednak nie wierzyli, lecz światła mojego oblicza nie odrzucali."
+  tags: []
+"Hi29,25":
+  text: "Wybierałem im drogę i siadałem na czele, a także przybywałem jak król pośród zastępu, jak ten, który pociesza żałobników."
+  tags: []

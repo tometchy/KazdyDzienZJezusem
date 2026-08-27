@@ -1,7 +1,21 @@
-"Ps120,1": "Wołałem do PANA w swoim utrapieniu i wysłuchał mnie."
-"Ps120,2": "Ocal, PANIE, moją duszę od warg kłamliwych i od zdradliwego języka."
-"Ps120,3": "Cóż będzie ci dane albo co się stanie z tobą, zdradliwy języku?"
-"Ps120,4": "Ostre strzały mocarza i węgle z jałowca."
-"Ps120,5": "Biada mi, że przebywam w Meszek i mieszkam w namiotach Kedaru."
-"Ps120,6": "Moja dusza długo mieszka z tymi, którzy nienawidzą pokoju."
-"Ps120,7": "Ja jestem za pokojem, ale gdy o tym mówię, oni są za wojną."
+"Ps120,1":
+  text: "Wołałem do PANA w swoim utrapieniu i wysłuchał mnie."
+  tags: []
+"Ps120,2":
+  text: "Ocal, PANIE, moją duszę od warg kłamliwych i od zdradliwego języka."
+  tags: []
+"Ps120,3":
+  text: "Cóż będzie ci dane albo co się stanie z tobą, zdradliwy języku?"
+  tags: []
+"Ps120,4":
+  text: "Ostre strzały mocarza i węgle z jałowca."
+  tags: []
+"Ps120,5":
+  text: "Biada mi, że przebywam w Meszek i mieszkam w namiotach Kedaru."
+  tags: []
+"Ps120,6":
+  text: "Moja dusza długo mieszka z tymi, którzy nienawidzą pokoju."
+  tags: []
+"Ps120,7":
+  text: "Ja jestem za pokojem, ale gdy o tym mówię, oni są za wojną."
+  tags: []

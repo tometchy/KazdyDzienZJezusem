@@ -1,16 +1,48 @@
-"Pnp4,1": "O jaka ty jesteś piękna, moja umiłowana! O jaka ty jesteś piękna! Twoje oczy między twymi kędziorkami są jak oczy gołębicy; twoje włosy są jak stado kóz, które widać na górze Gileadu."
-"Pnp4,2": "Twoje zęby są jak stado strzyżonych owiec, gdy wychodzą z kąpieli; wszystkie mają bliźnięta i nie ma żadnej niepłodnej wśród nich."
-"Pnp4,3": "Twoje wargi są jak nić purpurowa, a twoja wymowa pełna wdzięku. Twoje skronie są jak połówki granatu między twymi kędziorkami."
-"Pnp4,4": "Twoja szyja jest jak wieża Dawida, zbudowana na zbrojownię, na której tysiąc puklerzy zawieszono, wszystko to tarcze dzielnych wojowników."
-"Pnp4,5": "Twoje piersi są jak dwoje bliźniaczych sarniąt, które pasą się między liliami."
-"Pnp4,6": "Nim zaświta dzień i znikną cienie, wejdę na górę mirry i na pagórek kadzidła."
-"Pnp4,7": "Cała jesteś piękna, moja umiłowana, i nie ma w tobie żadnej skazy."
-"Pnp4,8": "Przyjdź ze mną z Libanu, moja oblubienico, przyjdź ze mną z Libanu. Spójrz ze szczytu góry Amana, ze szczytu góry Senir i Hermon, z jaskiń lwów i z gór lampartów."
-"Pnp4,9": "Zachwyciłaś moje serce, moja siostro, moja oblubienico! Zachwyciłaś moje serce jednym twoim okiem i jednym łańcuszkiem na twojej szyi."
-"Pnp4,10": "Jakże piękna jest twoja miłość, moja siostro, moja oblubienico! Jak daleko lepsza jest twoja miłość od wina, a woń twoich olejków od wszystkich innych wonności!"
-"Pnp4,11": "Z twoich warg ocieka miód jak z plastrów, moja oblubienico! Miód i mleko pod twoim językiem, a woń twoich szat jest jak woń Libanu."
-"Pnp4,12": "Jesteś zamkniętym ogrodem, moja siostro, moja oblubienico; źródłem zamkniętym, zdrojem zapieczętowanym."
-"Pnp4,13": "Twoje pędy to sad drzew granatu z wybornym owocem cyprysu i nardu;"
-"Pnp4,14": "Nard i szafran, tatarak i cynamon, ze wszelkimi drzewami, kadzidło, mirra i aloes, ze wszelkimi wybornymi wonnościami."
-"Pnp4,15": "Źródło ogrodów, zdrój żywych wód, które płyną z Libanu!"
-"Pnp4,16": "Powstań, wietrze północny, i przyjdź, wietrze z południa, powiej przez mój ogród, by się rozpłynęły jego wonności. Niech przyjdzie mój umiłowany do swego ogrodu i niech je swoje rozkoszne owoce."
+"Pnp4,1":
+  text: "O jaka ty jesteś piękna, moja umiłowana! O jaka ty jesteś piękna! Twoje oczy między twymi kędziorkami są jak oczy gołębicy; twoje włosy są jak stado kóz, które widać na górze Gileadu."
+  tags: []
+"Pnp4,2":
+  text: "Twoje zęby są jak stado strzyżonych owiec, gdy wychodzą z kąpieli; wszystkie mają bliźnięta i nie ma żadnej niepłodnej wśród nich."
+  tags: []
+"Pnp4,3":
+  text: "Twoje wargi są jak nić purpurowa, a twoja wymowa pełna wdzięku. Twoje skronie są jak połówki granatu między twymi kędziorkami."
+  tags: []
+"Pnp4,4":
+  text: "Twoja szyja jest jak wieża Dawida, zbudowana na zbrojownię, na której tysiąc puklerzy zawieszono, wszystko to tarcze dzielnych wojowników."
+  tags: []
+"Pnp4,5":
+  text: "Twoje piersi są jak dwoje bliźniaczych sarniąt, które pasą się między liliami."
+  tags: []
+"Pnp4,6":
+  text: "Nim zaświta dzień i znikną cienie, wejdę na górę mirry i na pagórek kadzidła."
+  tags: []
+"Pnp4,7":
+  text: "Cała jesteś piękna, moja umiłowana, i nie ma w tobie żadnej skazy."
+  tags: []
+"Pnp4,8":
+  text: "Przyjdź ze mną z Libanu, moja oblubienico, przyjdź ze mną z Libanu. Spójrz ze szczytu góry Amana, ze szczytu góry Senir i Hermon, z jaskiń lwów i z gór lampartów."
+  tags: []
+"Pnp4,9":
+  text: "Zachwyciłaś moje serce, moja siostro, moja oblubienico! Zachwyciłaś moje serce jednym twoim okiem i jednym łańcuszkiem na twojej szyi."
+  tags: []
+"Pnp4,10":
+  text: "Jakże piękna jest twoja miłość, moja siostro, moja oblubienico! Jak daleko lepsza jest twoja miłość od wina, a woń twoich olejków od wszystkich innych wonności!"
+  tags: []
+"Pnp4,11":
+  text: "Z twoich warg ocieka miód jak z plastrów, moja oblubienico! Miód i mleko pod twoim językiem, a woń twoich szat jest jak woń Libanu."
+  tags: []
+"Pnp4,12":
+  text: "Jesteś zamkniętym ogrodem, moja siostro, moja oblubienico; źródłem zamkniętym, zdrojem zapieczętowanym."
+  tags: []
+"Pnp4,13":
+  text: "Twoje pędy to sad drzew granatu z wybornym owocem cyprysu i nardu;"
+  tags: []
+"Pnp4,14":
+  text: "Nard i szafran, tatarak i cynamon, ze wszelkimi drzewami, kadzidło, mirra i aloes, ze wszelkimi wybornymi wonnościami."
+  tags: []
+"Pnp4,15":
+  text: "Źródło ogrodów, zdrój żywych wód, które płyną z Libanu!"
+  tags: []
+"Pnp4,16":
+  text: "Powstań, wietrze północny, i przyjdź, wietrze z południa, powiej przez mój ogród, by się rozpłynęły jego wonności. Niech przyjdzie mój umiłowany do swego ogrodu i niech je swoje rozkoszne owoce."
+  tags: []

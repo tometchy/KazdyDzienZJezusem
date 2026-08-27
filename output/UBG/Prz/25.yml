@@ -1,28 +1,84 @@
-"Prz25,1": "To również są przysłowia Salomona, które przepisali mężowie Ezechiasza, króla Judy."
-"Prz25,2": "Chwałą Boga jest sprawę taić, ale chwałą królów – dociekać sprawy."
-"Prz25,3": "Wysokość niebios i głębia ziemi, i serca królów są niezbadane."
-"Prz25,4": "Usuń żużel ze srebra, a wyjdzie naczynie dla złotnika."
-"Prz25,5": "Usuń niegodziwego sprzed króla, a jego tron umocni się w sprawiedliwości."
-"Prz25,6": "Nie wywyższaj się przed królem i nie stawaj na miejscu wielkich;"
-"Prz25,7": "Bo lepiej, żeby ci powiedziano: Podejdź tu, niż żeby cię poniżono przed księciem, którego twoje oczy widziały."
-"Prz25,8": "Nie spiesz się do kłótni, bo na końcu nie będziesz wiedział, co zrobić, gdy cię zawstydzi twój bliźni."
-"Prz25,9": "Załatw sprawę ze swoim bliźnim i nie zdradzaj tajemnicy drugiemu;"
-"Prz25,10": "By ten, który słucha, nie zawstydził cię, a twoja niesława nie przylgnęła do ciebie."
-"Prz25,11": "Odpowiednio wypowiedziane słowo jest jak złote jabłko w srebrnych rzeźbach."
-"Prz25,12": "Jak złoty kolczyk i klejnot ze szczerego złota tak jest dla uszu posłusznego ten, który mądrze strofuje."
-"Prz25,13": "Czym chłód śniegu w czasie żniwa, tym wierny posłaniec dla tych, którzy go posyłają, bo pokrzepia dusze swych panów."
-"Prz25,14": "Człowiek, który się chlubi zmyślonym darem, jest jak chmury i wiatr bez deszczu."
-"Prz25,15": "Cierpliwością można przekonać władcę, a łagodny język łamie kości."
-"Prz25,16": "Czy znalazłeś miód? Zjedz tyle, ile trzeba, byś objadłszy się, nie zwrócił go."
-"Prz25,17": "Oddal nogę od domu bliźniego, by nie miał cię dość i cię nie znienawidził."
-"Prz25,18": "Kto mówi fałszywe świadectwo przeciw swemu bliźniemu, jest młotem i mieczem, i ostrą strzałą."
-"Prz25,19": "Ufność w człowieka niewiernego w dniu ucisku jest jak złamany ząb i zwichnięta noga."
-"Prz25,20": "Jak ten, kto zabiera odzienie w czasie zimy i jak ocet na saletrze taki jest ten, kto śpiewa pieśni smutnemu sercu."
-"Prz25,21": "Jeśli twój nieprzyjaciel jest głodny, nakarm go chlebem, a jeśli jest spragniony, napój go wodą;"
-"Prz25,22": "Bo zgarniesz rozżarzone węgle na jego głowę, a PAN cię nagrodzi."
-"Prz25,23": "Jak północny wiatr przepędza deszcz, tak gniewna twarz przepędza plotkarski język."
-"Prz25,24": "Lepiej mieszkać w kącie pod dachem niż z kłótliwą żoną w przestronnym domu."
-"Prz25,25": "Jak zimna woda dla pragnącej duszy, tak dobra wieść z dalekiej ziemi."
-"Prz25,26": "Jak zmącone źródło i zepsuty zdrój, tak sprawiedliwy, który upada przed niegodziwym."
-"Prz25,27": "Niedobrze jest jeść za dużo miodu, a szukanie własnej chwały nie jest chwałą."
-"Prz25,28": "Człowiek, który nie panuje nad swoim duchem, jest jak miasto zburzone i bez muru."
+"Prz25,1":
+  text: "To również są przysłowia Salomona, które przepisali mężowie Ezechiasza, króla Judy."
+  tags: []
+"Prz25,2":
+  text: "Chwałą Boga jest sprawę taić, ale chwałą królów – dociekać sprawy."
+  tags: []
+"Prz25,3":
+  text: "Wysokość niebios i głębia ziemi, i serca królów są niezbadane."
+  tags: []
+"Prz25,4":
+  text: "Usuń żużel ze srebra, a wyjdzie naczynie dla złotnika."
+  tags: []
+"Prz25,5":
+  text: "Usuń niegodziwego sprzed króla, a jego tron umocni się w sprawiedliwości."
+  tags: []
+"Prz25,6":
+  text: "Nie wywyższaj się przed królem i nie stawaj na miejscu wielkich;"
+  tags: []
+"Prz25,7":
+  text: "Bo lepiej, żeby ci powiedziano: Podejdź tu, niż żeby cię poniżono przed księciem, którego twoje oczy widziały."
+  tags: []
+"Prz25,8":
+  text: "Nie spiesz się do kłótni, bo na końcu nie będziesz wiedział, co zrobić, gdy cię zawstydzi twój bliźni."
+  tags: []
+"Prz25,9":
+  text: "Załatw sprawę ze swoim bliźnim i nie zdradzaj tajemnicy drugiemu;"
+  tags: []
+"Prz25,10":
+  text: "By ten, który słucha, nie zawstydził cię, a twoja niesława nie przylgnęła do ciebie."
+  tags: []
+"Prz25,11":
+  text: "Odpowiednio wypowiedziane słowo jest jak złote jabłko w srebrnych rzeźbach."
+  tags: []
+"Prz25,12":
+  text: "Jak złoty kolczyk i klejnot ze szczerego złota tak jest dla uszu posłusznego ten, który mądrze strofuje."
+  tags: []
+"Prz25,13":
+  text: "Czym chłód śniegu w czasie żniwa, tym wierny posłaniec dla tych, którzy go posyłają, bo pokrzepia dusze swych panów."
+  tags: []
+"Prz25,14":
+  text: "Człowiek, który się chlubi zmyślonym darem, jest jak chmury i wiatr bez deszczu."
+  tags: []
+"Prz25,15":
+  text: "Cierpliwością można przekonać władcę, a łagodny język łamie kości."
+  tags: []
+"Prz25,16":
+  text: "Czy znalazłeś miód? Zjedz tyle, ile trzeba, byś objadłszy się, nie zwrócił go."
+  tags: []
+"Prz25,17":
+  text: "Oddal nogę od domu bliźniego, by nie miał cię dość i cię nie znienawidził."
+  tags: []
+"Prz25,18":
+  text: "Kto mówi fałszywe świadectwo przeciw swemu bliźniemu, jest młotem i mieczem, i ostrą strzałą."
+  tags: []
+"Prz25,19":
+  text: "Ufność w człowieka niewiernego w dniu ucisku jest jak złamany ząb i zwichnięta noga."
+  tags: []
+"Prz25,20":
+  text: "Jak ten, kto zabiera odzienie w czasie zimy i jak ocet na saletrze taki jest ten, kto śpiewa pieśni smutnemu sercu."
+  tags: []
+"Prz25,21":
+  text: "Jeśli twój nieprzyjaciel jest głodny, nakarm go chlebem, a jeśli jest spragniony, napój go wodą;"
+  tags: []
+"Prz25,22":
+  text: "Bo zgarniesz rozżarzone węgle na jego głowę, a PAN cię nagrodzi."
+  tags: []
+"Prz25,23":
+  text: "Jak północny wiatr przepędza deszcz, tak gniewna twarz przepędza plotkarski język."
+  tags: []
+"Prz25,24":
+  text: "Lepiej mieszkać w kącie pod dachem niż z kłótliwą żoną w przestronnym domu."
+  tags: []
+"Prz25,25":
+  text: "Jak zimna woda dla pragnącej duszy, tak dobra wieść z dalekiej ziemi."
+  tags: []
+"Prz25,26":
+  text: "Jak zmącone źródło i zepsuty zdrój, tak sprawiedliwy, który upada przed niegodziwym."
+  tags: []
+"Prz25,27":
+  text: "Niedobrze jest jeść za dużo miodu, a szukanie własnej chwały nie jest chwałą."
+  tags: []
+"Prz25,28":
+  text: "Człowiek, który nie panuje nad swoim duchem, jest jak miasto zburzone i bez muru."
+  tags: []

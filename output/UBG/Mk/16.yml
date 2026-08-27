@@ -1,20 +1,60 @@
-"Mk16,1": "A gdy minął szabat, Maria Magdalena, Maria, matka Jakuba, i Salome nakupiły wonności, aby pójść i namaścić go."
-"Mk16,2": "Pierwszego dnia po szabacie, wczesnym rankiem, gdy wzeszło słońce, przyszły do grobu."
-"Mk16,3": "I mówiły do siebie: Któż nam odwali kamień od wejścia do grobowca?"
-"Mk16,4": "(A gdy spojrzały, zobaczyły, że kamień został odwalony). Był bowiem bardzo wielki."
-"Mk16,5": "Gdy weszły do grobowca, ujrzały młodzieńca siedzącego po prawej stronie, ubranego w białą szatę, i przestraszyły się."
-"Mk16,6": "Lecz on powiedział do nich: Nie bójcie się. Szukacie Jezusa z Nazaretu, który był ukrzyżowany. Powstał, nie ma go tu. Oto miejsce, gdzie go złożono."
-"Mk16,7": "Ale idźcie i powiedzcie jego uczniom i Piotrowi: Udaje się przed wami do Galilei. Tam go ujrzycie, jak wam powiedział."
-"Mk16,8": "Wyszły więc szybko i uciekły od grobu, bo ogarnęły je lęk i zdumienie. Nikomu też nic nie mówiły, ponieważ się bały."
-"Mk16,9": "A Jezus, gdy zmartwychwstał wczesnym rankiem pierwszego dnia po szabacie, ukazał się najpierw Marii Magdalenie, z której wypędził siedem demonów."
-"Mk16,10": "Ona zaś poszła i opowiedziała to tym, którzy z nim przebywali, pogrążonym w smutku i płaczącym."
-"Mk16,11": "A gdy oni usłyszeli, że żyje i że go widziała, nie wierzyli."
-"Mk16,12": "Potem ukazał się w innej postaci dwom z nich, gdy szli na wieś."
-"Mk16,13": "Oni poszli i opowiedzieli pozostałym. Lecz i tym nie uwierzyli."
-"Mk16,14": "Na koniec ukazał się jedenastu, gdy siedzieli za stołem, i wyrzucał im ich niewiarę i zatwardziałość serca, że nie wierzyli tym, którzy go widzieli wskrzeszonego."
-"Mk16,15": "I powiedział do nich: Idźcie na cały świat i głoście ewangelię wszelkiemu stworzeniu."
-"Mk16,16": "Kto uwierzy i ochrzci się, będzie zbawiony, ale kto nie uwierzy, będzie potępiony."
-"Mk16,17": "A takie znaki będą towarzyszyć tym, którzy uwierzą: w moim imieniu będą wypędzać demony, będą mówić nowymi językami;"
-"Mk16,18": "Będą brać węże, a choćby wypili coś śmiercionośnego, nie zaszkodzi im; na chorych będą kłaść ręce, a ci odzyskają zdrowie."
-"Mk16,19": "A gdy Pan przestał do nich mówić, został wzięty do nieba i zasiadł po prawicy Boga."
-"Mk16,20": "Oni zaś poszli i głosili wszędzie, a Pan współdziałał z nimi i potwierdzał ich słowa znakami, które im towarzyszyły. Amen."
+"Mk16,1":
+  text: "A gdy minął szabat, Maria Magdalena, Maria, matka Jakuba, i Salome nakupiły wonności, aby pójść i namaścić go."
+  tags: []
+"Mk16,2":
+  text: "Pierwszego dnia po szabacie, wczesnym rankiem, gdy wzeszło słońce, przyszły do grobu."
+  tags: []
+"Mk16,3":
+  text: "I mówiły do siebie: Któż nam odwali kamień od wejścia do grobowca?"
+  tags: []
+"Mk16,4":
+  text: "(A gdy spojrzały, zobaczyły, że kamień został odwalony). Był bowiem bardzo wielki."
+  tags: []
+"Mk16,5":
+  text: "Gdy weszły do grobowca, ujrzały młodzieńca siedzącego po prawej stronie, ubranego w białą szatę, i przestraszyły się."
+  tags: []
+"Mk16,6":
+  text: "Lecz on powiedział do nich: Nie bójcie się. Szukacie Jezusa z Nazaretu, który był ukrzyżowany. Powstał, nie ma go tu. Oto miejsce, gdzie go złożono."
+  tags: []
+"Mk16,7":
+  text: "Ale idźcie i powiedzcie jego uczniom i Piotrowi: Udaje się przed wami do Galilei. Tam go ujrzycie, jak wam powiedział."
+  tags: []
+"Mk16,8":
+  text: "Wyszły więc szybko i uciekły od grobu, bo ogarnęły je lęk i zdumienie. Nikomu też nic nie mówiły, ponieważ się bały."
+  tags: []
+"Mk16,9":
+  text: "A Jezus, gdy zmartwychwstał wczesnym rankiem pierwszego dnia po szabacie, ukazał się najpierw Marii Magdalenie, z której wypędził siedem demonów."
+  tags: []
+"Mk16,10":
+  text: "Ona zaś poszła i opowiedziała to tym, którzy z nim przebywali, pogrążonym w smutku i płaczącym."
+  tags: []
+"Mk16,11":
+  text: "A gdy oni usłyszeli, że żyje i że go widziała, nie wierzyli."
+  tags: []
+"Mk16,12":
+  text: "Potem ukazał się w innej postaci dwom z nich, gdy szli na wieś."
+  tags: []
+"Mk16,13":
+  text: "Oni poszli i opowiedzieli pozostałym. Lecz i tym nie uwierzyli."
+  tags: []
+"Mk16,14":
+  text: "Na koniec ukazał się jedenastu, gdy siedzieli za stołem, i wyrzucał im ich niewiarę i zatwardziałość serca, że nie wierzyli tym, którzy go widzieli wskrzeszonego."
+  tags: []
+"Mk16,15":
+  text: "I powiedział do nich: Idźcie na cały świat i głoście ewangelię wszelkiemu stworzeniu."
+  tags: []
+"Mk16,16":
+  text: "Kto uwierzy i ochrzci się, będzie zbawiony, ale kto nie uwierzy, będzie potępiony."
+  tags: []
+"Mk16,17":
+  text: "A takie znaki będą towarzyszyć tym, którzy uwierzą: w moim imieniu będą wypędzać demony, będą mówić nowymi językami;"
+  tags: []
+"Mk16,18":
+  text: "Będą brać węże, a choćby wypili coś śmiercionośnego, nie zaszkodzi im; na chorych będą kłaść ręce, a ci odzyskają zdrowie."
+  tags: []
+"Mk16,19":
+  text: "A gdy Pan przestał do nich mówić, został wzięty do nieba i zasiadł po prawicy Boga."
+  tags: []
+"Mk16,20":
+  text: "Oni zaś poszli i głosili wszędzie, a Pan współdziałał z nimi i potwierdzał ich słowa znakami, które im towarzyszyły. Amen."
+  tags: []

@@ -1,24 +1,72 @@
-"Rdz7,1": "Potem PAN powiedział do Noego: Wejdź ty wraz z całym twoim domem do arki, gdyż widziałem cię, że jesteś sprawiedliwy przede mną w tym pokoleniu."
-"Rdz7,2": "Z każdego zwierzęcia czystego weź sobie po siedem par, samca i samicę jego; ale ze zwierząt nieczystych – po jednej parze, samca i samicę jego."
-"Rdz7,3": "Także z ptactwa niebieskiego po siedem par, samca i samicę, aby zachować przy życiu ich potomstwo na całej powierzchni ziemi."
-"Rdz7,4": "Pozostaje bowiem jeszcze siedem dni, a potem spuszczę deszcz na ziemię, na czterdzieści dni i czterdzieści nocy, i zgładzę z powierzchni ziemi wszelkie stworzenie, które uczyniłem."
-"Rdz7,5": "Noe uczynił więc wszystko, co mu PAN rozkazał."
-"Rdz7,6": "Noe miał sześćset lat, gdy przyszedł potop wód na ziemię."
-"Rdz7,7": "I wszedł Noe, a z nim jego synowie, jego żona i żony jego synów do arki ze względu na wody potopu."
-"Rdz7,8": "Ze zwierząt czystych i nieczystych i z ptactwa, i ze wszystkiego, co pełza po ziemi;"
-"Rdz7,9": "Po parze weszło do Noego do arki, samiec i samica, jak Bóg rozkazał Noemu."
-"Rdz7,10": "A po siedmiu dniach wody potopu spadły na ziemię."
-"Rdz7,11": "W sześćsetnym roku życia Noego, w drugim miesiącu, siedemnastego dnia tego miesiąca, w tym właśnie dniu, przerwały się wszystkie źródła wielkiej głębi i otworzyły się okna nieba."
-"Rdz7,12": "I deszcz padał na ziemię czterdzieści dni i czterdzieści nocy."
-"Rdz7,13": "W tym właśnie dniu weszli do arki Noe oraz jego synowie – Sem, Cham i Jafet, a z nimi żona Noego i trzy żony jego synów."
-"Rdz7,14": "Oni i wszelkie zwierzęta według swego rodzaju, wszelkie bydło według swego rodzaju, wszelkie zwierzęta pełzające, które pełzają po ziemi według swego rodzaju, wszelkie ptaki według swego rodzaju i wszelkie stworzenia skrzydlate."
-"Rdz7,15": "I tak weszły do Noego do arki, po parze z każdego ciała, w którym było tchnienie życia."
-"Rdz7,16": "A te, które weszły, samiec i samica z każdego ciała weszły, jak mu Bóg rozkazał. I zamknął PAN za nim drzwi."
-"Rdz7,17": "A potop trwał na ziemi czterdzieści dni i wody wezbrały, i podniosły arkę, i unosiła się nad ziemią."
-"Rdz7,18": "Wody wzmogły się i wezbrały bardzo nad ziemią, i pływała arka po wodach."
-"Rdz7,19": "I wody bardzo się wzmogły nad ziemią, i zakryły wszystkie wysokie góry, które były pod całym niebem."
-"Rdz7,20": "Wody wezbrały na piętnaście łokci wzwyż i góry zostały zakryte."
-"Rdz7,21": "Zginęło więc wszelkie ciało poruszające się na ziemi: ptactwo, bydło, zwierzęta i wszelkie zwierzęta pełzające, które pełzają po ziemi, i wszyscy ludzie."
-"Rdz7,22": "Wszystko, co miało w nozdrzach tchnienie życia, wszystko, co żyło na suchym lądzie, zginęło."
-"Rdz7,23": "Tak zostało zgładzone wszelkie stworzenie, które było na powierzchni ziemi, od człowieka aż do bydła, zwierząt pełzających i ptactwa niebieskiego. Wszystko to zostało zgładzone z ziemi. Pozostał tylko Noe i ci, którzy z nim byli w arce."
-"Rdz7,24": "A wody wezbrały nad ziemią sto pięćdziesiąt dni."
+"Rdz7,1":
+  text: "Potem PAN powiedział do Noego: Wejdź ty wraz z całym twoim domem do arki, gdyż widziałem cię, że jesteś sprawiedliwy przede mną w tym pokoleniu."
+  tags: []
+"Rdz7,2":
+  text: "Z każdego zwierzęcia czystego weź sobie po siedem par, samca i samicę jego; ale ze zwierząt nieczystych – po jednej parze, samca i samicę jego."
+  tags: []
+"Rdz7,3":
+  text: "Także z ptactwa niebieskiego po siedem par, samca i samicę, aby zachować przy życiu ich potomstwo na całej powierzchni ziemi."
+  tags: []
+"Rdz7,4":
+  text: "Pozostaje bowiem jeszcze siedem dni, a potem spuszczę deszcz na ziemię, na czterdzieści dni i czterdzieści nocy, i zgładzę z powierzchni ziemi wszelkie stworzenie, które uczyniłem."
+  tags: []
+"Rdz7,5":
+  text: "Noe uczynił więc wszystko, co mu PAN rozkazał."
+  tags: []
+"Rdz7,6":
+  text: "Noe miał sześćset lat, gdy przyszedł potop wód na ziemię."
+  tags: []
+"Rdz7,7":
+  text: "I wszedł Noe, a z nim jego synowie, jego żona i żony jego synów do arki ze względu na wody potopu."
+  tags: []
+"Rdz7,8":
+  text: "Ze zwierząt czystych i nieczystych i z ptactwa, i ze wszystkiego, co pełza po ziemi;"
+  tags: []
+"Rdz7,9":
+  text: "Po parze weszło do Noego do arki, samiec i samica, jak Bóg rozkazał Noemu."
+  tags: []
+"Rdz7,10":
+  text: "A po siedmiu dniach wody potopu spadły na ziemię."
+  tags: []
+"Rdz7,11":
+  text: "W sześćsetnym roku życia Noego, w drugim miesiącu, siedemnastego dnia tego miesiąca, w tym właśnie dniu, przerwały się wszystkie źródła wielkiej głębi i otworzyły się okna nieba."
+  tags: []
+"Rdz7,12":
+  text: "I deszcz padał na ziemię czterdzieści dni i czterdzieści nocy."
+  tags: []
+"Rdz7,13":
+  text: "W tym właśnie dniu weszli do arki Noe oraz jego synowie – Sem, Cham i Jafet, a z nimi żona Noego i trzy żony jego synów."
+  tags: []
+"Rdz7,14":
+  text: "Oni i wszelkie zwierzęta według swego rodzaju, wszelkie bydło według swego rodzaju, wszelkie zwierzęta pełzające, które pełzają po ziemi według swego rodzaju, wszelkie ptaki według swego rodzaju i wszelkie stworzenia skrzydlate."
+  tags: []
+"Rdz7,15":
+  text: "I tak weszły do Noego do arki, po parze z każdego ciała, w którym było tchnienie życia."
+  tags: []
+"Rdz7,16":
+  text: "A te, które weszły, samiec i samica z każdego ciała weszły, jak mu Bóg rozkazał. I zamknął PAN za nim drzwi."
+  tags: []
+"Rdz7,17":
+  text: "A potop trwał na ziemi czterdzieści dni i wody wezbrały, i podniosły arkę, i unosiła się nad ziemią."
+  tags: []
+"Rdz7,18":
+  text: "Wody wzmogły się i wezbrały bardzo nad ziemią, i pływała arka po wodach."
+  tags: []
+"Rdz7,19":
+  text: "I wody bardzo się wzmogły nad ziemią, i zakryły wszystkie wysokie góry, które były pod całym niebem."
+  tags: []
+"Rdz7,20":
+  text: "Wody wezbrały na piętnaście łokci wzwyż i góry zostały zakryte."
+  tags: []
+"Rdz7,21":
+  text: "Zginęło więc wszelkie ciało poruszające się na ziemi: ptactwo, bydło, zwierzęta i wszelkie zwierzęta pełzające, które pełzają po ziemi, i wszyscy ludzie."
+  tags: []
+"Rdz7,22":
+  text: "Wszystko, co miało w nozdrzach tchnienie życia, wszystko, co żyło na suchym lądzie, zginęło."
+  tags: []
+"Rdz7,23":
+  text: "Tak zostało zgładzone wszelkie stworzenie, które było na powierzchni ziemi, od człowieka aż do bydła, zwierząt pełzających i ptactwa niebieskiego. Wszystko to zostało zgładzone z ziemi. Pozostał tylko Noe i ci, którzy z nim byli w arce."
+  tags: []
+"Rdz7,24":
+  text: "A wody wezbrały nad ziemią sto pięćdziesiąt dni."
+  tags: []

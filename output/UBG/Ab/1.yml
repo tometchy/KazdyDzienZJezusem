@@ -1,21 +1,63 @@
-"Ab1,1": "Widzenie Abdiasza. Tak mówi Pan BÓG o Edomie: Usłyszeliśmy wieść od PANA, a posłaniec został wysłany do narodów: Powstańcie, wyruszmy przeciwko niemu do bitwy."
-"Ab1,2": "Oto uczyniłem cię małym wśród narodów, jesteś bardzo wzgardzony."
-"Ab1,3": "Pycha twego serca zwiodła cię, ty, który mieszkasz w rozpadlinach skalnych, masz swoje mieszkanie na wysokości; ty, który mówisz w swoim sercu: Któż mnie ściągnie na ziemię?"
-"Ab1,4": "Choćbyś wywyższył się jak orzeł, choćbyś założył swoje gniazdo wśród gwiazd, stamtąd cię strącę, mówi PAN."
-"Ab1,5": "Jakże jesteś zniszczony! Gdyby złodzieje przyszli do ciebie, gdyby rabusie zjawili się w nocy, czy nie kradliby tyle, ile potrzebują? Gdyby przyszli do ciebie zbieracze winogron, czy nie zostawiliby trochę winogron?"
-"Ab1,6": "Jakże przeszukane są skarby Ezawa, a przetrząśnięte jego skryte rzeczy!"
-"Ab1,7": "Aż do granicy wypchnęli cię wszyscy twoi sprzymierzeńcy. Ci, z którymi miałeś pokój, zdradzili cię i pokonali; ci, którzy jedli twój chleb, zranili cię zdradliwie. Nie ma zrozumienia u niego."
-"Ab1,8": "Czyż w owym dniu – mówi PAN – nie wytracę mędrców z Edomu, a rozumu – z góry Ezawa?"
-"Ab1,9": "I tak się zlękną twoi mocarze, Temanie, że wszyscy z góry Ezawa zostaną wycięci."
-"Ab1,10": "Z powodu przemocy wobec twego brata Jakuba okryje cię hańba i zostaniesz wykorzeniony na wieki."
-"Ab1,11": "W dniu, gdy stałeś naprzeciwko, w dniu, gdy obcy brali do niewoli jego wojsko i gdy cudzoziemcy wchodzili w jego bramy i o Jerozolimę rzucali losy, to ty byłeś też jak jeden z nich."
-"Ab1,12": "Nie powinieneś był patrzeć na dzień swego brata, w dniu jego pojmania, ani cieszyć się z powodu synów Judy w dniu ich zniszczenia, ani mówić zuchwale w dniu ucisku."
-"Ab1,13": "Nie powinieneś był wchodzić w bramę mojego ludu w dniu jego klęski ani patrzeć na jego nieszczęście w dniu jego klęski, ani wyciągać swej ręki po jego mienie w dniu jego klęski;"
-"Ab1,14": "Nie powinieneś był stać na rozstaju dróg, aby wytracić tych, którzy uciekali, ani wydać tych, którzy pozostali spośród nich w dniu ucisku."
-"Ab1,15": "Bliski bowiem jest dzień PANA dla wszystkich narodów. Jak ty postępowałeś, tak postąpią z tobą. Twoja odpłata spadnie na twoją głowę."
-"Ab1,16": "Bo jak wy piliście na mojej świętej górze, tak będą stale pić wszystkie narody; będą pić i pochłaniać, aż będzie z nimi tak, jakby ich nigdy nie było."
-"Ab1,17": "A na górze Syjon będzie wybawienie i będzie ona święta, a dom Jakuba posiądzie swoje posiadłości."
-"Ab1,18": "Dom Jakuba stanie się ogniem, a dom Józefa płomieniem, dom Ezawa zaś ścierniskiem. Podpalą go i strawią, i nikt nie pozostanie z domu Ezawa, bo PAN to powiedział."
-"Ab1,19": "Ci z krainy południa odziedziczą górę Ezawa, ci z równiny – Filistynów. Posiądą też krainę Efraima i krainę Samarii, a Beniamin posiądzie Gilead."
-"Ab1,20": "A wygnańcy tego wojska z synów Izraela posiądą to, co należało do Kananejczyków aż do Sarepty; wygnańcy zaś z Jerozolimy, którzy są w Sefarad, posiądą miasta na południu."
-"Ab1,21": "I wstąpią wybawiciele na górę Syjon, aby sądzić górę Ezawa. I królestwo będzie należeć do PANA."
+"Ab1,1":
+  text: "Widzenie Abdiasza. Tak mówi Pan BÓG o Edomie: Usłyszeliśmy wieść od PANA, a posłaniec został wysłany do narodów: Powstańcie, wyruszmy przeciwko niemu do bitwy."
+  tags: []
+"Ab1,2":
+  text: "Oto uczyniłem cię małym wśród narodów, jesteś bardzo wzgardzony."
+  tags: []
+"Ab1,3":
+  text: "Pycha twego serca zwiodła cię, ty, który mieszkasz w rozpadlinach skalnych, masz swoje mieszkanie na wysokości; ty, który mówisz w swoim sercu: Któż mnie ściągnie na ziemię?"
+  tags: []
+"Ab1,4":
+  text: "Choćbyś wywyższył się jak orzeł, choćbyś założył swoje gniazdo wśród gwiazd, stamtąd cię strącę, mówi PAN."
+  tags: []
+"Ab1,5":
+  text: "Jakże jesteś zniszczony! Gdyby złodzieje przyszli do ciebie, gdyby rabusie zjawili się w nocy, czy nie kradliby tyle, ile potrzebują? Gdyby przyszli do ciebie zbieracze winogron, czy nie zostawiliby trochę winogron?"
+  tags: []
+"Ab1,6":
+  text: "Jakże przeszukane są skarby Ezawa, a przetrząśnięte jego skryte rzeczy!"
+  tags: []
+"Ab1,7":
+  text: "Aż do granicy wypchnęli cię wszyscy twoi sprzymierzeńcy. Ci, z którymi miałeś pokój, zdradzili cię i pokonali; ci, którzy jedli twój chleb, zranili cię zdradliwie. Nie ma zrozumienia u niego."
+  tags: []
+"Ab1,8":
+  text: "Czyż w owym dniu – mówi PAN – nie wytracę mędrców z Edomu, a rozumu – z góry Ezawa?"
+  tags: []
+"Ab1,9":
+  text: "I tak się zlękną twoi mocarze, Temanie, że wszyscy z góry Ezawa zostaną wycięci."
+  tags: []
+"Ab1,10":
+  text: "Z powodu przemocy wobec twego brata Jakuba okryje cię hańba i zostaniesz wykorzeniony na wieki."
+  tags: []
+"Ab1,11":
+  text: "W dniu, gdy stałeś naprzeciwko, w dniu, gdy obcy brali do niewoli jego wojsko i gdy cudzoziemcy wchodzili w jego bramy i o Jerozolimę rzucali losy, to ty byłeś też jak jeden z nich."
+  tags: []
+"Ab1,12":
+  text: "Nie powinieneś był patrzeć na dzień swego brata, w dniu jego pojmania, ani cieszyć się z powodu synów Judy w dniu ich zniszczenia, ani mówić zuchwale w dniu ucisku."
+  tags: []
+"Ab1,13":
+  text: "Nie powinieneś był wchodzić w bramę mojego ludu w dniu jego klęski ani patrzeć na jego nieszczęście w dniu jego klęski, ani wyciągać swej ręki po jego mienie w dniu jego klęski;"
+  tags: []
+"Ab1,14":
+  text: "Nie powinieneś był stać na rozstaju dróg, aby wytracić tych, którzy uciekali, ani wydać tych, którzy pozostali spośród nich w dniu ucisku."
+  tags: []
+"Ab1,15":
+  text: "Bliski bowiem jest dzień PANA dla wszystkich narodów. Jak ty postępowałeś, tak postąpią z tobą. Twoja odpłata spadnie na twoją głowę."
+  tags: []
+"Ab1,16":
+  text: "Bo jak wy piliście na mojej świętej górze, tak będą stale pić wszystkie narody; będą pić i pochłaniać, aż będzie z nimi tak, jakby ich nigdy nie było."
+  tags: []
+"Ab1,17":
+  text: "A na górze Syjon będzie wybawienie i będzie ona święta, a dom Jakuba posiądzie swoje posiadłości."
+  tags: []
+"Ab1,18":
+  text: "Dom Jakuba stanie się ogniem, a dom Józefa płomieniem, dom Ezawa zaś ścierniskiem. Podpalą go i strawią, i nikt nie pozostanie z domu Ezawa, bo PAN to powiedział."
+  tags: []
+"Ab1,19":
+  text: "Ci z krainy południa odziedziczą górę Ezawa, ci z równiny – Filistynów. Posiądą też krainę Efraima i krainę Samarii, a Beniamin posiądzie Gilead."
+  tags: []
+"Ab1,20":
+  text: "A wygnańcy tego wojska z synów Izraela posiądą to, co należało do Kananejczyków aż do Sarepty; wygnańcy zaś z Jerozolimy, którzy są w Sefarad, posiądą miasta na południu."
+  tags: []
+"Ab1,21":
+  text: "I wstąpią wybawiciele na górę Syjon, aby sądzić górę Ezawa. I królestwo będzie należeć do PANA."
+  tags: []

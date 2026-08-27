@@ -1,16 +1,48 @@
-"Hi35,1": "Elihu mówił dalej:"
-"Hi35,2": "Czy uważasz to za słuszne, że powiedziałeś: Mam więcej sprawiedliwości niż Bóg?"
-"Hi35,3": "Powiedziałeś bowiem: Cóż mi pomoże? Jaki będę miał pożytek z tego, że zostanę oczyszczony z grzechu?"
-"Hi35,4": "Odpowiem dowodnie tobie i twoim towarzyszom wraz z tobą."
-"Hi35,5": "Spójrz w niebo i zobacz, przypatrz się obłokom, które są wyżej od ciebie."
-"Hi35,6": "Jeśli zgrzeszysz, co zrobisz przeciwko niemu? A jeśli pomnożą się twoje nieprawości, co mu uczynisz?"
-"Hi35,7": "Jeśli jesteś sprawiedliwy, co mu dajesz? Albo co otrzymuje z twojej ręki?"
-"Hi35,8": "Twoja niegodziwość zaszkodzi człowiekowi takiemu jak ty, a twoja sprawiedliwość pomoże synowi człowieka."
-"Hi35,9": "Ludzie krzyczą z powodu mnóstwa ucisków, wołają z powodu ramienia mocarzy."
-"Hi35,10": "Ale nikt nie mówi: Gdzie jest Bóg, mój Stwórca, który w nocy daje pieśni;"
-"Hi35,11": "Ten, który uczy nas więcej niż zwierzęta ziemskie i czyni nas mądrzejszymi od ptactwa niebieskiego?"
-"Hi35,12": "Tak więc wołają, ale nikt nie wysłuchuje z powodu pychy złych ludzi."
-"Hi35,13": "Doprawdy, Bóg nie wysłucha słów obłudy, Wszechmocny na nią nie zważa."
-"Hi35,14": "Chociaż mówisz, że go nie widzisz, sąd jest przed nim, więc mu zaufaj."
-"Hi35,15": "Teraz jednak jego gniew spadł na ciebie w niewielkim stopniu, jakby nie znał wielkości twoich grzechów."
-"Hi35,16": "Dlatego Hiob na próżno otwiera swe usta; mnoży słowa bez poznania."
+"Hi35,1":
+  text: "Elihu mówił dalej:"
+  tags: []
+"Hi35,2":
+  text: "Czy uważasz to za słuszne, że powiedziałeś: Mam więcej sprawiedliwości niż Bóg?"
+  tags: []
+"Hi35,3":
+  text: "Powiedziałeś bowiem: Cóż mi pomoże? Jaki będę miał pożytek z tego, że zostanę oczyszczony z grzechu?"
+  tags: []
+"Hi35,4":
+  text: "Odpowiem dowodnie tobie i twoim towarzyszom wraz z tobą."
+  tags: []
+"Hi35,5":
+  text: "Spójrz w niebo i zobacz, przypatrz się obłokom, które są wyżej od ciebie."
+  tags: []
+"Hi35,6":
+  text: "Jeśli zgrzeszysz, co zrobisz przeciwko niemu? A jeśli pomnożą się twoje nieprawości, co mu uczynisz?"
+  tags: []
+"Hi35,7":
+  text: "Jeśli jesteś sprawiedliwy, co mu dajesz? Albo co otrzymuje z twojej ręki?"
+  tags: []
+"Hi35,8":
+  text: "Twoja niegodziwość zaszkodzi człowiekowi takiemu jak ty, a twoja sprawiedliwość pomoże synowi człowieka."
+  tags: []
+"Hi35,9":
+  text: "Ludzie krzyczą z powodu mnóstwa ucisków, wołają z powodu ramienia mocarzy."
+  tags: []
+"Hi35,10":
+  text: "Ale nikt nie mówi: Gdzie jest Bóg, mój Stwórca, który w nocy daje pieśni;"
+  tags: []
+"Hi35,11":
+  text: "Ten, który uczy nas więcej niż zwierzęta ziemskie i czyni nas mądrzejszymi od ptactwa niebieskiego?"
+  tags: []
+"Hi35,12":
+  text: "Tak więc wołają, ale nikt nie wysłuchuje z powodu pychy złych ludzi."
+  tags: []
+"Hi35,13":
+  text: "Doprawdy, Bóg nie wysłucha słów obłudy, Wszechmocny na nią nie zważa."
+  tags: []
+"Hi35,14":
+  text: "Chociaż mówisz, że go nie widzisz, sąd jest przed nim, więc mu zaufaj."
+  tags: []
+"Hi35,15":
+  text: "Teraz jednak jego gniew spadł na ciebie w niewielkim stopniu, jakby nie znał wielkości twoich grzechów."
+  tags: []
+"Hi35,16":
+  text: "Dlatego Hiob na próżno otwiera swe usta; mnoży słowa bez poznania."
+  tags: []

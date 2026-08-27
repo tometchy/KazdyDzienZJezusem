@@ -340,6 +340,85 @@ def yaml_string(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
 
+def read_existing_tags(
+    output_path: Path,
+    book: Book,
+    chapter: int,
+) -> dict[int, list[str]]:
+    if not output_path.is_file():
+        return {}
+
+    tags_by_verse: dict[int, list[str]] = {}
+    current_verse: int | None = None
+    current_has_tags = False
+    key_prefix = f"{book.abbreviation}{chapter},"
+
+    for line_number, line in enumerate(
+        output_path.read_text(encoding="utf-8").splitlines(),
+        start=1,
+    ):
+        if not line.strip():
+            continue
+
+        if not line[0].isspace():
+            if not line.endswith(":"):
+                # Files generated with the previous schema contain a complete
+                # verse on every top-level line and have no tags to preserve.
+                if current_verse is None and not tags_by_verse:
+                    return {}
+                raise ValueError(f"Invalid verse key in {output_path}:{line_number}")
+
+            if current_verse is not None and not current_has_tags:
+                raise ValueError(
+                    f"Missing tags for verse {current_verse} in {output_path}"
+                )
+
+            try:
+                key = json.loads(line[:-1])
+                if not isinstance(key, str) or not key.startswith(key_prefix):
+                    raise ValueError
+                current_verse = int(key[len(key_prefix) :])
+                if current_verse < 1 or current_verse in tags_by_verse:
+                    raise ValueError
+            except (json.JSONDecodeError, ValueError) as error:
+                raise ValueError(
+                    f"Invalid verse key in {output_path}:{line_number}"
+                ) from error
+
+            current_has_tags = False
+            continue
+
+        if current_verse is None:
+            raise ValueError(f"Verse field without a key in {output_path}:{line_number}")
+
+        field_name, separator, serialized_value = line.strip().partition(":")
+        if not separator or field_name != "tags":
+            continue
+        if current_has_tags:
+            raise ValueError(
+                f"Duplicate tags for verse {current_verse} in {output_path}"
+            )
+
+        try:
+            tags = json.loads(serialized_value.strip())
+        except json.JSONDecodeError as error:
+            raise ValueError(
+                f"Invalid tags for verse {current_verse} in {output_path}"
+            ) from error
+        if not isinstance(tags, list) or not all(isinstance(tag, str) for tag in tags):
+            raise ValueError(
+                f"Invalid tags for verse {current_verse} in {output_path}"
+            )
+
+        tags_by_verse[current_verse] = tags
+        current_has_tags = True
+
+    if current_verse is not None and not current_has_tags:
+        raise ValueError(f"Missing tags for verse {current_verse} in {output_path}")
+
+    return tags_by_verse
+
+
 def write_translation(translation: str, verses: Iterable[Verse]) -> None:
     chapters = collect_chapters(translation, verses)
     translation_dir = OUTPUT_DIR / translation
@@ -359,11 +438,18 @@ def write_translation(translation: str, verses: Iterable[Verse]) -> None:
 
         for chapter, chapter_verses in sorted(book_chapters.items()):
             output_path = book_dir / f"{chapter}.yml"
-            lines = [
-                f"{yaml_string(f'{book.abbreviation}{chapter},{verse}')}: {yaml_string(text)}"
-                for verse, text in sorted(chapter_verses.items())
-            ]
-            output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+            existing_tags = read_existing_tags(output_path, book, chapter)
+            lines: list[str] = []
+            for verse, text in sorted(chapter_verses.items()):
+                tags = existing_tags.get(verse, [])
+                lines.extend(
+                    (
+                        f"{yaml_string(f'{book.abbreviation}{chapter},{verse}')}:\n",
+                        f"  text: {yaml_string(text)}\n",
+                        f"  tags: {json.dumps(tags, ensure_ascii=False)}\n",
+                    )
+                )
+            output_path.write_text("".join(lines), encoding="utf-8")
             written_paths.add(output_path)
             chapter_count += 1
             verse_count += len(chapter_verses)

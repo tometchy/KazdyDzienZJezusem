@@ -1,24 +1,72 @@
-"Ga1,1": "Paweł, apostoł nie od ludzi ani przez człowieka, ale przez Jezusa Chrystusa i Boga Ojca, który go wskrzesił z martwych;"
-"Ga1,2": "I wszyscy bracia, którzy są ze mną, do kościołów Galacji:"
-"Ga1,3": "Łaska wam i pokój od Boga Ojca i naszego Pana Jezusa Chrystusa;"
-"Ga1,4": "Który wydał samego siebie za nasze grzechy, aby nas wyrwać z obecnego złego świata według woli Boga i Ojca naszego;"
-"Ga1,5": "Któremu chwała na wieki wieków. Amen."
-"Ga1,6": "Dziwię się, że tak szybko dajecie się odwieść od tego, który was powołał ku łasce Chrystusa, do innej ewangelii;"
-"Ga1,7": "Która nie jest inną; są tylko pewni ludzie, którzy was niepokoją i chcą wypaczyć ewangelię Chrystusa."
-"Ga1,8": "Lecz choćbyśmy nawet my albo anioł z nieba głosił wam ewangelię inną od tej, którą wam głosiliśmy, niech będzie przeklęty."
-"Ga1,9": "Jak powiedzieliśmy przedtem, tak i teraz znowu mówię: Gdyby wam ktoś głosił ewangelię inną od tej, którą przyjęliście, niech będzie przeklęty."
-"Ga1,10": "Czy teraz bowiem chcę pozyskać ludzi, czy Boga? Albo czy staram się przypodobać ludziom? Gdybym nadal ludziom chciał się przypodobać, nie byłbym sługą Chrystusa."
-"Ga1,11": "A oznajmiam wam, bracia, że głoszona przeze mnie ewangelia nie jest według człowieka."
-"Ga1,12": "Nie otrzymałem jej bowiem ani nie nauczyłem się jej od człowieka, ale przez objawienie Jezusa Chrystusa."
-"Ga1,13": "Słyszeliście bowiem o moim dawniejszym postępowaniu w judaizmie, że ponad miarę prześladowałem kościół Boży i niszczyłem go;"
-"Ga1,14": "I wyprzedzałem w judaizmie wielu moich rówieśników z mojego narodu, będąc bardzo gorliwym zwolennikiem moich ojczystych tradycji."
-"Ga1,15": "Lecz gdy upodobało się Bogu, który mnie odłączył w łonie mojej matki i powołał swoją łaską;"
-"Ga1,16": "Aby objawić swego Syna we mnie, abym głosił go wśród pogan, natychmiast, nie radząc się ciała i krwi;"
-"Ga1,17": "Ani nie udając się do Jerozolimy, do tych, którzy przede mną byli apostołami, poszedłem do Arabii, po czym znowu wróciłem do Damaszku."
-"Ga1,18": "Potem, trzy lata później, udałem się do Jerozolimy, aby zobaczyć się z Piotrem, u którego przebywałem piętnaście dni."
-"Ga1,19": "A spośród apostołów nie widziałem żadnego innego poza Jakubem, bratem Pana."
-"Ga1,20": "Oświadczam przed Bogiem, że w tym, co do was piszę, nie kłamię."
-"Ga1,21": "Potem udałem się w okolice Syrii i Cylicji;"
-"Ga1,22": "A nie byłem osobiście znany kościołom Judei, które są w Chrystusie."
-"Ga1,23": "Słyszeli tylko: ten, który kiedyś nas prześladował, teraz głosi wiarę, którą przedtem niszczył."
-"Ga1,24": "I chwalili Boga z mojego powodu."
+"Ga1,1":
+  text: "Paweł, apostoł nie od ludzi ani przez człowieka, ale przez Jezusa Chrystusa i Boga Ojca, który go wskrzesił z martwych;"
+  tags: []
+"Ga1,2":
+  text: "I wszyscy bracia, którzy są ze mną, do kościołów Galacji:"
+  tags: []
+"Ga1,3":
+  text: "Łaska wam i pokój od Boga Ojca i naszego Pana Jezusa Chrystusa;"
+  tags: []
+"Ga1,4":
+  text: "Który wydał samego siebie za nasze grzechy, aby nas wyrwać z obecnego złego świata według woli Boga i Ojca naszego;"
+  tags: []
+"Ga1,5":
+  text: "Któremu chwała na wieki wieków. Amen."
+  tags: []
+"Ga1,6":
+  text: "Dziwię się, że tak szybko dajecie się odwieść od tego, który was powołał ku łasce Chrystusa, do innej ewangelii;"
+  tags: []
+"Ga1,7":
+  text: "Która nie jest inną; są tylko pewni ludzie, którzy was niepokoją i chcą wypaczyć ewangelię Chrystusa."
+  tags: []
+"Ga1,8":
+  text: "Lecz choćbyśmy nawet my albo anioł z nieba głosił wam ewangelię inną od tej, którą wam głosiliśmy, niech będzie przeklęty."
+  tags: []
+"Ga1,9":
+  text: "Jak powiedzieliśmy przedtem, tak i teraz znowu mówię: Gdyby wam ktoś głosił ewangelię inną od tej, którą przyjęliście, niech będzie przeklęty."
+  tags: []
+"Ga1,10":
+  text: "Czy teraz bowiem chcę pozyskać ludzi, czy Boga? Albo czy staram się przypodobać ludziom? Gdybym nadal ludziom chciał się przypodobać, nie byłbym sługą Chrystusa."
+  tags: []
+"Ga1,11":
+  text: "A oznajmiam wam, bracia, że głoszona przeze mnie ewangelia nie jest według człowieka."
+  tags: []
+"Ga1,12":
+  text: "Nie otrzymałem jej bowiem ani nie nauczyłem się jej od człowieka, ale przez objawienie Jezusa Chrystusa."
+  tags: []
+"Ga1,13":
+  text: "Słyszeliście bowiem o moim dawniejszym postępowaniu w judaizmie, że ponad miarę prześladowałem kościół Boży i niszczyłem go;"
+  tags: []
+"Ga1,14":
+  text: "I wyprzedzałem w judaizmie wielu moich rówieśników z mojego narodu, będąc bardzo gorliwym zwolennikiem moich ojczystych tradycji."
+  tags: []
+"Ga1,15":
+  text: "Lecz gdy upodobało się Bogu, który mnie odłączył w łonie mojej matki i powołał swoją łaską;"
+  tags: []
+"Ga1,16":
+  text: "Aby objawić swego Syna we mnie, abym głosił go wśród pogan, natychmiast, nie radząc się ciała i krwi;"
+  tags: []
+"Ga1,17":
+  text: "Ani nie udając się do Jerozolimy, do tych, którzy przede mną byli apostołami, poszedłem do Arabii, po czym znowu wróciłem do Damaszku."
+  tags: []
+"Ga1,18":
+  text: "Potem, trzy lata później, udałem się do Jerozolimy, aby zobaczyć się z Piotrem, u którego przebywałem piętnaście dni."
+  tags: []
+"Ga1,19":
+  text: "A spośród apostołów nie widziałem żadnego innego poza Jakubem, bratem Pana."
+  tags: []
+"Ga1,20":
+  text: "Oświadczam przed Bogiem, że w tym, co do was piszę, nie kłamię."
+  tags: []
+"Ga1,21":
+  text: "Potem udałem się w okolice Syrii i Cylicji;"
+  tags: []
+"Ga1,22":
+  text: "A nie byłem osobiście znany kościołom Judei, które są w Chrystusie."
+  tags: []
+"Ga1,23":
+  text: "Słyszeli tylko: ten, który kiedyś nas prześladował, teraz głosi wiarę, którą przedtem niszczył."
+  tags: []
+"Ga1,24":
+  text: "I chwalili Boga z mojego powodu."
+  tags: []

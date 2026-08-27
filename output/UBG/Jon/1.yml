@@ -1,17 +1,51 @@
-"Jon1,1": "Słowo PANA doszło do Jonasza, syna Amittaja, mówiące:"
-"Jon1,2": "Wstań, idź do Niniwy, tego wielkiego miasta, i wołaj przeciwko niej, bo jej niegodziwość wzniosła się przed moje oblicze."
-"Jon1,3": "Ale Jonasz wstał, aby uciec do Tarszisz sprzed oblicza PANA, i przybył do Jafy. Znalazł okręt, który płynął do Tarszisz, zapłacił za przejazd i wsiadł na niego, aby płynąć z nimi do Tarszisz i uciec sprzed oblicza PANA."
-"Jon1,4": "Lecz PAN zesłał gwałtowny wiatr na morze i powstała potężna burza na morzu, tak że zdawało się, że okręt się rozbije."
-"Jon1,5": "A żeglarze przestraszyli się i każdy z nich wołał do swego boga, a wyrzucali do morza ładunek, który był na okręcie, aby ten był lżejszy. Ale Jonasz zszedł wcześniej na niższy pokład okrętu, położył się i twardo zasnął."
-"Jon1,6": "Przyszedł więc do niego sternik i zapytał go: Cóż ty czynisz, śpiochu? Wstań, wołaj do swego Boga, może Bóg wspomni na nas, abyśmy nie zginęli."
-"Jon1,7": "Wtedy powiedzieli jeden do drugiego: Chodźcie, rzućmy losy, abyśmy się dowiedzieli, przez kogo spadło na nas to nieszczęście. Rzucili więc losy i padło na Jonasza."
-"Jon1,8": "I powiedzieli do niego: Powiedz nam, prosimy, przez kogo spadło na nas to nieszczęście. Jaki jest twój zawód? Skąd pochodzisz? Z jakiego kraju i z jakiego narodu jesteś?"
-"Jon1,9": "Odpowiedział im: Jestem Hebrajczykiem i boję się PANA, Boga nieba, który stworzył morze i ziemię."
-"Jon1,10": "Wtedy ci mężczyźni bardzo się zlękli i zapytali: Czemu tak uczyniłeś? Oni bowiem dowiedzieli się, że ucieka sprzed oblicza PANA, bo im to powiedział."
-"Jon1,11": "Powiedzieli jeszcze do niego: Cóż mamy z tobą uczynić, aby morze się uspokoiło? Morze bowiem coraz bardziej się burzyło."
-"Jon1,12": "Odpowiedział im: Weźcie mnie i wrzućcie do morza, a ono uspokoi się dla was, gdyż wiem, że z mojego powodu ta wielka burza przyszła na was."
-"Jon1,13": "Lecz ci mężczyźni wiosłowali silniej, aby dotrzeć do brzegu, ale nie mogli, bo morze coraz bardziej się burzyło przeciwko nim."
-"Jon1,14": "Zawołali więc do PANA: PANIE, prosimy, nie pozwól nam zginąć z powodu życia tego człowieka i nie obciążaj nas krwią niewinną. Ty bowiem, PANIE, uczyniłeś, jak ci się spodobało."
-"Jon1,15": "Potem wzięli Jonasza i wrzucili do morza, a morze przestało się burzyć."
-"Jon1,16": "Wtedy ci mężczyźni, zdjęci wielkim strachem przed PANEM, złożyli PANU ofiarę i uczynili śluby."
-"Jon1,17": "A PAN przygotował wielką rybę, która połknęła Jonasza. I Jonasz był we wnętrznościach tej ryby trzy dni i trzy noce."
+"Jon1,1":
+  text: "Słowo PANA doszło do Jonasza, syna Amittaja, mówiące:"
+  tags: []
+"Jon1,2":
+  text: "Wstań, idź do Niniwy, tego wielkiego miasta, i wołaj przeciwko niej, bo jej niegodziwość wzniosła się przed moje oblicze."
+  tags: []
+"Jon1,3":
+  text: "Ale Jonasz wstał, aby uciec do Tarszisz sprzed oblicza PANA, i przybył do Jafy. Znalazł okręt, który płynął do Tarszisz, zapłacił za przejazd i wsiadł na niego, aby płynąć z nimi do Tarszisz i uciec sprzed oblicza PANA."
+  tags: []
+"Jon1,4":
+  text: "Lecz PAN zesłał gwałtowny wiatr na morze i powstała potężna burza na morzu, tak że zdawało się, że okręt się rozbije."
+  tags: []
+"Jon1,5":
+  text: "A żeglarze przestraszyli się i każdy z nich wołał do swego boga, a wyrzucali do morza ładunek, który był na okręcie, aby ten był lżejszy. Ale Jonasz zszedł wcześniej na niższy pokład okrętu, położył się i twardo zasnął."
+  tags: []
+"Jon1,6":
+  text: "Przyszedł więc do niego sternik i zapytał go: Cóż ty czynisz, śpiochu? Wstań, wołaj do swego Boga, może Bóg wspomni na nas, abyśmy nie zginęli."
+  tags: []
+"Jon1,7":
+  text: "Wtedy powiedzieli jeden do drugiego: Chodźcie, rzućmy losy, abyśmy się dowiedzieli, przez kogo spadło na nas to nieszczęście. Rzucili więc losy i padło na Jonasza."
+  tags: []
+"Jon1,8":
+  text: "I powiedzieli do niego: Powiedz nam, prosimy, przez kogo spadło na nas to nieszczęście. Jaki jest twój zawód? Skąd pochodzisz? Z jakiego kraju i z jakiego narodu jesteś?"
+  tags: []
+"Jon1,9":
+  text: "Odpowiedział im: Jestem Hebrajczykiem i boję się PANA, Boga nieba, który stworzył morze i ziemię."
+  tags: []
+"Jon1,10":
+  text: "Wtedy ci mężczyźni bardzo się zlękli i zapytali: Czemu tak uczyniłeś? Oni bowiem dowiedzieli się, że ucieka sprzed oblicza PANA, bo im to powiedział."
+  tags: []
+"Jon1,11":
+  text: "Powiedzieli jeszcze do niego: Cóż mamy z tobą uczynić, aby morze się uspokoiło? Morze bowiem coraz bardziej się burzyło."
+  tags: []
+"Jon1,12":
+  text: "Odpowiedział im: Weźcie mnie i wrzućcie do morza, a ono uspokoi się dla was, gdyż wiem, że z mojego powodu ta wielka burza przyszła na was."
+  tags: []
+"Jon1,13":
+  text: "Lecz ci mężczyźni wiosłowali silniej, aby dotrzeć do brzegu, ale nie mogli, bo morze coraz bardziej się burzyło przeciwko nim."
+  tags: []
+"Jon1,14":
+  text: "Zawołali więc do PANA: PANIE, prosimy, nie pozwól nam zginąć z powodu życia tego człowieka i nie obciążaj nas krwią niewinną. Ty bowiem, PANIE, uczyniłeś, jak ci się spodobało."
+  tags: []
+"Jon1,15":
+  text: "Potem wzięli Jonasza i wrzucili do morza, a morze przestało się burzyć."
+  tags: []
+"Jon1,16":
+  text: "Wtedy ci mężczyźni, zdjęci wielkim strachem przed PANEM, złożyli PANU ofiarę i uczynili śluby."
+  tags: []
+"Jon1,17":
+  text: "A PAN przygotował wielką rybę, która połknęła Jonasza. I Jonasz był we wnętrznościach tej ryby trzy dni i trzy noce."
+  tags: []

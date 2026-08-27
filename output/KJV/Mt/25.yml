@@ -1,46 +1,138 @@
-"Mt25,1": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
-"Mt25,2": "And five of them were wise, and five [were] foolish."
-"Mt25,3": "They that [were] foolish took their lamps, and took no oil with them:"
-"Mt25,4": "But the wise took oil in their vessels with their lamps."
-"Mt25,5": "While the bridegroom tarried, they all slumbered and slept."
-"Mt25,6": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
-"Mt25,7": "Then all those virgins arose, and trimmed their lamps."
-"Mt25,8": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
-"Mt25,9": "But the wise answered, saying, [Not so]; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
-"Mt25,10": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
-"Mt25,11": "Afterward came also the other virgins, saying, Lord, Lord, open to us."
-"Mt25,12": "But he answered and said, Verily I say unto you, I know you not."
-"Mt25,13": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
-"Mt25,14": "For [the kingdom of heaven is] as a man travelling into a far country, [who] called his own servants, and delivered unto them his goods."
-"Mt25,15": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
-"Mt25,16": "Then he that had received the five talents went and traded with the same, and made [them] other five talents."
-"Mt25,17": "And likewise he that [had received] two, he also gained other two."
-"Mt25,18": "But he that had received one went and digged in the earth, and hid his lord's money."
-"Mt25,19": "After a long time the lord of those servants cometh, and reckoneth with them."
-"Mt25,20": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
-"Mt25,21": "His lord said unto him, Well done, [thou] good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
-"Mt25,22": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
-"Mt25,23": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
-"Mt25,24": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
-"Mt25,25": "And I was afraid, and went and hid thy talent in the earth: lo, [there] thou hast [that is] thine."
-"Mt25,26": "His lord answered and said unto him, [Thou] wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
-"Mt25,27": "Thou oughtest therefore to have put my money to the exchangers, and [then] at my coming I should have received mine own with usury."
-"Mt25,28": "Take therefore the talent from him, and give [it] unto him which hath ten talents."
-"Mt25,29": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath."
-"Mt25,30": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
-"Mt25,31": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
-"Mt25,32": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth [his] sheep from the goats:"
-"Mt25,33": "And he shall set the sheep on his right hand, but the goats on the left."
-"Mt25,34": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
-"Mt25,35": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
-"Mt25,36": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
-"Mt25,37": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed [thee]? or thirsty, and gave [thee] drink?"
-"Mt25,38": "When saw we thee a stranger, and took [thee] in? or naked, and clothed [thee]?"
-"Mt25,39": "Or when saw we thee sick, or in prison, and came unto thee?"
-"Mt25,40": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done [it] unto one of the least of these my brethren, ye have done [it] unto me."
-"Mt25,41": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
-"Mt25,42": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
-"Mt25,43": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
-"Mt25,44": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
-"Mt25,45": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did [it] not to one of the least of these, ye did [it] not to me."
-"Mt25,46": "And these shall go away into everlasting punishment: but the righteous into life eternal."
+"Mt25,1":
+  text: "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+  tags: []
+"Mt25,2":
+  text: "And five of them were wise, and five [were] foolish."
+  tags: []
+"Mt25,3":
+  text: "They that [were] foolish took their lamps, and took no oil with them:"
+  tags: []
+"Mt25,4":
+  text: "But the wise took oil in their vessels with their lamps."
+  tags: []
+"Mt25,5":
+  text: "While the bridegroom tarried, they all slumbered and slept."
+  tags: []
+"Mt25,6":
+  text: "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+  tags: []
+"Mt25,7":
+  text: "Then all those virgins arose, and trimmed their lamps."
+  tags: []
+"Mt25,8":
+  text: "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+  tags: []
+"Mt25,9":
+  text: "But the wise answered, saying, [Not so]; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+  tags: []
+"Mt25,10":
+  text: "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+  tags: []
+"Mt25,11":
+  text: "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+  tags: []
+"Mt25,12":
+  text: "But he answered and said, Verily I say unto you, I know you not."
+  tags: []
+"Mt25,13":
+  text: "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
+  tags: []
+"Mt25,14":
+  text: "For [the kingdom of heaven is] as a man travelling into a far country, [who] called his own servants, and delivered unto them his goods."
+  tags: []
+"Mt25,15":
+  text: "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+  tags: []
+"Mt25,16":
+  text: "Then he that had received the five talents went and traded with the same, and made [them] other five talents."
+  tags: []
+"Mt25,17":
+  text: "And likewise he that [had received] two, he also gained other two."
+  tags: []
+"Mt25,18":
+  text: "But he that had received one went and digged in the earth, and hid his lord's money."
+  tags: []
+"Mt25,19":
+  text: "After a long time the lord of those servants cometh, and reckoneth with them."
+  tags: []
+"Mt25,20":
+  text: "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+  tags: []
+"Mt25,21":
+  text: "His lord said unto him, Well done, [thou] good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+  tags: []
+"Mt25,22":
+  text: "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
+  tags: []
+"Mt25,23":
+  text: "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+  tags: []
+"Mt25,24":
+  text: "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
+  tags: []
+"Mt25,25":
+  text: "And I was afraid, and went and hid thy talent in the earth: lo, [there] thou hast [that is] thine."
+  tags: []
+"Mt25,26":
+  text: "His lord answered and said unto him, [Thou] wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+  tags: []
+"Mt25,27":
+  text: "Thou oughtest therefore to have put my money to the exchangers, and [then] at my coming I should have received mine own with usury."
+  tags: []
+"Mt25,28":
+  text: "Take therefore the talent from him, and give [it] unto him which hath ten talents."
+  tags: []
+"Mt25,29":
+  text: "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath."
+  tags: []
+"Mt25,30":
+  text: "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+  tags: []
+"Mt25,31":
+  text: "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+  tags: []
+"Mt25,32":
+  text: "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth [his] sheep from the goats:"
+  tags: []
+"Mt25,33":
+  text: "And he shall set the sheep on his right hand, but the goats on the left."
+  tags: []
+"Mt25,34":
+  text: "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
+  tags: []
+"Mt25,35":
+  text: "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+  tags: []
+"Mt25,36":
+  text: "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+  tags: []
+"Mt25,37":
+  text: "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed [thee]? or thirsty, and gave [thee] drink?"
+  tags: []
+"Mt25,38":
+  text: "When saw we thee a stranger, and took [thee] in? or naked, and clothed [thee]?"
+  tags: []
+"Mt25,39":
+  text: "Or when saw we thee sick, or in prison, and came unto thee?"
+  tags: []
+"Mt25,40":
+  text: "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done [it] unto one of the least of these my brethren, ye have done [it] unto me."
+  tags: []
+"Mt25,41":
+  text: "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+  tags: []
+"Mt25,42":
+  text: "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+  tags: []
+"Mt25,43":
+  text: "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+  tags: []
+"Mt25,44":
+  text: "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+  tags: []
+"Mt25,45":
+  text: "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did [it] not to one of the least of these, ye did [it] not to me."
+  tags: []
+"Mt25,46":
+  text: "And these shall go away into everlasting punishment: but the righteous into life eternal."
+  tags: []

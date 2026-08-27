@@ -1,23 +1,69 @@
-"1Sm22,1": "Potem Dawid odszedł stamtąd i uciekł do jaskini Adullam. Kiedy jego bracia i cała rodzina jego ojca usłyszeli o tym, przyszli tam do niego."
-"1Sm22,2": "I zebrali się wokół niego wszyscy, którzy byli uciśnieni, wszyscy, którzy byli zadłużeni, oraz wszyscy, którzy byli rozgoryczeni, a on stał się ich przywódcą. I było przy nim około czterystu mężczyzn."
-"1Sm22,3": "Stamtąd Dawid poszedł do Mispy w Moabie i powiedział do króla Moabu: Pozwól, proszę, by mój ojciec i moja matka przyszli i mieszkali z wami, aż się dowiem, co Bóg ze mną uczyni."
-"1Sm22,4": "Przyprowadził ich więc przed króla Moabu i mieszkali u niego przez wszystkie dni, kiedy Dawid przebywał w warowni."
-"1Sm22,5": "Potem prorok Gad powiedział do Dawida: Nie pozostawaj w warowni. Wyrusz i wróć do ziemi judzkiej. Dawid wyruszył więc i przybył do lasu Cheret."
-"1Sm22,6": "W czasie gdy Saul usłyszał, że pojawił się Dawid oraz ludzie, którzy z nim byli, Saul przebywał w Gibea pod drzewem w Rama, z włócznią w ręku, a wszyscy jego słudzy stali przy nim."
-"1Sm22,7": "Saul powiedział więc do swych sług, którzy stali przy nim: Słuchajcie, Beniaminici: Czy syn Jessego da wam wszystkim pola i winnice i czy wszystkich was ustanowi tysiącznikami i setnikami?"
-"1Sm22,8": "Czy dlatego sprzysięgliście się wszyscy przeciwko mnie i nie ma nikogo, kto by mi wyjawił, że mój syn zawarł przymierze z synem Jessego, i nie ma nikogo wśród was, kto by mi współczuł i powiadomił mnie, że mój syn podburzył mego sługę przeciwko mnie, aby czyhał na mnie, jak to jest dzisiaj?"
-"1Sm22,9": "Wtedy Doeg Edomita, przełożony sług Saula, odpowiedział: Widziałem syna Jessego, gdy przyszedł do Nob, do Achimeleka, syna Achituba."
-"1Sm22,10": "Ten radził się PANA w jego sprawie i dał mu żywność, dał mu też miecz Goliata Filistyna."
-"1Sm22,11": "Wtedy król posłał, by wezwać kapłana Achimeleka, syna Achituba, i cały dom jego ojca, czyli kapłanów, którzy byli w Nob. I wszyscy oni przyszli do króla."
-"1Sm22,12": "Saul powiedział: Słuchaj teraz, synu Achituba. A ten odpowiedział: Oto jestem, mój panie."
-"1Sm22,13": "Saul zapytał go: Dlaczego sprzysięgliście się przeciwko mnie, ty i syn Jessego, że dałeś mu chleb i miecz i radziłeś się Boga w jego sprawie, by powstał przeciwko mnie, czyhając na mnie, jak to jest dzisiaj?"
-"1Sm22,14": "Achimelek odpowiedział królowi: I któż spośród wszystkich twoich sług jest tak wierny jak Dawid, zięć króla, który wyrusza na twój rozkaz i jest szanowany w twoim domu?"
-"1Sm22,15": "Czyż dopiero dziś zacząłem radzić się Boga w jego sprawie? Dalekie to ode mnie! Niech król nie obciąża swego sługi ani całego domu mego ojca niczym takim. Twój sługa bowiem nie miał o tym wszystkim najmniejszego pojęcia."
-"1Sm22,16": "Król powiedział: Musisz umrzeć, Achimeleku, ty i cały dom twego ojca."
-"1Sm22,17": "Potem król nakazał sługom, którzy stali przy nim: Odwróćcie się i zabijcie kapłanów PANA, gdyż ich ręka także jest z Dawidem, a chociaż wiedzieli, że on uciekł, nie powiadomili mnie. Lecz słudzy króla nie chcieli podnieść ręki na kapłanów PANA i rzucić się na nich."
-"1Sm22,18": "Wtedy król powiedział do Doega: Odwróć się i rzuć na kapłanów. I Doeg Edomita odwrócił się i rzucił na kapłanów, i zabił w tym dniu osiemdziesięciu pięciu mężczyzn noszących lniany efod."
-"1Sm22,19": "Również Nob, miasto kapłanów, wybił ostrzem miecza: mężczyzn i kobiety, dzieci i niemowlęta, woły, osły i owce – wszystko to ostrzem miecza."
-"1Sm22,20": "Uszedł tylko jeden syn Achimeleka, syna Achituba, imieniem Abiatar, uciekł on do Dawida."
-"1Sm22,21": "Abiatar zawiadomił Dawida, że Saul zabił kapłanów PANA."
-"1Sm22,22": "I Dawid powiedział do Abiatara: Wiedziałem już tego dnia, gdy był tam Doeg Edomita, że z pewnością doniesie o tym Saulowi. To ja spowodowałem śmierć wszystkich osób z domu twego ojca."
-"1Sm22,23": "Zostań ze mną, nie bój się. Kto bowiem czyha na moje życie, czyha też na twoje życie. Lecz u mnie będziesz bezpieczny."
+"1Sm22,1":
+  text: "Potem Dawid odszedł stamtąd i uciekł do jaskini Adullam. Kiedy jego bracia i cała rodzina jego ojca usłyszeli o tym, przyszli tam do niego."
+  tags: []
+"1Sm22,2":
+  text: "I zebrali się wokół niego wszyscy, którzy byli uciśnieni, wszyscy, którzy byli zadłużeni, oraz wszyscy, którzy byli rozgoryczeni, a on stał się ich przywódcą. I było przy nim około czterystu mężczyzn."
+  tags: []
+"1Sm22,3":
+  text: "Stamtąd Dawid poszedł do Mispy w Moabie i powiedział do króla Moabu: Pozwól, proszę, by mój ojciec i moja matka przyszli i mieszkali z wami, aż się dowiem, co Bóg ze mną uczyni."
+  tags: []
+"1Sm22,4":
+  text: "Przyprowadził ich więc przed króla Moabu i mieszkali u niego przez wszystkie dni, kiedy Dawid przebywał w warowni."
+  tags: []
+"1Sm22,5":
+  text: "Potem prorok Gad powiedział do Dawida: Nie pozostawaj w warowni. Wyrusz i wróć do ziemi judzkiej. Dawid wyruszył więc i przybył do lasu Cheret."
+  tags: []
+"1Sm22,6":
+  text: "W czasie gdy Saul usłyszał, że pojawił się Dawid oraz ludzie, którzy z nim byli, Saul przebywał w Gibea pod drzewem w Rama, z włócznią w ręku, a wszyscy jego słudzy stali przy nim."
+  tags: []
+"1Sm22,7":
+  text: "Saul powiedział więc do swych sług, którzy stali przy nim: Słuchajcie, Beniaminici: Czy syn Jessego da wam wszystkim pola i winnice i czy wszystkich was ustanowi tysiącznikami i setnikami?"
+  tags: []
+"1Sm22,8":
+  text: "Czy dlatego sprzysięgliście się wszyscy przeciwko mnie i nie ma nikogo, kto by mi wyjawił, że mój syn zawarł przymierze z synem Jessego, i nie ma nikogo wśród was, kto by mi współczuł i powiadomił mnie, że mój syn podburzył mego sługę przeciwko mnie, aby czyhał na mnie, jak to jest dzisiaj?"
+  tags: []
+"1Sm22,9":
+  text: "Wtedy Doeg Edomita, przełożony sług Saula, odpowiedział: Widziałem syna Jessego, gdy przyszedł do Nob, do Achimeleka, syna Achituba."
+  tags: []
+"1Sm22,10":
+  text: "Ten radził się PANA w jego sprawie i dał mu żywność, dał mu też miecz Goliata Filistyna."
+  tags: []
+"1Sm22,11":
+  text: "Wtedy król posłał, by wezwać kapłana Achimeleka, syna Achituba, i cały dom jego ojca, czyli kapłanów, którzy byli w Nob. I wszyscy oni przyszli do króla."
+  tags: []
+"1Sm22,12":
+  text: "Saul powiedział: Słuchaj teraz, synu Achituba. A ten odpowiedział: Oto jestem, mój panie."
+  tags: []
+"1Sm22,13":
+  text: "Saul zapytał go: Dlaczego sprzysięgliście się przeciwko mnie, ty i syn Jessego, że dałeś mu chleb i miecz i radziłeś się Boga w jego sprawie, by powstał przeciwko mnie, czyhając na mnie, jak to jest dzisiaj?"
+  tags: []
+"1Sm22,14":
+  text: "Achimelek odpowiedział królowi: I któż spośród wszystkich twoich sług jest tak wierny jak Dawid, zięć króla, który wyrusza na twój rozkaz i jest szanowany w twoim domu?"
+  tags: []
+"1Sm22,15":
+  text: "Czyż dopiero dziś zacząłem radzić się Boga w jego sprawie? Dalekie to ode mnie! Niech król nie obciąża swego sługi ani całego domu mego ojca niczym takim. Twój sługa bowiem nie miał o tym wszystkim najmniejszego pojęcia."
+  tags: []
+"1Sm22,16":
+  text: "Król powiedział: Musisz umrzeć, Achimeleku, ty i cały dom twego ojca."
+  tags: []
+"1Sm22,17":
+  text: "Potem król nakazał sługom, którzy stali przy nim: Odwróćcie się i zabijcie kapłanów PANA, gdyż ich ręka także jest z Dawidem, a chociaż wiedzieli, że on uciekł, nie powiadomili mnie. Lecz słudzy króla nie chcieli podnieść ręki na kapłanów PANA i rzucić się na nich."
+  tags: []
+"1Sm22,18":
+  text: "Wtedy król powiedział do Doega: Odwróć się i rzuć na kapłanów. I Doeg Edomita odwrócił się i rzucił na kapłanów, i zabił w tym dniu osiemdziesięciu pięciu mężczyzn noszących lniany efod."
+  tags: []
+"1Sm22,19":
+  text: "Również Nob, miasto kapłanów, wybił ostrzem miecza: mężczyzn i kobiety, dzieci i niemowlęta, woły, osły i owce – wszystko to ostrzem miecza."
+  tags: []
+"1Sm22,20":
+  text: "Uszedł tylko jeden syn Achimeleka, syna Achituba, imieniem Abiatar, uciekł on do Dawida."
+  tags: []
+"1Sm22,21":
+  text: "Abiatar zawiadomił Dawida, że Saul zabił kapłanów PANA."
+  tags: []
+"1Sm22,22":
+  text: "I Dawid powiedział do Abiatara: Wiedziałem już tego dnia, gdy był tam Doeg Edomita, że z pewnością doniesie o tym Saulowi. To ja spowodowałem śmierć wszystkich osób z domu twego ojca."
+  tags: []
+"1Sm22,23":
+  text: "Zostań ze mną, nie bój się. Kto bowiem czyha na moje życie, czyha też na twoje życie. Lecz u mnie będziesz bezpieczny."
+  tags: []

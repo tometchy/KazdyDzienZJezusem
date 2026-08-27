@@ -1,22 +1,66 @@
-"Wj13,1": "I PAN powiedział do Mojżesza:"
-"Wj13,2": "Poświęć mi wszystko, co pierworodne. Wszystko, co otwiera łono u synów Izraela, tak wśród ludzi, jak i wśród bydła. To należy do mnie."
-"Wj13,3": "Mojżesz powiedział więc do ludu: Pamiętajcie ten dzień, w którym wyszliście z Egiptu, z domu niewoli. PAN bowiem potężną ręką wyprowadził was stamtąd. Nie będziecie jeść nic kwaszonego."
-"Wj13,4": "Dziś wychodzicie, w miesiącu Abib."
-"Wj13,5": "A gdy PAN wprowadzi cię do ziemi Kananejczyków, Chetytów, Amorytów, Chiwwitów i Jebusytów, którą przysiągł dać waszym ojcom, ziemię opływającą mlekiem i miodem, wtedy będziesz obchodził ten obrzęd w tym samym miesiącu."
-"Wj13,6": "Przez siedem dni będziesz jeść przaśny chleb, a siódmego dnia będzie święto dla PANA."
-"Wj13,7": "Będziesz jadł przaśny chleb przez siedem dni i nie może znaleźć się u ciebie nic kwaszonego ani żaden zakwas nie może być widziany we wszystkich twoich granicach."
-"Wj13,8": "W tym dniu opowiesz swemu synowi: Obchodzę to ze względu na to, co PAN dla mnie uczynił, gdy wychodziłem z Egiptu."
-"Wj13,9": "To będzie jako znak na twojej ręce i jako pamiątka przed twoimi oczyma, aby prawo PANA było na twoich ustach. PAN bowiem potężną ręką wyprowadził cię z Egiptu."
-"Wj13,10": "Będziesz przestrzegał tej ustawy w wyznaczonym czasie, z roku na rok."
-"Wj13,11": "A gdy PAN wprowadzi cię do ziemi Kanaan, jak przysiągł tobie i twoim ojcom, i da ją tobie;"
-"Wj13,12": "Wtedy przeznaczysz dla PANA wszystko, co otwiera łono, i każdy płód otwierający łono z twojego bydła, każdy samiec będzie dla PANA."
-"Wj13,13": "Każde zaś pierworodne oślę wykupisz barankiem, a jeśli nie wykupisz, złamiesz mu kark. Wykupisz też każdego pierworodnego człowieka wśród twoich synów."
-"Wj13,14": "A gdy w przyszłości twój syn cię zapyta: Cóż to jest? Wtedy odpowiesz mu: PAN wyprowadził nas potężną ręką z Egiptu, z domu niewoli."
-"Wj13,15": "Gdy bowiem faraon stał się twardy i wzbraniał się nas wypuścić, wtedy PAN zabił wszystko, co pierworodne w ziemi Egiptu, od pierworodnego z ludzi aż do pierworodnego z bydła. Dlatego składam w ofierze PANU wszystkie samce otwierające łono, ale każdego pierworodnego z moich synów wykupuję."
-"Wj13,16": "To będzie jako znak na twojej ręce i jako przepaska ozdobna między twoimi oczyma, że PAN potężną ręką wyprowadził nas z Egiptu."
-"Wj13,17": "A stało się tak, że gdy faraon wypuścił lud, Bóg nie prowadził go drogą przez ziemię Filistynów, chociaż była bliższa. Bóg bowiem powiedział: Żeby lud na widok wojny nie żałował i nie wrócił do Egiptu."
-"Wj13,18": "Ale Bóg prowadził lud okrężną drogą przez pustynię nad Morzem Czerwonym. I synowie Izraela wyszli z ziemi Egiptu w bojowym szyku."
-"Wj13,19": "Mojżesz wziął też ze sobą kości Józefa, gdyż ten zobowiązał synów Izraela przysięgą, mówiąc: Na pewno Bóg was nawiedzi. Zabierzcie więc stąd ze sobą moje kości."
-"Wj13,20": "Wyruszyli z Sukkot i rozbili obóz w Etam, na skraju pustyni."
-"Wj13,21": "A PAN szedł przed nimi za dnia w słupie obłoku, by prowadzić ich drogą, a nocą w słupie ognia, by im świecić, żeby mogli iść dniem i nocą."
-"Wj13,22": "Nie oddalał od ludu ani słupa obłoku za dnia, ani słupa ognia nocą."
+"Wj13,1":
+  text: "I PAN powiedział do Mojżesza:"
+  tags: []
+"Wj13,2":
+  text: "Poświęć mi wszystko, co pierworodne. Wszystko, co otwiera łono u synów Izraela, tak wśród ludzi, jak i wśród bydła. To należy do mnie."
+  tags: []
+"Wj13,3":
+  text: "Mojżesz powiedział więc do ludu: Pamiętajcie ten dzień, w którym wyszliście z Egiptu, z domu niewoli. PAN bowiem potężną ręką wyprowadził was stamtąd. Nie będziecie jeść nic kwaszonego."
+  tags: []
+"Wj13,4":
+  text: "Dziś wychodzicie, w miesiącu Abib."
+  tags: []
+"Wj13,5":
+  text: "A gdy PAN wprowadzi cię do ziemi Kananejczyków, Chetytów, Amorytów, Chiwwitów i Jebusytów, którą przysiągł dać waszym ojcom, ziemię opływającą mlekiem i miodem, wtedy będziesz obchodził ten obrzęd w tym samym miesiącu."
+  tags: []
+"Wj13,6":
+  text: "Przez siedem dni będziesz jeść przaśny chleb, a siódmego dnia będzie święto dla PANA."
+  tags: []
+"Wj13,7":
+  text: "Będziesz jadł przaśny chleb przez siedem dni i nie może znaleźć się u ciebie nic kwaszonego ani żaden zakwas nie może być widziany we wszystkich twoich granicach."
+  tags: []
+"Wj13,8":
+  text: "W tym dniu opowiesz swemu synowi: Obchodzę to ze względu na to, co PAN dla mnie uczynił, gdy wychodziłem z Egiptu."
+  tags: []
+"Wj13,9":
+  text: "To będzie jako znak na twojej ręce i jako pamiątka przed twoimi oczyma, aby prawo PANA było na twoich ustach. PAN bowiem potężną ręką wyprowadził cię z Egiptu."
+  tags: []
+"Wj13,10":
+  text: "Będziesz przestrzegał tej ustawy w wyznaczonym czasie, z roku na rok."
+  tags: []
+"Wj13,11":
+  text: "A gdy PAN wprowadzi cię do ziemi Kanaan, jak przysiągł tobie i twoim ojcom, i da ją tobie;"
+  tags: []
+"Wj13,12":
+  text: "Wtedy przeznaczysz dla PANA wszystko, co otwiera łono, i każdy płód otwierający łono z twojego bydła, każdy samiec będzie dla PANA."
+  tags: []
+"Wj13,13":
+  text: "Każde zaś pierworodne oślę wykupisz barankiem, a jeśli nie wykupisz, złamiesz mu kark. Wykupisz też każdego pierworodnego człowieka wśród twoich synów."
+  tags: []
+"Wj13,14":
+  text: "A gdy w przyszłości twój syn cię zapyta: Cóż to jest? Wtedy odpowiesz mu: PAN wyprowadził nas potężną ręką z Egiptu, z domu niewoli."
+  tags: []
+"Wj13,15":
+  text: "Gdy bowiem faraon stał się twardy i wzbraniał się nas wypuścić, wtedy PAN zabił wszystko, co pierworodne w ziemi Egiptu, od pierworodnego z ludzi aż do pierworodnego z bydła. Dlatego składam w ofierze PANU wszystkie samce otwierające łono, ale każdego pierworodnego z moich synów wykupuję."
+  tags: []
+"Wj13,16":
+  text: "To będzie jako znak na twojej ręce i jako przepaska ozdobna między twoimi oczyma, że PAN potężną ręką wyprowadził nas z Egiptu."
+  tags: []
+"Wj13,17":
+  text: "A stało się tak, że gdy faraon wypuścił lud, Bóg nie prowadził go drogą przez ziemię Filistynów, chociaż była bliższa. Bóg bowiem powiedział: Żeby lud na widok wojny nie żałował i nie wrócił do Egiptu."
+  tags: []
+"Wj13,18":
+  text: "Ale Bóg prowadził lud okrężną drogą przez pustynię nad Morzem Czerwonym. I synowie Izraela wyszli z ziemi Egiptu w bojowym szyku."
+  tags: []
+"Wj13,19":
+  text: "Mojżesz wziął też ze sobą kości Józefa, gdyż ten zobowiązał synów Izraela przysięgą, mówiąc: Na pewno Bóg was nawiedzi. Zabierzcie więc stąd ze sobą moje kości."
+  tags: []
+"Wj13,20":
+  text: "Wyruszyli z Sukkot i rozbili obóz w Etam, na skraju pustyni."
+  tags: []
+"Wj13,21":
+  text: "A PAN szedł przed nimi za dnia w słupie obłoku, by prowadzić ich drogą, a nocą w słupie ognia, by im świecić, żeby mogli iść dniem i nocą."
+  tags: []
+"Wj13,22":
+  text: "Nie oddalał od ludu ani słupa obłoku za dnia, ani słupa ognia nocą."
+  tags: []

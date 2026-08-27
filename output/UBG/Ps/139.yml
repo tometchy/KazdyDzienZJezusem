@@ -1,24 +1,72 @@
-"Ps139,1": "PANIE, przeniknąłeś mnie i znasz mnie."
-"Ps139,2": "Wiesz, kiedy siedzę i wstaję, z daleka znasz moje myśli."
-"Ps139,3": "Otaczasz moją ścieżkę i spoczynek, wszystkie moje drogi są ci znane."
-"Ps139,4": "Zanim na moim języku pojawi się słowo, ty, PANIE, już je znasz."
-"Ps139,5": "Otaczasz mnie z tyłu i z przodu i położyłeś na mnie twoją rękę."
-"Ps139,6": "Zbyt cudowna jest dla mnie twoja wiedza; jest wzniosła, nie mogę jej pojąć."
-"Ps139,7": "Dokąd ujdę przed twoim duchem? Dokąd ucieknę przed twoim obliczem?"
-"Ps139,8": "Jeśli wstąpię do nieba, jesteś tam; jeśli przygotuję sobie posłanie w piekle, tam też jesteś."
-"Ps139,9": "Gdybym wziął skrzydła zorzy porannej, aby zamieszkać na krańcu morza;"
-"Ps139,10": "I tam twoja ręka prowadziłaby mnie i twoja prawica by mnie podtrzymała."
-"Ps139,11": "Jeśli powiem: Na pewno zakryją mnie ciemności, to i noc będzie dokoła mnie światłem."
-"Ps139,12": "Nawet ciemność nic przed tobą nie skryje, dla ciebie noc świeci jak dzień, ciemność jest jak światłość."
-"Ps139,13": "Ty bowiem panujesz nad moimi nerkami; okryłeś mnie w łonie mojej matki."
-"Ps139,14": "Wysławiam cię, bo zostałem stworzony w sposób zadziwiający i cudowny; przedziwne są twoje dzieła, a moja dusza zna je bardzo dobrze."
-"Ps139,15": "Żadna moja kość nie była zakryta przed tobą, gdy zostałem stworzony w skrytości i misternie złożony w głębiach ziemi."
-"Ps139,16": "Twoje oczy widziały niedoskonały płód mego ciała; w twojej księdze są zapisane wszystkie moje członki i dni, w które były kształtowane, gdy jeszcze żadnego z nich nie było."
-"Ps139,17": "Jak drogie są dla mnie twoje myśli, Boże! Jak wielka jest ich liczba!"
-"Ps139,18": "Gdybym chciał je zliczyć, byłoby ich więcej niż piasku; gdy się budzę, jeszcze jestem z tobą."
-"Ps139,19": "Zgładzisz, Boże, niegodziwego; niech odstąpią ode mnie ludzie krwawi;"
-"Ps139,20": "Którzy mówią obrzydliwości przeciwko tobie, twoi wrogowie nadaremnie biorą twoje imię."
-"Ps139,21": "Czy nie nienawidzę tych, PANIE, którzy nienawidzą ciebie? I nie brzydzę się tymi, którzy przeciwko tobie powstają?"
-"Ps139,22": "Nienawidzę ich pełnią nienawiści i mam ich za wrogów."
-"Ps139,23": "Przeniknij mnie, Boże, i poznaj moje serce; wypróbuj mnie i poznaj moje myśli;"
-"Ps139,24": "I zobacz, czy jest we mnie droga nieprawości, a prowadź mnie drogą wieczną."
+"Ps139,1":
+  text: "PANIE, przeniknąłeś mnie i znasz mnie."
+  tags: []
+"Ps139,2":
+  text: "Wiesz, kiedy siedzę i wstaję, z daleka znasz moje myśli."
+  tags: []
+"Ps139,3":
+  text: "Otaczasz moją ścieżkę i spoczynek, wszystkie moje drogi są ci znane."
+  tags: []
+"Ps139,4":
+  text: "Zanim na moim języku pojawi się słowo, ty, PANIE, już je znasz."
+  tags: []
+"Ps139,5":
+  text: "Otaczasz mnie z tyłu i z przodu i położyłeś na mnie twoją rękę."
+  tags: []
+"Ps139,6":
+  text: "Zbyt cudowna jest dla mnie twoja wiedza; jest wzniosła, nie mogę jej pojąć."
+  tags: []
+"Ps139,7":
+  text: "Dokąd ujdę przed twoim duchem? Dokąd ucieknę przed twoim obliczem?"
+  tags: []
+"Ps139,8":
+  text: "Jeśli wstąpię do nieba, jesteś tam; jeśli przygotuję sobie posłanie w piekle, tam też jesteś."
+  tags: []
+"Ps139,9":
+  text: "Gdybym wziął skrzydła zorzy porannej, aby zamieszkać na krańcu morza;"
+  tags: []
+"Ps139,10":
+  text: "I tam twoja ręka prowadziłaby mnie i twoja prawica by mnie podtrzymała."
+  tags: []
+"Ps139,11":
+  text: "Jeśli powiem: Na pewno zakryją mnie ciemności, to i noc będzie dokoła mnie światłem."
+  tags: []
+"Ps139,12":
+  text: "Nawet ciemność nic przed tobą nie skryje, dla ciebie noc świeci jak dzień, ciemność jest jak światłość."
+  tags: []
+"Ps139,13":
+  text: "Ty bowiem panujesz nad moimi nerkami; okryłeś mnie w łonie mojej matki."
+  tags: []
+"Ps139,14":
+  text: "Wysławiam cię, bo zostałem stworzony w sposób zadziwiający i cudowny; przedziwne są twoje dzieła, a moja dusza zna je bardzo dobrze."
+  tags: []
+"Ps139,15":
+  text: "Żadna moja kość nie była zakryta przed tobą, gdy zostałem stworzony w skrytości i misternie złożony w głębiach ziemi."
+  tags: []
+"Ps139,16":
+  text: "Twoje oczy widziały niedoskonały płód mego ciała; w twojej księdze są zapisane wszystkie moje członki i dni, w które były kształtowane, gdy jeszcze żadnego z nich nie było."
+  tags: []
+"Ps139,17":
+  text: "Jak drogie są dla mnie twoje myśli, Boże! Jak wielka jest ich liczba!"
+  tags: []
+"Ps139,18":
+  text: "Gdybym chciał je zliczyć, byłoby ich więcej niż piasku; gdy się budzę, jeszcze jestem z tobą."
+  tags: []
+"Ps139,19":
+  text: "Zgładzisz, Boże, niegodziwego; niech odstąpią ode mnie ludzie krwawi;"
+  tags: []
+"Ps139,20":
+  text: "Którzy mówią obrzydliwości przeciwko tobie, twoi wrogowie nadaremnie biorą twoje imię."
+  tags: []
+"Ps139,21":
+  text: "Czy nie nienawidzę tych, PANIE, którzy nienawidzą ciebie? I nie brzydzę się tymi, którzy przeciwko tobie powstają?"
+  tags: []
+"Ps139,22":
+  text: "Nienawidzę ich pełnią nienawiści i mam ich za wrogów."
+  tags: []
+"Ps139,23":
+  text: "Przeniknij mnie, Boże, i poznaj moje serce; wypróbuj mnie i poznaj moje myśli;"
+  tags: []
+"Ps139,24":
+  text: "I zobacz, czy jest we mnie droga nieprawości, a prowadź mnie drogą wieczną."
+  tags: []

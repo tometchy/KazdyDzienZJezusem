@@ -1,25 +1,75 @@
-"Rz7,1": "Czy nie wiecie, bracia – mówię bowiem do tych, którzy znają Prawo – że Prawo panuje nad człowiekiem przez czas jego życia?"
-"Rz7,2": "Bo zamężna kobieta, z żyjącym mężem jest związana Prawem; ale jeśli mąż umrze, uwolniona jest od Prawa wiążącego ją z mężem."
-"Rz7,3": "Tak więc, dopóki żyje mąż, będzie zwana cudzołożnicą, jeśli przystanie do innego męża; ale jeśli mąż umrze, wolna jest od tego Prawa i nie jest cudzołożnicą, gdy przystanie do innego męża."
-"Rz7,4": "A tak, bracia moi, i wy zostaliście uśmierceni dla Prawa przez ciało Chrystusa, żebyście przystali do innego, do Tego, który został wzbudzony z martwych, abyśmy owoc przynieśli Bogu."
-"Rz7,5": "Bo gdy byliśmy w ciele, namiętności grzechów, poprzez Prawo, działały w naszych członkach, dla przyniesienia owocu śmierci."
-"Rz7,6": "Lecz teraz zostaliśmy uwolnieni od Prawa, gdy umarliśmy dla tego, czym byliśmy zatrzymani, abyśmy służyli w nowości ducha, a nie w starości litery."
-"Rz7,7": "Cóż więc powiemy? Prawo to grzech? Z pewnością nie! Lecz nie inaczej poznałem grzech, jak przez Prawo; albowiem i o pożądliwości nie wiedziałbym, gdyby Prawo nie mówiło: Nie pożądaj."
-"Rz7,8": "Lecz grzech, gdy otrzymał okazję przez przykazanie, sprawił we mnie wszelką pożądliwość; bo bez Prawa grzech jest martwy."
-"Rz7,9": "Ja natomiast, żyłem niegdyś bez Prawa; lecz gdy przyszło przykazanie, grzech ożył, a ja umarłem,"
-"Rz7,10": "I odkryłem, że to przykazanie, które miało być ku życiu, było mi ku śmierci."
-"Rz7,11": "Grzech bowiem, skorzystał z okazji przez przykazanie, zwiódł mnie i przez nie mnie zabił."
-"Rz7,12": "Tak więc Prawo prawdziwie jest święte, i przykazanie jest święte i sprawiedliwe, i dobre."
-"Rz7,13": "Czy więc to, co dobre, stało mi się śmiercią? Z pewnością nie! Lecz grzech, aby okazać się grzechem, sprawił moją śmierć przez to, co dobre, aby grzech przez przykazanie okazał się niezmiernie grzeszny."
-"Rz7,14": "Bo wiemy, że Prawo jest duchowe, ale ja jestem cielesny, zaprzedany grzechowi."
-"Rz7,15": "Albowiem czynię to, czego nie rozumiem; bo robię nie to, co chcę, ale czynię to, czego nienawidzę."
-"Rz7,16": "A jeśli czynię to, czego nie chcę, zgadzam się z tym, że Prawo jest dobre."
-"Rz7,17": "Teraz więc, już nie ja to czynię, lecz grzech, który mieszka we mnie;"
-"Rz7,18": "Gdyż wiem, że nie mieszka we mnie, to jest w moim ciele, dobro; albowiem chcenie jest obecne we mnie, ale tego, co dobre nie znajduję."
-"Rz7,19": "Bo nie czynię tego, co dobre, które chcę; ale popełniam to, co złe, którego nie chcę."
-"Rz7,20": "A jeśli ja czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który mieszka we mnie."
-"Rz7,21": "Znajduję więc w sobie to prawo, że gdy chcę czynić dobro, jest obecne we mnie zło."
-"Rz7,22": "Albowiem mam upodobanie w Prawie Bożym, według wewnętrznego człowieka;"
-"Rz7,23": "Lecz widzę inne prawo w swoich członkach, które toczy wojnę przeciwko Prawu mojego umysłu, i które zniewala mnie prawem grzechu, będącym w moich członkach."
-"Rz7,24": "Nędzny ja człowiek! Kto mnie wyratuje z tego ciała śmierci?"
-"Rz7,25": "Dziękuję Bogu przez Jezusa Chrystusa, Pana naszego. Tak więc ja sam wprawdzie służę umysłem Prawu Bożemu, lecz ciałem prawu grzechu."
+"Rz7,1":
+  text: "Czy nie wiecie, bracia – mówię bowiem do tych, którzy znają Prawo – że Prawo panuje nad człowiekiem przez czas jego życia?"
+  tags: []
+"Rz7,2":
+  text: "Bo zamężna kobieta, z żyjącym mężem jest związana Prawem; ale jeśli mąż umrze, uwolniona jest od Prawa wiążącego ją z mężem."
+  tags: []
+"Rz7,3":
+  text: "Tak więc, dopóki żyje mąż, będzie zwana cudzołożnicą, jeśli przystanie do innego męża; ale jeśli mąż umrze, wolna jest od tego Prawa i nie jest cudzołożnicą, gdy przystanie do innego męża."
+  tags: []
+"Rz7,4":
+  text: "A tak, bracia moi, i wy zostaliście uśmierceni dla Prawa przez ciało Chrystusa, żebyście przystali do innego, do Tego, który został wzbudzony z martwych, abyśmy owoc przynieśli Bogu."
+  tags: []
+"Rz7,5":
+  text: "Bo gdy byliśmy w ciele, namiętności grzechów, poprzez Prawo, działały w naszych członkach, dla przyniesienia owocu śmierci."
+  tags: []
+"Rz7,6":
+  text: "Lecz teraz zostaliśmy uwolnieni od Prawa, gdy umarliśmy dla tego, czym byliśmy zatrzymani, abyśmy służyli w nowości ducha, a nie w starości litery."
+  tags: []
+"Rz7,7":
+  text: "Cóż więc powiemy? Prawo to grzech? Z pewnością nie! Lecz nie inaczej poznałem grzech, jak przez Prawo; albowiem i o pożądliwości nie wiedziałbym, gdyby Prawo nie mówiło: Nie pożądaj."
+  tags: []
+"Rz7,8":
+  text: "Lecz grzech, gdy otrzymał okazję przez przykazanie, sprawił we mnie wszelką pożądliwość; bo bez Prawa grzech jest martwy."
+  tags: []
+"Rz7,9":
+  text: "Ja natomiast, żyłem niegdyś bez Prawa; lecz gdy przyszło przykazanie, grzech ożył, a ja umarłem,"
+  tags: []
+"Rz7,10":
+  text: "I odkryłem, że to przykazanie, które miało być ku życiu, było mi ku śmierci."
+  tags: []
+"Rz7,11":
+  text: "Grzech bowiem, skorzystał z okazji przez przykazanie, zwiódł mnie i przez nie mnie zabił."
+  tags: []
+"Rz7,12":
+  text: "Tak więc Prawo prawdziwie jest święte, i przykazanie jest święte i sprawiedliwe, i dobre."
+  tags: []
+"Rz7,13":
+  text: "Czy więc to, co dobre, stało mi się śmiercią? Z pewnością nie! Lecz grzech, aby okazać się grzechem, sprawił moją śmierć przez to, co dobre, aby grzech przez przykazanie okazał się niezmiernie grzeszny."
+  tags: []
+"Rz7,14":
+  text: "Bo wiemy, że Prawo jest duchowe, ale ja jestem cielesny, zaprzedany grzechowi."
+  tags: []
+"Rz7,15":
+  text: "Albowiem czynię to, czego nie rozumiem; bo robię nie to, co chcę, ale czynię to, czego nienawidzę."
+  tags: []
+"Rz7,16":
+  text: "A jeśli czynię to, czego nie chcę, zgadzam się z tym, że Prawo jest dobre."
+  tags: []
+"Rz7,17":
+  text: "Teraz więc, już nie ja to czynię, lecz grzech, który mieszka we mnie;"
+  tags: []
+"Rz7,18":
+  text: "Gdyż wiem, że nie mieszka we mnie, to jest w moim ciele, dobro; albowiem chcenie jest obecne we mnie, ale tego, co dobre nie znajduję."
+  tags: []
+"Rz7,19":
+  text: "Bo nie czynię tego, co dobre, które chcę; ale popełniam to, co złe, którego nie chcę."
+  tags: []
+"Rz7,20":
+  text: "A jeśli ja czynię to, czego nie chcę, już nie ja to czynię, ale grzech, który mieszka we mnie."
+  tags: []
+"Rz7,21":
+  text: "Znajduję więc w sobie to prawo, że gdy chcę czynić dobro, jest obecne we mnie zło."
+  tags: []
+"Rz7,22":
+  text: "Albowiem mam upodobanie w Prawie Bożym, według wewnętrznego człowieka;"
+  tags: []
+"Rz7,23":
+  text: "Lecz widzę inne prawo w swoich członkach, które toczy wojnę przeciwko Prawu mojego umysłu, i które zniewala mnie prawem grzechu, będącym w moich członkach."
+  tags: []
+"Rz7,24":
+  text: "Nędzny ja człowiek! Kto mnie wyratuje z tego ciała śmierci?"
+  tags: []
+"Rz7,25":
+  text: "Dziękuję Bogu przez Jezusa Chrystusa, Pana naszego. Tak więc ja sam wprawdzie służę umysłem Prawu Bożemu, lecz ciałem prawu grzechu."
+  tags: []

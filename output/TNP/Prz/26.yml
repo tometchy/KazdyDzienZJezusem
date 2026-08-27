@@ -1,28 +1,84 @@
-"Prz26,1": "Jak śnieg w lecie i jak deszcz w żniwa, tak głupiemu nie przystoi chwała."
-"Prz26,2": "Jak z wędrującym ptakiem i jak z odlatującą jaskółką, tak jest z bezpodstawnym przekleństwem – nie spełnia się."
-"Prz26,3": "Bicz na konia, wędzidło na osła, a rózga na grzbiet głupiego."
-"Prz26,4": "Nie odpowiadaj głupiemu według jego głupoty, abyś i ty także nie był do niego podobny."
-"Prz26,5": "Odpowiedz głupiemu według jego głupoty, aby nie był mądry we własnych oczach."
-"Prz26,6": "Kto wysyła wiadomość przez rękę głupca, podcina sobie nogi i chce napić się gwałtu."
-"Prz26,7": "Jak wlokące się nogi chromego, tak przysłowie w ustach głupców."
-"Prz26,8": "Jak przywiązanie kamienia do procy, tym cześć dla głupca."
-"Prz26,9": "Jak cierń dostał się w rękę pijanego, tak przysłowie w usta głupców."
-"Prz26,10": "Łucznik zadający ból wszystkim jest najemcą głupca, a także najemcą przygodnego."
-"Prz26,11": "Jak pies powraca do swoich wymiocin, tak głupi powtarza swoje głupstwa."
-"Prz26,12": "Widzisz człowieka, który jest mądry w swoich oczach? Więcej nadziei dla głupca niż dla niego."
-"Prz26,13": "Leniwy mówi: Lwiątko na drodze, lew na środku placów."
-"Prz26,14": "Jak drzwi się obracają na swoich czopach, tak leniwy na swoim łóżku."
-"Prz26,15": "Leniwy grzebie swą ręką w misie lecz jest zbyt zmęczony, by ją podnosić do ust."
-"Prz26,16": "Leniwy jest w swoich oczach mądrzejszy niż siedmiu odpowiadających ze znajomością rzeczy."
-"Prz26,17": "Kto wtrąca się do nie swojego sporu, jest jak ten, kto łapie przechodzącego psa za uszy."
-"Prz26,18": "Jak szaleniec, który rzuca płonące głownie, strzały i śmierć,"
-"Prz26,19": "Takim jest człowiek, który omamił swojego bliźniego, a potem mówi: Czyż nie żartowałem?"
-"Prz26,20": "Nie ma drewna – gaśnie ogień; nie ma oszczercy – ustaje spór."
-"Prz26,21": "Czym węgiel dla żaru i drewno dla ognia, tym człowiek kłótliwy do wzniecenia sporu."
-"Prz26,22": "Słowa oszczercy są jak smakołyki, które zstępują do głębin wnętrzności."
-"Prz26,23": "Płomienne usta i złe serce są jak gliniane naczynie pokryte srebrnym żużlem."
-"Prz26,24": "Kto nienawidzi, udaje wargami kogoś innego, lecz we wnętrzu utwierdza zamiar podstępu."
-"Prz26,25": "Gdy mówi przychylnym głosem, nie wierz mu, bo siedem obrzydliwości ma w swoim sercu."
-"Prz26,26": "Nienawiść okrywa się podstępem, ale niegodziwość będzie odkryta w zgromadzeniu."
-"Prz26,27": "Kto kopie dół, wpadnie w niego; kto toczy kamień, wróci on do niego."
-"Prz26,28": "Kłamliwy język nienawidzi tych, których zmiażdżył, a usta pochlebcy powodują ruinę."
+"Prz26,1":
+  text: "Jak śnieg w lecie i jak deszcz w żniwa, tak głupiemu nie przystoi chwała."
+  tags: []
+"Prz26,2":
+  text: "Jak z wędrującym ptakiem i jak z odlatującą jaskółką, tak jest z bezpodstawnym przekleństwem – nie spełnia się."
+  tags: []
+"Prz26,3":
+  text: "Bicz na konia, wędzidło na osła, a rózga na grzbiet głupiego."
+  tags: []
+"Prz26,4":
+  text: "Nie odpowiadaj głupiemu według jego głupoty, abyś i ty także nie był do niego podobny."
+  tags: []
+"Prz26,5":
+  text: "Odpowiedz głupiemu według jego głupoty, aby nie był mądry we własnych oczach."
+  tags: []
+"Prz26,6":
+  text: "Kto wysyła wiadomość przez rękę głupca, podcina sobie nogi i chce napić się gwałtu."
+  tags: []
+"Prz26,7":
+  text: "Jak wlokące się nogi chromego, tak przysłowie w ustach głupców."
+  tags: []
+"Prz26,8":
+  text: "Jak przywiązanie kamienia do procy, tym cześć dla głupca."
+  tags: []
+"Prz26,9":
+  text: "Jak cierń dostał się w rękę pijanego, tak przysłowie w usta głupców."
+  tags: []
+"Prz26,10":
+  text: "Łucznik zadający ból wszystkim jest najemcą głupca, a także najemcą przygodnego."
+  tags: []
+"Prz26,11":
+  text: "Jak pies powraca do swoich wymiocin, tak głupi powtarza swoje głupstwa."
+  tags: []
+"Prz26,12":
+  text: "Widzisz człowieka, który jest mądry w swoich oczach? Więcej nadziei dla głupca niż dla niego."
+  tags: []
+"Prz26,13":
+  text: "Leniwy mówi: Lwiątko na drodze, lew na środku placów."
+  tags: []
+"Prz26,14":
+  text: "Jak drzwi się obracają na swoich czopach, tak leniwy na swoim łóżku."
+  tags: []
+"Prz26,15":
+  text: "Leniwy grzebie swą ręką w misie lecz jest zbyt zmęczony, by ją podnosić do ust."
+  tags: []
+"Prz26,16":
+  text: "Leniwy jest w swoich oczach mądrzejszy niż siedmiu odpowiadających ze znajomością rzeczy."
+  tags: []
+"Prz26,17":
+  text: "Kto wtrąca się do nie swojego sporu, jest jak ten, kto łapie przechodzącego psa za uszy."
+  tags: []
+"Prz26,18":
+  text: "Jak szaleniec, który rzuca płonące głownie, strzały i śmierć,"
+  tags: []
+"Prz26,19":
+  text: "Takim jest człowiek, który omamił swojego bliźniego, a potem mówi: Czyż nie żartowałem?"
+  tags: []
+"Prz26,20":
+  text: "Nie ma drewna – gaśnie ogień; nie ma oszczercy – ustaje spór."
+  tags: []
+"Prz26,21":
+  text: "Czym węgiel dla żaru i drewno dla ognia, tym człowiek kłótliwy do wzniecenia sporu."
+  tags: []
+"Prz26,22":
+  text: "Słowa oszczercy są jak smakołyki, które zstępują do głębin wnętrzności."
+  tags: []
+"Prz26,23":
+  text: "Płomienne usta i złe serce są jak gliniane naczynie pokryte srebrnym żużlem."
+  tags: []
+"Prz26,24":
+  text: "Kto nienawidzi, udaje wargami kogoś innego, lecz we wnętrzu utwierdza zamiar podstępu."
+  tags: []
+"Prz26,25":
+  text: "Gdy mówi przychylnym głosem, nie wierz mu, bo siedem obrzydliwości ma w swoim sercu."
+  tags: []
+"Prz26,26":
+  text: "Nienawiść okrywa się podstępem, ale niegodziwość będzie odkryta w zgromadzeniu."
+  tags: []
+"Prz26,27":
+  text: "Kto kopie dół, wpadnie w niego; kto toczy kamień, wróci on do niego."
+  tags: []
+"Prz26,28":
+  text: "Kłamliwy język nienawidzi tych, których zmiażdżył, a usta pochlebcy powodują ruinę."
+  tags: []

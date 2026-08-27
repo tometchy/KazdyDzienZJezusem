@@ -1,21 +1,63 @@
-"Hi7,1": "Czyż nie służbę ma człowiek na ziemi? I czyż nie są jego dni jak dni najemnika?"
-"Hi7,2": "Jak sługa pragnie cienia, i jak najemnik czeka na swoją zapłatę,"
-"Hi7,3": "Tak moim udziałem są miesiące marności i wyznaczono mi noce pełne udręki."
-"Hi7,4": "Gdy się kładę i myślę: Kiedy wstanę? Noc się wydłuża, a jestem nasycony niepokojem aż do świtu."
-"Hi7,5": "Moje ciało obleczone robactwem i grudą prochu, moja skóra pęka i ropieje."
-"Hi7,6": "Moje dni umykają bardziej niż czółenko tkackie i przemijają bez nadziei."
-"Hi7,7": "Pamiętaj, że moje życie jest powiewem, moje oko nie zobaczy już więcej dobra."
-"Hi7,8": "Oko patrzącego już mnie nie zobaczy. Twoje oczy są zwrócone na mnie, a mnie już nie ma!"
-"Hi7,9": "Jak obłok znika i przemija, tak zstępujący do Szeolu – nie wraca."
-"Hi7,10": "Nie wróci już do swojego domu ani nie rozpozna go już jego miejsce."
-"Hi7,11": "Dlatego ja nie mogę powstrzymać swoich ust, będę mówił w udręce mojego ducha, będę narzekał w goryczy mojej duszy."
-"Hi7,12": "Czy ja jestem morzem lub potworem morskim, że postawiłeś przy mnie straż?"
-"Hi7,13": "Gdy myślę: Pocieszy mnie moje łóżko, a moje posłanie ulży mojemu narzekaniu;"
-"Hi7,14": "To straszysz mnie snami i przerażasz mnie wizjami;"
-"Hi7,15": "Więc moja dusza wybiera uduszenie, śmierć raczej niż moje życie."
-"Hi7,16": "Gardzę życiem, nie chcę tu żyć na wieki. Zostaw mnie, bo moje dni są marnością."
-"Hi7,17": "Czym jest człowiek, że tak go wywyższasz i że zwracasz ku niemu swoje serce?"
-"Hi7,18": "Że nawiedzasz go co poranek i co chwila doświadczasz?"
-"Hi7,19": "Czy nie przestaniesz wpatrywać się we mnie i nie pozwolisz mi nawet przełknąć swoją ślinę?"
-"Hi7,20": "Zgrzeszyłem, co uczyniłem Tobie, Stróżu człowieka? Dlaczego wziąłeś mnie za cel, abym był sam dla siebie ciężarem?"
-"Hi7,21": "I dlaczego nie usuwasz mojego przestępstwa, a nie zmażesz mojej nieprawości? Bo teraz położę się w prochu i gdy będziesz zabiegał o mnie, nie będzie mnie."
+"Hi7,1":
+  text: "Czyż nie służbę ma człowiek na ziemi? I czyż nie są jego dni jak dni najemnika?"
+  tags: []
+"Hi7,2":
+  text: "Jak sługa pragnie cienia, i jak najemnik czeka na swoją zapłatę,"
+  tags: []
+"Hi7,3":
+  text: "Tak moim udziałem są miesiące marności i wyznaczono mi noce pełne udręki."
+  tags: []
+"Hi7,4":
+  text: "Gdy się kładę i myślę: Kiedy wstanę? Noc się wydłuża, a jestem nasycony niepokojem aż do świtu."
+  tags: []
+"Hi7,5":
+  text: "Moje ciało obleczone robactwem i grudą prochu, moja skóra pęka i ropieje."
+  tags: []
+"Hi7,6":
+  text: "Moje dni umykają bardziej niż czółenko tkackie i przemijają bez nadziei."
+  tags: []
+"Hi7,7":
+  text: "Pamiętaj, że moje życie jest powiewem, moje oko nie zobaczy już więcej dobra."
+  tags: []
+"Hi7,8":
+  text: "Oko patrzącego już mnie nie zobaczy. Twoje oczy są zwrócone na mnie, a mnie już nie ma!"
+  tags: []
+"Hi7,9":
+  text: "Jak obłok znika i przemija, tak zstępujący do Szeolu – nie wraca."
+  tags: []
+"Hi7,10":
+  text: "Nie wróci już do swojego domu ani nie rozpozna go już jego miejsce."
+  tags: []
+"Hi7,11":
+  text: "Dlatego ja nie mogę powstrzymać swoich ust, będę mówił w udręce mojego ducha, będę narzekał w goryczy mojej duszy."
+  tags: []
+"Hi7,12":
+  text: "Czy ja jestem morzem lub potworem morskim, że postawiłeś przy mnie straż?"
+  tags: []
+"Hi7,13":
+  text: "Gdy myślę: Pocieszy mnie moje łóżko, a moje posłanie ulży mojemu narzekaniu;"
+  tags: []
+"Hi7,14":
+  text: "To straszysz mnie snami i przerażasz mnie wizjami;"
+  tags: []
+"Hi7,15":
+  text: "Więc moja dusza wybiera uduszenie, śmierć raczej niż moje życie."
+  tags: []
+"Hi7,16":
+  text: "Gardzę życiem, nie chcę tu żyć na wieki. Zostaw mnie, bo moje dni są marnością."
+  tags: []
+"Hi7,17":
+  text: "Czym jest człowiek, że tak go wywyższasz i że zwracasz ku niemu swoje serce?"
+  tags: []
+"Hi7,18":
+  text: "Że nawiedzasz go co poranek i co chwila doświadczasz?"
+  tags: []
+"Hi7,19":
+  text: "Czy nie przestaniesz wpatrywać się we mnie i nie pozwolisz mi nawet przełknąć swoją ślinę?"
+  tags: []
+"Hi7,20":
+  text: "Zgrzeszyłem, co uczyniłem Tobie, Stróżu człowieka? Dlaczego wziąłeś mnie za cel, abym był sam dla siebie ciężarem?"
+  tags: []
+"Hi7,21":
+  text: "I dlaczego nie usuwasz mojego przestępstwa, a nie zmażesz mojej nieprawości? Bo teraz położę się w prochu i gdy będziesz zabiegał o mnie, nie będzie mnie."
+  tags: []
