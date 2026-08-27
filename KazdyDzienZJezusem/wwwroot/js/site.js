@@ -66,16 +66,12 @@
     }
 
     function showCopyFeedback(link, copied) {
-        const label = link.querySelector(".verse-link-label");
         const status = link.closest(".verse-list")?.querySelector("[data-verse-link-status]");
         const verseReference = link.dataset.verseReference;
         const stateClass = copied ? "is-copied" : "is-copy-error";
 
         link.classList.remove("is-copied", "is-copy-error");
         link.classList.add(stateClass);
-        if (label) {
-            label.textContent = copied ? "Skopiowano" : "Skopiuj ręcznie";
-        }
         if (status) {
             status.textContent = copied
                 ? `Skopiowano adres wersetu ${verseReference}.`
@@ -89,9 +85,6 @@
 
         const timer = window.setTimeout(() => {
             link.classList.remove(stateClass);
-            if (label) {
-                label.textContent = "Kopiuj link";
-            }
             feedbackTimers.delete(link);
         }, 2400);
         feedbackTimers.set(link, timer);

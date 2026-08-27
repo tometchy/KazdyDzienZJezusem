@@ -74,10 +74,35 @@
                    href="@($"#{verse.Number}")"
                    data-verse-link
                    data-verse-reference="@verseReference"
-                   aria-label="Zaznacz werset @verseReference i skopiuj jego adres">
-                    <span class="verse-link-label">Kopiuj link</span>
-                    <span aria-hidden="true">#@verse.Number</span>
+                   aria-label="Udostępnij werset @verseReference"
+                   title="Udostępnij werset @verseReference">
+                    <svg class="verse-share-icon"
+                         viewBox="0 0 24 24"
+                         width="20"
+                         height="20"
+                         fill="none"
+                         stroke="currentColor"
+                         stroke-width="2"
+                         stroke-linecap="round"
+                         stroke-linejoin="round"
+                         aria-hidden="true"
+                         focusable="false">
+                        <circle cx="18" cy="5" r="3"></circle>
+                        <circle cx="6" cy="12" r="3"></circle>
+                        <circle cx="18" cy="19" r="3"></circle>
+                        <path d="m8.6 10.5 6.8-4"></path>
+                        <path d="m8.6 13.5 6.8 4"></path>
+                    </svg>
                 </a>
+                @if (verse.Tags.Count > 0)
+                {
+                    <ul class="verse-tags" aria-label="Tagi wersetu @verseReference">
+                        @foreach (var tag in verse.Tags)
+                        {
+                            <li class="verse-tag">@tag</li>
+                        }
+                    </ul>
+                }
             </div>
             <a class="verse-number"
                asp-action="Verse"

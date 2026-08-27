@@ -50,7 +50,8 @@ public sealed class BibleRepositoryTests
         var verses = repository.GetChapter(translation, book, 1);
 
         Assert.Equal(31, verses.Count);
-        Assert.All(verses, verse => Assert.Empty(verse.Tags));
+        Assert.Equal(["Paweł"], verses[0].Tags);
+        Assert.All(verses.Skip(1), verse => Assert.Empty(verse.Tags));
     }
 
     private static BibleRepository CreateRepository(string chapter) =>

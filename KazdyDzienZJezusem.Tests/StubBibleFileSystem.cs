@@ -216,7 +216,7 @@ public sealed class StubBibleFileSystem : IBibleFileSystem
     private const string ChapterOne = """
         "1Kor1,1":
           text: "Paweł, powołany apostoł Jezusa Chrystusa z woli Boga, i Sostenes, brat,"
-          tags: []
+          tags: ["Paweł"]
         "1Kor1,2":
           text: "Zborowi Boga w Koryncie, do tych, którzy są uświęceni w Chrystusie Jezusie, powołanym świętym, ze wszystkimi, którzy wzywają imienia Pana naszego Jezusa Chrystusa na każdym miejscu – ich, a także i naszym."
           tags: []
