@@ -24,7 +24,16 @@ Each verse is stored as a mapping with its text and an editable tag list:
 Non-empty tags use a JSON-compatible YAML flow array with double-quoted
 strings, for example `tags: ["joy", "letters of John"]`. Keep the `text` value
 and the complete `tags` array on their respective single lines. Regenerating
-the Bible data preserves tags already present for matching verses.
+the Bible data updates only `text` values in existing verse blocks, leaving
+their tags and formatting untouched. New verses are added with `tags: []`.
+Verses and chapters absent from a newer input are retained so that regeneration
+never removes manually maintained metadata.
+
+Run the converter regression tests with:
+
+```bash
+python3 -m unittest discover -s tests -p 'test_*.py' -v
+```
 
 ## Page snapshot tests
 
