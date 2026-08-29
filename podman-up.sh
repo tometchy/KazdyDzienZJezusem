@@ -3,6 +3,8 @@ set -eu
 
 SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
 
+echo "Script dit: $SCRIPT_DIR"
+
 if [ "$#" -gt 1 ]; then
     echo "Usage: $0 [repo_dir]" >&2
     exit 1
