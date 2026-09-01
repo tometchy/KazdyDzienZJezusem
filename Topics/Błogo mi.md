@@ -1,1 +1,0 @@
-Połączyć z każdego dnia
