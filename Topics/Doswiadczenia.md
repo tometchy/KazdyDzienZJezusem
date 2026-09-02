@@ -10,3 +10,5 @@ Co mowi Slowo Boze o tym czy Bog odpowoda na modlitwy.
 Drugi list do Koryntian 12,7-10
 
 Blogi Mi
+
+Blogoslawienie cierpieniami
