@@ -1,3 +1,7 @@
+Historia piosenki Gdy Pokoj Niebieski
+
+Jaluba 1
+
 Daj nam dzisiaj
 
 Każdego dnia od nowa, jak w piosence one day at a time.
