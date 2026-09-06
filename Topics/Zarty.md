@@ -3,3 +3,5 @@
 - nawet w komunikatorach, kazda wiadomosc jest na biezaco czytana
 
 [[List Jakuba 1,26]]
+
+Loza szydercow Zbor
