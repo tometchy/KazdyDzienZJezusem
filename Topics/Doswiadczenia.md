@@ -17,4 +17,4 @@ Blogi Mi
 
 Blogoslawienie cierpieniami
 
-Nie spadnie wlos bez Jego wiedzy
+Nie spadnie wlos bez Jego wiedzy + Mat 10,29 osobno latwo powiedziec 28, po ludzku to trudne, ale to nasze zadanie
