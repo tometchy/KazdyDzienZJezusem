@@ -16,3 +16,5 @@ Drugi list do Koryntian 12,7-10
 Blogi Mi
 
 Blogoslawienie cierpieniami
+
+Nie spadnie wlos bez Jego wiedzy
