@@ -22,3 +22,5 @@ Nie spadnie wlos bez Jego wiedzy + Mat 10,29 osobno latwo powiedziec 28, po ludz
 Pan jest moim pomocnikiem nie będę się lękał co mi moze uczynić człowiek
 
 Fragmenty, że Bóg chce narzędzie wypróbowane, przygotowane do wszelkiego dobrego dzieła, Bogu zależy, żebyśmy przeszli próbę, aby nas przygotować, aby powierzyć nam odpowiedzialność. Bóg powierzał odpowiedzialności sługom których wcześniej wypróbowywał, nawet Pana Jezusa.
+
+Analogia do jakichś zrozumianych dla nas przygotowań, które nie są łatwe, czy może w wojsku, czy jakimś sporcie czy coś innego
