@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Parallel PDF reader</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: system-ui, sans-serif;
+      --border: color-mix(in srgb, CanvasText 25%, transparent);
+    }
+
+    * { box-sizing: border-box; }
+    body { margin: 0; background: Canvas; color: CanvasText; }
+    header { padding: 1rem; border-bottom: 1px solid var(--border); }
+    h1 { margin: 0 0 .25rem; font-size: 1.35rem; }
+    p { margin: 0; color: color-mix(in srgb, CanvasText 70%, transparent); }
+
+    .controls {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(16rem, 1fr));
+      gap: .75rem;
+      margin-top: 1rem;
+    }
+    .field { display: grid; gap: .3rem; }
+    .field span { font-size: .85rem; font-weight: 650; }
+    input, button, select {
+      min-height: 2.5rem;
+      padding: .5rem .65rem;
+      border: 1px solid var(--border);
+      border-radius: .4rem;
+      background: Canvas;
+      color: CanvasText;
+      font: inherit;
+    }
+    button { cursor: pointer; }
+    button:hover { background: color-mix(in srgb, CanvasText 8%, Canvas); }
+    .reader-controls { display: flex; flex-wrap: wrap; align-items: end; gap: .5rem; }
+    .reader-controls .field { width: 6rem; }
+    #status { align-self: center; min-height: 1.25rem; font-size: .85rem; }
+    #status.error { color: #c62828; }
+
+    main {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: .5rem;
+      padding: .5rem;
+    }
+    main.stacked { grid-template-columns: 1fr; }
+    main.reversed .document:first-child { order: 2; }
+    .document { display: grid; grid-template-rows: auto minmax(32rem, calc(100vh - 14rem)); min-width: 0; }
+    .document h2 { margin: 0; padding: .45rem .7rem; font-size: 1rem; }
+    iframe { width: 100%; height: 100%; border: 1px solid var(--border); background: white; }
+    .empty { display: grid; place-items: center; border: 1px dashed var(--border); padding: 2rem; text-align: center; }
+
+    @media (max-width: 48rem) {
+      .controls { grid-template-columns: 1fr; }
+      .document { grid-template-rows: auto 70vh; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Parallel PDF reader</h1>
+    <p>Paste GitHub raw PDF URLs, choose a page, and compare both editions.</p>
+
+    <div class="controls">
+      <label class="field">
+        <span>English PDF URL</span>
+        <input id="englishUrl" type="url" inputmode="url" placeholder="https://raw.githubusercontent.com/…/english.pdf">
+      </label>
+      <label class="field">
+        <span>Polish PDF URL</span>
+        <input id="polishUrl" type="url" inputmode="url" placeholder="https://raw.githubusercontent.com/…/polish.pdf">
+      </label>
+      <div class="reader-controls">
+        <button id="previousPage" type="button" aria-label="Previous page">← Previous</button>
+        <label class="field">
+          <span>Page</span>
+          <input id="page" type="number" min="1" step="1" value="1">
+        </label>
+        <button id="nextPage" type="button" aria-label="Next page">Next →</button>
+      </div>
+      <div class="reader-controls">
+        <label class="field" style="width:auto">
+          <span>Layout</span>
+          <select id="layout">
+            <option value="side-by-side">Side by side</option>
+            <option value="stacked">One below another</option>
+          </select>
+        </label>
+        <button id="swap" type="button">Swap documents</button>
+        <span id="status" role="status" aria-live="polite"></span>
+      </div>
+    </div>
+  </header>
+
+  <main id="documents">
+    <section class="document">
+      <h2>English</h2>
+      <div id="englishViewer" class="empty">Enter the English PDF URL above.</div>
+    </section>
+    <section class="document">
+      <h2>Polish</h2>
+      <div id="polishViewer" class="empty">Enter the Polish PDF URL above.</div>
+    </section>
+  </main>
+
+  <script>
+    const storageKey = "parallel-pdf-reader";
+    const elements = {
+      englishUrl: document.querySelector("#englishUrl"),
+      polishUrl: document.querySelector("#polishUrl"),
+      page: document.querySelector("#page"),
+      layout: document.querySelector("#layout"),
+      documents: document.querySelector("#documents"),
+      status: document.querySelector("#status")
+    };
+
+    let settings = {
+      englishUrl: "",
+      polishUrl: "",
+      page: 1,
+      layout: "side-by-side",
+      reversed: false
+    };
+
+    function readSettings() {
+      try {
+        const saved = JSON.parse(localStorage.getItem(storageKey));
+        if (saved && typeof saved === "object") settings = { ...settings, ...saved };
+      } catch {
+        elements.status.textContent = "Saved settings could not be read.";
+        elements.status.className = "error";
+      }
+    }
+
+    function normaliseGitHubUrl(value) {
+      const url = new URL(value);
+      if (url.protocol !== "https:") throw new Error("Only HTTPS PDF URLs are supported.");
+      if (url.hostname === "github.com") {
+        const parts = url.pathname.split("/").filter(Boolean);
+        if (parts[2] === "blob" && parts.length > 4) {
+          url.hostname = "raw.githubusercontent.com";
+          url.pathname = `/${parts[0]}/${parts[1]}/${parts.slice(3).join("/")}`;
+        }
+      }
+      if (!url.pathname.toLowerCase().endsWith(".pdf")) throw new Error("The URL must point to a PDF file.");
+      url.hash = "";
+      return url.href;
+    }
+
+    function showPdf(containerId, value, language) {
+      const container = document.querySelector(`#${containerId}`);
+      if (!value) {
+        container.replaceWith(Object.assign(document.createElement("div"), {
+          id: containerId,
+          className: "empty",
+          textContent: `Enter the ${language} PDF URL above.`
+        }));
+        return;
+      }
+
+      const iframe = document.createElement("iframe");
+      iframe.id = containerId;
+      iframe.title = `${language} PDF, page ${settings.page}`;
+      iframe.loading = "eager";
+      iframe.src = `${value}#page=${settings.page}&view=FitH`;
+      container.replaceWith(iframe);
+    }
+
+    function saveAndRender() {
+      settings.page = Math.max(1, Number.parseInt(elements.page.value, 10) || 1);
+      elements.page.value = settings.page;
+      elements.layout.value = settings.layout;
+      elements.documents.classList.toggle("stacked", settings.layout === "stacked");
+      elements.documents.classList.toggle("reversed", settings.reversed);
+      localStorage.setItem(storageKey, JSON.stringify(settings));
+      showPdf("englishViewer", settings.englishUrl, "English");
+      showPdf("polishViewer", settings.polishUrl, "Polish");
+      elements.status.textContent = `Page ${settings.page} saved locally.`;
+      elements.status.className = "";
+    }
+
+    function updateUrl(language) {
+      const input = elements[`${language}Url`];
+      try {
+        settings[`${language}Url`] = input.value.trim() ? normaliseGitHubUrl(input.value.trim()) : "";
+        input.value = settings[`${language}Url`];
+        saveAndRender();
+      } catch (error) {
+        elements.status.textContent = error.message;
+        elements.status.className = "error";
+      }
+    }
+
+    readSettings();
+    elements.englishUrl.value = settings.englishUrl;
+    elements.polishUrl.value = settings.polishUrl;
+    elements.page.value = settings.page;
+    elements.layout.value = settings.layout;
+
+    elements.englishUrl.addEventListener("change", () => updateUrl("english"));
+    elements.polishUrl.addEventListener("change", () => updateUrl("polish"));
+    elements.page.addEventListener("change", saveAndRender);
+    elements.layout.addEventListener("change", () => {
+      settings.layout = elements.layout.value;
+      saveAndRender();
+    });
+    document.querySelector("#previousPage").addEventListener("click", () => {
+      elements.page.value = Math.max(1, settings.page - 1);
+      saveAndRender();
+    });
+    document.querySelector("#nextPage").addEventListener("click", () => {
+      elements.page.value = settings.page + 1;
+      saveAndRender();
+    });
+    document.querySelector("#swap").addEventListener("click", () => {
+      settings.reversed = !settings.reversed;
+      saveAndRender();
+    });
+
+    saveAndRender();
+  </script>
+</body>
+</html>
