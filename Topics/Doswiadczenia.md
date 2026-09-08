@@ -20,3 +20,5 @@ Blogoslawienie cierpieniami
 Nie spadnie wlos bez Jego wiedzy + Mat 10,29 osobno latwo powiedziec 28, po ludzku to trudne, ale to nasze zadanie
 
 Pan jest moim pomocnikiem nie będę się lękał co mi moze uczynić człowiek
+
+Fragmenty, że Bóg chce narzędzie wypróbowane, przygotowane do wszelkiego dobrego dzieła, Bogu zależy, żebyśmy przeszli próbę, aby nas przygotować, aby powierzyć nam odpowiedzialność. Bóg powierzał odpowiedzialności sługom których wcześniej wypróbowywał.
