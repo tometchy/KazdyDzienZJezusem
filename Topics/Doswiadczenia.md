@@ -30,3 +30,7 @@ Fragmenty, że Bóg chce narzędzie wypróbowane, przygotowane do wszelkiego dob
 Analogia do jakichś zrozumianych dla nas przygotowań, które nie są łatwe, czy może w wojsku, czy jakimś sporcie czy coś innego
 
 "Bądźcie trzeźwi, czuwajcie! Wasz przeciwnik, diabeł, jak lew ryczący krąży i szuka, kogo pożreć. Przeciwstawiajcie się jemu, silni wiarą, wiedząc, ze te same cierpienia znoszą wasi bracia na świecie. A Bóg wszelkiej łaski, Ten, który w Chrystusie powołał was do swojej wiecznej chwały, po waszych krótkotrwałych cierpieniach, sam was udoskonali, utwierdzi, umocni i postawi na twardym gruncie."
+
+Obietnica nie ppnad nasze sily
+
+II List do Koryntian 1
