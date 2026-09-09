@@ -28,3 +28,5 @@ Pan jest moim pomocnikiem nie będę się lękał co mi moze uczynić człowiek
 Fragmenty, że Bóg chce narzędzie wypróbowane, przygotowane do wszelkiego dobrego dzieła, Bogu zależy, żebyśmy przeszli próbę, aby nas przygotować, aby powierzyć nam odpowiedzialność. Bóg powierzał odpowiedzialności sługom których wcześniej wypróbowywał, nawet Pana Jezusa.
 
 Analogia do jakichś zrozumianych dla nas przygotowań, które nie są łatwe, czy może w wojsku, czy jakimś sporcie czy coś innego
+
+"Bądźcie trzeźwi, czuwajcie! Wasz przeciwnik, diabeł, jak lew ryczący krąży i szuka, kogo pożreć. Przeciwstawiajcie się jemu, silni wiarą, wiedząc, ze te same cierpienia znoszą wasi bracia na świecie. A Bóg wszelkiej łaski, Ten, który w Chrystusie powołał was do swojej wiecznej chwały, po waszych krótkotrwałych cierpieniach, sam was udoskonali, utwierdzi, umocni i postawi na twardym gruncie."
