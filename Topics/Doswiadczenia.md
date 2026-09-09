@@ -1,6 +1,8 @@
 Historia piosenki Gdy Pokoj Niebieski
 
-Jaluba 1
+Horatio slyszal czasem zarzuty, ze to kara Boza. Ja patrze na to inaczej, Bog ma do mnie cierpliwoc, a ja jestem opornym uczniem i czasem potrzebuje szczegolnych korepetycji, moze to rzeczywiscie troche Bozs rozga, ale nie traktuje tego jako kary, a raczej kubel otrzezwienia.
+
+Jakuba 1
 
 Daj nam dzisiaj
 
