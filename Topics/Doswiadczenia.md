@@ -34,3 +34,5 @@ Analogia do jakichś zrozumianych dla nas przygotowań, które nie są łatwe, c
 Obietnica nie ppnad nasze sily
 
 II List do Koryntian 1
+
+doswiadczenie zloto srebroogien fragment
