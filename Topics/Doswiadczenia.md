@@ -36,3 +36,7 @@ Obietnica nie ppnad nasze sily
 II List do Koryntian 1
 
 doswiadczenie zloto srebroogien fragment
+
+Z pokuszeniem da i wyjscie
+
+Jana 10,28
