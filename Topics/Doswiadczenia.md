@@ -42,3 +42,5 @@ doswiadczenie zloto srebroogien fragment
 Z pokuszeniem da i wyjscie
 
 Jana 10,28
+
+Szatan zwyciezony w piosence i Biblii, nasza obietnica, tego sie trzymajmy, nie wyrwie nas z reki Pana.
