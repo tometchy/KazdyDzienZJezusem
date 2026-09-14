@@ -1,0 +1,1 @@
+https://kazdydzienzjezusem.pl/Biblia/TNP/1P/1#8
