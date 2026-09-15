@@ -49,3 +49,5 @@ strach - Pawl
 Szatan zwyciezony w piosence i Biblii, nasza obietnica, tego sie trzymajmy, nie wyrwie nas z reki Pana. Tak, nieraz bedzie strach i trwoga (Pawel, Pan w Getsemane).
 
 https://kazdydzienzjezusem.pl/Biblia/TNP/1P
+
+Psalm 103,13-14
