@@ -5,3 +5,5 @@
 [[List Jakuba 1,26]]
 
 Loza szydercow Zbor
+
+Szemranie, np. ze za szybko sie konczy modlitwa, zamiast pojsc i porozmawiac.
