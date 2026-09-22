@@ -36,6 +36,7 @@ Analogia do jakichś zrozumianych dla nas przygotowań, które nie są łatwe, c
 Obietnica nie ppnad nasze sily
 
 Pawel nie boj sie jestesmy ludzmi
+1 Kor 2,3 <-> Dz. 18,9 <-> 2 Kor 10,1
 
 II List do Koryntian 1
 
