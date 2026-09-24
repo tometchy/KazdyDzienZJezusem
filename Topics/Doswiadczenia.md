@@ -56,3 +56,5 @@ https://kazdydzienzjezusem.pl/Biblia/TNP/1P
 Psalm 103,13-14
 
 Caly psalm 103
+
+Mat 26,37 + synotycznie
