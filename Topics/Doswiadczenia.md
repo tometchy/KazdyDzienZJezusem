@@ -6,6 +6,9 @@ Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas doświad
 
 Znamy to bardzo ważne wezwanie "Bogu ufam, nie będę się lękał: cóż może mi uczynić człowiek?". To bardzo ważne wezwanie, ale to nie jest lekkie wyzwanie. Bo człowiek oczywiście może spalić dom i córki zabić... Ale bezpośrednio jak u Szczepana czy jak w tej pieśni, nie może odebrać Bożego Pokoju.
 
+Księga Psalmów 55, cały psalm zacząć od:
+> O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
+
 Gdy byłem z Piotrkiem na sorze "Ale Bóg tak rzadko odpowiada!". Fragmenty o tym, że Bóg wysłuchuje modlitw.
 
 Horatio slyszal czasem zarzuty, ze to kara Boza. Ja patrze na to inaczej, Bog ma do mnie cierpliwoc, a ja jestem opornym uczniem i czasem potrzebuje szczegolnych korepetycji, moze to rzeczywiscie troche Bozs rozga, ale nie traktuje tego jako kary, a raczej kubel otrzezwienia.
