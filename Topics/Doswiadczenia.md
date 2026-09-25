@@ -78,7 +78,7 @@ Rozróżnienie upadku od nie upadku np. Piotr i kogut to upadek, zwątpienie Pio
 
 Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
 
-Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak powiedział do Pawła nie lękaj się. Wiemy ze Słowa Bożego o trwodze Pana, o lęku Pawła, myślę, że Bóg nie oczekuje od nas abyśmy byli maszynami. Ale oczekuje od nas serca szczerego tutaj jakiś krótki fragment(y), wyznania Bogu prawdy, że teraz mamy takie serce, teraz mamy trwogę lub strach, że to po ludzku nas przytłacza, prośmy Boga o Łaskę, o Miłosierdzie, wiemy, że Bóg wysłuchuje modlitw.
+Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak powiedział do Pawła nie lękaj się. Wiemy ze Słowa Bożego o trwodze Pana, o lęku Pawła, myślę, że Bóg nie oczekuje od nas abyśmy byli maszynami. Ale oczekuje od nas serca szczerego tutaj jakiś krótki fragment(y) (jak dobry jest Bóg dla słabych dla tych co są czystego serca), wyznania Bogu prawdy, że teraz mamy takie serce, teraz mamy trwogę lub strach, że to po ludzku nas przytłacza, prośmy Boga o Łaskę, o Miłosierdzie, wiemy, że Bóg wysłuchuje modlitw.
 
 A wierzę, że Bóg i taką modlitwę wysłucha i w swój, zrozumialy tylko dla siebie sposób nas przeprowadzi. Amen.
 
