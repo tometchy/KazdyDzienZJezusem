@@ -2,6 +2,12 @@ Historia piosenki Gdy Pokoj Niebieski
 
 Czy wierzący mamy życie jak autor piosenki?
 
+Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas doświadczyły bardzo trudnych doświadczeń. I na mojej głowie siwe włosy nie są kwestią genealogiczną.
+
+Znamy to bardzo ważne wezwanie "Bogu ufam, nie będę się lękał: cóż może mi uczynić człowiek?". To bardzo ważne wezwanie, ale to nie jest lekkie wyzwanie. Bo człowiek oczywiście może spalić dom i córki zabić... Ale bezpośrednio jak u Szczepana czy jak w tej pieśni, nie może odebrać Bożego Pokoju.
+
+Gdy byłem z Piotrkiem na sorze "Ale Bóg tak rzadko odpowiada!". Fragmenty o tym, że Bóg wysłuchuje modlitw.
+
 Horatio slyszal czasem zarzuty, ze to kara Boza. Ja patrze na to inaczej, Bog ma do mnie cierpliwoc, a ja jestem opornym uczniem i czasem potrzebuje szczegolnych korepetycji, moze to rzeczywiscie troche Bozs rozga, ale nie traktuje tego jako kary, a raczej kubel otrzezwienia.
 
 Waldek powiedzial ze wojna na Ukrainie przyspiesza pewne lekcje, niektorzy z nas tego doswiadczyli lub doswiadczaja tutaj bez wojny.
@@ -58,3 +64,20 @@ Psalm 103,13-14
 Caly psalm 103
 
 Mat 26,37 + synotycznie
+
+Lekcje, jakie mogą z tego płynąć
+1. Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
+2. Nie lękaj sie ja jestem z Tobą
+3. Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
+O tym jaką metamorfozę przeszło życie Horatio. Nie znalazłem za bardzo szczegółów, ale być może to wcześniej ułożone życie, choć moralnie pewnie i poprawne, nie było tym do czego Bóg go powoływał. I musiał zostać zmieniony, wypróbowany.
+
+
+Józef, Szczepan, Pan Jezus błogosławił, a nie przeklinał.
+
+Rozróżnienie upadku od nie upadku np. Piotr i kogut to upadek, zwątpienie Piotra gdy szedł po wodzie, trochę może też, ale np. trwoga Pana Jezusa na pewno nie, wiemy że był bez grzechu, więć to nie był grzech, mimo odczuć które się wiązały z jego ciałem, jego nastawienie pozostawało nie moja lecz Twoja wola, choć po ludzku ten kielich nie był mu miły.
+
+Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
+
+Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak powiedział do Pawła nie lękaj się. Wiemy ze Słowa Bożego o trwodze Pana, o lęku Pawła, myślę, że Bóg nie oczekuje od nas abyśmy byli maszynami. Ale oczekuje od nas serca szczerego tutaj jakiś krótki fragment(y), wyznania Bogu prawdy, że teraz mamy takie serce, teraz mamy trwogę lub strach, że to po ludzku nas przytłacza, prośmy Boga o Łaskę, o Miłosierdzie, wiemy, że Bóg wysłuchuje modlitw.
+
+A wierzę, że Bóg i taką modlitwę wysłucha i w swój, zrozumialy tylko dla siebie sposób nas przeprowadzi. Amen.
