@@ -1,5 +1,11 @@
 Historia piosenki Gdy Pokoj Niebieski
 
+Filary społeczności: Horatio był szanowanym prawnikiem w Chicago, profesorem prawa medycznego oraz starszym (prezbiterem) w kościele prezbiteriańskim.
+
+Przyjaciele ewangelii: Spaffordowie blisko przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA. Ich dom był otwarty dla wierzących, a oni sami byli znani z ogromnej hojności charytatywnej.
+
+Świadectwo wiary: Słynny hymn „It Is Well with My Soul” powstał w 1873 roku, tuż po utracie córek. W tamtym momencie ich wiara wciąż była ortodoksyjna i pełna autentycznego zawierzenia Bogu w bólu.
+
 Czy wierzący mamy życie jak autor piosenki?
 
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas doświadczyły bardzo trudnych doświadczeń. I na mojej głowie siwe włosy nie są kwestią genealogiczną.
