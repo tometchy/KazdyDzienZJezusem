@@ -79,6 +79,7 @@ Lekcje, jakie mogą z tego płynąć
 2. Nie lękaj sie ja jestem z Tobą
 3. Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 O tym jaką metamorfozę przeszło życie Horatio. Nie znalazłem za bardzo szczegółów, ale być może to wcześniej ułożone życie, choć moralnie pewnie i poprawne, nie było tym do czego Bóg go powoływał. I musiał zostać zmieniony, wypróbowany.
+4. Kolec co się wbijał Pawłowi
 
 
 Józef, Szczepan, Pan Jezus błogosławił, a nie przeklinał.
