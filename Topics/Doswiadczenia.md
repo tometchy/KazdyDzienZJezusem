@@ -94,7 +94,10 @@ A wierzę, że Bóg i taką modlitwę wysłucha i w swój, zrozumialy tylko dla 
 
 Przekartkować książkę o depresji.
 
-4 ta lekja, że Bóg wyprobowuje, żeby przygotować do większych zadań, przejdzie w piątą lekcję, do której nie chciałem dojść, ale do której doprowadził mnie Bóg i niechętnie, ale czuję się w obowiązku nią również podzielić. Znaleźć fragmenty, że Bóg przesiewa próbami. We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio kończy się tym, że urodziła im się jeszcze trójka dzieci, dwie córki i syn, ale nastąpiła kolejna tragedia, 4letni syn zmarł na szkarlatynę, a oni wtedy postanowili całe życie poświęcić Bogu i wyprowadzili się do Jerozolimy służyć ubogim.
+4 ta lekja, że Bóg wyprobowuje, żeby przygotować do większych zadań, przejdzie w piątą lekcję, do której nie chciałem dojść, ale do której doprowadził mnie Bóg i niechętnie, ale czuję się w obowiązku nią również podzielić. Znaleźć fragmenty, że Bóg przesiewa próbami.
+Chcialem zakonczyc puenta, ze x
+Ale Bog nie chcial, zebym tak zakonczyl... Pokazal mi niesppdziewanie.
+We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio kończy się tym, że urodziła im się jeszcze trójka dzieci, dwie córki i syn, ale nastąpiła kolejna tragedia, 4letni syn zmarł na szkarlatynę, a oni wtedy postanowili całe życie poświęcić Bogu i wyprowadzili się do Jerozolimy służyć ubogim.
 Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
 
 Nie będę opowiadał szczegółów tej sekty i tego co robili Horatio z żoną, bo nie było by to dla Was budujące.
