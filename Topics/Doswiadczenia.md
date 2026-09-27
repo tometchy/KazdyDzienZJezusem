@@ -101,3 +101,5 @@ We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio 
 Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
 
 Nie będę opowiadał szczegółów tej sekty i tego co robili Horatio z żoną, bo nie było by to dla Was budujące.
+
+Ostatnio na braterskim mielismy dyskusje o tym, ze nie mozesz dwom panom sluzyc, Bogu i mamonie.
