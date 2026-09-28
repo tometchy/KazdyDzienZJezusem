@@ -113,3 +113,7 @@ Ostatnio na braterskim mielismy dyskusje o tym, ze nie mozesz dwom panom sluzyc,
 
 
 1 Kor 10,1-16 ze zwróceniem uwagi na 12, 7, 14 i gdzie indziej opis, że bałwochwalstwo to też kwestia pieniędzy i indziej służenie Bogu i mamonie
+
+Marka 4,40
+Nie boj sie tylko wierz
+To gdzies na poczatku czy strach to grzech jako taki
