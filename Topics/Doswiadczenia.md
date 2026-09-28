@@ -82,6 +82,8 @@ O tym jaką metamorfozę przeszło życie Horatio. Nie znalazłem za bardzo szcz
 4. Kolec co się wbijał Pawłowi
 5. Ktonsroi niech baczy by nie upadl
 
+6. Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
+
 1. Próba wiary rodzi wytrwałość (List św. Jakuba)Ten fragment skupia się na radzeniu sobie z życiowymi trudnościami i próbami charakteru.„Za pełną radość poczytujcie to sobie, bracia moi, ilekroć spadają na was różne doświadczenia. Wiedzcie, że to, co wystawia waszą wiarę na próbę, rodzi wytrwałość. Wytrwałość zaś winna być dziełem doskonałym, abyście byli doskonali, nienaganni, w niczym nie wykazując braków.”– List św. Jakuba 1, 2-4
 2. Ucisk rodzi wytrwałość (List do Rzymian)Ten fragment pokazuje cały proces duchowego wzrostu – od cierpienia aż do niezłomnej nadziei.„Ale nie tylko to, lecz chlubimy się także z ucisków, wiedząc, że ucisk wyrabia [rodzi] wytrwałość, a wytrwałość – wypróbowaną cnotę, wypróbowana cnota zaś – nadzieję. A nadzieja zawieść nie może, ponieważ miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który został nam dany.”– List do Rzymian 5, 3-5
 
