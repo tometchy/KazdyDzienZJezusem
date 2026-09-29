@@ -4,6 +4,8 @@ Filary społeczności: Horatio był szanowanym prawnikiem w Chicago, profesorem 
 
 Przyjaciele ewangelii: Spaffordowie blisko przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA. Ich dom był otwarty dla wierzących, a oni sami byli znani z ogromnej hojności charytatywnej.
 
+Zaangażowanie Horatia w chrześcijaństwo jest udokumentowane na kilkanaście lat przed pożarem z 1871 r. i katastrofą z 1873 r. W Chicago był związany ze środowiskiem Moody'ego, YMCA, prowadził szkółkę niedzielną, brał udział w zebraniach modlitewnych i ewangelizacyjnych oraz odwiedzał więzienia i szpitale w ramach działalności ewangelizacyjnej. Był także starszym prezbiteriańskim. To nie pojawia się dopiero w późniejszej hagiografii; potwierdza to materiał historyczny Library of Congress oraz współcześni mu ewangelikaliści
+
 Świadectwo wiary: Słynny hymn „It Is Well with My Soul” powstał w 1873 roku, tuż po utracie córek. W tamtym momencie ich wiara wciąż była ortodoksyjna i pełna autentycznego zawierzenia Bogu w bólu.
 
 Czy wierzący mamy życie jak autor piosenki?
