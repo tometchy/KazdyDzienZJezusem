@@ -118,4 +118,8 @@ Ostatnio na braterskim mielismy dyskusje o tym, ze nie mozesz dwom panom sluzyc,
 
 Marka 4,40
 Nie boj sie tylko wierz
+Podobnie u Pawła nie bój się.
 To gdzies na poczatku czy strach to grzech jako taki
+
+Myślę, że nigdy próby, doświadczenia nie stają się łatwę, nie obserwuję tego u siebie, nie obserwuję tego w Słowie Bożym.
+Ale możemy od Boga otrzymywać Boży Pokój i przeprowadzenie przez próbę.
