@@ -123,3 +123,19 @@ To gdzies na poczatku czy strach to grzech jako taki
 
 Myślę, że nigdy próby, doświadczenia nie stają się łatwę, nie obserwuję tego u siebie, nie obserwuję tego w Słowie Bożym.
 Ale możemy od Boga otrzymywać Boży Pokój i przeprowadzenie przez próbę.
+
+---
+Po 1 Kor 10:
+
+• List do Kolosan 3, 5:„Zadajcie więc śmierć temu, co przyziemne w członkach: rozpuście, nieczystości, lubieżności, złej żądzy i chciwości, która jest bałwochwalstwem.”
+• List do Efezjan 5, 5:„O tym bowiem bądźcie przekonani, że żaden rozpustnik ani nieczysty, ani chciwiec – to jest bałwochwalca – nie ma dziedzictwa w królestwie Chrystusa i Boga.”
+Pieniądz jako konkurencyjny „bóg” (Mamona)
+• Ewangelia wg św. Mateusza 6, 24:„Nikt nie może dwom panom służyć. Bo albo jednego będzie nienawidził, a drugiego będzie miłował; albo z jednym będzie trzymał, a drugim wzgardzi. Nie możecie służyć Bogu i Mamonie!”
+• Księga Hioba 31, 24-28: Hiob tłumaczy, że pokładanie nadziei w złocie jest zaparciem się Boga:„Czy w złocie pokładałem ufność i rzekłem szczeremu złotu: «Moje bezpieczeństwo»? [...] I to byłoby zbrodnią przed sędzią, bo zaparłbym się Boga na wysokościach.”
+Korzeń wszelkiego zła i sidła duchowe
+• 1 List do Tymoteusza 6, 9-10:„A ci, którzy chcą być bogaci, wpadają w pokusę i w sidła [...]. Korzeniem wszelkiego zła jest bowiem miłość pieniędzy; niektórzy, ulegając jej, zboczyli z drogi wiary i przebili się wielu boleściami.”
+• Księga Koheleta 5, 9:„Kto kocha się w pieniądzach, pieniądzem się nie nasyci; a kto się kocha w zasobach, nie ma z nich pożytku.”
+
+
+---
+
