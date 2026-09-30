@@ -126,7 +126,7 @@ Ale możemy od Boga otrzymywać Boży Pokój i przeprowadzenie przez próbę.
 
 ---
 Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowanym przeze mnie wersetem 13 dotąd nie przyszło na Was pokuszenie, które by przekraczało...
-
+ZACZYNAC JEDNAK OD 9,24
 Po 1 Kor 10,1-14:
 
 - List do Kolosan 3, 5:„Zadajcie więc śmierć temu, co przyziemne w członkach: rozpuście, nieczystości, lubieżności, złej żądzy i chciwości, która jest bałwochwalstwem.”
