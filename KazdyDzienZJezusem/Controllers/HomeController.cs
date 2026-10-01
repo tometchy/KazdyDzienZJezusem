@@ -12,12 +12,6 @@ public class HomeController : Controller
         return RedirectToAction("Index", "Bible");
     }
 
-    [HttpGet("/Ojcowie")]
-    public IActionResult Ojcowie()
-    {
-        return View();
-    }
-
     [HttpGet("/Teksty")]
     public IActionResult Teksty()
     {

@@ -8,6 +8,8 @@ builder.Services.AddSingleton<IBibleFileSystem, PhysicalBibleFileSystem>();
 builder.Services.AddSingleton(serviceProvider => new BibleRepository(
     Path.Combine(AppContext.BaseDirectory, "Bible"),
     serviceProvider.GetRequiredService<IBibleFileSystem>()));
+builder.Services.AddSingleton(new FathersRepository(
+    Path.Combine(AppContext.BaseDirectory, "Fathers")));
 
 var app = builder.Build();
 

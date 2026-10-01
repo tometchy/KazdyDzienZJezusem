@@ -1,0 +1,72 @@
+@model FatherChapterViewModel
+@{
+    var chapterName = Model.Chapter == 0 ? "Preface" : $"Chapter {Model.Chapter}";
+    ViewData["Title"] = $"{Model.Work.Name}, {chapterName}";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-action="Index" up-follow>Ojcowie</a></li>
+        <li class="breadcrumb-item">
+            <a asp-action="Author" asp-route-author="@Model.Author.Code" up-follow>@Model.Author.Name</a>
+        </li>
+        <li class="breadcrumb-item">
+            <a asp-action="Work"
+               asp-route-author="@Model.Author.Code"
+               asp-route-work="@Model.Work.Abbreviation"
+               up-follow>@Model.Work.Abbreviation</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">@chapterName</li>
+    </ol>
+</nav>
+
+<div class="bible-heading bible-chapter-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2" lang="grc">@Model.Work.GreekName</p>
+    <h1 class="display-6 fw-semibold">@Model.Work.Name — @chapterName</h1>
+</div>
+
+<div class="chapter-navigation" aria-label="Chapter navigation">
+    @if (Model.PreviousChapter is int previousChapter)
+    {
+        <a class="btn btn-outline-secondary"
+           asp-action="Chapter"
+           asp-route-author="@Model.Author.Code"
+           asp-route-work="@Model.Work.Abbreviation"
+           asp-route-chapter="@previousChapter"
+           up-follow>← @(previousChapter == 0 ? "Preface" : $"Chapter {previousChapter}")</a>
+    }
+    else
+    {
+        <span></span>
+    }
+
+    <a class="btn btn-outline-primary"
+       asp-action="Work"
+       asp-route-author="@Model.Author.Code"
+       asp-route-work="@Model.Work.Abbreviation"
+       up-follow>All chapters</a>
+
+    @if (Model.NextChapter is int nextChapter)
+    {
+        <a class="btn btn-outline-secondary"
+           asp-action="Chapter"
+           asp-route-author="@Model.Author.Code"
+           asp-route-work="@Model.Work.Abbreviation"
+           asp-route-chapter="@nextChapter"
+           up-follow>@(nextChapter == 0 ? "Preface" : $"Chapter {nextChapter}") →</a>
+    }
+    else
+    {
+        <span></span>
+    }
+</div>
+
+<article class="verse-list" lang="grc" aria-label="@Model.Work.Name, @chapterName">
+    @foreach (var passage in Model.Sections)
+    {
+        <div class="bible-verse" id="@passage.Number">
+            <a class="verse-number" href="#@passage.Number" aria-label="Section @passage.Number">@passage.Number</a>
+            <span class="verse-text">@passage.Text</span>
+        </div>
+    }
+</article>

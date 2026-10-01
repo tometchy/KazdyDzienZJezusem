@@ -192,5 +192,15 @@ class WriteTranslationTests(unittest.TestCase):
             converter.write_translation("TNP", source_verses)
 
 
+class IgnatiusSourceTests(unittest.TestCase):
+    def test_source_contains_all_seven_letters_and_sections(self) -> None:
+        sections = list(converter.read_ignatius())
+
+        self.assertEqual(7, len({work.abbreviation for work, _, _, _ in sections}))
+        self.assertEqual(205, len(sections))
+        self.assertTrue(any(chapter == 0 for _, chapter, _, _ in sections))
+        self.assertTrue(all(text for _, _, _, text in sections))
+
+
 if __name__ == "__main__":
     unittest.main()
