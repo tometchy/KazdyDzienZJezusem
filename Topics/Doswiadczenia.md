@@ -14,7 +14,7 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 ### Tak się składa, że historia autora tej pieśni jest bardzo obszernie udokumentowana
 
 - Horatio Spafford, żył w USA, w Chicago w XIX wieku.
-- Był szanowanym prawnikiem w Chicago, starszym w zborze prezbiteriańskim
+- Był szanowanym prawnikiem, starszym w zborze prezbiteriańskim
 - Zaangażowany w YMCA, prowadził szkółkę niedzielną, brał udział osobiście finansowo w ewangelizacjach, odwiedzał więzienia, szpitale
 - Miał żonę i cztery córki
 - Spaffordowie przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA. Ich dom był otwarty dla wierzących, a oni sami byli znani z ogromnej hojności charytatywnej.
