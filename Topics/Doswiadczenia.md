@@ -30,6 +30,7 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 - Horatio dopinał sprawy firmowe, więc najpierw popłynęła żona z córkami 
 
 ## Katastrofa - 22 listopada 1873 roku
+Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny statek, poszedł na dno w ciągu dwunastu minut, grzebiąc ze sobą większość pasażerów i załogi. Ratownicy znaleźli nieprzytomną Annę unoszącą się na wodzie. Dziewczynki przepadły.
 
 ## Ocalałam tylko ja...
 
