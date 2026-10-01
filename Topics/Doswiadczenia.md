@@ -1,11 +1,11 @@
 ## Śpiewaliśmy dziś kojącą pieśń
-Gdy pokój niebieski Bóg w duszę mi wlał
-Błogo mi... Błogo mi...
-W Panu mam wieczny dział
+- Gdy pokój niebieski Bóg w duszę mi wlał
+- Błogo mi... Błogo mi...
+- W Panu mam wieczny dział
 
-### Gdy kiedyś po raz pierwszy usłyszałem ten refren, przed moimi oczyma stanął obraz o leżeniu na hamaku z taką wiecie trzciną w buzi
+### Gdy kiedyś po raz pierwszy usłyszałem ten refren, przed moimi oczyma stanął obraz leżeniu na hamaku z taką wiecie trzciną w buzi
 
-### Ale w tej pieśni występują słowa, które nie pasują do hamaczka
+### Ale w tej pieśni występują słowa, które nie pasują do obrazu hamaczka
 Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
 ### Tak się składa, że historia autora tej pieśni jest bardzo obszernie udokumentowana
