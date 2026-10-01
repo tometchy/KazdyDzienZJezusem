@@ -1,0 +1,19 @@
+@model BibleTranslation
+
+@if (Model.Code == "UBG")
+{
+    <aside class="alert alert-light border mt-4 mb-0" role="note" aria-label="Prawa autorskie przekładu UBG">
+        <small>
+            Uwspółcześniona Biblia Gdańska (UBG) © 2017 Fundacja Wrota Nadziei.
+            Wydanie elektroniczne © 2017–2024 Logos Media. Wszelkie prawa zastrzeżone.
+        </small>
+    </aside>
+}
+else if (Model.Code == "TNP")
+{
+    <aside class="alert alert-light border mt-4 mb-0" role="note" aria-label="Informacja o udostępnieniu przekładu TNP">
+        <small>
+            Toruński Przekład Nowego Przymierza udostępniono za zgodą wydawnictwa Świadome Chrześcijaństwo.
+        </small>
+    </aside>
+}

@@ -38,6 +38,27 @@ public sealed class BiblePageTests(PageTestHost host) : IClassFixture<PageTestHo
         VerifyPage("/Biblia/Werset/Rdz/1/1?sourceTranslation=UBG");
 
     [Fact]
+    public async Task Copyright_notices_are_displayed_for_Ubg_and_Tnp()
+    {
+        var cancellationToken = TestContext.Current.CancellationToken;
+        using var ubgResponse = await host.Client.GetAsync(
+            "/Biblia/UBG/Ob/15",
+            cancellationToken);
+        using var tnpResponse = await host.Client.GetAsync(
+            "/Biblia/TNP/Ob/15",
+            cancellationToken);
+
+        var ubgHtml = WebUtility.HtmlDecode(
+            await ubgResponse.Content.ReadAsStringAsync(cancellationToken));
+        var tnpHtml = WebUtility.HtmlDecode(
+            await tnpResponse.Content.ReadAsStringAsync(cancellationToken));
+
+        Assert.Contains("© 2017 Fundacja Wrota Nadziei", ubgHtml);
+        Assert.Contains("© 2017–2024 Logos Media", ubgHtml);
+        Assert.Contains("za zgodą wydawnictwa Świadome Chrześcijaństwo", tnpHtml);
+    }
+
+    [Fact]
     public async Task Fathers_reader_navigates_to_the_downloaded_Greek_text()
     {
         var cancellationToken = TestContext.Current.CancellationToken;
