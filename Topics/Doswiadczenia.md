@@ -13,7 +13,7 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
 ### Tak się składa, że historia autora tej pieśni jest bardzo obszernie udokumentowana
 
-- Horatio Spafford, żył w USA, w Chicago w XIX wieku.
+- Horatio Spafford, żył w Stanach, w Chicago w XIX wieku.
 - Był szanowanym prawnikiem, starszym w zborze prezbiteriańskim
 - Zaangażowany w YMCA, prowadził szkółkę niedzielną, brał udział osobiście i finansowo w ewangelizacjach, odwiedzał więzienia, szpitale
 - Miał żonę i cztery córki
@@ -23,11 +23,15 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 ## 8 października 1871 roku sielanka się skończyła
 
 - Wybuchł Wielki Pożar Chicago, który pochłonął około 1/3 miasta
-- Dom z Spaffordow się ostał ale spłonęły wszystkie inwestycje
+- Dom Spaffordow się ostał, ale spłonęły wszystkie inwestycje
 
-Katastrofa - 22 listopada 1873 roku
+## Po 2 latach, doszedł do tego kryzys ekonomiczny
+- Spaffordowie na zaproszenie Moodiego postanowili popłynąć do Europy, potroszę w celach ewangelizacyjnych, potroszę aby odpocząć
+- Horatio dopinał sprawy firmowe, więc najpierw popłynęła żona z córkami 
 
+## Katastrofa - 22 listopada 1873 roku
 
+## Ja wiem, że nie. jedna, nie dwie
 
 
 
