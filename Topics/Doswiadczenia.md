@@ -1,4 +1,5 @@
 ## Śpiewaliśmy dziś kojącą pieśń
+
 - Gdy pokój niebieski Bóg w duszę mi wlał
 - Błogo mi... Błogo mi...
 - W Panu mam wieczny dział
@@ -10,17 +11,23 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
 ### Tak się składa, że historia autora tej pieśni jest bardzo obszernie udokumentowana
 
+- Horatio Spafford, żył w USA, w Chicago w XIX wieku.
+- Był szanowanym prawnikiem w Chicago, starszym w zborze prezbiteriańskim
+- Zaangażowany w YMCA, prowadził szkółkę niedzielną, brał udział osobiście finansowo w ewangelizacjach, odwiedzał więzienia, szpitale
+- Miał żonę i cztery córki
+- Spaffordowie przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA. Ich dom był otwarty dla wierzących, a oni sami byli znani z ogromnej hojności charytatywnej.
+- Żyli w dostatku, mieli dosyć luksusowy dom, a pozatym Horatio inwestował w różne instrumenty finansowe, ale przede wszystkim w nieruchomości w Chicago
+
 Dwight L. Moody 
 
 Wielki Pożar Chicago - 10 października 1871 roku
 
 Katastrofa - 22 listopada 1873 roku
 
-Historia piosenki Gdy Pokoj Niebieski
 
-Filary społeczności: Horatio był szanowanym prawnikiem w Chicago, profesorem prawa medycznego oraz starszym (prezbiterem) w kościele prezbiteriańskim.
 
-Przyjaciele ewangelii: Spaffordowie blisko przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA. Ich dom był otwarty dla wierzących, a oni sami byli znani z ogromnej hojności charytatywnej.
+
+
 
 Zaangażowanie Horatia w chrześcijaństwo jest udokumentowane na kilkanaście lat przed pożarem z 1871 r. i katastrofą z 1873 r. W Chicago był związany ze środowiskiem Moody'ego, YMCA, prowadził szkółkę niedzielną, brał udział w zebraniach modlitewnych i ewangelizacyjnych oraz odwiedzał więzienia i szpitale w ramach działalności ewangelizacyjnej. Był także starszym prezbiteriańskim. To nie pojawia się dopiero w późniejszej hagiografii; potwierdza to materiał historyczny Library of Congress oraz współcześni mu ewangelikaliści
 
