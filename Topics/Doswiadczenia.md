@@ -15,14 +15,15 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
 - Horatio Spafford, żył w USA, w Chicago w XIX wieku.
 - Był szanowanym prawnikiem, starszym w zborze prezbiteriańskim
-- Zaangażowany w YMCA, prowadził szkółkę niedzielną, brał udział osobiście finansowo w ewangelizacjach, odwiedzał więzienia, szpitale
+- Zaangażowany w YMCA, prowadził szkółkę niedzielną, brał udział osobiście i finansowo w ewangelizacjach, odwiedzał więzienia, szpitale
 - Miał żonę i cztery córki
-- Spaffordowie przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA. Ich dom był otwarty dla wierzących, a oni sami byli znani z ogromnej hojności charytatywnej.
+- Spaffordowie przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA
 - Żyli w dostatku, mieli dosyć luksusowy dom, a pozatym Horatio inwestował w różne instrumenty finansowe, ale przede wszystkim w nieruchomości w Chicago
 
-Dwight L. Moody 
+## 8 października 1871 roku sielanka się skończyła
 
-Wielki Pożar Chicago - 10 października 1871 roku
+- Wybuchł Wielki Pożar Chicago, który pochłonął około 1/3 miasta
+- Dom z Spaffordow się ostał ale spłonęły wszystkie inwestycje
 
 Katastrofa - 22 listopada 1873 roku
 
