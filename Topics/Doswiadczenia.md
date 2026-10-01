@@ -1,3 +1,12 @@
+## Śpiewaliśmy dziś kojącą pieśń
+Gdy pokój niebieski Bóg w duszę mi wlał
+Błogo mi... Błogo mi...
+W Panu mam wieczny dział
+
+### Gdy kiedyś po raz pierwszy usłyszałem ten refren, przed moimi oczyma stanął obraz o leżeniu na hamaku z taką wiecie trzciną w buzi
+
+### Ale 
+
 Historia piosenki Gdy Pokoj Niebieski
 
 Filary społeczności: Horatio był szanowanym prawnikiem w Chicago, profesorem prawa medycznego oraz starszym (prezbiterem) w kościele prezbiteriańskim.
