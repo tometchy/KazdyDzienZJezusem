@@ -31,6 +31,8 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
 ## Katastrofa - 22 listopada 1873 roku
 
+## Ocalałam tylko ja...
+
 ## Ja wiem, że nie. jedna, nie dwie
 
 
