@@ -144,7 +144,9 @@ Przekartkować książkę o depresji.
 Chcialem zakonczyc puenta, ze x
 Ale Bog nie chcial, zebym tak zakonczyl... Pokazal mi niesppdziewanie.
 We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio kończy się tym, że urodziła im się jeszcze trójka dzieci, dwie córki i syn, ale nastąpiła kolejna tragedia, 4letni syn zmarł na szkarlatynę, a oni wtedy postanowili całe życie poświęcić Bogu i wyprowadzili się do Jerozolimy służyć ubogim.
-Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
+Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych, listach, wspomnieniach, a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
+
+niespełna czteroletni synek Spaffordów zaraził się szkarlatyną i zmarł
 
 Nie będę opowiadał szczegółów tej sekty i tego co robili Horatio z żoną, bo nie było by to dla Was budujące.
 
