@@ -39,13 +39,9 @@ Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny stat
 ## Ja wiem, że nie. jedna, nie dwie
 
 
+1 Tes 2
 
 
-Zaangażowanie Horatia w chrześcijaństwo jest udokumentowane na kilkanaście lat przed pożarem z 1871 r. i katastrofą z 1873 r. W Chicago był związany ze środowiskiem Moody'ego, YMCA, prowadził szkółkę niedzielną, brał udział w zebraniach modlitewnych i ewangelizacyjnych oraz odwiedzał więzienia i szpitale w ramach działalności ewangelizacyjnej. Był także starszym prezbiteriańskim. To nie pojawia się dopiero w późniejszej hagiografii; potwierdza to materiał historyczny Library of Congress oraz współcześni mu ewangelikaliści
-
-Świadectwo wiary: Słynny hymn „It Is Well with My Soul” powstał w 1873 roku, tuż po utracie córek. W tamtym momencie ich wiara wciąż była ortodoksyjna i pełna autentycznego zawierzenia Bogu w bólu.
-
-Czy wierzący mamy życie jak autor piosenki?
 
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas doświadczyły bardzo trudnych doświadczeń. I na mojej głowie siwe włosy nie są kwestią genealogiczną.
 
