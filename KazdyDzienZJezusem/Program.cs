@@ -1,15 +1,27 @@
 using KazdyDzienZJezusem.Services;
+using StackExchange.Redis;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<IBibleFileSystem, PhysicalBibleFileSystem>();
+var tagRepository = new TagRepository(Path.Combine(AppContext.BaseDirectory, "Tags"));
+builder.Services.AddSingleton(tagRepository);
+var redisConnectionString = Environment.GetEnvironmentVariable("REDIS_CONNECTION_STRING");
+if (!string.IsNullOrWhiteSpace(redisConnectionString))
+{
+    var redis = ConnectionMultiplexer.Connect(redisConnectionString);
+    builder.Services.AddSingleton<IConnectionMultiplexer>(redis);
+    tagRepository.LoadIntoRedis(redis.GetDatabase());
+}
 builder.Services.AddSingleton(serviceProvider => new BibleRepository(
     Path.Combine(AppContext.BaseDirectory, "Bible"),
-    serviceProvider.GetRequiredService<IBibleFileSystem>()));
-builder.Services.AddSingleton(new FathersRepository(
-    Path.Combine(AppContext.BaseDirectory, "Fathers")));
+    serviceProvider.GetRequiredService<IBibleFileSystem>(),
+    serviceProvider.GetRequiredService<TagRepository>()));
+builder.Services.AddSingleton(serviceProvider => new FathersRepository(
+    Path.Combine(AppContext.BaseDirectory, "Fathers"),
+    serviceProvider.GetRequiredService<TagRepository>()));
 
 var app = builder.Build();
 

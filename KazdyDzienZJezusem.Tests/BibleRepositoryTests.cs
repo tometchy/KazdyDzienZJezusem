@@ -5,13 +5,11 @@ namespace KazdyDzienZJezusem.Tests;
 public sealed class BibleRepositoryTests
 {
     [Fact]
-    public void GetChapter_loads_non_empty_tags()
+    public void GetChapter_loads_flat_verse_mapping()
     {
         var repository = CreateRepository(
             """
-            "Rdz1,1":
-              text: "In the beginning"
-              tags: ["creation", "beginning"]
+            "Rdz1,1": "In the beginning"
             """);
         var translation = repository.FindTranslation("UBG")!;
         var book = repository.FindBook("Rdz")!;
@@ -19,17 +17,15 @@ public sealed class BibleRepositoryTests
         var verse = Assert.Single(repository.GetChapter(translation, book, 1));
 
         Assert.Equal("In the beginning", verse.Text);
-        Assert.Equal(["creation", "beginning"], verse.Tags);
+        Assert.Empty(verse.Tags);
     }
 
     [Fact]
-    public void GetChapter_rejects_a_non_array_tags_value()
+    public void GetChapter_rejects_a_non_string_verse_value()
     {
         var repository = CreateRepository(
             """
-            "Rdz1,1":
-              text: "In the beginning"
-              tags: "creation"
+            "Rdz1,1": ["In the beginning"]
             """);
         var translation = repository.FindTranslation("UBG")!;
         var book = repository.FindBook("Rdz")!;
@@ -37,7 +33,7 @@ public sealed class BibleRepositoryTests
         var exception = Assert.Throws<InvalidDataException>(
             () => repository.GetChapter(translation, book, 1));
 
-        Assert.Contains("Field 'tags'", exception.Message, StringComparison.Ordinal);
+        Assert.Contains("must contain a non-empty string", exception.Message, StringComparison.Ordinal);
     }
 
     [Fact]
@@ -50,8 +46,7 @@ public sealed class BibleRepositoryTests
         var verses = repository.GetChapter(translation, book, 1);
 
         Assert.Equal(31, verses.Count);
-        Assert.Equal(["Paweł"], verses[0].Tags);
-        Assert.All(verses.Skip(1), verse => Assert.Empty(verse.Tags));
+        Assert.All(verses, verse => Assert.Empty(verse.Tags));
     }
 
     private static BibleRepository CreateRepository(string chapter) =>

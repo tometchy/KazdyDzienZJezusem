@@ -87,12 +87,14 @@ public sealed class BibleRepository
 
     private readonly string _rootPath;
     private readonly IBibleFileSystem _fileSystem;
+    private readonly TagRepository? _tags;
     private readonly ConcurrentDictionary<ChapterKey, IReadOnlyList<BibleVerse>> _chapterCache = new();
 
-    public BibleRepository(string rootPath, IBibleFileSystem fileSystem)
+    public BibleRepository(string rootPath, IBibleFileSystem fileSystem, TagRepository? tags = null)
     {
         _rootPath = Path.GetFullPath(rootPath);
         _fileSystem = fileSystem;
+        _tags = tags;
 
         if (!_fileSystem.DirectoryExists(_rootPath))
         {
@@ -187,42 +189,8 @@ public sealed class BibleRepository
         }
 
         var keyPrefix = $"{book.Abbreviation}{chapter},";
-        var seenVerses = new HashSet<int>();
         var verses = new List<BibleVerse>();
-        string? currentKey = null;
-        int? currentVerseNumber = null;
-        string? currentText = null;
-        IReadOnlyList<string>? currentTags = null;
-        var hasText = false;
-        var hasTags = false;
-
-        void AddCurrentVerse()
-        {
-            if (currentKey is null || currentVerseNumber is null)
-            {
-                return;
-            }
-
-            if (!hasText || string.IsNullOrWhiteSpace(currentText))
-            {
-                throw new InvalidDataException(
-                    $"Field 'text' in verse '{currentKey}' must be a non-empty string in {path}");
-            }
-
-            if (!hasTags || currentTags is null)
-            {
-                throw new InvalidDataException(
-                    $"Field 'tags' is required in verse '{currentKey}' in {path}");
-            }
-
-            if (!seenVerses.Add(currentVerseNumber.Value))
-            {
-                throw new InvalidDataException(
-                    $"Duplicate verse '{currentKey}' in {path}");
-            }
-
-            verses.Add(new BibleVerse(currentVerseNumber.Value, currentText, currentTags));
-        }
+        var seenVerses = new HashSet<int>();
 
         foreach (var line in _fileSystem.ReadLines(path))
         {
@@ -231,52 +199,16 @@ public sealed class BibleRepository
                 continue;
             }
 
-            if (!char.IsWhiteSpace(line[0]))
-            {
-                AddCurrentVerse();
-
-                currentKey = ParseVerseKey(line, path);
-                currentVerseNumber = ParseVerseNumber(currentKey, keyPrefix, path);
-                currentText = null;
-                currentTags = null;
-                hasText = false;
-                hasTags = false;
-                continue;
-            }
-
-            if (currentKey is null)
-            {
-                throw new InvalidDataException(
-                    $"Verse field found before a verse key in {path}");
-            }
-
-            var trimmedLine = line.Trim();
-            var separatorIndex = trimmedLine.IndexOf(':');
-            if (separatorIndex < 1)
-            {
-                throw new InvalidDataException(
-                    $"Invalid field in verse '{currentKey}' in {path}");
-            }
-
-            var fieldName = trimmedLine[..separatorIndex];
-            var serializedValue = trimmedLine[(separatorIndex + 1)..].Trim();
-            switch (fieldName)
-            {
-                case "text" when !hasText:
-                    currentText = ParseText(serializedValue, currentKey, path);
-                    hasText = true;
-                    break;
-                case "tags" when !hasTags:
-                    currentTags = ParseTags(serializedValue, currentKey, path);
-                    hasTags = true;
-                    break;
-                default:
-                    throw new InvalidDataException(
-                        $"Unknown or duplicate field '{fieldName}' in verse '{currentKey}' in {path}");
-            }
+            using var document = JsonDocument.Parse($"{{{line}}}");
+            var property = document.RootElement.EnumerateObject().Single();
+            var number = ParseVerseNumber(property.Name, keyPrefix, path);
+            if (property.Value.ValueKind != JsonValueKind.String || string.IsNullOrWhiteSpace(property.Value.GetString()))
+                throw new InvalidDataException($"Verse '{property.Name}' must contain a non-empty string in {path}");
+            if (!seenVerses.Add(number))
+                throw new InvalidDataException($"Duplicate verse '{property.Name}' in {path}");
+            var tagNames = _tags?.ForFragment($"Bible:{property.Name}").Select(tag => tag.Name).ToArray() ?? [];
+            verses.Add(new BibleVerse(number, property.Value.GetString()!, tagNames));
         }
-
-        AddCurrentVerse();
         return verses.OrderBy(verse => verse.Number).ToArray();
     }
 

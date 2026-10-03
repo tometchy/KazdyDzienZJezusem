@@ -1,33 +1,34 @@
 ## Usage
 
-Generate the file-backed Bible data before building the application:
+Place original source files in `input-raw/`, then generate the application data:
 
 ```bash
 python3 convert-input-to-output.py
 ```
 
-The generated `output/` directory remains at the repository root. The web
-project links `output/**/*.yml` as content and copies it to `Bible/` beside the
-application DLL during both IDE builds and `dotnet publish`. The container
-therefore receives the same data inside the image and does not need a volume or
-a Redis process. Rebuild or republish the application after regenerating the
-YAML files.
-
-Each verse is stored as a mapping with its text and an editable tag list:
+The generated, versioned `input/` directory contains flat verse mappings:
 
 ```yaml
-"1J1,4":
-  text: "καὶ ταῦτα γράφομεν ὑμῖν, ἵνα ἡ χαρὰ ὑμῶν ᾖ πεπληρωμένη."
-  tags: []
+"1J5,12": "Kto ma Syna, ma to życie; kto nie ma Syna Bożego, nie ma tego życia."
 ```
 
-Non-empty tags use a JSON-compatible YAML flow array with double-quoted
-strings, for example `tags: ["joy", "letters of John"]`. Keep the `text` value
-and the complete `tags` array on their respective single lines. Regenerating
-the Bible data updates only `text` values in existing verse blocks, leaving
-their tags and formatting untouched. New verses are added with `tags: []`.
-Verses and chapters absent from a newer input are retained so that regeneration
-never removes manually maintained metadata.
+Tags are maintained independently in `tags/`. The Markdown filename is the tag name.
+Each file uses Obsidian-style YAML front matter with one fragment per line, followed
+by the tag description in Markdown:
+
+```markdown
+---
+fragments:
+  - Bible:1J5,12
+  - Fathers:Ignatius:Ef1,1
+---
+Description of the tag.
+```
+
+Bible references apply to every translation. Father references consist of the author
+code followed by the generated section key. Tag files are bundled into the image and
+indexed when the application starts. When `REDIS_CONNECTION_STRING` is set (as it
+is in `compose.yaml`), the same index is loaded into Redis hashes and fragment sets.
 
 Run the converter regression tests with:
 
