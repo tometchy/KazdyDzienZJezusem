@@ -6,6 +6,14 @@ services:
     restart: on-failure
     ports:
       - "8081:8080"
+    environment:
+      Tags__RedisConnection: redis:6379
+    depends_on:
+      - redis
+
+  redis:
+    image: docker.io/library/redis:8-alpine
+    restart: unless-stopped
 
   cloudflared:
     image: docker.io/cloudflare/cloudflared:latest
