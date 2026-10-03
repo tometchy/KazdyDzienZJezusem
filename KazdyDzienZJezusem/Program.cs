@@ -10,6 +10,9 @@ builder.Services.AddSingleton(serviceProvider => new BibleRepository(
     serviceProvider.GetRequiredService<IBibleFileSystem>()));
 builder.Services.AddSingleton(new FathersRepository(
     Path.Combine(AppContext.BaseDirectory, "Fathers")));
+builder.Services.AddSingleton(new TagRepository(
+    Path.Combine(AppContext.BaseDirectory, "Tags"),
+    builder.Configuration["Tags:RedisConnection"]));
 
 var app = builder.Build();
 

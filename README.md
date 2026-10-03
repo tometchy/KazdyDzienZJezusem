@@ -6,28 +6,34 @@ Generate the file-backed Bible data before building the application:
 python3 convert-input-to-output.py
 ```
 
-The generated `output/` directory remains at the repository root. The web
-project links `output/**/*.yml` as content and copies it to `Bible/` beside the
+The generated `input/` directory remains at the repository root. The web
+project links `input/**/*.yml` as content and copies it to `Bible/` beside the
 application DLL during both IDE builds and `dotnet publish`. The container
 therefore receives the same data inside the image and does not need a volume or
 a Redis process. Rebuild or republish the application after regenerating the
 YAML files.
 
-Each verse is stored as a mapping with its text and an editable tag list:
+Each converted verse is a direct YAML key/value pair:
 
 ```yaml
-"1J1,4":
-  text: "καὶ ταῦτα γράφομεν ὑμῖν, ἵνα ἡ χαρὰ ὑμῶν ᾖ πεπληρωμένη."
-  tags: []
+"1J5,12": "Whoever has the Son has life; whoever does not have the Son of God does not have life."
 ```
 
-Non-empty tags use a JSON-compatible YAML flow array with double-quoted
-strings, for example `tags: ["joy", "letters of John"]`. Keep the `text` value
-and the complete `tags` array on their respective single lines. Regenerating
-the Bible data updates only `text` values in existing verse blocks, leaving
-their tags and formatting untouched. New verses are added with `tags: []`.
-Verses and chapters absent from a newer input are retained so that regeneration
-never removes manually maintained metadata.
+Raw source files live in `input-raw/`; generated, application-ready texts live in `input/`. Topic metadata is maintained independently in versioned Markdown files under `tags/`. A tag file uses Obsidian-style front matter with one fragment per list item, followed by its Markdown description:
+
+```markdown
+---
+fragments:
+  - Mt1,18-25
+  - Łk2,1-20
+---
+
+# Birth of Jesus
+
+Description of the tag.
+```
+
+Bible references use `<book><chapter>,<verse>` or a verse range. Church Fathers references are prefixed with the author, for example `Ignatius/Ef1,1`. At container startup the application parses these files, loads tag definitions and the fragment index into Redis, and displays linked tags above matching passages.
 
 Run the converter regression tests with:
 

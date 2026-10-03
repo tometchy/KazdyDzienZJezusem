@@ -1,3 +1,4 @@
+@inject KazdyDzienZJezusem.Services.TagRepository TagRepository
 @model FatherChapterViewModel
 @{
     var chapterName = Model.Chapter == 0 ? "Preface" : $"Chapter {Model.Chapter}";
@@ -65,6 +66,16 @@
     @foreach (var passage in Model.Sections)
     {
         <div class="bible-verse" id="@passage.Number">
+            @{ var passageTags = TagRepository.GetTags($"Ignatius/{Model.Work.Abbreviation}{Model.Chapter},{passage.Number}"); }
+            @if (passageTags.Count > 0)
+            {
+                <ul class="verse-tags">
+                    @foreach (var tag in passageTags)
+                    {
+                        <li><a class="verse-tag" asp-controller="Tags" asp-action="Details" asp-route-slug="@tag.Slug" up-follow>@tag.Name</a></li>
+                    }
+                </ul>
+            }
             <a class="verse-number" href="#@passage.Number" aria-label="Section @passage.Number">@passage.Number</a>
             <span class="verse-text">@passage.Text</span>
         </div>

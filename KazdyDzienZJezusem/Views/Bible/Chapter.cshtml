@@ -1,3 +1,4 @@
+@inject KazdyDzienZJezusem.Services.TagRepository TagRepository
 @model BibleChapterViewModel
 @{
     ViewData["Title"] = $"{Model.Book.Abbreviation} {Model.Chapter} — {Model.Translation.Code}";
@@ -94,12 +95,13 @@
                         <path d="m8.6 13.5 6.8 4"></path>
                     </svg>
                 </a>
-                @if (verse.Tags.Count > 0)
+                @{ var verseTags = TagRepository.GetTags($"{Model.Book.Abbreviation}{Model.Chapter},{verse.Number}"); }
+                @if (verseTags.Count > 0)
                 {
                     <ul class="verse-tags" aria-label="Tagi wersetu @verseReference">
-                        @foreach (var tag in verse.Tags)
+                        @foreach (var tag in verseTags)
                         {
-                            <li class="verse-tag">@tag</li>
+                            <li><a class="verse-tag" asp-controller="Tags" asp-action="Details" asp-route-slug="@tag.Slug" up-follow>@tag.Name</a></li>
                         }
                     </ul>
                 }

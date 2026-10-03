@@ -1,0 +1,24 @@
+@model TagDetailsViewModel
+@{
+    ViewData["Title"] = Model.Tag.Name;
+}
+
+<div class="bible-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2">Tag</p>
+    <h1 class="display-6 fw-semibold">@Model.Tag.Name</h1>
+</div>
+
+<section class="tag-description">
+    @foreach (var paragraph in Model.Tag.Description.Split('\n').Where(line => !string.IsNullOrWhiteSpace(line) && !line.StartsWith("# ")))
+    {
+        <p>@paragraph</p>
+    }
+</section>
+
+<h2 class="h4 mt-4">Fragmenty</h2>
+<ul class="tag-fragment-list">
+    @foreach (var fragment in Model.Tag.Fragments)
+    {
+        <li>@fragment</li>
+    }
+</ul>
