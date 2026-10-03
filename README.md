@@ -9,9 +9,9 @@ python3 convert-input-to-output.py
 The generated `input/` directory remains at the repository root. The web
 project links `input/**/*.yml` as content and copies it to `Bible/` beside the
 application DLL during both IDE builds and `dotnet publish`. The container
-therefore receives the same data inside the image and does not need a volume or
-a Redis process. Rebuild or republish the application after regenerating the
-YAML files.
+therefore receives the same text data inside the image without a volume. Redis
+is used for the independently maintained tag index. Rebuild or republish the
+application after regenerating the YAML files.
 
 Each converted verse is a direct YAML key/value pair:
 
