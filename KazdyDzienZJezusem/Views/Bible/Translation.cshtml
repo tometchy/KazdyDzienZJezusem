@@ -31,3 +31,8 @@
         </a>
     }
 </div>
+
+@if (Model.Translation.Code is "UBG" or "TNP")
+{
+<partial name="_TranslationCopyright" model="Model.Translation" />
+}

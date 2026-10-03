@@ -1,0 +1,47 @@
+@model FatherIndexViewModel
+@{
+    ViewData["Title"] = "Ojcowie";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item active" aria-current="page">Ojcowie</li>
+    </ol>
+</nav>
+
+<div class="bible-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2">Early Christian writings</p>
+    <h1 class="display-5 fw-semibold">Ojcowie</h1>
+    <p class="lead text-secondary">Choose an author to read the original-language text.</p>
+</div>
+
+<div class="row g-4 bible-card-grid">
+    @foreach (var author in Model.Authors)
+    {
+        <div class="col-12 col-md-6">
+            <a class="card bible-card h-100 text-decoration-none"
+               asp-action="Author"
+               asp-route-author="@author.Code"
+               up-follow>
+                <div class="card-body p-4">
+                    <span class="bible-card-code">IA</span>
+                    <h2 class="h4 mt-3 mb-2 text-body">@author.Name</h2>
+                    <p class="mb-0 text-secondary">@author.Description</p>
+                </div>
+            </a>
+        </div>
+    }
+</div>
+
+<aside class="father-source-note">
+    <h2 class="h5">Text and licence</h2>
+    <p class="mb-2">
+        The Greek text is Kirsopp Lake's 1912 edition, digitized by the Perseus Digital Library
+        and <a href="https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg1443/tlg001" target="_blank" rel="noopener noreferrer">distributed by Open Greek and Latin</a> under the
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0 licence</a>.
+    </p>
+    <p class="mb-0">
+        Changes: the TEI XML is converted into chapter and section files for this reader;
+        critical notes are omitted from the reading text.
+    </p>
+</aside>

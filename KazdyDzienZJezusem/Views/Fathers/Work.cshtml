@@ -1,0 +1,32 @@
+@model FatherChapterListViewModel
+@{
+    ViewData["Title"] = $"{Model.Work.Name} — {Model.Author.Name}";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-action="Index" up-follow>Ojcowie</a></li>
+        <li class="breadcrumb-item">
+            <a asp-action="Author" asp-route-author="@Model.Author.Code" up-follow>@Model.Author.Name</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">@Model.Work.Abbreviation</li>
+    </ol>
+</nav>
+
+<div class="bible-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2">@Model.Author.Name</p>
+    <h1 class="display-6 fw-semibold">@Model.Work.Name</h1>
+    <p class="lead text-secondary" lang="grc">@Model.Work.GreekName</p>
+</div>
+
+<div class="chapter-grid" aria-label="Chapters">
+    @foreach (var chapter in Model.Chapters)
+    {
+        <a class="btn btn-outline-primary chapter-button"
+           asp-action="Chapter"
+           asp-route-author="@Model.Author.Code"
+           asp-route-work="@Model.Work.Abbreviation"
+           asp-route-chapter="@chapter"
+           up-follow>@(chapter == 0 ? "Preface" : chapter)</a>
+    }
+</div>

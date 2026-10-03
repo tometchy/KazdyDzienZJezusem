@@ -97,6 +97,20 @@ BOOK_BY_KJV_NAME = {book.kjv_name: book for book in BOOKS}
 BOOK_BY_OSIS_NAME = {book.osis_name: book for book in BOOKS}
 BOOK_BY_NUMBER = {number: book for number, book in enumerate(BOOKS, start=1)}
 
+IGNATIUS_WORKS = (
+    Book("Ef", "To the Ephesians", "1", "1"),
+    Book("Mag", "To the Magnesians", "2", "2"),
+    Book("Tral", "To the Trallians", "3", "3"),
+    Book("Rz", "To the Romans", "4", "4"),
+    Book("Filad", "To the Philadelphians", "5", "5"),
+    Book("Smyr", "To the Smyrnaeans", "6", "6"),
+    Book("Pol", "To Polycarp", "7", "7"),
+)
+
+IGNATIUS_WORK_BY_NUMBER = {
+    work.osis_name: work for work in IGNATIUS_WORKS
+}
+
 Verse = tuple[Book, int, int, str]
 Chapters = dict[Book, dict[int, dict[int, str]]]
 
@@ -311,6 +325,41 @@ def read_kjv() -> Iterator[Verse]:
 
         text = re.sub(r"^#\s*", "", normalize_text(str(raw_text)))
         yield book, int(chapter), int(verse), text
+
+
+def read_ignatius() -> Iterator[Verse]:
+    path = INPUT_DIR / "ignatius-seven-letters.xml"
+    root = ElementTree.parse(path).getroot()
+    namespace = "{http://www.tei-c.org/ns/1.0}"
+
+    for epistle in root.iter(f"{namespace}div"):
+        if epistle.attrib.get("subtype") != "epistle":
+            continue
+
+        epistle_number = epistle.attrib.get("n", "")
+        try:
+            work = IGNATIUS_WORK_BY_NUMBER[epistle_number]
+        except KeyError as error:
+            raise ValueError(
+                f"Unknown Ignatius epistle number: {epistle_number}"
+            ) from error
+
+        for chapter_node in epistle.findall(f"{namespace}div"):
+            if chapter_node.attrib.get("subtype") != "chapter":
+                continue
+
+            raw_chapter = chapter_node.attrib.get("n", "")
+            chapter = 0 if raw_chapter == "praef" else int(raw_chapter)
+            for section_node in chapter_node.findall(f"{namespace}div"):
+                if section_node.attrib.get("subtype") != "section":
+                    continue
+
+                section = int(section_node.attrib["n"])
+                text = extract_text(
+                    section_node,
+                    excluded_tags=frozenset({"note"}),
+                )
+                yield work, chapter, section, text
 
 
 def collect_chapters(translation: str, verses: Iterable[Verse]) -> Chapters:
@@ -565,12 +614,48 @@ def write_translation(translation: str, verses: Iterable[Verse]) -> None:
     )
 
 
+def write_ignatius(verses: Iterable[Verse]) -> None:
+    chapters: Chapters = defaultdict(lambda: defaultdict(dict))
+    for work, chapter, section, text in verses:
+        if chapter < 0 or section < 1 or not text:
+            raise ValueError(
+                f"Invalid Ignatius reference: {work.abbreviation} {chapter}:{section}"
+            )
+        if section in chapters[work][chapter]:
+            raise ValueError(
+                f"Duplicate Ignatius section: {work.abbreviation} {chapter}:{section}"
+            )
+        chapters[work][chapter][section] = text
+
+    output_dir = OUTPUT_DIR / "Fathers" / "Ignatius"
+    chapter_count = 0
+    section_count = 0
+    for work in IGNATIUS_WORKS:
+        for chapter, sections in sorted(chapters[work].items()):
+            work_dir = output_dir / work.abbreviation
+            work_dir.mkdir(parents=True, exist_ok=True)
+            update_chapter_texts(
+                work_dir / f"{chapter}.yml",
+                work,
+                chapter,
+                sections,
+            )
+            chapter_count += 1
+            section_count += len(sections)
+
+    print(
+        f"Ignatius: {len(chapters)} works, {chapter_count} chapters, "
+        f"{section_count} sections"
+    )
+
+
 def main() -> None:
     required_inputs = (
         INPUT_DIR / "UBG_2025.epub",
         INPUT_DIR / "Biblia_przeklad_Torunski.epub",
         INPUT_DIR / "gnt.flat.json",
         INPUT_DIR / "verses-1769.json",
+        INPUT_DIR / "ignatius-seven-letters.xml",
     )
     missing_inputs = [path for path in required_inputs if not path.is_file()]
     if missing_inputs:
@@ -582,6 +667,7 @@ def main() -> None:
     write_translation("TNP", read_tnp())
     write_translation("TR", read_tr())
     write_translation("KJV", read_kjv())
+    write_ignatius(read_ignatius())
     print(f"Conversion complete: {OUTPUT_DIR}")
 
 

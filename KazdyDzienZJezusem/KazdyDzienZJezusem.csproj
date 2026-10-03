@@ -7,8 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="../output/**/*.yml">
+    <Content Include="../output/**/*.yml" Exclude="../output/Fathers/**/*.yml">
       <Link>Bible/%(RecursiveDir)%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="../output/Fathers/**/*.yml">
+      <Link>Fathers/%(RecursiveDir)%(Filename)%(Extension)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
