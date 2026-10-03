@@ -5,11 +5,16 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<IBibleFileSystem, PhysicalBibleFileSystem>();
+builder.Services.AddSingleton(new TagRepository(
+    Path.Combine(AppContext.BaseDirectory, "Tags")));
+builder.Services.AddHostedService<RedisTagPublisher>();
 builder.Services.AddSingleton(serviceProvider => new BibleRepository(
     Path.Combine(AppContext.BaseDirectory, "Bible"),
-    serviceProvider.GetRequiredService<IBibleFileSystem>()));
-builder.Services.AddSingleton(new FathersRepository(
-    Path.Combine(AppContext.BaseDirectory, "Fathers")));
+    serviceProvider.GetRequiredService<IBibleFileSystem>(),
+    serviceProvider.GetRequiredService<TagRepository>()));
+builder.Services.AddSingleton(serviceProvider => new FathersRepository(
+    Path.Combine(AppContext.BaseDirectory, "Fathers"),
+    serviceProvider.GetRequiredService<TagRepository>()));
 
 var app = builder.Build();
 

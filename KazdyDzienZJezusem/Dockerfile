@@ -7,7 +7,8 @@ COPY KazdyDzienZJezusem/KazdyDzienZJezusem.csproj KazdyDzienZJezusem/
 RUN dotnet restore KazdyDzienZJezusem/KazdyDzienZJezusem.csproj
 
 COPY KazdyDzienZJezusem/ KazdyDzienZJezusem/
-COPY output/ output/
+COPY input/ input/
+COPY tags/ tags/
 RUN dotnet publish KazdyDzienZJezusem/KazdyDzienZJezusem.csproj -c Release -o /out --no-restore
 
 # ---------- STAGE 2: APPLICATION RUNTIME ----------

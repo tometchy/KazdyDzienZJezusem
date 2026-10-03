@@ -1,0 +1,44 @@
+@model TagDetailsViewModel
+@{
+    ViewData["Title"] = Model.Tag.Name;
+}
+
+<h1>@Model.Tag.Name</h1>
+<div class="tag-description" style="white-space: pre-wrap">@Model.Tag.Description</div>
+
+<h2>Fragments</h2>
+<ul class="tag-fragments">
+    @foreach (var fragment in Model.Tag.Fragments)
+    {
+        var fatherMatch = System.Text.RegularExpressions.Regex.Match(
+            fragment,
+            @"^Fathers:([^:]+):([^0-9]+)([0-9]+),([0-9]+)$");
+        var bibleMatch = System.Text.RegularExpressions.Regex.Match(
+            fragment,
+            @"^(.+?)([0-9]+),([0-9]+)$");
+        if (fatherMatch.Success)
+        {
+            <li><a asp-controller="Fathers"
+                   asp-action="Chapter"
+                   asp-route-author="@fatherMatch.Groups[1].Value"
+                   asp-route-work="@fatherMatch.Groups[2].Value"
+                   asp-route-chapter="@fatherMatch.Groups[3].Value"
+                   asp-fragment="@fatherMatch.Groups[4].Value"
+                   up-follow><code>@fragment</code></a></li>
+        }
+        else if (bibleMatch.Success)
+        {
+            <li><a asp-controller="Bible"
+                   asp-action="Chapter"
+                   asp-route-translation="UBG"
+                   asp-route-book="@bibleMatch.Groups[1].Value"
+                   asp-route-chapter="@bibleMatch.Groups[2].Value"
+                   asp-fragment="@bibleMatch.Groups[3].Value"
+                   up-follow><code>@fragment</code></a></li>
+        }
+        else
+        {
+            <li><code>@fragment</code></li>
+        }
+    }
+</ul>

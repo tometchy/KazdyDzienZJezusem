@@ -11,8 +11,8 @@ from zipfile import ZipFile
 
 
 BASE_DIR = Path(__file__).resolve().parent
-INPUT_DIR = BASE_DIR / "input"
-OUTPUT_DIR = BASE_DIR / "output"
+INPUT_DIR = BASE_DIR / "input-raw"
+OUTPUT_DIR = BASE_DIR / "input"
 
 
 @dataclass(frozen=True)
@@ -397,13 +397,7 @@ def render_verse(
     *,
     newline: str = "\n",
 ) -> str:
-    return "".join(
-        (
-            f"{yaml_string(f'{book.abbreviation}{chapter},{verse}')}:{newline}",
-            f"  text: {yaml_string(text)}{newline}",
-            f"  tags: []{newline}",
-        )
-    )
+    return f"{yaml_string(f'{book.abbreviation}{chapter},{verse}')}: {yaml_string(text)}{newline}"
 
 
 def render_chapter(
@@ -423,168 +417,10 @@ def update_chapter_texts(
     chapter: int,
     chapter_verses: dict[int, str],
 ) -> None:
-    if not output_path.is_file():
-        output_path.write_text(
-            render_chapter(book, chapter, chapter_verses),
-            encoding="utf-8",
-        )
-        return
-
-    original_content = output_path.read_bytes().decode("utf-8")
-    lines = original_content.splitlines(keepends=True)
-
-    # Migrate files generated with the old one-line schema. They cannot contain
-    # editable tags, so there is no user-authored metadata to preserve.
-    first_content_line = next((line for line in lines if line.strip()), "")
-    first_line_body = first_content_line.rstrip("\r\n").rstrip()
-    if not first_line_body or (
-        not first_line_body[0].isspace() and not first_line_body.endswith(":")
-    ):
-        updated_content = render_chapter(book, chapter, chapter_verses)
-        if updated_content != original_content:
-            output_path.write_bytes(updated_content.encode("utf-8"))
-        return
-
-    key_prefix = f"{book.abbreviation}{chapter},"
-    current_verse: int | None = None
-    current_text_line: int | None = None
-    current_text: str | None = None
-    current_has_tags = False
-    text_lines_by_verse: dict[int, int] = {}
-    existing_texts_by_verse: dict[int, str] = {}
-
-    def finish_verse() -> None:
-        if current_verse is None:
-            return
-        if current_text_line is None or current_text is None:
-            raise ValueError(
-                f"Missing text for verse {current_verse} in {output_path}"
-            )
-        if not current_has_tags:
-            raise ValueError(
-                f"Missing tags for verse {current_verse} in {output_path}"
-            )
-        text_lines_by_verse[current_verse] = current_text_line
-        existing_texts_by_verse[current_verse] = current_text
-
-    for line_index, line in enumerate(lines):
-        line_number = line_index + 1
-        line_body = line.rstrip("\r\n")
-        if not line_body.strip():
-            continue
-
-        if not line_body[0].isspace():
-            finish_verse()
-            serialized_key = line_body.rstrip()
-            if not serialized_key.endswith(":"):
-                raise ValueError(f"Invalid verse key in {output_path}:{line_number}")
-
-            try:
-                key = json.loads(serialized_key[:-1])
-                if not isinstance(key, str) or not key.startswith(key_prefix):
-                    raise ValueError
-                verse = int(key[len(key_prefix) :])
-                if verse < 1 or verse in text_lines_by_verse:
-                    raise ValueError
-            except (json.JSONDecodeError, ValueError) as error:
-                raise ValueError(
-                    f"Invalid verse key in {output_path}:{line_number}"
-                ) from error
-
-            current_verse = verse
-            current_text_line = None
-            current_text = None
-            current_has_tags = False
-            continue
-
-        if current_verse is None:
-            raise ValueError(
-                f"Verse field without a key in {output_path}:{line_number}"
-            )
-
-        field_name, separator, serialized_value = line_body.strip().partition(":")
-        if not separator or field_name not in {"text", "tags"}:
-            continue
-
-        if field_name == "tags":
-            if current_has_tags:
-                raise ValueError(
-                    f"Duplicate tags for verse {current_verse} in {output_path}"
-                )
-            try:
-                tags = json.loads(serialized_value.strip())
-            except json.JSONDecodeError as error:
-                raise ValueError(
-                    f"Invalid tags for verse {current_verse} in {output_path}"
-                ) from error
-            if not isinstance(tags, list) or not all(
-                isinstance(tag, str) for tag in tags
-            ):
-                raise ValueError(
-                    f"Invalid tags for verse {current_verse} in {output_path}"
-                )
-            current_has_tags = True
-            continue
-
-        if current_text_line is not None:
-            raise ValueError(
-                f"Duplicate text for verse {current_verse} in {output_path}"
-            )
-
-        try:
-            existing_text = json.loads(serialized_value.strip())
-        except json.JSONDecodeError as error:
-            raise ValueError(
-                f"Invalid text for verse {current_verse} in {output_path}"
-            ) from error
-        if not isinstance(existing_text, str):
-            raise ValueError(
-                f"Invalid text for verse {current_verse} in {output_path}"
-            )
-
-        current_text_line = line_index
-        current_text = existing_text
-
-    finish_verse()
-
-    for verse, text in chapter_verses.items():
-        line_index = text_lines_by_verse.get(verse)
-        if line_index is None or existing_texts_by_verse[verse] == text:
-            continue
-
-        line = lines[line_index]
-        line_body = line.rstrip("\r\n")
-        line_ending = line[len(line_body) :]
-        separator_index = line_body.index(":")
-        value_start = separator_index + 1
-        while value_start < len(line_body) and line_body[value_start] in " \t":
-            value_start += 1
-        _, value_end = json.JSONDecoder().raw_decode(line_body[value_start:])
-        value_suffix = line_body[value_start + value_end :]
-        lines[line_index] = (
-            f"{line_body[:value_start]}{yaml_string(text)}{value_suffix}{line_ending}"
-        )
-
-    missing_verses = sorted(set(chapter_verses) - set(text_lines_by_verse))
-    if missing_verses:
-        newline = "\r\n" if any(line.endswith("\r\n") for line in lines) else "\n"
-        if lines and not lines[-1].endswith(("\n", "\r")):
-            lines[-1] += newline
-        lines.extend(
-            render_verse(
-                book,
-                chapter,
-                verse,
-                chapter_verses[verse],
-                newline=newline,
-            )
-            for verse in missing_verses
-        )
-
-    updated_content = "".join(lines)
-    if updated_content != original_content:
-        output_path.write_bytes(updated_content.encode("utf-8"))
-
+    output_path.write_text(
+        render_chapter(book, chapter, chapter_verses),
+        encoding="utf-8",
+    )
 
 def write_translation(translation: str, verses: Iterable[Verse]) -> None:
     chapters = collect_chapters(translation, verses)

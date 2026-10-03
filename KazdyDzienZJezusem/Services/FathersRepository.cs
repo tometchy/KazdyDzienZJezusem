@@ -25,10 +25,12 @@ public sealed class FathersRepository
 
     private readonly string _rootPath;
     private readonly ConcurrentDictionary<string, IReadOnlyList<BibleVerse>> _chapterCache = new();
+    private readonly TagRepository? _tagRepository;
 
-    public FathersRepository(string rootPath)
+    public FathersRepository(string rootPath, TagRepository? tagRepository = null)
     {
         _rootPath = Path.GetFullPath(rootPath);
+        _tagRepository = tagRepository;
         if (!Directory.Exists(GetAuthorPath(Ignatius)))
         {
             throw new DirectoryNotFoundException(
@@ -80,24 +82,16 @@ public sealed class FathersRepository
         int chapter)
     {
         var path = GetChapterPath(author, work, chapter);
-        return _chapterCache.GetOrAdd(path, LoadChapter);
+        return _chapterCache.GetOrAdd(path, _ => LoadChapter(path, author, work, chapter));
     }
 
-    private static IReadOnlyList<BibleVerse> LoadChapter(string path)
+    private IReadOnlyList<BibleVerse> LoadChapter(
+        string path,
+        FatherAuthor author,
+        FatherWork work,
+        int chapter)
     {
         var sections = new List<BibleVerse>();
-        int? number = null;
-        string? text = null;
-        IReadOnlyList<string> tags = [];
-
-        void AddSection()
-        {
-            if (number.HasValue && !string.IsNullOrWhiteSpace(text))
-            {
-                sections.Add(new BibleVerse(number.Value, text, tags));
-            }
-        }
-
         foreach (var line in File.ReadLines(path))
         {
             if (string.IsNullOrWhiteSpace(line))
@@ -105,34 +99,19 @@ public sealed class FathersRepository
                 continue;
             }
 
-            if (!char.IsWhiteSpace(line[0]))
+            var separator = line.IndexOf(": ", StringComparison.Ordinal);
+            if (separator < 1)
             {
-                AddSection();
-                var key = JsonSerializer.Deserialize<string>(line.TrimEnd(':'))
-                    ?? throw new InvalidDataException($"Invalid section key in {path}");
-                number = int.Parse(key[(key.LastIndexOf(',') + 1)..], CultureInfo.InvariantCulture);
-                text = null;
-                tags = [];
-                continue;
+                throw new InvalidDataException($"Invalid section in {path}: {line}");
             }
-
-            var field = line.Trim().Split(':', 2);
-            if (field.Length != 2)
-            {
-                continue;
-            }
-
-            if (field[0] == "text")
-            {
-                text = JsonSerializer.Deserialize<string>(field[1].Trim());
-            }
-            else if (field[0] == "tags")
-            {
-                tags = JsonSerializer.Deserialize<string[]>(field[1].Trim()) ?? [];
-            }
+            var key = JsonSerializer.Deserialize<string>(line[..separator])
+                ?? throw new InvalidDataException($"Invalid section key in {path}");
+            var number = int.Parse(key[(key.LastIndexOf(',') + 1)..], CultureInfo.InvariantCulture);
+            var text = JsonSerializer.Deserialize<string>(line[(separator + 2)..])
+                ?? throw new InvalidDataException($"Invalid section text in {path}");
+            var fragment = $"Fathers:{author.Code}:{work.Abbreviation}{chapter},{number}";
+            sections.Add(new BibleVerse(number, text, _tagRepository?.GetTags(fragment) ?? []));
         }
-
-        AddSection();
         return sections.OrderBy(section => section.Number).ToArray();
     }
 
