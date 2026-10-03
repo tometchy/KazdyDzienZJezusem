@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="../output/**/*.yml" Exclude="../output/Fathers/**/*.yml">
+    <Content Include="../input/**/*.yml" Exclude="../input/Fathers/**/*.yml">
       <Link>Bible/%(RecursiveDir)%(Filename)%(Extension)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
@@ -15,11 +15,21 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="../output/Fathers/**/*.yml">
+    <Content Include="../input/Fathers/**/*.yml">
       <Link>Fathers/%(RecursiveDir)%(Filename)%(Extension)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="../tags/**/*.md">
+      <Link>Tags/%(RecursiveDir)%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <PackageReference Include="Markdig" Version="0.41.3" />
+    <PackageReference Include="StackExchange.Redis" Version="2.9.32" />
   </ItemGroup>
 
 </Project>

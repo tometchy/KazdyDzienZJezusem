@@ -1,0 +1,24 @@
+@model TagDetailsViewModel
+@{
+    ViewData["Title"] = Model.Tag.Slug;
+}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item active" aria-current="page">Tag</li>
+    </ol>
+</nav>
+<div class="bible-heading">
+    <p class="text-uppercase text-secondary small fw-semibold mb-2">Tag</p>
+    <h1 class="display-6 fw-semibold">@Model.Tag.Slug</h1>
+</div>
+<section class="tag-description">@Html.Raw(Model.DescriptionHtml)</section>
+<h2 class="h4 mt-4">Fragments</h2>
+<ul class="tag-passages">
+@foreach (var passage in Model.Passages)
+{
+    <li>
+        <a href="@passage.Url" up-follow><strong>@passage.Reference</strong></a>
+        <span>@passage.Text</span>
+    </li>
+}
+</ul>

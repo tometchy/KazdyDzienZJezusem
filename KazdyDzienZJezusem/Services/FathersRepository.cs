@@ -86,18 +86,6 @@ public sealed class FathersRepository
     private static IReadOnlyList<BibleVerse> LoadChapter(string path)
     {
         var sections = new List<BibleVerse>();
-        int? number = null;
-        string? text = null;
-        IReadOnlyList<string> tags = [];
-
-        void AddSection()
-        {
-            if (number.HasValue && !string.IsNullOrWhiteSpace(text))
-            {
-                sections.Add(new BibleVerse(number.Value, text, tags));
-            }
-        }
-
         foreach (var line in File.ReadLines(path))
         {
             if (string.IsNullOrWhiteSpace(line))
@@ -105,34 +93,14 @@ public sealed class FathersRepository
                 continue;
             }
 
-            if (!char.IsWhiteSpace(line[0]))
-            {
-                AddSection();
-                var key = JsonSerializer.Deserialize<string>(line.TrimEnd(':'))
-                    ?? throw new InvalidDataException($"Invalid section key in {path}");
-                number = int.Parse(key[(key.LastIndexOf(',') + 1)..], CultureInfo.InvariantCulture);
-                text = null;
-                tags = [];
-                continue;
-            }
-
-            var field = line.Trim().Split(':', 2);
-            if (field.Length != 2)
-            {
-                continue;
-            }
-
-            if (field[0] == "text")
-            {
-                text = JsonSerializer.Deserialize<string>(field[1].Trim());
-            }
-            else if (field[0] == "tags")
-            {
-                tags = JsonSerializer.Deserialize<string[]>(field[1].Trim()) ?? [];
-            }
+            var field = line.Split(':', 2);
+            var key = JsonSerializer.Deserialize<string>(field[0])
+                ?? throw new InvalidDataException($"Invalid section key in {path}");
+            var text = JsonSerializer.Deserialize<string>(field[1].Trim())
+                ?? throw new InvalidDataException($"Invalid section text in {path}");
+            var number = int.Parse(key[(key.LastIndexOf(',') + 1)..], CultureInfo.InvariantCulture);
+            sections.Add(new BibleVerse(number, text, []));
         }
-
-        AddSection();
         return sections.OrderBy(section => section.Number).ToArray();
     }
 

@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace KazdyDzienZJezusem.Controllers;
 
 [Route("Biblia")]
-public sealed class BibleController(BibleRepository bibleRepository) : Controller
+public sealed class BibleController(BibleRepository bibleRepository, TagRepository tagRepository) : Controller
 {
     [HttpGet("")]
     public IActionResult Index()
@@ -75,7 +75,13 @@ public sealed class BibleController(BibleRepository bibleRepository) : Controlle
             selectedTranslation,
             selectedBook,
             chapter,
-            bibleRepository.GetChapter(selectedTranslation, selectedBook, chapter),
+            bibleRepository.GetChapter(selectedTranslation, selectedBook, chapter)
+                .Select(verse => verse with
+                {
+                    Tags = tagRepository.FindForFragment(
+                        $"Bible:{selectedBook.Abbreviation}{chapter},{verse.Number}")
+                })
+                .ToArray(),
             chapterIndex > 0 ? chapters[chapterIndex - 1] : null,
             chapterIndex < chapters.Count - 1 ? chapters[chapterIndex + 1] : null));
     }

@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace KazdyDzienZJezusem.Controllers;
 
 [Route("Ojcowie")]
-public sealed class FathersController(FathersRepository fathersRepository) : Controller
+public sealed class FathersController(FathersRepository fathersRepository, TagRepository tagRepository) : Controller
 {
     [HttpGet("")]
     public IActionResult Index() =>
@@ -60,7 +60,13 @@ public sealed class FathersController(FathersRepository fathersRepository) : Con
             selectedAuthor,
             selectedWork,
             chapter,
-            fathersRepository.GetChapter(selectedAuthor, selectedWork, chapter),
+            fathersRepository.GetChapter(selectedAuthor, selectedWork, chapter)
+                .Select(section => section with
+                {
+                    Tags = tagRepository.FindForFragment(
+                        $"Fathers:{selectedAuthor.Code}:{selectedWork.Abbreviation}{chapter},{section.Number}")
+                })
+                .ToArray(),
             index > 0 ? chapters[index - 1] : null,
             index < chapters.Count - 1 ? chapters[index + 1] : null));
     }

@@ -1,33 +1,35 @@
 ## Usage
 
-Generate the file-backed Bible data before building the application:
+Raw source publications live in `input-raw/`. Generate the application input before building:
 
 ```bash
 python3 convert-input-to-output.py
 ```
 
-The generated `output/` directory remains at the repository root. The web
-project links `output/**/*.yml` as content and copies it to `Bible/` beside the
-application DLL during both IDE builds and `dotnet publish`. The container
-therefore receives the same data inside the image and does not need a volume or
-a Redis process. Rebuild or republish the application after regenerating the
-YAML files.
-
-Each verse is stored as a mapping with its text and an editable tag list:
+The converter writes plain YAML mappings to `input/`:
 
 ```yaml
-"1J1,4":
-  text: "καὶ ταῦτα γράφομεν ὑμῖν, ἵνα ἡ χαρὰ ὑμῶν ᾖ πεπληρωμένη."
-  tags: []
+"1J5,12": "Kto ma Syna, ma to życie; kto nie ma Syna Bożego, nie ma tego życia."
+"1J5,13": "To napisałem wam, którzy wierzycie w imię Syna Bożego, byście wiedzieli, że macie życie wieczne i abyście wierzyli w imię Syna Bożego."
 ```
 
-Non-empty tags use a JSON-compatible YAML flow array with double-quoted
-strings, for example `tags: ["joy", "letters of John"]`. Keep the `text` value
-and the complete `tags` array on their respective single lines. Regenerating
-the Bible data updates only `text` values in existing verse blocks, leaving
-their tags and formatting untouched. New verses are added with `tags: []`.
-Verses and chapters absent from a newer input are retained so that regeneration
-never removes manually maintained metadata.
+Tags are maintained separately in the versioned `tags/` directory. The Markdown filename is the tag slug. Each file starts with Obsidian-style YAML front matter whose `fragments` array has one reference per line, followed by the tag description:
+
+```markdown
+---
+fragments:
+  - Bible:1J5,12
+  - Fathers:Ignatius:Ef1,1
+---
+
+# Example tag
+
+Tag description.
+```
+
+Bible references use `Bible:<book><chapter>,<verse>` and Church Father references use `Fathers:<author>:<work><chapter>,<section>`. During container startup the parsed tag definitions and reverse fragment index are loaded into Redis. They are also held in the application cache so chapter rendering does not perform a Redis round trip for every verse.
+
+The web project packages `input/**/*.yml` and `tags/**/*.md` into the published application. Rebuild or republish after changing either directory.
 
 Run the converter regression tests with:
 
