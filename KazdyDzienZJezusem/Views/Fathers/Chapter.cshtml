@@ -65,6 +65,15 @@
     @foreach (var passage in Model.Sections)
     {
         <div class="bible-verse" id="@passage.Number">
+            @if (passage.Tags.Count > 0)
+            {
+                <ul class="verse-tags">
+                    @foreach (var tag in passage.Tags)
+                    {
+                        <li class="verse-tag"><a asp-controller="Tags" asp-action="Details" asp-route-name="@tag" up-follow>@tag</a></li>
+                    }
+                </ul>
+            }
             <a class="verse-number" href="#@passage.Number" aria-label="Section @passage.Number">@passage.Number</a>
             <span class="verse-text">@passage.Text</span>
         </div>

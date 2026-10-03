@@ -99,7 +99,7 @@
                     <ul class="verse-tags" aria-label="Tagi wersetu @verseReference">
                         @foreach (var tag in verse.Tags)
                         {
-                            <li class="verse-tag">@tag</li>
+                            <li class="verse-tag"><a asp-controller="Tags" asp-action="Details" asp-route-name="@tag" up-follow>@tag</a></li>
                         }
                     </ul>
                 }
