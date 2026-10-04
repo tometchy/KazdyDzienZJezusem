@@ -52,7 +52,6 @@ Księga Psalmów 55, cały psalm zacząć od:
 
 Gdy byłem z Piotrkiem na sorze "Ale Bóg tak rzadko odpowiada!". Fragmenty o tym, że Bóg wysłuchuje modlitw.
 
-Horatio slyszal czasem zarzuty, ze to kara Boza. Ja patrze na to inaczej, Bog ma do mnie cierpliwoc, a ja jestem opornym uczniem i czasem potrzebuje szczegolnych korepetycji, moze to rzeczywiscie troche Bozs rozga, ale nie traktuje tego jako kary, a raczej kubel otrzezwienia.
 
 Waldek powiedzial ze wojna na Ukrainie przyspiesza pewne lekcje, niektorzy z nas tego doswiadczyli lub doswiadczaja tutaj bez wojny.
 
@@ -109,7 +108,10 @@ Caly psalm 103
 
 Mat 26,37 + synotycznie
 
-Lekcje, jakie mogą z tego płynąć
+Chciałbym, żebyśmy się wspólnie spojrzeli na ciężkie doswiadczenia przez pryzmat Slowa
+Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa
+A wy sta­li­ście się na­śla­dow­ca­mi na­szy­mi i Pana, przyj­mu­jąc* Sło­wo w wiel­kim uci­sku, z ra­do­ścią Du­cha Świ­ęte­go,
+1Kor 11,1; 1Tes 2,14
 1. Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
 2. Nie lękaj sie ja jestem z Tobą
 3. Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
