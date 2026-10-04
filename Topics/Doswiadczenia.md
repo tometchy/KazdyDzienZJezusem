@@ -109,9 +109,13 @@ Caly psalm 103
 Mat 26,37 + synotycznie
 
 Chciałbym, żebyśmy się wspólnie spojrzeli na ciężkie doswiadczenia przez pryzmat Slowa
-Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa
-A wy sta­li­ście się na­śla­dow­ca­mi na­szy­mi i Pana, przyj­mu­jąc* Sło­wo w wiel­kim uci­sku, z ra­do­ścią Du­cha Świ­ęte­go,
+Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa 1 Tes 1
+7 A wy sta­li­ście się na­śla­dow­ca­mi na­szy­mi i Pana, przyj­mu­jąc* Sło­wo w wiel­kim uci­sku, z ra­do­ścią Du­cha Świ­ęte­go,
 1Kor 11,1; 1Tes 2,14
+Świadectwo się niesie, wiersz dalej
+Tak, że wy sta­li­ście się wzo­rem* dla wszyst­kich wie­rzących w Ma­ce­do­nii i  w Achai.
+* tu: w l.mn. - gr.: wzór, ob­raz, od­cisk po ude­rze­niu, po­stać
+8. Bo­wiem od was roz­brzmia­ło Sło­wo Pana nie tyl­ko w Ma­ce­do­nii i  w Achai, ale i w ka­żdym miej­scu ro­ze­szła się wa­sza wia­ra w Boga, tak że nie mamy po­trze­by o tym* mó­wić,
 1. Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
 2. Nie lękaj sie ja jestem z Tobą
 3. Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
