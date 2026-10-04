@@ -183,3 +183,5 @@ Korzeń wszelkiego zła i sidła duchowe
 
 ---
 
+W cieniu Twych skrzydeł chcę się schronić aż przeminie nieszczęście
+
