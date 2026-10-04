@@ -116,6 +116,7 @@ Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrys
 Tak, że wy sta­li­ście się wzo­rem* dla wszyst­kich wie­rzących w Ma­ce­do­nii i  w Achai.
 * tu: w l.mn. - gr.: wzór, ob­raz, od­cisk po ude­rze­niu, po­stać
 8. Bo­wiem od was roz­brzmia­ło Sło­wo Pana nie tyl­ko w Ma­ce­do­nii i  w Achai, ale i w ka­żdym miej­scu ro­ze­szła się wa­sza wia­ra w Boga, tak że nie mamy po­trze­by o tym* mó­wić,
+Cały 1 i 2 rozdzial Tes
 1. Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
 2. Nie lękaj sie ja jestem z Tobą
 3. Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
