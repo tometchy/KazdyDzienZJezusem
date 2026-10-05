@@ -73,6 +73,46 @@ KDJ_E2E_BASE_URL=http://localhost:8081 \
   dotnet test --project KazdyDzienZJezusem.Tests/KazdyDzienZJezusem.Tests.csproj
 ```
 
+## Production visual approval tests
+
+The Playwright suite in `ProductionVisualTests/` captures complete pages from
+the live site in desktop Chromium, plus the main Bible flows in a mobile
+viewport. It covers the Bible index, a chapter, a verse comparison, the Church
+Fathers index, an author's works, and a work chapter. A mismatch produces the
+expected, actual, and visual diff images in
+`ProductionVisualTests/test-results/`, so a failure can be diagnosed without
+manually reproducing the page.
+
+Install the pinned test dependency and Chromium once:
+
+```bash
+cd ProductionVisualTests
+npm ci
+npx playwright install chromium
+```
+
+Run approval checks directly against production:
+
+```bash
+cd ProductionVisualTests
+npm test
+```
+
+To inspect failures in Playwright's HTML report, run `npm run report`. When a
+production change is intentional, review every generated diff and then approve
+the current rendering with:
+
+```bash
+npm run test:update
+```
+
+Commit the updated PNG snapshots only after reviewing them. To exercise the
+same suite against another deployed environment, override the target explicitly:
+
+```bash
+KDJ_VISUAL_BASE_URL=https://staging.example.com npm test
+```
+
 When a page change is intentional, first run the deterministic stubbed mode,
 review the generated `*.received.html` diff, and accept it as the new Verify
 snapshot. E2E mode should only compare the running application with those

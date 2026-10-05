@@ -818,3 +818,7 @@ IndexHtml/
 
 # Verify snapshot test output
 *.received.*
+
+# Playwright visual test artifacts (approved snapshots stay versioned)
+ProductionVisualTests/playwright-report/
+ProductionVisualTests/test-results/
