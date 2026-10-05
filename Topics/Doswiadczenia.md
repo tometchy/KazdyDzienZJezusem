@@ -36,7 +36,7 @@ Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny stat
 
 ## Horatio nad miejscem katastrofy
 
-## Ja wiem, że nie. jedna, nie dwie
+## Ja wiem, że nie jedna, nie dwie osoby...
 
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeżyły bardzo trudne życiowe doświadczenia. I na mojej głowie siwe włosy nie są kwestią genealogiczną.
 
