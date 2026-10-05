@@ -249,6 +249,13 @@ a.navbar-brand {
   font-size: 0.75rem;
   font-weight: 600;
   overflow-wrap: anywhere;
+  text-decoration: none;
+}
+
+.verse-tag:hover,
+.verse-tag:focus-visible {
+  color: #fff;
+  background: #5f4d88;
 }
 
 .verse-number {
@@ -327,4 +334,9 @@ a.navbar-brand {
     align-items: flex-start;
     flex-direction: column;
   }
+}
+
+.tag-description,
+.tag-fragment-list {
+  max-width: 54rem;
 }

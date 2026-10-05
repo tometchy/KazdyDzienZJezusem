@@ -5,39 +5,26 @@ namespace KazdyDzienZJezusem.Tests;
 public sealed class BibleRepositoryTests
 {
     [Fact]
-    public void GetChapter_loads_non_empty_tags()
+    public void GetChapter_loads_a_direct_text_value()
     {
-        var repository = CreateRepository(
-            """
-            "Rdz1,1":
-              text: "In the beginning"
-              tags: ["creation", "beginning"]
-            """);
+        var repository = CreateRepository("\"Rdz1,1\": \"In the beginning\"");
         var translation = repository.FindTranslation("UBG")!;
         var book = repository.FindBook("Rdz")!;
 
         var verse = Assert.Single(repository.GetChapter(translation, book, 1));
 
         Assert.Equal("In the beginning", verse.Text);
-        Assert.Equal(["creation", "beginning"], verse.Tags);
+        Assert.Empty(verse.Tags);
     }
 
     [Fact]
-    public void GetChapter_rejects_a_non_array_tags_value()
+    public void GetChapter_rejects_an_object_value()
     {
-        var repository = CreateRepository(
-            """
-            "Rdz1,1":
-              text: "In the beginning"
-              tags: "creation"
-            """);
+        var repository = CreateRepository("\"Rdz1,1\": { \"text\": \"In the beginning\" }");
         var translation = repository.FindTranslation("UBG")!;
         var book = repository.FindBook("Rdz")!;
 
-        var exception = Assert.Throws<InvalidDataException>(
-            () => repository.GetChapter(translation, book, 1));
-
-        Assert.Contains("Field 'tags'", exception.Message, StringComparison.Ordinal);
+        Assert.Throws<InvalidDataException>(() => repository.GetChapter(translation, book, 1));
     }
 
     [Fact]
@@ -50,8 +37,7 @@ public sealed class BibleRepositoryTests
         var verses = repository.GetChapter(translation, book, 1);
 
         Assert.Equal(31, verses.Count);
-        Assert.Equal(["Paweł"], verses[0].Tags);
-        Assert.All(verses.Skip(1), verse => Assert.Empty(verse.Tags));
+        Assert.All(verses, verse => Assert.Empty(verse.Tags));
     }
 
     private static BibleRepository CreateRepository(string chapter) =>
