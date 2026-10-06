@@ -42,11 +42,11 @@ Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeży�
 
 # Bóg jest świadom naszego cierpienia, nie tylko świadom, Bóg na nie przyzwala
 
-> Hioba 1, 6-12
+> **Hioba 1, 6-12**
 > 6 Zdarzyło się pewnego dnia, gdy synowie Boży3 udawali się, by stanąć przed Panem, że i szatan3 też poszedł z nimi. 7 4 I rzekł Bóg do szatana: «Skąd przychodzisz?» Szatan odrzekł Panu: «Przemierzałem ziemię i wędrowałem po niej». 8 Mówi Pan do szatana: «A zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by tak był prawy, sprawiedliwy, bogobojny i unikający grzechu jak on». 9 Szatan na to do Pana: «Czyż za darmo Hiob czci Boga? 10 Czyż Ty nie ogrodziłeś zewsząd jego samego, jego domu i całej majętności? Pracy jego rąk pobłogosławiłeś, jego dobytek na ziemi się mnoży.
 11 Wyciągnij, proszę, rękę i dotknij jego majątku! Na pewno Ci w twarz będzie złorzeczył». 12 Rzekł Pan do szatana: «Oto cały majątek jego w twej mocy. Tylko na niego samego nie wyciągaj ręki». I odszedł szatan sprzed oblicza Pańskiego.
 
-> Hioba 2, 1-6
+> **Hioba 2, 1-6**
 > 1 Pewnego dnia, gdy synowie Boży1 udawali się, by stawić się przed Panem, poszedł i szatan z nimi, by stanąć przed Panem. 2 I rzekł Pan do szatana: «Skąd przychodzisz?» Szatan odpowiedział Panu: «Przemierzałem ziemię i wędrowałem po niej». 3 Rzekł Pan szatanowi: «Zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by był tak prawy, sprawiedliwy, bogobojny i unikający zła jak on. Jeszcze trwa w swej prawości, choć mnie nakłoniłeś do zrujnowania go, na próżno». 4 Na to szatan odpowiedział Panu: «Skóra za skórę. Wszystko, co człowiek posiada, odda za swoje życie. 5 Wyciągnij, proszę, rękę i dotknij jego kości i ciała. Na pewno Ci w twarz będzie złorzeczył». 6 I rzekł Pan do szatana: «Oto jest w twej mocy. Życie mu tylko zachowaj!»
 
 > **Biblia Toruńska — Mt 10,28-31**
@@ -80,18 +80,13 @@ Podobnie u Pawła nie bój się.
 
 # Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 
-# Kto stoi niech baczy by nie upadł
-Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
-
---------------------------------------------------------------------------------------------------------------------
-
-1 Tes 2
+Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był łatwy w obyciu. Karol zna mnie od niedawna, ale gdyby znał mnie wcześniej, to jestem pewny, że i o mnie by to samo mówił.
 
 > **Biblia Toruńska — 1 Tes 2**
 > 1. Albowiem sami wiecie, bracia, że przyjście nasze do was nie było daremne;
-> 2. Ale chociaż i przedtem, jak wiecie, cierpieliśmy i doznaliśmy zniewag w Filippi, jednak śmiało w Bogu naszym powiedzieliśmy u was Ewangelię Bożą w wielkim boju.
+> 2. Ale chociaż i przedtem, jak wiecie, **cierpieliśmy i doznaliśmy zniewag w Filippi**, jednak śmiało w Bogu naszym powiedzieliśmy u was Ewangelię Bożą w wielkim boju.
 > 3. Albowiem wezwanie nasze nie wypływa z błędu ani z nieczystości, ani nie kryje w sobie podstępu,
-> 4. Ale jak zostaliśmy wypróbowani przez Boga, aby została nam powierzona Ewangelia, tak mówimy, nie aby podobać się ludziom, ale Bogu, który poddaje próbie nasze serca.
+> 4. Ale jak **zostaliśmy wypróbowani przez Boga, aby została nam powierzona Ewangelia**, tak mówimy, nie aby podobać się ludziom, ale Bogu, który poddaje próbie nasze serca.
 > 5. Bo jak wiecie, nigdy nie byliśmy u was ze słowem pochlebstwa ani pod pozorem chciwości; Bóg jest tego świadkiem.
 > 6. Ani nie szukamy chwały od ludzi, ani od was, ani od innych, choć jako apostołowie Chrystusa możemy być w poważaniu;
 > 7. Ale byliśmy łagodni pośród was, jak karmicielka pielęgnująca swoje dzieci.
@@ -101,7 +96,7 @@ Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modli
 > 11. I jak wiecie, że każdego z was, jak ojciec swoje dzieci, zachęcaliśmy i pocieszaliśmy,
 > 12. I świadczyliśmy wam, abyście chodzili w sposób godny Boga, który was powołuje do swojego Królestwa i do chwały.
 > 13. Dlatego i my, nieustannie dziękujemy Bogu, że przyjmując od nas Słowo wieści o Bogu, przyjęliście je, nie jako słowo ludzkie, ale tak jak jest naprawdę, jako Słowo Boga, który i w was wierzących skutecznie działa.
-> 14. Wy bowiem, bracia, staliście się naśladowcami zborów Boga, które są w Judei, w Chrystusie Jezusie; gdyż i wy tak samo cierpieliście od swoich rodaków, tak jak oni od Judejczyków,
+> 14. Wy bowiem, bracia, staliście się naśladowcami zborów Boga, które są w Judei, w Chrystusie Jezusie; gdyż **i wy tak samo cierpieliście od swoich rodaków**, tak jak oni od Judejczyków,
 > 15. Którzy i Pana Jezusa, i swoich własnych proroków zabili i nas prześladowali, i Bogu się nie podobają, i wszystkim ludziom są przeciwni,
 > 16. Przeszkadzają nam mówić do pogan, aby i oni zostali zbawieni, by przez to dopełnić miary swoich grzechów; na zawsze nadszedł bowiem na nich gniew aż do końca.
 > 17. Lecz my, bracia, będąc odłączeni od was na chwilę obliczem, ale nie sercem, tym bardziej z wielkim pragnieniem wykazaliśmy gorliwość, by ujrzeć wasze oblicze.
@@ -109,36 +104,13 @@ Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modli
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
 
+# Kto stoi niech baczy by nie upadł
+Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
+
+--------------------------------------------------------------------------------------------------------------------
+
 Księga Psalmów 55, cały psalm zacząć od:
 > O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
-
-> **Biblia Toruńska — Ps 55 — cały psalm**
-> 1. Dla przewodnika chóru, z grą na strunach. Pieśń pouczająca Dawida. (55:1) Boże, nakłoń ucha ku mojej modlitwie i nie ukrywaj się przed moją prośbą.
-> 2. Zwróć na mnie uwagę i wysłuchaj mnie; miotam się w swoim zmartwieniu i nie dożywam spokoju;
-> 3. Z powodu głosu wroga, z powodu ucisku niegodziwego zwalają na mnie nieprawość i w gniewie mi się sprzeciwiają.
-> 4. Moje serce wije się z bólu i w moim wnętrzu ogarnęły mnie lęki przed śmiercią.
-> 5. Bojaźń i drżenie wkroczyły we mnie i ogarnęło mnie przerażenie.
-> 6. I powiedziałem: Och, kto da mi skrzydła jak u gołębicy, wtedy bym uleciał i spoczął.
-> 7. Oto bym uciekł daleko i pozostał na pustyni. Sela.
-> 8. Pośpiesznie znalazłbym sobie miejsce ucieczki przed porywistym wiatrem i huraganem.
-> 9. Pochłoń ich Panie, podziel ich języki, bo widzę przemoc i niezgodę w mieście.
-> 10. Dniem i nocą krążą wokoło po jego murach, a wewnątrz niego zło i ucisk.
-> 11. Wewnątrz niego jest zepsucie, a z jego ulic nie znika oszustwo i podstęp.
-> 12. Bo to nie wróg mi urąga – to zniósłbym; nie wywyższa się przeciwko mnie ten, który mnie nienawidzi – ukryłbym się przed nim;
-> 13. Ale ty, człowiek mi równy, mój przyjaciel, który mnie zna.
-> 14. Z którym przyjaźnie naradzaliśmy się i w tłumie chodziliśmy do domu Bożego.
-> 15. Niech śmierć ich spustoszy, oby żywi zstąpili do Szeolu, bo w ich siedzibach i pośród nich mieszka zło.
-> 16. Ja natomiast zawołam do Boga i Jhwh mnie wybawi.
-> 17. Wieczorem, rano i w południe będę skarżyć się i głośno wołać, a On wysłucha mojego głosu.
-> 18. On odkupił moją duszę w pokoju od walki przeciwko mnie, ponieważ bardzo licznie przeciwko mnie wystąpili.
-> 19. Bóg usłyszy i poniży ich, Ten, który trwa od początku. Sela. Bo nie ma w nich zmiany i nie boją się Boga.
-> 20. Podniósł swoją rękę na swój pokój; zbezcześcił swoje przymierze.
-> 21. Gładsze niż masło były słowa jego ust, lecz w sercu miał walkę; miększe niż oliwa jego słowa, ale one są jak obnażone miecze.
-> 22. Zrzuć swoje brzemię na Jhwh, a On cię podtrzyma; nie dopuści by sprawiedliwy zachwiał się na wieki.
-> 23. Ale Ty, Boże, wtrącisz ich w dół zatracenia; ludzie żądni krwi i podstępni nie dożyją połowy swoich dni; ja natomiast zaufam Tobie.
-
-Gdy byłem z Piotrkiem na sorze "Ale Bóg tak rzadko odpowiada!". Fragmenty o tym, że Bóg wysłuchuje modlitw.
-
 
 Waldek powiedzial ze wojna na Ukrainie przyspiesza pewne lekcje, niektorzy z nas tego doswiadczyli lub doswiadczaja tutaj bez wojny.
 
