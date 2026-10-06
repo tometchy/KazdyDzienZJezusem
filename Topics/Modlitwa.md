@@ -41,6 +41,8 @@ GEMINI ---
 
 ---
 
+Gdy byłem z Piotrkiem na sorze "Ale Bóg tak rzadko odpowiada!". Fragmenty o tym, że Bóg wysłuchuje modlitw.
+
 > **Biblia Toruńska — Ps 55 — cały psalm**
 > 1. Dla przewodnika chóru, z grą na strunach. Pieśń pouczająca Dawida. (55:1) Boże, nakłoń ucha ku mojej modlitwie i nie ukrywaj się przed moją prośbą.
 > 2. Zwróć na mnie uwagę i wysłuchaj mnie; miotam się w swoim zmartwieniu i nie dożywam spokoju;
