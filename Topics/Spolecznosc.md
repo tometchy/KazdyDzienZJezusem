@@ -15,3 +15,5 @@ greckie słowo koinonia
 • 2 Koryntian 13,13 – „Łaska Pana Jezusa Chrystusa, miłość Boga i dar jedności [komunia] Ducha Świętego niech będą z wami wszystkimi!”.
 
 • Filipian 2,1 – „Jeśli więc jest jakieś napomnienie w Chrystusie, jeśli jakaś moc przekonująca Miłości, jeśli jakieś uczestnictwo [komunia] w Duchu (...) dopełnijcie mojej radości przez to, że będziecie mieli te same dążenia”.
+
+1 Koryntian 11,33 – „A tak, bracia moi, gdy się schodzicie, by jeść [Wieczerzę], czekajcie jedni na drugich”. (Paweł kładzie nacisk na miłość i szacunek w zborze).
