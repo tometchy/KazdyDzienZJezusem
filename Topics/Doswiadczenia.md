@@ -40,12 +40,6 @@ Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny stat
 
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeżyły bardzo trudne życiowe doświadczenia. I na mojej głowie siwe włosy nie są kwestią genealogiczną.
 
-Znamy to bardzo ważne wezwanie "Bogu ufam, nie będę się lękał: cóż może mi uczynić człowiek?".
-
-To bardzo ważne wezwanie, ale to nie jest lekkie wyzwanie. Bo człowiek oczywiście może nam dom spalić i córki zabić...
-Ale bezpośrednio, nie może nam odebrać prawdziwego, Bożego Pokoju.
-Jak u kamieniowanego Szczepana czy jak u autora tej pieśni
-
 1 Tes 2
 
 > **Biblia Toruńska — 1 Tes 2**
