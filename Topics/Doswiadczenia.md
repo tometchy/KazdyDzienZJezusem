@@ -131,11 +131,7 @@ Jakuba 1
 Daj nam dzisiaj
 
 Każdego dnia od nowa, jak w piosence one day at a time.
-Psalmista o modlitwie o poranku.
 
-Co mowi Slowo Boze o tym czy Bog odpowoda na modlitwy.
-
-"Bog prawie nigdy nie spelnia o co prosze" gdy wisialo na wlosku czy wyladujemy na oddziale.
 
 Drugi list do Koryntian 12,7-10
 
@@ -145,17 +141,26 @@ Drugi list do Koryntian 12,7-10
 > 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
 > 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
 
-Blogi Mi
 
 Blogoslawienie cierpieniami
 
 Nie spadnie wlos bez Jego wiedzy + Mat 10,29 osobno latwo powiedziec 28, po ludzku to trudne, ale to nasze zadanie
 
-> **Biblia Toruńska — Mt 10,28-29**
+# Bóg jest świadom naszego cierpienia, nie tylko świadom, Bóg na nie przyzwala
+
+> Hioba 1, 6-12
+> 6 Zdarzyło się pewnego dnia, gdy synowie Boży3 udawali się, by stanąć przed Panem, że i szatan3 też poszedł z nimi. 7 4 I rzekł Bóg do szatana: «Skąd przychodzisz?» Szatan odrzekł Panu: «Przemierzałem ziemię i wędrowałem po niej». 8 Mówi Pan do szatana: «A zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by tak był prawy, sprawiedliwy, bogobojny i unikający grzechu jak on». 9 Szatan na to do Pana: «Czyż za darmo Hiob czci Boga? 10 Czyż Ty nie ogrodziłeś zewsząd jego samego, jego domu i całej majętności? Pracy jego rąk pobłogosławiłeś, jego dobytek na ziemi się mnoży.
+11 Wyciągnij, proszę, rękę i dotknij jego majątku! Na pewno Ci w twarz będzie złorzeczył». 12 Rzekł Pan do szatana: «Oto cały majątek jego w twej mocy. Tylko na niego samego nie wyciągaj ręki». I odszedł szatan sprzed oblicza Pańskiego.
+
+> Hioba 2, 1-6
+> 1 Pewnego dnia, gdy synowie Boży1 udawali się, by stawić się przed Panem, poszedł i szatan z nimi, by stanąć przed Panem. 2 I rzekł Pan do szatana: «Skąd przychodzisz?» Szatan odpowiedział Panu: «Przemierzałem ziemię i wędrowałem po niej». 3 Rzekł Pan szatanowi: «Zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by był tak prawy, sprawiedliwy, bogobojny i unikający zła jak on. Jeszcze trwa w swej prawości, choć mnie nakłoniłeś do zrujnowania go, na próżno». 4 Na to szatan odpowiedział Panu: «Skóra za skórę. Wszystko, co człowiek posiada, odda za swoje życie. 5 Wyciągnij, proszę, rękę i dotknij jego kości i ciała. Na pewno Ci w twarz będzie złorzeczył». 6 I rzekł Pan do szatana: «Oto jest w twej mocy. Życie mu tylko zachowaj!»
+
+> **Biblia Toruńska — Mt 10,28-31**
 > 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
 > 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
+> 30. Nawet i włosy na waszej głowie wszystkie są policzone.
+> 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
 
-Pan jest moim pomocnikiem nie będę się lękał co mi moze uczynić człowiek
 
 Fragmenty, że Bóg chce narzędzie wypróbowane, przygotowane do wszelkiego dobrego dzieła, Bogu zależy, żebyśmy przeszli próbę, aby nas przygotować, aby powierzyć nam odpowiedzialność. Bóg powierzał odpowiedzialności sługom których wcześniej wypróbowywał, nawet Pana Jezusa.
 
