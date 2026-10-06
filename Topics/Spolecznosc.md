@@ -1,0 +1,1 @@
+Dzieje Apostolskie 2,42.44-45: „Trwali oni w nauce Apostołów i we wspólnocie, w łamaniu chleba i w modlitwach. (...) A wszyscy, którzy uwierzyli, przebywali razem i wszystko mieli wspólne. Sprzedawali majątki i własność i rozdzielali je każdemu według potrzeby”
