@@ -40,6 +40,51 @@ Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny stat
 
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeżyły bardzo trudne życiowe doświadczenia. I na mojej głowie siwe włosy nie są kwestią genealogiczną.
 
+# Bóg jest świadom naszego cierpienia, nie tylko świadom, Bóg na nie przyzwala
+
+> Hioba 1, 6-12
+> 6 Zdarzyło się pewnego dnia, gdy synowie Boży3 udawali się, by stanąć przed Panem, że i szatan3 też poszedł z nimi. 7 4 I rzekł Bóg do szatana: «Skąd przychodzisz?» Szatan odrzekł Panu: «Przemierzałem ziemię i wędrowałem po niej». 8 Mówi Pan do szatana: «A zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by tak był prawy, sprawiedliwy, bogobojny i unikający grzechu jak on». 9 Szatan na to do Pana: «Czyż za darmo Hiob czci Boga? 10 Czyż Ty nie ogrodziłeś zewsząd jego samego, jego domu i całej majętności? Pracy jego rąk pobłogosławiłeś, jego dobytek na ziemi się mnoży.
+11 Wyciągnij, proszę, rękę i dotknij jego majątku! Na pewno Ci w twarz będzie złorzeczył». 12 Rzekł Pan do szatana: «Oto cały majątek jego w twej mocy. Tylko na niego samego nie wyciągaj ręki». I odszedł szatan sprzed oblicza Pańskiego.
+
+> Hioba 2, 1-6
+> 1 Pewnego dnia, gdy synowie Boży1 udawali się, by stawić się przed Panem, poszedł i szatan z nimi, by stanąć przed Panem. 2 I rzekł Pan do szatana: «Skąd przychodzisz?» Szatan odpowiedział Panu: «Przemierzałem ziemię i wędrowałem po niej». 3 Rzekł Pan szatanowi: «Zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by był tak prawy, sprawiedliwy, bogobojny i unikający zła jak on. Jeszcze trwa w swej prawości, choć mnie nakłoniłeś do zrujnowania go, na próżno». 4 Na to szatan odpowiedział Panu: «Skóra za skórę. Wszystko, co człowiek posiada, odda za swoje życie. 5 Wyciągnij, proszę, rękę i dotknij jego kości i ciała. Na pewno Ci w twarz będzie złorzeczył». 6 I rzekł Pan do szatana: «Oto jest w twej mocy. Życie mu tylko zachowaj!»
+
+> **Biblia Toruńska — Mt 10,28-31**
+> 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
+> 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
+> 30. Nawet i włosy na waszej głowie wszystkie są policzone.
+> 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
+
+# Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na cielesnym powodzeniu
+
+Blogoslawienie cierpieniami
+
+> **Biblia Toruńska — 2 Kor 12,7-10**
+> 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
+> 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
+> 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
+> 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
+
+# Bóg chce, żebyśmy ufali, nie bali się
+To gdzies na poczatku czy strach to grzech jako taki
+
+Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami
+Nie lękaj sie ja jestem z Tobą
+> **Biblia Toruńska — Mk 4,40**
+> 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
+
+Nie boj sie tylko wierz
+Podobnie u Pawła nie bój się.
+
+# Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
+
+# Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
+
+# Kto stoi niech baczy by nie upadł
+Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
+
+--------------------------------------------------------------------------------------------------------------------
+
 1 Tes 2
 
 > **Biblia Toruńska — 1 Tes 2**
@@ -132,34 +177,8 @@ Daj nam dzisiaj
 
 Każdego dnia od nowa, jak w piosence one day at a time.
 
-
 Drugi list do Koryntian 12,7-10
 
-> **Biblia Toruńska — 2 Kor 12,7-10**
-> 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
-> 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
-> 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
-> 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
-
-
-Blogoslawienie cierpieniami
-
-Nie spadnie wlos bez Jego wiedzy + Mat 10,29 osobno latwo powiedziec 28, po ludzku to trudne, ale to nasze zadanie
-
-# Bóg jest świadom naszego cierpienia, nie tylko świadom, Bóg na nie przyzwala
-
-> Hioba 1, 6-12
-> 6 Zdarzyło się pewnego dnia, gdy synowie Boży3 udawali się, by stanąć przed Panem, że i szatan3 też poszedł z nimi. 7 4 I rzekł Bóg do szatana: «Skąd przychodzisz?» Szatan odrzekł Panu: «Przemierzałem ziemię i wędrowałem po niej». 8 Mówi Pan do szatana: «A zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by tak był prawy, sprawiedliwy, bogobojny i unikający grzechu jak on». 9 Szatan na to do Pana: «Czyż za darmo Hiob czci Boga? 10 Czyż Ty nie ogrodziłeś zewsząd jego samego, jego domu i całej majętności? Pracy jego rąk pobłogosławiłeś, jego dobytek na ziemi się mnoży.
-11 Wyciągnij, proszę, rękę i dotknij jego majątku! Na pewno Ci w twarz będzie złorzeczył». 12 Rzekł Pan do szatana: «Oto cały majątek jego w twej mocy. Tylko na niego samego nie wyciągaj ręki». I odszedł szatan sprzed oblicza Pańskiego.
-
-> Hioba 2, 1-6
-> 1 Pewnego dnia, gdy synowie Boży1 udawali się, by stawić się przed Panem, poszedł i szatan z nimi, by stanąć przed Panem. 2 I rzekł Pan do szatana: «Skąd przychodzisz?» Szatan odpowiedział Panu: «Przemierzałem ziemię i wędrowałem po niej». 3 Rzekł Pan szatanowi: «Zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by był tak prawy, sprawiedliwy, bogobojny i unikający zła jak on. Jeszcze trwa w swej prawości, choć mnie nakłoniłeś do zrujnowania go, na próżno». 4 Na to szatan odpowiedział Panu: «Skóra za skórę. Wszystko, co człowiek posiada, odda za swoje życie. 5 Wyciągnij, proszę, rękę i dotknij jego kości i ciała. Na pewno Ci w twarz będzie złorzeczył». 6 I rzekł Pan do szatana: «Oto jest w twej mocy. Życie mu tylko zachowaj!»
-
-> **Biblia Toruńska — Mt 10,28-31**
-> 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
-> 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
-> 30. Nawet i włosy na waszej głowie wszystkie są policzone.
-> 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
 
 
 Fragmenty, że Bóg chce narzędzie wypróbowane, przygotowane do wszelkiego dobrego dzieła, Bogu zależy, żebyśmy przeszli próbę, aby nas przygotować, aby powierzyć nam odpowiedzialność. Bóg powierzał odpowiedzialności sługom których wcześniej wypróbowywał, nawet Pana Jezusa.
@@ -168,9 +187,7 @@ Analogia do jakichś zrozumianych dla nas przygotowań, które nie są łatwe, c
 
 "Bądźcie trzeźwi, czuwajcie! Wasz przeciwnik, diabeł, jak lew ryczący krąży i szuka, kogo pożreć. Przeciwstawiajcie się jemu, silni wiarą, wiedząc, ze te same cierpienia znoszą wasi bracia na świecie. A Bóg wszelkiej łaski, Ten, który w Chrystusie powołał was do swojej wiecznej chwały, po waszych krótkotrwałych cierpieniach, sam was udoskonali, utwierdzi, umocni i postawi na twardym gruncie."
 
-Obietnica nie ppnad nasze sily
 
-Pawel nie boj sie jestesmy ludzmi
 1 Kor 2,3 <-> Dz. 18,9 <-> 2 Kor 10,1
 
 > **Biblia Toruńska — 1 Kor 2,3**
@@ -324,14 +341,6 @@ Cały 1 i 2 rozdzial Tes
 > 18. Dlatego chcieliśmy, zwłaszcza ja, Paweł, przyjść do was i raz i drugi; ale przeszkodził nam szatan.
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
-1. Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
-2. Nie lękaj sie ja jestem z Tobą
-3. Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
-O tym jaką metamorfozę przeszło życie Horatio. Nie znalazłem za bardzo szczegółów, ale być może to wcześniej ułożone życie, choć moralnie pewnie i poprawne, nie było tym do czego Bóg go powoływał. I musiał zostać zmieniony, wypróbowany.
-4. Kolec co się wbijał Pawłowi
-5. Ktonsroi niech baczy by nie upadl
-
-6. Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
 
 ---
 
@@ -393,13 +402,9 @@ Ostatnio na braterskim mielismy dyskusje o tym, ze nie mozesz dwom panom sluzyc,
 > 15. Jako do rozsądnych mówię; wy osądźcie, co mówię.
 > 16. Kielich błogosławieństwa, który błogosławimy, czyż nie jest społecznością krwi Chrystusa? Chleb, który łamiemy, czyż nie jest społecznością ciała Chrystusa?
 
-Marka 4,40
 
-> **Biblia Toruńska — Mk 4,40**
-> 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
-Nie boj sie tylko wierz
-Podobnie u Pawła nie bój się.
-To gdzies na poczatku czy strach to grzech jako taki
+
+
 
 Myślę, że nigdy próby, doświadczenia nie stają się łatwę, nie obserwuję tego u siebie, nie obserwuję tego w Słowie Bożym.
 Ale możemy od Boga otrzymywać Boży Pokój i przeprowadzenie przez próbę.
