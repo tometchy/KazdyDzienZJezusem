@@ -8,6 +8,8 @@ Mateusza 18,20: „Bo gdzie są dwaj albo trzej zebrani w imię moje, tam jestem
 
 greckie słowo koinonia
 
+Słowo Komunia (zwłaszcza pisane wielką literą) w Polsce kojarzy się głównie z katolickim sakramentem i uroczystością dziecięcą. Jednak biblijnie (jak w 1 Kor 10,16 w przekładach takich jak Biblia Warszawska czy Toruńska) to po prostu współuczestnictwo lub wspólnota.
+
 • 1 Jana 1,6–7 – „Jeżeli mówimy, że mamy z Nim współuczestnictwo [komunię], a chodzimy w ciemności, kłamiemy (...). Jeżeli zaś chodzimy w światłości (...) wtedy mamy współuczestnictwo [komunię] jedni z drugimi, a krew Jezusa, Syna Jego, oczyszcza nas z wszelkiego grzechu”.
 
 • 1 Koryntian 1,9 – „Wierny jest Bóg, który powołał was do współuczestnictwa [komunii] z Synem swoim, Jezusem Chrystusem, Panem naszym”.
