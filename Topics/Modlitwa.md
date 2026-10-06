@@ -37,3 +37,33 @@ GEMINI ---
 ---
 [10] [https://www.gotquestions.org](https://www.gotquestions.org/Polski/modlitwy-grzesznika-niewierzacego.html)
 [11] [https://www.jw.org](https://www.jw.org/pl/biblioteka/czasopisma/wp20101001/czy-b%C3%B3g-odpowie/)
+
+
+---
+
+> **Biblia Toruńska — Ps 55 — cały psalm**
+> 1. Dla przewodnika chóru, z grą na strunach. Pieśń pouczająca Dawida. (55:1) Boże, nakłoń ucha ku mojej modlitwie i nie ukrywaj się przed moją prośbą.
+> 2. Zwróć na mnie uwagę i wysłuchaj mnie; miotam się w swoim zmartwieniu i nie dożywam spokoju;
+> 3. Z powodu głosu wroga, z powodu ucisku niegodziwego zwalają na mnie nieprawość i w gniewie mi się sprzeciwiają.
+> 4. Moje serce wije się z bólu i w moim wnętrzu ogarnęły mnie lęki przed śmiercią.
+> 5. Bojaźń i drżenie wkroczyły we mnie i ogarnęło mnie przerażenie.
+> 6. I powiedziałem: Och, kto da mi skrzydła jak u gołębicy, wtedy bym uleciał i spoczął.
+> 7. Oto bym uciekł daleko i pozostał na pustyni. Sela.
+> 8. Pośpiesznie znalazłbym sobie miejsce ucieczki przed porywistym wiatrem i huraganem.
+> 9. Pochłoń ich Panie, podziel ich języki, bo widzę przemoc i niezgodę w mieście.
+> 10. Dniem i nocą krążą wokoło po jego murach, a wewnątrz niego zło i ucisk.
+> 11. Wewnątrz niego jest zepsucie, a z jego ulic nie znika oszustwo i podstęp.
+> 12. Bo to nie wróg mi urąga – to zniósłbym; nie wywyższa się przeciwko mnie ten, który mnie nienawidzi – ukryłbym się przed nim;
+> 13. Ale ty, człowiek mi równy, mój przyjaciel, który mnie zna.
+> 14. Z którym przyjaźnie naradzaliśmy się i w tłumie chodziliśmy do domu Bożego.
+> 15. Niech śmierć ich spustoszy, oby żywi zstąpili do Szeolu, bo w ich siedzibach i pośród nich mieszka zło.
+> 16. Ja natomiast zawołam do Boga i Jhwh mnie wybawi.
+> 17. Wieczorem, rano i w południe będę skarżyć się i głośno wołać, a On wysłucha mojego głosu.
+> 18. On odkupił moją duszę w pokoju od walki przeciwko mnie, ponieważ bardzo licznie przeciwko mnie wystąpili.
+> 19. Bóg usłyszy i poniży ich, Ten, który trwa od początku. Sela. Bo nie ma w nich zmiany i nie boją się Boga.
+> 20. Podniósł swoją rękę na swój pokój; zbezcześcił swoje przymierze.
+> 21. Gładsze niż masło były słowa jego ust, lecz w sercu miał walkę; miększe niż oliwa jego słowa, ale one są jak obnażone miecze.
+> 22. Zrzuć swoje brzemię na Jhwh, a On cię podtrzyma; nie dopuści by sprawiedliwy zachwiał się na wieki.
+> 23. Ale Ty, Boże, wtrącisz ich w dół zatracenia; ludzie żądni krwi i podstępni nie dożyją połowy swoich dni; ja natomiast zaufam Tobie.
+
+---
