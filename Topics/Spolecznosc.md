@@ -1,3 +1,5 @@
+https://biblia-online.pl/Biblia/PrzekladTorunski/1-List-do-Koryntian/10/1
+
 Dzieje Apostolskie 2,42.44-45: „Trwali oni w nauce Apostołów i we wspólnocie, w łamaniu chleba i w modlitwach. (...) A wszyscy, którzy uwierzyli, przebywali razem i wszystko mieli wspólne. Sprzedawali majątki i własność i rozdzielali je każdemu według potrzeby”
 
 Hebrajczyków 10,24-25: „Troszczmy się o siebie wzajemnie, by się zachęcać do miłości i do dobrych uczynków. Nie opuszczajmy naszych wspólnych zebrań, jak to niektórzy mają w zwyczaju, ale dodawajmy sobie otuchy”.
