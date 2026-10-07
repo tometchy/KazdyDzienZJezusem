@@ -13,7 +13,9 @@ Mateusza 18,20: „Bo gdzie są dwaj albo trzej zebrani w imię moje, tam jestem
 
 ## Greckie słowo κοινωνία koinonia
 - wspólnota, dzielenie się wspólnym, komunia
-- 
+
+KJV używa tutaj słowa fellowship.
+
 Koinonia jest greckim słowem, który 20 razy pojawia się w Biblii. Podstawowe znaczenie koinonii to "wspólnota, dzielenie się wspólnym, komunia." Pierwsze pojawienie się słowa koinonia jest w Dz. Apostolskich 2.42, "I trwali w nauce apostolskiej i we wspólnocie, w łamaniu chleba i w modlitwach." Wspólnota chrześcijańska jest kluczowym aspektem życia chrześcijańskiego. Wierzący w Chrystusa mają się zjednoczyć w miłości, wierze i zachęceniu. To jest istota koinonii.
 
 Filipian 2.1-2 stwierdza "Jeśli więc w Chrystusie jest jakaś zachęta, jakaś pociecha miłości, jakaś wspólnota Ducha, jakieś współczucie i zmiłowanie, dopełnijcie radości mojej i bądźcie jednej myśli, mając tę samą miłość, zgodni, ożywieni jednomyślnością." Koinonia dotyczy bycia w zgodności ze sobą wzajemnie, bycie zjednoczonym w jednym celu i służenie sobie wzajemnie. Nasza koinonia ze sobą wzajemnie opiera się na naszej wspólnej koinonii z Jezusem Chrystusem, 1 Jana 1.6-7 mówi, "Jeśli mówimy, że z nim społeczność mamy, a chodzimy w ciemności, kłamiemy i nie trzymamy się prawdy. Jeśli zaś chodzimy w światłości, jak On sam jest w światłości, społeczność mamy z sobą, i krew Jezusa Chrystusa, Syna jego, oczyszcza nas od wszelkiego grzechu."
