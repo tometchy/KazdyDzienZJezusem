@@ -1,3 +1,6 @@
+Ewangelia-Mateusza 18,20
+> Albowiem gdzie są dwaj albo trzej zgromadzeni w moje imię, tam jestem pośród nich.
+
 https://biblia-online.pl/Biblia/PrzekladTorunski/1-List-do-Koryntian/10/1
 
 Dzieje Apostolskie 2,42.44-45: „Trwali oni w nauce Apostołów i we wspólnocie, w łamaniu chleba i w modlitwach. (...) A wszyscy, którzy uwierzyli, przebywali razem i wszystko mieli wspólne. Sprzedawali majątki i własność i rozdzielali je każdemu według potrzeby”
