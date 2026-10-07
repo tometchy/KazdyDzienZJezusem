@@ -6,7 +6,12 @@ Koheleta 4,9-10: „Lepiej jest dwom niż jednemu, gdyż mają dobry zysk ze swe
 
 Mateusza 18,20: „Bo gdzie są dwaj albo trzej zebrani w imię moje, tam jestem pośród nich”.
 
-greckie słowo koinonia
+## Łacińskie słowo COMMUNIO:
+- łączność, wspólnota, związek
+- wspólne posiadanie czegoś, udział, uczestnictwo
+- zetknięcie się, obcowanie, styczność
+
+## Greckie słowo κοινωνία koinonia
 
 Słowo Komunia (zwłaszcza pisane wielką literą) w Polsce kojarzy się głównie z katolickim sakramentem i uroczystością dziecięcą. Jednak biblijnie (jak w 1 Kor 10,16 w przekładach takich jak Biblia Warszawska czy Toruńska) to po prostu współuczestnictwo lub wspólnota.
 
