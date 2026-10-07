@@ -12,6 +12,13 @@ Mateusza 18,20: „Bo gdzie są dwaj albo trzej zebrani w imię moje, tam jestem
 - zetknięcie się, obcowanie, styczność
 
 ## Greckie słowo κοινωνία koinonia
+- wspólnota, dzielenie się wspólnym, komunia
+- 
+Koinonia jest greckim słowem, który 20 razy pojawia się w Biblii. Podstawowe znaczenie koinonii to "wspólnota, dzielenie się wspólnym, komunia." Pierwsze pojawienie się słowa koinonia jest w Dz. Apostolskich 2.42, "I trwali w nauce apostolskiej i we wspólnocie, w łamaniu chleba i w modlitwach." Wspólnota chrześcijańska jest kluczowym aspektem życia chrześcijańskiego. Wierzący w Chrystusa mają się zjednoczyć w miłości, wierze i zachęceniu. To jest istota koinonii.
+
+Filipian 2.1-2 stwierdza "Jeśli więc w Chrystusie jest jakaś zachęta, jakaś pociecha miłości, jakaś wspólnota Ducha, jakieś współczucie i zmiłowanie, dopełnijcie radości mojej i bądźcie jednej myśli, mając tę samą miłość, zgodni, ożywieni jednomyślnością." Koinonia dotyczy bycia w zgodności ze sobą wzajemnie, bycie zjednoczonym w jednym celu i służenie sobie wzajemnie. Nasza koinonia ze sobą wzajemnie opiera się na naszej wspólnej koinonii z Jezusem Chrystusem, 1 Jana 1.6-7 mówi, "Jeśli mówimy, że z nim społeczność mamy, a chodzimy w ciemności, kłamiemy i nie trzymamy się prawdy. Jeśli zaś chodzimy w światłości, jak On sam jest w światłości, społeczność mamy z sobą, i krew Jezusa Chrystusa, Syna jego, oczyszcza nas od wszelkiego grzechu."
+
+Potężnym przykładem tego jak koinonia powinna wyglądać można znaleźć w przestudiowaniu wyrażenia "siebie nawzajem" w Biblii. Pismo Święte nakazuje nam, abyśmy byli nawzajem życzliwi (Rzymian 12.10), okazywali cześć jedni drugim (Rzymian 12.10), żyli w harmonii ze sobą wzajemnie (Rzymian 12.16; 1 Piotra 3.8), przyjmowali siebie wzajemnie (Rzymian 15.7), służyli sobie wzajemnie w miłości (Galacjan 5.13), byli uprzejmi i współczujący wobec siebie nawzajem (Efezjan 4.32), upominali siebie nawzajem (Kolosan 3.16), zachęcali siebie nawzajem (1 Tesaloniczan 5.11; Hebrajczyków 3.13), pobudzali się nawzajem do miłości i dobrych uczynków (Hebrajczyków 10.24), oferowali gościnność (1 Piotra 4.9) i kochali siebie nawzajem (1 Piotra 1.22; 1 Jana 3.11; 3.23; 4.7; 4.11-12). Tak powinna wyglądać prawdziwa, biblijna koinonia.
 
 Słowo Komunia (zwłaszcza pisane wielką literą) w Polsce kojarzy się głównie z katolickim sakramentem i uroczystością dziecięcą. Jednak biblijnie (jak w 1 Kor 10,16 w przekładach takich jak Biblia Warszawska czy Toruńska) to po prostu współuczestnictwo lub wspólnota.
 
