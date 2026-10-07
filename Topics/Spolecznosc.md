@@ -81,4 +81,64 @@ Pytania do osobistego zbadania serca przed Wieczerzą:
 
 Bóg wyrwał nas z samotności i wszczepił w swoją świętą, wieczną rodzinę
 
+---
+Tak. Sprawdziłem to bezpośrednio w plikach **Biblii Toruńskiej (TNP)**, a odpowiednik **G2842 = κοινωνία (koinōnía)** zaznaczam pogrubieniem.
 
+- **Dz 2:42** — „I trwali niezłomnie w nauce apostołów i we **wspólnocie**, i w łamaniu chleba, i w modlitwach.”  
+  → G2842 = **wspólnocie**
+
+- **Rz 15:26** — „Upodobało się bowiem Macedonii i Achai złożyć pewną **składkę** na ubogich pośród świętych w Jerozolimie.”  
+  → G2842 = **składkę**
+
+- **1 Kor 1:9** — „Wierny jest Bóg, przez którego zostaliście powołani do **społeczności** Jego Syna Jezusa Chrystusa, Pana naszego.”  
+  → G2842 = **społeczności**
+
+- **1 Kor 10:16** — „Kielich błogosławieństwa, który błogosławimy, czyż nie jest **społecznością** krwi Chrystusa? Chleb, który łamiemy, czyż nie jest **społecznością** ciała Chrystusa?”  
+  → G2842 ×2 = **społecznością**
+
+- **2 Kor 6:14** — „Nie wprzęgajcie się w nierówne jarzmo z niewierzącymi; bo jakie jest zespalanie sprawiedliwości i nieprawości? A jaka **wspólnota** światłości z ciemnością?”  
+  → G2842 = **wspólnota**
+
+- **2 Kor 8:4** — „Z wielkim naleganiem prosząc nas, abyśmy przyjęli ten dar i **współudział** w służbie względem świętych.”  
+  → G2842 = **współudział**
+
+- **2 Kor 9:13** — „Przez doświadczenie tej służby, oddają chwałę Bogu z powodu posłuszeństwa wyznawanej przez was Ewangelii Chrystusa i za szczodrość **wspólnoty** wobec nich, i wobec wszystkich.”  
+  → G2842 = **wspólnoty**  
+  Ważne: „szczodrość” odpowiada innemu greckiemu słowu (*haplotēs*); to właśnie **wspólnoty** odpowiada κοινωνία.
+
+- **2 Kor 13:13** — „Łaska Pana Jezusa Chrystusa i miłość Boga, i **społeczność** Ducha Świętego z wami wszystkimi. Amen.”  
+  → G2842 = **społeczność**  
+  **Uwaga:** w KJV/Strongu jest to **2 Kor 13:14**, natomiast w Biblii Toruńskiej **2 Kor 13:13**. To ten sam tekst, tylko różnica numeracji.
+
+- **Ga 2:9** — „I gdy poznali daną mi łaskę, Jakub i Kefas, i Jan, uważani za filary, podali mi i Barnabie prawicę **wspólnoty**, abyśmy szli do pogan, a oni do obrzezanych;”  
+  → G2842 = **wspólnoty**
+
+- **Ef 3:9** — „I oświecił wszystkich, jaka jest **wspólnota** tajemnicy, która jest ukryta od wieków w Bogu, który wszystko stworzył przez Jezusa Chrystusa;”  
+  → G2842 = **wspólnota**  
+  Tu jest ciekawa kwestia tekstualna: **Textus Receptus ma κοινωνία (G2842)**, stąd „wspólnota”; tekst krytyczny NA/UBS ma w tym miejscu **οἰκονομία (G3622)**, czyli raczej „zarząd/administracja/plan”.
+
+- **Flp 1:5** — „Z powodu **wspólnoty** waszej w Ewangelii, od pierwszego dnia aż do teraz,”  
+  → G2842 = **wspólnoty**
+
+- **Flp 2:1** — „Jeśli więc jest jakaś zachęta w Chrystusie, jeśli jakaś pociecha miłości, jeśli jakaś **wspólnota** ducha, jeśli jakieś serdeczne uczucie i miłosierdzie,”  
+  → G2842 = **wspólnota**
+
+- **Flp 3:10** — „Żeby poznać Go i moc Jego zmartwychwstania i mieć **udział** w Jego cierpieniach, będąc kształtowanym Jego śmiercią,”  
+  → G2842 = **udział** („mieć udział”)
+
+- **Flm 1:6** — „Aby twój **udział** w wierze stał się skuteczny w dogłębnym poznaniu całego dobra, które jest w was, ze względu na Chrystusa Jezusa.”  
+  → G2842 = **udział**
+
+- **Hbr 13:16** — „Nie zapominajcie więc o dobroczynności i o **pomocy wzajemnej**, z takich bowiem ofiar Bóg jest bardzo zadowolony.”  
+  → G2842 = **pomocy wzajemnej**
+
+- **1 J 1:3** — „Co widzieliśmy i słyszeliśmy, to wam ogłaszamy, byście i wy z nami mieli **społeczność**; a **społeczność** nasza jest z Ojcem i z Jego Synem, Jezusem Chrystusem.”  
+  → G2842 ×2 = **społeczność**
+
+- **1 J 1:6** — „Jeśli mówimy, że mamy z Nim **społeczność**, a chodzimy w ciemności, kłamiemy i nie czynimy prawdy.”  
+  → G2842 = **społeczność**
+
+- **1 J 1:7** — „A jeśli chodzimy w światłości, jak On jest w światłości, **społeczność** mamy między sobą, a krew Jezusa Chrystusa, Jego Syna, oczyszcza nas z wszelkiego grzechu.”  
+  → G2842 = **społeczność**
+
+Czyli Biblia Toruńska oddaje **κοινωνία / G2842** co najmniej jako: **społeczność, wspólnota, współudział, udział, składka, pomoc wzajemna**. To bardzo dobrze pokazuje, że podstawową ideą *koinōnía* nie jest wyłącznie „przebywanie we wspólnocie”, ale **posiadanie czegoś wspólnie / uczestnictwo / udział / dzielenie się z innymi** — aż po materialne dzielenie się pieniędzmi.
