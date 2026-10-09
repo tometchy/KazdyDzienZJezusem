@@ -127,7 +127,7 @@ Wersety 33 i 34
 - **Filemona 1:6** — „Aby twój **udział** w wierze stał się skuteczny w dogłębnym poznaniu całego dobra, które jest w was, ze względu na Chrystusa Jezusa.”  
 **Udział we wierze**
 
-# Widzimy, że koinonia, czyli ta wspólnota, społeczność ma zarówno wymiar duchowi ale również przyziemny, namacalny, objawiający się w codziennym życiu. Jedno ciało
+# Widzimy, że koinonia, czyli ta wspólnota, społeczność ma zarówno wymiar duchowi ale również przyziemny, namacalny, objawiający się w codziennym życiu.
 
 ## Bóg nas wyrwał z ciemności i wszczepił w swój Kościół, w swoją rodzię. **W swoje ciało**.
 
