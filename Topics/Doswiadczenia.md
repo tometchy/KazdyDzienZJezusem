@@ -107,6 +107,10 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 # Kto stoi niech baczy by nie upadł
 Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
 
+## 1 Kor 11, 18-19
+Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
+Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
+
 --------------------------------------------------------------------------------------------------------------------
 
 Księga Psalmów 55, cały psalm zacząć od:
