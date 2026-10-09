@@ -136,9 +136,11 @@ Wersety 33 i 34
 
 ## Bóg nas wyrwał z ciemności i wszczepił w swój Kościół, w swoją rodzię
 
-# Koinonię, mamy ze sobą i z naszym Panem i kielich, który pijemy i chleb, który łamiemy, odgrywają w tym ważną rolę. Jak już czytaliśmy w 1 Kor 10,16-17
+# Koinonię, mamy ze sobą i z naszym Panem, a wieczerza, kielich, który pijemy i chleb, który łamiemy, odgrywają w tym bardzo ważną rolę. Jak już czytaliśmy w 1 Kor 10,16-17
 
 > Kielich błogosławieństwa, który błogosławimy, czyż nie jest społecznością[κοινωνία] krwi Chrystusa? Chleb, który łamiemy, czyż nie jest społecznością[κοινωνία] ciała Chrystusa?
 > Bo jak jeden jest chleb, tak wielu nas jest jednym ciałem, wszyscy mamy bowiem cząstkę z tego jednego chleba.
+
+Cieszmy się naszą społecznością w trakcie tej wieczerzy.
 
 AMEN
