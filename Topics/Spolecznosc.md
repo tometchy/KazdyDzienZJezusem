@@ -49,7 +49,7 @@ Wersety 33 i 34
 - mamy tak zwane społeczności internetowe
 - mamy tak zwane społeczności wokół jakiegoś produktu czy marki
 
-# Gdzie jeszcze w Słowie Bożym znajdujemy przykłady koinonii
+# Znaczenie Koinonii w Słowie Bożym 
 
 ## **1 J 1:7** — „A jeśli chodzimy w światłości, jak On jest w światłości, **społeczność** mamy między sobą, a krew Jezusa Chrystusa, Jego Syna, oczyszcza nas z wszelkiego grzechu.”  
   → G2842 = **społeczność**
@@ -99,19 +99,18 @@ Wersety 33 i 34
   
 ### Wprzęganie się w jarzmo z niewierzącymi jest formą wspólnoty - tej samej koinonii, światłości z ciemnością
 
-## Paweł kończy drugi list do Koryntian słowami:
-13:12
-> Pozdrówcie jedni drugich pocałunkiem świętym. Pozdrawiają was wszyscy święci.
-13,13
-> Łaska Pana Jezusa Chrystusa i miłość Boga, i społeczność[κοινωνία] Ducha Świętego z wami wszystkimi
-
 ## - **Ga 2:9** — „I gdy poznali daną mi łaskę, Jakub i Kefas, i Jan, uważani za filary, podali mi i Barnabie prawicę **wspólnoty**, abyśmy szli do pogan, a oni do obrzezanych;”  
   → G2842 = **wspólnoty**
 
 ### Podkreślali w ten spoób swoją wspólnotę
 
-
 # To były przykłady przyziemne koinonii widoczne w postaci czynów, ale znajdujemy w Słowie również wymiar nienamacalny, duchowy
+
+## Paweł kończy drugi list do Koryntian słowami:
+13:12
+> Pozdrówcie jedni drugich pocałunkiem świętym. Pozdrawiają was wszyscy święci.
+13,13
+> Łaska Pana Jezusa Chrystusa i miłość Boga, i społeczność[κοινωνία] Ducha Świętego z wami wszystkimi
 
 - **Ef 3:9** — „I oświecił wszystkich, jaka jest **wspólnota** tajemnicy, która jest ukryta od wieków w Bogu, który wszystko stworzył przez Jezusa Chrystusa;”  
 **Wspólnota tajemnicy**
