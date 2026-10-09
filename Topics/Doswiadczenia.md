@@ -177,6 +177,9 @@ Nie lękaj sie ja jestem z Tobą
 Nie boj sie tylko wierz
 Podobnie u Pawła nie bój się.
 
+# Bóg chce abyśmy trwali
+Daj nam dzisiaj 
+One day at a time
 
 # Kto stoi niech baczy by nie upadł
 Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
