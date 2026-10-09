@@ -8,7 +8,7 @@
 
 I gdybym postanowił kilka godzin na temat wieczerzy rozważać, to pewnie po tym Karol byłby w stanie jeszcze kolejne kilka godzin uzupełniać to co powiedziałem
 
-## Ale zwróciłem uwagę na jeden aspekt wieczerzy, na który chyba rzadko zwracamy uwagę
+## Ale zwróciłem uwagę na jeden aspekt wieczerzy, czy też może związany z wieczerzą
 
 # Wydaje mi się, że często skupiamy się, na swoim przeżyciu, w trakcie wieczerzy
 I nic dziwnego. To jest bardzo ważne, niezwykłe przeżycie.
