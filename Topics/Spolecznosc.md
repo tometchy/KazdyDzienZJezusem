@@ -13,7 +13,7 @@ I gdybym postanowił kilka godzin na temat wieczerzy rozważać, to pewnie po ty
 # Wydaje mi się, że często skupiamy się, na swoim przeżyciu, w trakcie wieczerzy
 I nic dziwnego. To jest bardzo ważne, niezwykłe przeżycie.
 
-## Ale nasze indywidualne przeżycie, to jest tylko jeden z aspektów wieczerzy
+## Ale to przeżycie nie jest tylko indywidualne
 
 # Otwórzmy proszę 1 List do Koryntian, 10 rozdział, weresety od 16 do 21
 - 16 > Kielich błogosławieństwa, który błogosławimy, czyż nie jest społecznością[κοινωνία] krwi Chrystusa? Chleb, który łamiemy, czyż nie jest społecznością[κοινωνία] ciała Chrystusa?
