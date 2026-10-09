@@ -13,7 +13,8 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
 - Horatio Spafford, żył w Stanach, w Chicago w XIX wieku.
 - Był szanowanym prawnikiem, starszym w zborze prezbiteriańskim
-- Zaangażowany w YMCA, prowadził szkółkę niedzielną, brał udział osobiście i finansowo w ewangelizacjach, odwiedzał więzienia, szpitale
+- Zaangażowany w YMCA, prowadził szkółkę niedzielną, brał udział osobiście, a takżę finansowo w ewangelizacjach
+- odwiedzał więzienia, szpitale
 - Miał żonę i cztery córki
 - Spaffordowie przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA
 - Żyli w dostatku, mieli dosyć luksusowy dom, a pozatym Horatio inwestował w różne instrumenty finansowe, ale przede wszystkim w nieruchomości w Chicago
