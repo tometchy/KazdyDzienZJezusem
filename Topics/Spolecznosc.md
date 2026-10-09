@@ -2,11 +2,9 @@
 
 ## Zdradzę Wam, że i ja bardzo pragnąłem dzisiaj móc z Wami ją spożyć i Pan pobłogosławił, że jestem
 
-## I postanowiłem zwrócić uwagę na jeden aspekt naszej wieczerzy
+## Postanowiłem zwrócić uwagę na jeden aspekt związany z naszą wieczerzą
 
 ## Bo sama wieczerza to oczywiście temat bardzo obszerny
-
-## Ale zwróciłem uwagę na jeden aspekt wieczerzy, czy też może związany z wieczerzą
 
 # Wydaje mi się, że często skupiamy się, na swoim przeżyciu, w trakcie wieczerzy
 I nic dziwnego. To jest bardzo ważne, niezwykłe przeżycie.
