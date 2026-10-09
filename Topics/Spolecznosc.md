@@ -4,9 +4,7 @@
 
 ## I postanowiłem zwrócić uwagę na jeden aspekt naszej wieczerzy
 
-## Jak wiemy sama wieczerza to temat bardzo obszerny
-
-I gdybym postanowił kilka godzin na temat wieczerzy rozważać, to pewnie po tym Karol byłby w stanie jeszcze kolejne kilka godzin uzupełniać to co powiedziałem
+## Bo sama wieczerza to oczywiście temat bardzo obszerny
 
 ## Ale zwróciłem uwagę na jeden aspekt wieczerzy, czy też może związany z wieczerzą
 
