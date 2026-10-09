@@ -6,7 +6,7 @@
 
 ## Jak wiemy sama wieczerza to temat bardzo obszerny
 
-I gdybym tu kilka godzin próbował o nim mówić, to pewnie po tym Karol byłby w stanie jeszcze kolejne kilka godzin uzupełniać to co powiedziałem
+I gdybym postanowił kilka godzin na temat wieczerzy rozważać, to pewnie po tym Karol byłby w stanie jeszcze kolejne kilka godzin uzupełniać to co powiedziałem
 
 ## Ale zwróciłem uwagę na jeden aspekt wieczerzy, na który chyba rzadko zwracamy uwagę
 
@@ -36,7 +36,7 @@ I nic dziwnego. To jest bardzo ważne, niezwykłe przeżycie.
 
 ## Jesteśmy tu my i jak pamiętami z Ewangelii Mateusza, jest pośród nas także i nasz Pan
 
-## Widzimy w tym samym liście, w kolejnym rozdziale (11), pozwolę sobie wyciągnąć kilka wersetów
+## W kolejnym rozdziale (11) listu do Koryntian czytamy
 
 Wersety od 20 do 23
 > Gdy więc schodzicie się razem na to samo miejsce, nie jest to jednak spożywanie Wieczerzy Pańskiej;
@@ -115,7 +115,7 @@ Wersety 33 i 34
 ### Podkreślali w ten spoób swoją wspólnotę
 
 
-# To były przykłady przyziemne koinonii widoczne w postaci czynów, ale znajdujemy w Słowie również przykłady nie przyziemne
+# To były przykłady przyziemne koinonii widoczne w postaci czynów, ale znajdujemy w Słowie również wymiar nienamacalny, duchowy
 
 - **Ef 3:9** — „I oświecił wszystkich, jaka jest **wspólnota** tajemnicy, która jest ukryta od wieków w Bogu, który wszystko stworzył przez Jezusa Chrystusa;”  
 **Wspólnota tajemnicy**
