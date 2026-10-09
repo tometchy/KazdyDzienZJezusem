@@ -59,7 +59,6 @@ I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 - > 11. Ale teraz wyciągnij tylko swoją rękę i dotknij tego wszystkiego, co ma, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
 - > 12. Wtedy JHWH powiedział do szatana: Oto wszystko to, co ma, jest w twojej mocy, tylko na niego nie wyciągaj ręki. I szatan odszedł sprzed oblicza JHWH.
 
-
 **Hioba 2, 1-6**
 - > 1. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich, aby stanąć przed JHWH
 - > 2. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
@@ -68,7 +67,7 @@ I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 - > 5. Lecz wyciągnij tylko swoją rękę i uderz w jego kości i w jego ciało, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
 - > 6. Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.
 
-## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpieniom
+## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpienia
 
 # Wiemy jednak, że Bóg w swojej miłości nas wychowuje
 
@@ -91,6 +90,8 @@ List do Hebrajczyków 12,1-16
 - 16. > Aby ktoś nie był rozpustny i bezbożny jak Ezaw, który za jedną potrawę oddał swoje pierworództwo.
 
 ## Pan robi to dla naszej korzyści, abyśmy byli uczestnikami Jego świętości
+
+## Wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są **przez nie wyćwiczeni**.
 
 # Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 
@@ -118,12 +119,48 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
 
+# Bóg jest wierny i nie daje nam ponad nasze siły
+
+# Cierpienia również formą błogosławieństwa
+
+Ewangelia wg św. Mateusza 5, 10-12 
+:„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
+
+List św. Jakuba 1, 2-4.12:
+„Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość. (...) Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
+
+List do Rzymian 5
+- 1 Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
+- 2 Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
+- 3 A nie tylko to, ale chlubimy się w uciskach, wiedząc, że ucisk sprawia wytrwałość,
+- 4 A wytrwałość doświadczenie, a doświadczenie nadzieję,
+- 5 A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
+
+
+1 List św. Piotra 4, 13-14.16:„Cieszcie się, im bardziej jesteście uczestnikami cierpień Chrystusowych, abyście i w objawieniu się Jego chwały cieszyli się i radowali. Błogosławieni [jesteście], jeśli złorzeczą wam z powodu imienia Chrystusa, ponieważ Duch chwały, Boży Duch na was spoczywa. (...) Jeżeli zaś cierpi jako chrześcijanin, niech się nie wstydzi, ale niech wychwala Boga w tym imieniu!”
+
+**Dzieje Apostolskie 5,17-42**
+- > 17. Wówczas powstał arcykapłan i razem z nim ci wszyscy, którzy byli ze stronnictwa saduceuszów, i napełnieni zazdrością,
+- > 18. Pochwycili w swe ręce apostołów, i umieścili ich w publicznym więzieniu.
+- > 19. Lecz anioł PANA w nocy otworzył drzwi więzienia, wyprowadził ich i powiedział:
+- > 20. Idźcie, stańcie i głoście ludowi w świątyni wszystkie słowa tego życia.
+- > 21. Posłuchali więc tego, weszli o świcie do świątyni i nauczali. A gdy przyszedł arcykapłan i ci, którzy razem z nim byli, zwołali Sanhedryn i całą starszyznę synów Izraela, posyłając do więzienia, aby ich przyprowadzono.
+- > 22. Podwładni jednak gdy tam przybyli, nie znaleźli ich w więzieniu, zawrócili więc, i oznajmili o tym, mówiąc:
+- > 23. Więzienie wprawdzie znaleźliśmy zamknięte z całą starannością i strażników na zewnątrz stojących przed bramą, lecz gdy je otworzyliśmy, nikogo wewnątrz nie znaleźliśmy.
+- > 24. Gdy więc usłyszeli te słowa, arcykapłan i dowódca straży świątynnej oraz arcykapłani, byli w niepewności co do nich, bo nie rozumieli, co tam się stało.
+- > 25. I gdy przyszedł ktoś, oznajmił im, mówiąc: Oto mężowie, których umieściliście w więzieniu, są w świątyni, stojąc i nauczając lud.
+- > 26. Wtedy poszedł dowódca straży z podwładnymi i przyprowadził ich bez użycia siły, bali się bowiem ludu, aby nie zostali ukamienowani.
+- > 27. A gdy ich przyprowadzili, postawili przed Sanhedrynem; i arcykapłan wypytywał ich,
+- > ...
+- > 40. a gdy zawołali apostołów, wychłostali ich, zakazując im przemawiać w imieniu Jezusa; i wypuścili ich.
+- > 41. Ci więc odeszli sprzed oblicza Sanhedrynu, radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia.
+- > 42. I nie przestawali każdego dnia w świątyni i w domach nauczać, i głosić dobrą nowinę Jezusa Chrystusa.
+
+## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
 
 # Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na cielesnym powodzeniu
 
-Blogoslawienie cierpieniami
-
-> **Biblia Toruńska — 2 Kor 12,7-10**
+**2 Kor 12,7-10**
 > 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
 > 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
 > 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
@@ -140,15 +177,20 @@ Nie lękaj sie ja jestem z Tobą
 Nie boj sie tylko wierz
 Podobnie u Pawła nie bój się.
 
-# Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
-
 
 # Kto stoi niech baczy by nie upadł
+Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
+
 Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
 
 ## 1 Kor 11, 18-19
 Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
 Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
+
+
+• 1 Piotra 1, 6-7 
+(Wiara wypróbowana w ogniu)„Dlatego radujcie się, choć teraz musicie doznać trochę smutku przez różnorodne doświadczenia. Wizja waszej wiary, o wiele cenniejszej od zniszczalnego złota, które przecież w ogniu się próbuje, okaże się ku chwale, czci i uwielbieniu przy objawieniu Jezusa Chrystusa.”
+
 
 --------------------------------------------------------------------------------------------------------------------
 
