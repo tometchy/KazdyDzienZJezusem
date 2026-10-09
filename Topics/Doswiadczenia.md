@@ -6,8 +6,6 @@
 
 ### Gdy kiedyś po raz pierwszy usłyszałem ten refren, przed moimi oczyma stanął obraz leżeniu na hamaku z taką wiecie trzciną w buzi
 
-### Myślę, że autor pieśni był pełen Bożego pokoju, gdy ją pisał
-
 ### Ale w tej pieśni występują słowa, które nie pasują do obrazu hamaczka
 Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
