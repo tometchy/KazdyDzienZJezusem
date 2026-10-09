@@ -40,43 +40,57 @@ Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny stat
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeżyły bardzo trudne życiowe doświadczenia.  
 I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 
-# Bóg jest świadom naszego cierpienia, nie tylko świadom, Bóg na nie przyzwala
+# Pamiętajmy, że Bóg jest świadom naszego cierpienia
 
-> **Hioba 1, 6-12**
-> 6 Zdarzyło się pewnego dnia, gdy synowie Boży3 udawali się, by stanąć przed Panem, że i szatan3 też poszedł z nimi. 7 4 I rzekł Bóg do szatana: «Skąd przychodzisz?» Szatan odrzekł Panu: «Przemierzałem ziemię i wędrowałem po niej». 8 Mówi Pan do szatana: «A zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by tak był prawy, sprawiedliwy, bogobojny i unikający grzechu jak on». 9 Szatan na to do Pana: «Czyż za darmo Hiob czci Boga? 10 Czyż Ty nie ogrodziłeś zewsząd jego samego, jego domu i całej majętności? Pracy jego rąk pobłogosławiłeś, jego dobytek na ziemi się mnoży.
-11 Wyciągnij, proszę, rękę i dotknij jego majątku! Na pewno Ci w twarz będzie złorzeczył». 12 Rzekł Pan do szatana: «Oto cały majątek jego w twej mocy. Tylko na niego samego nie wyciągaj ręki». I odszedł szatan sprzed oblicza Pańskiego.
+**Biblia Toruńska — Mt 10,28-31**
+- > 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
+- > 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
+- > 30. Nawet i włosy na waszej głowie wszystkie są policzone.
+- > 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
 
-> **Hioba 2, 1-6**
-> 1 Pewnego dnia, gdy synowie Boży1 udawali się, by stawić się przed Panem, poszedł i szatan z nimi, by stanąć przed Panem. 2 I rzekł Pan do szatana: «Skąd przychodzisz?» Szatan odpowiedział Panu: «Przemierzałem ziemię i wędrowałem po niej». 3 Rzekł Pan szatanowi: «Zwróciłeś uwagę na sługę mego, Hioba? Bo nie ma na całej ziemi drugiego, kto by był tak prawy, sprawiedliwy, bogobojny i unikający zła jak on. Jeszcze trwa w swej prawości, choć mnie nakłoniłeś do zrujnowania go, na próżno». 4 Na to szatan odpowiedział Panu: «Skóra za skórę. Wszystko, co człowiek posiada, odda za swoje życie. 5 Wyciągnij, proszę, rękę i dotknij jego kości i ciała. Na pewno Ci w twarz będzie złorzeczył». 6 I rzekł Pan do szatana: «Oto jest w twej mocy. Życie mu tylko zachowaj!»
+# Bóg jest nie tylko świadom cierpienia, Bóg na nie przyzwala
 
-> **Biblia Toruńska — Mt 10,28-31**
-> 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
-> 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
-> 30. Nawet i włosy na waszej głowie wszystkie są policzone.
-> 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
+**Hioba 1, 6-12**
+- > 6. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich.
+- > 7. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
+- > 8. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba? Gdyż nie ma nikogo jak on na ziemi. Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła.
+- > 9. A szatan odpowiedział JHWH, mówiąc: Czy Hiob za darmo boi się Boga?
+- > 10. Czy nie ty ogrodziłeś zewsząd jego, jego dom i wszystko, co wokół niego? Błogosławiłeś dziełu jego rąk, a jego dobytek rozmnożył się na ziemi.
+- > 11. Ale teraz wyciągnij tylko swoją rękę i dotknij tego wszystkiego, co ma, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
+- > 12. Wtedy JHWH powiedział do szatana: Oto wszystko to, co ma, jest w twojej mocy, tylko na niego nie wyciągaj ręki. I szatan odszedł sprzed oblicza JHWH.
 
-# Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na cielesnym powodzeniu
 
-Blogoslawienie cierpieniami
+**Hioba 2, 1-6**
+- > 1. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich, aby stanąć przed JHWH
+- > 2. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
+- > 3. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba – gdyż nie ma nikogo jak on na ziemi? Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła. On nadal trwa w swojej prawości, a ty mnie nakłoniłeś przeciw niemu, aby go pochłonąć jak widać bez powodu.
+- > 4. Szatan odpowiedział JHWH, mówiąc: Skóra za skórę, a wszystko, co człowiek ma, odda za swoje życie;
+- > 5. Lecz wyciągnij tylko swoją rękę i uderz w jego kości i w jego ciało, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
+- > 6. Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.
 
-> **Biblia Toruńska — 2 Kor 12,7-10**
-> 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
-> 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
-> 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
-> 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
+## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpieniom
 
-# Bóg chce, żebyśmy ufali, nie bali się
-To gdzies na poczatku czy strach to grzech jako taki
+# Wiemy jednak, że Bóg w swojej miłości nas wychowuje
 
-Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami
-Nie lękaj sie ja jestem z Tobą
-> **Biblia Toruńska — Mk 4,40**
-> 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
+List do Hebrajczyków 12,1-16
+- 1. > Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
+- 2. > Patrząc uważnie na Jezusa, który jest początkiem i końcem naszej wiary, który w miejsce leżącej przed Nim radości wycierpiał krzyż, znosząc jego hańbę, i zasiadł po prawicy tronu Boga.
+- 3. > Rozważcie bowiem, jakim jest Ten, który wycierpiał od grzeszników przeciwko sobie tak wielki sprzeciw, abyście zmęczeni, nie osłabli na duszy.
+- 4. > Wy nie opieraliście się jeszcze aż do krwi, walcząc przeciwko grzechowi,
+- 5. > I całkowicie zapomnieliście o zachęcie, którą zwraca się do was jak do synów: Synu mój, nie lekceważ karcenia PANA, i nie bądź osłabiony, gdy PAN ciebie napomina;
+- 6. > Kogo bowiem PAN miłuje, tego karci, natomiast chłoszcze każdego syna, którego przyjmuje.
+- 7. > Jeżeli znosicie karcenie, to Bóg ofiarowuje się wam jako synom; jakim bowiem jest syn, którego ojciec nie wychowuje?
+- 8. > A jeśli jesteście bez karcenia, które jest udziałem wszystkich, to jesteście dziećmi z nieprawego łoża, a nie synami.
+- 9. > Ponadto, mieliśmy naszych ojców według ciała, którzy nas karcili, i szanowaliśmy ich. Czyż nie mamy być daleko bardziej poddani Ojcu duchów, by żyć?
+- 10. > Tamci bowiem wychowywali nas przez krótki czas według swojego uznania; Ten natomiast, dla naszej korzyści, abyśmy byli uczestnikami Jego świętości.
+- 11. > Wprawdzie wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są przez nie wyćwiczeni.
+- 12. > Dlatego wyprostujcie opuszczone ręce i wyczerpane kolana,
+- 13. > I czyńcie proste ścieżki waszymi nogami, aby to, co chrome nie zboczyło, ale raczej zostało uzdrowione.
+- 14. > Zabiegajcie o pokój ze wszystkimi i o uświęcenie, bez którego nikt nie zobaczy Pana.
+- 15. > Przyglądajcie się uważnie, aby ktoś nie pozostał z dala od łaski Bożej, aby jakiś korzeń gorzkości rosnący w górę nie wywołał niepokoju, i żeby przez to nie pokalało się wielu,
+- 16. > Aby ktoś nie był rozpustny i bezbożny jak Ezaw, który za jedną potrawę oddał swoje pierworództwo.
 
-Nie boj sie tylko wierz
-Podobnie u Pawła nie bój się.
-
-# Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
+## Pan robi to dla naszej korzyści, abyśmy byli uczestnikami Jego świętości
 
 # Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 
@@ -104,6 +118,31 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
 
+
+# Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na cielesnym powodzeniu
+
+Blogoslawienie cierpieniami
+
+> **Biblia Toruńska — 2 Kor 12,7-10**
+> 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
+> 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
+> 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
+> 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
+
+# Bóg chce, żebyśmy ufali, nie bali się
+To gdzies na poczatku czy strach to grzech jako taki
+
+Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami
+Nie lękaj sie ja jestem z Tobą
+> **Biblia Toruńska — Mk 4,40**
+> 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
+
+Nie boj sie tylko wierz
+Podobnie u Pawła nie bój się.
+
+# Bóg jest wierny i nie daje nam ponad nasze siły (fragment)
+
+
 # Kto stoi niech baczy by nie upadł
 Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
 
@@ -116,7 +155,8 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 Księga Psalmów 55, cały psalm zacząć od:
 > O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
 
-Waldek powiedzial ze wojna na Ukrainie przyspiesza pewne lekcje, niektorzy z nas tego doswiadczyli lub doswiadczaja tutaj bez wojny.
+Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
+Niektorzy z nas tego doswiadczyli lub doswiadczaja bez wojny.
 
 Jakuba 1
 
