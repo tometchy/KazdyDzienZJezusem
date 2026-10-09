@@ -21,7 +21,7 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 
 ## 8 października 1871 roku sielanka się skończyła
 
-- Wybuchł Wielki Pożar Chicago, który pochłonął około 1/3 miasta
+- Wybuchł Wielki Pożar Chicago, który pochłonął około 1/3 miasta - jedna z największych tragedii w Stanach w XIX wieku
 - Dom Spaffordow się ostał, ale spłonęły wszystkie inwestycje
 
 ## Po 2 latach, doszedł do tego kryzys ekonomiczny
