@@ -134,7 +134,7 @@ Wersety 33 i 34
 
 # Widzimy, że koinonia, czyli ta wspólnota, społeczność ma zarówno wymiar duchowi ale również przyziemny, namacalny, objawiający się w codziennym życiu. Jedno ciało
 
-## Bóg nas wyrwał z ciemności i wszczepił w swój Kościół, w swoją rodzię
+## Bóg nas wyrwał z ciemności i wszczepił w swój Kościół, w swoją rodzię. **W swoje ciało**.
 
 # Koinonię, mamy ze sobą i z naszym Panem, a wieczerza, kielich, który pijemy i chleb, który łamiemy, odgrywają w tym bardzo ważną rolę. Jak już czytaliśmy w 1 Kor 10,16-17
 
