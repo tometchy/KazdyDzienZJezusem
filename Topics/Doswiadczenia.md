@@ -158,6 +158,10 @@ List do Rzymian 5
 
 ## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
 
+Filipian 1, x-30
+
+## Zostaliśmy obdarowani nie tylko tym, że możemy w Jezusa wierzyć, ale także tym, że możemy dla Niego cierpieć
+
 # Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na cielesnym powodzeniu
 
 **2 Kor 12,7-10**
