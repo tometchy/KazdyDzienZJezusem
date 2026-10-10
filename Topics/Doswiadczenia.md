@@ -158,6 +158,10 @@ List do Rzymian 5
 
 ## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
 
+Efezjan 3,1-13:
+„Dlatego proszę, abyście się nie zniechęcali prześladowaniami, jakie znoszę dla was, bo to jest właśnie waszą chwałą.”
+
+
 Filipian 1, x-30
 
 ## Zostaliśmy obdarowani nie tylko tym, że możemy w Jezusa wierzyć, ale także tym, że możemy dla Niego cierpieć
