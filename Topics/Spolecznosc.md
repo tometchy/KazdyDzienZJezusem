@@ -30,7 +30,7 @@ I nic dziwnego. To jest bardzo ważne, niezwykłe przeżycie.
 
 ## Czyli gdy zgromadzamy się na wieczerzę, mamy społeczność
 
-## Jesteśmy tu my i jak pamiętami z Ewangelii Mateusza, jest pośród nas także i nasz Pan
+## Jesteśmy jednym chlebem, jestesmy tu my i jak pamiętamy z Ewangelii Mateusza, jest pośród nas także i nasz Pan
 
 ## W kolejnym rozdziale (11) listu do Koryntian czytamy
 
