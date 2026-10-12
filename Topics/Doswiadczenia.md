@@ -57,7 +57,7 @@ I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 - > 9. A szatan odpowiedział JHWH, mówiąc: Czy Hiob za darmo boi się Boga?
 - > 10. Czy nie ty ogrodziłeś zewsząd jego, jego dom i wszystko, co wokół niego? Błogosławiłeś dziełu jego rąk, a jego dobytek rozmnożył się na ziemi.
 - > 11. Ale teraz wyciągnij tylko swoją rękę i dotknij tego wszystkiego, co ma, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
-- > 12. Wtedy JHWH powiedział do szatana: Oto wszystko to, co ma, jest w twojej mocy, tylko na niego nie wyciągaj ręki. I szatan odszedł sprzed oblicza JHWH.
+- > 12. **Wtedy JHWH powiedział do szatana: Oto wszystko to, co ma, jest w twojej mocy, tylko na niego nie wyciągaj ręki.** I szatan odszedł sprzed oblicza JHWH.
 
 **Hioba 2, 1-6**
 - > 1. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich, aby stanąć przed JHWH
@@ -65,7 +65,7 @@ I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 - > 3. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba – gdyż nie ma nikogo jak on na ziemi? Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła. On nadal trwa w swojej prawości, a ty mnie nakłoniłeś przeciw niemu, aby go pochłonąć jak widać bez powodu.
 - > 4. Szatan odpowiedział JHWH, mówiąc: Skóra za skórę, a wszystko, co człowiek ma, odda za swoje życie;
 - > 5. Lecz wyciągnij tylko swoją rękę i uderz w jego kości i w jego ciało, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
-- > 6. Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.
+- > 6. **Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.**
 
 ## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpienia
 
@@ -121,13 +121,7 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 
 # Bóg jest wierny i nie daje nam ponad nasze siły
 
-# Cierpienia również formą błogosławieństwa
-
-Ewangelia wg św. Mateusza 5, 10-12 
-:„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
-
-List św. Jakuba 1, 2-4.12:
-„Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość. (...) Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
+# Cierpienia również formą błogosławieństwa, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
 
 List do Rzymian 5
 - 1 Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
@@ -135,7 +129,6 @@ List do Rzymian 5
 - 3 A nie tylko to, ale chlubimy się w uciskach, wiedząc, że ucisk sprawia wytrwałość,
 - 4 A wytrwałość doświadczenie, a doświadczenie nadzieję,
 - 5 A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
-
 
 1 List św. Piotra 4, 13-14.16:„Cieszcie się, im bardziej jesteście uczestnikami cierpień Chrystusowych, abyście i w objawieniu się Jego chwały cieszyli się i radowali. Błogosławieni [jesteście], jeśli złorzeczą wam z powodu imienia Chrystusa, ponieważ Duch chwały, Boży Duch na was spoczywa. (...) Jeżeli zaś cierpi jako chrześcijanin, niech się nie wstydzi, ale niech wychwala Boga w tym imieniu!”
 
@@ -157,6 +150,12 @@ List do Rzymian 5
 - > 42. I nie przestawali każdego dnia w świątyni i w domach nauczać, i głosić dobrą nowinę Jezusa Chrystusa.
 
 ## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
+
+Ewangelia wg św. Mateusza 5, 10-12 
+:„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
+
+List św. Jakuba 1, 2-4.12:
+„Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość. (...) Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
 
 Efezjan 3,1-13:
 „Dlatego proszę, abyście się nie zniechęcali prześladowaniami, jakie znoszę dla was, bo to jest właśnie waszą chwałą.”
@@ -188,6 +187,9 @@ Podobnie u Pawła nie bój się.
 # Bóg chce abyśmy trwali
 Daj nam dzisiaj 
 One day at a time
+
+Efezjan 3,1-13:
+„Dlatego proszę, abyście się nie zniechęcali prześladowaniami, jakie znoszę dla was, bo to jest właśnie waszą chwałą.
 
 # Kto stoi niech baczy by nie upadł
 Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
