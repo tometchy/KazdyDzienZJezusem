@@ -40,6 +40,11 @@ Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny stat
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeżyły bardzo trudne życiowe doświadczenia.  
 I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 
+Księga Psalmów 55:
+> Miotam się swoim zmartwieniu i nie dożywam spokoju
+> Bojaźń i drżenie wkroczyły we mnie i ogarnęlo mnie przerażenie 
+> O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
+
 # Pamiętajmy, że Bóg jest świadom naszego cierpienia
 
 **Biblia Toruńska — Mt 10,28-31**
@@ -195,19 +200,34 @@ Filipian 1, x-30
 
 # Bóg chce, żebyśmy ufali, nie bali się
 
-## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami
+## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
 
+### Jair
+Marka 5,36
+> Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
+
+##3 Paweł
+Dzieje 18,9-10
+- 9. > A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
+- 10. > Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
+- 11. > Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
+
+Dzieje 27,23-25
+- 23. > Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
+- 24. > Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
+- 25. > Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
+
+### Izrael
 Księgi Izajasza (rozdział 41, werset 10)
-„Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
+> „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
 
+### Apostołowie
 > **Biblia Toruńska — Mk 4,40**
 > 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
 
-Nie boj sie tylko wierz
-Podobnie u Pawła nie bój się.
+## Pan Jezus
 
-List-do-Hebrajczykow/5/7
-Za dni swojego życia w ciele, z wielkim wołaniem i ze łzami, przynosił On błagania i usilne prośby do Tego, który mógł Go zbawiać[8] od śmierci i został wysłuchany przez wzgląd na pobożność,
+
 
 # Bóg chce abyśmy trwali
 Daj nam dzisiaj 
@@ -231,9 +251,6 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 # KONIEC
 --------------------------------------------------------------------------------------------------------------------
 # KONIEC
-
-Księga Psalmów 55, cały psalm zacząć od:
-> O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
 
 Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
 Niektorzy z nas tego doswiadczyli lub doswiadczaja bez wojny.
