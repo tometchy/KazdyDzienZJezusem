@@ -194,10 +194,12 @@ Filipian 1, x-30
 > 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
 
 # Bóg chce, żebyśmy ufali, nie bali się
-To gdzies na poczatku czy strach to grzech jako taki
 
-Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami
-Nie lękaj sie ja jestem z Tobą
+## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami
+
+Księgi Izajasza (rozdział 41, werset 10)
+„Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
+
 > **Biblia Toruńska — Mk 4,40**
 > 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
 
@@ -223,12 +225,12 @@ Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modli
 Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
 Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
 
-
 • 1 Piotra 1, 6-7 
 (Wiara wypróbowana w ogniu)„Dlatego radujcie się, choć teraz musicie doznać trochę smutku przez różnorodne doświadczenia. Wizja waszej wiary, o wiele cenniejszej od zniszczalnego złota, które przecież w ogniu się próbuje, okaże się ku chwale, czci i uwielbieniu przy objawieniu Jezusa Chrystusa.”
 
-
+# KONIEC
 --------------------------------------------------------------------------------------------------------------------
+# KONIEC
 
 Księga Psalmów 55, cały psalm zacząć od:
 > O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
