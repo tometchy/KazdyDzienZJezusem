@@ -69,6 +69,12 @@ I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 
 ## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpienia
 
+## Czy nas to dziwi?
+
+1 List Piotra 4
+- 1. > Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
+- 12. > Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
+
 # Wiemy jednak, że Bóg w swojej miłości nas wychowuje
 
 List do Hebrajczyków 12,1-16
@@ -89,9 +95,20 @@ List do Hebrajczyków 12,1-16
 - 15. > Przyglądajcie się uważnie, aby ktoś nie pozostał z dala od łaski Bożej, aby jakiś korzeń gorzkości rosnący w górę nie wywołał niepokoju, i żeby przez to nie pokalało się wielu,
 - 16. > Aby ktoś nie był rozpustny i bezbożny jak Ezaw, który za jedną potrawę oddał swoje pierworództwo.
 
-## Pan robi to dla naszej korzyści, abyśmy byli uczestnikami Jego świętości
+### Pan robi to dla naszej korzyści, abyśmy byli uczestnikami Jego świętości
 
-## Wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są **przez nie wyćwiczeni**.
+### Wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są **przez nie wyćwiczeni**.
+
+## Nawet o naszym Panu, w Liście do Hebrajczyków czytamy, wzmiankę o cierpieniach jako nauce posłuszeństwa
+
+List-do-Hebrajczykow/5/8
+I chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał
+
+## Wierzę, że w przypadku Pana nauka posłuszeństwa ma zupełnie inny wymiar niż w naszym przypadku, ale mamy w Słowie zapisaną to dla nas
+
+## Pan chce, abyśmy zaprzestawali grzechu! 
+1-List-Piotra/4/12
+- > 1. Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą; **bo ten, kto cierpiał w ciele, zaprzestał[3] grzechu, 2Aby już więcej, nie w ludzkich pożądliwościach[4], ale w woli Boga, pozostały czas żyć w ciele**. 3Wystarczy już bowiem, że w minionym czasie naszego życia czyniliśmy wolę pogan, żyjąc[5] w rozwiązłościach, pożądliwościach, pijaństwie[6], hulankach, pijatykach i niegodziwych bałwochwalstwach. 4Przy tym dziwią się oni, że wy nie śpieszycie się razem z nimi do tego samego zalewu rozwiązłości[7], i bluźnią wam. 5Ci zdadzą sprawę[8] Temu, który gotów jest sądzić żywych i umarłych. 6W tym bowiem celu i umarłym głoszono dobrą nowinę, aby zostali osądzeni wprawdzie jako ludzie według ciała[9], ale żyli w duchu według Boga. 7Lecz zbliża się koniec wszystkich[10]; bądźcie więc roztropni[11] i trzeźwi[12] w modlitwach. 8Przede wszystkim jednak miejcie gorliwą miłość jedni ku drugim; gdyż miłość zakryje[13] mnóstwo grzechów. 9Okazujcie gościnność[14] jedni drugim bez szemrania[15]. 10Każdy tak jak otrzymał dar łaski, niech nim służy drugim[16], jako dobrzy zarządcy[17] różnorodnej łaski Bożej. 11Jeśli ktoś mówi, niech mówi jak Słowa[18] Boga; jeśli ktoś usługuje, to z siłą w jaką Bóg zaopatruje; aby we wszystkim Bóg był otoczony chwałą[19] przez Jezusa Chrystusa. Jemu chwała i moc na wieki wieków. Amen. 12Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22]; 13Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc. 14Jeśli was znieważają dla[23] imienia Chrystusa, jesteście błogosławieni[24], gdyż Duch chwały i Duch Boga spoczywa na was; wprawdzie przez nich jest spotwarzany[25], ale przez was doznaje chwały. 15Niech nikt z was nie cierpi jako zabójca, albo złodziej, albo złoczyńca, albo wtrącający się w cudze sprawy[26]. 16Jeśli natomiast ktoś cierpi jako chrześcijanin, niech nie będzie zawstydzany, ale niech w tej mierze[27] oddaje chwałę Bogu. 17Gdyż jest czas, aby rozpoczął się sąd od domu Bożego; jeżeli więc zaczyna się od nas, jaki będzie koniec tych, którzy nie okazują posłuszeństwa[28] ewangelii Bożej? 18A jeśli sprawiedliwy z trudem jest zbawiany[29], bezbożny i grzeszny gdzie się ukaże[30]? 19Tak więc i ci, którzy cierpią według woli Bożej, niech Jemu, jako wiernemu Stwórcy, powierzają[31] swoje dusze[32] w czynieniu dobra.
 
 # Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 
@@ -151,6 +168,9 @@ List do Rzymian 5
 
 ## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
 
+1-List-Piotra/4/13
+> Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
+
 Ewangelia wg św. Mateusza 5, 10-12 
 :„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
@@ -183,6 +203,9 @@ Nie lękaj sie ja jestem z Tobą
 
 Nie boj sie tylko wierz
 Podobnie u Pawła nie bój się.
+
+List-do-Hebrajczykow/5/7
+Za dni swojego życia w ciele, z wielkim wołaniem i ze łzami, przynosił On błagania i usilne prośby do Tego, który mógł Go zbawiać[8] od śmierci i został wysłuchany przez wzgląd na pobożność,
 
 # Bóg chce abyśmy trwali
 Daj nam dzisiaj 
