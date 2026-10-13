@@ -40,10 +40,13 @@ Na środku Oceanu Atlantyckiego, statek, przypadkowo staranowany przez inny stat
 Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeżyły bardzo trudne życiowe doświadczenia.  
 I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 
+## Potrafię sobie wyobrazić, co czuł Dawid gdy pisał
 Księga Psalmów 55:
 > Miotam się swoim zmartwieniu i nie dożywam spokoju
 > Bojaźń i drżenie wkroczyły we mnie i ogarnęlo mnie przerażenie 
 > O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
+
+## Czy Bóg nie widzi, gdy cierpimy?
 
 # Pamiętajmy, że Bóg jest świadom naszego cierpienia
 
