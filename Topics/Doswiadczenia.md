@@ -202,6 +202,8 @@ Filipian 1, x-30
 
 ## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
 
+## Psalm 55 kończy się zdaniem "Ja natomiast zaufam Tobie"
+
 ### Jair
 Marka 5,36
 > Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
@@ -227,7 +229,24 @@ Księgi Izajasza (rozdział 41, werset 10)
 
 ## Pan Jezus
 
+Ewangelia Mateusza 26,37–39
+> 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
+> 38. Wtedy Jezus powiedział im: „Zasmucona jest moja dusza aż do śmierci; zostańcie tu i czuwajcie ze mną.”
+> 39. I odszedł trochę dalej, upadł na swoje oblicze, modląc się i mówiąc: „Ojcze mój, jeśli jest to możliwe, niech ominie mnie ten kielich; jednak nie jak ja chcę, ale jak Ty.”
 
+Ewangelia Marka 14,33–36
+> 33. I wziął ze sobą Piotra i Jakuba, i Jana, i zaczął się trwożyć i głęboko troskać;
+> 34. I powiedział im: „Bardzo jest zasmucona moja dusza aż do śmierci; zostańcie tu i czuwajcie.”
+> 35. I odszedł nieco dalej, padł na ziemię i modlił się, aby, jeśli jest to możliwe, ominęła Go ta godzina;
+> 36. I mówił: „Abba, Drogi Ojcze! Dla Ciebie wszystko jest możliwe, oddal ten kielich ode mnie, jednak nie, co ja chcę, ale co Ty.”
+
+Ewangelia Łukasza 22,42–44
+> 42. Mówiąc: „Ojcze! Jeśli chcesz, oddal ten kielich ode mnie; jednak nie moja wola, lecz Twoja niech się stanie.”
+> 43. Wówczas ukazał Mu się anioł z nieba, wzmacniając Go.
+> 44. A gdy stanął do śmiertelnego boju, jeszcze gorliwiej się modlił, a Jego pot stał się jak krople krwi spadające na ziemię.
+
+Ewangelia Jana 12,27
+> 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
 
 # Bóg chce abyśmy trwali
 Daj nam dzisiaj 
