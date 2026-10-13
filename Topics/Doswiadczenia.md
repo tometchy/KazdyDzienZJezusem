@@ -83,7 +83,57 @@ Księga Psalmów 55:
 - 1. > Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
 - 12. > Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
 
-# Wiemy jednak, że Bóg w swojej miłości nas wychowuje
+# Bóg chce, żebyśmy ufali, nie bali się
+
+## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
+
+## Psalm 55 kończy się zdaniem "Ja natomiast zaufam Tobie"
+
+### Jair
+Marka 5,36
+> Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
+
+##3 Paweł
+Dzieje 18,9-10
+- 9. > A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
+- 10. > Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
+- 11. > Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
+
+Dzieje 27,23-25
+- 23. > Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
+- 24. > Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
+- 25. > Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
+
+### Izrael
+Księgi Izajasza (rozdział 41, werset 10)
+> „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
+
+### Apostołowie
+> **Biblia Toruńska — Mk 4,40**
+> 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
+
+## Pan Jezus
+
+Ewangelia Mateusza 26,37–39
+> 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
+> 38. Wtedy Jezus powiedział im: „Zasmucona jest moja dusza aż do śmierci; zostańcie tu i czuwajcie ze mną.”
+> 39. I odszedł trochę dalej, upadł na swoje oblicze, modląc się i mówiąc: „Ojcze mój, jeśli jest to możliwe, niech ominie mnie ten kielich; jednak nie jak ja chcę, ale jak Ty.”
+
+Ewangelia Marka 14,33–36
+> 33. I wziął ze sobą Piotra i Jakuba, i Jana, i zaczął się trwożyć i głęboko troskać;
+> 34. I powiedział im: „Bardzo jest zasmucona moja dusza aż do śmierci; zostańcie tu i czuwajcie.”
+> 35. I odszedł nieco dalej, padł na ziemię i modlił się, aby, jeśli jest to możliwe, ominęła Go ta godzina;
+> 36. I mówił: „Abba, Drogi Ojcze! Dla Ciebie wszystko jest możliwe, oddal ten kielich ode mnie, jednak nie, co ja chcę, ale co Ty.”
+
+Ewangelia Łukasza 22,42–44
+> 42. Mówiąc: „Ojcze! Jeśli chcesz, oddal ten kielich ode mnie; jednak nie moja wola, lecz Twoja niech się stanie.”
+> 43. Wówczas ukazał Mu się anioł z nieba, wzmacniając Go.
+> 44. A gdy stanął do śmiertelnego boju, jeszcze gorliwiej się modlił, a Jego pot stał się jak krople krwi spadające na ziemię.
+
+Ewangelia Jana 12,27
+> 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
+
+# Bóg w swojej miłości nas wychowuje
 
 List do Hebrajczyków 12,1-16
 - 1. > Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
@@ -144,16 +194,21 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
 
+List św. Jakuba 1, 2-4.12:
+„Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość. (...) Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
+
 # Bóg jest wierny i nie daje nam ponad nasze siły
 
-# Cierpienia również formą błogosławieństwa, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
+1 List do Koryntian 10,13
+> Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać
 
+# Cierpienia również formą błogosławieństwa, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
 List do Rzymian 5
-- 1 Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
-- 2 Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
-- 3 A nie tylko to, ale chlubimy się w uciskach, wiedząc, że ucisk sprawia wytrwałość,
-- 4 A wytrwałość doświadczenie, a doświadczenie nadzieję,
-- 5 A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
+- 1. > Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
+- 2. >  Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
+- 3. >  A nie tylko to, ale chlubimy się w uciskach, wiedząc, że ucisk sprawia wytrwałość,
+- 4. >  A wytrwałość doświadczenie, a doświadczenie nadzieję,
+- 5. >  A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
 
 1 List św. Piotra 4, 13-14.16:„Cieszcie się, im bardziej jesteście uczestnikami cierpień Chrystusowych, abyście i w objawieniu się Jego chwały cieszyli się i radowali. Błogosławieni [jesteście], jeśli złorzeczą wam z powodu imienia Chrystusa, ponieważ Duch chwały, Boży Duch na was spoczywa. (...) Jeżeli zaś cierpi jako chrześcijanin, niech się nie wstydzi, ale niech wychwala Boga w tym imieniu!”
 
@@ -182,14 +237,17 @@ List do Rzymian 5
 Ewangelia wg św. Mateusza 5, 10-12 
 :„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
-List św. Jakuba 1, 2-4.12:
-„Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość. (...) Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
-
-Efezjan 3,1-13:
-„Dlatego proszę, abyście się nie zniechęcali prześladowaniami, jakie znoszę dla was, bo to jest właśnie waszą chwałą.”
+Efezjan 3,12-18:
+- 12. > W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
+- 13. > Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
+- 14. > Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
+- 15. > Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
+- 16. > Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
+- 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
+- 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 Filipian 1, 27-30
-- 27. > Tylko żyjcie jak wolni obywatele[46] w sposób godny Ewangelii Chrystusa, abym, czy przyjdę i ujrzę was, czy będąc nieobecnym, słyszał o was, że stoicie w jednym duchu, jedną duszą walcząc razem dla wiary Ewangelii,
+- 27. > Tylko żyjcie jak wolni obywatele w sposób godny Ewangelii Chrystusa, abym, czy przyjdę i ujrzę was, czy będąc nieobecnym, słyszał o was, że stoicie w jednym duchu, jedną duszą walcząc razem dla wiary Ewangelii,
 - 28. > I w niczym nie dając się zastraszyć przeciwnikom; co dla nich prawdziwie jest dowodem zguby, a dla was zbawienia, i to od Boga;
 - 29. > Gdyż wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli,
 - 30. > Tocząc tę samą walkę, jaką widzieliście we mnie i o jakiej we mnie teraz słyszycie.
@@ -204,68 +262,9 @@ Filipian 1, 27-30
 > 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
 > 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
 
-# Bóg chce, żebyśmy ufali, nie bali się
-
-## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
-
-## Psalm 55 kończy się zdaniem "Ja natomiast zaufam Tobie"
-
-### Jair
-Marka 5,36
-> Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
-
-##3 Paweł
-Dzieje 18,9-10
-- 9. > A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
-- 10. > Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
-- 11. > Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
-
-Dzieje 27,23-25
-- 23. > Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
-- 24. > Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
-- 25. > Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
-
-### Izrael
-Księgi Izajasza (rozdział 41, werset 10)
-> „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
-
-### Apostołowie
-> **Biblia Toruńska — Mk 4,40**
-> 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
-
-## Pan Jezus
-
-Ewangelia Mateusza 26,37–39
-> 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
-> 38. Wtedy Jezus powiedział im: „Zasmucona jest moja dusza aż do śmierci; zostańcie tu i czuwajcie ze mną.”
-> 39. I odszedł trochę dalej, upadł na swoje oblicze, modląc się i mówiąc: „Ojcze mój, jeśli jest to możliwe, niech ominie mnie ten kielich; jednak nie jak ja chcę, ale jak Ty.”
-
-Ewangelia Marka 14,33–36
-> 33. I wziął ze sobą Piotra i Jakuba, i Jana, i zaczął się trwożyć i głęboko troskać;
-> 34. I powiedział im: „Bardzo jest zasmucona moja dusza aż do śmierci; zostańcie tu i czuwajcie.”
-> 35. I odszedł nieco dalej, padł na ziemię i modlił się, aby, jeśli jest to możliwe, ominęła Go ta godzina;
-> 36. I mówił: „Abba, Drogi Ojcze! Dla Ciebie wszystko jest możliwe, oddal ten kielich ode mnie, jednak nie, co ja chcę, ale co Ty.”
-
-Ewangelia Łukasza 22,42–44
-> 42. Mówiąc: „Ojcze! Jeśli chcesz, oddal ten kielich ode mnie; jednak nie moja wola, lecz Twoja niech się stanie.”
-> 43. Wówczas ukazał Mu się anioł z nieba, wzmacniając Go.
-> 44. A gdy stanął do śmiertelnego boju, jeszcze gorliwiej się modlił, a Jego pot stał się jak krople krwi spadające na ziemię.
-
-Ewangelia Jana 12,27
-> 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
-
 # Bóg chce abyśmy trwali
 Daj nam dzisiaj 
 One day at a time
-
-Efezjan 3,12-18:
-- 12. > W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
-- 13. > Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
-- 14. > Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
-- 15. > Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
-- 16. > Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
-- 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
-- 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić[17] razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 # Kto stoi niech baczy by nie upadł
 Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
