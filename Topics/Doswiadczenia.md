@@ -607,6 +607,7 @@ Pieniądz jako konkurencyjny „bóg” (Mamona)
 Korzeń wszelkiego zła i sidła duchowe
 - 1 List do Tymoteusza 6, 9-10:„A ci, którzy chcą być bogaci, wpadają w pokusę i w sidła [...]. Korzeniem wszelkiego zła jest bowiem miłość pieniędzy; niektórzy, ulegając jej, zboczyli z drogi wiary i przebili się wielu boleściami.”
 
-> **Biblia Toruńska — 1 Tm 6,9-10**
+> **Biblia Toruńska — 1 Tm 6,8-10**
+- 8. >
 > 9. A ci, którzy chcą się wzbogacać, wpadają w pokuszenie i w pułapki, i w liczne bezmyślne i szkodliwe pragnienia, które pogrążają ludzi w ruinę i zagładę;
 > 10. Bo korzeniem wszelkich złych rzeczy jest miłość do pieniędzy, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami.
