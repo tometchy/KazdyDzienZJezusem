@@ -188,8 +188,11 @@ List św. Jakuba 1, 2-4.12:
 Efezjan 3,1-13:
 „Dlatego proszę, abyście się nie zniechęcali prześladowaniami, jakie znoszę dla was, bo to jest właśnie waszą chwałą.”
 
-
-Filipian 1, x-30
+Filipian 1, 27-30
+- 27. > Tylko żyjcie jak wolni obywatele[46] w sposób godny Ewangelii Chrystusa, abym, czy przyjdę i ujrzę was, czy będąc nieobecnym, słyszał o was, że stoicie w jednym duchu, jedną duszą walcząc razem dla wiary Ewangelii,
+- 28. > I w niczym nie dając się zastraszyć przeciwnikom; co dla nich prawdziwie jest dowodem zguby, a dla was zbawienia, i to od Boga;
+- 29. > Gdyż wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli,
+- 30. > Tocząc tę samą walkę, jaką widzieliście we mnie i o jakiej we mnie teraz słyszycie.
 
 ## Zostaliśmy obdarowani nie tylko tym, że możemy w Jezusa wierzyć, ale także tym, że możemy dla Niego cierpieć
 
