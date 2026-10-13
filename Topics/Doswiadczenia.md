@@ -258,8 +258,14 @@ Ewangelia Jana 12,27
 Daj nam dzisiaj 
 One day at a time
 
-Efezjan 3,1-13:
-„Dlatego proszę, abyście się nie zniechęcali prześladowaniami, jakie znoszę dla was, bo to jest właśnie waszą chwałą.
+Efezjan 3,12-18:
+- 12. > W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
+- 13. > Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
+- 14. > Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
+- 15. > Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
+- 16. > Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
+- 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
+- 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić[17] razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 # Kto stoi niech baczy by nie upadł
 Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
