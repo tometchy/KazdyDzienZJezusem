@@ -194,19 +194,16 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
 
-List św. Jakuba 1, 2-4.12:
-„Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość. (...) Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
-
 # Bóg jest wierny i nie daje nam ponad nasze siły
 
 1 List do Koryntian 10,13
 > Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać
 
-# Cierpienia również formą błogosławieństwa, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
+# Cierpienia również formą błogosławieństwa i naszą chlubą, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
 List do Rzymian 5
 - 1. > Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
 - 2. >  Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
-- 3. >  A nie tylko to, ale chlubimy się w uciskach, wiedząc, że ucisk sprawia wytrwałość,
+- 3. >  A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
 - 4. >  A wytrwałość doświadczenie, a doświadczenie nadzieję,
 - 5. >  A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
 
@@ -263,6 +260,14 @@ Filipian 1, 27-30
 > 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
 
 # Bóg chce abyśmy trwali
+
+List św. Jakuba 1
+- 2. > Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
+- 12. > Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
+
+List do Hebrajczyków 12,1
+- 1. > Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
+
 Daj nam dzisiaj 
 One day at a time
 
