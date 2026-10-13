@@ -83,55 +83,11 @@ Księga Psalmów 55:
 - 1. > Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
 - 12. > Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
 
-# Bóg chce, żebyśmy ufali, nie bali się
-
-## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
-
-## Psalm 55 kończy się zdaniem "Ja natomiast zaufam Tobie"
-
-### Jair
-Marka 5,36
-> Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
-
-##3 Paweł
-Dzieje 18,9-10
-- 9. > A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
-- 10. > Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
-- 11. > Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
-
-Dzieje 27,23-25
-- 23. > Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
-- 24. > Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
-- 25. > Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
-
-### Izrael
-Księgi Izajasza (rozdział 41, werset 10)
-> „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
+# Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
 ### Apostołowie
 > **Biblia Toruńska — Mk 4,40**
 > 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
-
-## Pan Jezus
-
-Ewangelia Mateusza 26,37–39
-> 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
-> 38. Wtedy Jezus powiedział im: „Zasmucona jest moja dusza aż do śmierci; zostańcie tu i czuwajcie ze mną.”
-> 39. I odszedł trochę dalej, upadł na swoje oblicze, modląc się i mówiąc: „Ojcze mój, jeśli jest to możliwe, niech ominie mnie ten kielich; jednak nie jak ja chcę, ale jak Ty.”
-
-Ewangelia Marka 14,33–36
-> 33. I wziął ze sobą Piotra i Jakuba, i Jana, i zaczął się trwożyć i głęboko troskać;
-> 34. I powiedział im: „Bardzo jest zasmucona moja dusza aż do śmierci; zostańcie tu i czuwajcie.”
-> 35. I odszedł nieco dalej, padł na ziemię i modlił się, aby, jeśli jest to możliwe, ominęła Go ta godzina;
-> 36. I mówił: „Abba, Drogi Ojcze! Dla Ciebie wszystko jest możliwe, oddal ten kielich ode mnie, jednak nie, co ja chcę, ale co Ty.”
-
-Ewangelia Łukasza 22,42–44
-> 42. Mówiąc: „Ojcze! Jeśli chcesz, oddal ten kielich ode mnie; jednak nie moja wola, lecz Twoja niech się stanie.”
-> 43. Wówczas ukazał Mu się anioł z nieba, wzmacniając Go.
-> 44. A gdy stanął do śmiertelnego boju, jeszcze gorliwiej się modlił, a Jego pot stał się jak krople krwi spadające na ziemię.
-
-Ewangelia Jana 12,27
-> 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
 
 # Bóg w swojej miłości nas wychowuje
 
@@ -231,6 +187,9 @@ List do Rzymian 5
 1-List-Piotra/4/13
 > Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
 
+• 1 Piotra 1, 6-7 
+> „Dlatego radujcie się, choć teraz musicie doznać trochę smutku przez różnorodne doświadczenia. Wizja waszej wiary, o wiele cenniejszej od zniszczalnego złota, które przecież w ogniu się próbuje, okaże się ku chwale, czci i uwielbieniu przy objawieniu Jezusa Chrystusa.”
+
 Ewangelia wg św. Mateusza 5, 10-12 
 :„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
@@ -271,7 +230,54 @@ List do Hebrajczyków 12,1
 Daj nam dzisiaj 
 One day at a time
 
+## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
+
+## Psalm 55 kończy się zdaniem "Ja natomiast zaufam Tobie"
+
+### Jair
+Marka 5,36
+> Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
+
+##3 Paweł
+Dzieje 18,9-10
+- 9. > A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
+- 10. > Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
+- 11. > Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
+
+Dzieje 27,23-25
+- 23. > Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
+- 24. > Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
+- 25. > Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
+
+### Izrael
+Księgi Izajasza (rozdział 41, werset 10)
+> „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
+
+## Pan Jezus
+
+Ewangelia Mateusza 26,37–39
+> 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
+> 38. Wtedy Jezus powiedział im: „Zasmucona jest moja dusza aż do śmierci; zostańcie tu i czuwajcie ze mną.”
+> 39. I odszedł trochę dalej, upadł na swoje oblicze, modląc się i mówiąc: „Ojcze mój, jeśli jest to możliwe, niech ominie mnie ten kielich; jednak nie jak ja chcę, ale jak Ty.”
+
+Ewangelia Marka 14,33–36
+> 33. I wziął ze sobą Piotra i Jakuba, i Jana, i zaczął się trwożyć i głęboko troskać;
+> 34. I powiedział im: „Bardzo jest zasmucona moja dusza aż do śmierci; zostańcie tu i czuwajcie.”
+> 35. I odszedł nieco dalej, padł na ziemię i modlił się, aby, jeśli jest to możliwe, ominęła Go ta godzina;
+> 36. I mówił: „Abba, Drogi Ojcze! Dla Ciebie wszystko jest możliwe, oddal ten kielich ode mnie, jednak nie, co ja chcę, ale co Ty.”
+
+Ewangelia Łukasza 22,42–44
+> 42. Mówiąc: „Ojcze! Jeśli chcesz, oddal ten kielich ode mnie; jednak nie moja wola, lecz Twoja niech się stanie.”
+> 43. Wówczas ukazał Mu się anioł z nieba, wzmacniając Go.
+> 44. A gdy stanął do śmiertelnego boju, jeszcze gorliwiej się modlił, a Jego pot stał się jak krople krwi spadające na ziemię.
+
+Ewangelia Jana 12,27
+> 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
+
 # Kto stoi niech baczy by nie upadł
+Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
+Niektorzy z nas tego doswiadczyli lub doswiadczaja bez wojny.
+
 Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
 
 Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
@@ -280,15 +286,14 @@ Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modli
 Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
 Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
 
-• 1 Piotra 1, 6-7 
-(Wiara wypróbowana w ogniu)„Dlatego radujcie się, choć teraz musicie doznać trochę smutku przez różnorodne doświadczenia. Wizja waszej wiary, o wiele cenniejszej od zniszczalnego złota, które przecież w ogniu się próbuje, okaże się ku chwale, czci i uwielbieniu przy objawieniu Jezusa Chrystusa.”
+## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
+Fragmenty
 
 # KONIEC
 --------------------------------------------------------------------------------------------------------------------
 # KONIEC
 
-Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
-Niektorzy z nas tego doswiadczyli lub doswiadczaja bez wojny.
+
 
 Jakuba 1
 
@@ -321,9 +326,6 @@ Jakuba 1
 > 26. Jeśli ktoś pośród was uważa, że jest pobożny, a nie powściąga swojego języka, lecz oszukuje swoje serce, tego pobożność jest próżna.
 > 27. Czystą i nieskalaną pobożnością przed Bogiem i Ojcem jest to: troszczyć się o sieroty i wdowy w ich ucisku, i strzec siebie samego przed skalaniem przez świat.
 
-Daj nam dzisiaj
-
-Każdego dnia od nowa, jak w piosence one day at a time.
 
 Drugi list do Koryntian 12,7-10
 
@@ -375,9 +377,6 @@ II List do Koryntian 1
 > 23. A ja przywołuję Boga na świadka mojej duszy, że aby was oszczędzać nie przybyłem do Koryntu,
 > 24. Nie żebyśmy panowali nad waszą wiarą, ale jesteśmy współpracownikami dla waszej radości; albowiem wiarą stoicie.
 
-doswiadczenie zloto srebroogien fragment
-
-Z pokuszeniem da i wyjscie
 
 Jana 10,28
 
