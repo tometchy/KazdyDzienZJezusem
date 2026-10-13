@@ -610,17 +610,3 @@ Korzeń wszelkiego zła i sidła duchowe
 > **Biblia Toruńska — 1 Tm 6,9-10**
 > 9. A ci, którzy chcą się wzbogacać, wpadają w pokuszenie i w pułapki, i w liczne bezmyślne i szkodliwe pragnienia, które pogrążają ludzi w ruinę i zagładę;
 > 10. Bo korzeniem wszelkich złych rzeczy jest miłość do pieniędzy, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami.
-- Księga Koheleta 5, 9:„Kto kocha się w pieniądzach, pieniądzem się nie nasyci; a kto się kocha w zasobach, nie ma z nich pożytku.”
-
-> **Biblia Toruńska — Koh 5,9**
-> *Uwaga: w Biblii Toruńskiej podany przez Ciebie adres 5,9 ma inną treść. Cytat „Kto kocha się w pieniądzach...” odpowiada tutaj wersetowi 5,10, dlatego dopisuję również ten werset poniżej.*
-> 9. A pożytek dla ziemi w tym wszystkim jest taki: Król zostaje uczyniony sługą na ziemi.
-
-> **Biblia Toruńska — Koh 5,10**
-> 10. Kto kocha srebro, nie nasyci się srebrem, a kto kocha się w bogactwie, nie będzie miał z niego zysku. To także jest marnością.
-
-
----
-
-W cieniu Twych skrzydeł chcę się schronić aż przeminie nieszczęście
-
