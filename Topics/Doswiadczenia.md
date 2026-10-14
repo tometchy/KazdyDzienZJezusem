@@ -274,6 +274,10 @@ Ewangelia Łukasza 22,42–44
 Ewangelia Jana 12,27
 > 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
 
+# Jeśli jesteś w takim stanie
+## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
+Fragmenty
+
 # Kto stoi niech baczy by nie upadł
 Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
 Niektorzy z nas tego doswiadczyli lub doswiadczaja bez wojny.
@@ -286,8 +290,19 @@ Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modli
 Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
 Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
 
-## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
-Fragmenty
+**1 Tm 4,1-3**
+> 1. A Duch wyraźnie mówi, że w późniejszych czasach odstąpią niektórzy od wiary, zwracając się ku duchom zwodniczym i naukom demonów,
+> 2. W obłudzie mówiący kłamstwo, mając piętnem wypalone własne sumienie,
+> 3. Zabraniający zawierania małżeństw, każąc wstrzymywać się od pokarmów, które stworzył Bóg, aby przyjmowali je z dziękczynieniem wierzący i dogłębnie znający prawdę.
+
+> **1 Tm 6,9-12**
+> 9. A ci, którzy chcą się wzbogacać, wpadają w pokuszenie i w pułapki, i w liczne bezmyślne i szkodliwe pragnienia, które pogrążają ludzi w ruinę i zagładę;
+> 10. Bo korzeniem wszelkich złych rzeczy jest miłość do pieniędzy, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami.
+> 11. Ale ty, Boży człowieku, uciekaj przed tym, a zabiegaj o sprawiedliwość, pobożność, wiarę, miłość, wytrwałość, łagodność.
+> 12. Staczaj dobry bój wiary, chwyć się życia wiecznego, do którego zostałeś powołany i złożyłeś dobre wyznanie wobec wielu świadków.
+
+
+
 
 # KONIEC
 --------------------------------------------------------------------------------------------------------------------
@@ -606,10 +621,3 @@ Pieniądz jako konkurencyjny „bóg” (Mamona)
 > 28. Również to byłaby nieprawość do ukarania przez sędziów, bo zaparłbym się Boga z wysokości.
 Korzeń wszelkiego zła i sidła duchowe
 - 1 List do Tymoteusza 6, 9-10:„A ci, którzy chcą być bogaci, wpadają w pokusę i w sidła [...]. Korzeniem wszelkiego zła jest bowiem miłość pieniędzy; niektórzy, ulegając jej, zboczyli z drogi wiary i przebili się wielu boleściami.”
-
-1 Tm 4,1-
-
-> **Biblia Toruńska — 1 Tm 6,8-10**
-- 8. >
-> 9. A ci, którzy chcą się wzbogacać, wpadają w pokuszenie i w pułapki, i w liczne bezmyślne i szkodliwe pragnienia, które pogrążają ludzi w ruinę i zagładę;
-> 10. Bo korzeniem wszelkich złych rzeczy jest miłość do pieniędzy, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami.
