@@ -51,37 +51,37 @@ Księga Psalmów 55:
 # Pamiętajmy, że Bóg jest świadom naszego cierpienia
 
 **Biblia Toruńska — Mt 10,28-31**
-- > 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
-- > 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
-- > 30. Nawet i włosy na waszej głowie wszystkie są policzone.
-- > 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
+> 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
+> 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
+> 30. Nawet i włosy na waszej głowie wszystkie są policzone.
+> 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
 
 # Bóg jest nie tylko świadom cierpienia, Bóg na nie przyzwala
 
 **Hioba 1, 6-12**
-- > 6. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich.
-- > 7. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
-- > 8. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba? Gdyż nie ma nikogo jak on na ziemi. Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła.
-- > 9. A szatan odpowiedział JHWH, mówiąc: Czy Hiob za darmo boi się Boga?
-- > 10. Czy nie ty ogrodziłeś zewsząd jego, jego dom i wszystko, co wokół niego? Błogosławiłeś dziełu jego rąk, a jego dobytek rozmnożył się na ziemi.
-- > 11. Ale teraz wyciągnij tylko swoją rękę i dotknij tego wszystkiego, co ma, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
-- > 12. **Wtedy JHWH powiedział do szatana: Oto wszystko to, co ma, jest w twojej mocy, tylko na niego nie wyciągaj ręki.** I szatan odszedł sprzed oblicza JHWH.
+> 6. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich.
+> 7. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
+> 8. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba? Gdyż nie ma nikogo jak on na ziemi. Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła.
+> 9. A szatan odpowiedział JHWH, mówiąc: Czy Hiob za darmo boi się Boga?
+> 10. Czy nie ty ogrodziłeś zewsząd jego, jego dom i wszystko, co wokół niego? Błogosławiłeś dziełu jego rąk, a jego dobytek rozmnożył się na ziemi.
+> 11. Ale teraz wyciągnij tylko swoją rękę i dotknij tego wszystkiego, co ma, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
+> 12. **Wtedy JHWH powiedział do szatana: Oto wszystko to, co ma, jest w twojej mocy, tylko na niego nie wyciągaj ręki.** I szatan odszedł sprzed oblicza JHWH.
 
 **Hioba 2, 1-6**
-- > 1. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich, aby stanąć przed JHWH
-- > 2. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
-- > 3. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba – gdyż nie ma nikogo jak on na ziemi? Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła. On nadal trwa w swojej prawości, a ty mnie nakłoniłeś przeciw niemu, aby go pochłonąć jak widać bez powodu.
-- > 4. Szatan odpowiedział JHWH, mówiąc: Skóra za skórę, a wszystko, co człowiek ma, odda za swoje życie;
-- > 5. Lecz wyciągnij tylko swoją rękę i uderz w jego kości i w jego ciało, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
-- > 6. **Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.**
+> 1. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich, aby stanąć przed JHWH
+> 2. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
+> 3. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba – gdyż nie ma nikogo jak on na ziemi? Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła. On nadal trwa w swojej prawości, a ty mnie nakłoniłeś przeciw niemu, aby go pochłonąć jak widać bez powodu.
+> 4. Szatan odpowiedział JHWH, mówiąc: Skóra za skórę, a wszystko, co człowiek ma, odda za swoje życie;
+> 5. Lecz wyciągnij tylko swoją rękę i uderz w jego kości i w jego ciało, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
+> 6. **Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.**
 
 ## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpienia
 
 ## Czy nas to dziwi?
 
 1 List Piotra 4
-- 1. > Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
-- 12. > Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
+> 1.  Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
+> 12.  Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
 
 # Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
@@ -92,22 +92,22 @@ Księga Psalmów 55:
 # Bóg w swojej miłości nas wychowuje
 
 List do Hebrajczyków 12,1-16
-- 1. > Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
-- 2. > Patrząc uważnie na Jezusa, który jest początkiem i końcem naszej wiary, który w miejsce leżącej przed Nim radości wycierpiał krzyż, znosząc jego hańbę, i zasiadł po prawicy tronu Boga.
-- 3. > Rozważcie bowiem, jakim jest Ten, który wycierpiał od grzeszników przeciwko sobie tak wielki sprzeciw, abyście zmęczeni, nie osłabli na duszy.
-- 4. > Wy nie opieraliście się jeszcze aż do krwi, walcząc przeciwko grzechowi,
-- 5. > I całkowicie zapomnieliście o zachęcie, którą zwraca się do was jak do synów: Synu mój, nie lekceważ karcenia PANA, i nie bądź osłabiony, gdy PAN ciebie napomina;
-- 6. > Kogo bowiem PAN miłuje, tego karci, natomiast chłoszcze każdego syna, którego przyjmuje.
-- 7. > Jeżeli znosicie karcenie, to Bóg ofiarowuje się wam jako synom; jakim bowiem jest syn, którego ojciec nie wychowuje?
-- 8. > A jeśli jesteście bez karcenia, które jest udziałem wszystkich, to jesteście dziećmi z nieprawego łoża, a nie synami.
-- 9. > Ponadto, mieliśmy naszych ojców według ciała, którzy nas karcili, i szanowaliśmy ich. Czyż nie mamy być daleko bardziej poddani Ojcu duchów, by żyć?
-- 10. > Tamci bowiem wychowywali nas przez krótki czas według swojego uznania; Ten natomiast, dla naszej korzyści, abyśmy byli uczestnikami Jego świętości.
-- 11. > Wprawdzie wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są przez nie wyćwiczeni.
-- 12. > Dlatego wyprostujcie opuszczone ręce i wyczerpane kolana,
-- 13. > I czyńcie proste ścieżki waszymi nogami, aby to, co chrome nie zboczyło, ale raczej zostało uzdrowione.
-- 14. > Zabiegajcie o pokój ze wszystkimi i o uświęcenie, bez którego nikt nie zobaczy Pana.
-- 15. > Przyglądajcie się uważnie, aby ktoś nie pozostał z dala od łaski Bożej, aby jakiś korzeń gorzkości rosnący w górę nie wywołał niepokoju, i żeby przez to nie pokalało się wielu,
-- 16. > Aby ktoś nie był rozpustny i bezbożny jak Ezaw, który za jedną potrawę oddał swoje pierworództwo.
+> 1.  Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
+> 2.  Patrząc uważnie na Jezusa, który jest początkiem i końcem naszej wiary, który w miejsce leżącej przed Nim radości wycierpiał krzyż, znosząc jego hańbę, i zasiadł po prawicy tronu Boga.
+> 3.  Rozważcie bowiem, jakim jest Ten, który wycierpiał od grzeszników przeciwko sobie tak wielki sprzeciw, abyście zmęczeni, nie osłabli na duszy.
+> 4.  Wy nie opieraliście się jeszcze aż do krwi, walcząc przeciwko grzechowi,
+> 5.  I całkowicie zapomnieliście o zachęcie, którą zwraca się do was jak do synów: Synu mój, nie lekceważ karcenia PANA, i nie bądź osłabiony, gdy PAN ciebie napomina;
+> 6.  Kogo bowiem PAN miłuje, tego karci, natomiast chłoszcze każdego syna, którego przyjmuje.
+> 7.  Jeżeli znosicie karcenie, to Bóg ofiarowuje się wam jako synom; jakim bowiem jest syn, którego ojciec nie wychowuje?
+> 8.  A jeśli jesteście bez karcenia, które jest udziałem wszystkich, to jesteście dziećmi z nieprawego łoża, a nie synami.
+> 9.  Ponadto, mieliśmy naszych ojców według ciała, którzy nas karcili, i szanowaliśmy ich. Czyż nie mamy być daleko bardziej poddani Ojcu duchów, by żyć?
+> 10.  Tamci bowiem wychowywali nas przez krótki czas według swojego uznania; Ten natomiast, dla naszej korzyści, abyśmy byli uczestnikami Jego świętości.
+> 11.  Wprawdzie wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są przez nie wyćwiczeni.
+> 12.  Dlatego wyprostujcie opuszczone ręce i wyczerpane kolana,
+> 13.  I czyńcie proste ścieżki waszymi nogami, aby to, co chrome nie zboczyło, ale raczej zostało uzdrowione.
+> 14.  Zabiegajcie o pokój ze wszystkimi i o uświęcenie, bez którego nikt nie zobaczy Pana.
+> 15.  Przyglądajcie się uważnie, aby ktoś nie pozostał z dala od łaski Bożej, aby jakiś korzeń gorzkości rosnący w górę nie wywołał niepokoju, i żeby przez to nie pokalało się wielu,
+> 16.  Aby ktoś nie był rozpustny i bezbożny jak Ezaw, który za jedną potrawę oddał swoje pierworództwo.
 
 ### Pan robi to dla naszej korzyści, abyśmy byli uczestnikami Jego świętości
 
@@ -157,11 +157,11 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 
 # Cierpienia również formą błogosławieństwa i naszą chlubą, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
 List do Rzymian 5
-- 1. > Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
-- 2. >  Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
-- 3. >  A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
-- 4. >  A wytrwałość doświadczenie, a doświadczenie nadzieję,
-- 5. >  A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
+> 1.  Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
+> 2.   Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
+> 3.   A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
+> 4.   A wytrwałość doświadczenie, a doświadczenie nadzieję,
+> 5.   A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
 
 1 List św. Piotra 4, 13-14.16:„Cieszcie się, im bardziej jesteście uczestnikami cierpień Chrystusowych, abyście i w objawieniu się Jego chwały cieszyli się i radowali. Błogosławieni [jesteście], jeśli złorzeczą wam z powodu imienia Chrystusa, ponieważ Duch chwały, Boży Duch na was spoczywa. (...) Jeżeli zaś cierpi jako chrześcijanin, niech się nie wstydzi, ale niech wychwala Boga w tym imieniu!”
 
@@ -194,19 +194,19 @@ Ewangelia wg św. Mateusza 5, 10-12
 :„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
 Efezjan 3,12-18:
-- 12. > W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
-- 13. > Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
-- 14. > Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
-- 15. > Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
-- 16. > Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
+> 12.  W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
+> 13.  Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
+> 14.  Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
+> 15.  Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
+> 16.  Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
 - 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
 - 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 Filipian 1, 27-30
 - 27. > Tylko żyjcie jak wolni obywatele w sposób godny Ewangelii Chrystusa, abym, czy przyjdę i ujrzę was, czy będąc nieobecnym, słyszał o was, że stoicie w jednym duchu, jedną duszą walcząc razem dla wiary Ewangelii,
-- 28. > I w niczym nie dając się zastraszyć przeciwnikom; co dla nich prawdziwie jest dowodem zguby, a dla was zbawienia, i to od Boga;
-- 29. > Gdyż wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli,
-- 30. > Tocząc tę samą walkę, jaką widzieliście we mnie i o jakiej we mnie teraz słyszycie.
+> 28.  I w niczym nie dając się zastraszyć przeciwnikom; co dla nich prawdziwie jest dowodem zguby, a dla was zbawienia, i to od Boga;
+> 29.  Gdyż wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli,
+> 30.  Tocząc tę samą walkę, jaką widzieliście we mnie i o jakiej we mnie teraz słyszycie.
 
 ## Zostaliśmy obdarowani nie tylko tym, że możemy w Jezusa wierzyć, ale także tym, że możemy dla Niego cierpieć
 
@@ -221,11 +221,11 @@ Filipian 1, 27-30
 # Bóg chce abyśmy trwali
 
 List św. Jakuba 1
-- 2. > Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
-- 12. > Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
+> 2.  Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
+> 12.  Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
 
 List do Hebrajczyków 12,1
-- 1. > Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
+> 1.  Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
 
 Daj nam dzisiaj 
 One day at a time
@@ -240,9 +240,9 @@ Marka 5,36
 
 ##3 Paweł
 Dzieje 18,9-10
-- 9. > A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
-- 10. > Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
-- 11. > Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
+> 9.  A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
+> 10.  Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
+> 11.  Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
 
 Dzieje 27,23-25
 - 23. > Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
