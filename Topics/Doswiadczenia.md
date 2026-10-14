@@ -591,12 +591,6 @@ Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowany
 > 14. Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa.
 ZACZYNAC JEDNAK OD 9,24
 
-> **Biblia Toruńska — 1 Kor 9,24-27**
-> 24. Czy nie wiecie, że biegnący na stadionie, wszyscy wprawdzie biegną, lecz jeden zdobywa nagrodę? Tak biegnijcie, abyście ją otrzymali.
-> 25. A każdy, który walczy od wszystkiego się powstrzymuje, oni wprawdzie, aby otrzymać wieniec zniszczalny, my natomiast niezniszczalny.
-> 26. Ja więc tak biegnę, nie jak w niepewne; uderzam pięściami nie jak ten, kto uderza w powietrze;
-> 27. Ale biję do sińców moje ciało i biorę je w niewolę, bym innym głosząc, sam czasem nie został zdyskwalifikowany.
-Po 1 Kor 10,1-14:
 
 - List do Kolosan 3, 5:„Zadajcie więc śmierć temu, co przyziemne w członkach: rozpuście, nieczystości, lubieżności, złej żądzy i chciwości, która jest bałwochwalstwem.”
 
@@ -604,20 +598,7 @@ Po 1 Kor 10,1-14:
 > 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i chciwość, która jest bałwochwalstwem,
 - List do Efezjan 5, 5:„O tym bowiem bądźcie przekonani, że żaden rozpustnik ani nieczysty, ani chciwiec – to jest bałwochwalca – nie ma dziedzictwa w królestwie Chrystusa i Boga.”
 
-> **Biblia Toruńska — Ef 5,5**
-> 5. To bowiem wiedzcie, że żaden rozpustnik albo nieczysty, albo chciwiec, to jest bałwochwalca, nie ma dziedzictwa w Królestwie Chrystusa i Boga.
-Pieniądz jako konkurencyjny „bóg” (Mamona)
-- Ewangelia wg św. Mateusza 6, 24:„Nikt nie może dwom panom służyć. Bo albo jednego będzie nienawidził, a drugiego będzie miłował; albo z jednym będzie trzymał, a drugim wzgardzi. Nie możecie służyć Bogu i Mamonie!”
-
 > **Biblia Toruńska — Mt 6,24**
 > 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
-- Księga Hioba 31, 24-28: Hiob tłumaczy, że pokładanie nadziei w złocie jest zaparciem się Boga:„Czy w złocie pokładałem ufność i rzekłem szczeremu złotu: «Moje bezpieczeństwo»? [...] I to byłoby zbrodnią przed sędzią, bo zaparłbym się Boga na wysokościach.”
 
-> **Biblia Toruńska — Hi 31,24-28**
-> 24. Jeśli złoto uczyniłem swoją nadzieją, a do czystego złota mówiłem: O, ty moje bezpieczeństwo!
-> 25. Jeśli radowałem się, że wielkie było moje bogactwo i że wiele osiągnęła moja ręka.
-> 26. Jeśli patrzyłem na światło, gdy świeciło i na księżyc, gdy sunął wspaniale;
-> 27. A moje serce dało się uwieść potajemnie i całowałem ustami moją rękę, przesyłając im pocałunki;
-> 28. Również to byłaby nieprawość do ukarania przez sędziów, bo zaparłbym się Boga z wysokości.
-Korzeń wszelkiego zła i sidła duchowe
-- 1 List do Tymoteusza 6, 9-10:„A ci, którzy chcą być bogaci, wpadają w pokusę i w sidła [...]. Korzeniem wszelkiego zła jest bowiem miłość pieniędzy; niektórzy, ulegając jej, zboczyli z drogi wiary i przebili się wielu boleściami.”
+
