@@ -574,7 +574,11 @@ Ale możemy od Boga otrzymywać Boży Pokój i przeprowadzenie przez próbę.
 ---
 Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowanym przeze mnie wersetem 13 dotąd nie przyszło na Was pokuszenie, które by przekraczało...
 
-> **Biblia Toruńska — 1 Kor 10,1-14**
+> **Biblia Toruńska — 1 Kor 9,24-27;10,1-14**
+> 24 Czy nie wiecie, że biegnący na stadionie, wszyscy wprawdzie biegną, lecz jeden zdobywa nagrodę? Tak biegnijcie, abyście ją otrzymali.
+> 25 A każdy, który walczy od wszystkiego się powstrzymuje, oni wprawdzie, aby otrzymać wieniec zniszczalny, my natomiast niezniszczalny.
+> 26 Ja więc tak biegnę, nie jak w niepewne; uderzam pięściami nie jak ten, kto uderza w powietrze;
+> 27 Ale biję do sińców moje ciało i biorę je w niewolę, bym innym głosząc, sam czasem nie został zdyskwalifikowany.
 > 1. Nie chcę natomiast, bracia, abyście nie wiedzieli, że nasi ojcowie wszyscy byli pod obłokiem i wszyscy przeszli przez morze,
 > 2. I wszyscy w Mojżesza zanurzyli się w obłoku i w morzu,
 > 3. I wszyscy zjedli ten sam duchowy pokarm,
@@ -589,10 +593,9 @@ Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowany
 > 12. A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł.
 > 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
 > 14. Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa.
-ZACZYNAC JEDNAK OD 9,24
 
-
-- List do Kolosan 3, 5:„Zadajcie więc śmierć temu, co przyziemne w członkach: rozpuście, nieczystości, lubieżności, złej żądzy i chciwości, która jest bałwochwalstwem.”
+**List do Kolosan 3,5**
+> „Zadajcie więc śmierć temu, co przyziemne w członkach: rozpuście, nieczystości, lubieżności, złej żądzy i chciwości, która jest bałwochwalstwem.”
 
 > **Biblia Toruńska — Kol 3,5**
 > 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i chciwość, która jest bałwochwalstwem,
