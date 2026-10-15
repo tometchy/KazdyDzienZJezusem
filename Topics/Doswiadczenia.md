@@ -604,4 +604,27 @@ Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowany
 > **Biblia Toruńska — Mt 6,24**
 > 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
 
+---
+## Szczere serce
+Pismo Święte wielokrotnie podkreśla, że Bóg nie patrzy na zewnętrzne pozory, ale na wnętrze człowieka. Kluczowe fragmenty Biblii o wołaniu i szukaniu Boga szczerym sercem pokazują, że autentyczna, płynąca z głębi serca modlitwa zawsze zostaje wysłuchana.
+Oto najważniejsze wersety podzielone na kategorie tematyczne:
+
+Obietnica wysłuchania szczerego wołania
+
+• Psalm 145,18: „Pan jest blisko wszystkich, którzy Go wzywają, wszystkich, którzy Go wzywają ze szczerością”.
+• Księga Jeremiasza 29,13: „Będziecie Mnie szukać i znajdziecie Mnie, gdy dowiecie się o Mnie całym swoim sercem”.
+• Księga Joela 2,12-13: „Nawróćcie się do Mnie całym swym sercem, przez post i płacz, i lament. Rozdzierajcie jednak serca wasze, a nie szaty! Turncie się do Pana, Boga waszego, bo On jest łaskawy i miłosierny”. [1] (/goto?url=CAESYgHrOzAVM1z_vhaMr1ji-6d53yRop3i8q2PxYS7gwAsNlNkmUj6K2tBhgNb08VjNP2zk_8_UfUJHwhmINOIlDIs3QeU15X9mOis0l7g9TODoNbWo4HANeFlKwXBz67QrJ1r_), [2] (/goto?url=CAESWAHrOzAVrkiOSKgfxfR7aCNi_CRv4sRJis0orDXtoZ4VeEBJ_ZgFV5tLgMGqNPn1yK-_M1uV5QzH2pOyct8_pijb9xzptSwbxAw_S4jMGZzxHPlXA08PaQs), [3] (/goto?url=CAES1gEB6zswFdOWfclV_Af_B3bS1jea4A1tZfhV51PTJcZyADsLduzmmHn5uPdDi6MxfU0afxngtBIP_932xn6nAKjQ09DhnBIKQ5XIk7h8IU59shMYfym7zmA5dlGtNTFcc3SffhoZ63xGnyDQAdVICmbIOnHm1QY5ri5dQSaDsIwt4Ua55nFsMXwdgIVizcbIx3OaZVu-3elJZjV2OHficDsaJpSahwsRHW62suNlWYF_PfLudBI9jmj7qCvojqO_BxiUMYxndzRsBPCKvyxBvYU68aeUjmcR)
+
+Wołanie z głębi ludzkiego wnętrza (skrucha i kryzys)
+
+• Psalm 130,1-2 (De profundis): „Z głębokości wołam do Ciebie, Panie, o Panie, słuchaj głosu mego! Nakłoń swoich uszu ku głośnemu błaganiu mojemu!”
+• Psalm 119,145: „Wołam z całego serca: wysłuchaj mnie, Panie, chcę zachować Twoje ustawy”.
+• Psalm 34,19: „Pan jest blisko ludzi skruszonych w sercu i wybawia złamanych na duchu”. [1] (/goto?url=CAESaQHrOzAVi_XfUZDlYSgodltpSxXdJ1Ooae7eu0cA2KWo2KjxexdRc6tDaO5e9ivZAAqSMCEGeGC9OWzWynr70GjD5T0JYC5SWxtj-FALQhZrCroCMbT_c_iDkrYuYXuxJmsu46XOgA51Dg), [2] (/goto?url=CAESWAHrOzAVM4KD0exJIFfEIggJ2yhTx7xb7PNj4MgjQt6CszJPgJFU84iernYuf2d_6sFQ41F1eY_HrGl02dy72klFmcBS2PPmjXD8VplU684IQNwXBa5V7cU)
+
+Przystępowanie do Boga z czystym i szczerym sercem
+
+• List do Hebrajczyków 10,22: „Przystępujmy ze szczerym sercem, z pełną ufnością wiary, mając serca oczyszczone od złego sumienia i ciało obmyte czystą wodą”.
+• Psalm 51,12: „Serce czyste stwórz we mnie, o Boże, i odnów we mnie mocnego ducha!” [1] (/goto?url=CAESYAHrOzAVH2ZHdntxHMu5AKC6zbMvm_3CrwBgnkzqqMSGP-dDUT5Kp2Aua-h1v6cRLJlSm5N1zCPOd4NXcaz2uZBlejIFh-Vu3H4hglFWg71E7TF3jdWom8FetxKPu_LmPQ), [2] (/goto?url=CAESgAEB6zswFW5vOc4I2vCLSdCavqF0aNklCncKivwmCPcBsgyU6CHQXvogvZCK_mfdG4B9qGVF-X7VRQGkegKwL6DvNa-EDXtcJg1mzPRUIiq_iXRB5v3drPMqOxb8rSZoMhhAVUu1G6o3NMzxfOwscx6kd__1KwNk1y5ZCybtGXBSzQ)
+Jeśli przygotowujesz rozważania, kazanie lub osobistą modlitwę, daj mi znać, a chętnie pomogę Ci rozwinąć kontekst teologiczny tych fragmentów lub dobrać kolejne wersety o podobnej dynamice.
+
 
