@@ -160,8 +160,8 @@ Efezjan 3,12-18:
 > 14.  Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
 > 15.  Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
 > 16.  Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
-- 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
-- 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
+> 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
+> 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 # Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
