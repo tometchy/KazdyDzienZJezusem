@@ -88,6 +88,8 @@ Księga Psalmów 55:
 > 1.  Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
 > 12.  Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
 
+## Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa 1 Tes 1
+
 # Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
 ### Apostołowie
