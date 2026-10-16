@@ -17,7 +17,7 @@ Gdy pokój niebieski Bóg w duszę mi wlał... choć burzy zagraża mi szał.
 - odwiedzał więzienia, szpitale
 - Miał żonę i cztery córki
 - Spaffordowie przyjaźnili się z Dwightem L. Moodym – jednym z najsłynniejszych ewangelizatorów XIX wieku w USA
-- Żyli w dostatku, mieli dosyć luksusowy dom, a pozatym Horatio inwestował w różne instrumenty finansowe, ale przede wszystkim w nieruchomości w Chicago
+- Żyli w dostatku, mieli wypasiony dom, a pozatym Horatio inwestował w różne instrumenty finansowe, ale przede wszystkim w nieruchomości w Chicago
 
 ## 8 października 1871 roku sielanka się skończyła
 
@@ -51,7 +51,7 @@ Księga Psalmów 55:
 1 List do Koryntian 10,13
 > Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać
 
-## Czy Bóg nie widzi, gdy cierpimy?
+## Czy Bóg nie widzi, gdy cierpimy? Czy Bóg nie dotrzymuje swoich opbietnic?
 
 # Pamiętajmy, że Bóg jest świadom naszego cierpienia
 
@@ -84,11 +84,84 @@ Księga Psalmów 55:
 
 ## Czy nas to dziwi?
 
-1 List Piotra 4
-> 1.  Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
-> 12.  Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
+**1 List Piotra 4**
+> 12. Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
 
-## Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa 1 Tes 1
+# Czy Bóg obiecał nam życie bez cierpienia? Czy może wręcz przeciwnie, wielokrotnie zapewniał nas, że będą one naszym udziałem?
+**1 List Piotra 4**
+> 1.  Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
+> 2. Aby już więcej, nie w ludzkich pożądliwościach, ale w woli Boga, pozostały czas żyć w ciele.
+
+2 List do Tymoteusza 3
+> 10. Ale ty poszedłeś za moją nauką, za sposobem życia, za postanowieniami, wiarą, cierpliwością, miłością, wytrwałością,
+> 11. Prześladowaniami, cierpieniami, które mnie spotkały w Antiochii, w Ikonium i w Listrze, które to prześladowania zniosłem; a ze wszystkich wyrwał mnie Pan.
+> 12. Tak, też wszyscy, którzy chcą żyć pobożnie w Chrystusie Jezusie, będą prześladowani.
+> 13. Lecz ludzie źli i oszuści będą posuwać się do coraz gorszego, wprowadzając innych w błędy i sami dając się w błędy wprowadzać.
+> 14. Ale ty trwaj w tym, czego się nauczyłeś i o czym zostałeś przekonany, wiedząc od kogo się tego nauczyłeś,
+
+**Filipian 1, 27-30**
+> 27. Tylko żyjcie jak wolni obywatele w sposób godny Ewangelii Chrystusa, abym, czy przyjdę i ujrzę was, czy będąc nieobecnym, słyszał o was, że stoicie w jednym duchu, jedną duszą walcząc razem dla wiary Ewangelii,
+> 28. I w niczym nie dając się zastraszyć przeciwnikom; co dla nich prawdziwie jest dowodem zguby, a dla was zbawienia, i to od Boga;
+> 29. Gdyż wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli,
+> 30. Tocząc tę samą walkę, jaką widzieliście we mnie i o jakiej we mnie teraz słyszycie.
+
+## Zostaliśmy obdarowani nie tylko tym, że możemy w Jezusa wierzyć, ale także tym, że możemy dla Niego cierpieć
+
+# Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa
+
+**1 Piotra 2,19-25**
+> 19. To bowiem jest łaska, jeśli ktoś z powodu sumienia, dla Boga znosi utrapienie, cierpiąc niesprawiedliwie.
+> 20. Bo co to za chwała, jeśli grzesząc znosicie, gdy was policzkują? Ale jeśli znosicie to, cierpiąc za dobre czyny, to jest łaska u Boga.
+> 21. Do tego bowiem zostaliście wezwani, ponieważ i Chrystus cierpiał za nas, zostawiając nam przykład, abyśmy poszli Jego śladami.
+> 22. On grzechu nie popełnił i nie znaleziono zdrady w Jego ustach,
+> 23. On, gdy Mu złorzeczono, nie odwzajemniał się złorzeczeniem, gdy cierpiał nie groził, ale powierzał się Temu, który sprawiedliwie sądzi,
+> 24. On grzechy nasze sam na ciele swoim poniósł na drzewo, abyśmy jako umarli grzechom, żyli dla sprawiedliwości. Jego sińce uleczyły was.
+> 25. Byliście bowiem jak błąkające się owce; ale teraz zostaliście zawróceni do pasterza i stróża dusz waszych.
+
+**I List Piotra 4**
+> 1. Skoro więc Chrystus cierpiał za nas w ciele, to i wy uzbrójcie się tą myślą; bo ten, kto cierpiał w ciele, zaprzestał grzechu,
+> 2. Aby już więcej, nie w ludzkich pożądliwościach, ale w woli Boga, pozostały czas żyć w ciele.
+
+# Cierpienia również formą naszego błogosławieństwa i naszą chlubą, gdy cierpimy dla sprawiedliwości
+
+**List do Rzymian 5**
+> 1.  Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
+> 2.   Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
+> 3.   A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
+> 4.   A wytrwałość doświadczenie, a doświadczenie nadzieję,
+> 5.   A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
+
+**List Piotra 4**
+> 12. Umiłowani! Nie dziwcie się próbie ognia, która was doświadcza, jakby was spotykało coś niezwykłego;
+> 13. Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
+> 14. Jeśli was znieważają dla imienia Chrystusa, jesteście błogosławieni, gdyż Duch chwały i Duch Boga spoczywa na was; wprawdzie przez nich jest spotwarzany, ale przez was doznaje chwały.
+
+## według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się 
+
+**Dzieje Apostolskie 5,17-42**
+> 40. a gdy zawołali apostołów, wychłostali ich, zakazując im przemawiać w imieniu Jezusa; i wypuścili ich.
+> 41. Ci więc odeszli sprzed oblicza Sanhedrynu, radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia.
+> 42. I nie przestawali każdego dnia w świątyni i w domach nauczać, i głosić dobrą nowinę Jezusa Chrystusa.
+
+## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
+
+**1 List Piotra 4,13**
+> Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
+
+**1 Piotra 1,6-7**
+> „Dlatego radujcie się, choć teraz musicie doznać trochę smutku przez różnorodne doświadczenia. Wizja waszej wiary, o wiele cenniejszej od zniszczalnego złota, które przecież w ogniu się próbuje, okaże się ku chwale, czci i uwielbieniu przy objawieniu Jezusa Chrystusa.”
+
+Ewangelia wg św. Mateusza 5, 10-12 
+:„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
+
+Efezjan 3,12-18:
+> 12.  W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
+> 13.  Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
+> 14.  Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
+> 15.  Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
+> 16.  Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
+- 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
+- 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 # Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
@@ -128,14 +201,16 @@ I chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał
 ## Wierzę, że w przypadku Pana nauka posłuszeństwa ma zupełnie inny wymiar niż w naszym przypadku, ale mamy w Słowie zapisaną to dla nas
 
 ## Pan chce, abyśmy zaprzestawali grzechu! 
-1 List Piotra
-- > 1. Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą; **bo ten, kto cierpiał w ciele, zaprzestał[3] grzechu, 2Aby już więcej, nie w ludzkich pożądliwościach[4], ale w woli Boga, pozostały czas żyć w ciele**. 3Wystarczy już bowiem, że w minionym czasie naszego życia czyniliśmy wolę pogan, żyjąc[5] w rozwiązłościach, pożądliwościach, pijaństwie[6], hulankach, pijatykach i niegodziwych bałwochwalstwach.
+**1 List Piotra 4**
+> 1. Skoro więc Chrystus cierpiał za nas w ciele, to i wy uzbrójcie się tą myślą; **bo ten, kto cierpiał w ciele, zaprzestał[3] grzechu**,
+> 2. Aby już więcej, nie w ludzkich pożądliwościach, ale w woli Boga, pozostały czas żyć w ciele.
+> 3. Wystarczy już bowiem, że w minionym czasie naszego życia czyniliśmy wolę pogan, żyjąc w rozwiązłościach, pożądliwościach, pijaństwie, hulankach, pijatykach i niegodziwych bałwochwalstwach.
 
 # Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 
 Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był łatwy w obyciu. Karol zna mnie od niedawna, ale gdyby znał mnie wcześniej, to jestem pewny, że i o mnie by to samo mówił.
 
-> **Biblia Toruńska — 1 Tes 2**
+> **1 Tes 2**
 > 1. Albowiem sami wiecie, bracia, że przyjście nasze do was nie było daremne;
 > 2. Ale chociaż i przedtem, jak wiecie, **cierpieliśmy i doznaliśmy zniewag w Filippi**, jednak śmiało w Bogu naszym powiedzieliśmy u was Ewangelię Bożą w wielkim boju.
 > 3. Albowiem wezwanie nasze nie wypływa z błędu ani z nieczystości, ani nie kryje w sobie podstępu,
@@ -156,64 +231,6 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 18. Dlatego chcieliśmy, zwłaszcza ja, Paweł, przyjść do was i raz i drugi; ale przeszkodził nam szatan.
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
-
-1 List Piotra 4
-Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22]; 13Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, **radujcie się**, byście i podczas objawienia Jego chwały rozradowali się weseląc. 14Jeśli was znieważają dla[23] imienia Chrystusa, jesteście błogosławieni[24], gdyż Duch chwały i Duch Boga spoczywa na was; wprawdzie przez nich jest spotwarzany[25], ale przez was doznaje chwały. 15Niech nikt z was nie cierpi jako zabójca, albo złodziej, albo złoczyńca, albo wtrącający się w cudze sprawy[26]. 16Jeśli natomiast ktoś cierpi jako chrześcijanin, niech nie będzie zawstydzany, ale niech w tej mierze[27] oddaje chwałę Bogu. 17Gdyż jest czas, aby rozpoczął się sąd od domu Bożego; jeżeli więc zaczyna się od nas, jaki będzie koniec tych, którzy nie okazują posłuszeństwa[28] ewangelii Bożej? 18A jeśli sprawiedliwy z trudem jest zbawiany[29], bezbożny i grzeszny gdzie się ukaże[30]? 19Tak więc i ci, którzy cierpią według woli Bożej, niech Jemu, jako wiernemu Stwórcy, powierzają[31] swoje dusze[32] w czynieniu dobra.
-
-# Cierpienia również formą błogosławieństwa i naszą chlubą, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
-List do Rzymian 5
-> 1.  Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
-> 2.   Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
-> 3.   A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
-> 4.   A wytrwałość doświadczenie, a doświadczenie nadzieję,
-> 5.   A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
-
-1 List św. Piotra 4, 13-14.16:„Cieszcie się, im bardziej jesteście uczestnikami cierpień Chrystusowych, abyście i w objawieniu się Jego chwały cieszyli się i radowali. Błogosławieni [jesteście], jeśli złorzeczą wam z powodu imienia Chrystusa, ponieważ Duch chwały, Boży Duch na was spoczywa. (...) Jeżeli zaś cierpi jako chrześcijanin, niech się nie wstydzi, ale niech wychwala Boga w tym imieniu!”
-
-**Dzieje Apostolskie 5,17-42**
-- > 17. Wówczas powstał arcykapłan i razem z nim ci wszyscy, którzy byli ze stronnictwa saduceuszów, i napełnieni zazdrością,
-- > 18. Pochwycili w swe ręce apostołów, i umieścili ich w publicznym więzieniu.
-- > 19. Lecz anioł PANA w nocy otworzył drzwi więzienia, wyprowadził ich i powiedział:
-- > 20. Idźcie, stańcie i głoście ludowi w świątyni wszystkie słowa tego życia.
-- > 21. Posłuchali więc tego, weszli o świcie do świątyni i nauczali. A gdy przyszedł arcykapłan i ci, którzy razem z nim byli, zwołali Sanhedryn i całą starszyznę synów Izraela, posyłając do więzienia, aby ich przyprowadzono.
-- > 22. Podwładni jednak gdy tam przybyli, nie znaleźli ich w więzieniu, zawrócili więc, i oznajmili o tym, mówiąc:
-- > 23. Więzienie wprawdzie znaleźliśmy zamknięte z całą starannością i strażników na zewnątrz stojących przed bramą, lecz gdy je otworzyliśmy, nikogo wewnątrz nie znaleźliśmy.
-- > 24. Gdy więc usłyszeli te słowa, arcykapłan i dowódca straży świątynnej oraz arcykapłani, byli w niepewności co do nich, bo nie rozumieli, co tam się stało.
-- > 25. I gdy przyszedł ktoś, oznajmił im, mówiąc: Oto mężowie, których umieściliście w więzieniu, są w świątyni, stojąc i nauczając lud.
-- > 26. Wtedy poszedł dowódca straży z podwładnymi i przyprowadził ich bez użycia siły, bali się bowiem ludu, aby nie zostali ukamienowani.
-- > 27. A gdy ich przyprowadzili, postawili przed Sanhedrynem; i arcykapłan wypytywał ich,
-- > ...
-- > 40. a gdy zawołali apostołów, wychłostali ich, zakazując im przemawiać w imieniu Jezusa; i wypuścili ich.
-- > 41. Ci więc odeszli sprzed oblicza Sanhedrynu, radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia.
-- > 42. I nie przestawali każdego dnia w świątyni i w domach nauczać, i głosić dobrą nowinę Jezusa Chrystusa.
-
-## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
-
-1-List-Piotra/4/13
-> Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
-
-• 1 Piotra 1, 6-7 
-> „Dlatego radujcie się, choć teraz musicie doznać trochę smutku przez różnorodne doświadczenia. Wizja waszej wiary, o wiele cenniejszej od zniszczalnego złota, które przecież w ogniu się próbuje, okaże się ku chwale, czci i uwielbieniu przy objawieniu Jezusa Chrystusa.”
-
-Ewangelia wg św. Mateusza 5, 10-12 
-:„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
-
-Efezjan 3,12-18:
-> 12.  W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
-> 13.  Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
-> 14.  Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
-> 15.  Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
-> 16.  Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
-- 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
-- 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
-
-Filipian 1, 27-30
-- 27. > Tylko żyjcie jak wolni obywatele w sposób godny Ewangelii Chrystusa, abym, czy przyjdę i ujrzę was, czy będąc nieobecnym, słyszał o was, że stoicie w jednym duchu, jedną duszą walcząc razem dla wiary Ewangelii,
-> 28.  I w niczym nie dając się zastraszyć przeciwnikom; co dla nich prawdziwie jest dowodem zguby, a dla was zbawienia, i to od Boga;
-> 29.  Gdyż wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli,
-> 30.  Tocząc tę samą walkę, jaką widzieliście we mnie i o jakiej we mnie teraz słyszycie.
-
-## Zostaliśmy obdarowani nie tylko tym, że możemy w Jezusa wierzyć, ale także tym, że możemy dla Niego cierpieć
 
 # Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na cielesnym powodzeniu
 
@@ -381,44 +398,60 @@ Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas racze
 
 Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak powiedział do Pawła nie lękaj się. Wiemy ze Słowa Bożego o trwodze Pana, o lęku Pawła, myślę, że Bóg nie oczekuje od nas abyśmy byli maszynami. Ale oczekuje od nas serca szczerego tutaj jakiś krótki fragment(y) (jak dobry jest Bóg dla słabych dla tych co są czystego serca), wyznania Bogu prawdy, że teraz mamy takie serce, teraz mamy trwogę lub strach, że to po ludzku nas przytłacza, prośmy Boga o Łaskę, o Miłosierdzie, wiemy, że Bóg wysłuchuje modlitw.
 
-A wierzę, że Bóg i taką modlitwę wysłucha i w swój, zrozumialy tylko dla siebie sposób nas przeprowadzi. Amen.
+> Jana 15,26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
+> Jana 15,27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
+> Jana 16,1. To wam powiedziałem, abyście nie zostali złamani.
+> Jana 16,2. Wyłączać was będą z synagog; a nawet nadchodzi godzina, że każdy, kto was zabije, będzie uważał, że pełni służbę Bogu.
+> Jana 16,3. A to wam uczynią, gdyż nie poznali Ojca, ani mnie.
+> Jana 16,4. Lecz to wam powiedziałem, abyście, gdy przyjdzie ta godzina, przypomnieli sobie, że to ja wam powiedziałem; a nie mówiłem wam tego od początku, bo byłem z wami.
+> Jana 16,5. A teraz idę do Tego, który mnie posłał, a nikt z was nie pyta mnie: Dokąd idziesz?
+> Jana 16,6. Ale dlatego, że o tym wam mówię, smutek zaczął napełniać wasze serce.
+> Jana 16,7. Lecz ja wam mówię prawdę: Pożyteczniej jest dla was, abym ja odszedł. Bo jeśli nie odejdę, Opiekun nie przyjdzie do was; ale jeśli odejdę, poślę Go do was.
+> Jana 16,8. A On, gdy przyjdzie, wykaże, że świat jest w błędzie odnośnie grzechu i odnośnie sprawiedliwości, i odnośnie sądu;
+> Jana 16,9. Odnośnie grzechu, gdyż prawdziwie nie uwierzyli we mnie;
+> Jana 16,10. Odnośnie sprawiedliwości także, gdyż idę do Ojca mojego i już mnie nie ujrzycie;
+> Jana 16,11. Odnośnie sądu natomiast, bo przywódca tego świata jest osądzony.
+> Jana 16,12. Mam wam jeszcze wiele do powiedzenia, ale teraz nie możecie tego znieść.
+> Jana 16,13. Lecz gdy przyjdzie On, Duch Prawdy, wprowadzi was we wszelką prawdę; bo nie sam od siebie mówić będzie, ale cokolwiek usłyszy, mówić będzie i oznajmi wam o tym, co ma nadejść.
+> Jana 16,14. On mnie otoczy chwałą, gdyż z mego weźmie i wam oznajmi.
+> Jana 16,15. Wszystko, to co ma Ojciec, jest moje; dlatego powiedziałem, że z mego weźmie, i wam oznajmi.
+> Jana 16,16. Jeszcze chwila, a nie ujrzycie mnie i znowu chwila, a ujrzycie mnie, bo ja idę do Ojca.
+> Jana 16,17. Mówili więc do siebie nawzajem niektórzy z Jego uczniów: Co znaczy to, o czym nam mówi: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie, i że ja odchodzę do Ojca?
+> Jana 16,18. Powiedzieli więc: Co to znaczy, gdy mówi: Chwila? Nie rozumiemy tego, co mówi.
+> Jana 16,19. Jezus więc poznał, że Go chcieli zapytać, i powiedział im: Pytacie się między sobą o to, co powiedziałem: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie.
+> Jana 16,20. Zaprawdę, zaprawdę mówię wam: Wy będziecie płakać i narzekać, a świat będzie się weselił; wy zostaniecie zasmuceni, ale smutek wasz obróci się w radość.
+> Jana 16,21. Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina; lecz gdy urodzi dziecko, już nie pamięta o cierpieniu, z powodu radości, że człowiek został zrodzony na świat.
+> Jana 16,22. Teraz więc i wy wprawdzie smucicie się; lecz ponownie ujrzę was, a będzie się radowało wasze serce, i nikt nie odbierze wam waszej radości.
+> Jana 16,23. A w tym dniu, o nic nie będziecie mnie pytać. Zaprawdę, zaprawdę mówię wam: O cokolwiek prosilibyście Ojca w moim imieniu, da wam.
+> Jana 16,24. Aż do teraz o nic nie prosiliście w moim imieniu; proście, a otrzymacie, aby radość wasza była pełna.
+> Jana 16,25. To mówiłem wam w podobieństwach; nadchodzi godzina, gdy już więcej nie będę mówić wam w podobieństwach, lecz otwarcie oznajmię wam o moim Ojcu.
+> Jana 16,26. W tym dniu będziecie prosić w moim imieniu; a nie mówię wam, że ja będę prosił Ojca za wami;
+> Jana 16,27. Sam bowiem Ojciec miłuje was, dlatego że wy mnie umiłowaliście i wierzyliście, że ja wyszedłem od Boga.
+> Jana 16,28. Wyszedłem od Ojca i przyszedłem na świat; ponownie opuszczam świat i idę do Ojca.
+> Jana 16,29. Jego uczniowie powiedzieli do Niego: Oto teraz otwarcie mówisz i nie mówisz już do nas żadnego podobieństwa;
+> Jana 16,30. Teraz wiemy, że wszystko wiesz i nie potrzebujesz, by ktoś Ciebie pytał. Na tej podstawie wierzymy, że wyszedłeś od Boga.
+> Jana 16,31. Jezus odpowiedział im: Dopiero teraz wierzycie?
+> Jana 16,32. Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną.
+> Jana 16,33. To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat.
+> Jana 17,1. Gdy Jezus to powiedział, podniósł swoje oczy ku niebu, mówiąc: Ojcze! Nadeszła godzina, otocz chwałą Twojego Syna, aby i Twój Syn otoczył chwałą Ciebie;
+> Jana 17,2. Tak, jak dałeś mu władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś.
+> Jana 17,3. A to jest życie wieczne, aby poznawali Ciebie, jedynego prawdziwego Boga, i tego, którego posłałeś, Jezusa Mesjasza.
+
+# Bóg jest dobry, Bóg dotrzymuje obietnic
+
+# Cierpimy nie pomimo to, tylko właśnie dlatego
+
+# Abyśmy mieli obiecane życie wieczne
+
+# A to jest życie wieczne, abyśmy poznawali jedynego prawdziwego Boga i tego któego posłał, Jezusa Mesjasza
+
+# Amen.
 
 # KONIEC
 --------------------------------------------------------------------------------------------------------------------
 # KONIEC
 
 
-
-Jakuba 1
-
-> **Biblia Toruńska — Jk 1 — cały rozdział**
-> 1. Jakub, sługa Boga i Pana Jezusa Chrystusa, do dwunastu pokoleń, które są w rozproszeniu. Pozdrowienie.
-> 2. Uznaliście, bracia moi, za pełną radość, gdy wpadliście w rozmaite doświadczenia,
-> 3. Wiedząc, że wypróbowanie waszej wiary sprawia wytrwałość;
-> 4. A wytrwałość niech prowadzi do dzieła doskonałego, abyście byli dojrzali i w pełni wyposażeni, w niczym nie odczuwający braków.
-> 5. A jeśli ktoś z was odczuwa brak mądrości, niech prosi Boga, który daje ją wszystkim szczodrze i bez wyrzutów, a będzie mu dana.
-> 6. Jednak niech prosi z wiarą, nie wątpiąc; kto bowiem wątpi, przypomina falę morską, gnaną i miotaną tu i tam przez wiatr.
-> 7. Niech taki człowiek nie myśli, że otrzyma coś od Pana;
-> 8. Mąż o rozdwojonej duszy, niestały na wszystkich swoich drogach.
-> 9. A niech uniżony brat chlubi się w swoim wywyższeniu,
-> 10. Bogaty natomiast w swoim uniżeniu; że jak kwiat trawy przeminie.
-> 11. Albowiem wzeszło palące słońce i wysuszyło trawę, a kwiat jej opadł, i zginęło piękno jego oblicza; tak i bogaty zwiędnie na swoich drogach.
-> 12. Błogosławiony mąż, który znosi próbę; który został wypróbowany, gdyż otrzyma wieniec życia, który obiecał Pan tym, którzy Go miłują.
-> 13. Niech nikt, gdy jest poddawany pokusie, nie mówi: Przez Boga jestem kuszony; bo Bóg nie jest podatny na kuszenie ze strony zła ani sam nikogo nie kusi;
-> 14. Ale każdy jest kuszony przez własne pożądliwości, które go pociągają i nęcą.
-> 15. Potem, gdy pożądliwość pocznie, rodzi grzech, a gdy grzech dojrzeje, rodzi śmierć.
-> 16. Nie dawajcie się zwodzić, moi umiłowani bracia!
-> 17. Wszelki dobry podarunek i wszelki dar doskonały zstępuje z góry od Ojca świateł, u którego nie istnieje zmienność lub cień poruszenia.
-> 18. Gdy zechciał, zrodził nas Słowem Prawdy, abyśmy byli niejako pierwociną Jego stworzeń.
-> 19. A tak, bracia moi umiłowani, niech każdy człowiek będzie skory do słuchania, nieskory do mówienia, nieskory do gniewu,
-> 20. Bo gniew męża nie wykonuje sprawiedliwości Boga.
-> 21. Dlatego odrzućcie wszelką plugawość i obfitość złości, przyjmijcie z łagodnością wszczepione w was Słowo, które jest w stanie zbawić wasze dusze.
-> 22. A stawajcie się wykonawcami Słowa, a nie tylko słuchaczami, oszukującymi samych siebie.
-> 23. Albowiem jeśli ktoś jest słuchaczem Słowa, a nie wykonawcą, ten podobny jest do człowieka, który przygląda się w zwierciadle swojemu naturalnemu obliczu;
-> 24. Bo przyjrzał się sobie i odszedł, i natychmiast zapomniał jakim był.
-> 25. Ale kto wejrzał w doskonałe Prawo wolności i trwa w nim, ten nie jest słuchaczem zapominającym, lecz wykonawcą dzieła, ten będzie błogosławiony w swoim działaniu.
-> 26. Jeśli ktoś pośród was uważa, że jest pobożny, a nie powściąga swojego języka, lecz oszukuje swoje serce, tego pobożność jest próżna.
-> 27. Czystą i nieskalaną pobożnością przed Bogiem i Ojcem jest to: troszczyć się o sieroty i wdowy w ich ucisku, i strzec siebie samego przed skalaniem przez świat.
 
 
 Drugi list do Koryntian 12,7-10
@@ -521,34 +554,6 @@ Mat 26,37 + synotycznie
 > **Biblia Toruńska — Mt 26,37**
 > 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
 
-Chciałbym, żebyśmy się wspólnie spojrzeli na ciężkie doswiadczenia przez pryzmat Slowa
-Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa 1 Tes 1
-
-> **Biblia Toruńska — 1 Tes 1 — cały rozdział**
-> 1. Paweł i Sylwan, i Tymoteusz do zboru Tesaloniczan w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
-> 2. Dziękujemy Bogu zawsze za was wszystkich, gdy wspominamy was w naszych modlitwach.
-> 3. Nieustannie przypominając sobie o dziele waszej wiary i o trudzie miłości, i o wytrwałości w nadziei co do Pana naszego Jezusa Chrystusa, przed Bogiem i Ojcem naszym,
-> 4. Wiedząc, bracia umiłowani przez Boga, o wybraniu waszym,
-> 5. Że nasza Ewangelia zaistniała w was nie tylko w Słowie, ale i w mocy, i w Duchu Świętym, i w wielkiej całkowitej pewności, jak wiecie, jakimi staliśmy się pośród was ze względu na was.
-> 6. A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego,
-> 7. Tak, że wy staliście się wzorem dla wszystkich wierzących w Macedonii i w Achai.
-> 8. Bowiem od was rozbrzmiało Słowo Pana nie tylko w Macedonii i w Achai, ale i w każdym miejscu rozeszła się wasza wiara w Boga, tak że nie mamy potrzeby o tym mówić,
-> 9. Sami bowiem o nas oznajmiają, jak szerokie mieliśmy wejście do was i jak nawróciliście się od bożków do Boga, aby służyć Bogu żywemu i prawdziwemu,
-> 10. I oczekiwać Syna Jego z niebios, którego wzbudził z martwych, Jezusa, który nas wyrywa od nadchodzącego gniewu.
-7 A wy sta­li­ście się na­śla­dow­ca­mi na­szy­mi i Pana, przyj­mu­jąc* Sło­wo w wiel­kim uci­sku, z ra­do­ścią Du­cha Świ­ęte­go,
-1Kor 11,1; 1Tes 2,14
-
-> **Biblia Toruńska — 1 Kor 11,1**
-> 1. Stawajcie się naśladowcami moimi, tak jak i ja naśladuję Chrystusa.
-
-> **Biblia Toruńska — 1 Tes 2,14**
-> 14. Wy bowiem, bracia, staliście się naśladowcami zborów Boga, które są w Judei, w Chrystusie Jezusie; gdyż i wy tak samo cierpieliście od swoich rodaków, tak jak oni od Judejczyków,
-Świadectwo się niesie, wiersz dalej
-Tak, że wy sta­li­ście się wzo­rem* dla wszyst­kich wie­rzących w Ma­ce­do­nii i  w Achai.
-* tu: w l.mn. - gr.: wzór, ob­raz, od­cisk po ude­rze­niu, po­stać
-8. Bo­wiem od was roz­brzmia­ło Sło­wo Pana nie tyl­ko w Ma­ce­do­nii i  w Achai, ale i w ka­żdym miej­scu ro­ze­szła się wa­sza wia­ra w Boga, tak że nie mamy po­trze­by o tym* mó­wić,
-Cały 1 i 2 rozdzial Tes
-
 > **Biblia Toruńska — 1 Tes 1 — cały rozdział**
 > 1. Paweł i Sylwan, i Tymoteusz do zboru Tesaloniczan w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
 > 2. Dziękujemy Bogu zawsze za was wszystkich, gdy wspominamy was w naszych modlitwach.
@@ -561,40 +566,4 @@ Cały 1 i 2 rozdzial Tes
 > 9. Sami bowiem o nas oznajmiają, jak szerokie mieliśmy wejście do was i jak nawróciliście się od bożków do Boga, aby służyć Bogu żywemu i prawdziwemu,
 > 10. I oczekiwać Syna Jego z niebios, którego wzbudził z martwych, Jezusa, który nas wyrywa od nadchodzącego gniewu.
 
-> **Biblia Toruńska — 1 Tes 2 — cały rozdział**
-> 1. Albowiem sami wiecie, bracia, że przyjście nasze do was nie było daremne;
-> 2. Ale chociaż i przedtem, jak wiecie, cierpieliśmy i doznaliśmy zniewag w Filippi, jednak śmiało w Bogu naszym powiedzieliśmy u was Ewangelię Bożą w wielkim boju.
-> 3. Albowiem wezwanie nasze nie wypływa z błędu ani z nieczystości, ani nie kryje w sobie podstępu,
-> 4. Ale jak zostaliśmy wypróbowani przez Boga, aby została nam powierzona Ewangelia, tak mówimy, nie aby podobać się ludziom, ale Bogu, który poddaje próbie nasze serca.
-> 5. Bo jak wiecie, nigdy nie byliśmy u was ze słowem pochlebstwa ani pod pozorem chciwości; Bóg jest tego świadkiem.
-> 6. Ani nie szukamy chwały od ludzi, ani od was, ani od innych, choć jako apostołowie Chrystusa możemy być w poważaniu;
-> 7. Ale byliśmy łagodni pośród was, jak karmicielka pielęgnująca swoje dzieci.
-> 8. Tak przywiązaliśmy się do was, że byliśmy gotowi przekazać wam nie tylko Ewangelię Bożą, ale i własne dusze, ponieważ staliście się dla nas umiłowani.
-> 9. Albowiem pamiętacie, bracia, trud nasz i mozół, gdyż pracując nocą i dniem, aby nikogo z was nie obciążyć, ogłosiliśmy wam Ewangelię Bożą.
-> 10. Wy jesteście świadkami i Bóg, jak święcie i sprawiedliwie, i bez nagany postępowaliśmy pośród was wierzących.
-> 11. I jak wiecie, że każdego z was, jak ojciec swoje dzieci, zachęcaliśmy i pocieszaliśmy,
-> 12. I świadczyliśmy wam, abyście chodzili w sposób godny Boga, który was powołuje do swojego Królestwa i do chwały.
-> 13. Dlatego i my, nieustannie dziękujemy Bogu, że przyjmując od nas Słowo wieści o Bogu, przyjęliście je, nie jako słowo ludzkie, ale tak jak jest naprawdę, jako Słowo Boga, który i w was wierzących skutecznie działa.
-> 14. Wy bowiem, bracia, staliście się naśladowcami zborów Boga, które są w Judei, w Chrystusie Jezusie; gdyż i wy tak samo cierpieliście od swoich rodaków, tak jak oni od Judejczyków,
-> 15. Którzy i Pana Jezusa, i swoich własnych proroków zabili i nas prześladowali, i Bogu się nie podobają, i wszystkim ludziom są przeciwni,
-> 16. Przeszkadzają nam mówić do pogan, aby i oni zostali zbawieni, by przez to dopełnić miary swoich grzechów; na zawsze nadszedł bowiem na nich gniew aż do końca.
-> 17. Lecz my, bracia, będąc odłączeni od was na chwilę obliczem, ale nie sercem, tym bardziej z wielkim pragnieniem wykazaliśmy gorliwość, by ujrzeć wasze oblicze.
-> 18. Dlatego chcieliśmy, zwłaszcza ja, Paweł, przyjść do was i raz i drugi; ale przeszkodził nam szatan.
-> 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
-> 20. Wy bowiem jesteście naszą chwałą i radością.
-
----
-
-1. Próba wiary rodzi wytrwałość (List św. Jakuba)Ten fragment skupia się na radzeniu sobie z życiowymi trudnościami i próbami charakteru.„Za pełną radość poczytujcie to sobie, bracia moi, ilekroć spadają na was różne doświadczenia. Wiedzcie, że to, co wystawia waszą wiarę na próbę, rodzi wytrwałość. Wytrwałość zaś winna być dziełem doskonałym, abyście byli doskonali, nienaganni, w niczym nie wykazując braków.”– List św. Jakuba 1, 2-4
-
-> **Biblia Toruńska — Jk 1,2-4**
-> 2. Uznaliście, bracia moi, za pełną radość, gdy wpadliście w rozmaite doświadczenia,
-> 3. Wiedząc, że wypróbowanie waszej wiary sprawia wytrwałość;
-> 4. A wytrwałość niech prowadzi do dzieła doskonałego, abyście byli dojrzali i w pełni wyposażeni, w niczym nie odczuwający braków.
-2. Ucisk rodzi wytrwałość (List do Rzymian)Ten fragment pokazuje cały proces duchowego wzrostu – od cierpienia aż do niezłomnej nadziei.„Ale nie tylko to, lecz chlubimy się także z ucisków, wiedząc, że ucisk wyrabia [rodzi] wytrwałość, a wytrwałość – wypróbowaną cnotę, wypróbowana cnota zaś – nadzieję. A nadzieja zawieść nie może, ponieważ miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który został nam dany.”– List do Rzymian 5, 3-5
-
-
-
-
-
-
+## A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego,
