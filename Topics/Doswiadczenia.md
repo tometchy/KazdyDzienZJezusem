@@ -41,7 +41,7 @@ Ja wiem, że nie jedna, nie dwie, a nawet i nie trzy osoby pośród nas przeży�
 I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 
 ## Potrafię sobie wyobrazić, co czuł Dawid gdy pisał
-Księga Psalmów 55:
+Psalm 55:
 > Miotam się swoim zmartwieniu i nie dożywam spokoju
 > Bojaźń i drżenie wkroczyły we mnie i ogarnęlo mnie przerażenie 
 > O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
@@ -165,6 +165,8 @@ Efezjan 3,12-18:
 
 # Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
+## Psalm 55, ten w którym Dawid woła ogarnęlo mnie przerażenie, o gdybym miał skrzydła jak gołębica, kończy się zdaniem "Ja natomiast zaufam Tobie"
+
 ### Apostołowie
 > **Biblia Toruńska — Mk 4,40**
 > 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
@@ -195,8 +197,8 @@ List do Hebrajczyków 12,1-16
 
 ## Nawet o naszym Panu, w Liście do Hebrajczyków czytamy, wzmiankę o cierpieniach jako nauce posłuszeństwa
 
-List-do-Hebrajczykow/5/8
-I chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał
+8*List do Hebrajczykow 5,8**
+> I chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał
 
 ## Wierzę, że w przypadku Pana nauka posłuszeństwa ma zupełnie inny wymiar niż w naszym przypadku, ale mamy w Słowie zapisaną to dla nas
 
@@ -258,10 +260,6 @@ One day at a time
 > 19. Liczne są cierpienia sprawiedliwego, ale JHWH uwalnia go od nich wszystkich.
 > 20. Strzeże wszystkich jego kości; ani jedna z nich się nie złamała.
 
-## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
-
-## Psalm 55 kończy się zdaniem "Ja natomiast zaufam Tobie"
-
 ### Jair
 Marka 5,36
 > Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
@@ -281,26 +279,15 @@ Marka 5,36
 **Księga Izajasza (rozdział 41, werset 10)**
 > „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
 
-## Pan Jezus
+# Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
 
-**Ewangelia Mateusza 26,37–39**
-> 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
-> 38. Wtedy Jezus powiedział im: „Zasmucona jest moja dusza aż do śmierci; zostańcie tu i czuwajcie ze mną.”
-> 39. I odszedł trochę dalej, upadł na swoje oblicze, modląc się i mówiąc: „Ojcze mój, jeśli jest to możliwe, niech ominie mnie ten kielich; jednak nie jak ja chcę, ale jak Ty.”
+> **Biblia Toruńska — Ps 103,13-14**
+> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
+> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
 
-**Ewangelia Marka 14,33–36**
-> 33. I wziął ze sobą Piotra i Jakuba, i Jana, i zaczął się trwożyć i głęboko troskać;
-> 34. I powiedział im: „Bardzo jest zasmucona moja dusza aż do śmierci; zostańcie tu i czuwajcie.”
-> 35. I odszedł nieco dalej, padł na ziemię i modlił się, aby, jeśli jest to możliwe, ominęła Go ta godzina;
-> 36. I mówił: „Abba, Drogi Ojcze! Dla Ciebie wszystko jest możliwe, oddal ten kielich ode mnie, jednak nie, co ja chcę, ale co Ty.”
-
-**Ewangelia Łukasza 22,42–44**
-> 42. Mówiąc: „Ojcze! Jeśli chcesz, oddal ten kielich ode mnie; jednak nie moja wola, lecz Twoja niech się stanie.”
-> 43. Wówczas ukazał Mu się anioł z nieba, wzmacniając Go.
-> 44. A gdy stanął do śmiertelnego boju, jeszcze gorliwiej się modlił, a Jego pot stał się jak krople krwi spadające na ziemię.
-
-**Ewangelia Jana 12,27**
-> 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
+**Księga Objawienia 1**
+> 17. A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,
+> 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci.
 
 # Jeśli jesteś w takim stanie
 
@@ -511,44 +498,8 @@ Jana 10,28
 > **Biblia Toruńska — J 10,28**
 > 28. I ja daję im życie wieczne, i z pewnością nie zginą na wieki, i nikt nie wyrwie ich z mojej ręki.
 
-Czy trwoga sama w sobie to grzech - Pan
-strach - Pawl
-
-Szatan zwyciezony w piosence i Biblii, nasza obietnica, tego sie trzymajmy, nie wyrwie nas z reki Pana. Tak, nieraz bedzie strach i trwoga (Pawel, Pan w Getsemane).
-
 https://kazdydzienzjezusem.pl/Biblia/TNP/1P
 
-Psalm 103,13-14
-
-> **Biblia Toruńska — Ps 103,13-14**
-> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
-> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
-
-Caly psalm 103
-
-> **Biblia Toruńska — Ps 103 — cały psalm**
-> 1. Psalm Dawida. Błogosław, duszo moja, Jhwh, i całe moje wnętrze – Jego święte imię.
-> 2. Błogosław, moja duszo, Jhwh, i nie zapominaj o wszystkich Jego dobrodziejstwach.
-> 3. On przebacza wszystkie twoje nieprawości, On uzdrawia wszystkie twoje choroby;
-> 4. On wyzwala twoje życie od zguby, koronuje cię miłosierdziem i wielką litością.
-> 5. On nasyca dobrem twoje usta i odnawia twoją młodość jak u orła.
-> 6. Jhwh czyni to, co sprawiedliwe i zapewnia sądy wszystkim, którzy zostali uciśnieni.
-> 7. Oznajmił swoje drogi Mojżeszowi, a synom Izraela swoje dzieła.
-> 8. Współczujący i litościwy jest Jhwh, nieskory do gniewu i pełen wielkiego miłosierdzia.
-> 9. Nie będzie procesował się bez końca ani chował urazy na wieki.
-> 10. Nie czyni z nami stosownie do naszych grzechów ani nie odpłaca nam stosownie do naszych nieprawości.
-> 11. Jak wysoko bowiem są niebiosa nad ziemią, tak wielkie jest Jego miłosierdzie nad tymi, którzy się Go boją.
-> 12. Jak odległym jest wschód od zachodu, tak odsunął od nas nasze występki.
-> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
-> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
-> 15. Dni człowieka są jak trawa, kwitnie jak kwiat polny.
-> 16. Wiatr na niego powieje i nie ma go, i nie zauważy się więcej jego miejsca.
-> 17. Ale miłosierdzie Jhwh od wieków na wieki nad tymi, którzy się Go boją, a Jego sprawiedliwość nad synami synów;
-> 18. Dla tych, którzy strzegą Jego przymierza i pamiętają, aby wykonywać Jego ustawy.
-> 19. Jhwh na niebiosach utwierdził swój tron, a Jego królestwo panuje nad wszystkimi.
-> 20. Błogosławcie Jhwh, Jego aniołowie, potężni siłą, wykonujący Jego Słowo, aby słuchano głosu Jego Słowa.
-> 21. Błogosławcie Jhwh, wszystkie Jego zastępy, służący Jemu i wykonujący Jego dobrą wolę.
-> 22. Błogosławcie Jhwh, wszystkie Jego dzieła, we wszystkich miejscach Jego panowania. Błogosław, moja duszo, Jhwh.
 
 Mat 26,37 + synotycznie
 
