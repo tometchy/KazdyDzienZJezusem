@@ -267,43 +267,45 @@ Marka 5,36
 > Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
 
 ##3 Paweł
-Dzieje 18,9-10
+**Dzieje 18,9-10**
 > 9.  A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
 > 10.  Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
 > 11.  Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
 
-Dzieje 27,23-25
-- 23. > Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
-- 24. > Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
-- 25. > Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
+**Dzieje 27,23-25**
+> 23. Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
+> 24. Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
+> 25. Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
 
 ### Izrael
-Księgi Izajasza (rozdział 41, werset 10)
+**Księga Izajasza (rozdział 41, werset 10)**
 > „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
 
 ## Pan Jezus
 
-Ewangelia Mateusza 26,37–39
+**Ewangelia Mateusza 26,37–39**
 > 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
 > 38. Wtedy Jezus powiedział im: „Zasmucona jest moja dusza aż do śmierci; zostańcie tu i czuwajcie ze mną.”
 > 39. I odszedł trochę dalej, upadł na swoje oblicze, modląc się i mówiąc: „Ojcze mój, jeśli jest to możliwe, niech ominie mnie ten kielich; jednak nie jak ja chcę, ale jak Ty.”
 
-Ewangelia Marka 14,33–36
+**Ewangelia Marka 14,33–36**
 > 33. I wziął ze sobą Piotra i Jakuba, i Jana, i zaczął się trwożyć i głęboko troskać;
 > 34. I powiedział im: „Bardzo jest zasmucona moja dusza aż do śmierci; zostańcie tu i czuwajcie.”
 > 35. I odszedł nieco dalej, padł na ziemię i modlił się, aby, jeśli jest to możliwe, ominęła Go ta godzina;
 > 36. I mówił: „Abba, Drogi Ojcze! Dla Ciebie wszystko jest możliwe, oddal ten kielich ode mnie, jednak nie, co ja chcę, ale co Ty.”
 
-Ewangelia Łukasza 22,42–44
+**Ewangelia Łukasza 22,42–44**
 > 42. Mówiąc: „Ojcze! Jeśli chcesz, oddal ten kielich ode mnie; jednak nie moja wola, lecz Twoja niech się stanie.”
 > 43. Wówczas ukazał Mu się anioł z nieba, wzmacniając Go.
 > 44. A gdy stanął do śmiertelnego boju, jeszcze gorliwiej się modlił, a Jego pot stał się jak krople krwi spadające na ziemię.
 
-Ewangelia Jana 12,27
+**Ewangelia Jana 12,27**
 > 27. Teraz dusza moja jest zatrwożona; i co powiem? Ojcze! Uratuj mnie od tej godziny; przecież dlatego przyszedłem na tę godzinę.
 
 # Jeśli jesteś w takim stanie
+
 ## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
+
 ## Szukanie Boga całym sercem, szczere serce, wołanie w prawdzie
 **Psalm 145,14-18**
 > 14. JHWH podtrzymuje wszystkich, którzy upadają i podnosi wszystkich przygniecionych.
@@ -311,7 +313,6 @@ Ewangelia Jana 12,27
 > 16. Otwierasz swoją rękę i zaspokajasz pragnienia wszystkich żyjących.
 > 17. Sprawiedliwy jest JHWH na wszystkich swoich drogach i święty we wszystkich swoich dziełach.
 > 18. Bliski jest JHWH wszystkim, którzy Go wzywają; wszystkim, którzy Go będą wzywać w prawdzie. 
-
 
 **Księga Jeremiasza 29,4-14**
 > 4.  Tak mówi PAN zastępów, Bóg Izraela, do wszystkich wygnańców, których uprowadziłem z Jerozolimy do Babilonu:
