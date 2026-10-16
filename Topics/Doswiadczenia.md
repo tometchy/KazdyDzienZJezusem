@@ -167,9 +167,88 @@ Efezjan 3,12-18:
 
 ## Psalm 55, ten w którym Dawid woła ogarnęlo mnie przerażenie, o gdybym miał skrzydła jak gołębica, kończy się zdaniem "Ja natomiast zaufam Tobie"
 
+**II List do Tymoteusza 1,7**
+> Albowiem nie dał nam Bóg ducha tchórzostwa, ale mocy i miłości, i trzeźwego myślenia.
+
+**Jozuego 1,9**
+> „Czyż ci nie rozkazałem: Bądź mężny i mocny? Nie bój się i nie lękaj, ponieważ z tobą jest Pan, Bóg twój, wszędzie, gdziekolwiek pójdziesz”.
+
 ### Apostołowie
-> **Biblia Toruńska — Mk 4,40**
+> **Biblia Toruńska — Mk 4,39-40**
+> 39. A On podniósł się, skarcił wiatr i powiedział morzu: Umilknij i uspokój się! I ustał wiatr, i nastała wielka cisza.
 > 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
+
+List do Hebrajczyków 12,1
+> 1.  Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
+
+**Psalm 34,17-20**
+> 17. Wołają sprawiedliwi, a JHWH wysłuchuje ich i uwalnia z wszelkiego utrapienia.
+> 18. Bliski jest JHWH tym, których serce jest złamane i uwalnia skruszonego ducha.
+> 19. Liczne są cierpienia sprawiedliwego, ale JHWH uwalnia go od nich wszystkich.
+> 20. Strzeże wszystkich jego kości; ani jedna z nich się nie złamała.
+
+### Jair
+Marka 5,36
+> Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
+
+### Paweł
+**Dzieje 18,9-10**
+> 9.  A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
+> 10.  Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
+> 11.  Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
+
+**Dzieje 27,23-25**
+> 23. Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
+> 24. Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
+> 25. Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
+
+### Izrael
+**Księga Izajasza (rozdział 41, werset 10)**
+> „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
+
+# Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
+
+# Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
+
+## Daj nam dzisiaj 
+One day at a time
+
+> **Biblia Toruńska — Ps 103,13-14**
+> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
+> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
+
+**Księga Objawienia 1**
+> 17. A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,
+> 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci.
+
+# Jeśli jesteś w takim stanie
+
+## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
+
+## Szukanie Boga całym sercem, szczere serce, wołanie w prawdzie
+**Psalm 145,14-18**
+> 14. JHWH podtrzymuje wszystkich, którzy upadają i podnosi wszystkich przygniecionych.
+> 15. Oczy wszystkich patrzą z nadzieją na Ciebie, a Ty im dajesz pokarm w swoim czasie.
+> 16. Otwierasz swoją rękę i zaspokajasz pragnienia wszystkich żyjących.
+> 17. Sprawiedliwy jest JHWH na wszystkich swoich drogach i święty we wszystkich swoich dziełach.
+> 18. Bliski jest JHWH wszystkim, którzy Go wzywają; wszystkim, którzy Go będą wzywać w prawdzie. 
+
+**Księga Jeremiasza 29,4-14**
+> 10.  Tak bowiem mówi PAN: Gdy wypełni się dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię wobec was swoje dobre słowo, by was sprowadzić z powrotem na to miejsce.
+> 11.  Gdyż ja znam myśli, które mam o was, mówi PAN: myśli o pokoju, a nie o utrapieniu, aby zapewnić wam koniec, jakiego oczekujecie.
+> 12.  Wtedy będziecie mnie wzywać, pójdziecie i będziecie modlić się do mnie, a ja was wysłucham;
+> 13.  Będziecie mnie szukać i znajdziecie mnie, **gdy będziecie szukać całym swym sercem**.
+> 14.  I dam wam się znaleźć, mówi PAN, i odwrócę waszą niewolę, i zgromadzę was ze wszystkich narodów i ze wszystkich miejsc, do których was wygnałem, mówi PAN. I przyprowadzę was na to miejsce, z którego was uprowadziłem.
+
+**Księga Joela 2,12-13:**
+> 12. I dlatego teraz – oświadczenie JHWH, zawróćcie do mnie całym swoim sercem i w poście, i w płaczu, i lamencie.
+> 13. I rozdzierajcie swoje serca, a nie swoje szaty, i nawróćcie się do JHWH, waszego Boga, bo On jest łaskawy i życzliwy, nieskory do gniewu i wielki w miłosierdziu, i okazujący litość w czasie niedoli. 
+
+**List do Hebrajczyków 10,19-22**
+> 19. Mając więc, bracia, ufną odwagę, aby przez krew Jezusa wejść do świętego Świętych,
+> 20. Drogą nową i żywą, którą nam poświęcił przez zasłonę, to jest przez Jego ciało,
+> 21. I wielkiego kapłana nad domem Boga,
+> 22. Zbliżajmy się ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte wodą czystą. 
 
 # Bóg w swojej miłości nas wychowuje
 
@@ -234,95 +313,13 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
 
-# Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na cielesnym powodzeniu
+# Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na życiu w ciele
 
 **2 Kor 12,7-10**
 > 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
 > 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
 > 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
 > 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
-
-# Bóg chce abyśmy trwali
-
-List św. Jakuba 1
-> 2.  Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
-> 12.  Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
-
-List do Hebrajczyków 12,1
-> 1.  Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
-
-## Daj nam dzisiaj 
-One day at a time
-
-**Psalm 34,17-20**
-> 17. Wołają sprawiedliwi, a JHWH wysłuchuje ich i uwalnia z wszelkiego utrapienia.
-> 18. Bliski jest JHWH tym, których serce jest złamane i uwalnia skruszonego ducha.
-> 19. Liczne są cierpienia sprawiedliwego, ale JHWH uwalnia go od nich wszystkich.
-> 20. Strzeże wszystkich jego kości; ani jedna z nich się nie złamała.
-
-### Jair
-Marka 5,36
-> Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
-
-##3 Paweł
-**Dzieje 18,9-10**
-> 9.  A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
-> 10.  Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
-> 11.  Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
-
-**Dzieje 27,23-25**
-> 23. Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
-> 24. Nie bój się, Pawle! Trzeba ci stanąć przed Cezarem, a oto darował ci Bóg wszystkich, którzy płyną z tobą.
-> 25. Dlatego, mężowie, bądźcie dobrej myśli; albowiem wierzę Bogu, że tak będzie, jak mi powiedziano.
-
-### Izrael
-**Księga Izajasza (rozdział 41, werset 10)**
-> „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
-
-# Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
-
-> **Biblia Toruńska — Ps 103,13-14**
-> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
-> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
-
-**Księga Objawienia 1**
-> 17. A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,
-> 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci.
-
-# Jeśli jesteś w takim stanie
-
-## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
-
-## Szukanie Boga całym sercem, szczere serce, wołanie w prawdzie
-**Psalm 145,14-18**
-> 14. JHWH podtrzymuje wszystkich, którzy upadają i podnosi wszystkich przygniecionych.
-> 15. Oczy wszystkich patrzą z nadzieją na Ciebie, a Ty im dajesz pokarm w swoim czasie.
-> 16. Otwierasz swoją rękę i zaspokajasz pragnienia wszystkich żyjących.
-> 17. Sprawiedliwy jest JHWH na wszystkich swoich drogach i święty we wszystkich swoich dziełach.
-> 18. Bliski jest JHWH wszystkim, którzy Go wzywają; wszystkim, którzy Go będą wzywać w prawdzie. 
-
-**Księga Jeremiasza 29,4-14**
-> 4.  Tak mówi PAN zastępów, Bóg Izraela, do wszystkich wygnańców, których uprowadziłem z Jerozolimy do Babilonu:
-> 5.  Budujcie domy i mieszkajcie w nich; zakładajcie ogrody i spożywajcie ich owoce;
-> 6.  Pojmujcie żony i płodźcie synów i córki; wybierajcie żony dla waszych synów i wydawajcie swoje córki za mąż, aby rodziły synów i córki. Rozmnażajcie się tam i niech was nie ubywa.
-> 7.  Zabiegajcie o pokój dla tego miasta, do którego was uprowadziłem, i módlcie się za nie do PANA, bo od jego pokoju zależy wasz pokój.
-> 8.  Tak bowiem mówi PAN zastępów, Bóg Izraela: Niech was nie zwodzą wasi prorocy i wróżbici, którzy są wśród was, i nie zwracajcie uwagi na wasze sny, które się wam śnią.
-> 9.  Bo oni prorokują wam kłamliwie w moje imię. Nie posłałem ich, mówi PAN.
-> 10.  Tak bowiem mówi PAN: Gdy wypełni się dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię wobec was swoje dobre słowo, by was sprowadzić z powrotem na to miejsce.
-> 11.  Gdyż ja znam myśli, które mam o was, mówi PAN: myśli o pokoju, a nie o utrapieniu, aby zapewnić wam koniec, jakiego oczekujecie.
-> 12.  Wtedy będziecie mnie wzywać, pójdziecie i będziecie modlić się do mnie, a ja was wysłucham;
-> 13.  Będziecie mnie szukać i znajdziecie mnie, gdy będziecie szukać całym swym sercem.
-> 14.  I dam wam się znaleźć, mówi PAN, i odwrócę waszą niewolę, i zgromadzę was ze wszystkich narodów i ze wszystkich miejsc, do których was wygnałem, mówi PAN. I przyprowadzę was na to miejsce, z którego was uprowadziłem.
-
-**Księga Joela 2,12-13:**
-> 12. I dlatego teraz – oświadczenie JHWH, zawróćcie do mnie całym swoim sercem i w poście, i w płaczu, i lamencie.
-> 13. I rozdzierajcie swoje serca, a nie swoje szaty, i nawróćcie się do JHWH, waszego Boga, bo On jest łaskawy i życzliwy, nieskory do gniewu i wielki w miłosierdziu, i okazujący litość w czasie niedoli. 
-
-**List do Hebrajczyków 10,19-22**
-> 19. Mając więc, bracia, ufną odwagę, aby przez krew Jezusa wejść do świętego Świętych,
-> 20. Drogą nową i żywą, którą nam poświęcił przez zasłonę, to jest przez Jego ciało,
-> 21. I wielkiego kapłana nad domem Boga,
-> 22. Zbliżajmy się ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte wodą czystą. 
 
 # Kto stoi niech baczy by nie upadł
 Chcialem zakonczyc puenta, ze zmienił swoje życie
@@ -380,11 +377,9 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 > 11. Ale ty, Boży człowieku, uciekaj przed tym, a zabiegaj o sprawiedliwość, pobożność, wiarę, miłość, wytrwałość, łagodność.
 > 12. Staczaj dobry bój wiary, chwyć się życia wiecznego, do którego zostałeś powołany i złożyłeś dobre wyznanie wobec wielu świadków.
 
-Rozróżnienie upadku od nie upadku np. Piotr i kogut to upadek, zwątpienie Piotra gdy szedł po wodzie, trochę może też, ale np. trwoga Pana Jezusa na pewno nie, wiemy że był bez grzechu, więć to nie był grzech, mimo odczuć które się wiązały z jego ciałem, jego nastawienie pozostawało nie moja lecz Twoja wola, choć po ludzku ten kielich nie był mu miły.
-
-Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
-
-Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak powiedział do Pawła nie lękaj się. Wiemy ze Słowa Bożego o trwodze Pana, o lęku Pawła, myślę, że Bóg nie oczekuje od nas abyśmy byli maszynami. Ale oczekuje od nas serca szczerego tutaj jakiś krótki fragment(y) (jak dobry jest Bóg dla słabych dla tych co są czystego serca), wyznania Bogu prawdy, że teraz mamy takie serce, teraz mamy trwogę lub strach, że to po ludzku nas przytłacza, prośmy Boga o Łaskę, o Miłosierdzie, wiemy, że Bóg wysłuchuje modlitw.
+List św. Jakuba 1
+> 2.  Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
+> 12.  Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
 
 > Jana 15,26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
 > Jana 15,27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
@@ -429,7 +424,7 @@ Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak p
 
 # Cierpimy nie pomimo to, tylko właśnie dlatego
 
-# Abyśmy mieli obiecane życie wieczne
+# Abyśmy mieli koronę życia, obiecane życie wieczne, 
 
 # A to jest życie wieczne, abyśmy poznawali jedynego prawdziwego Boga i tego któego posłał, Jezusa Mesjasza
 
