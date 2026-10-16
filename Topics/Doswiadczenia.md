@@ -568,3 +568,16 @@ Mat 26,37 + synotycznie
 > 10. I oczekiwać Syna Jego z niebios, którego wzbudził z martwych, Jezusa, który nas wyrywa od nadchodzącego gniewu.
 
 ## A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego,
+
+
+
+
+
+Dzieje Apostolskie 14,22:„[...] umacniając dusze uczniów, zachęcając do wytrwałości w wierze i mówiąc, że przez wiele ucisków trzeba nam wejść do królestwa Bożego”.
+
+
+Księga Przysłów 3,11-12:„Synu mój, nie lekceważ karania Pana, nie upadaj na duchu, gdy On cię gani. Bo kogo Pan miłuje, tego karze, jak ojciec syna, którego kocha”.
+(Fragment cytowany później również w Nowym Testamencie, w Liście do Hebrajczyków 12,6).
+
+
+Rzymian 8,18: „Uważam bowiem, że cierpienia teraźniejszego czasu nie są godne porównywania z tą przyszłą chwałą, która ma się w nas objawić”.
