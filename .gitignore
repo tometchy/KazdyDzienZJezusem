@@ -822,3 +822,5 @@ IndexHtml/
 # Playwright visual test artifacts (approved snapshots stay versioned)
 ProductionVisualTests/playwright-report/
 ProductionVisualTests/test-results/
+screenshots/results/
+screenshots/report/

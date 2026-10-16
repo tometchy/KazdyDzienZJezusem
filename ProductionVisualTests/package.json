@@ -4,9 +4,10 @@
   "scripts": {
     "test": "playwright test",
     "test:update": "playwright test --update-snapshots",
-    "report": "playwright show-report"
+    "report": "playwright show-report ../screenshots/report"
   },
   "devDependencies": {
-    "@playwright/test": "1.55.1"
+    "@playwright/test": "1.55.1",
+    "unpoly": "3.14.3"
   }
 }

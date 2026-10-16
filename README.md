@@ -73,45 +73,25 @@ KDJ_E2E_BASE_URL=http://localhost:8081 \
   dotnet test --project KazdyDzienZJezusem.Tests/KazdyDzienZJezusem.Tests.csproj
 ```
 
-## Production visual approval tests
+## Screenshot regression tests
 
-The Playwright suite in `ProductionVisualTests/` captures complete pages from
-the live site in desktop Chromium, plus the main Bible flows in a mobile
-viewport. It covers the Bible index, a chapter, a verse comparison, the Church
-Fathers index, an author's works, and a work chapter. A mismatch produces the
-expected, actual, and visual diff images in
-`ProductionVisualTests/test-results/`, so a failure can be diagnosed without
-manually reproducing the page.
+The Playwright suite in `ProductionVisualTests/` builds the current checkout and
+starts the application with an isolated Redis process. Application startup
+recreates the tag index from versioned `tags/*.md`, exactly as it does in Compose.
+No container, production Redis connection or exported `dump.rdb` is needed.
 
-Install the pinned test dependency and Chromium once:
+Prepare dependencies once, then run the same command on a laptop or in Codex Web:
 
 ```bash
-cd ProductionVisualTests
-npm ci
-npx playwright install chromium
+bash scripts/setup-visual-tests.sh --with-deps
+bash scripts/test-screenshots.sh
 ```
 
-Run approval checks directly against production:
-
-```bash
-cd ProductionVisualTests
-npm test
-```
-
-To inspect failures in Playwright's HTML report, run `npm run report`. When a
-production change is intentional, review every generated diff and then approve
-the current rendering with:
-
-```bash
-npm run test:update
-```
-
-Commit the updated PNG snapshots only after reviewing them. To exercise the
-same suite against another deployed environment, override the target explicitly:
-
-```bash
-KDJ_VISUAL_BASE_URL=https://staging.example.com npm test
-```
+Approved PNGs live in root-level `screenshots/baseline/`; failures produce actual
+and diff images in `screenshots/results/` and an HTML report in
+`screenshots/report/`. The pull-request workflow runs these checks automatically.
+See [screenshots/README.md](screenshots/README.md) for environment preparation,
+Redis lifecycle, snapshot approval, external URL mode and the required merge check.
 
 When a page change is intentional, first run the deterministic stubbed mode,
 review the generated `*.received.html` diff, and accept it as the new Verify
