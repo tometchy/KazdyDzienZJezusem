@@ -210,17 +210,6 @@ Marka 5,36
 
 # Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
 
-## Daj nam dzisiaj 
-One day at a time
-
-> **Biblia Toruńska — Ps 103,13-14**
-> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
-> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
-
-**Księga Objawienia 1**
-> 17. A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,
-> 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci.
-
 # Jeśli jesteś w takim stanie
 
 ## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
@@ -249,6 +238,17 @@ One day at a time
 > 20. Drogą nową i żywą, którą nam poświęcił przez zasłonę, to jest przez Jego ciało,
 > 21. I wielkiego kapłana nad domem Boga,
 > 22. Zbliżajmy się ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte wodą czystą. 
+
+## Daj nam dzisiaj 
+One day at a time
+
+> **Biblia Toruńska — Ps 103,13-14**
+> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
+> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
+
+**Księga Objawienia 1**
+> 17. A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,
+> 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci.
 
 # Bóg w swojej miłości nas wychowuje
 
