@@ -318,15 +318,43 @@ Ewangelia Jana 12,27
 > 22. Zbliżajmy się ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte wodą czystą. 
 
 # Kto stoi niech baczy by nie upadł
+Chcialem zakonczyc puenta, ze zmienił swoje życie
+Ale Bog nie chcial, zebym tak zakonczyl... Pokazal mi niesppdziewanie.
+We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio kończy się tym, że urodziła im się jeszcze trójka dzieci, dwie córki i syn, ale nastąpiła kolejna tragedia, 4letni syn zmarł na szkarlatynę, a oni wtedy postanowili całe życie poświęcić Bogu i wyprowadzili się do Jerozolimy służyć ubogim.
+Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych, listach, wspomnieniach, a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
+
+niespełna czteroletni synek Spaffordów zaraził się szkarlatyną i zmarł
+
 Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
-
-
-
-Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
 
 ## 1 Kor 11, 18-19
 Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
 Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
+
+## Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowanym przeze mnie wersetem 13 dotąd nie przyszło na Was pokuszenie, które by przekraczało...
+
+> 12. A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł.
+> 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
+
+> **Biblia Toruńska — 1 Kor 9,24-27;10,1-14**
+> 24 Czy nie wiecie, że biegnący na stadionie, wszyscy wprawdzie biegną, lecz jeden zdobywa nagrodę? Tak biegnijcie, abyście ją otrzymali.
+> 25 A każdy, który walczy od wszystkiego się powstrzymuje, oni wprawdzie, aby otrzymać wieniec zniszczalny, my natomiast niezniszczalny.
+> 26 Ja więc tak biegnę, nie jak w niepewne; uderzam pięściami nie jak ten, kto uderza w powietrze;
+> 27 Ale biję do sińców moje ciało i biorę je w niewolę, bym innym głosząc, sam czasem nie został zdyskwalifikowany.
+> 1. Nie chcę natomiast, bracia, abyście nie wiedzieli, że nasi ojcowie wszyscy byli pod obłokiem i wszyscy przeszli przez morze,
+> 2. I wszyscy w Mojżesza zanurzyli się w obłoku i w morzu,
+> 3. I wszyscy zjedli ten sam duchowy pokarm,
+> 4. I wszyscy wypili ten sam duchowy napój; pili bowiem z duchowej skały, która im towarzyszyła – a tą skałą był Chrystus.
+> 5. Lecz w większości z nich Bóg nie miał upodobania; ciała ich bowiem zostały rozrzucone na pustyni.
+> 6. A te wydarzenia stały się dla nas przykładem, abyśmy nie pożądali złych rzeczy, jak oni pożądali.
+> 7. Nie stawajcie się też bałwochwalcami, jak niektórzy z nich, jak jest napisane: Siadł lud, aby zjeść i wypić, i wstali, aby się bawić.
+> 8. Nie oddawajmy się nierządowi, jak niektórzy z nich oddali się nierządowi i padło ich jednego dnia dwadzieścia trzy tysiące.
+> 9. Ani nie kuśmy Chrystusa, jak niektórzy z nich kusili i poginęli od węży.
+> 10. Ani nie szemrajcie, jak niektórzy z nich szemrali i poginęli za sprawą Niszczyciela.
+> 11. To wszystko natomiast, zdarzało się im dla przykładu, a zostało napisane dla napomnienia nas, do których dosięgnął koniec wieków.
+> 12. A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł.
+> 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
+> 14. Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa.
 
 **Kol 3,5**
 > 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i chciwość, która jest bałwochwalstwem,
@@ -345,8 +373,13 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 > 11. Ale ty, Boży człowieku, uciekaj przed tym, a zabiegaj o sprawiedliwość, pobożność, wiarę, miłość, wytrwałość, łagodność.
 > 12. Staczaj dobry bój wiary, chwyć się życia wiecznego, do którego zostałeś powołany i złożyłeś dobre wyznanie wobec wielu świadków.
 
+Rozróżnienie upadku od nie upadku np. Piotr i kogut to upadek, zwątpienie Piotra gdy szedł po wodzie, trochę może też, ale np. trwoga Pana Jezusa na pewno nie, wiemy że był bez grzechu, więć to nie był grzech, mimo odczuć które się wiązały z jego ciałem, jego nastawienie pozostawało nie moja lecz Twoja wola, choć po ludzku ten kielich nie był mu miły.
 
+Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
 
+Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak powiedział do Pawła nie lękaj się. Wiemy ze Słowa Bożego o trwodze Pana, o lęku Pawła, myślę, że Bóg nie oczekuje od nas abyśmy byli maszynami. Ale oczekuje od nas serca szczerego tutaj jakiś krótki fragment(y) (jak dobry jest Bóg dla słabych dla tych co są czystego serca), wyznania Bogu prawdy, że teraz mamy takie serce, teraz mamy trwogę lub strach, że to po ludzku nas przytłacza, prośmy Boga o Łaskę, o Miłosierdzie, wiemy, że Bóg wysłuchuje modlitw.
+
+A wierzę, że Bóg i taką modlitwę wysłucha i w swój, zrozumialy tylko dla siebie sposób nas przeprowadzi. Amen.
 
 # KONIEC
 --------------------------------------------------------------------------------------------------------------------
@@ -558,85 +591,8 @@ Cały 1 i 2 rozdzial Tes
 > 4. A wytrwałość niech prowadzi do dzieła doskonałego, abyście byli dojrzali i w pełni wyposażeni, w niczym nie odczuwający braków.
 2. Ucisk rodzi wytrwałość (List do Rzymian)Ten fragment pokazuje cały proces duchowego wzrostu – od cierpienia aż do niezłomnej nadziei.„Ale nie tylko to, lecz chlubimy się także z ucisków, wiedząc, że ucisk wyrabia [rodzi] wytrwałość, a wytrwałość – wypróbowaną cnotę, wypróbowana cnota zaś – nadzieję. A nadzieja zawieść nie może, ponieważ miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który został nam dany.”– List do Rzymian 5, 3-5
 
-> **Biblia Toruńska — Rz 5,3-5**
-> 3. A nie tylko to, ale chlubimy się w uciskach, wiedząc, że ucisk sprawia wytrwałość,
-> 4. A wytrwałość doświadczenie, a doświadczenie nadzieję,
-> 5. A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
-
-Józef, Szczepan, Pan Jezus błogosławił, a nie przeklinał.
-
-Rozróżnienie upadku od nie upadku np. Piotr i kogut to upadek, zwątpienie Piotra gdy szedł po wodzie, trochę może też, ale np. trwoga Pana Jezusa na pewno nie, wiemy że był bez grzechu, więć to nie był grzech, mimo odczuć które się wiązały z jego ciałem, jego nastawienie pozostawało nie moja lecz Twoja wola, choć po ludzku ten kielich nie był mu miły.
-
-Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
-
-Bóg wie z czegośmy ulepieni, tutaj fragment psalmu, Bóg zrozumie, tutaj jak powiedział do Pawła nie lękaj się. Wiemy ze Słowa Bożego o trwodze Pana, o lęku Pawła, myślę, że Bóg nie oczekuje od nas abyśmy byli maszynami. Ale oczekuje od nas serca szczerego tutaj jakiś krótki fragment(y) (jak dobry jest Bóg dla słabych dla tych co są czystego serca), wyznania Bogu prawdy, że teraz mamy takie serce, teraz mamy trwogę lub strach, że to po ludzku nas przytłacza, prośmy Boga o Łaskę, o Miłosierdzie, wiemy, że Bóg wysłuchuje modlitw.
-
-A wierzę, że Bóg i taką modlitwę wysłucha i w swój, zrozumialy tylko dla siebie sposób nas przeprowadzi. Amen.
-
-Przekartkować książkę o depresji.
-
-4 ta lekja, że Bóg wyprobowuje, żeby przygotować do większych zadań, przejdzie w piątą lekcję, do której nie chciałem dojść, ale do której doprowadził mnie Bóg i niechętnie, ale czuję się w obowiązku nią również podzielić. Znaleźć fragmenty, że Bóg przesiewa próbami.
-Chcialem zakonczyc puenta, ze x
-Ale Bog nie chcial, zebym tak zakonczyl... Pokazal mi niesppdziewanie.
-We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio kończy się tym, że urodziła im się jeszcze trójka dzieci, dwie córki i syn, ale nastąpiła kolejna tragedia, 4letni syn zmarł na szkarlatynę, a oni wtedy postanowili całe życie poświęcić Bogu i wyprowadzili się do Jerozolimy służyć ubogim.
-Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych, listach, wspomnieniach, a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
-
-niespełna czteroletni synek Spaffordów zaraził się szkarlatyną i zmarł
-
-Nie będę opowiadał szczegółów tej sekty i tego co robili Horatio z żoną, bo nie było by to dla Was budujące.
-
-Ostatnio na braterskim mielismy dyskusje o tym, ze nie mozesz dwom panom sluzyc, Bogu i mamonie.
 
 
-1 Kor 10,1-16 ze zwróceniem uwagi na 12, 7, 14 i gdzie indziej opis, że bałwochwalstwo to też kwestia pieniędzy i indziej służenie Bogu i mamonie
-
-> **Biblia Toruńska — 1 Kor 10,1-16**
-> 1. Nie chcę natomiast, bracia, abyście nie wiedzieli, że nasi ojcowie wszyscy byli pod obłokiem i wszyscy przeszli przez morze,
-> 2. I wszyscy w Mojżesza zanurzyli się w obłoku i w morzu,
-> 3. I wszyscy zjedli ten sam duchowy pokarm,
-> 4. I wszyscy wypili ten sam duchowy napój; pili bowiem z duchowej skały, która im towarzyszyła – a tą skałą był Chrystus.
-> 5. Lecz w większości z nich Bóg nie miał upodobania; ciała ich bowiem zostały rozrzucone na pustyni.
-> 6. A te wydarzenia stały się dla nas przykładem, abyśmy nie pożądali złych rzeczy, jak oni pożądali.
-> 7. Nie stawajcie się też bałwochwalcami, jak niektórzy z nich, jak jest napisane: Siadł lud, aby zjeść i wypić, i wstali, aby się bawić.
-> 8. Nie oddawajmy się nierządowi, jak niektórzy z nich oddali się nierządowi i padło ich jednego dnia dwadzieścia trzy tysiące.
-> 9. Ani nie kuśmy Chrystusa, jak niektórzy z nich kusili i poginęli od węży.
-> 10. Ani nie szemrajcie, jak niektórzy z nich szemrali i poginęli za sprawą Niszczyciela.
-> 11. To wszystko natomiast, zdarzało się im dla przykładu, a zostało napisane dla napomnienia nas, do których dosięgnął koniec wieków.
-> 12. A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł.
-> 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
-> 14. Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa.
-> 15. Jako do rozsądnych mówię; wy osądźcie, co mówię.
-> 16. Kielich błogosławieństwa, który błogosławimy, czyż nie jest społecznością krwi Chrystusa? Chleb, który łamiemy, czyż nie jest społecznością ciała Chrystusa?
-
-
-
-
-
-Myślę, że nigdy próby, doświadczenia nie stają się łatwę, nie obserwuję tego u siebie, nie obserwuję tego w Słowie Bożym.
-Ale możemy od Boga otrzymywać Boży Pokój i przeprowadzenie przez próbę.
-
----
-Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowanym przeze mnie wersetem 13 dotąd nie przyszło na Was pokuszenie, które by przekraczało...
-
-> **Biblia Toruńska — 1 Kor 9,24-27;10,1-14**
-> 24 Czy nie wiecie, że biegnący na stadionie, wszyscy wprawdzie biegną, lecz jeden zdobywa nagrodę? Tak biegnijcie, abyście ją otrzymali.
-> 25 A każdy, który walczy od wszystkiego się powstrzymuje, oni wprawdzie, aby otrzymać wieniec zniszczalny, my natomiast niezniszczalny.
-> 26 Ja więc tak biegnę, nie jak w niepewne; uderzam pięściami nie jak ten, kto uderza w powietrze;
-> 27 Ale biję do sińców moje ciało i biorę je w niewolę, bym innym głosząc, sam czasem nie został zdyskwalifikowany.
-> 1. Nie chcę natomiast, bracia, abyście nie wiedzieli, że nasi ojcowie wszyscy byli pod obłokiem i wszyscy przeszli przez morze,
-> 2. I wszyscy w Mojżesza zanurzyli się w obłoku i w morzu,
-> 3. I wszyscy zjedli ten sam duchowy pokarm,
-> 4. I wszyscy wypili ten sam duchowy napój; pili bowiem z duchowej skały, która im towarzyszyła – a tą skałą był Chrystus.
-> 5. Lecz w większości z nich Bóg nie miał upodobania; ciała ich bowiem zostały rozrzucone na pustyni.
-> 6. A te wydarzenia stały się dla nas przykładem, abyśmy nie pożądali złych rzeczy, jak oni pożądali.
-> 7. Nie stawajcie się też bałwochwalcami, jak niektórzy z nich, jak jest napisane: Siadł lud, aby zjeść i wypić, i wstali, aby się bawić.
-> 8. Nie oddawajmy się nierządowi, jak niektórzy z nich oddali się nierządowi i padło ich jednego dnia dwadzieścia trzy tysiące.
-> 9. Ani nie kuśmy Chrystusa, jak niektórzy z nich kusili i poginęli od węży.
-> 10. Ani nie szemrajcie, jak niektórzy z nich szemrali i poginęli za sprawą Niszczyciela.
-> 11. To wszystko natomiast, zdarzało się im dla przykładu, a zostało napisane dla napomnienia nas, do których dosięgnął koniec wieków.
-> 12. A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł.
-> 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
-> 14. Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa.
 
 
 
