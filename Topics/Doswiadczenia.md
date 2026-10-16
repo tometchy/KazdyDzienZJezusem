@@ -319,15 +319,20 @@ Ewangelia Jana 12,27
 
 # Kto stoi niech baczy by nie upadł
 Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
-Niektorzy z nas tego doswiadczyli lub doswiadczaja bez wojny.
+
+
 
 Nawiązanie do fragmentu o tym, że Bóg nie daje ponad siły, werset wcześniej, potem od początku
-
-Cos tez do tych, ze wiedza, ze sie pogubli duchowo, ze wiedza, ze odpadli, modlic sie o madrosc co powiedziec... O wolanie ze szczerym sercem, ja wiem jak ciezko potrafi byc, ale Bog wie to wszystko lepiej, wie ze jestesmy marnosc, nie jest Mu obojetne nasze szczere serce, wyrywajmy sie z tego marazmu wolaniem do Boga, wolajmy w bezradnosci i zagubiebiu.
 
 ## 1 Kor 11, 18-19
 Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
 Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
+
+**Kol 3,5**
+> 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i chciwość, która jest bałwochwalstwem,
+
+> **Biblia Toruńska — Mt 6,24**
+> 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
 
 **1 Tm 4,1-3**
 > 1. A Duch wyraźnie mówi, że w późniejszych czasach odstąpią niektórzy od wiary, zwracając się ku duchom zwodniczym i naukom demonów,
@@ -633,13 +638,5 @@ Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowany
 > 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
 > 14. Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa.
 
-**List do Kolosan 3,5**
-> „Zadajcie więc śmierć temu, co przyziemne w członkach: rozpuście, nieczystości, lubieżności, złej żądzy i chciwości, która jest bałwochwalstwem.”
 
-> **Biblia Toruńska — Kol 3,5**
-> 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i chciwość, która jest bałwochwalstwem,
-- List do Efezjan 5, 5:„O tym bowiem bądźcie przekonani, że żaden rozpustnik ani nieczysty, ani chciwiec – to jest bałwochwalca – nie ma dziedzictwa w królestwie Chrystusa i Boga.”
-
-> **Biblia Toruńska — Mt 6,24**
-> 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
 
