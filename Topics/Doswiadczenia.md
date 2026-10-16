@@ -46,6 +46,11 @@ Księga Psalmów 55:
 > Bojaźń i drżenie wkroczyły we mnie i ogarnęlo mnie przerażenie 
 > O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
 
+# Wiem jak to jest chwytać się ze łzami obietnicy Pana, że nie da nam ponad nasze siły
+
+1 List do Koryntian 10,13
+> Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać
+
 ## Czy Bóg nie widzi, gdy cierpimy?
 
 # Pamiętajmy, że Bóg jest świadom naszego cierpienia
@@ -121,8 +126,8 @@ I chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał
 ## Wierzę, że w przypadku Pana nauka posłuszeństwa ma zupełnie inny wymiar niż w naszym przypadku, ale mamy w Słowie zapisaną to dla nas
 
 ## Pan chce, abyśmy zaprzestawali grzechu! 
-1-List-Piotra/4/12
-- > 1. Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą; **bo ten, kto cierpiał w ciele, zaprzestał[3] grzechu, 2Aby już więcej, nie w ludzkich pożądliwościach[4], ale w woli Boga, pozostały czas żyć w ciele**. 3Wystarczy już bowiem, że w minionym czasie naszego życia czyniliśmy wolę pogan, żyjąc[5] w rozwiązłościach, pożądliwościach, pijaństwie[6], hulankach, pijatykach i niegodziwych bałwochwalstwach. 4Przy tym dziwią się oni, że wy nie śpieszycie się razem z nimi do tego samego zalewu rozwiązłości[7], i bluźnią wam. 5Ci zdadzą sprawę[8] Temu, który gotów jest sądzić żywych i umarłych. 6W tym bowiem celu i umarłym głoszono dobrą nowinę, aby zostali osądzeni wprawdzie jako ludzie według ciała[9], ale żyli w duchu według Boga. 7Lecz zbliża się koniec wszystkich[10]; bądźcie więc roztropni[11] i trzeźwi[12] w modlitwach. 8Przede wszystkim jednak miejcie gorliwą miłość jedni ku drugim; gdyż miłość zakryje[13] mnóstwo grzechów. 9Okazujcie gościnność[14] jedni drugim bez szemrania[15]. 10Każdy tak jak otrzymał dar łaski, niech nim służy drugim[16], jako dobrzy zarządcy[17] różnorodnej łaski Bożej. 11Jeśli ktoś mówi, niech mówi jak Słowa[18] Boga; jeśli ktoś usługuje, to z siłą w jaką Bóg zaopatruje; aby we wszystkim Bóg był otoczony chwałą[19] przez Jezusa Chrystusa. Jemu chwała i moc na wieki wieków. Amen. 12Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22]; 13Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc. 14Jeśli was znieważają dla[23] imienia Chrystusa, jesteście błogosławieni[24], gdyż Duch chwały i Duch Boga spoczywa na was; wprawdzie przez nich jest spotwarzany[25], ale przez was doznaje chwały. 15Niech nikt z was nie cierpi jako zabójca, albo złodziej, albo złoczyńca, albo wtrącający się w cudze sprawy[26]. 16Jeśli natomiast ktoś cierpi jako chrześcijanin, niech nie będzie zawstydzany, ale niech w tej mierze[27] oddaje chwałę Bogu. 17Gdyż jest czas, aby rozpoczął się sąd od domu Bożego; jeżeli więc zaczyna się od nas, jaki będzie koniec tych, którzy nie okazują posłuszeństwa[28] ewangelii Bożej? 18A jeśli sprawiedliwy z trudem jest zbawiany[29], bezbożny i grzeszny gdzie się ukaże[30]? 19Tak więc i ci, którzy cierpią według woli Bożej, niech Jemu, jako wiernemu Stwórcy, powierzają[31] swoje dusze[32] w czynieniu dobra.
+1 List Piotra
+- > 1. Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą; **bo ten, kto cierpiał w ciele, zaprzestał[3] grzechu, 2Aby już więcej, nie w ludzkich pożądliwościach[4], ale w woli Boga, pozostały czas żyć w ciele**. 3Wystarczy już bowiem, że w minionym czasie naszego życia czyniliśmy wolę pogan, żyjąc[5] w rozwiązłościach, pożądliwościach, pijaństwie[6], hulankach, pijatykach i niegodziwych bałwochwalstwach.
 
 # Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 
@@ -150,10 +155,8 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
 
-# Bóg jest wierny i nie daje nam ponad nasze siły
-
-1 List do Koryntian 10,13
-> Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać
+1 List Piotra 4
+Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22]; 13Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, **radujcie się**, byście i podczas objawienia Jego chwały rozradowali się weseląc. 14Jeśli was znieważają dla[23] imienia Chrystusa, jesteście błogosławieni[24], gdyż Duch chwały i Duch Boga spoczywa na was; wprawdzie przez nich jest spotwarzany[25], ale przez was doznaje chwały. 15Niech nikt z was nie cierpi jako zabójca, albo złodziej, albo złoczyńca, albo wtrącający się w cudze sprawy[26]. 16Jeśli natomiast ktoś cierpi jako chrześcijanin, niech nie będzie zawstydzany, ale niech w tej mierze[27] oddaje chwałę Bogu. 17Gdyż jest czas, aby rozpoczął się sąd od domu Bożego; jeżeli więc zaczyna się od nas, jaki będzie koniec tych, którzy nie okazują posłuszeństwa[28] ewangelii Bożej? 18A jeśli sprawiedliwy z trudem jest zbawiany[29], bezbożny i grzeszny gdzie się ukaże[30]? 19Tak więc i ci, którzy cierpią według woli Bożej, niech Jemu, jako wiernemu Stwórcy, powierzają[31] swoje dusze[32] w czynieniu dobra.
 
 # Cierpienia również formą błogosławieństwa i naszą chlubą, gdy cierpimy dla sprawiedliwości, zwłaszcza gdy cierpimy ze względu na Imię Pana
 List do Rzymian 5
@@ -227,8 +230,14 @@ List św. Jakuba 1
 List do Hebrajczyków 12,1
 > 1.  Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
 
-Daj nam dzisiaj 
+## Daj nam dzisiaj 
 One day at a time
+
+**Psalm 34,17-20**
+> 17. Wołają sprawiedliwi, a JHWH wysłuchuje ich i uwalnia z wszelkiego utrapienia.
+> 18. Bliski jest JHWH tym, których serce jest złamane i uwalnia skruszonego ducha.
+> 19. Liczne są cierpienia sprawiedliwego, ale JHWH uwalnia go od nich wszystkich.
+> 20. Strzeże wszystkich jego kości; ani jedna z nich się nie złamała.
 
 ## Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
 
@@ -605,19 +614,35 @@ Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowany
 > 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
 
 ---
-## Szczere serce
-Pismo Święte wielokrotnie podkreśla, że Bóg nie patrzy na zewnętrzne pozory, ale na wnętrze człowieka. Kluczowe fragmenty Biblii o wołaniu i szukaniu Boga szczerym sercem pokazują, że autentyczna, płynąca z głębi serca modlitwa zawsze zostaje wysłuchana.
-Oto najważniejsze wersety podzielone na kategorie tematyczne:
+## Szukanie Boga całym sercem, szczere serce, wołanie w prawdzie
+**Psalm 145,14-18**
+> 14. JHWH podtrzymuje wszystkich, którzy upadają i podnosi wszystkich przygniecionych.
+> 15. Oczy wszystkich patrzą z nadzieją na Ciebie, a Ty im dajesz pokarm w swoim czasie.
+> 16. Otwierasz swoją rękę i zaspokajasz pragnienia wszystkich żyjących.
+> 17. Sprawiedliwy jest JHWH na wszystkich swoich drogach i święty we wszystkich swoich dziełach.
+> 18. Bliski jest JHWH wszystkim, którzy Go wzywają; wszystkim, którzy Go będą wzywać w prawdzie. 
 
-Obietnica wysłuchania szczerego wołania
 
-• Psalm 145,18: „Pan jest blisko wszystkich, którzy Go wzywają, wszystkich, którzy Go wzywają ze szczerością”.
-• Księga Jeremiasza 29,13: „Będziecie Mnie szukać i znajdziecie Mnie, gdy dowiecie się o Mnie całym swoim sercem”.
-• Księga Joela 2,12-13: „Nawróćcie się do Mnie całym swym sercem, przez post i płacz, i lament. Rozdzierajcie jednak serca wasze, a nie szaty! Turncie się do Pana, Boga waszego, bo On jest łaskawy i miłosierny”. [1] (/goto?url=CAESYgHrOzAVM1z_vhaMr1ji-6d53yRop3i8q2PxYS7gwAsNlNkmUj6K2tBhgNb08VjNP2zk_8_UfUJHwhmINOIlDIs3QeU15X9mOis0l7g9TODoNbWo4HANeFlKwXBz67QrJ1r_), [2] (/goto?url=CAESWAHrOzAVrkiOSKgfxfR7aCNi_CRv4sRJis0orDXtoZ4VeEBJ_ZgFV5tLgMGqNPn1yK-_M1uV5QzH2pOyct8_pijb9xzptSwbxAw_S4jMGZzxHPlXA08PaQs), [3] (/goto?url=CAES1gEB6zswFdOWfclV_Af_B3bS1jea4A1tZfhV51PTJcZyADsLduzmmHn5uPdDi6MxfU0afxngtBIP_932xn6nAKjQ09DhnBIKQ5XIk7h8IU59shMYfym7zmA5dlGtNTFcc3SffhoZ63xGnyDQAdVICmbIOnHm1QY5ri5dQSaDsIwt4Ua55nFsMXwdgIVizcbIx3OaZVu-3elJZjV2OHficDsaJpSahwsRHW62suNlWYF_PfLudBI9jmj7qCvojqO_BxiUMYxndzRsBPCKvyxBvYU68aeUjmcR)
+**Księga Jeremiasza 29,4-14**
+> 4.  Tak mówi PAN zastępów, Bóg Izraela, do wszystkich wygnańców, których uprowadziłem z Jerozolimy do Babilonu:
+> 5.  Budujcie domy i mieszkajcie w nich; zakładajcie ogrody i spożywajcie ich owoce;
+> 6.  Pojmujcie żony i płodźcie synów i córki; wybierajcie żony dla waszych synów i wydawajcie swoje córki za mąż, aby rodziły synów i córki. Rozmnażajcie się tam i niech was nie ubywa.
+> 7.  Zabiegajcie o pokój dla tego miasta, do którego was uprowadziłem, i módlcie się za nie do PANA, bo od jego pokoju zależy wasz pokój.
+> 8.  Tak bowiem mówi PAN zastępów, Bóg Izraela: Niech was nie zwodzą wasi prorocy i wróżbici, którzy są wśród was, i nie zwracajcie uwagi na wasze sny, które się wam śnią.
+> 9.  Bo oni prorokują wam kłamliwie w moje imię. Nie posłałem ich, mówi PAN.
+> 10.  Tak bowiem mówi PAN: Gdy wypełni się dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię wobec was swoje dobre słowo, by was sprowadzić z powrotem na to miejsce.
+> 11.  Gdyż ja znam myśli, które mam o was, mówi PAN: myśli o pokoju, a nie o utrapieniu, aby zapewnić wam koniec, jakiego oczekujecie.
+> 12.  Wtedy będziecie mnie wzywać, pójdziecie i będziecie modlić się do mnie, a ja was wysłucham;
+> 13.  Będziecie mnie szukać i znajdziecie mnie, gdy będziecie szukać całym swym sercem.
+> 14.  I dam wam się znaleźć, mówi PAN, i odwrócę waszą niewolę, i zgromadzę was ze wszystkich narodów i ze wszystkich miejsc, do których was wygnałem, mówi PAN. I przyprowadzę was na to miejsce, z którego was uprowadziłem.
+
+**Księga Joela 2,12-13:**
+> 12. I dlatego teraz – oświadczenie JHWH, zawróćcie do mnie całym swoim sercem i w poście, i w płaczu, i lamencie.
+> 13. I rozdzierajcie swoje serca, a nie swoje szaty, i nawróćcie się do JHWH, waszego Boga, bo On jest łaskawy i życzliwy, nieskory do gniewu i wielki w miłosierdziu, i okazujący litość w czasie niedoli. 
 
 Wołanie z głębi ludzkiego wnętrza (skrucha i kryzys)
 
-• Psalm 130,1-2 (De profundis): „Z głębokości wołam do Ciebie, Panie, o Panie, słuchaj głosu mego! Nakłoń swoich uszu ku głośnemu błaganiu mojemu!”
+
 • Psalm 119,145: „Wołam z całego serca: wysłuchaj mnie, Panie, chcę zachować Twoje ustawy”.
 • Psalm 34,19: „Pan jest blisko ludzi skruszonych w sercu i wybawia złamanych na duchu”. [1] (/goto?url=CAESaQHrOzAVi_XfUZDlYSgodltpSxXdJ1Ooae7eu0cA2KWo2KjxexdRc6tDaO5e9ivZAAqSMCEGeGC9OWzWynr70GjD5T0JYC5SWxtj-FALQhZrCroCMbT_c_iDkrYuYXuxJmsu46XOgA51Dg), [2] (/goto?url=CAESWAHrOzAVM4KD0exJIFfEIggJ2yhTx7xb7PNj4MgjQt6CszJPgJFU84iernYuf2d_6sFQ41F1eY_HrGl02dy72klFmcBS2PPmjXD8VplU684IQNwXBa5V7cU)
 
