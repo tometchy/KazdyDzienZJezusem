@@ -285,7 +285,37 @@ Ewangelia Jana 12,27
 
 # Jeśli jesteś w takim stanie
 ## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
-Fragmenty
+## Szukanie Boga całym sercem, szczere serce, wołanie w prawdzie
+**Psalm 145,14-18**
+> 14. JHWH podtrzymuje wszystkich, którzy upadają i podnosi wszystkich przygniecionych.
+> 15. Oczy wszystkich patrzą z nadzieją na Ciebie, a Ty im dajesz pokarm w swoim czasie.
+> 16. Otwierasz swoją rękę i zaspokajasz pragnienia wszystkich żyjących.
+> 17. Sprawiedliwy jest JHWH na wszystkich swoich drogach i święty we wszystkich swoich dziełach.
+> 18. Bliski jest JHWH wszystkim, którzy Go wzywają; wszystkim, którzy Go będą wzywać w prawdzie. 
+
+
+**Księga Jeremiasza 29,4-14**
+> 4.  Tak mówi PAN zastępów, Bóg Izraela, do wszystkich wygnańców, których uprowadziłem z Jerozolimy do Babilonu:
+> 5.  Budujcie domy i mieszkajcie w nich; zakładajcie ogrody i spożywajcie ich owoce;
+> 6.  Pojmujcie żony i płodźcie synów i córki; wybierajcie żony dla waszych synów i wydawajcie swoje córki za mąż, aby rodziły synów i córki. Rozmnażajcie się tam i niech was nie ubywa.
+> 7.  Zabiegajcie o pokój dla tego miasta, do którego was uprowadziłem, i módlcie się za nie do PANA, bo od jego pokoju zależy wasz pokój.
+> 8.  Tak bowiem mówi PAN zastępów, Bóg Izraela: Niech was nie zwodzą wasi prorocy i wróżbici, którzy są wśród was, i nie zwracajcie uwagi na wasze sny, które się wam śnią.
+> 9.  Bo oni prorokują wam kłamliwie w moje imię. Nie posłałem ich, mówi PAN.
+> 10.  Tak bowiem mówi PAN: Gdy wypełni się dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię wobec was swoje dobre słowo, by was sprowadzić z powrotem na to miejsce.
+> 11.  Gdyż ja znam myśli, które mam o was, mówi PAN: myśli o pokoju, a nie o utrapieniu, aby zapewnić wam koniec, jakiego oczekujecie.
+> 12.  Wtedy będziecie mnie wzywać, pójdziecie i będziecie modlić się do mnie, a ja was wysłucham;
+> 13.  Będziecie mnie szukać i znajdziecie mnie, gdy będziecie szukać całym swym sercem.
+> 14.  I dam wam się znaleźć, mówi PAN, i odwrócę waszą niewolę, i zgromadzę was ze wszystkich narodów i ze wszystkich miejsc, do których was wygnałem, mówi PAN. I przyprowadzę was na to miejsce, z którego was uprowadziłem.
+
+**Księga Joela 2,12-13:**
+> 12. I dlatego teraz – oświadczenie JHWH, zawróćcie do mnie całym swoim sercem i w poście, i w płaczu, i lamencie.
+> 13. I rozdzierajcie swoje serca, a nie swoje szaty, i nawróćcie się do JHWH, waszego Boga, bo On jest łaskawy i życzliwy, nieskory do gniewu i wielki w miłosierdziu, i okazujący litość w czasie niedoli. 
+
+**List do Hebrajczyków 10,19-22**
+> 19. Mając więc, bracia, ufną odwagę, aby przez krew Jezusa wejść do świętego Świętych,
+> 20. Drogą nową i żywą, którą nam poświęcił przez zasłonę, to jest przez Jego ciało,
+> 21. I wielkiego kapłana nad domem Boga,
+> 22. Zbliżajmy się ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte wodą czystą. 
 
 # Kto stoi niech baczy by nie upadł
 Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
@@ -612,44 +642,4 @@ Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowany
 
 > **Biblia Toruńska — Mt 6,24**
 > 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
-
----
-## Szukanie Boga całym sercem, szczere serce, wołanie w prawdzie
-**Psalm 145,14-18**
-> 14. JHWH podtrzymuje wszystkich, którzy upadają i podnosi wszystkich przygniecionych.
-> 15. Oczy wszystkich patrzą z nadzieją na Ciebie, a Ty im dajesz pokarm w swoim czasie.
-> 16. Otwierasz swoją rękę i zaspokajasz pragnienia wszystkich żyjących.
-> 17. Sprawiedliwy jest JHWH na wszystkich swoich drogach i święty we wszystkich swoich dziełach.
-> 18. Bliski jest JHWH wszystkim, którzy Go wzywają; wszystkim, którzy Go będą wzywać w prawdzie. 
-
-
-**Księga Jeremiasza 29,4-14**
-> 4.  Tak mówi PAN zastępów, Bóg Izraela, do wszystkich wygnańców, których uprowadziłem z Jerozolimy do Babilonu:
-> 5.  Budujcie domy i mieszkajcie w nich; zakładajcie ogrody i spożywajcie ich owoce;
-> 6.  Pojmujcie żony i płodźcie synów i córki; wybierajcie żony dla waszych synów i wydawajcie swoje córki za mąż, aby rodziły synów i córki. Rozmnażajcie się tam i niech was nie ubywa.
-> 7.  Zabiegajcie o pokój dla tego miasta, do którego was uprowadziłem, i módlcie się za nie do PANA, bo od jego pokoju zależy wasz pokój.
-> 8.  Tak bowiem mówi PAN zastępów, Bóg Izraela: Niech was nie zwodzą wasi prorocy i wróżbici, którzy są wśród was, i nie zwracajcie uwagi na wasze sny, które się wam śnią.
-> 9.  Bo oni prorokują wam kłamliwie w moje imię. Nie posłałem ich, mówi PAN.
-> 10.  Tak bowiem mówi PAN: Gdy wypełni się dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię wobec was swoje dobre słowo, by was sprowadzić z powrotem na to miejsce.
-> 11.  Gdyż ja znam myśli, które mam o was, mówi PAN: myśli o pokoju, a nie o utrapieniu, aby zapewnić wam koniec, jakiego oczekujecie.
-> 12.  Wtedy będziecie mnie wzywać, pójdziecie i będziecie modlić się do mnie, a ja was wysłucham;
-> 13.  Będziecie mnie szukać i znajdziecie mnie, gdy będziecie szukać całym swym sercem.
-> 14.  I dam wam się znaleźć, mówi PAN, i odwrócę waszą niewolę, i zgromadzę was ze wszystkich narodów i ze wszystkich miejsc, do których was wygnałem, mówi PAN. I przyprowadzę was na to miejsce, z którego was uprowadziłem.
-
-**Księga Joela 2,12-13:**
-> 12. I dlatego teraz – oświadczenie JHWH, zawróćcie do mnie całym swoim sercem i w poście, i w płaczu, i lamencie.
-> 13. I rozdzierajcie swoje serca, a nie swoje szaty, i nawróćcie się do JHWH, waszego Boga, bo On jest łaskawy i życzliwy, nieskory do gniewu i wielki w miłosierdziu, i okazujący litość w czasie niedoli. 
-
-Wołanie z głębi ludzkiego wnętrza (skrucha i kryzys)
-
-
-• Psalm 119,145: „Wołam z całego serca: wysłuchaj mnie, Panie, chcę zachować Twoje ustawy”.
-• Psalm 34,19: „Pan jest blisko ludzi skruszonych w sercu i wybawia złamanych na duchu”. [1] (/goto?url=CAESaQHrOzAVi_XfUZDlYSgodltpSxXdJ1Ooae7eu0cA2KWo2KjxexdRc6tDaO5e9ivZAAqSMCEGeGC9OWzWynr70GjD5T0JYC5SWxtj-FALQhZrCroCMbT_c_iDkrYuYXuxJmsu46XOgA51Dg), [2] (/goto?url=CAESWAHrOzAVM4KD0exJIFfEIggJ2yhTx7xb7PNj4MgjQt6CszJPgJFU84iernYuf2d_6sFQ41F1eY_HrGl02dy72klFmcBS2PPmjXD8VplU684IQNwXBa5V7cU)
-
-Przystępowanie do Boga z czystym i szczerym sercem
-
-• List do Hebrajczyków 10,22: „Przystępujmy ze szczerym sercem, z pełną ufnością wiary, mając serca oczyszczone od złego sumienia i ciało obmyte czystą wodą”.
-• Psalm 51,12: „Serce czyste stwórz we mnie, o Boże, i odnów we mnie mocnego ducha!” [1] (/goto?url=CAESYAHrOzAVH2ZHdntxHMu5AKC6zbMvm_3CrwBgnkzqqMSGP-dDUT5Kp2Aua-h1v6cRLJlSm5N1zCPOd4NXcaz2uZBlejIFh-Vu3H4hglFWg71E7TF3jdWom8FetxKPu_LmPQ), [2] (/goto?url=CAESgAEB6zswFW5vOc4I2vCLSdCavqF0aNklCncKivwmCPcBsgyU6CHQXvogvZCK_mfdG4B9qGVF-X7VRQGkegKwL6DvNa-EDXtcJg1mzPRUIiq_iXRB5v3drPMqOxb8rSZoMhhAVUu1G6o3NMzxfOwscx6kd__1KwNk1y5ZCybtGXBSzQ)
-Jeśli przygotowujesz rozważania, kazanie lub osobistą modlitwę, daj mi znać, a chętnie pomogę Ci rozwinąć kontekst teologiczny tych fragmentów lub dobrać kolejne wersety o podobnej dynamice.
-
 
