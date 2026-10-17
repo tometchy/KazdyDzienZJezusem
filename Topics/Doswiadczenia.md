@@ -281,9 +281,6 @@ One day at a time
 
 # Bóg w swojej miłości nas wychowuje
 
-**List do Hebrajczyków 12,1**
-> 1. Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
-
 **Księga Przysłów 3,11-12**
 > „Synu mój, nie lekceważ karania Pana, nie upadaj na duchu, gdy On cię gani. Bo kogo Pan miłuje, tego karze, jak ojciec syna, którego kocha”.
 
@@ -347,6 +344,11 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 18. Dlatego chcieliśmy, zwłaszcza ja, Paweł, przyjść do was i raz i drugi; ale przeszkodził nam szatan.
 > 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
 > 20. Wy bowiem jesteście naszą chwałą i radością.
+
+# Bog chce abysmy trwali
+
+**List do Hebrajczyków 12,1**
+> 1. Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
 
 # Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na życiu w ciele
 
