@@ -517,10 +517,6 @@ Jana 10,28
 https://kazdydzienzjezusem.pl/Biblia/TNP/1P
 
 
-Mat 26,37 + synotycznie
-
-> **Biblia Toruńska — Mt 26,37**
-> 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
 
 
 
