@@ -42,7 +42,7 @@ I na mojej głowie jest nie jeden siwy włos, nie wynikający z genetyki.
 
 ## Potrafię sobie wyobrazić, co czuł Dawid gdy pisał
 Psalm 55:
-> Miotam się swoim zmartwieniu i nie dożywam spokoju
+> Miotam się w swoim zmartwieniu i nie dożywam spokoju
 > Bojaźń i drżenie wkroczyły we mnie i ogarnęlo mnie przerażenie 
 > O, gdybym miał skrzydła jak gołębica, Chętnie uleciałbym i odpoczął
 
