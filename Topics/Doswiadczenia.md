@@ -88,11 +88,16 @@ Psalm 55:
 > 12. Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
 
 # Czy Bóg obiecał nam życie bez cierpienia? Czy może wręcz przeciwnie, wielokrotnie zapewniał nas, że będą one naszym udziałem?
+
+**Dzieje Apostolskie 14**
+> 21. I po ogłoszeniu dobrej nowiny temu miastu i pozyskaniu znacznego grona uczniów, wrócili do Listry i do Ikonium, i do Antiochii,
+> 22. Utwierdzając dusze uczniów i zachęcając, aby trwali w wierze, mówiąc, że przez wiele ucisków trzeba nam wejść do Królestwa Bożego. 
+
 **1 List Piotra 4**
-> 1.  Skoro więc Chrystus cierpiał[1] za nas w ciele[2], to i wy uzbrójcie się tą myślą
+> 1. Skoro więc Chrystus cierpiał za nas w ciele, to i wy uzbrójcie się tą myślą
 > 2. Aby już więcej, nie w ludzkich pożądliwościach, ale w woli Boga, pozostały czas żyć w ciele.
 
-2 List do Tymoteusza 3
+**2 List do Tymoteusza 3**
 > 10. Ale ty poszedłeś za moją nauką, za sposobem życia, za postanowieniami, wiarą, cierpliwością, miłością, wytrwałością,
 > 11. Prześladowaniami, cierpieniami, które mnie spotkały w Antiochii, w Ikonium i w Listrze, które to prześladowania zniosłem; a ze wszystkich wyrwał mnie Pan.
 > 12. Tak, też wszyscy, którzy chcą żyć pobożnie w Chrystusie Jezusie, będą prześladowani.
@@ -192,10 +197,13 @@ Marka 5,36
 > Ale Jezus, skoro usłyszał to, co oni mówili, powiedział do przełożonego synagogi: Nie bój się, tylko wierz!
 
 ### Paweł
+> **1 Kor 2,3**
+> 3. A ja stanąłem przed wami w słabości, w bojaźni i z wielkim drżeniem.
+
 **Dzieje 18,9-10**
-> 9.  A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
-> 10.  Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
-> 11.  Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
+> 9. A Pan w nocy przez widzenie powiedział Pawłowi: Nie bój się, lecz mów i nie milcz
+> 10. Dlatego, że ja jestem z tobą i nikt nie tknie ciebie, aby cię skrzywdzić, ja bowiem mam wielki lud w tym mieście.
+> 11. Osiadł tam zatem na rok i sześć miesięcy, nauczając u nich Słowa Bożego.
 
 **Dzieje 27,23-25**
 > 23. Tej nocy bowiem, stanął przy mnie anioł tego Boga, do którego należę i któremu służę, mówiąc:
@@ -250,9 +258,20 @@ One day at a time
 > 17. A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,
 > 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci.
 
+**I List Piotra 5**
+> 5. Podobnie młodsi, bądźcie ulegli starszym, a wszyscy bądźcie ulegli jedni drugim. Przepaszcie się pokorą, gdyż Bóg pysznym się sprzeciwia, a pokornym daje łaskę.
+> 6. Uniżcie się pod mocną ręką Boga, aby was wywyższył w swoim czasie;
+> 7. Przerzućcie na Niego wszelką waszą troskę, gdyż On troszczy się o was.
+> 8. Otrzeźwijcie, obudźcie się, gdyż przeciwnik wasz, diabeł, chodzi wokoło jak lew ryczący, szukając kogo by pochłonąć.
+> 9. Przeciwstawcie się mu mocni wiarą, wiedząc, że takie same cierpienia wasi bracia przechodzą w świecie.
+> 10. A Bóg wszelkiej łaski, który nas powołał do wiecznej swojej chwały w Chrystusie Jezusie, po krótkotrwałych cierpieniach, oby sam was uczynił doskonałymi, oby utwierdził, oby umocnił i oby ugruntował. 
+
 # Bóg w swojej miłości nas wychowuje
 
-List do Hebrajczyków 12,1-16
+**Księga Przysłów 3,11-12**
+> „Synu mój, nie lekceważ karania Pana, nie upadaj na duchu, gdy On cię gani. Bo kogo Pan miłuje, tego karze, jak ojciec syna, którego kocha”.
+
+**List do Hebrajczyków 12,1-16**
 > 1.  Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
 > 2.  Patrząc uważnie na Jezusa, który jest początkiem i końcem naszej wiary, który w miejsce leżącej przed Nim radości wycierpiał krzyż, znosząc jego hańbę, i zasiadł po prawicy tronu Boga.
 > 3.  Rozważcie bowiem, jakim jest Ten, który wycierpiał od grzeszników przeciwko sobie tak wielki sprzeciw, abyście zmęczeni, nie osłabli na duszy.
@@ -276,7 +295,7 @@ List do Hebrajczyków 12,1-16
 
 ## Nawet o naszym Panu, w Liście do Hebrajczyków czytamy, wzmiankę o cierpieniach jako nauce posłuszeństwa
 
-8*List do Hebrajczykow 5,8**
+**List do Hebrajczykow 5,8**
 > I chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał
 
 ## Wierzę, że w przypadku Pana nauka posłuszeństwa ma zupełnie inny wymiar niż w naszym przypadku, ale mamy w Słowie zapisaną to dla nas
@@ -386,6 +405,7 @@ List św. Jakuba 1
 **Jana 15**
 > 26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
 > 27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
+
 **Jana 16**
 > 1. To wam powiedziałem, abyście nie zostali złamani.
 > 2. Wyłączać was będą z synagog; a nawet nadchodzi godzina, że każdy, kto was zabije, będzie uważał, że pełni służbę Bogu.
@@ -420,6 +440,7 @@ List św. Jakuba 1
 > 31. Jezus odpowiedział im: Dopiero teraz wierzycie?
 > 32. Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną.
 > 33. To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat.
+
 **Jana 17**
 > 1. Gdy Jezus to powiedział, podniósł swoje oczy ku niebu, mówiąc: Ojcze! Nadeszła godzina, otocz chwałą Twojego Syna, aby i Twój Syn otoczył chwałą Ciebie;
 > 2. Tak, jak dałeś mu władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś.
@@ -441,23 +462,9 @@ List św. Jakuba 1
 
 
 
-Fragmenty, że Bóg chce narzędzie wypróbowane, przygotowane do wszelkiego dobrego dzieła, Bogu zależy, żebyśmy przeszli próbę, aby nas przygotować, aby powierzyć nam odpowiedzialność. Bóg powierzał odpowiedzialności sługom których wcześniej wypróbowywał, nawet Pana Jezusa.
-
-Analogia do jakichś zrozumianych dla nas przygotowań, które nie są łatwe, czy może w wojsku, czy jakimś sporcie czy coś innego
-
-"Bądźcie trzeźwi, czuwajcie! Wasz przeciwnik, diabeł, jak lew ryczący krąży i szuka, kogo pożreć. Przeciwstawiajcie się jemu, silni wiarą, wiedząc, ze te same cierpienia znoszą wasi bracia na świecie. A Bóg wszelkiej łaski, Ten, który w Chrystusie powołał was do swojej wiecznej chwały, po waszych krótkotrwałych cierpieniach, sam was udoskonali, utwierdzi, umocni i postawi na twardym gruncie."
 
 
-1 Kor 2,3 <-> Dz. 18,9 <-> 2 Kor 10,1
 
-> **Biblia Toruńska — 1 Kor 2,3**
-> 3. A ja stanąłem przed wami w słabości, w bojaźni i z wielkim drżeniem.
-
-> **Biblia Toruńska — Dz 18,9**
-> 9. A Pan w nocy przez widzenie powiedział Pawłowi: „Nie bój się, lecz mów i nie milcz;
-
-> **Biblia Toruńska — 2 Kor 10,1**
-> 1. A ja sam, Paweł, zachęcam was przez łagodność i życzliwość Chrystusa, ja, który obecny wśród was osobiście, prawdziwie jestem pokorny, lecz nieobecny, podobno jestem śmiały wobec was.
 
 II List do Koryntian 1
 
@@ -521,9 +528,6 @@ Mat 26,37 + synotycznie
 
 Dzieje Apostolskie 14,22:„[...] umacniając dusze uczniów, zachęcając do wytrwałości w wierze i mówiąc, że przez wiele ucisków trzeba nam wejść do królestwa Bożego”.
 
-
-Księga Przysłów 3,11-12:„Synu mój, nie lekceważ karania Pana, nie upadaj na duchu, gdy On cię gani. Bo kogo Pan miłuje, tego karze, jak ojciec syna, którego kocha”.
-(Fragment cytowany później również w Nowym Testamencie, w Liście do Hebrajczyków 12,6).
 
 
 Rzymian 8,18: „Uważam bowiem, że cierpienia teraźniejszego czasu nie są godne porównywania z tą przyszłą chwałą, która ma się w nas objawić”.
