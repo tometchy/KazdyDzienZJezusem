@@ -416,7 +416,12 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 > 11. Ale ty, Boży człowieku, uciekaj przed tym, a zabiegaj o sprawiedliwość, pobożność, wiarę, miłość, wytrwałość, łagodność.
 > 12. Staczaj dobry bój wiary, chwyć się życia wiecznego, do którego zostałeś powołany i złożyłeś dobre wyznanie wobec wielu świadków.
 
-List św. Jakuba 1
+# Tylko krotka chwile jestesmy przechodniami na tej ziemii, nie skupiajmy sie na tym zyciu
+
+**Rzymian 8,18**
+> „Uważam bowiem, że cierpienia teraźniejszego czasu nie są godne porównywania z tą przyszłą chwałą, która ma się w nas objawić”.
+
+**List św. Jakuba 1**
 > 2.  Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
 > 12.  Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
 
@@ -447,4 +452,3 @@ List św. Jakuba 1
 # A to jest życie wieczne, abyśmy poznawali jedynego prawdziwego Boga i tego któego posłał, Jezusa Mesjasza
 
 # Amen.
-zymian 8,18: „Uważam bowiem, że cierpienia teraźniejszego czasu nie są godne porównywania z tą przyszłą chwałą, która ma się w nas objawić”.
