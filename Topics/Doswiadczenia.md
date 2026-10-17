@@ -64,20 +64,9 @@ Psalm 55:
 # Bóg jest nie tylko świadom cierpienia, Bóg na nie przyzwala
 
 **Hioba 1, 6-12**
-> 6. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich.
-> 7. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
-> 8. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba? Gdyż nie ma nikogo jak on na ziemi. Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła.
-> 9. A szatan odpowiedział JHWH, mówiąc: Czy Hiob za darmo boi się Boga?
-> 10. Czy nie ty ogrodziłeś zewsząd jego, jego dom i wszystko, co wokół niego? Błogosławiłeś dziełu jego rąk, a jego dobytek rozmnożył się na ziemi.
-> 11. Ale teraz wyciągnij tylko swoją rękę i dotknij tego wszystkiego, co ma, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
 > 12. **Wtedy JHWH powiedział do szatana: Oto wszystko to, co ma, jest w twojej mocy, tylko na niego nie wyciągaj ręki.** I szatan odszedł sprzed oblicza JHWH.
 
 **Hioba 2, 1-6**
-> 1. I stało się pewnego dnia, gdy synowie Boży przyszli, aby stanąć przed JHWH, że także szatan przyszedł wśród nich, aby stanąć przed JHWH
-> 2. I powiedział JHWH do szatana: Skąd przychodzisz? I odpowiedział szatan JHWH, mówiąc: Krążyłem po ziemi i przechadzałem się po niej.
-> 3. Wtedy JHWH powiedział do szatana: Czy zwróciłeś uwagę na mojego sługę Hioba – gdyż nie ma nikogo jak on na ziemi? Człowiek to nienaganny i prawy, bojący się Boga i stroniący od zła. On nadal trwa w swojej prawości, a ty mnie nakłoniłeś przeciw niemu, aby go pochłonąć jak widać bez powodu.
-> 4. Szatan odpowiedział JHWH, mówiąc: Skóra za skórę, a wszystko, co człowiek ma, odda za swoje życie;
-> 5. Lecz wyciągnij tylko swoją rękę i uderz w jego kości i w jego ciało, a zobaczysz, czy nie będzie ci w twarz złorzeczył.
 > 6. **Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.**
 
 ## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpienia
