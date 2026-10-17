@@ -103,18 +103,6 @@ Psalm 55:
 
 # Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa
 
-**1 Piotra 2,19-25**
-> 19. To bowiem jest łaska, jeśli ktoś z powodu sumienia, dla Boga znosi utrapienie, cierpiąc niesprawiedliwie.
-> 20. Bo co to za chwała, jeśli grzesząc znosicie, gdy was policzkują? Ale jeśli znosicie to, cierpiąc za dobre czyny, to jest łaska u Boga.
-> 21. **Do tego bowiem zostaliście wezwani, ponieważ i Chrystus cierpiał za nas, zostawiając nam przykład, abyśmy poszli Jego śladami**.
-> 22. On grzechu nie popełnił i nie znaleziono zdrady w Jego ustach,
-> 23. On, gdy Mu złorzeczono, nie odwzajemniał się złorzeczeniem, gdy cierpiał nie groził, ale powierzał się Temu, który sprawiedliwie sądzi,
-> 24. On grzechy nasze sam na ciele swoim poniósł na drzewo, abyśmy jako umarli grzechom, żyli dla sprawiedliwości. Jego sińce uleczyły was.
-> 25. Byliście bowiem jak błąkające się owce; ale teraz zostaliście zawróceni do pasterza i stróża dusz waszych.
-
-**I List Piotra 4**
-> 1. Skoro więc Chrystus cierpiał za nas w ciele, to i wy uzbrójcie się tą myślą; bo ten, kto cierpiał w ciele, zaprzestał grzechu,
-> 2. Aby już więcej, nie w ludzkich pożądliwościach, ale w woli Boga, pozostały czas żyć w ciele.
 
 > **1 Tes 1**
 > 1. Paweł i Sylwan, i Tymoteusz do zboru Tesaloniczan w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
@@ -130,7 +118,16 @@ Psalm 55:
 
 ## A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego,
 
-# Cierpienia również formą naszego błogosławieństwa i naszą chlubą, gdy cierpimy dla sprawiedliwości
+**1 Piotra 2,19-25**
+> 19. **To bowiem jest łaska, jeśli ktoś z powodu sumienia, dla Boga znosi utrapienie, cierpiąc niesprawiedliwie**.
+> 20. Bo co to za chwała, jeśli grzesząc znosicie, gdy was policzkują? Ale jeśli znosicie to, cierpiąc za dobre czyny, to jest łaska u Boga.
+> 21. **Do tego bowiem zostaliście wezwani, ponieważ i Chrystus cierpiał za nas, zostawiając nam przykład, abyśmy poszli Jego śladami**.
+> 22. On grzechu nie popełnił i nie znaleziono zdrady w Jego ustach,
+> 23. On, gdy Mu złorzeczono, nie odwzajemniał się złorzeczeniem, gdy cierpiał nie groził, ale powierzał się Temu, który sprawiedliwie sądzi,
+> 24. On grzechy nasze sam na ciele swoim poniósł na drzewo, abyśmy jako umarli grzechom, żyli dla sprawiedliwości. Jego sińce uleczyły was.
+> 25. Byliście bowiem jak błąkające się owce; ale teraz zostaliście zawróceni do pasterza i stróża dusz waszych.
+
+# Cierpienia również formą naszego błogosławieństwa i łaską, i naszą chlubą, gdy cierpimy dla sprawiedliwości
 
 **List do Rzymian 5**
 > 1.  Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
