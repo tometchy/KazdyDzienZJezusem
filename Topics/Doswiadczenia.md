@@ -69,9 +69,9 @@ Psalm 55:
 **Hioba 2, 1-6**
 > 6. **Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.**
 
-## Trudne to słowa, wiemy, że Bóg nas kocha, wiemy, że Bóg jest dobry. a jednak dopuszcza cierpienia
+## Trudne to słowa, wiemy, że Bóg nas kocha, wiemy, że Bóg jest dobry, a jednak dopuszcza cierpienia
 
-## Czy nas to dziwi?
+## Czy nas to dziwi? Bo nie powinno.
 
 **1 List Piotra 4**
 > 12. Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
