@@ -69,7 +69,7 @@ Psalm 55:
 **Hioba 2, 1-6**
 > 6. **Wtedy JHWH powiedział do szatana: Oto jest w twojej mocy, lecz jego życie zachowaj.**
 
-## Trudne to słowa, wiemy, że Bóg nas kocha, a jednak dopuszcza cierpienia
+## Trudne to słowa, wiemy, że Bóg nas kocha, wiemy, że Bóg jest dobry. a jednak dopuszcza cierpienia
 
 ## Czy nas to dziwi?
 
