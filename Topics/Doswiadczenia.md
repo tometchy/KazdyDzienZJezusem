@@ -117,7 +117,7 @@ Psalm 55:
 **1 Piotra 2,19-25**
 > 19. To bowiem jest łaska, jeśli ktoś z powodu sumienia, dla Boga znosi utrapienie, cierpiąc niesprawiedliwie.
 > 20. Bo co to za chwała, jeśli grzesząc znosicie, gdy was policzkują? Ale jeśli znosicie to, cierpiąc za dobre czyny, to jest łaska u Boga.
-> 21. Do tego bowiem zostaliście wezwani, ponieważ i Chrystus cierpiał za nas, zostawiając nam przykład, abyśmy poszli Jego śladami.
+> 21. **Do tego bowiem zostaliście wezwani, ponieważ i Chrystus cierpiał za nas, zostawiając nam przykład, abyśmy poszli Jego śladami**.
 > 22. On grzechu nie popełnił i nie znaleziono zdrady w Jego ustach,
 > 23. On, gdy Mu złorzeczono, nie odwzajemniał się złorzeczeniem, gdy cierpiał nie groził, ale powierzał się Temu, który sprawiedliwie sądzi,
 > 24. On grzechy nasze sam na ciele swoim poniósł na drzewo, abyśmy jako umarli grzechom, żyli dla sprawiedliwości. Jego sińce uleczyły was.
@@ -126,6 +126,20 @@ Psalm 55:
 **I List Piotra 4**
 > 1. Skoro więc Chrystus cierpiał za nas w ciele, to i wy uzbrójcie się tą myślą; bo ten, kto cierpiał w ciele, zaprzestał grzechu,
 > 2. Aby już więcej, nie w ludzkich pożądliwościach, ale w woli Boga, pozostały czas żyć w ciele.
+
+> **1 Tes 1**
+> 1. Paweł i Sylwan, i Tymoteusz do zboru Tesaloniczan w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
+> 2. Dziękujemy Bogu zawsze za was wszystkich, gdy wspominamy was w naszych modlitwach.
+> 3. Nieustannie przypominając sobie o dziele waszej wiary i o trudzie miłości, i o wytrwałości w nadziei co do Pana naszego Jezusa Chrystusa, przed Bogiem i Ojcem naszym,
+> 4. Wiedząc, bracia umiłowani przez Boga, o wybraniu waszym,
+> 5. Że nasza Ewangelia zaistniała w was nie tylko w Słowie, ale i w mocy, i w Duchu Świętym, i w wielkiej całkowitej pewności, jak wiecie, jakimi staliśmy się pośród was ze względu na was.
+> 6. **A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego**,
+> 7. Tak, że wy staliście się wzorem dla wszystkich wierzących w Macedonii i w Achai.
+> 8. Bowiem od was rozbrzmiało Słowo Pana nie tylko w Macedonii i w Achai, ale i w każdym miejscu rozeszła się wasza wiara w Boga, tak że nie mamy potrzeby o tym mówić,
+> 9. Sami bowiem o nas oznajmiają, jak szerokie mieliśmy wejście do was i jak nawróciliście się od bożków do Boga, aby służyć Bogu żywemu i prawdziwemu,
+> 10. I oczekiwać Syna Jego z niebios, którego wzbudził z martwych, Jezusa, który nas wyrywa od nadchodzącego gniewu.
+
+## A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego,
 
 # Cierpienia również formą naszego błogosławieństwa i naszą chlubą, gdy cierpimy dla sprawiedliwości
 
@@ -508,19 +522,7 @@ Mat 26,37 + synotycznie
 > **Biblia Toruńska — Mt 26,37**
 > 37. A gdy wziął ze sobą Piotra i dwóch synów Zebedeusza, zaczął się smucić i trwożyć.
 
-> **Biblia Toruńska — 1 Tes 1 — cały rozdział**
-> 1. Paweł i Sylwan, i Tymoteusz do zboru Tesaloniczan w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
-> 2. Dziękujemy Bogu zawsze za was wszystkich, gdy wspominamy was w naszych modlitwach.
-> 3. Nieustannie przypominając sobie o dziele waszej wiary i o trudzie miłości, i o wytrwałości w nadziei co do Pana naszego Jezusa Chrystusa, przed Bogiem i Ojcem naszym,
-> 4. Wiedząc, bracia umiłowani przez Boga, o wybraniu waszym,
-> 5. Że nasza Ewangelia zaistniała w was nie tylko w Słowie, ale i w mocy, i w Duchu Świętym, i w wielkiej całkowitej pewności, jak wiecie, jakimi staliśmy się pośród was ze względu na was.
-> 6. A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego,
-> 7. Tak, że wy staliście się wzorem dla wszystkich wierzących w Macedonii i w Achai.
-> 8. Bowiem od was rozbrzmiało Słowo Pana nie tylko w Macedonii i w Achai, ale i w każdym miejscu rozeszła się wasza wiara w Boga, tak że nie mamy potrzeby o tym mówić,
-> 9. Sami bowiem o nas oznajmiają, jak szerokie mieliśmy wejście do was i jak nawróciliście się od bożków do Boga, aby służyć Bogu żywemu i prawdziwemu,
-> 10. I oczekiwać Syna Jego z niebios, którego wzbudził z martwych, Jezusa, który nas wyrywa od nadchodzącego gniewu.
 
-## A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego,
 
 
 
