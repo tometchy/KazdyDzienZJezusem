@@ -58,7 +58,7 @@ Psalm 55:
 **Mt 10,28-31**
 > 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
 > 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
-> 30. Nawet i włosy na waszej głowie wszystkie są policzone.
+> 30. **Nawet i włosy na waszej głowie wszystkie są policzone.**
 > 31. Nie bójcie się więc; wy jesteście ważniejsi niż wiele wróbli.
 
 # Bóg jest nie tylko świadom cierpienia, Bóg na nie przyzwala
@@ -74,13 +74,13 @@ Psalm 55:
 ## Czy nas to dziwi? Bo nie powinno.
 
 **1 List Piotra 4**
-> 12. Umiłowani! Nie dziwcie się próbie ognia[20], która was doświadcza[21], jakby was spotykało coś niezwykłego[22];
+> 12. Umiłowani! Nie dziwcie się próbie ognia, która was doświadcza, jakby was spotykało coś niezwykłego
 
 # Czy Bóg obiecał nam życie bez cierpienia? Czy może wręcz przeciwnie, wielokrotnie zapewniał nas, że będą one naszym udziałem?
 
 **Dzieje Apostolskie 14**
 > 21. I po ogłoszeniu dobrej nowiny temu miastu i pozyskaniu znacznego grona uczniów, wrócili do Listry i do Ikonium, i do Antiochii,
-> 22. Utwierdzając dusze uczniów i zachęcając, aby trwali w wierze, mówiąc, że przez wiele ucisków trzeba nam wejść do Królestwa Bożego. 
+> 22. Utwierdzając dusze uczniów i zachęcając, aby trwali w wierze, mówiąc, że **przez wiele ucisków trzeba nam wejść do Królestwa Bożego**. 
 
 **1 List Piotra 4**
 > 1. Skoro więc Chrystus cierpiał za nas w ciele, to i wy uzbrójcie się tą myślą
@@ -88,15 +88,18 @@ Psalm 55:
 
 **2 List do Tymoteusza 3**
 > 10. Ale ty poszedłeś za moją nauką, za sposobem życia, za postanowieniami, wiarą, cierpliwością, miłością, wytrwałością,
-> 11. Prześladowaniami, cierpieniami, które mnie spotkały w Antiochii, w Ikonium i w Listrze, które to prześladowania zniosłem; a ze wszystkich wyrwał mnie Pan.
-> 12. Tak, też wszyscy, którzy chcą żyć pobożnie w Chrystusie Jezusie, będą prześladowani.
+> 11. **Prześladowaniami, cierpieniami**, które mnie spotkały w Antiochii, w Ikonium i w Listrze, które to prześladowania zniosłem; a ze wszystkich wyrwał mnie Pan.
+> 12. Tak, też **wszyscy, którzy chcą żyć pobożnie w Chrystusie Jezusie, będą prześladowani**.
 > 13. Lecz ludzie źli i oszuści będą posuwać się do coraz gorszego, wprowadzając innych w błędy i sami dając się w błędy wprowadzać.
-> 14. Ale ty trwaj w tym, czego się nauczyłeś i o czym zostałeś przekonany, wiedząc od kogo się tego nauczyłeś,
+> 14. Ale ty **trwaj**
+> 15.  w tym, czego się nauczyłeś i o czym zostałeś przekonany, wiedząc od kogo się tego nauczyłeś,
+
+## Ale Ty trwaj
 
 **Filipian 1, 27-30**
 > 27. Tylko żyjcie jak wolni obywatele w sposób godny Ewangelii Chrystusa, abym, czy przyjdę i ujrzę was, czy będąc nieobecnym, słyszał o was, że stoicie w jednym duchu, jedną duszą walcząc razem dla wiary Ewangelii,
 > 28. I w niczym nie dając się zastraszyć przeciwnikom; co dla nich prawdziwie jest dowodem zguby, a dla was zbawienia, i to od Boga;
-> 29. Gdyż wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli,
+> 29. Gdyż **wam to zostało darowane dla Chrystusa, abyście nie tylko w Niego wierzyli, ale i dla Niego cierpieli**,
 > 30. Tocząc tę samą walkę, jaką widzieliście we mnie i o jakiej we mnie teraz słyszycie.
 
 ## Zostaliśmy obdarowani nie tylko tym, że możemy w Jezusa wierzyć, ale także tym, że możemy dla Niego cierpieć
@@ -104,9 +107,7 @@ Psalm 55:
 # Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa
 
 > **1 Tes 1**
-> 1. Paweł i Sylwan, i Tymoteusz do zboru Tesaloniczan w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
-> 2. Dziękujemy Bogu zawsze za was wszystkich, gdy wspominamy was w naszych modlitwach.
-> 3. Nieustannie przypominając sobie o dziele waszej wiary i o trudzie miłości, i o wytrwałości w nadziei co do Pana naszego Jezusa Chrystusa, przed Bogiem i Ojcem naszym,
+> 3. Nieustannie przypominając sobie o dziele waszej wiary **i o trudzie miłości, i o wytrwałości w nadziei** co do Pana naszego Jezusa Chrystusa, przed Bogiem i Ojcem naszym,
 > 4. Wiedząc, bracia umiłowani przez Boga, o wybraniu waszym,
 > 5. Że nasza Ewangelia zaistniała w was nie tylko w Słowie, ale i w mocy, i w Duchu Świętym, i w wielkiej całkowitej pewności, jak wiecie, jakimi staliśmy się pośród was ze względu na was.
 > 6. **A wy staliście się naśladowcami naszymi i Pana, przyjmując Słowo w wielkim ucisku, z radością Ducha Świętego**,
@@ -131,7 +132,7 @@ Psalm 55:
 **List do Rzymian 5**
 > 1. Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
 > 2. Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
-> 3. A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
+> 3. A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że **ucisk sprawia wytrwałość**,
 > 4. A wytrwałość doświadczenie, a doświadczenie nadzieję,
 > 5. A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
 
@@ -144,7 +145,7 @@ Psalm 55:
 
 **Dzieje Apostolskie 5,17-42**
 > 40. a gdy zawołali apostołów, wychłostali ich, zakazując im przemawiać w imieniu Jezusa; i wypuścili ich.
-> 41. Ci więc odeszli sprzed oblicza Sanhedrynu, radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia.
+> 41. Ci więc odeszli sprzed oblicza Sanhedrynu, **radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia**.
 > 42. I nie przestawali każdego dnia w świątyni i w domach nauczać, i głosić dobrą nowinę Jezusa Chrystusa.
 
 ## Radując się, że zostali uznani za godnych, aby znosić hańbę dla Jego imienia. Radowali się z wychłostania!
@@ -153,16 +154,15 @@ Psalm 55:
 > Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
 
 **Ewangelia Mateusza 5, 10-12** 
-:„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
+> „Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
 **Efezjan 3,12-18**
 > 12. W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
-> 13. Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
+> 13. Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, **które są waszą chwałą**.
 > 14. Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
 > 15. Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
 > 16. Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
 > 17. Aby Chrystus przez wiarę zadomowił się w waszych sercach,
-> 18. A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 # Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
@@ -207,9 +207,13 @@ Marka 5,36
 **Księga Izajasza (rozdział 41, werset 10)**
 > „Nie lękaj się, bo Ja jestem z tobą; nie trwóż się, bom Ja twoim Bogiem. Umacniam cię, jeszcze i wspomagam, podtrzymuję cię moją prawicą sprawiedliwą”.
 
-# Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, Bóg wie, z czego jesteśmy ulepieni, pamięta, że jesteśmy prochem
+# Jesteśmy ludźmi, trwoga i strach są naturalnymi reakcjami, widzimy to w Slowie w przykladach mezow Bozych, 
 
-# Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas raczej nie jesteśmy w dobrym miejscu.
+**Ps 103,13-14**
+> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
+> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
+
+# Ale gdy trwoga dominuje nasze życie i zabiera nam z oczu Jezusa, wówczas nie jesteśmy w dobrym miejscu.
 
 # Jeśli jesteś w takim stanie
 
@@ -224,7 +228,6 @@ Marka 5,36
 > 18. Bliski jest JHWH wszystkim, którzy Go wzywają; wszystkim, którzy Go będą wzywać w prawdzie. 
 
 **Księga Jeremiasza 29,4-14**
-> 10.  Tak bowiem mówi PAN: Gdy wypełni się dla Babilonu siedemdziesiąt lat, nawiedzę was i spełnię wobec was swoje dobre słowo, by was sprowadzić z powrotem na to miejsce.
 > 11.  Gdyż ja znam myśli, które mam o was, mówi PAN: myśli o pokoju, a nie o utrapieniu, aby zapewnić wam koniec, jakiego oczekujecie.
 > 12.  Wtedy będziecie mnie wzywać, pójdziecie i będziecie modlić się do mnie, a ja was wysłucham;
 > 13.  Będziecie mnie szukać i znajdziecie mnie, **gdy będziecie szukać całym swym sercem**.
@@ -238,21 +241,16 @@ Marka 5,36
 > 19. Mając więc, bracia, ufną odwagę, aby przez krew Jezusa wejść do świętego Świętych,
 > 20. Drogą nową i żywą, którą nam poświęcił przez zasłonę, to jest przez Jego ciało,
 > 21. I wielkiego kapłana nad domem Boga,
-> 22. Zbliżajmy się ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte wodą czystą. 
+> 22. Zbliżajmy się **ze szczerym sercem, w pełni wiary, mając serca oczyszczone od złego sumienia i ciało obmyte wodą czystą**. 
 
 ## Daj nam dzisiaj 
 One day at a time
 
-> **Biblia Toruńska — Ps 103,13-14**
-> 13. Jak ojciec lituje się nad dziećmi, tak Jhwh lituje się nad tymi, którzy się Go boją.
-> 14. Bo On wie, jakim jesteśmy tworem; pamięta, że jesteśmy prochem.
-
 **Księga Objawienia 1**
 > 17. A gdy Go ujrzałem, upadłem do Jego stóp jak martwy; i nałożył swoją prawą rękę na mnie, mówiąc do mnie: Nie bój się! Ja jestem pierwszy i ostatni,
-> 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków. Amen. I mam klucze Hadesu i śmierci.
+> 18. I żyjący; a byłem martwy, a oto jestem żywy na wieki wieków
 
 **I List Piotra 5**
-> 5. Podobnie młodsi, bądźcie ulegli starszym, a wszyscy bądźcie ulegli jedni drugim. Przepaszcie się pokorą, gdyż Bóg pysznym się sprzeciwia, a pokornym daje łaskę.
 > 6. Uniżcie się pod mocną ręką Boga, aby was wywyższył w swoim czasie;
 > 7. Przerzućcie na Niego wszelką waszą troskę, gdyż On troszczy się o was.
 > 8. Otrzeźwijcie, obudźcie się, gdyż przeciwnik wasz, diabeł, chodzi wokoło jak lew ryczący, szukając kogo by pochłonąć.
@@ -260,11 +258,9 @@ One day at a time
 > 10. A Bóg wszelkiej łaski, który nas powołał do wiecznej swojej chwały w Chrystusie Jezusie, po krótkotrwałych cierpieniach, oby sam was uczynił doskonałymi, oby utwierdził, oby umocnił i oby ugruntował. 
 
 ## Takie same cierpienia wasi bracia przechodzą w świecie
-## Znamy raporty Open Doors, wiemy o 
+## Znamy raporty Open Doors, wiemy o cierpieniach nszych braci w swiecie
 
-**2 Kor 1-x**
-> 1. Paweł, apostoł Jezusa Chrystusa z woli Boga, i Tymoteusz brat, zborowi Boga, który jest w Koryncie, razem ze wszystkimi świętymi, którzy są w całej Achai,
-> 2. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
+**2 Kor**
 > 3. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy,
 > 4. On pociesza nas we wszelkim naszym ucisku, abyśmy również mogli pocieszać tych, którzy są we wszelkim ucisku, poprzez tę pociechę, którą sami jesteśmy przez Boga pocieszani.
 > 5. Gdyż tak jak obfitują względem nas cierpienia Chrystusa, tak przez Chrystusa obfituje i nasze pocieszenie.
@@ -278,6 +274,21 @@ One day at a time
 > 13. Albowiem nie piszemy wam nic innego, tylko to, co czytacie i co poznajecie, a mam nadzieję, że i do końca poznacie,
 > 14. Tak jak po części nas poznaliście, że jesteśmy waszą chlubą, tak jak i wy naszą w dniu Pana Jezusa.
 > 15. I z tą ufnością chciałem już wcześniej przyjść do was, abyście po raz drugi otrzymali łaskę
+
+# Bog chce abysmy trwali
+
+**List do Hebrajczyków 12,1**
+> 1. Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
+
+# Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na życiu w ciele
+
+**2 Kor 12,7-10**
+> 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
+> 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
+> 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
+> 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
+
+## Moja moc jest doskonalona w slabosci
 
 # Bóg w swojej miłości nas wychowuje
 
@@ -306,19 +317,6 @@ One day at a time
 
 ### Wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są **przez nie wyćwiczeni**.
 
-## Nawet o naszym Panu, w Liście do Hebrajczyków czytamy, wzmiankę o cierpieniach jako nauce posłuszeństwa
-
-**List do Hebrajczykow 5,8**
-> I chociaż był Synem, nauczył się posłuszeństwa przez to, co wycierpiał
-
-## Wierzę, że w przypadku Pana nauka posłuszeństwa ma zupełnie inny wymiar niż w naszym przypadku, ale mamy w Słowie zapisaną to dla nas
-
-## Pan chce, abyśmy zaprzestawali grzechu! 
-**1 List Piotra 4**
-> 1. Skoro więc Chrystus cierpiał za nas w ciele, to i wy uzbrójcie się tą myślą; **bo ten, kto cierpiał w ciele, zaprzestał[3] grzechu**,
-> 2. Aby już więcej, nie w ludzkich pożądliwościach, ale w woli Boga, pozostały czas żyć w ciele.
-> 3. Wystarczy już bowiem, że w minionym czasie naszego życia czyniliśmy wolę pogan, żyjąc w rozwiązłościach, pożądliwościach, pijaństwie, hulankach, pijatykach i niegodziwych bałwochwalstwach.
-
 # Przygotowywanie do większych odpowiedzialności, naczynie wypróbowane, zmienianie nas
 
 Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był łatwy w obyciu. Karol zna mnie od niedawna, ale gdyby znał mnie wcześniej, to jestem pewny, że i o mnie by to samo mówił.
@@ -328,35 +326,8 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 > 2. Ale chociaż i przedtem, jak wiecie, **cierpieliśmy i doznaliśmy zniewag w Filippi**, jednak śmiało w Bogu naszym powiedzieliśmy u was Ewangelię Bożą w wielkim boju.
 > 3. Albowiem wezwanie nasze nie wypływa z błędu ani z nieczystości, ani nie kryje w sobie podstępu,
 > 4. Ale jak **zostaliśmy wypróbowani przez Boga, aby została nam powierzona Ewangelia**, tak mówimy, nie aby podobać się ludziom, ale Bogu, który poddaje próbie nasze serca.
-> 5. Bo jak wiecie, nigdy nie byliśmy u was ze słowem pochlebstwa ani pod pozorem chciwości; Bóg jest tego świadkiem.
-> 6. Ani nie szukamy chwały od ludzi, ani od was, ani od innych, choć jako apostołowie Chrystusa możemy być w poważaniu;
-> 7. Ale byliśmy łagodni pośród was, jak karmicielka pielęgnująca swoje dzieci.
-> 8. Tak przywiązaliśmy się do was, że byliśmy gotowi przekazać wam nie tylko Ewangelię Bożą, ale i własne dusze, ponieważ staliście się dla nas umiłowani.
-> 9. Albowiem pamiętacie, bracia, trud nasz i mozół, gdyż pracując nocą i dniem, aby nikogo z was nie obciążyć, ogłosiliśmy wam Ewangelię Bożą.
-> 10. Wy jesteście świadkami i Bóg, jak święcie i sprawiedliwie, i bez nagany postępowaliśmy pośród was wierzących.
-> 11. I jak wiecie, że każdego z was, jak ojciec swoje dzieci, zachęcaliśmy i pocieszaliśmy,
-> 12. I świadczyliśmy wam, abyście chodzili w sposób godny Boga, który was powołuje do swojego Królestwa i do chwały.
-> 13. Dlatego i my, nieustannie dziękujemy Bogu, że przyjmując od nas Słowo wieści o Bogu, przyjęliście je, nie jako słowo ludzkie, ale tak jak jest naprawdę, jako Słowo Boga, który i w was wierzących skutecznie działa.
-> 14. Wy bowiem, bracia, staliście się naśladowcami zborów Boga, które są w Judei, w Chrystusie Jezusie; gdyż **i wy tak samo cierpieliście od swoich rodaków**, tak jak oni od Judejczyków,
-> 15. Którzy i Pana Jezusa, i swoich własnych proroków zabili i nas prześladowali, i Bogu się nie podobają, i wszystkim ludziom są przeciwni,
-> 16. Przeszkadzają nam mówić do pogan, aby i oni zostali zbawieni, by przez to dopełnić miary swoich grzechów; na zawsze nadszedł bowiem na nich gniew aż do końca.
-> 17. Lecz my, bracia, będąc odłączeni od was na chwilę obliczem, ale nie sercem, tym bardziej z wielkim pragnieniem wykazaliśmy gorliwość, by ujrzeć wasze oblicze.
-> 18. Dlatego chcieliśmy, zwłaszcza ja, Paweł, przyjść do was i raz i drugi; ale przeszkodził nam szatan.
-> 19. Kto bowiem jest naszą nadzieją czy radością, czy wieńcem przynoszącym chlubę? Czyż nie i wy przed Panem naszym Jezusem Chrystusem w chwili Jego przyjścia?
-> 20. Wy bowiem jesteście naszą chwałą i radością.
 
-# Bog chce abysmy trwali
-
-**List do Hebrajczyków 12,1**
-> 1. Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
-
-# Bóg chce, abyśmy się skupili na Jego Łasce, zamiast na życiu w ciele
-
-**2 Kor 12,7-10**
-> 7. Abym nie wynosił się z nadzwyczajności objawień, został mi dany kolec w ciało – posłaniec szatana, aby mnie policzkował, abym nie wynosił się ponad miarę.
-> 8. W tej sprawie trzykrotnie poprosiłem Pana, aby to odstąpiło ode mnie.
-> 9. I powiedział mi: „Wystarczy ci moja łaska; bowiem moja moc jest doskonalona w słabości.” Więc raczej najchętniej będę się chlubił ze swoich słabości, aby we mnie zamieszkała moc Chrystusa.
-> 10. Dlatego mam upodobanie w słabościach, w zniewagach, w potrzebach, w prześladowaniach, w uciskach dla Chrystusa; bo gdy jestem słaby, wtedy jestem mocny.
+...
 
 # Kto stoi niech baczy by nie upadł
 Chcialem zakonczyc puenta, ze zmienił swoje życie
