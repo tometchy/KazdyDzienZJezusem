@@ -333,7 +333,11 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 Chcialem zakonczyc puenta, ze zmienił swoje życie
 Ale Bog nie chcial, zebym tak zakonczyl... Pokazal mi niesppdziewanie.
 
-## Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
+# Pewna ogolna przestroge
+
+# Pewna szczegolna przestroge
+
+## Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne procesy... Ci co trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
 
 We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio kończy się tym, że urodziła im się jeszcze trójka dzieci, dwie córki i syn, ale nastąpiła kolejna tragedia, 4letni syn zmarł na szkarlatynę, a oni wtedy postanowili całe życie poświęcić Bogu i wyprowadzili się do Jerozolimy służyć ubogim.
 Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych, listach, wspomnieniach, a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
@@ -362,31 +366,49 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 > 4. I wszyscy wypili ten sam duchowy napój; pili bowiem z duchowej skały, która im towarzyszyła – a tą skałą był Chrystus.
 > 5. Lecz w większości z nich Bóg nie miał upodobania; ciała ich bowiem zostały rozrzucone na pustyni.
 > 6. A te wydarzenia stały się dla nas przykładem, abyśmy nie pożądali złych rzeczy, jak oni pożądali.
-> 7. Nie stawajcie się też bałwochwalcami, jak niektórzy z nich, jak jest napisane: Siadł lud, aby zjeść i wypić, i wstali, aby się bawić.
+> 7. Nie stawajcie się też **bałwochwalcami**, jak niektórzy z nich, jak jest napisane: Siadł lud, aby zjeść i wypić, i wstali, aby się bawić.
 > 8. Nie oddawajmy się nierządowi, jak niektórzy z nich oddali się nierządowi i padło ich jednego dnia dwadzieścia trzy tysiące.
 > 9. Ani nie kuśmy Chrystusa, jak niektórzy z nich kusili i poginęli od węży.
 > 10. Ani nie szemrajcie, jak niektórzy z nich szemrali i poginęli za sprawą Niszczyciela.
 > 11. To wszystko natomiast, zdarzało się im dla przykładu, a zostało napisane dla napomnienia nas, do których dosięgnął koniec wieków.
 > 12. A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł.
 > 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
-> 14. Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa.
+> 14. **Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa**.
+
+## Pili z duchowej skaly, ktora byl Chrystus
+
+## Lecz w wiekszosci z nich Bog nie mial upodobania
+
+## Dlatego, moi umiłowani, uciekajcie od bałwochwalstwa
+
+## Balwochwalstwo to nie tylko katolickie figurki i kult maryjny
 
 **Kol 3,5**
-> 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i chciwość, która jest bałwochwalstwem,
+> 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i **chciwość, która jest bałwochwalstwem**,
 
 > **Mt 6,24**
 > 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
 
+## Sluzenie mamonie tez balwochwalstwem
+
 **1 Tm 4,1-3**
 > 1. A Duch wyraźnie mówi, że w późniejszych czasach odstąpią niektórzy od wiary, zwracając się ku duchom zwodniczym i naukom demonów,
 > 2. W obłudzie mówiący kłamstwo, mając piętnem wypalone własne sumienie,
-> 3. Zabraniający zawierania małżeństw, każąc wstrzymywać się od pokarmów, które stworzył Bóg, aby przyjmowali je z dziękczynieniem wierzący i dogłębnie znający prawdę.
+> 3. **Zabraniający zawierania małżeństw**, każąc wstrzymywać się od pokarmów, które stworzył Bóg, aby przyjmowali je z dziękczynieniem wierzący i dogłębnie znający prawdę.
+
+## W sekcie Spaffordow zabraniano malzenstw, jeszcze im robiono proby
 
 > **1 Tm 6,9-12**
 > 9. A ci, którzy chcą się wzbogacać, wpadają w pokuszenie i w pułapki, i w liczne bezmyślne i szkodliwe pragnienia, które pogrążają ludzi w ruinę i zagładę;
-> 10. Bo korzeniem wszelkich złych rzeczy jest miłość do pieniędzy, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami.
+> 10. Bo **korzeniem wszelkich złych rzeczy jest miłość do pieniędzy**, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami.
 > 11. Ale ty, Boży człowieku, uciekaj przed tym, a zabiegaj o sprawiedliwość, pobożność, wiarę, miłość, wytrwałość, łagodność.
 > 12. Staczaj dobry bój wiary, chwyć się życia wiecznego, do którego zostałeś powołany i złożyłeś dobre wyznanie wobec wielu świadków.
+
+# Nie poznalismy Spaffordow... ale ich wypasiony dom to fakt... lizne inwestycje rowniez... agresywne spekulowanie nie swoimi pieniedzmi takze...
+
+# Uciekanie od wszelkiego balwochwalstwa jest bardzo wazna ogolna przestroga...
+
+# Uciekanie przed miloscia do pieniedzy jest bardzo wazna szczegolna przestroga...
 
 # Tylko krotka chwile jestesmy przechodniami na tej ziemii, nie skupiajmy sie na tym zyciu
 
@@ -401,23 +423,19 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 > 6. Weselicie się z tego, mimo że teraz zostaliście na krótko zasmuceni, jeśli potrzeba, rozmaitymi próbami,
 > 7. Aby doświadczenie waszej wiary, o wiele cenniejsze od zniszczalnego złota, a które przez ogień jest próbowane, zostało znalezione dla uznania, czci i chwały w objawieniu Jezusa Chrystusa,
 > 8. Którego, choć nie widzieliście, miłujecie; w którego, teraz nie widząc, wierzycie; i cieszycie się radością niewysłowioną i pełną chwały.
-> 9. Przyjmując cel wiary waszej, zbawienie dusz. 
+> 9. **Przyjmując cel wiary waszej, zbawienie dusz**. 
 
 **Jana 16**
-> 26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
-> 27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
-> 31. Jezus odpowiedział im: Dopiero teraz wierzycie?
-> 32. Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną.
-> 33. To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat.
+> 33. **To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat.**
 
 **Jana 17**
 > 1. Gdy Jezus to powiedział, podniósł swoje oczy ku niebu, mówiąc: Ojcze! Nadeszła godzina, otocz chwałą Twojego Syna, aby i Twój Syn otoczył chwałą Ciebie;
-> 2. Tak, jak dałeś mu władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś.
-> 3. A to jest życie wieczne, aby poznawali Ciebie, jedynego prawdziwego Boga, i tego, którego posłałeś, Jezusa Mesjasza.
+> 2. Tak, jak dałeś mu władzę nad wszelkim ciałem, **aby dał życie wieczne tym wszystkim, których mu dałeś.**
+> 3. **A to jest życie wieczne, aby poznawali Ciebie, jedynego prawdziwego Boga, i tego, którego posłałeś, Jezusa Mesjasza**.
 
 # Bóg jest dobry, Bóg dotrzymuje obietnic
 
-# Cierpimy nie pomimo to, tylko właśnie dlatego
+# Cierpimy nie pomimo tego, tylko właśnie dlatego
 
 # Abyśmy dostąpili zbawienia dusz, otrzymali koronę życia, obiecane życie wieczne,
 
