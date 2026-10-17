@@ -449,6 +449,6 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 
 # Abyśmy dostąpili zbawienia dusz, mieli koronę życia, obiecane życie wieczne,
 
-# A to jest życie wieczne, abyśmy poznawali jedynego prawdziwego Boga i tego któego posłał, Jezusa Mesjasza
+# A to jest życie wieczne, abyśmy poznawali jedynego prawdziwego Boga i tego którego posłał, Jezusa Mesjasza
 
 # Amen.
