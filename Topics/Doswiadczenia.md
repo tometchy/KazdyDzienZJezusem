@@ -53,7 +53,7 @@ Psalm 55:
 
 ## Czy Bóg nie widzi, gdy cierpimy? Czy Bóg nie dotrzymuje swoich obietnic?
 
-# Pamiętajmy, że Bóg jest świadom naszego cierpienia
+# Bóg jest świadom naszego cierpienia
 
 **Biblia Toruńska — Mt 10,28-31**
 > 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
