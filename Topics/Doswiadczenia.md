@@ -55,7 +55,7 @@ Psalm 55:
 
 # Bóg jest świadom naszego cierpienia
 
-**Biblia Toruńska — Mt 10,28-31**
+**Mt 10,28-31**
 > 28. I nie bójcie się tych, którzy zabijają ciało, lecz nie mogą zabić duszy; ale bójcie się bardziej Tego, który może i duszę, i ciało zgubić w Gehennie.
 > 29. Czy nie sprzedają dwóch wróbli za assariona? A jednak ani jeden z nich nie upadnie na ziemię bez woli Ojca waszego.
 > 30. Nawet i włosy na waszej głowie wszystkie są policzone.
@@ -152,7 +152,7 @@ Psalm 55:
 **1 List Piotra 4,13**
 > Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
 
-**Ewangelia wg św. Mateusza 5, 10-12** 
+**Ewangelia Mateusza 5, 10-12** 
 :„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
 **Efezjan 3,12-18**
@@ -175,7 +175,7 @@ Psalm 55:
 > „Czyż ci nie rozkazałem: Bądź mężny i mocny? Nie bój się i nie lękaj, ponieważ z tobą jest Pan, Bóg twój, wszędzie, gdziekolwiek pójdziesz”.
 
 ### Apostołowie
-> **Biblia Toruńska — Mk 4,39-40**
+> **Mk 4,39-40**
 > 39. A On podniósł się, skarcił wiatr i powiedział morzu: Umilknij i uspokój się! I ustał wiatr, i nastała wielka cisza.
 > 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
 
@@ -262,7 +262,7 @@ One day at a time
 ## Takie same cierpienia wasi bracia przechodzą w świecie
 ## Znamy raporty Open Doors, wiemy o 
 
-**Biblia Toruńska — 2 Kor 1-x**
+**2 Kor 1-x**
 > 1. Paweł, apostoł Jezusa Chrystusa z woli Boga, i Tymoteusz brat, zborowi Boga, który jest w Koryncie, razem ze wszystkimi świętymi, którzy są w całej Achai,
 > 2. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
 > 3. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy,
@@ -361,15 +361,16 @@ Karol opowiedział o bracie, który przed trudnymi doświadczeniami nie był ła
 # Kto stoi niech baczy by nie upadł
 Chcialem zakonczyc puenta, ze zmienił swoje życie
 Ale Bog nie chcial, zebym tak zakonczyl... Pokazal mi niesppdziewanie.
+
+## Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
+
 We wielu chrześcijańskich artykułach, a nawet na wikipedii, historia Horatio kończy się tym, że urodziła im się jeszcze trójka dzieci, dwie córki i syn, ale nastąpiła kolejna tragedia, 4letni syn zmarł na szkarlatynę, a oni wtedy postanowili całe życie poświęcić Bogu i wyprowadzili się do Jerozolimy służyć ubogim.
 Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w licznych pozwach sądowych, listach, wspomnieniach, a nawet aktach z interwencji konsula amrykańskiego w Jerozolimie.
 
 niespełna czteroletni synek Spaffordów zaraził się szkarlatyną i zmarł
 
-## Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
-
 ## 1 Kor 11, 18-19
-Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
+> Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
 Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
 
 ## Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowanym przeze mnie wersetem 13 dotąd nie przyszło na Was pokuszenie, które by przekraczało...
@@ -402,7 +403,7 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 **Kol 3,5**
 > 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i chciwość, która jest bałwochwalstwem,
 
-> **Biblia Toruńska — Mt 6,24**
+> **Mt 6,24**
 > 24. Nikt nie może dwom panom służyć, jednego bowiem znienawidzi, a drugiego będzie miłował; albo do jednego przylgnie, a drugim pogardzi. Nie możecie służyć Bogu i mamonie.
 
 **1 Tm 4,1-3**
@@ -447,7 +448,7 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 
 # Cierpimy nie pomimo to, tylko właśnie dlatego
 
-# Abyśmy dostąpili zbawienia dusz, mieli koronę życia, obiecane życie wieczne,
+# Abyśmy dostąpili zbawienia dusz, otrzymali koronę życia, obiecane życie wieczne,
 
 # A to jest życie wieczne, abyśmy poznawali jedynego prawdziwego Boga i tego którego posłał, Jezusa Mesjasza
 
