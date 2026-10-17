@@ -213,7 +213,7 @@ Marka 5,36
 
 # Jeśli jesteś w takim stanie
 
-## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU, BÓG WIE, ŻEŚMY PROCHEM
+## SZCZERE SERCE, WYZNANIE SŁABOŚCI, PODDANIE SIĘ BOGU
 
 ## Szukanie Boga całym sercem, szczere serce, wołanie w prawdzie
 **Psalm 145,14-18**
