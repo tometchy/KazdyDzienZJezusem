@@ -129,11 +129,11 @@ Psalm 55:
 # Cierpienia sa również formą naszego błogosławieństwa i łaską, i naszą chlubą, gdy cierpimy dla sprawiedliwości
 
 **List do Rzymian 5**
-> 1.  Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
-> 2.   Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
-> 3.   A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
-> 4.   A wytrwałość doświadczenie, a doświadczenie nadzieję,
-> 5.   A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
+> 1. Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
+> 2. Przez którego też otrzymaliśmy dostęp przez wiarę do tej łaski, w której stanęliśmy i chlubimy się z powodu nadziei chwały Boga.
+> 3. A nie tylko to, ale **chlubimy się w uciskach**, wiedząc, że ucisk sprawia wytrwałość,
+> 4. A wytrwałość doświadczenie, a doświadczenie nadzieję,
+> 5. A nadzieja nie zawstydza, bo miłość Boża jest wylewana na nasze serca przez Ducha Świętego, który został nam dany.
 
 **List Piotra 4**
 > 12. Umiłowani! Nie dziwcie się próbie ognia, która was doświadcza, jakby was spotykało coś niezwykłego;
@@ -155,14 +155,14 @@ Psalm 55:
 **Ewangelia wg św. Mateusza 5, 10-12** 
 :„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
-Efezjan 3,12-18:
-> 12.  W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
-> 13.  Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
-> 14.  Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
-> 15.  Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
-> 16.  Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
-> 17. > Aby Chrystus przez wiarę zadomowił się w waszych sercach,
-> 18. > A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
+**Efezjan 3,12-18**
+> 12. W Nim mamy śmiałość i przystęp z ufnością przez wiarę w Niego.
+> 13. Dlatego proszę, abyście nie upadali na duchu z powodu ucisków moich za was, które są waszą chwałą.
+> 14. Z tego powodu zginam moje kolana przed Ojcem Pana naszego Jezusa Chrystusa,
+> 15. Od którego jest nazwana wszelka rodzina na niebie i na ziemi,
+> 16. Aby dał wam według bogactwa swojej chwały, byście zostali mocą wzmocnieni przez Jego Ducha w wewnętrznym człowieku,
+> 17. Aby Chrystus przez wiarę zadomowił się w waszych sercach,
+> 18. A wy, którzy zostaliście w miłości zakorzenieni i ugruntowani, abyście nabrali siły by uchwycić razem ze wszystkimi świętymi, jaka jest szerokość i długość, i głębokość, i wysokość,
 
 # Bóg chce, żebyśmy ufali, wierzyli, nie bali się
 
@@ -178,9 +178,6 @@ Efezjan 3,12-18:
 > **Biblia Toruńska — Mk 4,39-40**
 > 39. A On podniósł się, skarcił wiatr i powiedział morzu: Umilknij i uspokój się! I ustał wiatr, i nastała wielka cisza.
 > 40. I powiedział im: „Dlaczego jesteście tak bojaźliwi? Jeszcze nie macie wiary?”
-
-List do Hebrajczyków 12,1
-> 1.  Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
 
 **Psalm 34,17-20**
 > 17. Wołają sprawiedliwi, a JHWH wysłuchuje ich i uwalnia z wszelkiego utrapienia.
@@ -283,6 +280,9 @@ One day at a time
 > 15. I z tą ufnością chciałem już wcześniej przyjść do was, abyście po raz drugi otrzymali łaskę
 
 # Bóg w swojej miłości nas wychowuje
+
+**List do Hebrajczyków 12,1**
+> 1. Dlatego i my, mając wokół siebie tak wielki obłok świadków, zrzućmy z siebie wszelki ciężar i grzech, który nas mocno oplata, z wytrwałością biegnijmy w wyznaczonym nam boju,
 
 **Księga Przysłów 3,11-12**
 > „Synu mój, nie lekceważ karania Pana, nie upadaj na duchu, gdy On cię gani. Bo kogo Pan miłuje, tego karze, jak ojciec syna, którego kocha”.
