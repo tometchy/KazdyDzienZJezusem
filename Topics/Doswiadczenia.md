@@ -103,7 +103,6 @@ Psalm 55:
 
 # Niesprawiedliwie cierpiąc wykonujemy powierzone nam zadanie naśladowania Chrystusa
 
-
 > **1 Tes 1**
 > 1. Paweł i Sylwan, i Tymoteusz do zboru Tesaloniczan w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
 > 2. Dziękujemy Bogu zawsze za was wszystkich, gdy wspominamy was w naszych modlitwach.
@@ -127,7 +126,7 @@ Psalm 55:
 > 24. On grzechy nasze sam na ciele swoim poniósł na drzewo, abyśmy jako umarli grzechom, żyli dla sprawiedliwości. Jego sińce uleczyły was.
 > 25. Byliście bowiem jak błąkające się owce; ale teraz zostaliście zawróceni do pasterza i stróża dusz waszych.
 
-# Cierpienia również formą naszego błogosławieństwa i łaską, i naszą chlubą, gdy cierpimy dla sprawiedliwości
+# Cierpienia sa również formą naszego błogosławieństwa i łaską, i naszą chlubą, gdy cierpimy dla sprawiedliwości
 
 **List do Rzymian 5**
 > 1.  Będąc więc uznani za sprawiedliwych z wiary, pokój mamy z Bogiem przez Pana naszego Jezusa Chrystusa,
