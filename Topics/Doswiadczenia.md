@@ -262,7 +262,7 @@ List do Hebrajczyków 12,1-16
 > 7.  Jeżeli znosicie karcenie, to Bóg ofiarowuje się wam jako synom; jakim bowiem jest syn, którego ojciec nie wychowuje?
 > 8.  A jeśli jesteście bez karcenia, które jest udziałem wszystkich, to jesteście dziećmi z nieprawego łoża, a nie synami.
 > 9.  Ponadto, mieliśmy naszych ojców według ciała, którzy nas karcili, i szanowaliśmy ich. Czyż nie mamy być daleko bardziej poddani Ojcu duchów, by żyć?
-> 10.  Tamci bowiem wychowywali nas przez krótki czas według swojego uznania; Ten natomiast, dla naszej korzyści, abyśmy byli uczestnikami Jego świętości.
+> 10.  Tamci bowiem wychowywali nas przez krótki czas według swojego uznania; Ten natomiast, dla naszej korzyści, **abyśmy byli uczestnikami Jego świętości**.
 > 11.  Wprawdzie wszelkie karcenie w danej chwili nie wydaje się radosne, lecz sprawia smutek; ale potem przynosi pełen pokoju owoc sprawiedliwości tym, którzy są przez nie wyćwiczeni.
 > 12.  Dlatego wyprostujcie opuszczone ręce i wyczerpane kolana,
 > 13.  I czyńcie proste ścieżki waszymi nogami, aby to, co chrome nie zboczyło, ale raczej zostało uzdrowione.
@@ -340,11 +340,13 @@ Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczn
 > 12. A tak, komu wydaje się, że stoi, niech patrzy, aby nie upadł.
 > 13. Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać.
 
-> **Biblia Toruńska — 1 Kor 9,24-27;10,1-14**
-> 24 Czy nie wiecie, że biegnący na stadionie, wszyscy wprawdzie biegną, lecz jeden zdobywa nagrodę? Tak biegnijcie, abyście ją otrzymali.
-> 25 A każdy, który walczy od wszystkiego się powstrzymuje, oni wprawdzie, aby otrzymać wieniec zniszczalny, my natomiast niezniszczalny.
-> 26 Ja więc tak biegnę, nie jak w niepewne; uderzam pięściami nie jak ten, kto uderza w powietrze;
-> 27 Ale biję do sińców moje ciało i biorę je w niewolę, bym innym głosząc, sam czasem nie został zdyskwalifikowany.
+**Biblia Toruńska — 1 Kor 9,24-27**
+> 24. Czy nie wiecie, że biegnący na stadionie, wszyscy wprawdzie biegną, lecz jeden zdobywa nagrodę? Tak biegnijcie, abyście ją otrzymali.
+> 25. A każdy, który walczy od wszystkiego się powstrzymuje, oni wprawdzie, aby otrzymać wieniec zniszczalny, my natomiast niezniszczalny.
+> 26. Ja więc tak biegnę, nie jak w niepewne; uderzam pięściami nie jak ten, kto uderza w powietrze;
+> 27. Ale biję do sińców moje ciało i biorę je w niewolę, bym innym głosząc, sam czasem nie został zdyskwalifikowany.
+
+**Biblia Toruńska — 1 Kor 10,1-14**
 > 1. Nie chcę natomiast, bracia, abyście nie wiedzieli, że nasi ojcowie wszyscy byli pod obłokiem i wszyscy przeszli przez morze,
 > 2. I wszyscy w Mojżesza zanurzyli się w obłoku i w morzu,
 > 3. I wszyscy zjedli ten sam duchowy pokarm,
@@ -381,44 +383,47 @@ List św. Jakuba 1
 > 2.  Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
 > 12.  Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
 
-> Jana 15,26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
-> Jana 15,27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
-> Jana 16,1. To wam powiedziałem, abyście nie zostali złamani.
-> Jana 16,2. Wyłączać was będą z synagog; a nawet nadchodzi godzina, że każdy, kto was zabije, będzie uważał, że pełni służbę Bogu.
-> Jana 16,3. A to wam uczynią, gdyż nie poznali Ojca, ani mnie.
-> Jana 16,4. Lecz to wam powiedziałem, abyście, gdy przyjdzie ta godzina, przypomnieli sobie, że to ja wam powiedziałem; a nie mówiłem wam tego od początku, bo byłem z wami.
-> Jana 16,5. A teraz idę do Tego, który mnie posłał, a nikt z was nie pyta mnie: Dokąd idziesz?
-> Jana 16,6. Ale dlatego, że o tym wam mówię, smutek zaczął napełniać wasze serce.
-> Jana 16,7. Lecz ja wam mówię prawdę: Pożyteczniej jest dla was, abym ja odszedł. Bo jeśli nie odejdę, Opiekun nie przyjdzie do was; ale jeśli odejdę, poślę Go do was.
-> Jana 16,8. A On, gdy przyjdzie, wykaże, że świat jest w błędzie odnośnie grzechu i odnośnie sprawiedliwości, i odnośnie sądu;
-> Jana 16,9. Odnośnie grzechu, gdyż prawdziwie nie uwierzyli we mnie;
-> Jana 16,10. Odnośnie sprawiedliwości także, gdyż idę do Ojca mojego i już mnie nie ujrzycie;
-> Jana 16,11. Odnośnie sądu natomiast, bo przywódca tego świata jest osądzony.
-> Jana 16,12. Mam wam jeszcze wiele do powiedzenia, ale teraz nie możecie tego znieść.
-> Jana 16,13. Lecz gdy przyjdzie On, Duch Prawdy, wprowadzi was we wszelką prawdę; bo nie sam od siebie mówić będzie, ale cokolwiek usłyszy, mówić będzie i oznajmi wam o tym, co ma nadejść.
-> Jana 16,14. On mnie otoczy chwałą, gdyż z mego weźmie i wam oznajmi.
-> Jana 16,15. Wszystko, to co ma Ojciec, jest moje; dlatego powiedziałem, że z mego weźmie, i wam oznajmi.
-> Jana 16,16. Jeszcze chwila, a nie ujrzycie mnie i znowu chwila, a ujrzycie mnie, bo ja idę do Ojca.
-> Jana 16,17. Mówili więc do siebie nawzajem niektórzy z Jego uczniów: Co znaczy to, o czym nam mówi: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie, i że ja odchodzę do Ojca?
-> Jana 16,18. Powiedzieli więc: Co to znaczy, gdy mówi: Chwila? Nie rozumiemy tego, co mówi.
-> Jana 16,19. Jezus więc poznał, że Go chcieli zapytać, i powiedział im: Pytacie się między sobą o to, co powiedziałem: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie.
-> Jana 16,20. Zaprawdę, zaprawdę mówię wam: Wy będziecie płakać i narzekać, a świat będzie się weselił; wy zostaniecie zasmuceni, ale smutek wasz obróci się w radość.
-> Jana 16,21. Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina; lecz gdy urodzi dziecko, już nie pamięta o cierpieniu, z powodu radości, że człowiek został zrodzony na świat.
-> Jana 16,22. Teraz więc i wy wprawdzie smucicie się; lecz ponownie ujrzę was, a będzie się radowało wasze serce, i nikt nie odbierze wam waszej radości.
-> Jana 16,23. A w tym dniu, o nic nie będziecie mnie pytać. Zaprawdę, zaprawdę mówię wam: O cokolwiek prosilibyście Ojca w moim imieniu, da wam.
-> Jana 16,24. Aż do teraz o nic nie prosiliście w moim imieniu; proście, a otrzymacie, aby radość wasza była pełna.
-> Jana 16,25. To mówiłem wam w podobieństwach; nadchodzi godzina, gdy już więcej nie będę mówić wam w podobieństwach, lecz otwarcie oznajmię wam o moim Ojcu.
-> Jana 16,26. W tym dniu będziecie prosić w moim imieniu; a nie mówię wam, że ja będę prosił Ojca za wami;
-> Jana 16,27. Sam bowiem Ojciec miłuje was, dlatego że wy mnie umiłowaliście i wierzyliście, że ja wyszedłem od Boga.
-> Jana 16,28. Wyszedłem od Ojca i przyszedłem na świat; ponownie opuszczam świat i idę do Ojca.
-> Jana 16,29. Jego uczniowie powiedzieli do Niego: Oto teraz otwarcie mówisz i nie mówisz już do nas żadnego podobieństwa;
-> Jana 16,30. Teraz wiemy, że wszystko wiesz i nie potrzebujesz, by ktoś Ciebie pytał. Na tej podstawie wierzymy, że wyszedłeś od Boga.
-> Jana 16,31. Jezus odpowiedział im: Dopiero teraz wierzycie?
-> Jana 16,32. Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną.
-> Jana 16,33. To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat.
-> Jana 17,1. Gdy Jezus to powiedział, podniósł swoje oczy ku niebu, mówiąc: Ojcze! Nadeszła godzina, otocz chwałą Twojego Syna, aby i Twój Syn otoczył chwałą Ciebie;
-> Jana 17,2. Tak, jak dałeś mu władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś.
-> Jana 17,3. A to jest życie wieczne, aby poznawali Ciebie, jedynego prawdziwego Boga, i tego, którego posłałeś, Jezusa Mesjasza.
+**Jana 15**
+> 26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
+> 27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
+**Jana 16**
+> 1. To wam powiedziałem, abyście nie zostali złamani.
+> 2. Wyłączać was będą z synagog; a nawet nadchodzi godzina, że każdy, kto was zabije, będzie uważał, że pełni służbę Bogu.
+> 3. A to wam uczynią, gdyż nie poznali Ojca, ani mnie.
+> 4. Lecz to wam powiedziałem, abyście, gdy przyjdzie ta godzina, przypomnieli sobie, że to ja wam powiedziałem; a nie mówiłem wam tego od początku, bo byłem z wami.
+> 5. A teraz idę do Tego, który mnie posłał, a nikt z was nie pyta mnie: Dokąd idziesz?
+> 6. Ale dlatego, że o tym wam mówię, smutek zaczął napełniać wasze serce.
+> 7. Lecz ja wam mówię prawdę: Pożyteczniej jest dla was, abym ja odszedł. Bo jeśli nie odejdę, Opiekun nie przyjdzie do was; ale jeśli odejdę, poślę Go do was.
+> 8. A On, gdy przyjdzie, wykaże, że świat jest w błędzie odnośnie grzechu i odnośnie sprawiedliwości, i odnośnie sądu;
+> 9. Odnośnie grzechu, gdyż prawdziwie nie uwierzyli we mnie;
+> 10. Odnośnie sprawiedliwości także, gdyż idę do Ojca mojego i już mnie nie ujrzycie;
+> 11. Odnośnie sądu natomiast, bo przywódca tego świata jest osądzony.
+> 12. Mam wam jeszcze wiele do powiedzenia, ale teraz nie możecie tego znieść.
+> 13. Lecz gdy przyjdzie On, Duch Prawdy, wprowadzi was we wszelką prawdę; bo nie sam od siebie mówić będzie, ale cokolwiek usłyszy, mówić będzie i oznajmi wam o tym, co ma nadejść.
+> 14. On mnie otoczy chwałą, gdyż z mego weźmie i wam oznajmi.
+> 15. Wszystko, to co ma Ojciec, jest moje; dlatego powiedziałem, że z mego weźmie, i wam oznajmi.
+> 16. Jeszcze chwila, a nie ujrzycie mnie i znowu chwila, a ujrzycie mnie, bo ja idę do Ojca.
+> 17. Mówili więc do siebie nawzajem niektórzy z Jego uczniów: Co znaczy to, o czym nam mówi: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie, i że ja odchodzę do Ojca?
+> 18. Powiedzieli więc: Co to znaczy, gdy mówi: Chwila? Nie rozumiemy tego, co mówi.
+> 19. Jezus więc poznał, że Go chcieli zapytać, i powiedział im: Pytacie się między sobą o to, co powiedziałem: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie.
+> 20. Zaprawdę, zaprawdę mówię wam: Wy będziecie płakać i narzekać, a świat będzie się weselił; wy zostaniecie zasmuceni, ale smutek wasz obróci się w radość.
+> 21. Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina; lecz gdy urodzi dziecko, już nie pamięta o cierpieniu, z powodu radości, że człowiek został zrodzony na świat.
+> 22. Teraz więc i wy wprawdzie smucicie się; lecz ponownie ujrzę was, a będzie się radowało wasze serce, i nikt nie odbierze wam waszej radości.
+> 23. A w tym dniu, o nic nie będziecie mnie pytać. Zaprawdę, zaprawdę mówię wam: O cokolwiek prosilibyście Ojca w moim imieniu, da wam.
+> 24. Aż do teraz o nic nie prosiliście w moim imieniu; proście, a otrzymacie, aby radość wasza była pełna.
+> 25. To mówiłem wam w podobieństwach; nadchodzi godzina, gdy już więcej nie będę mówić wam w podobieństwach, lecz otwarcie oznajmię wam o moim Ojcu.
+> 26. W tym dniu będziecie prosić w moim imieniu; a nie mówię wam, że ja będę prosił Ojca za wami;
+> 27. Sam bowiem Ojciec miłuje was, dlatego że wy mnie umiłowaliście i wierzyliście, że ja wyszedłem od Boga.
+> 28. Wyszedłem od Ojca i przyszedłem na świat; ponownie opuszczam świat i idę do Ojca.
+> 29. Jego uczniowie powiedzieli do Niego: Oto teraz otwarcie mówisz i nie mówisz już do nas żadnego podobieństwa;
+> 30. Teraz wiemy, że wszystko wiesz i nie potrzebujesz, by ktoś Ciebie pytał. Na tej podstawie wierzymy, że wyszedłeś od Boga.
+> 31. Jezus odpowiedział im: Dopiero teraz wierzycie?
+> 32. Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną.
+> 33. To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat.
+**Jana 17**
+> 1. Gdy Jezus to powiedział, podniósł swoje oczy ku niebu, mówiąc: Ojcze! Nadeszła godzina, otocz chwałą Twojego Syna, aby i Twój Syn otoczył chwałą Ciebie;
+> 2. Tak, jak dałeś mu władzę nad wszelkim ciałem, aby dał życie wieczne tym wszystkim, których mu dałeś.
+> 3. A to jest życie wieczne, aby poznawali Ciebie, jedynego prawdziwego Boga, i tego, którego posłałeś, Jezusa Mesjasza.
 
 # Bóg jest dobry, Bóg dotrzymuje obietnic
 
@@ -433,11 +438,6 @@ List św. Jakuba 1
 # KONIEC
 --------------------------------------------------------------------------------------------------------------------
 # KONIEC
-
-
-
-
-Drugi list do Koryntian 12,7-10
 
 
 
