@@ -51,7 +51,7 @@ Psalm 55:
 1 List do Koryntian 10,13
 > Nie inna pochwyciła was pokusa jak tylko ludzka; ale Bóg jest wierny, On nie dopuści, abyście byli kuszeni ponad to, co możecie unieść, ale razem z pokusą uczyni i wyjście, abyście ją mogli cierpliwie dźwigać
 
-## Czy Bóg nie widzi, gdy cierpimy? Czy Bóg nie dotrzymuje swoich opbietnic?
+## Czy Bóg nie widzi, gdy cierpimy? Czy Bóg nie dotrzymuje swoich obietnic?
 
 # Pamiętajmy, że Bóg jest świadom naszego cierpienia
 
