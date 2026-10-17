@@ -167,10 +167,7 @@ Psalm 55:
 **1 List Piotra 4,13**
 > Ale według tego, jak jesteście uczestnikami cierpień Chrystusa, radujcie się, byście i podczas objawienia Jego chwały rozradowali się weseląc.
 
-**1 Piotra 1,6-7**
-> „Dlatego radujcie się, choć teraz musicie doznać trochę smutku przez różnorodne doświadczenia. Wizja waszej wiary, o wiele cenniejszej od zniszczalnego złota, które przecież w ogniu się próbuje, okaże się ku chwale, czci i uwielbieniu przy objawieniu Jezusa Chrystusa.”
-
-Ewangelia wg św. Mateusza 5, 10-12 
+**Ewangelia wg św. Mateusza 5, 10-12** 
 :„Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości, albowiem do nich należy królestwo niebieskie. Błogosławieni jesteście, gdy [ludzie] wam urągają i prześladują was, i gdy z mego powodu mówią kłamliwie wszystko złe na was. Radujcie się i weselcie się, albowiem wielka jest wasza nagroda w niebie”.
 
 Efezjan 3,12-18:
@@ -277,8 +274,28 @@ One day at a time
 > 6. Uniżcie się pod mocną ręką Boga, aby was wywyższył w swoim czasie;
 > 7. Przerzućcie na Niego wszelką waszą troskę, gdyż On troszczy się o was.
 > 8. Otrzeźwijcie, obudźcie się, gdyż przeciwnik wasz, diabeł, chodzi wokoło jak lew ryczący, szukając kogo by pochłonąć.
-> 9. Przeciwstawcie się mu mocni wiarą, wiedząc, że takie same cierpienia wasi bracia przechodzą w świecie.
+> 9. **Przeciwstawcie się mu mocni wiarą, wiedząc, że takie same cierpienia wasi bracia przechodzą w świecie**.
 > 10. A Bóg wszelkiej łaski, który nas powołał do wiecznej swojej chwały w Chrystusie Jezusie, po krótkotrwałych cierpieniach, oby sam was uczynił doskonałymi, oby utwierdził, oby umocnił i oby ugruntował. 
+
+## Takie same cierpienia wasi bracia przechodzą w świecie
+## Znamy raporty Open Doors, wiemy o 
+
+**Biblia Toruńska — 2 Kor 1-x**
+> 1. Paweł, apostoł Jezusa Chrystusa z woli Boga, i Tymoteusz brat, zborowi Boga, który jest w Koryncie, razem ze wszystkimi świętymi, którzy są w całej Achai,
+> 2. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
+> 3. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy,
+> 4. On pociesza nas we wszelkim naszym ucisku, abyśmy również mogli pocieszać tych, którzy są we wszelkim ucisku, poprzez tę pociechę, którą sami jesteśmy przez Boga pocieszani.
+> 5. Gdyż tak jak obfitują względem nas cierpienia Chrystusa, tak przez Chrystusa obfituje i nasze pocieszenie.
+> 6. A jeśli jesteśmy uciskani, to dla waszego pocieszenia i zbawienia, skutecznie działającego w wytrwałości w tych cierpieniach, które i my znosimy; czy to, gdy jesteśmy pocieszani, to dla waszego pocieszenia i zbawienia;
+> 7. A nadzieja nasza co do was jest mocna, ponieważ wiemy, że jak jesteście uczestnikami cierpień, tak i pocieszenia.
+> 8. Bo nie chcemy, abyście nie wiedzieli, bracia, o naszym ucisku, który nas spotkał w Azji, że ponad miarę i ponad naszą siłę byliśmy obciążeni, tak że zaczęliśmy wątpić i o życiu,
+> 9. Co więcej, sami w sobie mieliśmy wyrok śmierci, **abyśmy nie na sobie samych polegali, ale na Bogu, który wzbudza umarłych**;
+> 10. Który wyrwał nas z tak wielkiej śmierci i wyrywa, w którym pokładamy nadzieję, że i nadal będzie wyrywał;
+> 11. Przy współudziale waszych modlitw za nas, aby z wielu wzniesionych twarzy zostało złożone za nas dziękczynienie – za ten okazany nam dar łaski dla wielu.
+> 12. To bowiem jest naszą chlubą – świadectwo naszego sumienia, że żyliśmy na tym świecie w prostocie, w szczerości Boga, nie w cielesnej mądrości, lecz w łasce Boga, a tym obficiej u was.
+> 13. Albowiem nie piszemy wam nic innego, tylko to, co czytacie i co poznajecie, a mam nadzieję, że i do końca poznacie,
+> 14. Tak jak po części nas poznaliście, że jesteśmy waszą chlubą, tak jak i wy naszą w dniu Pana Jezusa.
+> 15. I z tą ufnością chciałem już wcześniej przyjść do was, abyście po raz drugi otrzymali łaskę
 
 # Bóg w swojej miłości nas wychowuje
 
@@ -362,7 +379,7 @@ Tylko, że... to nie jest prawda. A prawda jest bardzo dobrze udokumentowana, w 
 
 niespełna czteroletni synek Spaffordów zaraził się szkarlatyną i zmarł
 
-Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
+## Waldek raz powiedzial, jak usłyszał od brata na Ukrainie, że wojna przyspiesza pewne lekcje, Ci trwają, trwają mocniej, Ci co mają odpaść, odpadają szybciej...
 
 ## 1 Kor 11, 18-19
 Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
@@ -416,41 +433,15 @@ List św. Jakuba 1
 > 2.  Poczytujcie to sobie za najwyższą radość, bracia moi, gdy zapadacie w różne próby. Znacie przecież wartość waszej wiary: ona rodzi wytrwałość
 > 12.  Błogosławiony mąż, który wytrwa w próbie, bo gdy zostanie poddany doświadczeniu, otrzyma koronę życia”.
 
-**Jana 15**
-> 26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
-> 27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
+**1 Piotra 1,6-7**
+> 6. Weselicie się z tego, mimo że teraz zostaliście na krótko zasmuceni, jeśli potrzeba, rozmaitymi próbami,
+> 7. Aby doświadczenie waszej wiary, o wiele cenniejsze od zniszczalnego złota, a które przez ogień jest próbowane, zostało znalezione dla uznania, czci i chwały w objawieniu Jezusa Chrystusa,
+> 8. Którego, choć nie widzieliście, miłujecie; w którego, teraz nie widząc, wierzycie; i cieszycie się radością niewysłowioną i pełną chwały.
+> 9. Przyjmując cel wiary waszej, zbawienie dusz. 
 
 **Jana 16**
-> 1. To wam powiedziałem, abyście nie zostali złamani.
-> 2. Wyłączać was będą z synagog; a nawet nadchodzi godzina, że każdy, kto was zabije, będzie uważał, że pełni służbę Bogu.
-> 3. A to wam uczynią, gdyż nie poznali Ojca, ani mnie.
-> 4. Lecz to wam powiedziałem, abyście, gdy przyjdzie ta godzina, przypomnieli sobie, że to ja wam powiedziałem; a nie mówiłem wam tego od początku, bo byłem z wami.
-> 5. A teraz idę do Tego, który mnie posłał, a nikt z was nie pyta mnie: Dokąd idziesz?
-> 6. Ale dlatego, że o tym wam mówię, smutek zaczął napełniać wasze serce.
-> 7. Lecz ja wam mówię prawdę: Pożyteczniej jest dla was, abym ja odszedł. Bo jeśli nie odejdę, Opiekun nie przyjdzie do was; ale jeśli odejdę, poślę Go do was.
-> 8. A On, gdy przyjdzie, wykaże, że świat jest w błędzie odnośnie grzechu i odnośnie sprawiedliwości, i odnośnie sądu;
-> 9. Odnośnie grzechu, gdyż prawdziwie nie uwierzyli we mnie;
-> 10. Odnośnie sprawiedliwości także, gdyż idę do Ojca mojego i już mnie nie ujrzycie;
-> 11. Odnośnie sądu natomiast, bo przywódca tego świata jest osądzony.
-> 12. Mam wam jeszcze wiele do powiedzenia, ale teraz nie możecie tego znieść.
-> 13. Lecz gdy przyjdzie On, Duch Prawdy, wprowadzi was we wszelką prawdę; bo nie sam od siebie mówić będzie, ale cokolwiek usłyszy, mówić będzie i oznajmi wam o tym, co ma nadejść.
-> 14. On mnie otoczy chwałą, gdyż z mego weźmie i wam oznajmi.
-> 15. Wszystko, to co ma Ojciec, jest moje; dlatego powiedziałem, że z mego weźmie, i wam oznajmi.
-> 16. Jeszcze chwila, a nie ujrzycie mnie i znowu chwila, a ujrzycie mnie, bo ja idę do Ojca.
-> 17. Mówili więc do siebie nawzajem niektórzy z Jego uczniów: Co znaczy to, o czym nam mówi: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie, i że ja odchodzę do Ojca?
-> 18. Powiedzieli więc: Co to znaczy, gdy mówi: Chwila? Nie rozumiemy tego, co mówi.
-> 19. Jezus więc poznał, że Go chcieli zapytać, i powiedział im: Pytacie się między sobą o to, co powiedziałem: Jeszcze chwila, a nie ujrzycie mnie, i znowu chwila, a ujrzycie mnie.
-> 20. Zaprawdę, zaprawdę mówię wam: Wy będziecie płakać i narzekać, a świat będzie się weselił; wy zostaniecie zasmuceni, ale smutek wasz obróci się w radość.
-> 21. Kobieta, gdy rodzi, smuci się, bo nadeszła jej godzina; lecz gdy urodzi dziecko, już nie pamięta o cierpieniu, z powodu radości, że człowiek został zrodzony na świat.
-> 22. Teraz więc i wy wprawdzie smucicie się; lecz ponownie ujrzę was, a będzie się radowało wasze serce, i nikt nie odbierze wam waszej radości.
-> 23. A w tym dniu, o nic nie będziecie mnie pytać. Zaprawdę, zaprawdę mówię wam: O cokolwiek prosilibyście Ojca w moim imieniu, da wam.
-> 24. Aż do teraz o nic nie prosiliście w moim imieniu; proście, a otrzymacie, aby radość wasza była pełna.
-> 25. To mówiłem wam w podobieństwach; nadchodzi godzina, gdy już więcej nie będę mówić wam w podobieństwach, lecz otwarcie oznajmię wam o moim Ojcu.
-> 26. W tym dniu będziecie prosić w moim imieniu; a nie mówię wam, że ja będę prosił Ojca za wami;
-> 27. Sam bowiem Ojciec miłuje was, dlatego że wy mnie umiłowaliście i wierzyliście, że ja wyszedłem od Boga.
-> 28. Wyszedłem od Ojca i przyszedłem na świat; ponownie opuszczam świat i idę do Ojca.
-> 29. Jego uczniowie powiedzieli do Niego: Oto teraz otwarcie mówisz i nie mówisz już do nas żadnego podobieństwa;
-> 30. Teraz wiemy, że wszystko wiesz i nie potrzebujesz, by ktoś Ciebie pytał. Na tej podstawie wierzymy, że wyszedłeś od Boga.
+> 26. A gdy przyjdzie Opiekun, którego ja wam poślę od Ojca, Duch Prawdy, który od Ojca wychodzi, Ten zaświadczy o mnie.
+> 27. Ale i wy także świadczycie; bo jesteście ze mną od początku.
 > 31. Jezus odpowiedział im: Dopiero teraz wierzycie?
 > 32. Oto nadchodzi godzina, i teraz już nadeszła, abyście zostali rozproszeni, każdy w swoją stronę, a mnie samego zostawicie; a ja nie jestem sam, bo Ojciec jest ze mną.
 > 33. To wam powiedziałem, abyście we mnie mieli pokój. Na świecie będziecie mieć ucisk; ale ufajcie, ja zwyciężyłem świat.
@@ -464,68 +455,9 @@ List św. Jakuba 1
 
 # Cierpimy nie pomimo to, tylko właśnie dlatego
 
-# Abyśmy mieli koronę życia, obiecane życie wieczne, 
+# Abyśmy dostąpili zbawienia dusz, mieli koronę życia, obiecane życie wieczne,
 
 # A to jest życie wieczne, abyśmy poznawali jedynego prawdziwego Boga i tego któego posłał, Jezusa Mesjasza
 
 # Amen.
-
-# KONIEC
---------------------------------------------------------------------------------------------------------------------
-# KONIEC
-
-
-
-
-
-
-
-II List do Koryntian 1
-
-> **Biblia Toruńska — 2 Kor 1 — cały rozdział**
-> 1. Paweł, apostoł Jezusa Chrystusa z woli Boga, i Tymoteusz brat, zborowi Boga, który jest w Koryncie, razem ze wszystkimi świętymi, którzy są w całej Achai,
-> 2. Łaska wam i pokój od Boga, Ojca naszego i Pana Jezusa Chrystusa.
-> 3. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy,
-> 4. On pociesza nas we wszelkim naszym ucisku, abyśmy również mogli pocieszać tych, którzy są we wszelkim ucisku, poprzez tę pociechę, którą sami jesteśmy przez Boga pocieszani.
-> 5. Gdyż tak jak obfitują względem nas cierpienia Chrystusa, tak przez Chrystusa obfituje i nasze pocieszenie.
-> 6. A jeśli jesteśmy uciskani, to dla waszego pocieszenia i zbawienia, skutecznie działającego w wytrwałości w tych cierpieniach, które i my znosimy; czy to, gdy jesteśmy pocieszani, to dla waszego pocieszenia i zbawienia;
-> 7. A nadzieja nasza co do was jest mocna, ponieważ wiemy, że jak jesteście uczestnikami cierpień, tak i pocieszenia.
-> 8. Bo nie chcemy, abyście nie wiedzieli, bracia, o naszym ucisku, który nas spotkał w Azji, że ponad miarę i ponad naszą siłę byliśmy obciążeni, tak że zaczęliśmy wątpić i o życiu,
-> 9. Co więcej, sami w sobie mieliśmy wyrok śmierci, abyśmy nie na sobie samych polegali, ale na Bogu, który wzbudza umarłych;
-> 10. Który wyrwał nas z tak wielkiej śmierci i wyrywa, w którym pokładamy nadzieję, że i nadal będzie wyrywał;
-> 11. Przy współudziale waszych modlitw za nas, aby z wielu wzniesionych twarzy zostało złożone za nas dziękczynienie – za ten okazany nam dar łaski dla wielu.
-> 12. To bowiem jest naszą chlubą – świadectwo naszego sumienia, że żyliśmy na tym świecie w prostocie, w szczerości Boga, nie w cielesnej mądrości, lecz w łasce Boga, a tym obficiej u was.
-> 13. Albowiem nie piszemy wam nic innego, tylko to, co czytacie i co poznajecie, a mam nadzieję, że i do końca poznacie,
-> 14. Tak jak po części nas poznaliście, że jesteśmy waszą chlubą, tak jak i wy naszą w dniu Pana Jezusa.
-> 15. I z tą ufnością chciałem już wcześniej przyjść do was, abyście po raz drugi otrzymali łaskę;
-> 16. A od was przejść do Macedonii, a z Macedonii ponownie przyjść do was, abyście wy mnie wyprawili do Judei.
-> 17. To więc postanawiając, czy wykazałem się jakąś lekkomyślnością? Albo czy to, co postanawiam, według ciała postanawiam? Aby było u mnie „tak, tak” i równocześnie „nie, nie”?
-> 18. A jak wierny jest Bóg, tak słowo nasze do was nie było równocześnie „tak” i „nie”.
-> 19. Bo Syn Boży, Jezus Chrystus, który przez nas wśród was został ogłoszony, przeze mnie i Sylwana, i Tymoteusza, nie był równocześnie „tak” i „nie”; lecz w Nim było „tak”.
-> 20. Bo ile było obietnic Boga, w Nim mają swoje „tak”, i w Nim są „amen”, na chwałę Bogu przez nas.
-> 21. A Tym, który nas utwierdza razem z wami w Chrystusie i który nas namaścił, jest Bóg;
-> 22. Który też położył na nas pieczęć i dał zadatek Ducha w nasze serca.
-> 23. A ja przywołuję Boga na świadka mojej duszy, że aby was oszczędzać nie przybyłem do Koryntu,
-> 24. Nie żebyśmy panowali nad waszą wiarą, ale jesteśmy współpracownikami dla waszej radości; albowiem wiarą stoicie.
-
-
-Jana 10,28
-
-> **Biblia Toruńska — J 10,28**
-> 28. I ja daję im życie wieczne, i z pewnością nie zginą na wieki, i nikt nie wyrwie ich z mojej ręki.
-
-https://kazdydzienzjezusem.pl/Biblia/TNP/1P
-
-
-
-
-
-
-
-
-
-Dzieje Apostolskie 14,22:„[...] umacniając dusze uczniów, zachęcając do wytrwałości w wierze i mówiąc, że przez wiele ucisków trzeba nam wejść do królestwa Bożego”.
-
-
-
-Rzymian 8,18: „Uważam bowiem, że cierpienia teraźniejszego czasu nie są godne porównywania z tą przyszłą chwałą, która ma się w nas objawić”.
+zymian 8,18: „Uważam bowiem, że cierpienia teraźniejszego czasu nie są godne porównywania z tą przyszłą chwałą, która ma się w nas objawić”.
