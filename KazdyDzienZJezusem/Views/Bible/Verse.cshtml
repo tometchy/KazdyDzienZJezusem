@@ -66,10 +66,6 @@
             {
                 <p class="mb-0 text-secondary">Ten werset nie występuje w tym przekładzie.</p>
             }
-            @if (item.Translation.Code is "UBG" or "TNP")
-            {
-<partial name="_TranslationCopyright" model="item.Translation" />
-            }
         </section>
     }
 </div>
@@ -81,3 +77,11 @@
    asp-route-chapter="@Model.Chapter"
    asp-fragment="@Model.Verse"
    up-follow>← Wróć do rozdziału</a>
+
+@foreach (var item in Model.Translations)
+{
+    if (item.Translation.Code is "UBG" or "TNP")
+    {
+<partial name="_TranslationCopyright" model="item.Translation" />
+    }
+}
