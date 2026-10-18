@@ -346,7 +346,7 @@ niespełna czteroletni synek Spaffordów zaraził się szkarlatyną i zmarł
 
 ## 1 Kor 11, 18-19
 > Bo najpierw wprawdzie słyszę i po części wierzę, że gdy schodzicie się jako zbór, są wśród was podziały.
-Bo muszą być rozdwojenia[αἵρεσις] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος, także znany/zatwierdzony/zaakceptowany] wśród was.
+Bo muszą być rozdwojenia[αἵρεσις hairesis, od czasownika haireomai – wybierać] między wami, aby stali się widoczni ci, którzy są wypróbowani[δόκιμος dokimos, także znany/zatwierdzony/zaakceptowany] wśród was.
 
 ## Przed 1 Kor 10,1-14, zwrócić uwagę jaki werset jest dokładnie przed cytowanym przeze mnie wersetem 13 dotąd nie przyszło na Was pokuszenie, które by przekraczało...
 
