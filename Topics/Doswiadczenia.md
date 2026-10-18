@@ -383,6 +383,10 @@ Bo muszą być rozdwojenia[αἵρεσις hairesis, od czasownika haireomai –
 
 ## Balwochwalstwo to nie tylko katolickie figurki i kult maryjny
 
+## Są różne rodzaje bałwochwalstwa, pamiętamy świadectwo Tomka ze Szwecjii, dla którego baalem stał się rower
+
+## Ale jest jeden szczególny rodzaj bałwochwalstwa
+
 **Kol 3,5**
 > 5. Przyprowadźcie więc do śmierci to, co w waszych członkach jest ziemskie: nierząd, nieczystość, namiętność, złą pożądliwość i **chciwość, która jest bałwochwalstwem**,
 
@@ -406,9 +410,11 @@ Bo muszą być rozdwojenia[αἵρεσις hairesis, od czasownika haireomai –
 
 # Nie poznalismy Spaffordow... ale ich wypasiony dom to fakt... lizne inwestycje rowniez... agresywne spekulowanie nie swoimi pieniedzmi takze...
 
-# Uciekanie od wszelkiego balwochwalstwa jest bardzo wazna ogolna przestroga...
+# Ogólna, ważna przestroga, to kto stoi, niech baczy by nie upadł. W tym się tyczy pokora, wytrwałość, uciekanie od wszelkiego rodzaju bałwochwalstwa i trzymanie się kurczowo prawdy, prawdziwej nauki, nie herezji
 
 # Uciekanie przed miloscia do pieniedzy jest bardzo wazna szczegolna przestroga...
+
+## Bo **korzeniem wszelkich złych rzeczy jest miłość do pieniędzy**, której oddani, niektórzy zostali wyprowadzeni na manowce z dala od wiary i samych siebie poprzebijali licznymi cierpieniami. Ale ty, Boży człowieku, uciekaj przed tym
 
 # Tylko krotka chwile jestesmy przechodniami na tej ziemii, nie skupiajmy sie na tym zyciu
 
