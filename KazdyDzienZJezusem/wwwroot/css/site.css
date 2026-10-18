@@ -139,6 +139,16 @@ a.navbar-brand {
   margin: 1.5rem 0;
 }
 
+.chapter-navigation > :first-child,
+.chapter-navigation > :last-child {
+  width: 10rem;
+  max-width: 100%;
+}
+
+.chapter-navigation > :first-child {
+  justify-self: start;
+}
+
 .chapter-navigation > :last-child {
   justify-self: end;
 }
