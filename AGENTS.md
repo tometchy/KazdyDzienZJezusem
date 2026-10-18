@@ -8,6 +8,32 @@
 
 # Codex instructions
 
+## Required screenshot checks before merge
+
+- Codex must run the screenshot tests itself in its current execution environment,
+  including Codex Cloud/Web, before reporting changes as ready for merge. A GitHub
+  Actions workflow is optional and does not replace this check.
+- Run commands from the repository root. If dependencies are missing or have
+  changed, prepare them with `bash scripts/setup-visual-tests.sh --with-deps`
+  while network access is available. Omit `--with-deps` only when Chromium's
+  system dependencies are already installed.
+- After the final edits, run
+  `env -u KDJ_VISUAL_BASE_URL bash scripts/test-screenshots.sh`.
+  This must test the current checkout, not production or a previously started
+  application. The runner builds the app, starts isolated Redis and HTTP server
+  processes, verifies the tag index, and cleans up those processes afterward.
+  Do not start containers or export a Redis dump for this check.
+- Treat failed comparisons, missing baselines, and setup failures as blockers to
+  declaring the changes ready for merge. Fix the cause and rerun the tests; if
+  execution is blocked by the environment, report the exact blocker and mark
+  validation incomplete. Never substitute a previous run or assume CI will run it.
+- Do not update baselines just to make tests pass. For intentional UI changes,
+  inspect the affected screenshots, explicitly update the relevant baselines,
+  and then rerun the normal comparison without `--update-snapshots`.
+- In the handoff, report the command and result, and point to
+  `screenshots/results/` and `screenshots/report/` when a comparison fails.
+  Passing tests do not authorize merging, deployment, staging, or commits.
+
 ## Git workflow
 
 When implementing a requested change:
