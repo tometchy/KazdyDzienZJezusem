@@ -1,6 +1,7 @@
 - probowalem kiedys rozkrecic wlasna firme chatra moglem czytac
 - jestem informatykiem, moge Wam powiedziec, ze jak w komunikatorach wysylacie komus prywatna wiadomosc i myslicie, ze tylko ona ja czyta, to zyjecie w bledzie
 - nawet w komunikatorach, kazda wiadomosc jest na biezaco czytana
+- Karol, myślisz, że jakiś komunikator jest od tego wyjątkiem?
 
 [[List Jakuba 1,26]]
 
