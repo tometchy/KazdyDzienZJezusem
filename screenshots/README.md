@@ -81,7 +81,9 @@ affect pixels, so review CI differences rather than increasing tolerances.
 
 ## Before merge
 
-The `Screenshots` GitHub Actions workflow runs on pull requests and uploads the
-report even on failure. Configure its `Screenshot regression` check as required
-in the default branch's ruleset/branch protection to enforce it before merging.
-The repository workflow alone does not enable branch protection.
+The `Screenshots` GitHub Actions workflow is manual-only (`workflow_dispatch`)
+and uploads the report even on failure. Automatic pull-request runs are disabled;
+restore the `pull_request` trigger in `.github/workflows/screenshots.yml` to
+re-enable them. Run the screenshot checks locally before merging. If branch
+protection previously required `Screenshot regression`, remove that requirement
+while automatic runs are disabled to avoid waiting for a check that never starts.

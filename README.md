@@ -161,7 +161,8 @@ bash scripts/test-screenshots.sh
 
 Approved PNGs live in root-level `screenshots/baseline/`; failures produce actual
 and diff images in `screenshots/results/` and an HTML report in
-`screenshots/report/`. The pull-request workflow runs these checks automatically.
+`screenshots/report/`. The GitHub Actions workflow is retained for manual runs only;
+automatic pull-request runs are disabled.
 See [screenshots/README.md](screenshots/README.md) for environment preparation,
 Redis lifecycle, snapshot approval, external URL mode and the required merge check.
 
