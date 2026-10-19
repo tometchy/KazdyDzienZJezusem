@@ -21,8 +21,22 @@ Szemranie, np. ze za szybko sie konczy modlitwa, zamiast pojsc i porozmawiac.
 A powiadam wam, że z każdego nieużytecznego słowa, które ludzie wyrzekną, zdadzą sprawę w dzień sądu. Albowiem na podstawie słów twoich będziesz usprawiedliwiony i na podstawie słów twoich będziesz potępiony
 
 
-TO WYNIEŚĆ DO OSBNEGO PLIKU Notes/Historie/Charles-Simeon.md
+## Nawiązać do tego czym raz się dzielił Wojtek, o plotkach
+
+## Nawiązać do tego co napisał niedawno Szymon Matusiak
+Jaka jest moja mowa?
+
+„Czy jesteś człowiekiem, który chce cieszyć się życiem? Czy pragniesz doczekać dni szczęśliwych? Powstrzymaj od zła swój język, a wargi od obłudnej mowy!” − Psalm 34:13-14, ŚP
+
+Zapewne każdy z nas chciałby znaleźć w życiu szczęście. Niektórzy z nas już je znaleźli. Dawid poucza dzieci o tym, jaki ma być człowiek, któremu dobrze ułoży się życie. Przede wszystkim powinien strzec swego języka od zła. Nasz przekład wspomina tu o mowie obłudnej, lecz w oryginale hebrajskim chodzi o mówienie w sposób podstępny, oszukańczy lub zdradliwy. Czy jesteśmy prostolinijni w naszych kontaktach z bliźnimi? Czy nasza mowa faktycznie odzwierciedla stan naszego serca, czy też maskujemy nią złe intencje?
+
+Chcąc uleczyć swą mowę, trzeba oddać się Boskiemu Lekarzowi, który uzdrowi nasze serce. Dlaczego tak mówimy? Ponieważ sam Chrystus wyjaśnił: „Zasadźcie drzewo dobre, to i owoc będzie dobry, albo zasadźcie drzewo złe, to i owoc będzie zły: albowiem z owocu poznaje się drzewo. Plemiona żmijowe! Jakże możecie mówić dobrze, będąc złymi? Albowiem z obfitości serca mówią usta. Dobry człowiek wydobywa z dobrego skarbca dobre rzeczy, a zły człowiek wydobywa ze złego skarbca złe rzeczy. A powiadam wam, że z każdego nieużytecznego słowa, które ludzie wyrzekną, zdadzą sprawę w dzień sądu. Albowiem na podstawie słów twoich będziesz usprawiedliwiony i na podstawie słów twoich będziesz potępiony” (Ew. Mateusza 12:33-37, BW). Ze słów Pana wynika, że dopiero wtedy, gdy zmieni się natura człowieka, gdy stanie się dobrym drzewem, wówczas będzie rodził dobre owoce, a z jego dobrego serca popłynie budująca mowa. Lecz do tego konieczne jest narodzenie z wody i z Ducha.
+
+Tymczasem okazuje się, że nawet ludzie odrodzeni mają kłopoty ze swym językiem. Zdarzają się wśród nich plotki lub krytyczna mowa. Dlaczego tak jest? Apostoł Paweł tak to skomentował: „Wy bowiem, bracia, zostaliście powołani do wolności. Tylko niech ta wolność nie będzie dla was zaproszeniem do spełniania zachcianek ciała. Służcie raczej jedni drugim z miłością. Gdyż całe Prawo streszcza się w tym jednym zdaniu: Masz kochać bliźniego tak, jak samego siebie. Jeśli jednak jedni drugich kąsacie i pożeracie, uważajcie, abyście się nawzajem nie strawili. Podkreślam natomiast: Żyjcie w Duchu, a na pewno pokonacie żądzę ciała” (Galacjan 5:13-16, SNP). Jak widać wolność chrześcijańska nie upoważnia nas do folgowania grzesznej naturze, z którą nadal musimy toczyć twardą walkę. Bądźmy posłuszni Duchowi Świętemu i napełniajmy się Nim, wówczas będziemy przejawiać niekłamaną miłość bliźniego, służąc innym w miłości. Gdy jednak zaniedbujemy się w codziennej społeczności z Panem i Jego Słowem, może obudzić się w nas zła natura. Objawi się to w rujnującej mowie, w kąsaniu i pożeraniu bliźnich.
+
 ---
+
+# TO WYNIEŚĆ DO OSBNEGO PLIKU Notes/Historie/Charles-Simeon.md
 https://archive.org/details/charlessimeon00moulgoog/mode/2up?utm_source=chatgpt.com
 Znalazłem dokładnie tę historię. Jest autentycznie przypisywana Charlesowi Simeonowi (1759–1836), choć jeden szczegół w Twojej relacji jest odwrócony: to Charles Simeon był niedojrzałym młodym gościem, a Henry Venn gospodarzem, który posłużył się przykładem brzoskwini.
 
