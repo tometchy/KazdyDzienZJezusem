@@ -350,3 +350,11 @@ a.navbar-brand {
 .tag-fragment-list {
   max-width: 54rem;
 }
+/* Editing controls are inserted only for an active server-side session. */
+.login-form { max-width: 28rem; }
+.tag-editor { margin: .4rem 0; font-size: .9rem; grid-column: 1 / -1; font-family: var(--bs-body-font-family); }
+.tag-editor[open] { flex-basis: 100%; }
+.tag-editor summary { cursor: pointer; color: #0d6efd; }
+.tag-editor form { display: flex; flex-wrap: wrap; gap: .5rem; padding: .5rem 0; }
+.tag-editor input { flex: 1 1 12rem; min-width: 0; }
+.tag-editor [role="status"] { flex-basis: 100%; margin: 0; }

@@ -2,6 +2,136 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 (() => {
+    let csrfToken;
+    let generation = 0;
+    let inputId = 0;
+
+    function renderTags(fragment, tags) {
+        document.querySelectorAll('[data-tag-fragment]').forEach(element => {
+            if (element.dataset.tagFragment !== fragment) return;
+            const host = element.querySelector('.verse-link-controls') ?? element;
+            host.querySelector('.verse-tags')?.remove();
+            if (!tags.length) return;
+            const list = document.createElement('ul');
+            list.className = 'verse-tags';
+            list.setAttribute('aria-label', `Tags for ${fragment}`);
+            tags.forEach(tag => {
+                const item = document.createElement('li');
+                const link = document.createElement('a');
+                link.className = 'verse-tag';
+                link.href = `/Tag/${encodeURIComponent(tag.slug)}`;
+                link.setAttribute('up-follow', '');
+                link.textContent = tag.name;
+                item.append(link);
+                list.append(item);
+            });
+            const editor = host.querySelector('.tag-editor');
+            if (editor) host.insertBefore(list, editor);
+            else host.prepend(list);
+        });
+    }
+
+    function addEditor(element) {
+        if (element.querySelector('.tag-editor')) return;
+        const fragment = element.dataset.tagFragment;
+        const details = document.createElement('details');
+        details.className = 'tag-editor';
+        details.lang = 'en';
+        const summary = document.createElement('summary');
+        summary.textContent = 'Add tag';
+        summary.setAttribute('aria-label', `Add tag to ${fragment}`);
+        const form = document.createElement('form');
+        const label = document.createElement('label');
+        const input = document.createElement('input');
+        input.id = `tag-name-${++inputId}`;
+        input.name = 'name';
+        input.required = true;
+        input.maxLength = 80;
+        input.className = 'form-control form-control-sm';
+        input.setAttribute('list', 'tag-suggestions');
+        input.placeholder = 'Choose an existing tag or enter a new one';
+        label.htmlFor = input.id;
+        label.className = 'visually-hidden';
+        label.textContent = `Tag for ${fragment}`;
+        const button = document.createElement('button');
+        button.type = 'submit';
+        button.className = 'btn btn-sm btn-outline-primary';
+        button.textContent = 'Save';
+        const status = document.createElement('p');
+        status.setAttribute('role', 'status');
+        form.append(label, input, button, status);
+        form.addEventListener('submit', async event => {
+            event.preventDefault();
+            if (button.disabled) return;
+            button.disabled = true;
+            status.textContent = 'Saving…';
+            try {
+                const response = await fetch('/api/tags/fragment', {
+                    method: 'POST', credentials: 'same-origin', cache: 'no-store',
+                    headers: { 'Content-Type': 'application/json', 'X-CSRF-TOKEN': csrfToken },
+                    body: JSON.stringify({ name: input.value, fragment })
+                });
+                const result = await response.json().catch(() => ({}));
+                if (!response.ok) {
+                    status.textContent = result.error ?? (response.status === 429
+                        ? 'Too many requests. Please try again in a minute.'
+                        : 'The request failed. Reload the page and try again.');
+                    return;
+                }
+                renderTags(fragment, result.tags);
+                const suggestions = document.getElementById('tag-suggestions');
+                result.tags.forEach(tag => {
+                    if (suggestions && !Array.from(suggestions.options).some(option => option.value === tag.name)) {
+                        const option = document.createElement('option');
+                        option.value = tag.name;
+                        suggestions.append(option);
+                    }
+                });
+                input.value = '';
+                status.textContent = result.warning ?? 'Saved.';
+            } catch {
+                status.textContent = 'Connection lost. The change may have been saved; retrying is safe.';
+            } finally { button.disabled = false; }
+        });
+        details.append(summary, form);
+        (element.querySelector('.verse-link-controls') ?? element).append(details);
+    }
+
+    async function initialize() {
+        const current = ++generation;
+        try {
+            const response = await fetch('/api/editor/session', { credentials: 'same-origin', cache: 'no-store' });
+            if (!response.ok) return;
+            const session = await response.json();
+            if (current !== generation) return;
+            csrfToken = session.csrfToken;
+            if (!session.loggedIn) {
+                document.querySelectorAll('.tag-editor, #tag-suggestions').forEach(element => element.remove());
+                return;
+            }
+            if (!document.querySelector('[data-tag-fragment]')) return;
+            const catalogResponse = await fetch('/api/tags', { cache: 'no-store' });
+            if (!catalogResponse.ok) return;
+            const catalog = await catalogResponse.json();
+            if (current !== generation) return;
+            document.getElementById('tag-suggestions')?.remove();
+            const suggestions = document.createElement('datalist');
+            suggestions.id = 'tag-suggestions';
+            catalog.forEach(tag => {
+                const option = document.createElement('option');
+                option.value = tag.name;
+                suggestions.append(option);
+            });
+            document.body.append(suggestions);
+            document.querySelectorAll('[data-tag-fragment]').forEach(addEditor);
+        } catch { /* Public reading remains available when the session endpoint is offline. */ }
+    }
+    document.addEventListener('DOMContentLoaded', initialize);
+    document.addEventListener('up:fragment:inserted', initialize);
+    window.addEventListener('pageshow', event => { if (event.persisted) void initialize(); });
+})();
+
+(() => {
     const feedbackTimers = new WeakMap();
 
     function normalizeLegacyVerseHash() {

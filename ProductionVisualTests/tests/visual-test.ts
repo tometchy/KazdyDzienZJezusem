@@ -15,7 +15,10 @@ export async function expectProductionScreenshot(
     const url = new URL(route.request().url());
     const asset = /^\/npm\/unpoly@3\.14\.3\/(unpoly\.min\.(?:css|js))$/.exec(url.pathname);
     if (url.origin === 'https://cdn.jsdelivr.net' && asset) {
-      await route.fulfill({ path: nodePath.resolve(__dirname, '../node_modules/unpoly', asset[1]) });
+      await route.fulfill({
+        path: nodePath.resolve(__dirname, '../node_modules/unpoly', asset[1]),
+        headers: { 'Access-Control-Allow-Origin': baseOrigin },
+      });
     } else if (url.origin === baseOrigin) {
       await route.continue();
     } else {

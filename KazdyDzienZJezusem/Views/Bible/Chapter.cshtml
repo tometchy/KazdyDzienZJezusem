@@ -69,7 +69,7 @@
     @foreach (var verse in Model.Verses)
     {
         var verseReference = $"{Model.Book.Abbreviation} {Model.Chapter},{verse.Number}";
-        <div class="bible-verse" id="@verse.Number">
+        <div class="bible-verse" id="@verse.Number" data-tag-fragment="@(Model.Book.Abbreviation)@(Model.Chapter),@(verse.Number)">
             <div class="verse-link-controls">
                 <a class="verse-link-button"
                    href="@($"#{verse.Number}")"

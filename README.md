@@ -33,7 +33,77 @@ fragments:
 Description of the tag.
 ```
 
-Bible references use `<book><chapter>,<verse>` or a verse range. Church Fathers references are prefixed with the author, for example `Ignatius/Ef1,1`. At container startup the application parses these files, loads tag definitions and the fragment index into Redis, and displays linked tags above matching passages.
+Bible references use `<book><chapter>,<verse>` or a verse range. Church Fathers references are prefixed with the author, for example `Ignatius/Ef1,1`. The application parses these files, loads tag definitions and the fragment index into Redis, and displays linked tags above matching passages.
+
+## Editing tags
+
+Open `/login` manually; no navigation links lead to it. Enter a GitHub personal
+access token into the field labeled `login`. Use a fine-grained token restricted
+to this repository, with **Contents: Read and write** and the automatically
+included Metadata access. The account must have repository write access and
+the target branch must permit direct pushes. Branch protections are respected;
+the application never force-pushes. Login stores a session without contacting
+GitHub; every edit performs its own permission preflight and authenticated push.
+
+After login, expand **Add tag** beside a verse or Church Fathers passage. Select
+an existing tag from the suggestions or type a new name, then choose **Save**.
+Tags identify passages independently of the translation; the comparison page
+also supports editing. The affected tag list updates without navigating away.
+New names accept letters, numbers, spaces, hyphens and underscores (80 characters
+maximum). Existing descriptions and reference ranges are preserved. Adding a
+reference that is already included, even through a range, is a no-op.
+
+The browser receives only a random `HttpOnly`, `SameSite=Strict` session cookie.
+Production cookies are also `Secure`: use the HTTPS Cloudflare URL for login,
+not the HTTP host port. The token is encrypted with ASP.NET Data Protection
+before being stored in Redis. Both Redis and the key ring have named volumes in
+Compose so application rebuilds preserve sessions. Keep the key volume private
+and back it up together with Redis; deleting it invalidates existing sessions.
+Sessions expire after eight hours and can be revoked with **Log out** on `/login`.
+Without Redis (local development/tests), sessions are held in memory and end on
+restart. Tokens never go into browser storage, URLs, Git configuration or commits.
+
+The image contains Git and a disposable public clone in `/repository`. A remote
+ref is included as a build-cache input so upstream changes invalidate the clone
+layer. Runtime synchronization fetches the current branch at startup, every 30
+seconds, and before every edit. It never runs code from that clone. Edits affect
+only a validated `tags/*.md` file and follow this order:
+
+1. Validate the session, CSRF token, tag name and existing passage.
+2. Check GitHub repository write permission using the supplied token. This is a
+   preliminary check, not a guarantee of token scope or branch-rule acceptance.
+3. Fetch the branch, apply the addition, commit and push using that token.
+   Concurrent remote changes cause a fresh fetch and semantic retry, up to three
+   attempts. Unconfirmed local commits are never published to the index.
+4. Atomically replace the Redis catalog and refresh the affected UI tag list.
+
+A successful push is already durable; rebuilding only incorporates the data in
+the next image. If Redis fails after a push, the current process serves the
+confirmed update from memory, the UI reports the index delay, and background
+synchronization repairs Redis. Retrying an interrupted request is safe. A new
+container never overwrites Redis with its older baked tag catalog. If GitHub is
+unavailable, readers retain the last available catalog and edits report an error.
+
+`compose.yaml` configures `TagEditing__RepositoryPath`, `TagEditing__Repository`,
+`TagEditing__Branch`, and `EditorSessions__KeyPath`. Run a **single application
+replica** with this configuration: its Git operations are serialized in-process.
+Horizontal deployment would require distributed coordination for index updates.
+Never point `RepositoryPath` at a developer checkout: synchronization deliberately
+discards unpushed changes in this dedicated runtime clone. Outside Compose, an
+empty repository path disables editing and the network synchronization worker.
+The clone must also carry the local Git setting `kdj.editorClone=true`, set by
+the image build. An ordinary developer checkout is rejected before any reset.
+
+The backend tests use temporary local Git remotes and an isolated Redis process
+(prepared by `scripts/setup-visual-tests.sh`), without GitHub credentials or real
+remote writes. Browser tests cover login, editing controls and partial UI updates;
+their successful write response is mocked. Actual GitHub push authorization must
+be exercised with an appropriately scoped token after deployment.
+
+The legacy `scripts/git-sync.sh` still calls a root `setup.sh` that is absent in
+this checkout. If you use that script for automatic image rebuilds, repair its
+deployment command separately. Tag synchronization and durability do not depend
+on it: the running application already follows the remote tag files.
 
 Run the converter regression tests with:
 
@@ -77,7 +147,9 @@ KDJ_E2E_BASE_URL=http://localhost:8081 \
 
 The Playwright suite in `ProductionVisualTests/` builds the current checkout and
 starts the application with an isolated Redis process. Application startup
-recreates the tag index from versioned `tags/*.md`, exactly as it does in Compose.
+recreates the tag index from the current checkout's versioned `tags/*.md`.
+Editing synchronization is disabled in this isolated suite, so it never fetches
+or writes to GitHub.
 No container, production Redis connection or exported `dump.rdb` is needed.
 
 Prepare dependencies once, then run the same command on a laptop or in Codex Web:

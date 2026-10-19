@@ -65,7 +65,7 @@
 <article class="verse-list" lang="grc" aria-label="@Model.Work.Name, @chapterName">
     @foreach (var passage in Model.Sections)
     {
-        <div class="bible-verse" id="@passage.Number">
+        <div class="bible-verse" id="@passage.Number" data-tag-fragment="@(Model.Author.Code)/@(Model.Work.Abbreviation)@(Model.Chapter),@(passage.Number)">
             @{ var passageTags = TagRepository.GetTags($"Ignatius/{Model.Work.Abbreviation}{Model.Chapter},{passage.Number}"); }
             @if (passageTags.Count > 0)
             {

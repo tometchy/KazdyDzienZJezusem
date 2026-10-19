@@ -1,4 +1,5 @@
 @model BibleVerseComparisonViewModel
+@inject KazdyDzienZJezusem.Services.TagRepository TagRepository
 @{
     var navigationTranslation = Model.SourceTranslation
         ?? Model.Translations.First(item => item.Text is not null).Translation;
@@ -39,6 +40,20 @@
     </h1>
 </div>
 
+<div data-tag-fragment="@(Model.Book.Abbreviation)@(Model.Chapter),@(Model.Verse)">
+    @{
+        var tags = TagRepository.GetTags($"{Model.Book.Abbreviation}{Model.Chapter},{Model.Verse}");
+    }
+    @if (tags.Count > 0)
+    {
+        <ul class="verse-tags">
+            @foreach (var tag in tags)
+            {
+                <li><a class="verse-tag" asp-controller="Tags" asp-action="Details" asp-route-slug="@tag.Slug" up-follow>@tag.Name</a></li>
+            }
+        </ul>
+    }
+</div>
 <div class="translation-comparison">
     @foreach (var item in Model.Translations)
     {
