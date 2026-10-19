@@ -71,6 +71,10 @@ public sealed class TagRepository
 
     public ContentTag? Find(string slug) => _tags.GetValueOrDefault(slug);
 
+    public IReadOnlyList<ContentTag> GetAll() => _tags.Values
+        .OrderBy(tag => tag.Name, StringComparer.Create(CultureInfo.GetCultureInfo("pl-PL"), ignoreCase: true))
+        .ToArray();
+
     public IReadOnlyList<ContentTag> GetTags(string fragment) =>
         _tagsByFragment.GetValueOrDefault(fragment) ?? [];
 

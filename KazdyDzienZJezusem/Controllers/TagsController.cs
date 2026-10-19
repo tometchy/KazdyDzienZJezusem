@@ -7,6 +7,9 @@ namespace KazdyDzienZJezusem.Controllers;
 [Route("Tag")]
 public sealed class TagsController(TagRepository tags) : Controller
 {
+    [HttpGet("/Tagi")]
+    public IActionResult Index() => View(tags.GetAll());
+
     [HttpGet("{slug}")]
     public IActionResult Details(string slug)
     {

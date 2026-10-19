@@ -1,0 +1,17 @@
+@model IReadOnlyList<ContentTag>
+@{
+    ViewData["Title"] = "Tagi";
+}
+
+<div class="bible-heading">
+    <h1 class="display-5 fw-semibold">@ViewData["Title"]</h1>
+</div>
+
+<ul class="list-group bible-card-grid">
+    @foreach (var tag in Model)
+    {
+        <li class="list-group-item p-0">
+            <a class="d-block p-3 text-break" asp-action="Details" asp-route-slug="@tag.Slug" up-follow>@tag.Name</a>
+        </li>
+    }
+</ul>
