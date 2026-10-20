@@ -1,4 +1,4 @@
----
+https://www.youtube.com/watch?v=DGUbq2Q6ZCQ
 
 I List do Tymoteusza 4,13
 13 Dopóki nie przyjdę, pilnuj czytania, zachęcania i nauki.
