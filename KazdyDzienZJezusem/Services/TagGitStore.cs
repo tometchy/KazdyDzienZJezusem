@@ -28,7 +28,8 @@ public sealed class TagGitStore(IOptions<TagEditingOptions> options) : ITagGitSt
         var marker = await RunGitAsync(["config", "--local", "--get", "kdj.editorClone"], null, cancellationToken);
         if (marker.ExitCode != 0 || marker.Output.Trim() != "true")
             throw new TagEditException(503, "Editing requires a dedicated runtime clone.");
-        await GitAsync(["fetch", "--depth=1", Remote, $"refs/heads/{Settings.Branch}"], null, cancellationToken);
+        var readToken = await ReadTokenAsync(cancellationToken);
+        await GitAsync(["fetch", "--depth=1", Remote, $"refs/heads/{Settings.Branch}"], readToken, cancellationToken);
         await GitAsync(["reset", "--hard", "FETCH_HEAD"], null, cancellationToken);
         // Remove only abandoned tag files left by an interrupted, unpushed request.
         await GitAsync(["clean", "-fd", "--", "tags/"], null, cancellationToken);
@@ -70,6 +71,22 @@ public sealed class TagGitStore(IOptions<TagEditingOptions> options) : ITagGitSt
 
     private async Task<TagCatalog> ReadCatalogAsync(CancellationToken cancellationToken) =>
         new(TagRepository.ReadTags(TagsPath), (await GitAsync(["rev-parse", "HEAD"], null, cancellationToken)).Trim());
+
+    private async Task<string?> ReadTokenAsync(CancellationToken cancellationToken)
+    {
+        // An empty setting allows public repositories and offline test remotes.
+        // A configured but unavailable secret must never fall back to a user's write token.
+        if (string.IsNullOrWhiteSpace(Settings.ReadTokenFile)) return null;
+        try
+        {
+            var token = (await File.ReadAllTextAsync(Settings.ReadTokenFile, cancellationToken)).Trim();
+            if (token.Length is > 0 and <= 1024 && token.All(c => char.IsAsciiLetterOrDigit(c) || c == '_'))
+                return token;
+        }
+        catch (IOException) { }
+        catch (UnauthorizedAccessException) { }
+        throw new TagEditException(503, "The repository read credential is unavailable or invalid.");
+    }
 
     private static void EnsureRegularDirectory(string path)
     {

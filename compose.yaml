@@ -1,8 +1,12 @@
 services:
   kazdy-dzien:
+    image: localhost/kazdydzienzjezusem_kazdy-dzien:latest
     build:
       context: .
       dockerfile: KazdyDzienZJezusem/Dockerfile
+      no_cache: true
+      secrets:
+        - github_read_token
     restart: on-failure
     ports:
       - "8081:8080"
@@ -11,9 +15,12 @@ services:
       TagEditing__RepositoryPath: /repository
       TagEditing__Repository: tometchy/KazdyDzienZJezusem
       TagEditing__Branch: master
+      TagEditing__ReadTokenFile: /run/secrets/github_read_token
       EditorSessions__KeyPath: /keys
     volumes:
       - editor-keys:/keys
+    secrets:
+      - github_read_token
     depends_on:
       - redis
 
@@ -32,3 +39,7 @@ services:
 volumes:
   editor-keys:
   redis-data:
+
+secrets:
+  github_read_token:
+    file: ${KDJ_GITHUB_READ_TOKEN_FILE:?Set KDJ_GITHUB_READ_TOKEN_FILE to the readonly GitHub token file}

@@ -171,6 +171,7 @@ public sealed class TagEditingTests
             Task.FromResult(new TagCatalog(_tags.Values.ToArray(), "test-revision"));
         public Task<TagCatalog> AddAsync(string name, string fragment, string token, CancellationToken cancellationToken)
         {
+            Assert.Equal("test-secret", token); // Retrieved from the opaque HttpOnly session.
             Writes++;
             if (Reject) throw new TagEditException(409, "Push rejected.");
             var fragments = _tags.GetValueOrDefault(name)?.Fragments ?? [];

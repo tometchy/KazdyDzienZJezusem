@@ -6,6 +6,8 @@ public sealed class TagEditingOptions
     public string RepositoryPath { get; set; } = "";
     public string Repository { get; set; } = "tometchy/KazdyDzienZJezusem";
     public string Branch { get; set; } = "master";
+    // Mounted at deployment time, never baked into the image or used for pushes.
+    public string ReadTokenFile { get; set; } = "";
     public bool Enabled => !string.IsNullOrWhiteSpace(RepositoryPath);
 }
 

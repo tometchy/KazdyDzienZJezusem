@@ -11,14 +11,15 @@ COPY input/ input/
 COPY tags/ tags/
 RUN dotnet publish KazdyDzienZJezusem/KazdyDzienZJezusem.csproj -c Release -o /out --no-restore
 
-# The remote ref is a build-cache input: a new commit invalidates the clone layer.
-# No token is needed to clone this public repository.
+# Only a secret mount supplies the private repository credential. It is never
+# an ARG, an ENV, a URL component or part of the copied repository.
 FROM alpine:3.22 AS tag-repository
 RUN apk add --no-cache git ca-certificates
-ADD https://api.github.com/repos/tometchy/KazdyDzienZJezusem/git/ref/heads/master /tmp/tag-ref.json
-RUN git clone --depth=1 --single-branch --branch master \
-    https://github.com/tometchy/KazdyDzienZJezusem.git /repository \
-    && git -C /repository config kdj.editorClone true
+COPY scripts/clone-tag-repository.sh /usr/local/bin/clone-tag-repository
+# Legacy podman-compose mounts file-backed build secrets as read-only volumes.
+# Native Podman and modern Compose supply the same path with a secret mount.
+RUN --mount=type=secret,id=github_read_token \
+    sh /usr/local/bin/clone-tag-repository
 
 # ---------- STAGE 2: APPLICATION RUNTIME ----------
 FROM mcr.microsoft.com/dotnet/aspnet:10.0-alpine

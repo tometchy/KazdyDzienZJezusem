@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Text;
 using KazdyDzienZJezusem.Services;
 using Microsoft.Extensions.Options;
 
@@ -10,6 +11,86 @@ public sealed class TagGitStoreTests : IDisposable
 {
     private readonly string _root = Path.Combine(Path.GetTempPath(), "kdj-git-test-" + Guid.NewGuid());
     private string Remote => Path.Combine(_root, "remote.git");
+
+    [Fact]
+    public async Task PrivateRepositoryUsesReadonlyTokenForFetchAndSessionTokenOnlyForPush()
+    {
+        if (OperatingSystem.IsWindows()) return;
+        await CreateStore("authenticated");
+        var clone = Path.Combine(_root, "authenticated");
+        var secret = Path.Combine(_root, "read-token");
+        var events = Path.Combine(_root, "auth-events");
+        await File.WriteAllTextAsync(secret, "readonly_test_token\n", TestContext.Current.CancellationToken);
+        var readHeader = "Authorization: Basic " + Convert.ToBase64String(Encoding.UTF8.GetBytes("x-access-token:readonly_test_token"));
+        var writeHeader = "Authorization: Basic " + Convert.ToBase64String(Encoding.UTF8.GetBytes("x-access-token:session_write_token"));
+        var transport = Path.Combine(_root, "transport.sh");
+        // A local SSH transport checks the child process's authentication without
+        // contacting any network host or changing the test process environment.
+        await File.WriteAllTextAsync(transport, $$"""
+            #!/bin/sh
+            set -eu
+            case "$*" in
+                *git-upload-pack*)
+                    [ "${GIT_CONFIG_VALUE_0:-}" = '{{readHeader}}' ] || exit 1
+                    printf 'read\n' >> '{{events}}'
+                    exec git-upload-pack '{{Remote}}'
+                    ;;
+                *git-receive-pack*)
+                    [ "${GIT_CONFIG_VALUE_0:-}" = '{{writeHeader}}' ] || exit 1
+                    printf 'write\n' >> '{{events}}'
+                    exec git-receive-pack '{{Remote}}'
+                    ;;
+                *) exit 1 ;;
+            esac
+            """, TestContext.Current.CancellationToken);
+        await Git(clone, "config", "--unset-all", $"url.file://{Remote}.insteadOf");
+        await Git(clone, "config", "url.ssh://test/repository.insteadOf", "https://github.com/test/repository.git");
+        await Git(clone, "config", "core.sshCommand", $"sh '{transport}'");
+        await Git(clone, "config", "ssh.variant", "simple");
+        var store = new TagGitStore(Options.Create(new TagEditingOptions
+        {
+            RepositoryPath = clone, Repository = "test/repository", ReadTokenFile = secret
+        }));
+
+        await store.SynchronizeAsync(TestContext.Current.CancellationToken);
+        var saved = await store.AddAsync("authenticated", "Ob15,1", "session_write_token", TestContext.Current.CancellationToken);
+        Assert.Contains(saved.Tags, tag => tag.Slug == "authenticated");
+        Assert.Equal(["read", "read", "write"], await File.ReadAllLinesAsync(events, TestContext.Current.CancellationToken));
+        var config = await File.ReadAllTextAsync(Path.Combine(clone, ".git/config"), TestContext.Current.CancellationToken);
+        Assert.DoesNotContain("readonly_test_token", config);
+        Assert.DoesNotContain("session_write_token", config);
+        Assert.DoesNotContain(readHeader, config);
+        Assert.DoesNotContain(writeHeader, config);
+
+        // A broken read credential cannot be replaced by a session's write token.
+        await File.WriteAllTextAsync(secret, "wrong_readonly_token", TestContext.Current.CancellationToken);
+        var rejected = await Assert.ThrowsAsync<TagEditException>(() =>
+            store.AddAsync("forbidden", "Ob15,1", "session_write_token", TestContext.Current.CancellationToken));
+        Assert.Equal(503, rejected.StatusCode);
+        Assert.Equal(["read", "read", "write"], await File.ReadAllLinesAsync(events, TestContext.Current.CancellationToken));
+        Assert.False(File.Exists(Path.Combine(clone, "tags/forbidden.md")));
+    }
+
+    [Theory]
+    [InlineData(null)]
+    [InlineData("")]
+    [InlineData("   \n")]
+    [InlineData("invalid\nheader")]
+    public async Task MissingOrInvalidReadSecretFailsBeforeChangingFiles(string? content)
+    {
+        await CreateStore("invalid-secret");
+        var secret = Path.Combine(_root, "read-token");
+        if (content is not null) await File.WriteAllTextAsync(secret, content, TestContext.Current.CancellationToken);
+        var clone = Path.Combine(_root, "invalid-secret");
+        var store = new TagGitStore(Options.Create(new TagEditingOptions
+        {
+            RepositoryPath = clone, Repository = "test/repository", ReadTokenFile = secret
+        }));
+        var exception = await Assert.ThrowsAsync<TagEditException>(() =>
+            store.AddAsync("forbidden", "Ob15,1", "session_write_token", TestContext.Current.CancellationToken));
+        Assert.Equal(503, exception.StatusCode);
+        Assert.False(File.Exists(Path.Combine(clone, "tags/forbidden.md")));
+    }
 
     [Fact]
     public async Task SavesNewAndExistingTagsPreservesConcurrentChangesAndIsIdempotent()
