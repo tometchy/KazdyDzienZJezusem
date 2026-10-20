@@ -28,12 +28,13 @@ LABEL org.opencontainers.image.source=https://github.com/tometchy/KazdyDzienZJez
 
 WORKDIR /app
 
-RUN apk add --no-cache git ca-certificates \
+RUN apk add --no-cache git ca-certificates icu-libs icu-data-full \
     && mkdir /keys && chown app:app /keys && chmod 700 /keys
 COPY --from=build /out/ .
 COPY --from=tag-repository --chown=app:app /repository/ /repository/
 
 ENV ASPNETCORE_HTTP_PORTS=8080
+ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
 ENV TagEditing__RepositoryPath=/repository
 ENV EditorSessions__KeyPath=/keys
 

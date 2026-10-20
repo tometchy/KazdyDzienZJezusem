@@ -63,6 +63,14 @@ Sessions expire after eight hours and can be revoked with **Log out** on `/login
 Without Redis (local development/tests), sessions are held in memory and end on
 restart. Tokens never go into browser storage, URLs, Git configuration or commits.
 
+The Alpine runtime includes ICU with full locale data and disables .NET's
+globalization-invariant mode so the tag catalog can sort names using `pl-PL`.
+The key volume uses Podman's `:U` mount option to assign existing files to the
+image's non-root `app` user when the container is recreated. This also repairs
+volumes previously owned by root without deleting keys or sessions. The option
+is Podman-specific; other container engines need equivalent volume ownership
+setup. Apply these image and mount changes with the usual `./podman-up.sh`.
+
 ### Private repository credentials
 
 Create a separate fine-grained GitHub token restricted to this repository with

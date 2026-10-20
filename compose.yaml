@@ -18,7 +18,8 @@ services:
       TagEditing__ReadTokenFile: /run/secrets/github_read_token
       EditorSessions__KeyPath: /keys
     volumes:
-      - editor-keys:/keys
+      # Podman aligns existing key ownership with the image's non-root app user.
+      - editor-keys:/keys:U
     secrets:
       - github_read_token
     depends_on:
