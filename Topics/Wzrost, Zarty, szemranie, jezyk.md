@@ -40,6 +40,9 @@ Chcąc uleczyć swą mowę, trzeba oddać się Boskiemu Lekarzowi, który uzdrow
 Tymczasem okazuje się, że nawet ludzie odrodzeni mają kłopoty ze swym językiem. Zdarzają się wśród nich plotki lub krytyczna mowa. Dlaczego tak jest? Apostoł Paweł tak to skomentował: „Wy bowiem, bracia, zostaliście powołani do wolności. Tylko niech ta wolność nie będzie dla was zaproszeniem do spełniania zachcianek ciała. Służcie raczej jedni drugim z miłością. Gdyż całe Prawo streszcza się w tym jednym zdaniu: Masz kochać bliźniego tak, jak samego siebie. Jeśli jednak jedni drugich kąsacie i pożeracie, uważajcie, abyście się nawzajem nie strawili. Podkreślam natomiast: Żyjcie w Duchu, a na pewno pokonacie żądzę ciała” (Galacjan 5:13-16, SNP). Jak widać wolność chrześcijańska nie upoważnia nas do folgowania grzesznej naturze, z którą nadal musimy toczyć twardą walkę. Bądźmy posłuszni Duchowi Świętemu i napełniajmy się Nim, wówczas będziemy przejawiać niekłamaną miłość bliźniego, służąc innym w miłości. Gdy jednak zaniedbujemy się w codziennej społeczności z Panem i Jego Słowem, może obudzić się w nas zła natura. Objawi się to w rujnującej mowie, w kąsaniu i pożeraniu bliźnich.
 
 ---
+11. Ale ty, Boży czło­wie­ku, ucie­kaj przed tym, a za­bie­gaj* o spra­wie­dli­wo­ść, po­bo­żno­ść, wia­rę, mi­ło­ść, wy­trwa­ło­ść, ła­god­no­ść.1Kor 6,18; 1Kor 10,14; 2Tm 2,22
+
+---
 
 # TO WYNIEŚĆ DO OSBNEGO PLIKU Notes/Historie/Charles-Simeon.md
 https://archive.org/details/charlessimeon00moulgoog/mode/2up?utm_source=chatgpt.com
