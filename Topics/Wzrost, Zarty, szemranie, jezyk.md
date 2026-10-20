@@ -1,7 +1,12 @@
 - probowalem kiedys rozkrecic wlasna firme chatra moglem czytac
-- jestem informatykiem, moge Wam powiedziec, ze jak w komunikatorach wysylacie komus prywatna wiadomosc i myslicie, ze tylko ona ja czyta, to zyjecie w bledzie
-- nawet w komunikatorach, kazda wiadomosc jest na biezaco czytana
+- w dzisiejszych czasach są te różne agendy analizowania treści w internecie, czy nie są mową nienawiści, czy przemocą wobec dzieci itd. różne algorytmy analizujące, ludzie sprawdzający
+- jestem informatykiem, moge Wam powiedziec, ze jak przez internet wysylacie komus prywatna wiadomosc i myslicie, ze tylko ta osoba ja czyta, to zyjecie w bledzie
+- w komunikatorach, kazda wiadomosc jest na biezaco czytana
 - Karol, myślisz, że jakiś komunikator jest od tego wyjątkiem?
+
+# Nie ważne jaki wybierzemy komunikator, nawet taki z najbardziej zaawansowanym szyfrowaniem. Na bieżąco, w czasie rzeczywistym, wszystko co napiszemy jest czytane. 
+
+# Przez naszego Pana
 
 [[List Jakuba 1,26]]
 
