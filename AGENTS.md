@@ -1,6 +1,6 @@
 # Agent Guidelines
 
-- Do not stage files or create commits. The user manages staging and commits manually.
+- When working directly on the user's laptop, stage and commit only the completed task changes, following the laptop Git workflow below. Preserve unrelated staged and unstaged work.
 - Do not treat sudden changes in staged files or commits as an agent error. The user may stage or commit files while a session is still in progress.
 - Keep repository content in English, even when the conversation is in Polish.
 - Do not run podman build/run scripts, the user will manage this part.
@@ -34,9 +34,44 @@
   `screenshots/results/` and `screenshots/report/` when a comparison fails.
   Passing tests do not authorize merging, deployment, staging, or commits.
 
-## Git workflow
+## Git workflow on the user's laptop
 
-When implementing a requested change:
+These rules apply when working directly in the user's laptop checkout, including
+`/home/tom/Projects/KazdyDzienZJezusem`. They take precedence over the branch and
+pull-request workflow used in hosted environments.
+
+1. Fetch the latest remote state before making changes.
+2. Work directly on `master`. Do not create a task branch or a separate worktree.
+   If the checkout is on another branch and cannot be safely switched while
+   preserving the user's work, report the blocker.
+3. Preserve all local and remote commits. Integrate incoming `origin/master`
+   changes with a fast-forward or a normal merge; never reset local `master` to
+   the remote, rebase published history, or force-push.
+4. Make only the changes required for the task. Run the relevant build,
+   automated tests, and the required screenshot comparison after the final edits.
+   Do not commit or push if required validation fails; report the exact blocker.
+5. Stage only the task changes and commit them on `master` with a concise English
+   message. Do not include unrelated user changes, even in the same file.
+6. Fetch again before pushing. If the remote advanced, integrate its commits
+   without discarding either history and rerun validation affected by the merge.
+   Push normally to `origin/master`; a rejected push requires another safe sync,
+   never a forced push.
+7. Verify that the completed task commit is present on remote `master`. Do not
+   create a pull request for laptop work. Finish with the commit link and test
+   results, or explain any remaining blocker.
+
+The laptop's `GtdSystem/background-service.sh` handles automatic rebuilds. It must
+compare the current commit with the last successfully built commit so both local
+and incoming remote commits trigger a rebuild, including local commits already
+pushed before the next cycle. Synchronization must preserve both histories and
+uncommitted work. A failed build must remain pending for the next cycle. Leave
+container builds and restarts to that service or the user unless explicitly asked
+to run them.
+
+## Git workflow in hosted environments
+
+When implementing a requested change outside the user's laptop (for example,
+Codex Cloud/Web):
 
 1. Never push directly to `master` or `main`.
 2. Before making changes, fetch the latest remote state.
@@ -65,12 +100,16 @@ When implementing a requested change:
 * Never rewrite shared branch history.
 * Never expose credentials, tokens, secrets, environment variables containing secrets, or authentication files.
 * Do not modify CI/CD workflows unless the task explicitly requires it.
-* Do not merge or deploy changes unless explicitly instructed.
+* Do not merge pull requests or deploy changes unless explicitly instructed.
+  Normal merges of incoming `origin/master` into laptop `master` are part of the
+  authorized laptop workflow.
 
-## Kończenie pracy
+## Handoff
 
-Po każdej zmianie w repozytorium utwórz pull request i zakończ odpowiedź bezpośrednim,
-klikalnym linkiem do niego. Przed podaniem linku zweryfikuj za pomocą GitHub CLI lub
-API, że pull request rzeczywiście istnieje, jest otwarty i prowadzi do właściwego
-repozytorium oraz gałęzi. Nie traktuj samego przygotowania tytułu i opisu PR-a jako
-jego utworzenia.
+For laptop work, report the tests and the commit pushed to remote `master`, with
+a direct clickable commit link. A pull request is not required.
+
+For hosted work, create a pull request and finish with its direct clickable URL.
+Before sharing the URL, verify with GitHub CLI or API that the pull request
+exists, is open, and targets the correct repository and default branch.
+Preparing a title and description alone does not create a pull request.
