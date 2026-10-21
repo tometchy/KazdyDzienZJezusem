@@ -2,6 +2,43 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 (() => {
+    const initialized = new WeakSet();
+
+    function initializeTagReaders() {
+        document.querySelectorAll('[data-tag-reader]').forEach(reader => {
+            const select = reader.querySelector('[data-tag-translation-select]');
+            if (!select) return;
+            const storageKey = `kdj:tag-translation:${reader.dataset.tagSlug}`;
+            const panels = reader.querySelectorAll('[data-tag-translation]');
+
+            function showTranslation(code) {
+                const available = Array.from(select.options).some(option => option.value === code);
+                select.value = available ? code : reader.dataset.defaultTranslation;
+                panels.forEach(panel => { panel.hidden = panel.dataset.tagTranslation !== select.value; });
+            }
+
+            let savedTranslation;
+            try { savedTranslation = localStorage.getItem(storageKey); }
+            catch { /* Reading remains available when browser storage is blocked. */ }
+            showTranslation(savedTranslation);
+            reader.querySelector('[data-tag-translation-picker]').hidden = false;
+
+            if (initialized.has(reader)) return;
+            initialized.add(reader);
+            select.addEventListener('change', () => {
+                showTranslation(select.value);
+                try { localStorage.setItem(storageKey, select.value); }
+                catch { /* Switching translations does not require browser storage. */ }
+            });
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', initializeTagReaders);
+    document.addEventListener('up:fragment:inserted', initializeTagReaders);
+    window.addEventListener('pageshow', event => { if (event.persisted) initializeTagReaders(); });
+})();
+
+(() => {
     let csrfToken;
     let generation = 0;
     let inputId = 0;

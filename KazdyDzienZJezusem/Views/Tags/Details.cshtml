@@ -15,10 +15,44 @@
     }
 </section>
 
-<h2 class="h4 mt-4">Fragmenty</h2>
-<ul class="tag-fragment-list">
-    @foreach (var fragment in Model.Tag.Fragments)
+<section class="tag-reader" data-tag-reader data-tag-slug="@Model.Tag.Slug"
+         data-default-translation="@Model.DefaultTranslationCode" aria-labelledby="tag-passages-heading">
+    <h2 class="h4 mt-4" id="tag-passages-heading">Passages</h2>
+    @if (Model.Translations.Count > 0)
     {
-        <li>@fragment</li>
+        <div class="tag-translation-picker mb-4" data-tag-translation-picker hidden>
+            <label class="form-label fw-semibold" for="tag-translation">Translation</label>
+            <select class="form-select" id="tag-translation" data-tag-translation-select aria-controls="tag-passages">
+                @foreach (var translation in Model.Translations)
+                {
+                    <option value="@translation.Translation.Code" selected="@(translation.Translation.Code == Model.DefaultTranslationCode)">
+                        @translation.Translation.Code — @translation.Translation.Description
+                    </option>
+                }
+            </select>
+        </div>
     }
-</ul>
+    <div id="tag-passages">
+        @foreach (var translation in Model.Translations)
+        {
+            <div data-tag-translation="@translation.Translation.Code" hidden="@(translation.Translation.Code != Model.DefaultTranslationCode)">
+                @foreach (var passage in translation.Passages)
+                {
+                    @if (passage.Translation is not null && passage.Translation.Code != translation.Translation.Code)
+                    {
+                        <p class="text-secondary small mb-2">@passage.Reference is unavailable in @translation.Translation.Code; showing @passage.Translation.Code.</p>
+                    }
+                    <partial name="_Passage" model="passage" />
+                }
+                @foreach (var source in translation.Passages.Select(passage => passage.Translation).OfType<BibleTranslation>().DistinctBy(source => source.Code))
+                {
+                    <partial name="~/Views/Bible/_TranslationCopyright.cshtml" model="source" />
+                }
+            </div>
+        }
+        @foreach (var passage in Model.UntranslatedPassages)
+        {
+            <partial name="_Passage" model="passage" />
+        }
+    </div>
+</section>

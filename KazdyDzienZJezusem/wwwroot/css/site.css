@@ -347,8 +347,20 @@ a.navbar-brand {
 }
 
 .tag-description,
-.tag-fragment-list {
+.tag-reader {
   max-width: 54rem;
+}
+
+.tag-translation-picker {
+  max-width: 34rem;
+}
+
+.tag-passage h3 {
+  overflow-wrap: anywhere;
+}
+
+.tag-passage h3 .badge {
+  flex-shrink: 0;
 }
 /* Editing controls are inserted only for an active server-side session. */
 .login-form { max-width: 28rem; }

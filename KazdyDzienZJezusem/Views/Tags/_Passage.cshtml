@@ -1,0 +1,34 @@
+@model TagPassageViewModel
+
+<article class="tag-passage mb-4" aria-label="@Model.Reference">
+    <h3 class="h5 d-flex align-items-center gap-2">
+        @if (Model.Url is not null)
+        {
+            <a href="@Model.Url" up-follow>@Model.Reference</a>
+        }
+        else
+        {
+            <span>@Model.Reference</span>
+        }
+        @if (Model.Translation is not null)
+        {
+            <span class="badge text-bg-light border">@Model.Translation.Code</span>
+        }
+    </h3>
+    @if (Model.Verses.Count > 0)
+    {
+        <div class="verse-list">
+            @foreach (var verse in Model.Verses)
+            {
+                <div class="bible-verse">
+                    <span class="verse-number">@verse.Number</span>
+                    <span class="verse-text">@verse.Text</span>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p class="text-secondary">The text of this passage is unavailable.</p>
+    }
+</article>
