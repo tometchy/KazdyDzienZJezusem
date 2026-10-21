@@ -8,6 +8,8 @@
 
 # Przez naszego Pana
 
+1 Tym 6
+
 [[List Jakuba 1,26]]
 
 Loza szydercow Zbor
