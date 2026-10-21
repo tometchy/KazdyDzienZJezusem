@@ -36,6 +36,7 @@ builder.Services.AddHttpClient<IRepositoryWriteAccess, GitHubWriteAccess>(client
     .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler { AllowAutoRedirect = false });
 builder.Services.AddSingleton<ITagGitStore, TagGitStore>();
 builder.Services.AddSingleton<FragmentValidator>();
+builder.Services.AddSingleton<TagPassageReader>();
 builder.Services.AddSingleton<TagEditingService>();
 builder.Services.AddHostedService(provider => provider.GetRequiredService<TagEditingService>());
 builder.Services.AddSingleton<IBibleFileSystem, PhysicalBibleFileSystem>();

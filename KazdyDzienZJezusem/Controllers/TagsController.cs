@@ -12,10 +12,10 @@ public sealed class TagsController(TagRepository tags) : Controller
     public IActionResult Index() => View(tags.GetAll());
 
     [HttpGet("{slug}")]
-    public IActionResult Details(string slug)
+    public IActionResult Details(string slug, [FromServices] TagPassageReader passages)
     {
         var tag = tags.Find(slug);
-        return tag is null ? NotFound() : View(new TagDetailsViewModel(tag));
+        return tag is null ? NotFound() : View(passages.Read(tag));
     }
 
     [HttpGet("/api/tags")]
