@@ -44,3 +44,6 @@ Tymczasem okazuje się, że nawet ludzie odrodzeni mają kłopoty ze swym język
 ---
 11. Ale ty, Boży czło­wie­ku, ucie­kaj przed tym, a za­bie­gaj* o spra­wie­dli­wo­ść, po­bo­żno­ść, wia­rę, mi­ło­ść, wy­trwa­ło­ść, ła­god­no­ść.1Kor 6,18; 1Kor 10,14; 2Tm 2,22
 
+---
+Człowiek z tatuażem na plecach "Jakim mnie stworzyłeś takim mnie masz".
+
