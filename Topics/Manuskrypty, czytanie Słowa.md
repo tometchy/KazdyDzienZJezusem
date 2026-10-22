@@ -1,3 +1,6 @@
+“Let the word of Christ richly dwell within you…”
+Colossians 3:16
+
 Każde słowo jest pożyteczne i inne fragmenty ze Słowa.
 
 1 Kor,5
