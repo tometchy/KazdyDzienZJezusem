@@ -69,3 +69,31 @@ Gdy byłem z Piotrkiem na sorze "Ale Bóg tak rzadko odpowiada!". Fragmenty o ty
 > 23. Ale Ty, Boże, wtrącisz ich w dół zatracenia; ludzie żądni krwi i podstępni nie dożyją połowy swoich dni; ja natomiast zaufam Tobie.
 
 ---
+
+Słowo Ashrei (אַשְׁרֵי) łączy w sobie oba te pojęcia, jednak w tradycyjnych przekładach Biblii (szczególnie chrześcijańskich) dominuje słowo „błogosławiony”. Wynika to z głębokiej różnicy między potocznym rozumieniem „szczęścia” a biblijnym sensem tego stanu.
+Oto kluczowe powody oraz wyjaśnienie, co to w ogóle znaczy „błogosławiony”:
+
+1. Dlaczego „błogosławiony”, a nie „szczęśliwy”?
+
+• Współczesne „szczęście” jest zbyt powierzchowne: Dziś słowo „szczęśliwy” kojarzy się z emocjami, dobrym humorem, chwilową przyjemnością lub trafem losowym (np. wygraną na loterii). Biblijne Ashrei nie zależy od nastroju ani okoliczności zewnętrznych.
+• Wymiar duchowy: Ashrei opisuje głęboki, trwały stan człowieka, którego życie jest ułożone w harmonii z Bogiem i Jego prawem. Tłumaczenie tego jako „szczęśliwy” mogłoby spłycić ten sens do zwykłego dobrostanu psychicznego.
+• Wpływ greki i łaciny: Dawni tłumacze Biblii (jak św. Hieronim tworzący Wulgatę) tłumaczyli hebrajskie Ashrei na łacińskie beatus. Słowo to oznaczało kogoś obdarowanego przez los lub bogów, co w języku polskim najlepiej oddał termin „błogosławiony”.
+
+2. Co to w ogóle znaczy „błogosławiony”?
+
+W języku biblijnym i religijnym bycie „błogosławionym” oznacza znajdowanie się pod szczególną opieką, przychylnością i ochroną Boga.
+Samo słowo „błogosławić” (w hebrajskim barach – בָּרַךְ) dosłownie wiąże się z „zginaniem kolan” lub „napełnianiem mocą życiową”. Gdy Bóg błogosławi człowieka, daje mu siłę, pomyślność, pokój (Szalom) i sens życia.
+Być błogosławionym (w kontekście słowa Ashrei) oznacza więc:
+• Być w stanie trwałego, wewnętrznego pokoju, którego nie mogą zniszczyć życiowe trudności.
+• Mieć właściwą relację z Bogiem, co sprawia, że całe życie człowieka – niezależnie od bogactwa czy biedy – ma głęboki sens.
+• Być „zmierzanym we właściwym kierunku” (rdzeń słowa Ashrei oznacza też chodzenie prostą ścieżką). Błogosławiony to ten, kto idzie właściwą drogą i ma Boże prowadzenie.
+
+Porównanie pojęć
+
+
+Pojęcie	Co oznacza współcześnie?	Co oznacza w Biblii (Ashrei)?
+Szczęśliwy	Emocja, radość, sukces materialny, przypadek.	Harmonia, kroczenie właściwą drogą moralną.
+Błogosławiony	Kojarzy się z kimś świętym lub rytuałem kościelnym.	Życie pod Bożą opieką, napełnione duchową siłą i sensem.
+
+W Nowym Testamencie (który nawiązuje do hebrajskiego) Jezus używa tego samego pojęcia w słynnych Kazaniach na Górze („Błogosławieni ubodzy w duchu...”). Czy chciał(a)byś zobaczyć, jak te dwa światy (Stary i Nowy Testament) łączą się wokół tego słowa?
+
