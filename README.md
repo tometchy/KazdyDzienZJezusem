@@ -285,3 +285,25 @@ Używaj kodu z rozwagą.3. Wyświetlenie w widoku Razor (.cshtml)Użyj metody H
 Używaj kodu z rozwagą.Zaawansowane opcje (np. wtyczki)Jeśli potrzebujesz obsługi tabel, emoji czy automatycznych linków, skonfiguruj potok (pipeline) w Markdig:csharpvar pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions().Build();
 string htmlResult = Markdown.ToHtml(markdownText, pipeline);
 Używaj kodu z rozwagą.For tips on how to get the markdown conversion and rendering setup just right:14:34Markdown to HTML with C# .NETWyświetlenia: 1,8 tys. · 2 lata temuYouTube · Keep it simple, stupid.Jeśli chcesz, abym pomógł Ci dalej, napisz:Czy wczytujesz Markdown z pliku, czy z bazy danych?Czy potrzebujesz dodatkowych funkcji, takich jak czyszczenie kodu HTML (sanitization) ze względów bezpieczeństwa?
+# Greek interlinear reading
+
+The "Polish above Greek words" switch is available on every page. It remembers
+the reader's preference and annotates visible Greek text, including Bible
+translations, patristic texts, comparison cards, and tagged passages. Annotations
+are removed when the switch is turned off; the source text is never modified.
+
+Translations use a separately managed Ollama server with its `/api/chat` endpoint
+and structured outputs. Configure `GreekInterlinear:Endpoint` and
+`GreekInterlinear:Model` for a local .NET process. In Compose, set
+`KDJ_GREEK_ENDPOINT` (default `http://host.containers.internal:11434/api/chat`)
+and `KDJ_GREEK_MODEL` to an already installed model capable of Ancient Greek and
+Polish. No model is downloaded or container started by the application. With no
+configured model, enabling the switch explains that translation is unavailable.
+
+The translator receives the surrounding passage and returns a Polish gloss for
+each Greek token in order. Its instructions require contextually inflected forms
+rather than dictionary lemmas. The server validates alignment and caches successful
+results in bounded memory. Automated glosses can still contain linguistic errors;
+schema and alignment checks cannot guarantee correct Polish grammar. Validate the
+chosen model on real biblical, patristic, and classical passages before enabling
+the feature for readers. This feature does not provide a reviewed translation corpus.

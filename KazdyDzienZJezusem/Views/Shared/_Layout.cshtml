@@ -38,6 +38,14 @@
                 </div>
             </div>
         </nav>
+        <div class="container greek-reading-controls" lang="en">
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="greek-polish-toggle"
+                       aria-describedby="greek-polish-status" />
+                <label class="form-check-label" for="greek-polish-toggle">Polish above Greek words</label>
+            </div>
+            <p id="greek-polish-status" class="small text-secondary mb-0" aria-live="polite"></p>
+        </div>
     </header>
     <div class="container">
         <main id="main-content" role="main" class="pb-3" up-main>
@@ -53,6 +61,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/greek-interlinear.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

@@ -11,11 +11,8 @@
         <li class="breadcrumb-item">
             <a asp-action="Index" up-follow>Biblia</a>
         </li>
-        <li class="breadcrumb-item">
-            <a asp-action="Translation"
-               asp-route-translation="@navigationTranslation.Code"
-               up-follow>@navigationTranslation.Code</a>
-        </li>
+        <partial name="_TranslationBreadcrumb"
+                 model="new BibleTranslationNavigationViewModel(navigationTranslation, Model.Book, Model.Chapter, Model.Verse)" />
         <li class="breadcrumb-item">
             <a asp-action="Book"
                asp-route-translation="@navigationTranslation.Code"

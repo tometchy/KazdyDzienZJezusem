@@ -23,10 +23,20 @@ builder.Services.AddAntiforgery(options =>
 builder.Services.AddRateLimiter(options =>
 {
     options.RejectionStatusCode = StatusCodes.Status429TooManyRequests;
+    options.AddPolicy("greek-interlinear", context => RateLimitPartition.GetFixedWindowLimiter(
+        context.Connection.RemoteIpAddress?.ToString() ?? "unknown",
+        _ => new FixedWindowRateLimiterOptions { PermitLimit = 180, Window = TimeSpan.FromMinutes(1), QueueLimit = 0 }));
     options.AddPolicy("editor", context => RateLimitPartition.GetFixedWindowLimiter(
         context.Connection.RemoteIpAddress?.ToString() ?? "unknown",
         _ => new FixedWindowRateLimiterOptions { PermitLimit = 20, Window = TimeSpan.FromMinutes(1), QueueLimit = 0 }));
 });
+builder.Services.AddOptions<GreekInterlinearOptions>().BindConfiguration("GreekInterlinear")
+    .Validate(options => Uri.TryCreate(options.Endpoint, UriKind.Absolute, out var endpoint)
+        && (endpoint.Scheme == "http" || endpoint.Scheme == "https"), "Invalid Greek translation endpoint.")
+    .ValidateOnStart();
+builder.Services.AddHttpClient("GreekInterlinear", client => client.Timeout = TimeSpan.FromMinutes(2))
+    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler { AllowAutoRedirect = false });
+builder.Services.AddSingleton<GreekInterlinearService>();
 builder.Services.AddOptions<TagEditingOptions>().BindConfiguration("TagEditing")
     .Validate(options => Regex.IsMatch(options.Repository, @"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
         && Regex.IsMatch(options.Branch, @"^[A-Za-z0-9][A-Za-z0-9/_-]*$")

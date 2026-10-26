@@ -1,0 +1,63 @@
+@model BibleTranslationNavigationViewModel
+@inject KazdyDzienZJezusem.Services.BibleRepository BibleRepository
+<li class="breadcrumb-item dropdown bible-translation-breadcrumb"
+    aria-current="@(Model.Book is null ? "page" : null)">
+    <button class="btn btn-link dropdown-toggle bible-translation-toggle"
+            id="bible-translation-picker"
+            type="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+            aria-label="Bible translation"
+            title="@Model.Translation.Description">@Model.Translation.Code</button>
+    <ul class="dropdown-menu bible-translation-menu" aria-labelledby="bible-translation-picker">
+        @foreach (var translation in BibleRepository.GetTranslations())
+        {
+            var available = Model.Book is null
+                || (Model.Chapter is int chapter
+                    ? BibleRepository.HasChapter(translation, Model.Book, chapter)
+                    : BibleRepository.GetChapters(translation, Model.Book).Count > 0);
+            var selected = translation.Code == Model.Translation.Code;
+            <li>
+                @if (available)
+                {
+                    var destination = Model.Verse is not null
+                        ? Url.Action("Verse", "Bible", new
+                        {
+                            book = Model.Book!.Abbreviation,
+                            chapter = Model.Chapter,
+                            verse = Model.Verse,
+                            sourceTranslation = translation.Code
+                        })
+                        : Model.Chapter is not null
+                            ? Url.Action("Chapter", "Bible", new
+                            {
+                                translation = translation.Code,
+                                book = Model.Book!.Abbreviation,
+                                chapter = Model.Chapter
+                            })
+                            : Model.Book is not null
+                                ? Url.Action("Book", "Bible", new
+                                {
+                                    translation = translation.Code,
+                                    book = Model.Book.Abbreviation
+                                })
+                                : Url.Action("Translation", "Bible", new { translation = translation.Code });
+                    <a class="dropdown-item @(selected ? "active" : null)"
+                       href="@destination"
+                       aria-current="@(selected ? "page" : null)"
+                       data-preserve-verse-fragment="@(Model.Chapter is not null && Model.Verse is null ? "true" : null)"
+                       up-follow>@translation.Code — @translation.Description</a>
+                }
+                else
+                {
+                    <span class="dropdown-item disabled" aria-disabled="true">
+                        @translation.Code — @translation.Description
+                        <small class="d-block">@(Model.Chapter is null
+                            ? "This book is unavailable in this translation."
+                            : "This chapter is unavailable in this translation.")</small>
+                    </span>
+                }
+            </li>
+        }
+    </ul>
+</li>

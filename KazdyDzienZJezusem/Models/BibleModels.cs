@@ -12,6 +12,12 @@ public sealed record BibleVerse(
 public sealed record BibleTranslationListViewModel(
     IReadOnlyList<BibleTranslation> Translations);
 
+public sealed record BibleTranslationNavigationViewModel(
+    BibleTranslation Translation,
+    BibleBook? Book = null,
+    int? Chapter = null,
+    int? Verse = null);
+
 public sealed record BibleBookListViewModel(
     BibleTranslation Translation,
     IReadOnlyList<BibleBook> Books);

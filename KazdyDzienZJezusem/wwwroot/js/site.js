@@ -202,6 +202,12 @@
         });
     }
 
+    function syncTranslationVerseLinks() {
+        document.querySelectorAll('[data-preserve-verse-fragment="true"]').forEach(link => {
+            link.hash = window.location.hash;
+        });
+    }
+
     async function copyText(text) {
         if (navigator.clipboard && window.isSecureContext) {
             try {
@@ -259,6 +265,11 @@
 
     document.addEventListener("click", event => {
         const clickedElement = event.target instanceof Element ? event.target : null;
+        const translationLink = clickedElement?.closest('[data-preserve-verse-fragment="true"]');
+        if (translationLink instanceof HTMLAnchorElement) {
+            translationLink.hash = window.location.hash;
+        }
+
         const link = clickedElement?.closest("[data-verse-link]");
         if (!(link instanceof HTMLAnchorElement)) {
             return;
@@ -273,18 +284,22 @@
     window.addEventListener("hashchange", () => {
         normalizeLegacyVerseHash();
         syncCurrentVerseLink();
+        syncTranslationVerseLinks();
     });
 
     document.addEventListener("up:location:changed", () => {
         normalizeLegacyVerseHash();
         syncCurrentVerseLink();
+        syncTranslationVerseLinks();
     });
 
     document.addEventListener("up:fragment:inserted", () => {
         normalizeLegacyVerseHash();
         syncCurrentVerseLink();
+        syncTranslationVerseLinks();
     });
 
     normalizeLegacyVerseHash();
     syncCurrentVerseLink();
+    syncTranslationVerseLinks();
 })();

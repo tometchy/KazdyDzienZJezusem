@@ -8,7 +8,8 @@
         <li class="breadcrumb-item">
             <a asp-action="Index" up-follow>Biblia</a>
         </li>
-        <li class="breadcrumb-item active" aria-current="page">@Model.Translation.Code</li>
+        <partial name="_TranslationBreadcrumb"
+                 model="new BibleTranslationNavigationViewModel(Model.Translation)" />
     </ol>
 </nav>
 

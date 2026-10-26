@@ -1,10 +1,9 @@
 import { expect, Page, test } from '@playwright/test';
 import nodePath from 'node:path';
 
-export async function expectProductionScreenshot(
+export async function openProductionPage(
   page: Page,
   path: string,
-  snapshotName: string,
 ) {
   const unexpectedRequests: string[] = [];
   const failedResources: string[] = [];
@@ -35,8 +34,20 @@ export async function expectProductionScreenshot(
   expect(response!.status(), `Expected ${path} to load successfully`).toBe(200);
 
   await page.evaluate(() => document.fonts.ready);
-  expect(unexpectedRequests, 'Unexpected external browser requests').toEqual([]);
-  expect(failedResources, 'Failed page resources').toEqual([]);
+  const expectHealthyResources = () => {
+    expect(unexpectedRequests, 'Unexpected external browser requests').toEqual([]);
+    expect(failedResources, 'Failed page resources').toEqual([]);
+  };
+  expectHealthyResources();
+  return expectHealthyResources;
+}
+
+export async function expectProductionScreenshot(
+  page: Page,
+  path: string,
+  snapshotName: string,
+) {
+  await openProductionPage(page, path);
   await expect(page).toHaveScreenshot(`${snapshotName}.png`, {
     fullPage: true,
   });

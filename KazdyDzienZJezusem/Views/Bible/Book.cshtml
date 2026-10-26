@@ -8,18 +8,17 @@
         <li class="breadcrumb-item">
             <a asp-action="Index" up-follow>Biblia</a>
         </li>
-        <li class="breadcrumb-item">
-            <a asp-action="Translation"
-               asp-route-translation="@Model.Translation.Code"
-               up-follow>@Model.Translation.Code</a>
-        </li>
+        <partial name="_TranslationBreadcrumb"
+                 model="new BibleTranslationNavigationViewModel(Model.Translation, Model.Book)" />
         <li class="breadcrumb-item active" aria-current="page">@Model.Book.Abbreviation</li>
     </ol>
 </nav>
 
 <div class="bible-heading">
-    <p class="text-uppercase text-secondary small fw-semibold mb-2">
-        @Model.Translation.Code · @Model.Book.Abbreviation
+    <p class="small fw-semibold mb-2">
+        <a asp-action="Translation"
+           asp-route-translation="@Model.Translation.Code"
+           up-follow>@Model.Translation.Description</a>
     </p>
     <h1 class="display-6 fw-semibold">@Model.Book.Name</h1>
     <p class="lead text-secondary">Wybierz rozdział.</p>

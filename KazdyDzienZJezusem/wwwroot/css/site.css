@@ -46,6 +46,27 @@ a.navbar-brand {
   max-width: 64rem;
 }
 
+.father-source-note {
+  margin-top: 2.5rem;
+}
+
+.bible-translation-toggle {
+  padding: 0;
+  border: 0;
+  border-radius: 0.2rem;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.bible-translation-menu {
+  width: 22rem;
+  max-width: calc(100vw - 2rem);
+}
+
+.bible-translation-menu .dropdown-item {
+  white-space: normal;
+}
+
 .bible-card {
   color: inherit;
   border: 1px solid rgba(79, 70, 55, 0.18);
@@ -370,3 +391,21 @@ a.navbar-brand {
 .tag-editor form { display: flex; flex-wrap: wrap; gap: .5rem; padding: .5rem 0; }
 .tag-editor input { flex: 1 1 12rem; min-width: 0; }
 .tag-editor [role="status"] { flex-basis: 100%; margin: 0; }
+.greek-reading-controls {
+  margin-bottom: 1.25rem;
+}
+
+.greek-interlinear-word {
+  ruby-position: over;
+  ruby-align: center;
+  margin-inline: 0.12em;
+  line-height: 2.8;
+}
+
+.greek-interlinear-word rt {
+  color: #495057;
+  font-family: system-ui, sans-serif;
+  font-size: 0.65em;
+  font-weight: 500;
+  text-transform: none;
+}
