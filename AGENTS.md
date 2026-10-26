@@ -3,8 +3,12 @@
 - When working directly on the user's laptop, stage and commit only the completed task changes, following the laptop Git workflow below. Preserve unrelated staged and unstaged work.
 - Do not treat sudden changes in staged files or commits as an agent error. The user may stage or commit files while a session is still in progress.
 - Keep repository content in English, even when the conversation is in Polish.
-- Do not run podman build/run scripts, the user will manage this part.
-- Diagnostic-only inspection is allowed when the user explicitly permits it, including read-only Podman checks such as logs, ps, inspect, exec for diagnosis, and local connectivity checks. More generally, any read-only diagnostic action that does not start, stop, rebuild, or otherwise mutate a container is allowed. Do not run podman build/run scripts or restart containers unless the user explicitly asks for that action.
+- When working on the user's laptop, after completing application changes and
+  passing the required validation, rebuild the application using `compose.yaml`
+  and recreate its application container so the new version is immediately live.
+  The user has authorized these end-of-task rebuilds and refreshes; do not ask for
+  confirmation again. Preserve persistent data and avoid restarting unrelated services.
+- Read-only Podman diagnostics such as logs, ps, inspect, exec for diagnosis, and local connectivity checks are allowed. Container operations beyond the authorized application rebuild require an explicit user request.
 
 # Codex instructions
 
@@ -59,14 +63,23 @@ pull-request workflow used in hosted environments.
 7. Verify that the completed task commit is present on remote `master`. Do not
    create a pull request for laptop work. Finish with the commit link and test
    results, or explain any remaining blocker.
+8. Rebuild the application image from the completed checkout and recreate only
+   the `kazdy-dzien` service from `compose.yaml` (for example, after the native
+   Podman build, use `podman compose up --no-build --no-deps --force-recreate -d
+   kazdy-dzien`). Do not run a Compose-wide `down` or restart Redis or Cloudflared.
+   Verify the refreshed application responds on its published local port and
+   serves the requested changes. Report the live refresh result in the handoff.
+   If validation fails, fix it before refreshing; if the rebuild or startup fails,
+   report the exact blocker and preserve the last working service where possible.
 
 The laptop's `GtdSystem/background-service.sh` handles automatic rebuilds. It must
 compare the current commit with the last successfully built commit so both local
 and incoming remote commits trigger a rebuild, including local commits already
 pushed before the next cycle. Synchronization must preserve both histories and
 uncommitted work. A failed build must remain pending for the next cycle. Leave
-container builds and restarts to that service or the user unless explicitly asked
-to run them.
+container builds and restarts to that service or the user except for the authorized
+end-of-task application rebuild. Coordinate with the background service to avoid
+overlapping builds.
 
 ## Git workflow in hosted environments
 

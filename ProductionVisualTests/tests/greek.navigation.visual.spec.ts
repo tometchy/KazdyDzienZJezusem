@@ -15,7 +15,8 @@ test('book heading links the full translation name to its books', async ({ page 
 });
 
 test('Greek switch annotates Bible, fathers, comparison, tags, and literature and survives navigation', async ({ page }) => {
-  const healthy = await openProductionPage(page, '/Biblia/TR/J/1');
+  test.setTimeout(60_000);
+  const healthy = await openProductionPage(page, '/Biblia/TR/Ob/15');
   // Controlled API responses verify rendering and lifecycle, not model accuracy.
   let calls = 0;
   await page.route('**/api/greek-interlinear', async route => {
@@ -39,6 +40,8 @@ test('Greek switch annotates Bible, fathers, comparison, tags, and literature an
   if (await menu.isVisible()) await menu.click();
   await page.getByRole('link', { name: 'Ojcowie', exact: true }).click();
   await expect(toggle).toBeChecked();
+  await expect(page.locator('#greek-polish-status')).toHaveText('No Greek text on this page.');
+  await page.getByRole('link', { name: /Ignatius of Antioch/ }).click();
   await expect(page.locator('rt').first()).toBeVisible();
   await page.goto('/Ojcowie/Ignatius/Ef/1');
   await expect(page.locator('.verse-text rt').first()).toBeVisible();

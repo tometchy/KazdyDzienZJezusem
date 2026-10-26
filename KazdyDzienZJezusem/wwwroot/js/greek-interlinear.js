@@ -66,9 +66,24 @@
         const pending = [];
         while (walker.nextNode()) {
             const node = walker.currentNode;
-            const context = node.parentElement.closest('.verse-text, .translation-verse-text, p, h1, h2, h3, h4, h5, h6, li')
+            const context = node.parentElement.closest('.verse-list, .translation-verse-card, p, h1, h2, h3, h4, h5, h6, li')
                 ?? node.parentElement;
             pending.push({ node, text: node.textContent, context: context.textContent });
+        }
+        // Split long literary paragraphs at word boundaries and retain nearby context.
+        for (let index = 0; index < pending.length; index++) {
+            const item = pending[index];
+            if (item.text.length > 2000) {
+                let boundary = item.text.lastIndexOf(' ', 2000);
+                if (boundary < 1) boundary = 2000;
+                const remainder = item.node.splitText(boundary);
+                pending.splice(index + 1, 0, { node: remainder, text: remainder.textContent, context: item.context });
+                item.text = item.node.textContent;
+            }
+            if (item.context.length > 12000) {
+                const start = Math.max(0, item.context.indexOf(item.text) - 4000);
+                item.context = item.context.slice(start, start + 12000);
+            }
         }
         if (!pending.length) {
             status.textContent = 'No Greek text on this page.';
