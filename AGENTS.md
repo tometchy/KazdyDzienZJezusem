@@ -64,9 +64,15 @@ pull-request workflow used in hosted environments.
    create a pull request for laptop work. Finish with the commit link and test
    results, or explain any remaining blocker.
 8. Rebuild the application image from the completed checkout and recreate only
-   the `kazdy-dzien` service from `compose.yaml` (for example, after the native
-   Podman build, use `podman compose up --no-build --no-deps --force-recreate -d
-   kazdy-dzien`). Do not run a Compose-wide `down` or restart Redis or Cloudflared.
+   the `kazdy-dzien` service from `compose.yaml`. Do not run a Compose-wide `down`
+   or restart Redis or Cloudflared. Check the installed Compose provider first:
+   `podman-compose 1.0.6` ignores `up --no-deps` when selecting dependencies for
+   recreation, including with `--force-recreate`; do not use that path for a
+   targeted refresh. With that provider, stop and rename only the application
+   container as a rollback copy, then use `podman compose run --no-deps
+   --service-ports -T -d --name kazdydzienzjezusem_kazdy-dzien_1 kazdy-dzien`
+   with the existing project name and Compose file. Remove the rollback copy
+   only after verifying the new application, or restore it if startup fails.
    Verify the refreshed application responds on its published local port and
    serves the requested changes. Report the live refresh result in the handoff.
    If validation fails, fix it before refreshing; if the rebuild or startup fails,
