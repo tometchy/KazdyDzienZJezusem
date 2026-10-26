@@ -4,7 +4,9 @@ using System.Text.RegularExpressions;
 
 namespace KazdyDzienZJezusem.Services;
 
-public sealed record GreekWordTranslation(string Greek, string? Polish, string Match, IReadOnlyList<string> Alternatives);
+public sealed record GreekWordTranslation(string Greek, string? Polish, string Match, IReadOnlyList<string> Alternatives,
+    string? English, IReadOnlyList<string> EnglishAlternatives, string? Grammar, IReadOnlyList<string> GrammarAlternatives,
+    string? Pronunciation, IReadOnlyList<string> PronunciationAlternatives);
 public sealed record GreekInterlinearResult(IReadOnlyList<GreekWordTranslation> Words);
 
 public static partial class GreekText
@@ -35,21 +37,43 @@ public sealed class GreekInterlinearService(IGreekDictionaryReader dictionary)
         if (words.Length == 0) return new GreekInterlinearResult([]);
         if (words.Length > 500) throw new ArgumentException("The passage contains too many Greek words.");
         var lookup = await dictionary.LookupAsync(reference, words.Select(GreekText.FormKey).ToArray(), cancellationToken);
-        var aligned = lookup.Passage is { } passage ? Align(words, passage) : new Dictionary<int, string>();
+        var aligned = lookup.Passage is { } passage ? Align(words, passage) : new Dictionary<int, int>();
         var result = words.Select((word, index) =>
         {
-            if (aligned.TryGetValue(index, out var gloss))
-                return new GreekWordTranslation(word, gloss, "passage", [gloss]);
+            if (aligned.TryGetValue(index, out var position))
+            {
+                var entry = lookup.Passage!;
+                // Passage alignment ignores diacritics, but breathing and diaeresis
+                // can change pronunciation. Never read a different spelling aloud.
+                var pronunciation = entry.Pronunciation?.ElementAtOrDefault(position);
+                if (GreekText.FormKey(word) != GreekText.FormKey(entry.Greek[position]))
+                    pronunciation = lookup.Forms.GetValueOrDefault(GreekText.FormKey(word))?
+                        .Select(form => form.Pronunciation).FirstOrDefault(value => !string.IsNullOrWhiteSpace(value));
+                return Describe(word, [new GreekDictionaryForm(entry.Polish[position], entry.Grammar[position],
+                    entry.English?.ElementAtOrDefault(position), entry.Codes?.ElementAtOrDefault(position),
+                    pronunciation)], "passage");
+            }
             if (!lookup.Forms.TryGetValue(GreekText.FormKey(word), out var forms) || forms.Length == 0)
-                return new GreekWordTranslation(word, null, "missing", []);
-            var alternatives = forms.Select(form => form.Polish).Distinct(StringComparer.OrdinalIgnoreCase).ToArray();
-            return new GreekWordTranslation(word, alternatives.Length == 1 ? alternatives[0] : null,
-                alternatives.Length == 1 ? "form" : "ambiguous", alternatives);
+                return Describe(word, [], "missing");
+            return Describe(word, forms, "form");
         }).ToArray();
         return new GreekInterlinearResult(result);
     }
 
-    private static Dictionary<int, string> Align(string[] words, GreekDictionaryPassage passage)
+    private static GreekWordTranslation Describe(string word, GreekDictionaryForm[] entries, string match)
+    {
+        static string[] Distinct(IEnumerable<string?> values) => values.Where(value => !string.IsNullOrWhiteSpace(value))
+            .Select(value => value == "-" ? "—" : value!).Distinct(StringComparer.OrdinalIgnoreCase).ToArray();
+        static string? Unique(string[] values) => values.Length == 1 ? values[0] : null;
+        var polish = Distinct(entries.Select(entry => entry.Polish));
+        var english = Distinct(entries.Select(entry => entry.English));
+        var grammar = Distinct(entries.Select(entry => entry.Code));
+        var pronunciation = Distinct(entries.Select(entry => entry.Pronunciation));
+        return new GreekWordTranslation(word, Unique(polish), match == "form" && polish.Length > 1 ? "ambiguous" : match,
+            polish, Unique(english), english, Unique(grammar), grammar, Unique(pronunciation), pronunciation);
+    }
+
+    private static Dictionary<int, int> Align(string[] words, GreekDictionaryPassage passage)
     {
         var source = words.Select(GreekText.AlignmentKey).ToArray();
         var target = passage.Greek.Select(GreekText.AlignmentKey).ToArray();
@@ -60,11 +84,11 @@ public sealed class GreekInterlinearService(IGreekDictionaryReader dictionary)
                     ? lengths[i + 1, j + 1] + 1 : Math.Max(lengths[i + 1, j], lengths[i, j + 1]);
 
         // A reference must substantially match before passage glosses can be used.
-        var result = new Dictionary<int, string>();
+        var result = new Dictionary<int, int>();
         if (lengths[0, 0] < Math.Min(3, source.Length) || lengths[0, 0] < source.Length * 0.65) return result;
         for (int i = 0, j = 0; i < source.Length && j < target.Length;)
         {
-            if (source[i] == target[j]) { result.Add(i, passage.Polish[j]); i++; j++; }
+            if (source[i] == target[j]) { result.Add(i, j); i++; j++; }
             else if (lengths[i + 1, j] > lengths[i, j + 1]) i++;
             else j++;
         }

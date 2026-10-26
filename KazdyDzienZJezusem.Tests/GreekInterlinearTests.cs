@@ -17,7 +17,42 @@ public sealed class GreekInterlinearTests
         {
             Assert.Equal(passage.Greek.Length, passage.Polish.Length);
             Assert.Equal(passage.Greek.Length, passage.Grammar.Length);
+            Assert.Equal(passage.Greek.Length, passage.English!.Length);
+            Assert.Equal(passage.Greek.Length, passage.Codes!.Length);
+            Assert.Equal(passage.Greek.Length, passage.Pronunciation!.Length);
         });
+    }
+
+    [Fact]
+    public async Task All_annotation_fields_follow_the_same_word_and_its_inflection()
+    {
+        var service = new GreekInterlinearService(new MemoryReader(Corpus.Value));
+        const string text = "Βίβλος γενέσεως";
+        var result = await service.TranslateAsync(text, text, TestContext.Current.CancellationToken, "Mt1,1");
+        Assert.Equal("N-NSF", result.Words[0].Grammar);
+        Assert.Equal("N-GSF", result.Words[1].Grammar);
+        Assert.Equal("biblos", result.Words[0].Pronunciation);
+        Assert.Equal("geneseos", result.Words[1].Pronunciation);
+        Assert.False(string.IsNullOrWhiteSpace(result.Words[0].English));
+        var nominative = await service.TranslateAsync("λόγος", "λόγος", TestContext.Current.CancellationToken);
+        var genitive = await service.TranslateAsync("λόγου", "λόγου", TestContext.Current.CancellationToken);
+        Assert.Equal("logos", nominative.Words[0].Pronunciation);
+        Assert.Equal("logu", genitive.Words[0].Pronunciation);
+    }
+
+    [Fact]
+    public async Task Pronunciation_uses_the_displayed_breathing_not_the_aligned_edition()
+    {
+        var reader = new FixedReader(new("Test1,1", ["ὅρος"], ["granica"], ["N-NSM"],
+            ["boundary"], ["N-NSM"], ["horos"]), new()
+        {
+            [GreekText.FormKey("ὄρος")] = [new("góra", "N-NSN", "mountain", "N-NSN", "oros")]
+        });
+        var service = new GreekInterlinearService(reader);
+        var result = await service.TranslateAsync("ὄρος", "ὄρος", TestContext.Current.CancellationToken, "Test1,1");
+        Assert.Equal("oros", result.Words[0].Pronunciation);
+        var missing = await service.TranslateAsync("ορος", "ορος", TestContext.Current.CancellationToken, "Test1,1");
+        Assert.Null(missing.Words[0].Pronunciation);
     }
 
     [Fact]
@@ -72,6 +107,9 @@ public sealed class GreekInterlinearTests
         Assert.Equal(new[] { "książka", "książkę" }, result.Words[0].Alternatives);
         Assert.Equal("missing", result.Words[1].Match);
         Assert.Null(result.Words[1].Polish);
+        Assert.Empty(result.Words[1].EnglishAlternatives);
+        Assert.Empty(result.Words[1].GrammarAlternatives);
+        Assert.Empty(result.Words[1].PronunciationAlternatives);
     }
 
     [Fact]

@@ -22,7 +22,7 @@ test('Greek switch annotates Bible, fathers, comparison, tags, and literature an
   const toggle = page.getByRole('switch', { name: 'Polish above Greek words' });
   await toggle.check();
   await expect(page.locator('.verse-text rt').first()).toHaveText('I');
-  await expect(page.locator('#greek-polish-status')).toContainText('Static Polish dictionary.');
+  await expect(page.locator('#greek-polish-status')).toContainText('Static dictionary.');
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await expect(page).toHaveScreenshot('greek-interlinear.png', { fullPage: true });
   await toggle.uncheck();
@@ -59,6 +59,50 @@ test('Greek switch annotates Bible, fathers, comparison, tags, and literature an
   await toggle.uncheck();
   await toggle.check();
   await expect(page.locator('main p rt')).toHaveCount(2);
+  healthy();
+});
+
+test('all annotation settings are independent, persistent, and stacked in the requested order', async ({ page }) => {
+  const healthy = await openProductionPage(page, '/Biblia/Werset/Mt/1/1?sourceTranslation=TR');
+  const names = ['polish', 'english', 'grammar', 'pronunciation'];
+  const switches = names.map(name => page.locator(`#greek-${name}-toggle`));
+  const order = ['grammar', 'english', 'polish', 'pronunciation'];
+  const original = await page.locator('.translation-verse-text').allTextContents();
+  for (let mask = 1; mask < 16; mask++) {
+    for (let index = 0; index < names.length; index++) await switches[index].setChecked(Boolean(mask & (1 << index)));
+    const expected = order.filter(name => mask & (1 << names.indexOf(name)));
+    const layers = page.locator('ruby').first().locator('rt [data-greek-layer]');
+    await expect(layers).toHaveCount(expected.length);
+    await expect.poll(() => layers.evaluateAll(nodes => nodes.map(node => (node as HTMLElement).dataset.greekLayer)))
+      .toEqual(expected);
+  }
+  const first = page.locator('ruby').first();
+  await expect(first.locator('[data-greek-layer="grammar"]')).toHaveText('N-NSF');
+  await expect(first.locator('[data-greek-layer="pronunciation"]')).toHaveText('biblos');
+  const second = page.locator('ruby').nth(1);
+  await expect(second.locator('[data-greek-layer="grammar"]')).toHaveText('N-GSF');
+  await expect(second.locator('[data-greek-layer="pronunciation"]')).toHaveText('geneseos');
+  const geometry = await first.evaluate(word => ['grammar', 'english', 'polish', 'pronunciation']
+    .map(name => word.querySelector(`[data-greek-layer="${name}"]`)!.getBoundingClientRect().top)
+    .concat(word.querySelector('.greek-source-word')!.getBoundingClientRect().top));
+  expect(geometry.every((position, index) => index === 0 || position > geometry[index - 1])).toBe(true);
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  await test.info().attach('All Greek reading layers', {
+    body: await page.screenshot({ fullPage: true }), contentType: 'image/png',
+  });
+  await expect(page).toHaveScreenshot('greek-all-annotations.png', { fullPage: true });
+  // A mixed preference survives a full reload independently for every layer.
+  await switches[0].uncheck();
+  await switches[2].uncheck();
+  await page.reload();
+  for (let index = 0; index < names.length; index++)
+    await expect(switches[index]).toBeChecked({ checked: index === 1 || index === 3 });
+  await expect(page.locator('[data-greek-layer="polish"]')).toHaveCount(0);
+  await expect(page.locator('[data-greek-layer="grammar"]')).toHaveCount(0);
+  await expect(page.locator('[data-greek-layer="english"]').first()).toBeVisible();
+  for (const toggle of switches) await toggle.uncheck();
+  await expect(page.locator('ruby')).toHaveCount(0);
+  expect(await page.locator('.translation-verse-text').allTextContents()).toEqual(original);
   healthy();
 });
 

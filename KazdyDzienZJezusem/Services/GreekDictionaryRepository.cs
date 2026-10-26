@@ -5,8 +5,10 @@ using StackExchange.Redis;
 
 namespace KazdyDzienZJezusem.Services;
 
-public sealed record GreekDictionaryPassage(string Reference, string[] Greek, string[] Polish, string[] Grammar);
-public sealed record GreekDictionaryForm(string Polish, string Grammar);
+public sealed record GreekDictionaryPassage(string Reference, string[] Greek, string[] Polish, string[] Grammar,
+    string[]? English = null, string[]? Codes = null, string[]? Pronunciation = null);
+public sealed record GreekDictionaryForm(string Polish, string Grammar, string? English = null,
+    string? Code = null, string? Pronunciation = null);
 public sealed record GreekDictionaryLookup(GreekDictionaryPassage? Passage, Dictionary<string, GreekDictionaryForm[]> Forms);
 public interface IGreekDictionaryReader
 {
@@ -25,7 +27,7 @@ public sealed class GreekDictionaryCatalog
         using var gzip = new GZipStream(stream, CompressionMode.Decompress);
         using var reader = new StreamReader(gzip);
         using var metadata = JsonDocument.Parse(reader.ReadLine() ?? throw new InvalidDataException("Missing dictionary metadata."));
-        if (metadata.RootElement.GetProperty("schema").GetInt32() != 1)
+        if (metadata.RootElement.GetProperty("schema").GetInt32() != 2)
             throw new InvalidDataException("Unsupported Greek dictionary schema.");
         var catalog = new GreekDictionaryCatalog();
         var forms = new Dictionary<string, HashSet<GreekDictionaryForm>>(StringComparer.Ordinal);
@@ -36,8 +38,10 @@ public sealed class GreekDictionaryCatalog
             {
                 var entries = record.RootElement.GetProperty("glosses")
                     .Deserialize<GreekDictionaryForm[]>(JsonOptions) ?? throw new InvalidDataException("Invalid form alias.");
-                if (entries.Length == 0 || entries.Any(entry => string.IsNullOrWhiteSpace(entry.Polish)))
-                    throw new InvalidDataException("Empty Polish form alias.");
+                if (entries.Length == 0 || entries.Any(entry => string.IsNullOrWhiteSpace(entry.Polish)
+                    || string.IsNullOrWhiteSpace(entry.English) || string.IsNullOrWhiteSpace(entry.Code)
+                    || string.IsNullOrWhiteSpace(entry.Pronunciation)))
+                    throw new InvalidDataException("Incomplete Greek form alias.");
                 forms.Add(alias.GetString()!, entries.Select(entry => entry.Polish == "-" ? entry with { Polish = "—" } : entry).ToHashSet());
                 continue;
             }
@@ -45,14 +49,19 @@ public sealed class GreekDictionaryCatalog
                 ?? throw new InvalidDataException("Invalid Greek dictionary passage.");
             if (passage.Greek.Length == 0 || passage.Greek.Length > 500
                 || passage.Greek.Length != passage.Polish.Length || passage.Greek.Length != passage.Grammar.Length
-                || passage.Greek.Any(string.IsNullOrWhiteSpace) || passage.Polish.Any(string.IsNullOrWhiteSpace))
+                || passage.Greek.Length != passage.English?.Length || passage.Greek.Length != passage.Codes?.Length
+                || passage.Greek.Length != passage.Pronunciation?.Length
+                || passage.Greek.Any(string.IsNullOrWhiteSpace) || passage.Polish.Any(string.IsNullOrWhiteSpace)
+                || passage.English!.Any(string.IsNullOrWhiteSpace) || passage.Codes!.Any(string.IsNullOrWhiteSpace)
+                || passage.Pronunciation!.Any(string.IsNullOrWhiteSpace))
                 throw new InvalidDataException($"Unaligned Greek dictionary passage: {passage.Reference}");
             for (var index = 0; index < passage.Greek.Length; index++)
             {
                 if (passage.Polish[index] == "-") passage.Polish[index] = "—";
                 var key = GreekText.FormKey(passage.Greek[index]);
                 if (!forms.TryGetValue(key, out var entries)) forms.Add(key, entries = []);
-                entries.Add(new GreekDictionaryForm(passage.Polish[index], passage.Grammar[index]));
+                entries.Add(new GreekDictionaryForm(passage.Polish[index], passage.Grammar[index],
+                    passage.English![index], passage.Codes![index], passage.Pronunciation![index]));
             }
             catalog.Passages.Add(passage.Reference, passage);
         }
@@ -61,7 +70,7 @@ public sealed class GreekDictionaryCatalog
             throw new InvalidDataException("The Greek dictionary does not match its declared counts.");
         foreach (var entry in forms)
             catalog.Forms.Add(entry.Key, entry.Value.OrderBy(form => form.Polish, StringComparer.Ordinal)
-                .ThenBy(form => form.Grammar, StringComparer.Ordinal).ToArray());
+                .ThenBy(form => form.Grammar, StringComparer.Ordinal).ThenBy(form => form.English, StringComparer.Ordinal).ToArray());
         return catalog;
     }
 }
@@ -105,7 +114,7 @@ public sealed class GreekDictionaryRepository(string path, string? redisConnecti
         if (_prefix is null)
         {
             using var file = File.OpenRead(path);
-            _prefix = "greek-polish:v1:" + Convert.ToHexString(await SHA256.HashDataAsync(file, cancellationToken)).ToLowerInvariant();
+            _prefix = "greek-polish:v2:" + Convert.ToHexString(await SHA256.HashDataAsync(file, cancellationToken)).ToLowerInvariant();
         }
         var database = _redis!.GetDatabase();
         var completion = (string?)await database.StringGetAsync(_prefix + ":ready");

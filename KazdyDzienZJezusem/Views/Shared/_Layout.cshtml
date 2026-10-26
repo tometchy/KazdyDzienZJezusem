@@ -39,10 +39,28 @@
             </div>
         </nav>
         <div class="container greek-reading-controls" lang="en">
+            <div class="greek-reading-options">
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" role="switch" id="greek-polish-toggle"
-                       aria-describedby="greek-polish-status" />
-                <label class="form-check-label" for="greek-polish-toggle">Polish above Greek words</label>
+                       aria-label="Polish above Greek words" aria-describedby="greek-polish-status" />
+                <label class="form-check-label" for="greek-polish-toggle">Polish</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="greek-english-toggle"
+                       aria-label="English above Greek words" aria-describedby="greek-polish-status" />
+                <label class="form-check-label" for="greek-english-toggle">English</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="greek-grammar-toggle"
+                       aria-label="Grammar above Greek words" aria-describedby="greek-polish-status" />
+                <label class="form-check-label" for="greek-grammar-toggle">Grammar code</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="greek-pronunciation-toggle"
+                       aria-label="Pronunciation above Greek words" aria-describedby="greek-polish-status"
+                       title="Approximate Polish Erasmian classroom reading; stress and vowel length are omitted." />
+                <label class="form-check-label" for="greek-pronunciation-toggle">Pronunciation</label>
+            </div>
             </div>
             <p id="greek-polish-status" class="small text-secondary mb-0" aria-live="polite"></p>
             <small id="greek-polish-source" hidden>

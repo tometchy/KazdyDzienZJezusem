@@ -287,20 +287,26 @@ string htmlResult = Markdown.ToHtml(markdownText, pipeline);
 Używaj kodu z rozwagą.For tips on how to get the markdown conversion and rendering setup just right:14:34Markdown to HTML with C# .NETWyświetlenia: 1,8 tys. · 2 lata temuYouTube · Keep it simple, stupid.Jeśli chcesz, abym pomógł Ci dalej, napisz:Czy wczytujesz Markdown z pliku, czy z bazy danych?Czy potrzebujesz dodatkowych funkcji, takich jak czyszczenie kodu HTML (sanitization) ze względów bezpieczeństwa?
 # Greek interlinear reading
 
-The "Polish above Greek words" switch is available on every page. It remembers
-the reader's preference and annotates visible Greek text, including Bible
-translations, patristic texts, comparison cards, and tagged passages. Annotations
-are removed when the switch is turned off; the source text is never modified.
+Four independent switches are available on every page: Polish, English, grammar
+code, and pronunciation. Each remembers its own preference and annotates visible
+Greek text, including Bible translations, patristic texts, comparison cards, and
+tagged passages. With all options enabled, the top-to-bottom order is grammar
+code, English, Polish, pronunciation, then the original Greek word. Switching
+everything off restores the source text unchanged.
 
 All glosses come from the bundled [static Greek-Polish corpus](input/GreekPolish/README.md).
 It contains 7,940 passages, 137,323 word pairs, and 18,433 Greek forms with
-inflected Polish equivalents and morphology. There is no translation API,
+inflected Polish and English equivalents, morphology codes, and pronunciation.
+Codes use the GNT Ross convention where convertible (for example `N-NSF` and
+`N-GSF`); unsupported tags retain their source spelling. Pronunciation is an
+approximate Polish Erasmian classroom reading of the exact inflected word,
+without stress or vowel length, not audio. There is no translation API,
 English-to-Polish translation step, model, or runtime external-service call.
 The existing GNT file contributes 520 attested spelling/form aliases by matching
 both Strong identity and grammatical inflection to the Polish corpus.
 
 At startup the application imports `input/GreekPolish/interlinear.jsonl.gz` into
-versioned Redis hashes under `greek-polish:v1:<file-sha256>:passages` and `:forms`.
+versioned Redis hashes under `greek-polish:v2:<file-sha256>:passages` and `:forms`.
 The importer atomically publishes both hashes, reuses the existing version on
 restart, and repairs a missing index. It leaves other Redis keys untouched.
 Set `GreekInterlinear:RedisConnection`, or reuse `Tags:RedisConnection`; Compose

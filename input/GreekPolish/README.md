@@ -16,8 +16,11 @@ redistributing it; commercial reuse is not covered by this license.
 
 Changes: merged the published train, validation and test splits; sorted passages;
 converted book numbers to this application's abbreviations; retained aligned
-Greek words, inflected Polish glosses and morphology; omitted English glosses
-and duplicate tag systems. Source Polish glosses are not machine-translated.
+Greek words, inflected Polish and English glosses, and morphology. Source glosses
+are not machine-translated. Grammar display codes use the existing GNT Ross
+convention (for example `N-NSF`, `N-GSF`): attested GNT codes are preferred,
+otherwise BibleHub noun, adjective, article, pronoun and verb tags are converted.
+Unrecognized tags retain their source spelling rather than inventing a code.
 Added 520 attested form variants from the existing `input-raw/gnt.flat.json`.
 An alias requires matching Strong identity AND grammatical inflection, after
 converting the Ross and BibleHub tag conventions. This includes, for example,
@@ -30,18 +33,30 @@ already excluded unmatched words and shortened some verses to its training
 token limit. It is not a complete lexicon for classical or patristic Greek.
 
 The first JSON line contains source metadata and expected counts. Every remaining
-passage line has `reference`, `greek`, `polish`, and `grammar` arrays. Form-alias
-lines have `form` and `glosses` fields. A source `-` gloss
-means there is no independent Polish equivalent; the reader displays an em dash.
+passage line in schema 2 has `reference` and aligned `greek`, `polish`, `english`,
+`grammar`, `codes`, and `pronunciation` arrays. Form-alias lines have `form` and
+`glosses` fields, including each annotation. A source `-` or blank gloss means
+there is no independent equivalent; the reader displays an em dash.
 Unknown forms remain marked as unknown. Ambiguous forms expose the source
 alternatives instead of silently choosing an inflection. Passage-level alignment
 is preferred for Bible verses; Textus Receptus differs from the source editions.
+
+Pronunciation is generated offline from each **inflected surface word**, not its
+dictionary lemma or the GNT Beta-code field. It is an approximate Erasmian
+classroom reading written for Polish readers, not audio, IPA, or a reconstruction
+of historical pronunciation. It handles rough breathing, diphthongs, diaeresis,
+nasal gamma, and silent iota subscripts. Vowel length and stress are not shown;
+upsilon uses `y`, and theta/phi/chi use the conventional approximations `t/f/ch`.
+See the Open University's explanations of
+[breathing marks](https://www.open.edu/openlearn/mod/oucontent/view.php?id=157789&section=_unit3.1.2)
+and [letter combinations](https://www.open.edu/openlearn/mod/oucontent/view.php?id=157789&section=_unit9.1.4).
 
 To regenerate from verified, pinned upstream files (only at development time):
 
 ```sh
 python3 -m pip install --target /tmp/kdj-lexicon-packages pyarrow 'numpy>=2'
 PYTHONPATH=/tmp/kdj-lexicon-packages python3 scripts/prepare-greek-polish.py
+python3 scripts/test-greek-reading-data.py
 ```
 
 No downloader, Python dependency, translation model or translation API is used
