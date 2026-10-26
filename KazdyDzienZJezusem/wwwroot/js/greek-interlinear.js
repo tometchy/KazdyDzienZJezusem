@@ -1,6 +1,7 @@
 (() => {
     const toggle = document.getElementById('greek-polish-toggle');
     const status = document.getElementById('greek-polish-status');
+    const attribution = document.getElementById('greek-polish-source');
     if (!toggle || !status) return;
 
     const storageKey = 'kdj:greek-polish';
@@ -19,7 +20,8 @@
         const text = node.textContent;
         const matches = Array.from(text.matchAll(greek));
         if (words.length !== matches.length || words.some((word, index) =>
-            word.greek !== matches[index][0] || typeof word.polish !== 'string' || !word.polish.trim())) {
+            word.greek !== matches[index][0] || !Array.isArray(word.alternatives)
+            || (word.polish !== null && typeof word.polish !== 'string'))) {
             throw new Error('The translation could not be aligned with the Greek text.');
         }
         const fragment = document.createDocumentFragment();
@@ -31,10 +33,17 @@
             ruby.dataset.greekOriginal = match[0];
             ruby.lang = 'grc';
             ruby.className = 'greek-interlinear-word';
+            ruby.dataset.greekMatch = words[index].match;
+            ruby.title = words[index].match === 'passage'
+                ? 'Polish form from this passage in the interlinear corpus.'
+                : words[index].match === 'missing'
+                    ? 'This Greek form is missing from the static dictionary.'
+                    : `Dictionary forms: ${words[index].alternatives.join(' / ')}`;
             ruby.append(document.createTextNode(match[0]));
             const translation = document.createElement('rt');
             translation.lang = 'pl';
-            translation.textContent = words[index].polish;
+            translation.textContent = words[index].polish
+                ?? (words[index].alternatives.length ? words[index].alternatives.slice(0, 3).join(' / ') : '?');
             ruby.append(translation);
             fragment.append(ruby);
             offset = match.index + match[0].length;
@@ -43,12 +52,27 @@
         node.replaceWith(fragment);
     }
 
+    function referenceFor(node) {
+        const element = node.parentElement;
+        const fragment = element.closest('[data-tag-fragment]')?.dataset.tagFragment;
+        if (fragment && !fragment.includes('/')) return fragment;
+        const link = element.closest('.translation-verse-card')?.querySelector('.translation-verse-heading a')
+            ?? element.closest('.tag-passage')?.querySelector('h3 a');
+        if (!link) return null;
+        const url = new URL(link.href);
+        const match = /^\/Biblia\/[^/]+\/([^/]+)\/(\d+)$/.exec(url.pathname);
+        const verse = element.closest('.bible-verse')?.querySelector('.verse-number')?.textContent.trim()
+            ?? url.hash.slice(1);
+        return match && /^\d+$/.test(verse) ? `${decodeURIComponent(match[1])}${match[2]},${verse}` : null;
+    }
+
     async function translatePage() {
         const current = ++generation;
         controller?.abort();
         controller = new AbortController();
         restoreText();
         status.textContent = '';
+        if (attribution) attribution.hidden = !toggle.checked;
         if (!toggle.checked) return;
         const main = document.getElementById('main-content');
         if (!main) return;
@@ -68,7 +92,7 @@
             const node = walker.currentNode;
             const context = node.parentElement.closest('.verse-list, .translation-verse-card, p, h1, h2, h3, h4, h5, h6, li')
                 ?? node.parentElement;
-            pending.push({ node, text: node.textContent, context: context.textContent });
+            pending.push({ node, text: node.textContent, context: context.textContent, reference: referenceFor(node) });
         }
         // Split long literary paragraphs at word boundaries and retain nearby context.
         for (let index = 0; index < pending.length; index++) {
@@ -77,7 +101,7 @@
                 let boundary = item.text.lastIndexOf(' ', 2000);
                 if (boundary < 1) boundary = 2000;
                 const remainder = item.node.splitText(boundary);
-                pending.splice(index + 1, 0, { node: remainder, text: remainder.textContent, context: item.context });
+                pending.splice(index + 1, 0, { node: remainder, text: remainder.textContent, context: item.context, reference: item.reference });
                 item.text = item.node.textContent;
             }
             if (item.context.length > 12000) {
@@ -89,23 +113,27 @@
             status.textContent = 'No Greek text on this page.';
             return;
         }
-        status.textContent = 'Translating Greek in context…';
+        status.textContent = 'Loading Polish dictionary forms…';
         try {
+            let missing = 0;
+            let ambiguous = 0;
             for (const item of pending) {
                 if (current !== generation) return;
                 if (!item.node.isConnected) continue;
                 const response = await fetch('/api/greek-interlinear', {
                     method: 'POST', credentials: 'same-origin',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ text: item.text, context: item.context }),
+                    body: JSON.stringify({ text: item.text, context: item.context, reference: item.reference }),
                     signal: controller.signal
                 });
                 const result = await response.json();
                 if (!response.ok) throw new Error(result.error ?? 'Translation is unavailable.');
                 if (current !== generation) return;
+                missing += result.words.filter(word => word.match === 'missing').length;
+                ambiguous += result.words.filter(word => word.match === 'ambiguous').length;
                 if (item.node.isConnected) render(item.node, result.words);
             }
-            status.textContent = 'Polish forms follow the context. Automatic translations may contain errors.';
+            status.textContent = `Static Polish dictionary. Missing forms: ${missing}; forms with alternatives: ${ambiguous}.`;
         } catch (error) {
             if (current !== generation || error.name === 'AbortError') return;
             status.textContent = `${error.message} Switch off and on to retry.`;

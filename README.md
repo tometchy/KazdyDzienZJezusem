@@ -292,18 +292,24 @@ the reader's preference and annotates visible Greek text, including Bible
 translations, patristic texts, comparison cards, and tagged passages. Annotations
 are removed when the switch is turned off; the source text is never modified.
 
-Translations use a separately managed Ollama server with its `/api/chat` endpoint
-and structured outputs. Configure `GreekInterlinear:Endpoint` and
-`GreekInterlinear:Model` for a local .NET process. In Compose, set
-`KDJ_GREEK_ENDPOINT` (default `http://host.containers.internal:11434/api/chat`)
-and `KDJ_GREEK_MODEL` to an already installed model capable of Ancient Greek and
-Polish. No model is downloaded or container started by the application. With no
-configured model, enabling the switch explains that translation is unavailable.
+All glosses come from the bundled [static Greek-Polish corpus](input/GreekPolish/README.md).
+It contains 7,940 passages, 137,323 word pairs, and 18,433 Greek forms with
+inflected Polish equivalents and morphology. There is no translation API,
+English-to-Polish translation step, model, or runtime external-service call.
+The existing GNT file contributes 520 attested spelling/form aliases by matching
+both Strong identity and grammatical inflection to the Polish corpus.
 
-The translator receives the surrounding passage and returns a Polish gloss for
-each Greek token in order. Its instructions require contextually inflected forms
-rather than dictionary lemmas. The server validates alignment and caches successful
-results in bounded memory. Automated glosses can still contain linguistic errors;
-schema and alignment checks cannot guarantee correct Polish grammar. Validate the
-chosen model on real biblical, patristic, and classical passages before enabling
-the feature for readers. This feature does not provide a reviewed translation corpus.
+At startup the application imports `input/GreekPolish/interlinear.jsonl.gz` into
+versioned Redis hashes under `greek-polish:v1:<file-sha256>:passages` and `:forms`.
+The importer atomically publishes both hashes, reuses the existing version on
+restart, and repairs a missing index. It leaves other Redis keys untouched.
+Set `GreekInterlinear:RedisConnection`, or reuse `Tags:RedisConnection`; Compose
+supplies the internal Redis address. Dictionary requests read Redis exclusively.
+Redis outages show an unavailable message while the original Greek stays readable.
+
+Bible requests use their verse reference and align words to the source passage.
+Elsewhere the lookup uses the inflected Greek form, preserving significant
+diacritics. Ambiguous forms show alternatives, and missing forms show `?` with
+an explanatory tooltip. This corpus is not a complete classical/patristic lexicon;
+the upstream data also omits unmatched words and truncates some long verses.
+The source data is CC BY-NC-SA 4.0, with attribution shown while the switch is on.

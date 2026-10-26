@@ -1,4 +1,3 @@
-using System.Text.Json;
 using KazdyDzienZJezusem.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.RateLimiting;
@@ -16,16 +15,11 @@ public sealed class GreekInterlinearController(GreekInterlinearService translato
     {
         try
         {
-            return Ok(await translator.TranslateAsync(request.Text ?? "", request.Context ?? request.Text ?? "", cancellationToken));
+            return Ok(await translator.TranslateAsync(request.Text ?? "", request.Context ?? request.Text ?? "", cancellationToken, request.Reference));
         }
         catch (ArgumentException exception) { return BadRequest(new { error = exception.Message }); }
         catch (InvalidOperationException exception) { return StatusCode(503, new { error = exception.Message }); }
-        catch (Exception exception) when (exception is HttpRequestException or JsonException or KeyNotFoundException
-            || exception is OperationCanceledException && !cancellationToken.IsCancellationRequested)
-        {
-            return StatusCode(503, new { error = "Greek translation is unavailable. Please try again later." });
-        }
     }
 }
 
-public sealed record GreekInterlinearRequest(string? Text, string? Context);
+public sealed record GreekInterlinearRequest(string? Text, string? Context, string? Reference = null);

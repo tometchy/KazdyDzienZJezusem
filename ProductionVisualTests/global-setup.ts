@@ -126,6 +126,18 @@ export default async function setup(config: FullConfig) {
       }
     }
     console.log(`Verified ${tagFiles.length} tag definitions and the fragment index in isolated Redis.`);
+    const dictionaryDeadline = Date.now() + 30_000;
+    while (!redis('GET', 'greek-polish:active')) {
+      if (childFailure) throw childFailure;
+      if (Date.now() > dictionaryDeadline) throw new Error('The static Greek dictionary did not populate Redis.');
+      await delay(100);
+    }
+    const dictionary = redis('GET', 'greek-polish:active');
+    if (redis('HLEN', `${dictionary}:passages`) !== '7940'
+      || redis('HLEN', `${dictionary}:forms`) !== '18433') {
+      throw new Error('The static Greek dictionary counts do not match the bundled corpus.');
+    }
+    console.log('Verified 7,940 Greek-Polish passages and 18,433 inflected forms in isolated Redis.');
   } catch (error) {
     await stop();
     process.removeListener('SIGINT', onInterrupt);

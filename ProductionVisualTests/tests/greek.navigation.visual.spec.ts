@@ -17,20 +17,13 @@ test('book heading links the full translation name to its books', async ({ page 
 test('Greek switch annotates Bible, fathers, comparison, tags, and literature and survives navigation', async ({ page }) => {
   test.setTimeout(60_000);
   const healthy = await openProductionPage(page, '/Biblia/TR/Ob/15');
-  // Controlled API responses verify rendering and lifecycle, not model accuracy.
-  let calls = 0;
-  await page.route('**/api/greek-interlinear', async route => {
-    calls++;
-    const { text, context } = route.request().postDataJSON();
-    expect(context).toContain(text);
-    const greek = /(?=[\u0370-\u03ff\u1f00-\u1fff])\p{L}(?:(?=[\u0370-\u03ff\u1f00-\u1fff])\p{L}|\p{M})*/gu;
-    await route.fulfill({ json: { words: Array.from(text.matchAll(greek), (match: RegExpMatchArray) => ({ greek: match[0], polish: 'książkę' })) } });
-  });
+  // Real application endpoint and the bundled corpus in isolated Redis.
   const original = await page.locator('.verse-text').first().textContent();
   const toggle = page.getByRole('switch', { name: 'Polish above Greek words' });
   await toggle.check();
-  await expect(page.locator('.verse-text rt').first()).toHaveText('książkę');
-  await expect(page.locator('#greek-polish-status')).toContainText('Polish forms follow');
+  await expect(page.locator('.verse-text rt').first()).toHaveText('I');
+  await expect(page.locator('#greek-polish-status')).toContainText('Static Polish dictionary.');
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await expect(page).toHaveScreenshot('greek-interlinear.png', { fullPage: true });
   await toggle.uncheck();
   await expect(page.locator('ruby')).toHaveCount(0);
@@ -47,6 +40,9 @@ test('Greek switch annotates Bible, fathers, comparison, tags, and literature an
   await expect(page.locator('.verse-text rt').first()).toBeVisible();
   await page.goto('/Biblia/Werset/J/1/1?sourceTranslation=TR');
   await expect(page.locator('.translation-verse-text rt').first()).toBeVisible();
+  const beginning = page.locator('.translation-verse-text ruby').filter({ hasText: 'ἀρχῇ' });
+  await expect(beginning.locator('rt')).toHaveText('początku');
+  await expect(beginning).toHaveAttribute('data-greek-match', 'passage');
   await page.goto('/Tag/narodzenie-jezusa');
   const select = page.locator('[data-tag-translation-select]');
   await select.selectOption('TR');
@@ -63,7 +59,6 @@ test('Greek switch annotates Bible, fathers, comparison, tags, and literature an
   await toggle.uncheck();
   await toggle.check();
   await expect(page.locator('main p rt')).toHaveCount(2);
-  expect(calls).toBeGreaterThan(0);
   healthy();
 });
 

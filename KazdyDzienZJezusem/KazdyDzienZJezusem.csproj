@@ -19,6 +19,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="../input/GreekPolish/interlinear.jsonl.gz">
+      <Link>GreekPolish/interlinear.jsonl.gz</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="../input/Fathers/**/*.yml">
       <Link>Fathers/%(RecursiveDir)%(Filename)%(Extension)</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

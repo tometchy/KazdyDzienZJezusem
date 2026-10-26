@@ -30,12 +30,12 @@ builder.Services.AddRateLimiter(options =>
         context.Connection.RemoteIpAddress?.ToString() ?? "unknown",
         _ => new FixedWindowRateLimiterOptions { PermitLimit = 20, Window = TimeSpan.FromMinutes(1), QueueLimit = 0 }));
 });
-builder.Services.AddOptions<GreekInterlinearOptions>().BindConfiguration("GreekInterlinear")
-    .Validate(options => Uri.TryCreate(options.Endpoint, UriKind.Absolute, out var endpoint)
-        && (endpoint.Scheme == "http" || endpoint.Scheme == "https"), "Invalid Greek translation endpoint.")
-    .ValidateOnStart();
-builder.Services.AddHttpClient("GreekInterlinear", client => client.Timeout = TimeSpan.FromMinutes(2))
-    .ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler { AllowAutoRedirect = false });
+builder.Services.AddSingleton(provider => new GreekDictionaryRepository(
+    Path.Combine(AppContext.BaseDirectory, "GreekPolish", "interlinear.jsonl.gz"),
+    builder.Configuration["GreekInterlinear:RedisConnection"] ?? builder.Configuration["Tags:RedisConnection"],
+    provider.GetRequiredService<ILogger<GreekDictionaryRepository>>()));
+builder.Services.AddSingleton<IGreekDictionaryReader>(provider => provider.GetRequiredService<GreekDictionaryRepository>());
+builder.Services.AddHostedService(provider => provider.GetRequiredService<GreekDictionaryRepository>());
 builder.Services.AddSingleton<GreekInterlinearService>();
 builder.Services.AddOptions<TagEditingOptions>().BindConfiguration("TagEditing")
     .Validate(options => Regex.IsMatch(options.Repository, @"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")

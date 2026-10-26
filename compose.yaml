@@ -17,8 +17,7 @@ services:
       TagEditing__Branch: master
       TagEditing__ReadTokenFile: /run/secrets/github_read_token
       EditorSessions__KeyPath: /keys
-      GreekInterlinear__Endpoint: ${KDJ_GREEK_ENDPOINT:-http://host.containers.internal:11434/api/chat}
-      GreekInterlinear__Model: ${KDJ_GREEK_MODEL:-}
+      GreekInterlinear__RedisConnection: redis:6379
     volumes:
       # Podman aligns existing key ownership with the image's non-root app user.
       - editor-keys:/keys:U
