@@ -6,6 +6,7 @@
 - When working on the user's laptop, after completing application changes and
   passing the required validation, rebuild the application using `compose.yaml`
   and recreate its application container so the new version is immediately live.
+  Use `./podman-up.sh`, which also pulls and refreshes Cloudflared on every run.
   The user has authorized these end-of-task rebuilds and refreshes; do not ask for
   confirmation again. Preserve persistent data and avoid restarting unrelated services.
 - Read-only Podman diagnostics such as logs, ps, inspect, exec for diagnosis, and local connectivity checks are allowed. Container operations beyond the authorized application rebuild require an explicit user request.
@@ -63,20 +64,18 @@ pull-request workflow used in hosted environments.
 7. Verify that the completed task commit is present on remote `master`. Do not
    create a pull request for laptop work. Finish with the commit link and test
    results, or explain any remaining blocker.
-8. Rebuild the application image from the completed checkout and recreate only
-   the `kazdy-dzien` service from `compose.yaml`. Do not run a Compose-wide `down`
-   or restart Redis or Cloudflared. Check the installed Compose provider first:
-   `podman-compose 1.0.6` ignores `up --no-deps` when selecting dependencies for
-   recreation, including with `--force-recreate`; do not use that path for a
-   targeted refresh. With that provider, stop and rename only the application
-   container as a rollback copy, then use `podman compose run --no-deps
-   --service-ports -T -d --name kazdydzienzjezusem_kazdy-dzien_1 kazdy-dzien`
-   with the existing project name and Compose file. Remove the rollback copy
-   only after verifying the new application, or restore it if startup fails.
-   Verify the refreshed application responds on its published local port and
-   serves the requested changes. Report the live refresh result in the handoff.
-   If validation fails, fix it before refreshing; if the rebuild or startup fails,
-   report the exact blocker and preserve the last working service where possible.
+8. Run `./podman-up.sh` after validation to build and refresh the application and
+   update Cloudflared. `scripts/rebuild.sh` delegates to the same entry point;
+   GtdSystem also calls it. Coordinate with GtdSystem using the existing
+   `.git/gtd-kdzj-sync.lock` for the entire refresh. Never run a Compose-wide
+   `down` or restart a running Redis container. `podman-compose 1.0.6` ignores
+   `up --no-deps` for dependency recreation; the refresh helper uses `compose
+   run --no-deps` with explicit service names instead. It pulls the latest tunnel
+   image before stopping anything, keeps rollback containers until readiness is
+   verified, and retains the old connector until the new one registers with
+   Cloudflare. Preserve the last working service when a replacement fails.
+   Verify the app responds locally, the requested changes are served, the tunnel
+   version is updated, and Redis was not restarted. Report these results.
 
 The laptop's `GtdSystem/background-service.sh` handles automatic rebuilds. It must
 compare the current commit with the last successfully built commit so both local

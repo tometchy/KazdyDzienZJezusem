@@ -34,8 +34,13 @@ services:
       - redis-data:/data
 
   cloudflared:
+    # podman-up.sh explicitly pulls this tag and recreates the connector on
+    # every application refresh; an existing container does not update itself.
     image: docker.io/cloudflare/cloudflared:latest
     restart: unless-stopped
+    environment:
+      # Only reachable inside this container; used by `tunnel ready` on refresh.
+      TUNNEL_METRICS: 127.0.0.1:2000
     command: tunnel --no-autoupdate run --token ${CLOUDFLARE_TUNNEL_TOKEN}
 
 volumes:

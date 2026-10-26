@@ -105,13 +105,25 @@ Continue updating with the existing single command:
 
 The script reads the path from `.env` (using python-dotenv, already required by
 podman-compose) or the environment, runs a native Podman build with a secret
-mount and caching disabled, and only then recreates the stack. A failed clone
-or build leaves the running containers untouched. No real token is printed.
+mount and caching disabled, and then refreshes only the application and tunnel.
+Every refresh explicitly pulls `cloudflare/cloudflared:latest`; merely keeping
+`:latest` in Compose does not update an existing container. A running Redis
+container and its data remain untouched. `scripts/rebuild.sh` uses the same
+entry point, as does GtdSystem's background updater.
+
+The refresh shares GtdSystem's `.git/gtd-kdzj-sync.lock`, preserves rollback
+containers until readiness succeeds, and keeps the old tunnel connected until
+the replacement passes Cloudflared's `/ready` probe. Metrics bind only to
+container loopback (`127.0.0.1:2000`), with no published metrics port. A failed
+pull, clone or build leaves running services untouched; a failed replacement
+restores that service's previous container. Failed candidate containers are
+retained with a `_failed_` suffix for diagnosis. A failed tunnel update leaves
+the build pending for GtdSystem's next cycle. No real token is printed.
 The build intentionally clones the latest remote `master`; it does not clone
 uncommitted local tag edits.
 
-On a modern Compose provider, `podman compose up --build -d` also supports this
-file-backed secret and `build.no_cache`. With podman-compose 1.0.6 use the script:
+Use the script rather than a direct Compose restart to include the tunnel update.
+With podman-compose 1.0.6 this also avoids its dependency-recreation behavior:
 that version ignores `build.no_cache` and can continue after a failed build.
 This change does not alter GtdSystem's scheduling or add deployment retries.
 
@@ -306,7 +318,8 @@ The existing GNT file contributes 520 attested spelling/form aliases by matching
 both Strong identity and grammatical inflection to the Polish corpus.
 
 At startup the application imports `input/GreekPolish/interlinear.jsonl.gz` into
-versioned Redis hashes under `greek-polish:v2:<file-sha256>:passages` and `:forms`.
+versioned Redis hashes under `greek-polish:v3:<combined-file-sha256>:passages` and
+`:forms`. The version includes both the primary corpus and the supplement.
 The importer atomically publishes both hashes, reuses the existing version on
 restart, and repairs a missing index. It leaves other Redis keys untouched.
 Set `GreekInterlinear:RedisConnection`, or reuse `Tags:RedisConnection`; Compose
@@ -319,3 +332,14 @@ diacritics. Ambiguous forms show alternatives, and missing forms show `?` with
 an explanatory tooltip. This corpus is not a complete classical/patristic lexicon;
 the upstream data also omits unmatched words and truncates some long verses.
 The source data is CC BY-NC-SA 4.0, with attribution shown while the switch is on.
+
+The separate `supplement.jsonl.gz` adds 2,488 form keys without overriding the
+primary Polish translations (20,921 keys in Redis in total). It uses pinned
+MACULA word-level English glosses, English and Polish Wiktionary extracts via
+Kaikki, and definitions from the original bundled GNT file. Every word occurrence
+in that GNT file now has either an English gloss or a labelled dictionary
+definition. This does **not** mean all patristic/classical vocabulary is covered.
+English dictionary meanings carry `†` and a tooltip identifying the lemma;
+they are not presented as inflected translations. Polish dictionary lemmas are
+not substituted for inflected Polish: only confirmed uninflected parts of speech
+can supplement that layer. See the [data provenance and limitations](input/GreekPolish/README.md).

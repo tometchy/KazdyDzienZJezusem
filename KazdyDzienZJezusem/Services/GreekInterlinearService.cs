@@ -6,7 +6,8 @@ namespace KazdyDzienZJezusem.Services;
 
 public sealed record GreekWordTranslation(string Greek, string? Polish, string Match, IReadOnlyList<string> Alternatives,
     string? English, IReadOnlyList<string> EnglishAlternatives, string? Grammar, IReadOnlyList<string> GrammarAlternatives,
-    string? Pronunciation, IReadOnlyList<string> PronunciationAlternatives);
+    string? Pronunciation, IReadOnlyList<string> PronunciationAlternatives,
+    bool EnglishIsDictionary, IReadOnlyList<string> EnglishLemmas, IReadOnlyList<string> EnglishSources);
 public sealed record GreekInterlinearResult(IReadOnlyList<GreekWordTranslation> Words);
 
 public static partial class GreekText
@@ -70,7 +71,9 @@ public sealed class GreekInterlinearService(IGreekDictionaryReader dictionary)
         var grammar = Distinct(entries.Select(entry => entry.Code));
         var pronunciation = Distinct(entries.Select(entry => entry.Pronunciation));
         return new GreekWordTranslation(word, Unique(polish), match == "form" && polish.Length > 1 ? "ambiguous" : match,
-            polish, Unique(english), english, Unique(grammar), grammar, Unique(pronunciation), pronunciation);
+            polish, Unique(english), english, Unique(grammar), grammar, Unique(pronunciation), pronunciation,
+            entries.Any(entry => entry.EnglishKind == "dictionary"), Distinct(entries.Select(entry => entry.Lemma)),
+            Distinct(entries.Select(entry => entry.Source)));
     }
 
     private static Dictionary<int, int> Align(string[] words, GreekDictionaryPassage passage)

@@ -134,10 +134,10 @@ export default async function setup(config: FullConfig) {
     }
     const dictionary = redis('GET', 'greek-polish:active');
     if (redis('HLEN', `${dictionary}:passages`) !== '7940'
-      || redis('HLEN', `${dictionary}:forms`) !== '18433') {
+      || redis('HLEN', `${dictionary}:forms`) !== '20921') {
       throw new Error('The static Greek dictionary counts do not match the bundled corpus.');
     }
-    console.log('Verified 7,940 Greek-Polish passages and 18,433 inflected forms in isolated Redis.');
+    console.log('Verified 7,940 Greek-Polish passages and 20,921 Greek forms including supplements in isolated Redis.');
   } catch (error) {
     await stop();
     process.removeListener('SIGINT', onInterrupt);

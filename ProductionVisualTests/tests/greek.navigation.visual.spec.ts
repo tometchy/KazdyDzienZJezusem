@@ -117,3 +117,21 @@ test('translation outage keeps the Greek readable and allows retry', async ({ pa
   await toggle.uncheck();
   await expect(page.locator('ruby')).toHaveCount(0);
 });
+
+test('offline supplements label dictionary meanings in patristic Greek without substituting Polish lemmas', async ({ page }) => {
+  const healthy = await openProductionPage(page, '/Ojcowie/Ignatius/Ef/1');
+  for (const name of ['polish', 'english', 'pronunciation', 'grammar'])
+    await page.locator(`#greek-${name}-toggle`).check();
+  const word = page.locator('ruby[data-greek-original="κέκτησθε"]');
+  await expect(word.locator('[data-greek-layer="english"]')).toHaveAttribute('data-greek-dictionary', 'true');
+  await expect(word.locator('[data-greek-layer="english"]')).toContainText('†');
+  await expect(word.locator('[data-greek-layer="polish"]')).toHaveText('?');
+  await expect(word.locator('[data-greek-layer="pronunciation"]')).toHaveText('kekteste');
+  await expect(page.locator('#greek-supplement-source')).toBeVisible();
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  await test.info().attach('Patristic dictionary supplements', {
+    body: await page.screenshot({ fullPage: true }), contentType: 'image/png',
+  });
+  await expect(page).toHaveScreenshot('greek-fathers-supplement.png', { fullPage: true });
+  healthy();
+});

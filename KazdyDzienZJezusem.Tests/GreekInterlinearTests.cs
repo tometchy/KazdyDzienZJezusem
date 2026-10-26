@@ -11,7 +11,7 @@ public sealed class GreekInterlinearTests
     public void Bundled_corpus_has_complete_aligned_arrays_and_declared_counts()
     {
         Assert.Equal(7940, Corpus.Value.Passages.Count);
-        Assert.Equal(18433, Corpus.Value.Forms.Count);
+        Assert.Equal(20921, Corpus.Value.Forms.Count);
         Assert.Equal(137323, Corpus.Value.Passages.Values.Sum(passage => passage.Greek.Length));
         Assert.All(Corpus.Value.Passages.Values, passage =>
         {
@@ -21,6 +21,27 @@ public sealed class GreekInterlinearTests
             Assert.Equal(passage.Greek.Length, passage.Codes!.Length);
             Assert.Equal(passage.Greek.Length, passage.Pronunciation!.Length);
         });
+    }
+
+    [Fact]
+    public async Task Supplements_fill_English_without_inventing_inflected_Polish()
+    {
+        var service = new GreekInterlinearService(new MemoryReader(Corpus.Value));
+        const string text = "κέκτησθε δικαίᾳ συγγενικόν ὀνομα";
+        var result = await service.TranslateAsync(text, text, TestContext.Current.CancellationToken);
+        Assert.All(result.Words, word =>
+        {
+            Assert.NotEmpty(word.EnglishAlternatives);
+            Assert.True(word.EnglishIsDictionary);
+            Assert.NotEmpty(word.EnglishLemmas);
+            Assert.Contains("Wiktionary", word.EnglishSources);
+            Assert.Null(word.Polish);
+            Assert.Empty(word.Alternatives);
+            Assert.NotNull(word.Pronunciation);
+        });
+        Assert.Equal("kekteste", result.Words[0].Pronunciation);
+        var aligned = await service.TranslateAsync("βιβλίον", "βιβλίον", TestContext.Current.CancellationToken);
+        Assert.False(aligned.Words[0].EnglishIsDictionary);
     }
 
     [Fact]

@@ -1,6 +1,7 @@
 (() => {
     const status = document.getElementById('greek-polish-status');
     const attribution = document.getElementById('greek-polish-source');
+    const supplementAttribution = document.getElementById('greek-supplement-source');
     const options = {
         polish: { label: 'Polish', language: 'pl', alternatives: 'alternatives' },
         english: { label: 'English', language: 'en', alternatives: 'englishAlternatives' },
@@ -58,6 +59,13 @@
                 layer.dataset.greekLayer = name;
                 layer.lang = option.language;
                 layer.textContent = word[name] ?? (alternatives.length ? alternatives.slice(0, 3).join(' / ') : '?');
+                if (name === 'english' && word.englishIsDictionary) {
+                    layer.dataset.greekDictionary = 'true';
+                    if (layer.textContent.length > 72) layer.textContent = layer.textContent.slice(0, 69) + '…';
+                    layer.textContent += ' †';
+                    layer.title = `Dictionary meaning of ${word.englishLemmas.join(' / ')}; not an inflected translation.`;
+                    titles.push(layer.title);
+                }
                 annotations.append(layer);
                 titles.push(`${option.label}: ${alternatives.length ? alternatives.join(' / ') : 'missing from the static dictionary'}`);
             }
@@ -89,6 +97,7 @@
         controller = new AbortController();
         restoreText();
         status.textContent = '';
+        if (supplementAttribution) supplementAttribution.hidden = true;
         const enabled = Object.keys(options).filter(name => options[name].input.checked);
         if (attribution) attribution.hidden = enabled.length === 0;
         if (!enabled.length) return;
@@ -152,6 +161,8 @@
                 }
                 missing += result.words.filter(word => enabled.some(name => !word[options[name].alternatives]?.length)).length;
                 ambiguous += result.words.filter(word => enabled.some(name => word[options[name].alternatives]?.length > 1)).length;
+                if (supplementAttribution && result.words.some(word => word.englishSources?.length))
+                    supplementAttribution.hidden = false;
                 if (item.node.isConnected) render(item.node, result.words, enabled);
             }
             status.textContent = `Static dictionary. Missing forms: ${missing}; forms with alternatives: ${ambiguous}.`;

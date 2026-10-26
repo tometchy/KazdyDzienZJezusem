@@ -18,6 +18,18 @@ if [ "$#" -eq 1 ]; then
 fi
 
 cd "$SCRIPT_DIR"
+# Reuse GtdSystem's inherited lock descriptor, or acquire the same lock for a
+# manual invocation. Reopening it while GtdSystem owns it would deadlock.
+if [ -d "$SCRIPT_DIR/.git" ]; then
+    refresh_lock="$SCRIPT_DIR/.git/gtd-kdzj-sync.lock"
+    if [ "$(readlink "/proc/$$/fd/9" 2>/dev/null || true)" != "$refresh_lock" ]; then
+        exec 9>"$refresh_lock"
+    fi
+    if ! flock -w 60 9; then
+        echo "Another KDZJ refresh is still running; retry later." >&2
+        exit 1
+    fi
+fi
 # python-dotenv is already a dependency of podman-compose. Read only this key;
 # never source .env as shell code or print the Cloudflare/GitHub token values.
 if [ -z "${KDJ_GITHUB_READ_TOKEN_FILE:-}" ]; then
@@ -40,6 +52,7 @@ podman build --no-cache \
     -f "$SCRIPT_DIR/KazdyDzienZJezusem/Dockerfile" \
     -t localhost/kazdydzienzjezusem_kazdy-dzien:latest "$SCRIPT_DIR"
 
-# This older Compose provider requires recreation when only the image changes.
-podman compose -f "$SCRIPT_DIR/compose.yaml" down
-exec podman compose -f "$SCRIPT_DIR/compose.yaml" up --no-build --force-recreate -d
+# Targeted recreation works with podman-compose 1.0.6, whose `up --no-deps`
+# can restart dependencies. The helper pulls Cloudflared before stopping any
+# service, preserves Redis, and restores a previous container if readiness fails.
+exec python3 "$SCRIPT_DIR/scripts/refresh-containers.py" "$SCRIPT_DIR"

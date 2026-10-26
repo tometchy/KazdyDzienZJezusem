@@ -7,8 +7,9 @@ namespace KazdyDzienZJezusem.Services;
 
 public sealed record GreekDictionaryPassage(string Reference, string[] Greek, string[] Polish, string[] Grammar,
     string[]? English = null, string[]? Codes = null, string[]? Pronunciation = null);
-public sealed record GreekDictionaryForm(string Polish, string Grammar, string? English = null,
-    string? Code = null, string? Pronunciation = null);
+public sealed record GreekDictionaryForm(string? Polish, string Grammar, string? English = null,
+    string? Code = null, string? Pronunciation = null, string EnglishKind = "gloss",
+    string? Lemma = null, string? Source = null);
 public sealed record GreekDictionaryLookup(GreekDictionaryPassage? Passage, Dictionary<string, GreekDictionaryForm[]> Forms);
 public interface IGreekDictionaryReader
 {
@@ -20,6 +21,7 @@ public sealed class GreekDictionaryCatalog
     public Dictionary<string, GreekDictionaryPassage> Passages { get; } = new(StringComparer.Ordinal);
     public Dictionary<string, GreekDictionaryForm[]> Forms { get; } = new(StringComparer.Ordinal);
     internal static readonly JsonSerializerOptions JsonOptions = new(JsonSerializerDefaults.Web);
+    public static string SupplementPath(string path) => Path.Combine(Path.GetDirectoryName(path)!, "supplement.jsonl.gz");
 
     public static GreekDictionaryCatalog Read(string path)
     {
@@ -71,6 +73,29 @@ public sealed class GreekDictionaryCatalog
         foreach (var entry in forms)
             catalog.Forms.Add(entry.Key, entry.Value.OrderBy(form => form.Polish, StringComparer.Ordinal)
                 .ThenBy(form => form.Grammar, StringComparer.Ordinal).ThenBy(form => form.English, StringComparer.Ordinal).ToArray());
+        using var supplementStream = File.OpenRead(SupplementPath(path));
+        using var supplementGzip = new GZipStream(supplementStream, CompressionMode.Decompress);
+        using var supplement = new StreamReader(supplementGzip);
+        using var supplementMetadata = JsonDocument.Parse(supplement.ReadLine() ?? throw new InvalidDataException("Missing supplement metadata."));
+        if (supplementMetadata.RootElement.GetProperty("schema").GetInt32() != 1)
+            throw new InvalidDataException("Unsupported dictionary supplement schema.");
+        var added = 0;
+        while (supplement.ReadLine() is { } line)
+        {
+            using var record = JsonDocument.Parse(line);
+            var key = record.RootElement.GetProperty("form").GetString()!;
+            var entries = record.RootElement.GetProperty("glosses").Deserialize<GreekDictionaryForm[]>(JsonOptions)!;
+            if (entries.Length == 0 || entries.Any(entry => string.IsNullOrWhiteSpace(entry.English)
+                || string.IsNullOrWhiteSpace(entry.Pronunciation) || string.IsNullOrWhiteSpace(entry.Lemma)
+                || entry.EnglishKind is not ("gloss" or "dictionary") || entry.Source is not ("MACULA" or "Wiktionary" or "Bundled GNT")
+                || entry.Polish is not null && entry.Code is not ("ADV" or "PREP" or "CONJ" or "PRT" or "INJ")))
+                throw new InvalidDataException("Invalid dictionary supplement: do not substitute Polish lemma meanings for inflected translations.");
+            // Supplement only missing forms; never override the aligned corpus.
+            catalog.Forms.Add(key, entries);
+            added++;
+        }
+        if (added != supplementMetadata.RootElement.GetProperty("forms").GetInt32())
+            throw new InvalidDataException("The dictionary supplement does not match its declared count.");
         return catalog;
     }
 }
@@ -114,7 +139,10 @@ public sealed class GreekDictionaryRepository(string path, string? redisConnecti
         if (_prefix is null)
         {
             using var file = File.OpenRead(path);
-            _prefix = "greek-polish:v2:" + Convert.ToHexString(await SHA256.HashDataAsync(file, cancellationToken)).ToLowerInvariant();
+            using var supplement = File.OpenRead(GreekDictionaryCatalog.SupplementPath(path));
+            var primaryHash = await SHA256.HashDataAsync(file, cancellationToken);
+            var supplementHash = await SHA256.HashDataAsync(supplement, cancellationToken);
+            _prefix = "greek-polish:v3:" + Convert.ToHexString(SHA256.HashData([.. primaryHash, .. supplementHash])).ToLowerInvariant();
         }
         var database = _redis!.GetDatabase();
         var completion = (string?)await database.StringGetAsync(_prefix + ":ready");

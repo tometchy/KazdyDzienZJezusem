@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 import shutil
 import subprocess
+import sys
 import tempfile
 import unittest
 
@@ -89,6 +90,12 @@ esac
         checkout.mkdir()
         shutil.copyfile(ROOT / "podman-up.sh", checkout / "podman-up.sh")
         self.executable("git", "exit 0\n")
+        self.executable("python3", f'''
+case "$1" in
+    */scripts/refresh-containers.py) printf 'refresh %s\\n' "$2" >> "$TEST_LOG" ;;
+    *) exec '{sys.executable}' "$@" ;;
+esac
+''')
         self.executable("podman", """
 printf '%s\\n' "$*" >> "$TEST_LOG"
 if [ "$1" = build ]; then exit "${TEST_BUILD_EXIT:-0}"; fi
@@ -110,10 +117,9 @@ if [ "$1" = build ]; then exit "${TEST_BUILD_EXIT:-0}"; fi
         result = self.run_script(checkout / "podman-up.sh", checkout)
         self.assertEqual(0, result.returncode, result.stderr)
         commands = (self.root / "commands").read_text().splitlines()
-        self.assertEqual(3, len(commands))
+        self.assertEqual(2, len(commands))
         self.assertTrue(commands[0].startswith("build --no-cache"))
-        self.assertTrue(commands[1].endswith(" down"))
-        self.assertTrue(commands[2].endswith(" up --no-build --force-recreate -d"))
+        self.assertEqual(f"refresh {checkout}", commands[1])
 
     def test_deploy_reads_only_path_from_dotenv_without_executing_it(self):
         checkout = self.prepare_deploy()

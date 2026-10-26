@@ -5,4 +5,4 @@ SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
 REPO_DIR="$(dirname "$SCRIPT_DIR")"
 
 cd "$REPO_DIR"
-exec "$REPO_DIR/setup.sh" "$@"
+exec "$REPO_DIR/podman-up.sh" "$@"
