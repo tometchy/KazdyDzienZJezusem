@@ -54,7 +54,7 @@ public sealed class GreekDictionaryRedisTests
                 Assert.False(string.IsNullOrWhiteSpace(lookup.Passage.English![1]));
                 prefix = (string)(await database.StringGetAsync("greek-polish:active"))!;
                 Assert.Equal(7940, await database.HashLengthAsync(prefix + ":passages"));
-                Assert.Equal(20921, await database.HashLengthAsync(prefix + ":forms"));
+                Assert.Equal(21264, await database.HashLengthAsync(prefix + ":forms"));
                 File.Delete(copy); // A reader must not fall back to its input file.
                 File.Delete(supplementCopy);
                 await database.HashSetAsync(prefix + ":forms", GreekText.FormKey("θεός"),
@@ -67,6 +67,9 @@ public sealed class GreekDictionaryRedisTests
                 Assert.Equal("teos", fromRedis.Forms[GreekText.FormKey("θεός")][0].Pronunciation);
                 var supplement = await repository.LookupAsync(null, [GreekText.FormKey("κέκτησθε")], cancellationToken);
                 Assert.All(supplement.Forms[GreekText.FormKey("κέκτησθε")], entry => Assert.Equal("dictionary", entry.EnglishKind));
+                var perseus = await repository.LookupAsync(null, [GreekText.FormKey("ἀπηρτίσατε")], cancellationToken);
+                Assert.Contains(perseus.Forms[GreekText.FormKey("ἀπηρτίσατε")], entry =>
+                    entry.Source == "Perseus / Logeion" && entry.English!.Contains("complete") && entry.Polish is null);
                 await repository.StopAsync(cancellationToken);
             }
             File.Copy(source, copy);
@@ -78,7 +81,7 @@ public sealed class GreekDictionaryRedisTests
                 await WaitForImport();
                 var restored = await restarted.LookupAsync(null, [GreekText.FormKey("θεός")], cancellationToken);
                 Assert.Contains(restored.Forms[GreekText.FormKey("θεός")], form => form.Polish == "Bóg");
-                Assert.Equal(20921, await database.HashLengthAsync(prefix + ":forms"));
+                Assert.Equal(21264, await database.HashLengthAsync(prefix + ":forms"));
                 Assert.Equal("preserve", (string?)await database.StringGetAsync("tags:sentinel"));
                 await restarted.StopAsync(cancellationToken);
             }
@@ -101,7 +104,7 @@ public sealed class GreekDictionaryRedisTests
             {
                 var active = (string?)await database.StringGetAsync("greek-polish:active");
                 if (active is not null && await database.HashLengthAsync(active + ":passages") == 7940
-                    && await database.HashLengthAsync(active + ":forms") == 20921) return;
+                    && await database.HashLengthAsync(active + ":forms") == 21264) return;
                 await Task.Delay(50, cancellationToken);
             }
             Assert.Fail("The bundled Greek dictionary was not published to Redis within 30 seconds.");

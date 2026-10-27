@@ -11,7 +11,7 @@ public sealed class GreekInterlinearTests
     public void Bundled_corpus_has_complete_aligned_arrays_and_declared_counts()
     {
         Assert.Equal(7940, Corpus.Value.Passages.Count);
-        Assert.Equal(20921, Corpus.Value.Forms.Count);
+        Assert.Equal(21264, Corpus.Value.Forms.Count);
         Assert.Equal(137323, Corpus.Value.Passages.Values.Sum(passage => passage.Greek.Length));
         Assert.All(Corpus.Value.Passages.Values, passage =>
         {
@@ -42,6 +42,30 @@ public sealed class GreekInterlinearTests
         Assert.Equal("kekteste", result.Words[0].Pronunciation);
         var aligned = await service.TranslateAsync("βιβλίον", "βιβλίον", TestContext.Current.CancellationToken);
         Assert.False(aligned.Words[0].EnglishIsDictionary);
+    }
+
+    [Fact]
+    public async Task Perseus_recognizes_patristic_verbs_and_retains_real_ambiguities()
+    {
+        var service = new GreekInterlinearService(new MemoryReader(Corpus.Value));
+        const string text = "ἀναζωπυρήσαντες ἀπηρτίσατε πολυαγάπητόν";
+        var result = await service.TranslateAsync(text, text, TestContext.Current.CancellationToken);
+        Assert.All(result.Words, word =>
+        {
+            Assert.NotEmpty(word.EnglishAlternatives);
+            Assert.True(word.EnglishIsDictionary);
+            Assert.Contains("Perseus / Logeion", word.EnglishSources);
+            Assert.Null(word.Polish);
+            Assert.NotNull(word.Pronunciation);
+        });
+        Assert.Contains("rekindle", result.Words[0].English);
+        Assert.Equal(new[] { "V-AAP-NPM", "V-AAP-VPM" }, result.Words[0].GrammarAlternatives);
+        Assert.Contains("complete", result.Words[1].English);
+        Assert.Equal("V-AAI-2P", result.Words[1].Grammar);
+        Assert.Equal("anadzopyresantes", result.Words[0].Pronunciation);
+        Assert.Equal("apertisate", result.Words[1].Pronunciation);
+        Assert.Contains("much-beloved", result.Words[2].English);
+        Assert.Empty(result.Words[2].GrammarAlternatives); // Nominal POS is not attested in this table.
     }
 
     [Fact]

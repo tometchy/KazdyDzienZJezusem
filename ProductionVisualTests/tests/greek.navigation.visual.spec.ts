@@ -128,6 +128,18 @@ test('offline supplements label dictionary meanings in patristic Greek without s
   await expect(word.locator('[data-greek-layer="polish"]')).toHaveText('?');
   await expect(word.locator('[data-greek-layer="pronunciation"]')).toHaveText('kekteste');
   await expect(page.locator('#greek-supplement-source')).toBeVisible();
+  await expect(page.locator('#greek-perseus-source')).toBeVisible();
+  for (const [greek, english, pronunciation] of [
+    ['ἀναζωπυρήσαντες', 'rekindle', 'anadzopyresantes'],
+    ['ἀπηρτίσατε', 'complete', 'apertisate'],
+  ]) {
+    const added = page.locator(`ruby[data-greek-original="${greek}"]`);
+    await expect(added.locator('[data-greek-layer="english"]')).toContainText(english);
+    await expect(added.locator('[data-greek-layer="english"]')).toHaveAttribute('data-greek-dictionary', 'true');
+    await expect(added.locator('[data-greek-layer="pronunciation"]')).toHaveText(pronunciation);
+    await expect(added.locator('[data-greek-layer="polish"]')).toHaveText('?');
+    await expect(added.locator('[data-greek-layer="grammar"]')).not.toHaveText('?');
+  }
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await test.info().attach('Patristic dictionary supplements', {
     body: await page.screenshot({ fullPage: true }), contentType: 'image/png',

@@ -2,6 +2,7 @@
     const status = document.getElementById('greek-polish-status');
     const attribution = document.getElementById('greek-polish-source');
     const supplementAttribution = document.getElementById('greek-supplement-source');
+    const perseusAttribution = document.getElementById('greek-perseus-source');
     const options = {
         polish: { label: 'Polish', language: 'pl', alternatives: 'alternatives' },
         english: { label: 'English', language: 'en', alternatives: 'englishAlternatives' },
@@ -98,6 +99,7 @@
         restoreText();
         status.textContent = '';
         if (supplementAttribution) supplementAttribution.hidden = true;
+        if (perseusAttribution) perseusAttribution.hidden = true;
         const enabled = Object.keys(options).filter(name => options[name].input.checked);
         if (attribution) attribution.hidden = enabled.length === 0;
         if (!enabled.length) return;
@@ -163,6 +165,8 @@
                 ambiguous += result.words.filter(word => enabled.some(name => word[options[name].alternatives]?.length > 1)).length;
                 if (supplementAttribution && result.words.some(word => word.englishSources?.length))
                     supplementAttribution.hidden = false;
+                if (perseusAttribution && result.words.some(word => word.englishSources?.includes('Perseus / Logeion')))
+                    perseusAttribution.hidden = false;
                 if (item.node.isConnected) render(item.node, result.words, enabled);
             }
             status.textContent = `Static dictionary. Missing forms: ${missing}; forms with alternatives: ${ambiguous}.`;

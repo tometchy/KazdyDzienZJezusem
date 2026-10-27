@@ -87,7 +87,8 @@ public sealed class GreekDictionaryCatalog
             var entries = record.RootElement.GetProperty("glosses").Deserialize<GreekDictionaryForm[]>(JsonOptions)!;
             if (entries.Length == 0 || entries.Any(entry => string.IsNullOrWhiteSpace(entry.English)
                 || string.IsNullOrWhiteSpace(entry.Pronunciation) || string.IsNullOrWhiteSpace(entry.Lemma)
-                || entry.EnglishKind is not ("gloss" or "dictionary") || entry.Source is not ("MACULA" or "Wiktionary" or "Bundled GNT")
+                || entry.EnglishKind is not ("gloss" or "dictionary")
+                || entry.Source is not ("MACULA" or "Wiktionary" or "Bundled GNT" or "Perseus / Logeion")
                 || entry.Polish is not null && entry.Code is not ("ADV" or "PREP" or "CONJ" or "PRT" or "INJ")))
                 throw new InvalidDataException("Invalid dictionary supplement: do not substitute Polish lemma meanings for inflected translations.");
             // Supplement only missing forms; never override the aligned corpus.

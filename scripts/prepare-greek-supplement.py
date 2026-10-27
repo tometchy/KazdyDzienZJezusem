@@ -14,9 +14,15 @@ import urllib.request
 spec = importlib.util.spec_from_file_location("primary", Path(__file__).with_name("prepare-greek-polish.py"))
 primary = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(primary)
+spec = importlib.util.spec_from_file_location("perseus", Path(__file__).with_name("greek-perseus.py"))
+perseus = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(perseus)
 
 MACULA_REVISION = "8423afe47b9e8f24b7772e808af45c7159a6fe7e"
 SOURCES = {
+    "perseus-diogenes-3514648.tar.xz": (
+        "https://raw.githubusercontent.com/pjheslin/diogenes-prebuilt-data/3514648bbd76757d93bae1faec4710763f90fca0/prebuilt-data.tar.xz",
+        "08e4d817bd2f99f95673ec44b142061e8cc140a73e672bc3b5b9ae6c134cc1a4"),
     "macula-n1904.tsv": (
         f"https://raw.githubusercontent.com/Clear-Bible/macula-greek/{MACULA_REVISION}/Nestle1904/tsv/macula-greek-Nestle1904.tsv",
         "c7cf33b8273c0f549e3582d1610603c86210c18e1f245bb80a69281622385fa5"),
@@ -160,6 +166,8 @@ def main():
         exact = {entry for entry in candidates if entry[0] == dictionary_key(word)}
         for _, lemma, gloss, code in sorted(exact or candidates, key=lambda item: tuple(value or "" for value in item)):
             entries.setdefault(word, set()).add((gloss, code, lemma, "dictionary", "Wiktionary"))
+    entries.update(perseus.read_perseus(args.cache / "perseus-diogenes-3514648.tar.xz",
+                                       wanted - primary_forms - entries.keys()))
     rows = []
     for word, values in sorted(entries.items()):
         glosses = []

@@ -70,8 +70,8 @@ Proceedings of LoResLM, pages 145–165.
 ## Additional offline vocabulary
 
 `supplement.jsonl.gz` is a separate dataset, not a modification of the licensed
-Polish interlinear corpus above. It contributes 2,488 non-overlapping form keys,
-bringing the Redis form index to 20,921 keys. Sources:
+Polish interlinear corpus above. It contributes 2,831 non-overlapping form keys,
+bringing the Redis form index to 21,264 keys. Sources:
 
 - [MACULA Greek Linguistic Datasets](https://github.com/Clear-Bible/macula-greek/),
   revision `8423afe47b9e8f24b7772e808af45c7159a6fe7e`, Nestle1904 TSV.
@@ -90,6 +90,22 @@ bringing the Redis form index to 20,921 keys. Sources:
 - Definitions already supplied in `input-raw/gnt.flat.json`, matched to its
   exact word spellings. Their original provenance and terms are unchanged by
   this conversion; the licenses above do not relicense that source.
+- [Perseus Digital Library / Tufts Morpheus analyses](https://github.com/PerseusDL/morpheus)
+  and [LSJ as edited for Logeion by Helma Dik](https://github.com/helmadik/LSJLogeion),
+  distributed in [Peter J. Heslin's Diogenes prebuilt data](https://github.com/pjheslin/diogenes-prebuilt-data),
+  revision `3514648bbd76757d93bae1faec4710763f90fca0`.
+  Morpheus data: [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/);
+  LSJ/Logeion: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+  The selected and adapted extract is shared under CC BY-SA 4.0 with those
+  original credits retained. No Diogenes application code is bundled.
+  Changes: selected 343 previously missing surface spellings; converted Beta
+  Code to Unicode; linked the table's attested analyses to LSJ definitions;
+  retained the first English definition from up to three senses, falling back
+  to the table's short definition; converted explicit verbal analyses to Ross
+  codes and added surface-form pronunciation. Exact accents are preferred;
+  last-resort accent matching retains all analyses and preserves breathing,
+  diaeresis and iota subscript. Noun/adjective codes are not fabricated when
+  the morphology table does not distinguish their parts of speech.
 
 The supplement's first line records source URLs, pinned SHA-256 checksums,
 revision, counts, and uncovered vocabulary. Upstream Wiktionary URLs change;
@@ -98,8 +114,9 @@ Keep the pinned files in `artifacts/greek-supplement-source/` when regenerating.
 
 All 140,628 GNT word occurrences (18,273 distinct normalized forms) have an
 English gloss or dictionary meaning. Across analyzed shipped YAML/GNT vocabulary,
-18,845 of 19,273 form types are covered (about 97.8%), versus 16,866 previously.
-The remaining 428 include patristic forms, unusual spellings and proper names.
+19,188 of 19,273 form types are covered (about 99.6%), versus 18,845 before
+the Perseus/Logeion addition (16,866 with the original corpus alone).
+The remaining 85 include patristic forms, unusual spellings and proper names.
 This is not a universal lexicon and it does not translate unknown compounds.
 
 `englishKind: "gloss"` identifies word-level English; `"dictionary"` identifies
@@ -126,4 +143,4 @@ python3 -m unittest discover -s tests -p 'test_*.py' -v
 
 Only the small generated gzip file is published with the application. The running
 app imports it into Redis with the primary corpus; browser requests never query
-MACULA, Wiktionary, Kaikki, or a translation API.
+MACULA, Wiktionary, Kaikki, Perseus, Logeion, or a translation API.
