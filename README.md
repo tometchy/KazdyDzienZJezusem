@@ -343,3 +343,12 @@ English dictionary meanings carry `†` and a tooltip identifying the lemma;
 they are not presented as inflected translations. Polish dictionary lemmas are
 not substituted for inflected Polish: only confirmed uninflected parts of speech
 can supplement that layer. See the [data provenance and limitations](input/GreekPolish/README.md).
+
+
+## POC wyszukiwarki SQLite WASM
+
+Po zbudowaniu obrazu Docker/Podman test jest dostępny pod `/POC` (np.
+`https://kazdydzienzjezusem.pl/POC`). Ten sam serwer ASP.NET Core
+udostępnia gotowe pliki frontendu, bez Node.js w kontenerze uruchomieniowym.
+Benchmark działa w przeglądarce, indeks OPFS i raporty pozostają lokalnie.
+Szczegóły: [poc/README.md](poc/README.md).
