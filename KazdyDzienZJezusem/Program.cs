@@ -89,6 +89,24 @@ app.Use(async (context, next) =>
 
 app.UseAuthorization();
 
+// Browser-only SQLite FTS5 proof of concept. The files are generated into
+// wwwroot/POC by the container build; no npm server is needed at runtime.
+// Cross-origin isolation is required for the SQLite OPFS worker.
+app.Use(async (context, next) =>
+{
+    if (context.Request.Path.StartsWithSegments("/POC", StringComparison.OrdinalIgnoreCase))
+    {
+        context.Response.Headers["Cross-Origin-Opener-Policy"] = "same-origin";
+        context.Response.Headers["Cross-Origin-Embedder-Policy"] = "require-corp";
+        context.Response.Headers["Cross-Origin-Resource-Policy"] = "same-origin";
+        context.Response.Headers["X-Robots-Tag"] = "noindex, nofollow";
+    }
+    await next();
+});
+app.UseDefaultFiles();
+app.UseStaticFiles();
+app.MapGet("/POC", () => Results.Redirect("/POC/"));
+
 app.MapStaticAssets();
 
 app.MapControllers()
