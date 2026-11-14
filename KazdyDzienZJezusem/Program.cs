@@ -3,6 +3,7 @@ using System.Text.RegularExpressions;
 using System.Threading.RateLimiting;
 using Microsoft.Extensions.Options;
 using Microsoft.AspNetCore.DataProtection;
+using Microsoft.AspNetCore.StaticFiles;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -104,7 +105,10 @@ app.Use(async (context, next) =>
     await next();
 });
 app.UseDefaultFiles();
-app.UseStaticFiles();
+var pocContentTypes = new FileExtensionContentTypeProvider();
+pocContentTypes.Mappings[".gz"] = "application/gzip";
+pocContentTypes.Mappings[".wasm"] = "application/wasm";
+app.UseStaticFiles(new StaticFileOptions { ContentTypeProvider = pocContentTypes });
 app.MapGet("/POC", () => Results.Redirect("/POC/"));
 
 app.MapStaticAssets();
