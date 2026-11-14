@@ -4,3 +4,6 @@
 .env
 .env.*
 .secrets/
+**/node_modules/
+poc/frontend/dist/
+poc/frontend/public/
