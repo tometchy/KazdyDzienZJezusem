@@ -104,12 +104,24 @@ app.Use(async (context, next) =>
     }
     await next();
 });
+// ASP.NET Core endpoint routes treat /POC and /POC/ as equivalent.
+// A MapGet("/POC") redirecting to "/POC/" therefore loops indefinitely.
+// Rewrite both URLs internally to the built static index without any 302.
+app.Use(async (context, next) =>
+{
+    if (HttpMethods.IsGet(context.Request.Method) &&
+        (string.Equals(context.Request.Path.Value, "/POC", StringComparison.OrdinalIgnoreCase) ||
+         string.Equals(context.Request.Path.Value, "/POC/", StringComparison.OrdinalIgnoreCase)))
+    {
+        context.Request.Path = "/POC/index.html";
+    }
+    await next();
+});
 app.UseDefaultFiles();
 var pocContentTypes = new FileExtensionContentTypeProvider();
 pocContentTypes.Mappings[".gz"] = "application/gzip";
 pocContentTypes.Mappings[".wasm"] = "application/wasm";
 app.UseStaticFiles(new StaticFileOptions { ContentTypeProvider = pocContentTypes });
-app.MapGet("/POC", () => Results.Redirect("/POC/"));
 
 app.MapStaticAssets();
 
