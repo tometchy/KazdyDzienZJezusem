@@ -33,6 +33,25 @@
   <h1>Test wydajności wyszukiwarki</h1>
   <p class="sub">Prawdziwe Biblie i pisma z projektu • SQLite FTS5 uruchomiony <b>na Twoim urządzeniu</b>, wewnątrz przeglądarki. Serwer dostarcza tylko pliki.</p>
   <section class="panel">
+    <h2>Pełny test jednym przyciskiem</h2>
+    <p class="help">Automatycznie wykona wszystkie warianty A → B → C: <b>1 zimny i 3 ciepłe starty</b> dla każdego (razem 12 przebiegów, 10 zapytań × 20 powtórzeń na przebieg). Nie trzeba przełączać wariantów ani resetować baz ręcznie. Pozostaw kartę aktywną i ekran włączony.</p>
+    <p class="help">Zimny start oznacza usunięcie tylko lokalnego indeksu danego wariantu; pamięć podręczna HTTP nie jest czyszczona. Inne dane i dotychczasowe raporty pozostaną nietknięte.</p>
+    <div class="buttons">
+      <button id="run-all" disabled>Uruchom cały test A/B/C</button>
+      <button id="cancel-all" class="secondary" disabled>Przerwij</button>
+    </div>
+    <p id="suite-progress" class="status" role="status">Brak zbiorczego testu.</p>
+    <div class="scroll"><table>
+      <thead><tr><th>Wariant</th><th>Zimny start</th><th>Mediana 3 ciepłych</th><th>p50 wyszukiwania zimny</th><th>Mediana p50 ciepły</th><th>Ciepłe przebiegi</th></tr></thead>
+      <tbody id="suite-summary-rows"></tbody>
+    </table></div>
+    <div class="buttons">
+      <button id="suite-copy" class="secondary" disabled>Kopiuj jeden zbiorczy JSON</button>
+      <button id="suite-download" class="secondary" disabled>Pobierz zbiorczy JSON</button>
+    </div>
+    <p class="help">Wynik zawiera wszystkie 12 szczegółowych raportów oraz podsumowanie; zapisuje się lokalnie, bez wysyłania na serwer. W razie błędu lub przerwania można skopiować także wynik częściowy.</p>
+  </section>
+  <section class="panel">
     <h2>Wybierz wariant</h2>
     <label for="strategy" class="help">Każdy wariant ma oddzielną bazę lokalną. Zmiana nie usuwa innych wariantów.</label>
     <select id="strategy" style="width:100%;padding:12px;border:1px solid #bbc7d8;border-radius:9px;font:inherit">
