@@ -117,6 +117,12 @@ try {
     assert.ok(text !== '0 MiB', 'Reset must cause a fresh download: ' + text);
     assert.ok((await page.locator('#history button').count()) >= reports.length);
   }
+  const baselineHits = reports[0].report.results.map(entry => [entry.query, entry.hits]);
+  for (const run of reports) {
+    assert.deepEqual(run.report.results.map(entry => [entry.query, entry.hits]),
+      baselineHits, 'FTS hit counts must match for all variants and starts: ' +
+      run.strategy + ' / ' + run.phase);
+  }
   await writeFile(resolve(root, 'poc-browser-smoke-results.json'),
     JSON.stringify(reports, null, 2));
   console.log('PASS browser OPFS comparison on Chromium,', reports.length, 'reports');
