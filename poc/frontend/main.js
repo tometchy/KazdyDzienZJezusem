@@ -236,7 +236,10 @@ $('run-all').onclick = async () => {
   $('suite-progress').textContent = 'Zamykanie aktualnej bazy przed serią testów…';
   const previousWorker = worker;
   worker = null;
+  let wakeLock;
   try {
+    // The long mobile run should not be interrupted by normal screen timeout.
+    wakeLock = await navigator.wakeLock?.request('screen').catch(() => null);
     if (previousWorker) {
       previousWorker.onmessage = null; // Prevent the manual closed handler from spawning another Worker.
       try {
@@ -260,6 +263,7 @@ $('run-all').onclick = async () => {
   } catch (error) {
     $('suite-progress').textContent = 'Nie udało się rozpocząć: ' + String(error);
   } finally {
+    try { await wakeLock?.release(); } catch { /* Wake Lock may have expired */ }
     suiteRunning = false;
     suiteAbortController = null;
     startWorker(); // Restore manual search without changing the selected strategy.
