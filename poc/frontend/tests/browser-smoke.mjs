@@ -123,6 +123,49 @@ try {
       baselineHits, 'FTS hit counts must match for all variants and starts: ' +
       run.strategy + ' / ' + run.phase);
   }
+  // Real integration of the single-button suite, including isolated purge and
+  // 3 fresh-worker warm starts per variant. This also verifies one persisted JSON.
+  await ready();
+  await page.locator('#run-all').click();
+  await page.waitForFunction(
+    () => {
+      try {
+        const row = JSON.parse(localStorage.getItem('kdj.search-poc.full-suite.v1') ?? 'null');
+        return row?.version === 3;
+      } catch { return false; }
+    }, null, {timeout: 900000}
+  );
+  const suite = await page.evaluate(
+    () => JSON.parse(localStorage.getItem('kdj.search-poc.full-suite.v1'))
+  );
+  assert.equal(suite.status, 'completed', 'Full suite error: ' + suite.error);
+  assert.equal(suite.runs.length, 12);
+  assert.equal(suite.summary.runs_completed, 12);
+  assert.equal(suite.summary.hit_counts_consistent, true);
+  assert.equal(suite.configuration.http_cache_cleared, false);
+  assert.equal(suite.configuration.fresh_worker_for_every_run, true);
+  for (const strategy of ['local-build', 'prebuilt-opfs', 'prebuilt-sahpool']) {
+    const selected = suite.runs.filter(row => row.strategy === strategy);
+    assert.deepEqual(selected.map(row => row.phase), ['cold', 'warm', 'warm', 'warm']);
+    assert.deepEqual(selected.map(row => row.repetition), [1, 1, 2, 3]);
+    assert.equal(selected[0].report.meta.index_reused, false);
+    assert.ok(selected[0].report.meta.downloaded_bytes > 0);
+    assert.ok(selected[0].report.meta.index_built || selected[0].report.meta.index_imported);
+    for (const warm of selected.slice(1)) {
+      assert.equal(warm.report.meta.index_reused, true);
+      assert.equal(warm.report.meta.downloaded_bytes, 0);
+      assert.equal(warm.report.results.length, 10);
+      assert.deepEqual(warm.report.results.map(x => [x.query, x.hits]),
+        baselineHits, 'Full suite must preserve FTS hit parity');
+    }
+    assert.equal(suite.summary.by_strategy[strategy].warm_runs, 3);
+    assert.ok(suite.summary.by_strategy[strategy].warm_total_ready_p50_ms > 0);
+  }
+  assert.equal(await page.locator('#suite-copy').isEnabled(), true);
+  assert.equal(await page.locator('#suite-download').isEnabled(), true);
+  await writeFile(resolve(root, 'poc-browser-full-suite-results.json'),
+    JSON.stringify(suite, null, 2));
+  console.log('PASS single-button full suite: 12 cold/warm Chromium runs');
   await writeFile(resolve(root, 'poc-browser-smoke-results.json'),
     JSON.stringify(reports, null, 2));
   console.log('PASS browser OPFS comparison on Chromium,', reports.length, 'reports');
