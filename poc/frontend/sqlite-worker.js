@@ -38,16 +38,26 @@ async function withStorageLock(work, {reopen = false} = {}) {
   if (typeof navigator.locks?.request !== 'function')
     throw Error('Web Locks API jest wymagane do bezpiecznej pracy na wielu kartach');
   const waitingSince = now();
-  postMessage({type: 'waiting', operation: reopen ? 'query' : 'storage'});
-  return navigator.locks.request(SHARED_LOCK, {mode: 'exclusive'}, async () => {
-    const waitMs = ms(now() - waitingSince);
-    try {
-      if (reopen) await reopenForQuery();
-      return await work(waitMs);
-    } finally {
-      releaseDatabase();
-    }
-  });
+  let waiting = true;
+  const timer = setTimeout(() => {
+    if (waiting) postMessage({type: 'waiting', operation: reopen ? 'query' : 'storage'});
+  }, 300);
+  try {
+    return await navigator.locks.request(SHARED_LOCK, {mode: 'exclusive'}, async () => {
+      waiting = false;
+      clearTimeout(timer);
+      const waitMs = ms(now() - waitingSince);
+      try {
+        if (reopen) await reopenForQuery();
+        return await work(waitMs);
+      } finally {
+        releaseDatabase();
+      }
+    });
+  } finally {
+    waiting = false;
+    clearTimeout(timer);
+  }
 }
 
 function releaseDatabase() {
