@@ -2,8 +2,10 @@
 FROM python:3.12-alpine AS poc-corpus
 WORKDIR /src
 COPY input/ input/
-COPY poc/prepare.py /tools/prepare.py
-RUN python3 /tools/prepare.py --repo /src --out /out
+COPY poc/prepare.py poc/build_sqlite.py /tools/
+RUN python3 /tools/prepare.py --repo /src --out /out \
+    && python3 /tools/build_sqlite.py --out /out \
+    && rm /out/corpus-fts5.sqlite3
 
 # ---------- POC: BUNDLE SQLITE WASM WITHOUT RUNTIME NODE ----------
 FROM node:24-alpine AS poc-frontend
