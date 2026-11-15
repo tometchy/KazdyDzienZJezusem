@@ -4,7 +4,9 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "build": "vite build"
+    "build": "vite build",
+    "test:urls": "node --test tests/asset-urls.test.mjs",
+    "check:dist": "node tests/check-dist.mjs"
   },
   "dependencies": {
     "@sqlite.org/sqlite-wasm": "3.54.1-build1"

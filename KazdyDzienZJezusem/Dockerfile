@@ -11,7 +11,7 @@ WORKDIR /poc
 COPY poc/frontend/ ./
 RUN npm install --no-audit --no-fund
 COPY --from=poc-corpus /out/ ./public/
-RUN npm run build
+RUN npm run test:urls && npm run build && npm run check:dist
 
 # ---------- STAGE 1: BUILD APP ----------
 FROM mcr.microsoft.com/dotnet/sdk:10.0-alpine AS build
