@@ -26,3 +26,10 @@ test('data URLs also work under a different origin', () => {
     'http://localhost:8766/POC/corpus-manifest.json'
   );
 });
+
+test('compiled worker fetches prebuilt database from /POC/, never /POC/assets/', () => {
+  assert.equal(
+    corpusAssetUrl('corpus-fts5.sqlite3.gz', '/POC/', bundledWorker),
+    'https://kazdydzienzjezusem.pl/POC/corpus-fts5.sqlite3.gz'
+  );
+});

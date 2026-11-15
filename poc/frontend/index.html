@@ -33,17 +33,40 @@
   <h1>Test wydajności wyszukiwarki</h1>
   <p class="sub">Prawdziwe Biblie i pisma z projektu • SQLite FTS5 uruchomiony <b>na Twoim urządzeniu</b>, wewnątrz przeglądarki. Serwer dostarcza tylko pliki.</p>
   <section class="panel">
+    <h2>Wybierz wariant</h2>
+    <label for="strategy" class="help">Każdy wariant ma oddzielną bazę lokalną. Zmiana nie usuwa innych wariantów.</label>
+    <select id="strategy" style="width:100%;padding:12px;border:1px solid #bbc7d8;border-radius:9px;font:inherit">
+      <option value="local-build">A · Budowanie FTS5 w przeglądarce (punkt odniesienia)</option>
+      <option value="prebuilt-opfs">B · Gotowa SQLite + standardowy OPFS</option>
+      <option value="prebuilt-sahpool">C · Gotowa SQLite + OPFS SAH Pool</option>
+    </select>
+    <p class="help">Zimny start: „Resetuj indeks” i ponów test. Ciepły start: „Zamknij i otwórz ponownie”. Raporty i inne warianty nie zostaną usunięte.</p>
+  </section>
+  <section class="panel">
     <h2>Stan indeksu</h2>
     <p class="status" id="status" role="status">Ładowanie silnika SQLite…</p>
     <div class="cards">
       <div class="card"><span>Dokumenty</span><strong id="records">—</strong></div>
       <div class="card"><span>Indeks w przeglądarce</span><strong id="mode" style="font-size:1rem">—</strong></div>
       <div class="card"><span>Czas przygotowania</span><strong id="ready">—</strong></div>
-      <div class="card"><span>Pierwsze indeksowanie</span><strong id="built">—</strong></div>
+      <div class="card"><span>Budowanie indeksu</span><strong id="built">—</strong></div>
     </div>
     <p class="help" id="sources">Źródła: wczytywanie…</p>
-    <p class="help">Pierwsza wizyta może trwać długo — buduje pełny indeks. Przy kolejnym otwarciu powinien zostać użyty zachowany indeks. Gdy widzisz „tylko RAM”, wynik nie potwierdza trwałości indeksu.</p>
-    <div class="buttons"><button id="rebuild" class="secondary" disabled>Odbuduj indeks (test pierwszego uruchomienia)</button></div>
+    <div class="cards">
+      <div class="card"><span>Pobieranie</span><strong id="download-ms">—</strong></div>
+      <div class="card"><span>Pobrane dane</span><strong id="download-bytes">—</strong></div>
+      <div class="card"><span>Dekompresja</span><strong id="decompress-ms">—</strong></div>
+      <div class="card"><span>Import SQLite</span><strong id="import-ms">—</strong></div>
+      <div class="card"><span>Otwarcie zapisanej bazy</span><strong id="open-ms">—</strong></div>
+      <div class="card"><span>Rozmiar bazy SQLite</span><strong id="database-bytes">—</strong></div>
+      <div class="card"><span>RAM</span><strong id="memory" style="font-size:1rem">—</strong></div>
+      <div class="card"><span>Magazyn domeny</span><strong id="storage" style="font-size:1rem">—</strong></div>
+    </div>
+    <p class="help">Pobranie i rozpakowanie są mierzone osobno. Zużycie magazynu oznacza całą domenę, nie tylko bazę; porównywalny pomiar RAM nie jest dostępny. Weryfikacja SHA-256 jest raportowana w JSON.</p>
+    <div class="buttons">
+      <button id="reopen" class="secondary" disabled>Zamknij i otwórz ponownie (ciepły start)</button>
+      <button id="reset" class="secondary" disabled>Resetuj indeks tego wariantu (zimny start)</button>
+    </div>
   </section>
   <section class="panel">
     <h2>Własne zapytanie</h2>
@@ -57,7 +80,7 @@
     <p class="help">10 zapytań × 20 powtórzeń. „20 wyników” mierzy szybkość wyświetlenia pierwszej strony; „Wszystkie trafienia” mierzy policzenie rezultatów. p50 oznacza typowy czas, a p95 wolniejsze 5% pomiarów. Im mniej milisekund, tym lepiej.</p>
     <div class="buttons">
       <button id="bench" disabled>Uruchom benchmark</button>
-      <button id="copy" class="secondary" disabled>Kopiuj raport do schowka</button>
+      <button id="copy" class="secondary" disabled>Kopiuj raport JSON</button>
       <button id="download" class="secondary" disabled>Pobierz JSON</button>
     </div>
     <p id="bench-status" class="help"></p>
@@ -66,8 +89,13 @@
       <div class="card"><span>Najwolniejsze 5% (maksimum p95)</span><strong id="summary-p95">—</strong></div>
     </div>
     <div class="scroll"><table><thead><tr><th>Zapytanie</th><th>Trafienia</th><th>20 wyników p50</th><th>20 wyników p95</th><th>Wszystkie p50</th><th>Wszystkie p95</th></tr></thead><tbody id="bench-rows"></tbody></table></div>
-    <p class="help">Wyniki zapisują się tylko w pamięci tej przeglądarki (localStorage). Nie są wysyłane do serwera ani GitHuba.</p>
+    <p class="help">Raporty zapisują się w localStorage i nie są wysyłane. Starsze raporty v1 pozostają dostępne. Powtarzane zapytania obejmują efekty cache.</p>
+  </section>
+  <section class="panel">
+    <h2>Porównanie A / B / C na tym urządzeniu</h2>
+    <p class="help">Najświeższy raport zimny i ciepły każdego wariantu. Wartości czasu obejmują ładowanie SQLite WASM. Testy mają wspólny korpus i te same zapytania; pamięć podręczna może wpływać na wyniki.</p>
+    <div class="scroll"><table><thead><tr><th>Wariant</th><th>Zimny start</th><th>Ciepły start</th><th>Pobrane (zimny)</th><th>Budowa/import</th><th>p50 zimny</th><th>p50 ciepły</th></tr></thead><tbody id="comparison-rows"></tbody></table></div>
   </section>
   <section class="panel"><h2>Wcześniejsze raporty na tym urządzeniu</h2><div class="history" id="history"></div></section>
-  <footer>POC • Test wydajności, nie gotowy język zapytań <code>mat:</code>. Normalizacja usuwa akcenty greckie, ale nie wykonuje lematyzacji ani wyszukiwania między przekładami.</footer>
+  <footer>POC • Porównanie SQLite FTS5, nie gotowy język zapytań <code>mat:</code>. Normalizacja usuwa akcenty greckie, ale nie wykonuje lematyzacji ani wyszukiwania między przekładami.</footer>
 </main><script type="module" src="./main.js"></script></body></html>

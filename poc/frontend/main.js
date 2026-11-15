@@ -1,69 +1,126 @@
 const $ = id => document.getElementById(id);
-const worker = new Worker(new URL('./sqlite-worker.js', import.meta.url), { type: 'module' });
-const STORAGE_KEY = 'kdj.search-poc.reports.v1';
-let currentReport = null;
-let busy = true;
-
-function fmt(ms) {
-  return Number.isFinite(Number(ms)) ? Number(ms).toLocaleString('pl-PL', {maximumFractionDigits: 2}) + ' ms' : '—';
-}
-function enable(canRun) {
-  busy = !canRun;
-  for (const id of ['search', 'bench', 'rebuild']) $(id).disabled = !canRun;
+const OLD_STORAGE_KEY = 'kdj.search-poc.reports.v1';
+const STORAGE_KEY = 'kdj.search-poc.reports.v2';
+let worker, currentReport = null, busy = true;
+const fmt = n => Number.isFinite(Number(n))
+  ? Number(n).toLocaleString('pl-PL', {maximumFractionDigits: 2}) + ' ms' : '—';
+const mib = n => Number.isFinite(Number(n))
+  ? (Number(n) / 1048576).toLocaleString('pl-PL', {maximumFractionDigits: 2}) + ' MiB' : '—';
+function setStatus(message) { $('status').textContent = message; }
+function enable(ready) {
+  busy = !ready;
+  for (const id of ['search', 'bench', 'reset', 'reopen']) $(id).disabled = !ready;
+  $('strategy').disabled = false;
   $('copy').disabled = !currentReport;
   $('download').disabled = !currentReport;
 }
-function setStatus(message) { $('status').textContent = message; }
-function readHistory() {
+function safeHistory(key, version) {
   try {
-    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) ?? '[]');
-    return Array.isArray(saved) ? saved.filter(x => x?.version === 1) : [];
+    const list = JSON.parse(localStorage.getItem(key) ?? '[]');
+    return Array.isArray(list) ? list.filter(row => row?.version === version) : [];
   } catch { return []; }
 }
-function writeHistory(reports) {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(reports.slice(0, 8))); }
-  catch { $('bench-status').textContent += ' Uwaga: przeglądarka nie pozwoliła zapisać raportu lokalnie.'; }
+function history() {
+  return [...safeHistory(STORAGE_KEY, 2), ...safeHistory(OLD_STORAGE_KEY, 1)]
+    .sort((a, b) => b.created_at.localeCompare(a.created_at));
+}
+function renderComparison() {
+  const latest = new Map();
+  for (const report of safeHistory(STORAGE_KEY, 2)) {
+    const variant = report.meta?.strategy;
+    if (!variant) continue;
+    const phase = report.meta?.index_reused ? 'warm' : 'cold';
+    const key = variant + ':' + phase;
+    if (!latest.has(key)) latest.set(key, report);
+  }
+  const root = $('comparison-rows');
+  root.replaceChildren();
+  for (const [variant, name] of [
+    ['local-build', 'A · lokalne FTS5'],
+    ['prebuilt-opfs', 'B · gotowy OPFS'],
+    ['prebuilt-sahpool', 'C · gotowy SAH Pool']
+  ]) {
+    const cold = latest.get(variant + ':cold');
+    const warm = latest.get(variant + ':warm');
+    const tr = document.createElement('tr');
+    const fields = [
+      name,
+      cold ? fmt(cold.meta.total_ready_ms) : '—',
+      warm ? fmt(warm.meta.total_ready_ms) : '—',
+      cold ? mib(cold.meta.downloaded_bytes) : '—',
+      cold ? fmt(cold.meta.import_ms || cold.meta.index_build_ms) : '—',
+      cold ? fmt(cold.summary.typical_top20_p50_ms) : '—',
+      warm ? fmt(warm.summary.typical_top20_p50_ms) : '—'
+    ];
+    for (const value of fields) {
+      const td = document.createElement('td');
+      td.textContent = value;
+      tr.append(td);
+    }
+    root.append(tr);
+  }
+}
+
+function writeHistory(report) {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(
+      [report, ...safeHistory(STORAGE_KEY, 2)].slice(0, 40)));
+  } catch {
+    $('bench-status').textContent += ' Uwaga: nie udało się zapisać raportu lokalnie.';
+  }
 }
 function renderHistory() {
-  const root = $('history');
-  root.replaceChildren();
-  const reports = readHistory();
-  if (!reports.length) { root.textContent = 'Brak zapisanych raportów na tym urządzeniu.'; return; }
-  for (const report of reports) {
-    const btn = document.createElement('button');
-    btn.className = 'secondary';
-    const time = new Date(report.created_at).toLocaleString('pl-PL');
-    btn.textContent = time + ' · ' + (report.meta?.documents?.toLocaleString('pl-PL') ?? '?')
-      + ' dokumentów · ' + fmt(report.summary?.typical_top20_p50_ms) + ' — wyświetl i kopiuj';
-    btn.onclick = () => { currentReport = report; renderReport(report); enable(!busy); };
-    root.append(btn);
+  $('history').replaceChildren();
+  renderComparison();
+  const items = history();
+  if (!items.length) { $('history').textContent = 'Brak zapisanych raportów.'; return; }
+  for (const report of items) {
+    const button = document.createElement('button');
+    button.className = 'secondary';
+    button.textContent = new Date(report.created_at).toLocaleString('pl-PL') +
+      ' · ' + (report.meta?.strategy ?? 'Starszy POC') +
+      ' · ' + (report.meta?.documents ?? '?').toLocaleString('pl-PL') + ' rekordów' +
+      ' · p50 ' + fmt(report.summary?.typical_top20_p50_ms);
+    button.onclick = () => { currentReport = report; renderReport(report); };
+    $('history').append(button);
   }
 }
 function showMeta(meta) {
   $('records').textContent = Number(meta.documents).toLocaleString('pl-PL');
   $('mode').textContent = meta.mode;
   $('ready').textContent = fmt(meta.total_ready_ms);
-  $('built').textContent = meta.index_built ? fmt(meta.index_build_ms) : 'Ponownie użyty';
-  const sources = Object.entries(meta.sources ?? {}).map(([source, count]) =>
-    source + ': ' + Number(count).toLocaleString('pl-PL')).join(' • ');
-  $('sources').textContent = 'Źródła: ' + sources + '; rozmiar pobranego korpusu: '
-    + (meta.corpus_gzip_bytes / 1048576).toFixed(1) + ' MiB';
-  setStatus(meta.persisted ? 'Gotowe — indeks zapisany na tym urządzeniu.' :
-    'Gotowe — UWAGA: indeks działa tylko w RAM. Po zamknięciu strony trzeba go zbudować ponownie.');
-  if (!meta.persisted) $('mode').className = 'slow';
+  $('built').textContent = meta.index_built ? fmt(meta.index_build_ms) :
+    meta.index_imported ? 'Zaimportowany' : 'Ponownie użyty';
+  $('download-ms').textContent = fmt(meta.download_ms);
+  $('download-bytes').textContent = mib(meta.downloaded_bytes);
+  $('decompress-ms').textContent = fmt(meta.decompress_ms);
+  $('import-ms').textContent = fmt(meta.import_ms);
+  $('open-ms').textContent = fmt(meta.db_open_ms);
+  $('database-bytes').textContent = mib(meta.database_bytes);
+  $('memory').textContent = 'Brak wiarygodnego API RAM';
+  $('storage').textContent = meta.storage_usage_bytes == null
+    ? 'Brak danych' : mib(meta.storage_usage_bytes) + ' (cała domena)';
+  $('sources').textContent = 'Źródła: ' + Object.entries(meta.sources ?? {})
+    .map(([name, count]) => name + ': ' + Number(count).toLocaleString('pl-PL')).join(' · ') +
+    '; księgi TNP: ' + (meta.books_by_source?.TNP ?? '?') +
+    '; brakujące w TNP wobec UBG: ' + (meta.tnp_missing_vs_ubg?.length ?? '?') +
+    '. SHA korpusu: ' + String(meta.corpus_hash).slice(0, 16) + '…';
+  setStatus(meta.persisted ? (meta.index_reused
+    ? 'Gotowe — otwarto istniejący indeks bez pobierania korpusu.'
+    : 'Gotowe — indeks zapisany lokalnie.') : 'Gotowe — wyłącznie RAM (bez trwałości).');
 }
 function renderSearch(data) {
-  $('search-stats').textContent = data.count.toLocaleString('pl-PL') + ' trafień • pierwsze 20: '
-    + fmt(data.ms) + ' • policzenie wszystkich: ' + fmt(data.countMs);
+  $('search-stats').textContent = data.count.toLocaleString('pl-PL') +
+    ' trafień · pierwsze 20: ' + fmt(data.ms) + ' · COUNT: ' + fmt(data.countMs);
   $('matches').replaceChildren();
   for (const result of data.results.slice(0, 8)) {
     const item = document.createElement('div');
     item.className = 'result';
-    const label = document.createElement('b');
-    label.textContent = result.source + ' · ' + result.ref;
-    const paragraph = document.createElement('div');
-    paragraph.textContent = (result.pl || result.gr || result.en || result.lemma || '').slice(0, 300);
-    item.append(label, paragraph);
+    const title = document.createElement('b');
+    title.textContent = result.source + ' · ' + result.ref;
+    const body = document.createElement('div');
+    body.textContent = (result.pl || result.gr || result.en || result.lemma || '').slice(0, 300);
+    item.append(title, body);
     $('matches').append(item);
   }
 }
@@ -73,49 +130,38 @@ function renderReport(report) {
   $('bench-rows').replaceChildren();
   for (const row of report.results) {
     const tr = document.createElement('tr');
-    for (const value of [row.name, row.hits, fmt(row.top20_p50_ms), fmt(row.top20_p95_ms),
-      fmt(row.count_p50_ms), fmt(row.count_p95_ms)]) {
+    for (const cellValue of [row.name, row.hits, fmt(row.top20_p50_ms),
+      fmt(row.top20_p95_ms), fmt(row.count_p50_ms), fmt(row.count_p95_ms)]) {
       const cell = document.createElement('td');
-      cell.textContent = value;
+      cell.textContent = cellValue;
       tr.append(cell);
     }
     tr.title = row.query;
     $('bench-rows').append(tr);
   }
-  $('bench-status').textContent = 'Raport z ' + new Date(report.created_at).toLocaleString('pl-PL')
-    + '. ' + report.rounds + ' powtórzeń każdego z ' + report.results.length
-    + ' zapytań. Kliknij „Kopiuj raport do schowka” i wklej go do rozmowy.';
-  $('copy').disabled = false;
-  $('download').disabled = false;
+  $('bench-status').textContent = new Date(report.created_at).toLocaleString('pl-PL') +
+    ' · ' + (report.meta?.strategy ?? 'Wariant oryginalny') +
+    ' · ' + report.rounds + ' powtórzeń. Raport można skopiować jako JSON.';
+  $('copy').disabled = $('download').disabled = false;
+}
+function startWorker() {
+  worker?.terminate();
+  enable(false);
+  setStatus('Uruchamianie SQLite WASM (' + $('strategy').selectedOptions[0].text + ')…');
+  worker = new Worker(new URL('./sqlite-worker.js', import.meta.url), { type: 'module' });
+  worker.onmessage = handleWorkerMessage;
+  worker.postMessage({cmd: 'init', strategy: $('strategy').value});
 }
 function search() {
   if (busy || !$('query').value.trim()) return;
   worker.postMessage({cmd: 'search', query: $('query').value});
 }
-async function copyReport() {
-  if (!currentReport) return;
-  try {
-    await navigator.clipboard.writeText(JSON.stringify(currentReport, null, 2));
-    $('bench-status').textContent = 'Raport skopiowany. Wklej go do ChatGPT.';
-  } catch {
-    $('bench-status').textContent = 'Nie udało się użyć schowka. Użyj „Pobierz JSON”.';
-  }
-}
-function downloadReport() {
-  if (!currentReport) return;
-  const file = new Blob([JSON.stringify(currentReport, null, 2)], {type: 'application/json'});
-  const url = URL.createObjectURL(file);
-  const link = document.createElement('a');
-  link.href = url;
-  link.download = 'kdj-benchmark-' + currentReport.created_at.replaceAll(':', '-') + '.json';
-  link.click();
-  setTimeout(() => URL.revokeObjectURL(url), 1000);
-}
-worker.onmessage = ({data}) => {
-  if (data.type === 'progress') setStatus('Budowanie indeksu: ' + data.count.toLocaleString('pl-PL') + ' rekordów…');
+function handleWorkerMessage({data}) {
+  if (data.type === 'progress')
+    setStatus('Indeksowanie: ' + data.count.toLocaleString('pl-PL') + ' rekordów…');
   if (data.type === 'error') {
-    setStatus('Błąd: ' + data.message);
-    $('bench-status').textContent = 'W razie błędu spróbuj ponownie otworzyć stronę, a następnie prześlij komunikat.';
+    setStatus('Błąd (' + $('strategy').value + '): ' + data.message);
+    $('bench-status').textContent = 'Możesz wybrać inny wariant. Komunikat błędu zachowaj do diagnostyki.';
     console.error(data.stack);
     enable(false);
   }
@@ -128,26 +174,52 @@ worker.onmessage = ({data}) => {
   if (data.type === 'benchmark') {
     currentReport = data.report;
     renderReport(currentReport);
-    writeHistory([currentReport, ...readHistory()].slice(0, 8));
+    writeHistory(currentReport);
     renderHistory();
     enable(true);
   }
-};
+  if (data.type === 'reset' || data.type === 'closed') startWorker();
+}
+$('strategy').onchange = startWorker;
 $('search').onclick = search;
-$('query').addEventListener('keydown', e => { if (e.key === 'Enter') search(); });
+$('query').addEventListener('keydown', event => { if (event.key === 'Enter') search(); });
 $('bench').onclick = () => {
   if (busy) return;
   enable(false);
-  $('bench-status').textContent = 'Trwa pomiar 10 zapytań na tym urządzeniu…';
+  $('bench-status').textContent = 'Trwa pomiar 10 zapytań × 20 powtórzeń…';
   worker.postMessage({cmd: 'benchmark'});
 };
-$('rebuild').onclick = () => {
-  if (busy || !confirm('Usunąć lokalny indeks i zbudować go ponownie? Zapisane raporty zostaną zachowane.')) return;
+$('reopen').onclick = () => {
+  if (busy) return;
   enable(false);
-  setStatus('Ponowne budowanie indeksu…');
-  worker.postMessage({cmd: 'rebuild'});
+  setStatus('Zamykanie bazy przed pomiarem ponownego otwarcia…');
+  worker.postMessage({cmd: 'close'});
 };
-$('copy').onclick = copyReport;
-$('download').onclick = downloadReport;
+$('reset').onclick = () => {
+  if (busy || !confirm('Usunąć WYŁĄCZNIE indeks wybranego wariantu? ' +
+    'Raporty i pozostałe warianty pozostaną nietknięte.')) return;
+  enable(false);
+  setStatus('Usuwanie wybranego indeksu (bez usuwania raportów)…');
+  worker.postMessage({cmd: 'reset'});
+};
+$('copy').onclick = async () => {
+  if (!currentReport) return;
+  try {
+    await navigator.clipboard.writeText(JSON.stringify(currentReport, null, 2));
+    $('bench-status').textContent = 'Skopiowano raport JSON.';
+  } catch {
+    $('bench-status').textContent = 'Schowek niedostępny — użyj „Pobierz JSON”.';
+  }
+};
+$('download').onclick = () => {
+  if (!currentReport) return;
+  const url = URL.createObjectURL(new Blob([JSON.stringify(currentReport, null, 2)],
+    {type: 'application/json'}));
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = 'kdj-fts5-' + currentReport.created_at.replaceAll(':', '-') + '.json';
+  link.click();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+};
 renderHistory();
-worker.postMessage({cmd: 'init'});
+startWorker();
