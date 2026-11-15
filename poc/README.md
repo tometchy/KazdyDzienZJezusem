@@ -64,10 +64,19 @@ kdj.search-poc.reports.v1 są tylko odczytywane, nie zmieniane ani kasowane.
 ## Kontrole poprawności danych
 
 Manifest podaje liczby dokumentów per źródło, liczbę ksiąg i listę
-tnp_missing_vs_ubg. W aktualnym drzewie projektu TNP zawiera pliki dla
-47 ksiąg, UBG dla 66. To **nie** dowodzi, że publikowana TNP rzeczywiście
-obejmuje tylko 47 ksiąg — dowodzi jedynie, że obecny katalog input/TNP jest
-niepełny względem UBG. Należy osobno zweryfikować konwerter i EPUB.
+tnp_missing_vs_ubg. W drzewie projektu TNP obejmuje 47 ksiąg, UBG 66.
+**Nie jest to dowód usterki parsera**: 47 ksiąg odpowiada wydaniu
+Przekładu toruńskiego z 17.04.2023, opisanemu przez wydawcę jako „Nowe
+Przymierze oraz Księgi Mądrościowe, Księgi Pięciu Megilot i Proroków
+Mniejszych”. Źródła:
+
+- https://www.swch.pl/tnp/index.html (wydanie 17.04.2023)
+- https://odkryjbiblie.pl/porownaj/przeklady/ (47 ksiąg wydania 2022/2023)
+
+Wydania nowsze mogą mieć więcej ksiąg; np. opis wydania drukowanego
+z 2025 r. wymienia dodatkowo Rodzaju, Wyjścia i Kapłańską. Nie można
+automatycznie uzupełniać brakujących 19 ksiąg tekstem UBG. Przy migracji
+źródła trzeba osobno sprawdzić wersję EPUB, aktualność i licencję.
 
 Słownik FTS5 indeksuje formy i dostępne glosy; nie jest to jeszcze pełen
 model morfologiczny, analizator zapytań mat:/tnp:/lemma:/strong: ani indeks
