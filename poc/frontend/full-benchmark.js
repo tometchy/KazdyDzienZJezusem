@@ -34,7 +34,10 @@ export function workerCommand(worker, command, expectedType, {signal, onProgress
     const onAbort = () => finish(new Error('Przerwano przez użytkownika'));
     const onError = event => finish(new Error(event.message || 'Błąd Web Workera'));
     const onMessage = ({data}) => {
-      if (data.type === 'progress') { onProgress?.(data); return; }
+      if (data.type === 'progress' || data.type === 'waiting') {
+        onProgress?.(data);
+        return;
+      }
       if (data.type === 'error') {
         finish(new Error(data.message || 'Błąd podczas benchmarku')); return;
       }
@@ -111,7 +114,9 @@ export async function runFullSuite({makeWorker, onProgress = () => {}, signal} =
         const ready = await workerCommand(activeWorker, {cmd: 'init', strategy: id},
           'ready', {
             signal, onProgress: data =>
-              onProgress(prefix + ' — indeksowanie ' + data.count + ' dokumentów…')
+              onProgress(data.type === 'waiting'
+                ? prefix + ' — czekam na zwolnienie SQLite przez inną kartę…'
+                : prefix + ' — indeksowanie ' + data.count + ' dokumentów…')
           });
         const meta = ready.meta;
         if (!meta.persisted) throw new Error(prefix + ': trwały magazyn OPFS jest niedostępny');
