@@ -40,7 +40,8 @@ await new Promise((resolveListen, reject) => {
 });
 const origin = 'http://127.0.0.1:' + server.address().port;
 const browser = await chromium.launch({headless: true});
-const page = await browser.newPage({serviceWorkers: 'block'});
+const context = await browser.newContext({serviceWorkers: 'block'});
+const page = await context.newPage();
 const reports = [];
 page.on('pageerror', error => console.error('PAGE ERROR:', error.message));
 page.on('console', message => { if (message.type() === 'error') console.error('BROWSER ERROR:', message.text()); });
@@ -204,7 +205,7 @@ try {
     JSON.stringify(reports, null, 2));
   console.log('PASS browser OPFS comparison on Chromium,', reports.length, 'reports');
 } finally {
-  await page.close();
+  await context.close();
   await browser.close();
   await new Promise(resolveClose => server.close(resolveClose));
 }
