@@ -27,7 +27,7 @@ Build obrazu Podman ma dwa tymczasowe etapy:
 | C · prebuilt-sahpool | Jak B, ale PoolUtil.importDb() | Otworzenie bazy w SAH Pool |
 
 Warianty mają odrębne nazwy baz; A zachowuje dawną nazwę
-/ kdj-search-poc-v2.sqlite3 (bez odstępu) i pozwala porównać stare pomiary.
+`/kdj-search-poc-v2.sqlite3` i pozwala porównać stare pomiary.
 Reset usuwa wyłącznie bazę aktualnie wybranego wariantu, **nie** localStorage,
 raporty ani inne bazy.
 
