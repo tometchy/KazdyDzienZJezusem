@@ -28,6 +28,39 @@ const cases = [
 let sqlite3, pool, db, manifest, meta, strategy, mode, total;
 const now = () => performance.now();
 const ms = x => Number(x.toFixed(2));
+const SHARED_LOCK = 'kdj-poc-sqlite-opfs-all-strategies-v1';
+
+/** SQLite SAH Pool captures exclusive OPFS handles when installed. Every tab
+ * must coordinate installation, import, opening and queries, then release
+ * handles before another tab may use the same storage. Web Locks are origin-wide
+ * and released by the browser if a tab/worker crashes. */
+async function withStorageLock(work, {reopen = false} = {}) {
+  if (typeof navigator.locks?.request !== 'function')
+    throw Error('Web Locks API jest wymagane do bezpiecznej pracy na wielu kartach');
+  const waitingSince = now();
+  postMessage({type: 'waiting', operation: reopen ? 'query' : 'storage'});
+  return navigator.locks.request(SHARED_LOCK, {mode: 'exclusive'}, async () => {
+    const waitMs = ms(now() - waitingSince);
+    try {
+      if (reopen) await reopenForQuery();
+      return await work(waitMs);
+    } finally {
+      releaseDatabase();
+    }
+  });
+}
+
+function releaseDatabase() {
+  // Pure in-memory fallback must retain its live SQLite connection.
+  if (meta?.persisted === false && mode === 'Tylko RAM (nietrwały)') return;
+  try {
+    if (db) { db.close(); db = null; }
+  } finally {
+    // pauseVfs() is crucial: closing only the DB does not release SAH Pool's
+    // preallocated SyncAccessHandles, which otherwise block every other tab.
+    if (pool?.pauseVfs) pool.pauseVfs();
+  }
+}
 
 function top20(query) {
   const start = now();
@@ -155,6 +188,35 @@ async function buildIndex() {
     verifyMs: corpus.verifyMs
   };
 }
+async function databaseExists(filename, selected = strategy) {
+  if (selected === 'prebuilt-sahpool') {
+    if (!pool) throw Error('SAH Pool nie został zainicjalizowany');
+    return pool.getFileNames().includes(filename);
+  }
+  try {
+    const root = await navigator.storage.getDirectory();
+    await root.getFileHandle(filename.slice(1), {create: false});
+    return true;
+  } catch (error) {
+    if (error?.name === 'NotFoundError') return false;
+    throw error;
+  }
+}
+
+async function reopenForQuery() {
+  if (db) return; // The RAM fallback retains its in-memory connection.
+  if (!meta || !strategy) throw Error('Najpierw zainicjalizuj indeks');
+  if (strategy === 'prebuilt-sahpool' && pool?.isPaused()) await pool.unpauseVfs();
+  const filename = DATABASES[strategy];
+  if (!(await databaseExists(filename))) {
+    // A different tab may have reset this strategy; recover transparently.
+    await init(strategy);
+    return;
+  }
+  db = openExisting(filename);
+  if (!db) throw Error('Nie można otworzyć indeksu; inna karta może trzymać plik');
+}
+
 function openExisting(filename) {
   try {
     return strategy === 'prebuilt-sahpool'
@@ -165,7 +227,8 @@ function openExisting(filename) {
 async function setupStorage() {
   if (strategy === 'prebuilt-sahpool') {
     if (!sqlite3.installOpfsSAHPoolVfs) throw Error('SAH Pool niedostępny w tej przeglądarce');
-    pool = await sqlite3.installOpfsSAHPoolVfs();
+    pool ??= await sqlite3.installOpfsSAHPoolVfs({preserveOnInitFailure: true});
+    if (pool.isPaused()) await pool.unpauseVfs();
     mode = 'OPFS SAH Pool (trwały)';
   } else {
     if (!sqlite3.oo1.OpfsDb && strategy === 'prebuilt-opfs')
@@ -192,7 +255,7 @@ async function init(selected) {
   let indexBuildMs = 0, importMs = 0, downloadMs = 0, downloadedBytes = 0;
   let decompressionMs = 0, verifyMs = 0, storageErrors = [];
   const dbOpenStart = now();
-  if (mode !== 'Tylko RAM (nietrwały)') {
+  if (mode !== 'Tylko RAM (nietrwały)' && await databaseExists(filename)) {
     db = openExisting(filename);
     if (db && validateDatabase(strategy !== 'local-build')) reused = true;
     else if (db) { db.close(); db = null; }
@@ -269,9 +332,9 @@ async function purge(selected) {
   const filename = DATABASES[selected];
   if (selected === 'prebuilt-sahpool') {
     sqlite3 ??= await sqlite3InitModule();
-    pool ??= await sqlite3.installOpfsSAHPoolVfs();
-    try { pool.unlink(filename); }
-    finally { if (pool?.pauseVfs) pool.pauseVfs(); }
+    pool ??= await sqlite3.installOpfsSAHPoolVfs({preserveOnInitFailure: true});
+    if (pool.isPaused()) await pool.unpauseVfs();
+    pool.unlink(filename);
   } else {
     const root = await navigator.storage.getDirectory();
     await root.removeEntry(filename.slice(1)).catch(error => {
@@ -285,6 +348,7 @@ async function reset() {
   const filename = DATABASES[strategy];
   if (strategy === 'prebuilt-sahpool') {
     if (!pool) throw Error('SAH Pool nie jest zainicjalizowany');
+    if (pool.isPaused()) await pool.unpauseVfs();
     pool.unlink(filename);
   } else if (mode.startsWith('OPFS')) {
     const root = await navigator.storage.getDirectory();
@@ -292,7 +356,6 @@ async function reset() {
       if (error.name !== 'NotFoundError') throw error;
     });
   }
-  if (pool?.pauseVfs) pool.pauseVfs(); // Release SAH locks before restarting the Worker.
   return {strategy};
 }
 function benchmark(rounds = 20) {
@@ -323,21 +386,35 @@ function benchmark(rounds = 20) {
     }
   };
 }
-self.onmessage = async ({ data: message }) => {
+self.onmessage = async ({data: message}) => {
   try {
-    if (message.cmd === 'purge') postMessage({type: 'purged', ...await purge(message.strategy)});
-    else if (message.cmd === 'init') postMessage({type: 'ready', meta: await init(message.strategy)});
-    else if (message.cmd === 'reset') postMessage({type: 'reset', ...await reset()});
-    else if (message.cmd === 'close') {
-      db?.close(); db = null;
-      if (pool?.pauseVfs) pool.pauseVfs();
+    if (message.cmd === 'purge') {
+      const result = await withStorageLock(() => purge(message.strategy));
+      postMessage({type: 'purged', ...result});
+    } else if (message.cmd === 'init') {
+      const result = await withStorageLock(async waitMs => {
+        const ready = await init(message.strategy);
+        ready.opfs_lock_wait_ms = waitMs;
+        return ready;
+      });
+      postMessage({type: 'ready', meta: result});
+    } else if (message.cmd === 'reset') {
+      const result = await withStorageLock(() => reset());
+      postMessage({type: 'reset', ...result});
+    } else if (message.cmd === 'close') {
+      // Release all handles under the same origin-wide lock. Already released
+      // after every operation, but keep the old worker protocol compatible.
+      await withStorageLock(() => undefined);
       postMessage({type: 'closed'});
-    }
-    else if (message.cmd === 'search') {
-      const limited = top20(message.query), full = count(message.query);
-      postMessage({type: 'search', ...limited, count: full.hits, countMs: full.ms});
+    } else if (message.cmd === 'search') {
+      const result = await withStorageLock(() => {
+        const limited = top20(message.query), full = count(message.query);
+        return {...limited, count: full.hits, countMs: full.ms};
+      }, {reopen: true});
+      postMessage({type: 'search', ...result});
     } else if (message.cmd === 'benchmark') {
-      postMessage({type: 'benchmark', report: benchmark()});
+      const report = await withStorageLock(() => benchmark(), {reopen: true});
+      postMessage({type: 'benchmark', report});
     }
   } catch (error) {
     postMessage({type: 'error', message: String(error), stack: error?.stack ?? ''});
