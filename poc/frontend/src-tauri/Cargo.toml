@@ -1,0 +1,33 @@
+[package]
+name = "kdzj-tauri-benchmark"
+version = "0.1.0"
+edition = "2021"
+description = "Offline SQLite FTS5 benchmark for postmarketOS ARM64"
+
+[lib]
+name = "kdzj_tauri_benchmark_lib"
+crate-type = ["lib", "cdylib", "staticlib"]
+
+[[bin]]
+name = "kdzj-tauri-benchmark"
+path = "src/main.rs"
+
+[build-dependencies]
+tauri-build = "=2.7.2"
+
+[dependencies]
+tauri = { version = "=2.12.3" }
+rusqlite = { version = "0.37", features = ["bundled"] }
+flate2 = "1.1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+
+[features]
+default = ["custom-protocol"]
+custom-protocol = ["tauri/custom-protocol"]
+
+[profile.release]
+strip = true
+lto = "thin"
+codegen-units = 1

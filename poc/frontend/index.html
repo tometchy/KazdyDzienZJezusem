@@ -32,6 +32,25 @@
   <p><a href="/">← Wróć do Biblii</a></p>
   <h1>Test wydajności wyszukiwarki</h1>
   <p class="sub">Prawdziwe Biblie i pisma z projektu • SQLite FTS5 uruchomiony <b>na Twoim urządzeniu</b>, wewnątrz przeglądarki. Serwer dostarcza tylko pliki.</p>
+  <section class="panel" id="tauri-panel" hidden>
+    <h2>Natywny benchmark na Pixelu 3a XL (postmarketOS / Alpine)</h2>
+    <p class="help">Jeden build Tauri 2, wszystkie dane w programie, bez serwera i bez internetu. Ten pomiar używa <b>natywnego SQLite FTS5</b>. Nie należy mylić go z SQLite WASM / SAH Pool w Chromium.</p>
+    <p id="tauri-warning" class="note" role="status">Sprawdzanie możliwości WebKitGTK…</p>
+    <details><summary>Diagnostyka WebView / OPFS</summary><pre id="tauri-diagnostics" style="white-space:pre-wrap;overflow-wrap:anywhere"></pre></details>
+    <div class="buttons">
+      <button id="tauri-start" disabled>Uruchom cały test Tauri: 1 zimny + 3 ciepłe</button>
+      <button id="tauri-legacy" class="secondary" disabled>Spróbuj oryginalnego testu A/B/C w WebKitGTK</button>
+    </div>
+    <p id="tauri-progress" class="status" role="status">Wczytywanie…</p>
+    <p id="tauri-metrics" class="help"></p>
+    <div class="scroll"><table><thead><tr><th>Przebieg</th><th>Gotowość bazy</th><th>SQL p50</th><th>Najwolniejsze p95</th><th>SQLite</th></tr></thead>
+      <tbody id="tauri-report-rows"></tbody></table></div>
+    <div class="buttons">
+      <button id="tauri-copy" class="secondary" disabled>Kopiuj zbiorczy JSON</button>
+      <button id="tauri-save" class="secondary" disabled>Zapisz zbiorczy JSON do Downloads</button>
+    </div>
+    <p class="help">Zapisuje jeden raport z pełnymi wynikami i możliwościami WebKitGTK. Wynik obejmuje lokalny import z zasobów programu, nie pobieranie HTTP.</p>
+  </section>
   <section class="panel">
     <h2>Pełny test jednym przyciskiem</h2>
     <p class="help">Automatycznie wykona wszystkie warianty A → B → C: <b>1 zimny i 3 ciepłe starty</b> dla każdego (razem 12 przebiegów, 10 zapytań × 20 powtórzeń na przebieg). Nie trzeba przełączać wariantów ani resetować baz ręcznie. Pozostaw kartę aktywną i ekran włączony.</p>

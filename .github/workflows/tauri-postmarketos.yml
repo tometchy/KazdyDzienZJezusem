@@ -1,0 +1,73 @@
+name: Tauri 2 postmarketOS ARM64 Alpine/musl
+
+on:
+  pull_request:
+    paths:
+      - "poc/**"
+      - ".github/workflows/tauri-postmarketos.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pixel-alpine-musl:
+    runs-on: ubuntu-24.04-arm
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Generate complete offline corpus and prebuilt SQLite
+        run: |
+          python3 -m unittest discover -s tests -p test_poc_sqlite.py -v
+          python3 poc/prepare.py --repo . --out poc/frontend/public
+          python3 poc/build_sqlite.py --out poc/frontend/public
+          rm poc/frontend/public/corpus-fts5.sqlite3
+      - name: Build the same Vite frontend with Tauri-relative asset paths
+        working-directory: poc/frontend
+        env:
+          KDZJ_TAURI: "1"
+        run: |
+          npm install --no-audit --no-fund
+          npm run test:urls
+          npm run build:tauri
+          npm run check:dist
+      - name: Compile native musl ELF on ARM64 in Alpine (not Ubuntu/glibc)
+        run: |
+          docker run --rm \
+            --platform linux/arm64 \
+            -v "$PWD:/work" \
+            -w /work \
+            alpine:3.24 sh -euc '
+              apk add --no-cache \
+                build-base pkgconf cargo rust curl ca-certificates \
+                webkit2gtk-4.1-dev openssl-dev \
+                libayatana-appindicator-dev librsvg-dev
+              echo "Toolchain: $(rustc -V), $(cargo -V)"
+              pkg-config --modversion webkit2gtk-4.1
+              cargo build --manifest-path poc/frontend/src-tauri/Cargo.toml --release
+              test -x poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark
+              poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark --self-test
+              file poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark
+              ldd poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark
+            '
+      - name: Package Pixel executable + installer
+        run: |
+          mkdir -p pixel-package
+          cp poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark pixel-package/
+          cp poc/tauri-pmos/install-pixel.sh pixel-package/
+          chmod +x pixel-package/install-pixel.sh pixel-package/kdzj-tauri-benchmark
+          tar -czf kdzj-tauri-postmarketos-aarch64-musl.tar.gz -C pixel-package .
+          file pixel-package/kdzj-tauri-benchmark
+          ls -lh kdzj-tauri-postmarketos-aarch64-musl.tar.gz
+      - uses: actions/upload-artifact@v4
+        with:
+          name: kdzj-tauri-postmarketos-aarch64-musl
+          path: kdzj-tauri-postmarketos-aarch64-musl.tar.gz
+          retention-days: 14
+          if-no-files-found: error

@@ -33,3 +33,19 @@ test('compiled worker fetches prebuilt database from /POC/, never /POC/assets/',
     'https://kazdydzienzjezusem.pl/POC/corpus-fts5.sqlite3.gz'
   );
 });
+
+test('Tauri bundled worker resolves database relative to origin root, not /assets/', () => {
+  assert.equal(
+    corpusAssetUrl('corpus-fts5.sqlite3.gz', './',
+      'http://tauri.localhost/assets/sqlite-worker-abc.js'),
+    'http://tauri.localhost/corpus-fts5.sqlite3.gz'
+  );
+});
+
+test('GitHub Pages project-base public assets work', () => {
+  assert.equal(
+    corpusAssetUrl('corpus.jsonl.gz', '/KazdyDzienZJezusem/POC/',
+      'https://tometchy.github.io/KazdyDzienZJezusem/POC/assets/worker.js'),
+    'https://tometchy.github.io/KazdyDzienZJezusem/POC/corpus.jsonl.gz'
+  );
+});

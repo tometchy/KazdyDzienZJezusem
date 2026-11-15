@@ -1,0 +1,10 @@
+{
+  "identifier": "main-capability",
+  "description": "Minimal core API for bundled benchmark window, no remote access",
+  "windows": [
+    "main"
+  ],
+  "permissions": [
+    "core:default"
+  ]
+}
