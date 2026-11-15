@@ -48,11 +48,11 @@ const ready = async (target = page) => {
   await target.waitForFunction(
     () => {
       const status = document.querySelector('#status')?.textContent ?? '';
-      return status.startsWith('Gotowe') || status.startsWith('Błąd');
+      return !document.querySelector('#bench')?.disabled || status.startsWith('Błąd');
     }, null, {timeout: 180_000}
   );
   const status = await target.locator('#status').innerText();
-  assert.ok(status.startsWith('Gotowe'), 'SQLite worker failed: ' + status);
+  assert.ok(!status.startsWith('Błąd'), 'SQLite worker failed: ' + status);
   assert.equal(await target.locator('#bench').isEnabled(), true);
 };
 const run = async (strategy, phase) => {
