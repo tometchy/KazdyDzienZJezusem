@@ -184,10 +184,30 @@ async fn native_benchmark(app: tauri::AppHandle, reset: bool) -> Result<Value, S
         .await.map_err(|error| error.to_string())?
 }
 
+#[tauri::command]
+fn save_report_json(app: tauri::AppHandle, contents: String) -> Result<String, String> {
+    if contents.len() > 2_000_000 {
+        return Err("Raport przekracza dopuszczalny rozmiar 2 MB".into());
+    }
+    let parsed: Value = serde_json::from_str(&contents).map_err(|e| e.to_string())?;
+    if parsed["kind"] != "tauri-postmarketos-native-sqlite" {
+        return Err("Niepoprawny typ raportu".into());
+    }
+    let directory = app.path().download_dir()
+        .or_else(|_| app.path().app_data_dir())
+        .map_err(|e| e.to_string())?;
+    fs::create_dir_all(&directory).map_err(|e| e.to_string())?;
+    let millis = SystemTime::now().duration_since(UNIX_EPOCH)
+        .map_err(|e| e.to_string())?.as_millis();
+    let output = directory.join(format!("kdzj-tauri-postmarketos-{millis}.json"));
+    fs::write(&output, contents).map_err(|e| e.to_string())?;
+    Ok(output.display().to_string())
+}
+
 pub fn run() {
     tauri::Builder::default()
         .manage(Mutex::new(()))
-        .invoke_handler(tauri::generate_handler![native_benchmark])
+        .invoke_handler(tauri::generate_handler![native_benchmark, save_report_json])
         .run(tauri::generate_context!())
         .expect("Nie udało się uruchomić aplikacji Tauri");
 }
