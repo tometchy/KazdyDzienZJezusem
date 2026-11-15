@@ -7,7 +7,6 @@ const DATABASES = Object.freeze({
   'prebuilt-opfs': '/kdj-prebuilt-opfs-v1.sqlite3',
   'prebuilt-sahpool': '/kdj-prebuilt-sahpool-v1.sqlite3'
 });
-export const STRATEGY_NAMES = Object.keys(DATABASES);
 const normalize = value => String(value ?? '').normalize('NFD').toLowerCase()
   .replaceAll('ς', 'σ').replaceAll('ł', 'l').replace(/\p{M}/gu, '');
 const normalizeQuery = query => query.replace(/[\p{L}\p{M}]+/gu, word =>
@@ -274,7 +273,7 @@ async function reset() {
       if (error.name !== 'NotFoundError') throw error;
     });
   }
-  // A new Worker is required to measure WASM boot again and reproduce cold start.
+  if (pool?.pauseVfs) pool.pauseVfs(); // Release SAH locks before restarting the Worker.
   return {strategy};
 }
 function benchmark(rounds = 20) {
@@ -309,6 +308,11 @@ self.onmessage = async ({ data: message }) => {
   try {
     if (message.cmd === 'init') postMessage({type: 'ready', meta: await init(message.strategy)});
     else if (message.cmd === 'reset') postMessage({type: 'reset', ...await reset()});
+    else if (message.cmd === 'close') {
+      db?.close(); db = null;
+      if (pool?.pauseVfs) pool.pauseVfs();
+      postMessage({type: 'closed'});
+    }
     else if (message.cmd === 'search') {
       const limited = top20(message.query), full = count(message.query);
       postMessage({type: 'search', ...limited, count: full.hits, countMs: full.ms});
