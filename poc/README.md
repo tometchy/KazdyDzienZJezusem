@@ -42,14 +42,39 @@ przeglądarek; do JSON trafia memory_bytes=null. navigator.storage.estimate()
 raportuje szacunkowe zużycie *całego originu*, a nie RAM ani rozmiar pojedynczej
 bazy. Z tego nie wolno wyprowadzać wniosków o maksymalnej pamięci Pixela.
 
-## Jak mierzyć
+## Jak mierzyć — jednym przyciskiem
 
-1. Otwórz /POC po przebudowie obrazu z tego PR.
-2. Wybierz A; kliknij Resetuj indeks, uruchom benchmark, skopiuj raport JSON.
-3. Kliknij Zamknij i otwórz ponownie (nowy Web Worker) i zmierz ponownie.
-4. Powtórz osobno dla B oraz C. Na każdym urządzeniu testuj oba starty.
-5. Wysyłaj raporty z Pixela, X13s i Z510. Sprawdź również liczbę trafień,
-   zwłaszcza source:Slownik AND gr:λόγος.
+1. Otwórz /POC po przebudowie obrazu; zaczekaj, aż zakończy się inicjalizacja
+   pojedynczego wariantu.
+2. Kliknij **Uruchom cały test A/B/C** i zostaw kartę aktywną. Na telefonie
+   pozostaw ekran włączony (przejście do tła może zakłócić pomiar).
+3. Po zakończeniu kliknij **Kopiuj jeden zbiorczy JSON** lub **Pobierz zbiorczy
+   JSON**. Prześlij jeden plik lub wklej jeden JSON, zamiast 12 raportów.
+
+Automatyczna sekwencja wykonuje po kolei A/B/C: dla każdego wariantu usuwa
+tylko jego lokalną bazę, uruchamia **nowy Worker** i mierzy jeden zimny start;
+następnie trzykrotnie zamyka bazę i uruchamia nowy Worker z zachowanym
+indeksem, mierząc trzy ciepłe starty. Każdy z 12 przebiegów obejmuje 10
+zapytań × 20 powtórzeń. Jedna paczka JSON v3 przechowuje komplet 12
+szczegółowych raportów v2, metadane urządzenia, mediana trzech ciepłych
+startów, czasy zimne, kontrolę jednakowych liczb trafień, liczbę wykonanych
+przebiegów i status. Zapis jest lokalny, w localStorage pod kluczem
+`kdj.search-poc.full-suite.v1`. Przerwany/błędny przebieg zachowuje
+raporty już wykonane. Starsze raporty v1/v2 pozostają dostępne.
+
+**Ważne:** zimny start oznacza brak lokalnej bazy, nie wyczyszczony cache
+HTTP, cache WASM ani świeży profil przeglądarki. Pomiary nie symulują
+pierwszego pobrania na zupełnie nowym urządzeniu. Nie zamykaj karty podczas
+sekwencji.
+
+Pojedyncze przyciski resetowania, benchmarkowania i ponownego otwarcia
+nadal działają niezależnie. Są przydatne do diagnostyki.
+
+### Ręczny test (opcjonalnie)
+
+1. Wybierz A; kliknij Resetuj indeks, uruchom benchmark.
+2. Kliknij Zamknij i otwórz ponownie (nowy Web Worker).
+3. Powtórz dla B i C; ten tryb zapisuje pojedyncze raporty v2.
 
 Reset uruchamia nowego Workera, dlatego obejmuje ponowne ładowanie SQLite
 WASM, ale zasoby HTTP i Service Worker/cache przeglądarki mogą pozostać
