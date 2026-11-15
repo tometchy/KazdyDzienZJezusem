@@ -204,6 +204,33 @@ fn save_report_json(app: tauri::AppHandle, contents: String) -> Result<String, S
     Ok(output.display().to_string())
 }
 
+/// Headless verification of the exact executable and its embedded corpus.
+pub fn self_test() -> Result<(), String> {
+    let manifest: Value = serde_json::from_str(MANIFEST).map_err(|e| e.to_string())?;
+    let directory = std::env::temp_dir().join(format!("kdzj-native-selftest-{}", std::process::id()));
+    fs::create_dir_all(&directory).map_err(|e| e.to_string())?;
+    let file = directory.join("snapshot.sqlite3");
+    let result = (|| {
+        let (_reused, decompress_ms, write_ms) = ensure_db(&file, &manifest)?;
+        let db = Connection::open(&file).map_err(|e| e.to_string())?;
+        let total: u64 = db.query_row("SELECT COUNT(*) FROM docs_fts", [], |row| row.get(0))
+            .map_err(|e| e.to_string())?;
+        if total != manifest["records"].as_u64().ok_or("Brak records")? {
+            return Err(format!("Nieprawidłowa liczba dokumentów: {total}"));
+        }
+        for (name, query) in QUERIES {
+            let (_time, hits) = query_count(&db, query)?;
+            if hits == 0 {
+                return Err(format!("Pusty wynik FTS5: {name} / {query}"));
+            }
+        }
+        println!("PASS native musl SQLite FTS5: {total} documents, 10 queries, gzip {decompress_ms} ms, disk {write_ms} ms");
+        Ok(())
+    })();
+    let _ = fs::remove_dir_all(directory);
+    result
+}
+
 pub fn run() {
     tauri::Builder::default()
         .manage(Mutex::new(()))
