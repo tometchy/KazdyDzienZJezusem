@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "vite build",
-    "test:urls": "node --test tests/asset-urls.test.mjs",
+    "test:urls": "node --test tests/*.test.mjs",
     "check:dist": "node tests/check-dist.mjs"
   },
   "dependencies": {
