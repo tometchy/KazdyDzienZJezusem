@@ -78,9 +78,9 @@ def records(repo):
                 record = json.loads(line)
                 if "form" in record:
                     key = record["form"]
-                    if key in primary_forms:
-                        raise ValueError(f"Duplicate interlinear form: {key}")
-                    primary_forms[key] = record["glosses"]
+                    # Alias rows may follow passages for the same spelling.
+                    # Combine their glosses; deduplication happens on export.
+                    primary_forms.setdefault(key, []).extend(record["glosses"])
                 elif "reference" in record:
                     greek = record.get("greek", [])
                     polish = record.get("polish", [])
