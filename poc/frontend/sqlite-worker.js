@@ -344,7 +344,7 @@ async function purge(selected) {
     sqlite3 ??= await sqlite3InitModule();
     pool ??= await sqlite3.installOpfsSAHPoolVfs({preserveOnInitFailure: true});
     if (pool.isPaused()) await pool.unpauseVfs();
-    pool.unlink(filename);
+    // SAH Pool logs an error for a missing virtual filename, even though a\n    // cold reset is expected to find no database. Avoid that noisy operation.\n    if (pool.getFileNames().includes(filename)) pool.unlink(filename);
   } else {
     const root = await navigator.storage.getDirectory();
     await root.removeEntry(filename.slice(1)).catch(error => {
@@ -359,7 +359,7 @@ async function reset() {
   if (strategy === 'prebuilt-sahpool') {
     if (!pool) throw Error('SAH Pool nie jest zainicjalizowany');
     if (pool.isPaused()) await pool.unpauseVfs();
-    pool.unlink(filename);
+    // SAH Pool logs an error for a missing virtual filename, even though a\n    // cold reset is expected to find no database. Avoid that noisy operation.\n    if (pool.getFileNames().includes(filename)) pool.unlink(filename);
   } else if (mode.startsWith('OPFS')) {
     const root = await navigator.storage.getDirectory();
     await root.removeEntry(filename.slice(1)).catch(error => {
