@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "KażdyDzieńZJezusem — Benchmark",
+  "version": "0.1.0",
+  "identifier": "pl.kazdydzienzjezusem.benchmark",
+  "build": {
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "KDZJ — SQLite FTS5 (Tauri / postmarketOS)",
+        "width": 420,
+        "height": 780,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": false
+  }
+}
