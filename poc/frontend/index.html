@@ -91,6 +91,11 @@
     <div class="scroll"><table><thead><tr><th>Zapytanie</th><th>Trafienia</th><th>20 wyników p50</th><th>20 wyników p95</th><th>Wszystkie p50</th><th>Wszystkie p95</th></tr></thead><tbody id="bench-rows"></tbody></table></div>
     <p class="help">Raporty zapisują się w localStorage i nie są wysyłane. Starsze raporty v1 pozostają dostępne. Powtarzane zapytania obejmują efekty cache.</p>
   </section>
+  <section class="panel">
+    <h2>Porównanie A / B / C na tym urządzeniu</h2>
+    <p class="help">Najświeższy raport zimny i ciepły każdego wariantu. Wartości czasu obejmują ładowanie SQLite WASM. Testy mają wspólny korpus i te same zapytania; pamięć podręczna może wpływać na wyniki.</p>
+    <div class="scroll"><table><thead><tr><th>Wariant</th><th>Zimny start</th><th>Ciepły start</th><th>Pobrane (zimny)</th><th>Budowa/import</th><th>p50 zimny</th><th>p50 ciepły</th></tr></thead><tbody id="comparison-rows"></tbody></table></div>
+  </section>
   <section class="panel"><h2>Wcześniejsze raporty na tym urządzeniu</h2><div class="history" id="history"></div></section>
   <footer>POC • Porównanie SQLite FTS5, nie gotowy język zapytań <code>mat:</code>. Normalizacja usuwa akcenty greckie, ale nie wykonuje lematyzacji ani wyszukiwania między przekładami.</footer>
 </main><script type="module" src="./main.js"></script></body></html>
