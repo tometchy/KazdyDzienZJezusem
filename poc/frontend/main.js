@@ -24,6 +24,43 @@ function history() {
   return [...safeHistory(STORAGE_KEY, 2), ...safeHistory(OLD_STORAGE_KEY, 1)]
     .sort((a, b) => b.created_at.localeCompare(a.created_at));
 }
+function renderComparison() {
+  const latest = new Map();
+  for (const report of safeHistory(STORAGE_KEY, 2)) {
+    const variant = report.meta?.strategy;
+    if (!variant) continue;
+    const phase = report.meta?.index_reused ? 'warm' : 'cold';
+    const key = variant + ':' + phase;
+    if (!latest.has(key)) latest.set(key, report);
+  }
+  const root = $('comparison-rows');
+  root.replaceChildren();
+  for (const [variant, name] of [
+    ['local-build', 'A · lokalne FTS5'],
+    ['prebuilt-opfs', 'B · gotowy OPFS'],
+    ['prebuilt-sahpool', 'C · gotowy SAH Pool']
+  ]) {
+    const cold = latest.get(variant + ':cold');
+    const warm = latest.get(variant + ':warm');
+    const tr = document.createElement('tr');
+    const fields = [
+      name,
+      cold ? fmt(cold.meta.total_ready_ms) : '—',
+      warm ? fmt(warm.meta.total_ready_ms) : '—',
+      cold ? mib(cold.meta.downloaded_bytes) : '—',
+      cold ? fmt(cold.meta.import_ms || cold.meta.index_build_ms) : '—',
+      cold ? fmt(cold.summary.typical_top20_p50_ms) : '—',
+      warm ? fmt(warm.summary.typical_top20_p50_ms) : '—'
+    ];
+    for (const value of fields) {
+      const td = document.createElement('td');
+      td.textContent = value;
+      tr.append(td);
+    }
+    root.append(tr);
+  }
+}
+
 function writeHistory(report) {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(
@@ -34,6 +71,7 @@ function writeHistory(report) {
 }
 function renderHistory() {
   $('history').replaceChildren();
+  renderComparison();
   const items = history();
   if (!items.length) { $('history').textContent = 'Brak zapisanych raportów.'; return; }
   for (const report of items) {
