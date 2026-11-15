@@ -261,6 +261,25 @@ async function init(selected) {
   };
   return meta;
 }
+/** Dedicated temporary Worker. Purge is intentionally outside timed startup; a fresh
+ * Worker is spawned afterwards so the cold test still includes WASM initialization. */
+async function purge(selected) {
+  if (!(selected in DATABASES)) throw Error('Nieznany wariant do usunięcia');
+  if (db) { db.close(); db = null; }
+  const filename = DATABASES[selected];
+  if (selected === 'prebuilt-sahpool') {
+    sqlite3 ??= await sqlite3InitModule();
+    pool ??= await sqlite3.installOpfsSAHPoolVfs();
+    try { pool.unlink(filename); }
+    finally { if (pool?.pauseVfs) pool.pauseVfs(); }
+  } else {
+    const root = await navigator.storage.getDirectory();
+    await root.removeEntry(filename.slice(1)).catch(error => {
+      if (error.name !== 'NotFoundError') throw error;
+    });
+  }
+  return {strategy: selected};
+}
 async function reset() {
   if (db) { db.close(); db = null; }
   const filename = DATABASES[strategy];
@@ -306,7 +325,8 @@ function benchmark(rounds = 20) {
 }
 self.onmessage = async ({ data: message }) => {
   try {
-    if (message.cmd === 'init') postMessage({type: 'ready', meta: await init(message.strategy)});
+    if (message.cmd === 'purge') postMessage({type: 'purged', ...await purge(message.strategy)});
+    else if (message.cmd === 'init') postMessage({type: 'ready', meta: await init(message.strategy)});
     else if (message.cmd === 'reset') postMessage({type: 'reset', ...await reset()});
     else if (message.cmd === 'close') {
       db?.close(); db = null;
