@@ -36,7 +36,9 @@ async function diagnostics() {
     details.opfs_usable = false;
   }
   details.sahpool_prerequisites = details.opfs_usable &&
-    details.sync_access_handle && details.web_locks && details.cross_origin_isolated;
+    details.sync_access_handle && details.web_locks;
+  details.standard_opfs_prerequisites =
+    details.sahpool_prerequisites && details.cross_origin_isolated;
   $('tauri-diagnostics').textContent = JSON.stringify(details, null, 2);
   $('tauri-warning').textContent = details.sahpool_prerequisites
     ? 'API potrzebne do testu SAH Pool wyglądają na dostępne; pełny test SQLite WASM wymaga jeszcze osobnego potwierdzenia.'
@@ -141,6 +143,9 @@ export async function initNativeBenchmark() {
   document.querySelector('h1').textContent = 'Tauri 2 / postmarketOS — benchmark SQLite';
   document.querySelector('main > p > a').hidden = true;
   $('tauri-start').onclick = run;
+  $('tauri-legacy').disabled = false;
+  $('tauri-legacy').onclick = () =>
+    window.dispatchEvent(new CustomEvent('kdzj:try-webkit-opfs'));
   $('tauri-copy').onclick = async () => {
     if (!report) return;
     try {
