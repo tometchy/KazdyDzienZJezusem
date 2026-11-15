@@ -63,5 +63,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: sqlite-opfs-chromium-benchmarks
-          path: poc/frontend/dist/poc-browser-smoke-results.json
+          path: |
+            poc/frontend/dist/poc-browser-smoke-results.json
+            poc/frontend/dist/poc-browser-full-suite-results.json
           if-no-files-found: ignore
