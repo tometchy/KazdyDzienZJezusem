@@ -55,7 +55,7 @@ jobs:
       - name: Browser smoke with real OPFS and SAH Pool
         working-directory: poc/frontend
         run: |
-          npm install --no-save --no-audit --no-fund playwright@1.55.1
+          npm install --no-save --no-audit --no-fund playwright@1.65.1
           npx playwright install --with-deps chromium
           node tests/browser-smoke.mjs
       - name: Save measured browser reports
