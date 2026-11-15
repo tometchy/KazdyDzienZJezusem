@@ -1,0 +1,53 @@
+name: SQLite WASM prebuilt POC
+
+on:
+  pull_request:
+    paths:
+      - "poc/**"
+      - "tests/test_poc_sqlite.py"
+      - "KazdyDzienZJezusem/Dockerfile"
+      - ".github/workflows/poc-sqlite.yml"
+  workflow_dispatch:
+
+jobs:
+  snapshot-and-frontend:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check SQLite FTS5 and unit regressions
+        run: |
+          python3 -c "import sqlite3; db=sqlite3.connect(':memory:'); db.execute('CREATE VIRTUAL TABLE t USING fts5(x)'); print(sqlite3.sqlite_version)"
+          python3 -m unittest discover -s tests -p test_poc_sqlite.py -v
+      - name: Build snapshot from actual checked-in corpus
+        run: |
+          python3 poc/prepare.py --repo . --out poc/frontend/public
+          python3 poc/build_sqlite.py --out poc/frontend/public
+          python3 - <<'PY'
+          import gzip, json, sqlite3
+          from pathlib import Path
+          root=Path('poc/frontend/public')
+          data=json.loads((root/'corpus-manifest.json').read_text())
+          assert data['records'] > 95000
+          assert data['sources']['Slownik'] > 2831, 'The primary dictionary forms must be included'
+          assert len(data['tnp_missing_vs_ubg']) == 19, data['tnp_missing_vs_ubg']
+          with sqlite3.connect(root/'corpus-fts5.sqlite3') as db:
+              assert db.execute('PRAGMA quick_check').fetchone()[0] == 'ok'
+              assert db.execute('SELECT COUNT(*) FROM docs_fts').fetchone()[0] == data['records']
+              assert db.execute('SELECT COUNT(*) FROM docs_fts WHERE docs_fts MATCH ?', ('source:slownik AND gr:λογοσ',)).fetchone()[0] > 0
+          print('Real corpus integrity check passed', data['sources'])
+          PY
+          rm poc/frontend/public/corpus-fts5.sqlite3
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Check URLs and compiled artifacts
+        working-directory: poc/frontend
+        run: |
+          npm install --no-audit --no-fund
+          npm run test:urls
+          npm run build
+          npm run check:dist
