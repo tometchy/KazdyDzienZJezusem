@@ -42,11 +42,17 @@ const origin = 'http://127.0.0.1:' + server.address().port;
 const browser = await chromium.launch({headless: true});
 const page = await browser.newPage({serviceWorkers: 'block'});
 const reports = [];
+page.on('pageerror', error => console.error('PAGE ERROR:', error.message));
+page.on('console', message => { if (message.type() === 'error') console.error('BROWSER ERROR:', message.text()); });
 const ready = async () => {
   await page.waitForFunction(
-    () => document.querySelector('#status')?.textContent?.startsWith('Gotowe'),
-    null, {timeout: 180_000}
+    () => {
+      const status = document.querySelector('#status')?.textContent ?? '';
+      return status.startsWith('Gotowe') || status.startsWith('Błąd');
+    }, null, {timeout: 180_000}
   );
+  const status = await page.locator('#status').innerText();
+  assert.ok(status.startsWith('Gotowe'), 'SQLite worker failed: ' + status);
   assert.equal(await page.locator('#bench').isEnabled(), true);
 };
 const run = async (strategy, phase) => {
