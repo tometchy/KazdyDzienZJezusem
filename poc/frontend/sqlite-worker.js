@@ -1,4 +1,7 @@
 import sqlite3InitModule from '@sqlite.org/sqlite-wasm';
+import { corpusAssetUrl } from './asset-urls.js';
+
+const dataUrl = filename => corpusAssetUrl(filename, import.meta.env.BASE_URL, self.location.href);
 
 let db;
 let mode = 'niewykryty';
@@ -43,7 +46,7 @@ function percent(values, fraction) {
   return Number(sorted[Math.min(sorted.length - 1, Math.ceil(fraction * sorted.length) - 1)].toFixed(3));
 }
 async function readCorpus() {
-  const response = await fetch('./corpus.jsonl.gz');
+  const response = await fetch(dataUrl('corpus.jsonl.gz'));
   if (!response.ok) throw Error('Nie udało się pobrać korpusu: HTTP ' + response.status);
   // Browsers may transparently decompress responses marked Content-Encoding:gzip.
   // Inspect actual first bytes rather than assuming the .gz URL means raw gzip.
@@ -118,8 +121,8 @@ async function init() {
   const started = performance.now();
   const sqlite3 = await sqlite3InitModule();
   const wasmBoot = Math.round(performance.now() - started);
-  const res = await fetch('./corpus-manifest.json', { cache: 'no-store' });
-  if (!res.ok) throw Error('Brak manifestu korpusu');
+  const res = await fetch(dataUrl('corpus-manifest.json'), { cache: 'no-store' });
+  if (!res.ok) throw Error('Brak manifestu korpusu (HTTP ' + res.status + '; ' + res.url + ')');
   manifest = await res.json();
   if (manifest.synthetic || manifest.records < 1) throw Error('Benchmark wymaga rzeczywistych danych');
 
