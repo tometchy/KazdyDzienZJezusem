@@ -203,6 +203,8 @@ function search() {
   worker.postMessage({cmd: 'search', query: $('query').value});
 }
 function handleWorkerMessage({data}) {
+  if (data.type === 'waiting')
+    setStatus('Oczekiwanie na dostęp do SQLite (inna karta może obecnie korzystać z indeksu)…');
   if (data.type === 'progress')
     setStatus('Indeksowanie: ' + data.count.toLocaleString('pl-PL') + ' rekordów…');
   if (data.type === 'error') {
@@ -216,7 +218,10 @@ function handleWorkerMessage({data}) {
     enable(true);
     search();
   }
-  if (data.type === 'search') renderSearch(data);
+  if (data.type === 'search') {
+    renderSearch(data);
+    setStatus('Gotowe — indeks dostępny również w innych kartach.');
+  }
   if (data.type === 'benchmark') {
     currentReport = data.report;
     renderReport(currentReport);
