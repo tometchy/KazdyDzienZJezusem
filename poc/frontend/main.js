@@ -340,4 +340,16 @@ $('download').onclick = () => {
 };
 renderHistory();
 restoreSuite();
-startWorker();
+if (Boolean(window.__TAURI_INTERNALS__)) {
+  // Native WebKitGTK does not necessarily support OPFS: don't start a Worker
+  // which would immediately fail. The same HTML/JS frontend has a native FTS5 path.
+  enable(false);
+  setStatus('Aplikacja Tauri — wybierz natywny benchmark SQLite.');
+  import('./tauri-benchmark.js').then(module => module.initNativeBenchmark())
+    .catch(error => {
+      $('tauri-panel').hidden = false;
+      $('tauri-progress').textContent = 'Błąd ładowania modułu Tauri: ' + String(error);
+    });
+} else {
+  startWorker();
+}
