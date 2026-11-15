@@ -36,6 +36,7 @@
     <h2>Pełny test jednym przyciskiem</h2>
     <p class="help">Automatycznie wykona wszystkie warianty A → B → C: <b>1 zimny i 3 ciepłe starty</b> dla każdego (razem 12 przebiegów, 10 zapytań × 20 powtórzeń na przebieg). Nie trzeba przełączać wariantów ani resetować baz ręcznie. Pozostaw kartę aktywną i ekran włączony.</p>
     <p class="help">Zimny start oznacza usunięcie tylko lokalnego indeksu danego wariantu; pamięć podręczna HTTP nie jest czyszczona. Inne dane i dotychczasowe raporty pozostaną nietknięte.</p>
+    <p class="help">Wiele kart: dostęp do wspólnego indeksu jest kolejkowany. Gdy jedna karta importuje lub testuje SQLite, inne mogą chwilowo czekać. Po każdej operacji uchwyty bazy są zwalniane.</p>
     <div class="buttons">
       <button id="run-all" disabled>Uruchom cały test A/B/C</button>
       <button id="cancel-all" class="secondary" disabled>Przerwij</button>

@@ -86,6 +86,39 @@ p50/p95 **obejmuje cache** i nie zastępuje testu zmiennych zapytań.
 Raporty v2 są zapisywane pod nowym kluczem localStorage; raporty v1 pod
 kdj.search-poc.reports.v1 są tylko odczytywane, nie zmieniane ani kasowane.
 
+## Wiele kart — współdzielenie jednej bazy
+
+Od tej zmiany POC używa origin-wide `navigator.locks` (Web Locks API).
+Każdy Worker musi uzyskać wyłączną blokadę przed inicjalizacją OPFS,
+importowaniem, otwarciem, zapytaniem, testem, usunięciem indeksu i uruchomieniem
+SAH Pool. Po każdej operacji Worker zamyka uchwyt SQLite i wywołuje
+`pool.pauseVfs()`, zwalniając wszystkie SyncAccessHandles — **sam
+`db.close()` nie wystarcza w SAH Pool**. Przy kolejnym zapytaniu
+`pool.unpauseVfs()` odzyskuje uchwyty pod tą samą blokadą. Aktywna karta
+może chwilowo blokować inne karty podczas importowania/indeksowania; zamiast
+błędu są one kolejkowane. W razie zamknięcia/awarii karty blokada Web Locks
+jest zwalniana przez przeglądarkę.
+
+Każda karta zachowuje własny stan UI i niezależnego Workera. Baza jest wspólna
+dla kart **tego samego originu i profilu przeglądarki**, bez kopiowania
+32-MiB pliku między kartami. Gdy jedna karta resetuje indeks, druga odzyskuje
+dostęp i może odbudować brakujący indeks przy kolejnym zapytaniu.
+
+Caveaty: wszystkie karty muszą korzystać z nowej wersji kodu (odśwież stare
+karty po wdrożeniu); starsza karta, która nie zwalnia SAH Pool, wciąż może
+blokować nowe. Web Locks są wymagane — w nieobsługiwanej przeglądarce
+aplikacja pokazuje błąd zamiast ryzykować współbieżną modyfikację SQLite.
+To jest POC mechanizmu kolejkowania; przed wdrożeniem pełnej aplikacji należy
+osobno sprawdzić zachowanie przy zawieszeniu karty, przerwaniach i
+wybudzaniu urządzenia. Połączenia w POC są krótkotrwałe, więc ponowne
+otwarcie pliku może powiększyć czas obsługi operacji w stosunku do
+poprzedniego testu. Raporty wcześniejszych wersji należy odróżniać od nowych.
+
+Komunikaty `OPFS xOpen NotFoundError` przy zimnym starcie na starym POC
+mogą pochodzić z próby otworzenia nieistniejącego pliku. Nowy kod sprawdza
+jego istnienie przed otwarciem i nie generuje tej próby dla brakującej bazy.
+Błąd podczas już istniejącego indeksu nadal wymaga diagnostyki.
+
 ## Kontrole poprawności danych
 
 Manifest podaje liczby dokumentów per źródło, liczbę ksiąg i listę

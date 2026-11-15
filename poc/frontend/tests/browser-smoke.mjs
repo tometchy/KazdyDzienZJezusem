@@ -40,20 +40,21 @@ await new Promise((resolveListen, reject) => {
 });
 const origin = 'http://127.0.0.1:' + server.address().port;
 const browser = await chromium.launch({headless: true});
-const page = await browser.newPage({serviceWorkers: 'block'});
+const context = await browser.newContext({serviceWorkers: 'block'});
+const page = await context.newPage();
 const reports = [];
 page.on('pageerror', error => console.error('PAGE ERROR:', error.message));
 page.on('console', message => { if (message.type() === 'error') console.error('BROWSER ERROR:', message.text()); });
-const ready = async () => {
-  await page.waitForFunction(
+const ready = async (target = page) => {
+  await target.waitForFunction(
     () => {
       const status = document.querySelector('#status')?.textContent ?? '';
-      return status.startsWith('Gotowe') || status.startsWith('Błąd');
+      return !document.querySelector('#bench')?.disabled || status.startsWith('Błąd');
     }, null, {timeout: 180_000}
   );
-  const status = await page.locator('#status').innerText();
-  assert.ok(status.startsWith('Gotowe'), 'SQLite worker failed: ' + status);
-  assert.equal(await page.locator('#bench').isEnabled(), true);
+  const status = await target.locator('#status').innerText();
+  assert.ok(!status.startsWith('Błąd'), 'SQLite worker failed: ' + status);
+  assert.equal(await target.locator('#bench').isEnabled(), true);
 };
 const run = async (strategy, phase) => {
   await ready();
@@ -163,6 +164,40 @@ try {
   }
   assert.equal(await page.locator('#suite-copy').isEnabled(), true);
   assert.equal(await page.locator('#suite-download').isEnabled(), true);
+  // Two browser tabs share ONE origin-wide SQLite database and must never
+  // leave an exclusive SAH Pool open in the inactive tab.
+  const second = await page.context().newPage();
+  second.on('pageerror', error => console.error('SECOND PAGE ERROR:', error.message));
+  try {
+    await page.locator('#strategy').selectOption('prebuilt-sahpool');
+    await ready();
+    await second.goto(origin + '/POC/', {waitUntil: 'domcontentloaded'});
+    await ready(second);
+    await second.locator('#strategy').selectOption('prebuilt-sahpool');
+    await ready(second);
+    const searchIn = async tab => {
+      await tab.locator('#query').fill('source:Slownik AND gr:λόγος');
+      await tab.evaluate(() => { document.querySelector('#search-stats').textContent = ''; });
+      await tab.locator('#search').click();
+      await tab.waitForFunction(() =>
+        document.querySelector('#search-stats')?.textContent?.includes('trafień'),
+        null, {timeout: 60000});
+      const hits = await tab.locator('#search-stats').innerText();
+      assert.ok(!hits.startsWith('0 trafień'), 'Cannot query from second tab: ' + hits);
+    };
+    // Simultaneous queries, not sequential opens: each tab must obtain access
+    // and return hits instead of failing due to a locked SAH pool.
+    await Promise.all([searchIn(page), searchIn(second)]);
+    // Reset/import in one tab while the other stays open must not lock it out.
+    page.once('dialog', dialog => dialog.accept());
+    await page.locator('#reset').click();
+    await ready();
+    await searchIn(second);
+    await searchIn(page);
+    console.log('PASS multi-tab SAH Pool: 2 tabs, concurrent search, reset and reopen');
+  } finally {
+    await second.close();
+  }
   await writeFile(resolve(root, 'poc-browser-full-suite-results.json'),
     JSON.stringify(suite, null, 2));
   console.log('PASS single-button full suite: 12 cold/warm Chromium runs');
@@ -170,7 +205,7 @@ try {
     JSON.stringify(reports, null, 2));
   console.log('PASS browser OPFS comparison on Chromium,', reports.length, 'reports');
 } finally {
-  await page.close();
+  await context.close();
   await browser.close();
   await new Promise(resolveClose => server.close(resolveClose));
 }
