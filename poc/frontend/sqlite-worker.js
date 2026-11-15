@@ -1,5 +1,6 @@
 import sqlite3InitModule from '@sqlite.org/sqlite-wasm';
 import { corpusAssetUrl } from './asset-urls.js';
+import { unlinkSahIfPresent } from './sahpool-utils.js';
 
 const asset = name => corpusAssetUrl(name, import.meta.env.BASE_URL, self.location.href);
 const DATABASES = Object.freeze({
@@ -344,7 +345,7 @@ async function purge(selected) {
     sqlite3 ??= await sqlite3InitModule();
     pool ??= await sqlite3.installOpfsSAHPoolVfs({preserveOnInitFailure: true});
     if (pool.isPaused()) await pool.unpauseVfs();
-    pool.unlink(filename);
+    unlinkSahIfPresent(pool, filename);
   } else {
     const root = await navigator.storage.getDirectory();
     await root.removeEntry(filename.slice(1)).catch(error => {
@@ -359,7 +360,7 @@ async function reset() {
   if (strategy === 'prebuilt-sahpool') {
     if (!pool) throw Error('SAH Pool nie jest zainicjalizowany');
     if (pool.isPaused()) await pool.unpauseVfs();
-    pool.unlink(filename);
+    unlinkSahIfPresent(pool, filename);
   } else if (mode.startsWith('OPFS')) {
     const root = await navigator.storage.getDirectory();
     await root.removeEntry(filename.slice(1)).catch(error => {
