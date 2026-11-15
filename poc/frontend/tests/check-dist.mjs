@@ -33,5 +33,13 @@ const javascript = readdirSync(assetDir)
 assert.ok(javascript.includes('corpus-manifest.json'), 'Manifest URL must be included in built worker');
 assert.ok(javascript.includes('corpus.jsonl.gz'), 'Corpus URL must be included in built worker');
 assert.ok(javascript.includes('corpus-fts5.sqlite3.gz'), 'Prebuilt SQLite URL must be bundled');
-assert.ok(javascript.includes('/POC/'), 'Compiled bundle must use the /POC/ base');
+if (process.env.KDZJ_TAURI === '1') {
+  assert.ok(!readFileSync(join(output, 'index.html'), 'utf8').includes('src="/POC/'),
+    'Tauri entrypoint must use relative asset URLs');
+  assert.ok(javascript.includes('corpus-fts5.sqlite3.gz'),
+    'Tauri must bundle offline SQLite');
+} else {
+  assert.ok(javascript.includes(process.env.KDZJ_PAGES_BASE || '/POC/'),
+    'Compiled bundle must use its configured web base');
+}
 console.log('POC build verified:', manifest.records, 'real records, gzip + Vite worker assets');
