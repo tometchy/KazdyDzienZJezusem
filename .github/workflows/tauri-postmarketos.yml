@@ -52,6 +52,7 @@ jobs:
               pkg-config --modversion webkit2gtk-4.1
               cargo build --manifest-path poc/frontend/src-tauri/Cargo.toml --release
               test -x poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark
+              poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark --self-test
               file poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark
               ldd poc/frontend/src-tauri/target/release/kdzj-tauri-benchmark
             '
