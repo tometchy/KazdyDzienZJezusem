@@ -1,0 +1,64 @@
+name: Publish static POC to GitHub Pages (no backend)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages-poc
+  cancel-in-progress: false
+
+jobs:
+  build-static:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Prepare static-only SQLite dataset
+        run: |
+          python3 poc/prepare.py --repo . --out poc/frontend/public
+          python3 poc/build_sqlite.py --out poc/frontend/public
+          rm poc/frontend/public/corpus-fts5.sqlite3
+      - name: Compile same frontend for repository GitHub Pages path
+        working-directory: poc/frontend
+        env:
+          KDZJ_PAGES_BASE: /KazdyDzienZJezusem/POC/
+        run: |
+          npm install --no-audit --no-fund
+          npm run test:urls
+          npm run build
+          npm run check:dist
+      - name: Assemble GitHub Pages output (no ASP.NET, no Redis)
+        run: |
+          mkdir -p site/POC
+          cp -a poc/frontend/dist/. site/POC/
+          touch site/.nojekyll
+          cat > site/index.html <<'HTML'
+          <!doctype html><html lang="pl"><meta charset="utf-8">
+          <meta http-equiv="refresh" content="0;url=POC/">
+          <title>KażdyDzieńZJezusem — POC</title>
+          <p><a href="POC/">Otwórz statyczne POC</a></p></html>
+          HTML
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build-static
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
