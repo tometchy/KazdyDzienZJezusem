@@ -6,7 +6,7 @@ namespace KazdyDzienZJezusem.Controllers;
 
 [ApiController]
 [Route("api/greek-interlinear")]
-public sealed class GreekInterlinearController(GreekInterlinearService translator) : ControllerBase
+public sealed class GreekInterlinearController(GreekInterlinearService translator, GreekMorphologyService morphology) : ControllerBase
 {
     [HttpPost]
     [EnableRateLimiting("greek-interlinear")]
