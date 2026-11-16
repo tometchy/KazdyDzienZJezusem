@@ -1,12 +1,13 @@
 /** Native Tauri/pMOS benchmark on the SAME frontend as the website POC.
  * WebKitGTK's OPFS support is checked, never inferred from Chromium results. */
 import {invoke} from '@tauri-apps/api/core';
+import {nativeMetricsText} from './native-report.js';
 
 const $ = id => document.getElementById(id);
 const STORAGE_KEY = 'kdj.search-poc.tauri-native.v1';
 let report = null;
 let running = false;
-const fmt = n => Number.isFinite(Number(n))
+const fmt = n => n != null && Number.isFinite(Number(n))
   ? Number(n).toLocaleString('pl-PL', {maximumFractionDigits: 3}) + ' ms' : '—';
 const median = items => {
   if (!items.length) return null;
@@ -64,10 +65,8 @@ function render() {
     }
     $('tauri-report-rows').append(tr);
   }
-  const summary = report.summary;
-  $('tauri-metrics').textContent = 'Zimny start: ' + fmt(summary.cold_ready_ms) +
-    ' · Mediana 3 ciepłych: ' + fmt(summary.warm_ready_p50_ms) +
-    ' · SQL p50 ciepły: ' + fmt(summary.warm_search_p50_ms);
+  // render() runs after every individual run; summary is created only on 4/4.
+  $('tauri-metrics').textContent = nativeMetricsText(report, fmt);
   $('tauri-copy').disabled = $('tauri-save').disabled = running;
 }
 
@@ -143,7 +142,6 @@ export async function initNativeBenchmark() {
   document.querySelector('h1').textContent = 'Tauri 2 / postmarketOS — benchmark SQLite';
   document.querySelector('main > p > a').hidden = true;
   $('tauri-start').onclick = run;
-  $('tauri-legacy').disabled = false;
   $('tauri-legacy').onclick = () =>
     window.dispatchEvent(new CustomEvent('kdzj:try-webkit-opfs'));
   $('tauri-copy').onclick = async () => {
@@ -168,6 +166,13 @@ export async function initNativeBenchmark() {
     const previous=JSON.parse(localStorage.getItem(STORAGE_KEY)??'null');
     if (previous?.version===4){report=previous;render();}
   } catch { /* previous unavailable */ }
-  await diagnostics();
+  const capabilities = await diagnostics();
+  // The original A/B/C test relies on OPFS; avoid launching a guaranteed
+  // failure in WebKitGTK on the Pixel 3a XL, but keep the option for other WebViews.
+  $('tauri-legacy').disabled = !capabilities.sahpool_prerequisites;
+  if (!capabilities.sahpool_prerequisites) {
+    $('tauri-legacy').textContent = 'Test A/B/C niedostępny — brak OPFS w WebKitGTK';
+    $('tauri-legacy').title = 'Natywne SQLite FTS5 działa i nie wymaga OPFS';
+  }
   $('tauri-start').disabled=false;
 }
