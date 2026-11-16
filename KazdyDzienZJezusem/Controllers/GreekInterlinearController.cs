@@ -1,12 +1,13 @@
 using KazdyDzienZJezusem.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.RateLimiting;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace KazdyDzienZJezusem.Controllers;
 
 [ApiController]
 [Route("api/greek-interlinear")]
-public sealed class GreekInterlinearController(GreekInterlinearService translator, GreekMorphologyService morphology) : ControllerBase
+public sealed class GreekInterlinearController(GreekInterlinearService translator, IServiceProvider services) : ControllerBase
 {
     [HttpPost]
     [EnableRateLimiting("greek-interlinear")]
@@ -17,7 +18,7 @@ public sealed class GreekInterlinearController(GreekInterlinearService translato
         {
             var result = await translator.TranslateAsync(request.Text ?? "", request.Context ?? request.Text ?? "", cancellationToken, request.Reference);
             if (!request.Morphology) return Ok(result);
-            var analysis = await morphology.AnalyzeAsync(request.Text ?? "", request.Reference, cancellationToken);
+            var analysis = await services.GetRequiredService<GreekMorphologyService>().AnalyzeAsync(request.Text ?? "", request.Reference, cancellationToken);
             return Ok(new { result.Words, Morphology = analysis.Words });
         }
         catch (ArgumentException exception) { return BadRequest(new { error = exception.Message }); }
