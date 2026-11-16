@@ -439,3 +439,35 @@ a.navbar-brand {
 .greek-interlinear-word [data-greek-layer="pronunciation"] {
   font-style: italic;
 }
+
+
+/* Greek morphology: independent layer and accessible controls. */
+.greek-help-button {
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin-inline-start: .25rem;
+  border: 1px solid #778496;
+  border-radius: 50%;
+  background: transparent;
+  color: #364e66;
+  font: 650 .72rem/1 system-ui, sans-serif;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.greek-help-button:hover,
+.greek-help-button:focus-visible { color: #fff; background: #315a46; border-color: #315a46; }
+.greek-interlinear-word[role="button"] { cursor: pointer; }
+.greek-interlinear-word[role="button"]:hover .greek-source-word { text-decoration: underline dotted; }
+.greek-interlinear-word[role="button"]:focus-visible {
+  outline: 2px solid #315a46;
+  outline-offset: 3px;
+  border-radius: .2rem;
+}
+.greek-interlinear-word [data-greek-layer="morphology"] { color: #315a46; font-weight: 650; }
+.greek-interlinear-word [data-greek-morphology-status="variants"] { text-decoration: underline dotted; }
+.greek-interlinear-word [data-greek-morphology-status="missing"],
+.greek-interlinear-word [data-greek-morphology-status="unavailable"] { color: #875b28; }
