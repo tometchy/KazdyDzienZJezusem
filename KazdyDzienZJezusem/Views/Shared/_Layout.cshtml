@@ -38,28 +38,38 @@
                 </div>
             </div>
         </nav>
-        <div class="container greek-reading-controls" lang="en">
+        <div class="container greek-reading-controls" lang="pl">
             <div class="greek-reading-options">
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" role="switch" id="greek-polish-toggle"
                        aria-label="Polish above Greek words" aria-describedby="greek-polish-status" />
-                <label class="form-check-label" for="greek-polish-toggle">Polish</label>
+                <label class="form-check-label" for="greek-polish-toggle" lang="en">Polish</label>
+                <button class="greek-help-button" type="button" data-greek-help="polish" aria-label="Pomoc: polskie tłumaczenie kontekstowe">?</button>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="greek-morphology-toggle"
+                       aria-label="Polski tryb Strong i gramatyka" aria-describedby="greek-polish-status" />
+                <label class="form-check-label" for="greek-morphology-toggle">Polski: Strong + gramatyka</label>
+                <button class="greek-help-button" type="button" data-greek-help="morphology" aria-label="Pomoc: tryb Strong i gramatyka">?</button>
             </div>
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" role="switch" id="greek-english-toggle"
                        aria-label="English above Greek words" aria-describedby="greek-polish-status" />
                 <label class="form-check-label" for="greek-english-toggle">English</label>
+                <button class="greek-help-button" type="button" data-greek-help="english" aria-label="Pomoc: angielskie znaczenia">?</button>
             </div>
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" role="switch" id="greek-grammar-toggle"
                        aria-label="Grammar above Greek words" aria-describedby="greek-polish-status" />
                 <label class="form-check-label" for="greek-grammar-toggle">Grammar code</label>
+                <button class="greek-help-button" type="button" data-greek-help="grammar" aria-label="Pomoc: kody gramatyczne">?</button>
             </div>
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" role="switch" id="greek-pronunciation-toggle"
                        aria-label="Pronunciation above Greek words" aria-describedby="greek-polish-status"
                        title="Approximate Polish Erasmian classroom reading; stress and vowel length are omitted." />
                 <label class="form-check-label" for="greek-pronunciation-toggle">Pronunciation</label>
+                <button class="greek-help-button" type="button" data-greek-help="pronunciation" aria-label="Pomoc: wymowa grecka">?</button>
             </div>
             </div>
             <p id="greek-polish-status" class="small text-secondary mb-0" aria-live="polite"></p>
@@ -91,6 +101,29 @@
         </main>
     </div>
 
+    <div class="modal fade" id="greek-help-modal" tabindex="-1" aria-labelledby="greek-help-title" aria-hidden="true" lang="pl">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title h5" id="greek-help-title"></h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Zamknij"></button>
+                </div>
+                <div class="modal-body" id="greek-help-body"></div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="greek-word-modal" tabindex="-1" aria-labelledby="greek-word-title" aria-hidden="true" lang="pl">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title h5" id="greek-word-title"></h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Zamknij"></button>
+                </div>
+                <div class="modal-body" id="greek-word-body"></div>
+            </div>
+        </div>
+    </div>
+
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2026 - KazdyDzienZJezusem
@@ -99,6 +132,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/greek-grammar.js" asp-append-version="true"></script>
     <script src="~/js/greek-interlinear.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

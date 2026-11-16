@@ -147,3 +147,28 @@ test('offline supplements label dictionary meanings in patristic Greek without s
   await expect(page).toHaveScreenshot('greek-fathers-supplement.png', { fullPage: true });
   healthy();
 });
+
+
+test('Strong morphology switch is independent, explains codes in Polish and opens word/help modals', async ({ page }) => {
+  const healthy = await openProductionPage(page, '/Biblia/TR/1Tes/4');
+  const newMode = page.getByRole('switch', { name: 'Polski tryb Strong i gramatyka' });
+  const oldMode = page.getByRole('switch', { name: 'Polish above Greek words' });
+  await newMode.check();
+  const word = page.locator('.bible-verse[data-tag-fragment="1Tes4,16"] ruby[data-greek-original="σάλπιγγι"]');
+  await expect(word.locator('[data-greek-layer="morphology"]')).toBeVisible();
+  await expect(word).toHaveAttribute('title', /celownik/);
+  await word.click();
+  await expect(page.locator('#greek-word-modal')).toBeVisible();
+  await expect(page.locator('#greek-word-body')).toContainText('G4536');
+  await expect(page.locator('#greek-word-body')).toContainText('N-DSF');
+  await page.locator('#greek-word-modal .btn-close').click();
+  await page.getByRole('button', { name: 'Pomoc: tryb Strong i gramatyka' }).click();
+  await expect(page.locator('#greek-help-modal')).toBeVisible();
+  await expect(page.locator('#greek-help-body')).toContainText('polskiej fleksji');
+  await page.locator('#greek-help-modal .btn-close').click();
+  await newMode.uncheck();
+  await oldMode.check();
+  await expect(word.locator('[data-greek-layer="morphology"]')).toHaveCount(0);
+  await expect(page.locator('.bible-verse[data-tag-fragment="1Tes4,16"] [data-greek-layer="polish"]').first()).toBeVisible();
+  healthy();
+});

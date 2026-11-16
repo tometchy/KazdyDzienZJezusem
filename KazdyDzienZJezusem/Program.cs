@@ -38,6 +38,9 @@ builder.Services.AddSingleton(provider => new GreekDictionaryRepository(
 builder.Services.AddSingleton<IGreekDictionaryReader>(provider => provider.GetRequiredService<GreekDictionaryRepository>());
 builder.Services.AddHostedService(provider => provider.GetRequiredService<GreekDictionaryRepository>());
 builder.Services.AddSingleton<GreekInterlinearService>();
+builder.Services.AddSingleton(_ => GreekStrongIndex.Read(
+    Path.Combine(AppContext.BaseDirectory, "GreekStrong", "gnt.flat.json")));
+builder.Services.AddSingleton<GreekMorphologyService>();
 builder.Services.AddOptions<TagEditingOptions>().BindConfiguration("TagEditing")
     .Validate(options => Regex.IsMatch(options.Repository, @"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
         && Regex.IsMatch(options.Branch, @"^[A-Za-z0-9][A-Za-z0-9/_-]*$")

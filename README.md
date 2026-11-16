@@ -299,8 +299,8 @@ string htmlResult = Markdown.ToHtml(markdownText, pipeline);
 Używaj kodu z rozwagą.For tips on how to get the markdown conversion and rendering setup just right:14:34Markdown to HTML with C# .NETWyświetlenia: 1,8 tys. · 2 lata temuYouTube · Keep it simple, stupid.Jeśli chcesz, abym pomógł Ci dalej, napisz:Czy wczytujesz Markdown z pliku, czy z bazy danych?Czy potrzebujesz dodatkowych funkcji, takich jak czyszczenie kodu HTML (sanitization) ze względów bezpieczeństwa?
 # Greek interlinear reading
 
-Four independent switches are available on every page: Polish, English, grammar
-code, and pronunciation. Each remembers its own preference and annotates visible
+Five independent switches are available on every page: contextual Polish,
+Strong + morphology Polish, English, grammar code, and pronunciation. Each remembers its own preference and annotates visible
 Greek text, including Bible translations, patristic texts, comparison cards, and
 tagged passages. With all options enabled, the top-to-bottom order is grammar
 code, English, Polish, pronunciation, then the original Greek word. Switching
@@ -344,6 +344,45 @@ they are not presented as inflected translations. Polish dictionary lemmas are
 not substituted for inflected Polish: only confirmed uninflected parts of speech
 can supplement that layer. See the [data provenance and limitations](input/GreekPolish/README.md).
 
+
+### Strong + morphology reading mode
+
+The **Polski: Strong + gramatyka** switch adds a separate layer; the original
+contextual **Polish** switch remains unchanged and may be used simultaneously.
+Every switch has a clickable **?** explanation. Hovering/focusing a Greek word
+or its grammar code explains Ross/GNT morphology in Polish (N-GSM: noun,
+genitive, singular, masculine; N-DSF: noun, dative, singular, feminine).
+Clicking or pressing Enter/Space on any annotated Greek word opens a Bootstrap
+dialog showing its exact form, Strong number, TR lemma, expanded grammar, the
+morphological gloss and its other attested alternatives, plus the original
+contextual gloss.
+
+The new layer is deliberately conservative:
+
+- It reads the Strong number **and** morphology from the existing
+  TR verse annotation in input-raw/gnt.flat.json (copied into the app as
+  GreekStrong/gnt.flat.json at build/publish time). No runtime downloads.
+- It aligns Greek words to the exact TR verse. An unreliable or absent match
+  displays **?** instead of inventing a Strong identity. Other Greek works
+  do not inherit Strong identities from the spelling alone.
+- For each Strong/morphology pair it finds attested spellings in GNT, excludes
+  ambiguous homographs, then looks up Polish glosses from the existing corpus
+  only when the grammatical code also matches. A deterministic first
+  candidate is shown; other candidates are available in the word modal.
+  It never turns an English lemma definition into a Polish inflected form.
+- **Important limitation:** the morphology code is Greek. This mode does not
+  validate or generate *Polish* declension and does not analyze syntax. A Greek
+  dative may correspond to a Polish dative, instrumental, or another
+  construction. In 1 Tes 4:16, N-DSF alone does not decide whether to translate
+  z trąbą or na trąbę. A corpus gloss is evidence, not a guaranteed literal
+  translation.
+
+The existing POST /api/greek-interlinear response is unchanged when morphology
+is omitted or false. When enabled, it adds an aligned morphology array alongside
+the existing words. The UI inserts the corpus text using textContent.
+
+Tests: dotnet test plus ProductionVisualTests; the added browser test checks
+1Tes4,16, Polish grammar tooltips, the help dialog, and the word modal.
 
 ## POC wyszukiwarki SQLite WASM
 
