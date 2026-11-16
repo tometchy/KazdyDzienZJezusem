@@ -54,7 +54,7 @@ public sealed class GreekStrongIndex
                     ? lemmaValue.ToString() : "";
                 var definition = item.TryGetProperty("definition", out var definitionValue)
                     ? definitionValue.ToString() : null;
-                if (definition?.Length > 240) definition = string.Concat(definition.AsSpan(0, 240), "…");
+                if (definition?.Length > 240) definition = definition[..240] + "…";
                 var token = new GreekStrongToken(greek, strong, grammar, lemma, definition);
                 tokens.Add(token);
                 if (strong.Length == 0 || grammar.Length == 0) continue;
