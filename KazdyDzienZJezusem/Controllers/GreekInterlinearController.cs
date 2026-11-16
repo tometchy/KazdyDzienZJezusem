@@ -15,7 +15,10 @@ public sealed class GreekInterlinearController(GreekInterlinearService translato
     {
         try
         {
-            return Ok(await translator.TranslateAsync(request.Text ?? "", request.Context ?? request.Text ?? "", cancellationToken, request.Reference));
+            var result = await translator.TranslateAsync(request.Text ?? "", request.Context ?? request.Text ?? "", cancellationToken, request.Reference);
+            if (!request.Morphology) return Ok(result);
+            var analysis = await morphology.AnalyzeAsync(request.Text ?? "", request.Reference, cancellationToken);
+            return Ok(new { result.Words, Morphology = analysis.Words });
         }
         catch (ArgumentException exception) { return BadRequest(new { error = exception.Message }); }
         catch (InvalidOperationException exception) { return StatusCode(503, new { error = exception.Message }); }
