@@ -25,4 +25,4 @@ public sealed class GreekInterlinearController(GreekInterlinearService translato
     }
 }
 
-public sealed record GreekInterlinearRequest(string? Text, string? Context, string? Reference = null);
+public sealed record GreekInterlinearRequest(string? Text, string? Context, string? Reference = null, bool Morphology = false);
