@@ -25,6 +25,7 @@ RUN dotnet restore KazdyDzienZJezusem/KazdyDzienZJezusem.csproj
 
 COPY KazdyDzienZJezusem/ KazdyDzienZJezusem/
 COPY input/ input/
+COPY input-raw/gnt.flat.json input-raw/gnt.flat.json
 COPY tags/ tags/
 RUN dotnet publish KazdyDzienZJezusem/KazdyDzienZJezusem.csproj -c Release -o /out --no-restore
 
