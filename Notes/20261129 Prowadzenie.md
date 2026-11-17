@@ -1,6 +1,10 @@
 # Psalm 23
 
-# Opowiesc o powodI
+# Opowiesc o powodzi
+
+• J 10, 3–5 (Przypowieść o owczarni). „Temu otwiera odźwierny, a owce słuchają jego głosu; woła on swoje owce po imieniu i wyprowadza je. A kiedy wszystkie wyprowadzi, staje na ich czele, a owce postępują za nim, ponieważ głos jego znają. Natomiast za obcym nie pójdą, lecz będą uciekać od niego, bo nie znają głosu obcych”.
+• J 10, 14 (Wzajemne poznanie). „Ja jestem dobrym pasterzem i znam owce moje, a moje Mnie znają”.
+• J 10, 27 (Obietnica życia wiecznego). „Moje owce słuchają mego głosu, a Ja znam je. Idą one za Mną, a Ja daję im życie wieczne”.
 
 # tbd
 ## Książka o dojrzałości chrzescijanina 59:43
