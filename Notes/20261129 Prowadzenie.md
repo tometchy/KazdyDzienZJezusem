@@ -21,8 +21,3 @@
 W Psalmie 23:4 hebrajskie **שֵׁבֶט (*szewet*)** oznacza kij, który może służyć jako **broń** (2 Sm 23:21 — Benajasz walczy nim z Egipcjaninem), **berło władzy** (Rdz 49:10 — berło Judy), narzędzie **karcenia** (Prz 13:24) albo **pasterskie** (Kpł 27:32 — liczenie zwierząt przechodzących pod kijem; Mi 7:14 — pasienie ludu kijem).&#x20;
 
 &#x20;Drugie słowo, **מִשְׁעֶנֶת (*misz‘enet*)**, pochodzi od rdzenia שען (*sza‘an* — opierać się, podpierać) i oznacza **laskę służącą za podporę**, jak we Wj 21:19 (chory chodzący o lasce) i Za 8:4 (starcy z laskami).&#x20;
-
-&#x20;Zatem oba słowa wskazują na **ochronę, władzę i oparcie**, ale sam hebrajski tekst nie mówi, że jeden przedmiot był krótką maczugą, a drugi zakrzywioną laską do wyciągania owiec.
-
-
-Najmocniej udokumentowany sens wersetu to **bezpieczeństwo wynikające z obecności i skutecznej opieki Boga-Pasterza, który zarazem sprawuje władzę**.
