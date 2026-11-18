@@ -62,7 +62,7 @@ sequenceDiagram
 
 ## Effective rights to shared content
 
-A reader may use their own Notes regardless of public-repository write access. Shared editing requires the intersection of current user rights, installation access, App permissions and branch rules. No local allowlist grants access. Keep an allowlist of **editable paths**, initially `tags/*.md`, not an allowlist of people. Do not add Bible-source editing until its validation and licensing rules are specified in a separate feature PR.
+A reader may use their own Notes regardless of public-repository write access. Shared editing requires the intersection of current user rights, installation access, App permissions and branch rules. The App must also be installed on the account owning the public repository, not only each reader's personal account. [User-token boundaries](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/authenticating-with-a-github-app-on-behalf-of-a-user) No local allowlist grants access. Keep an allowlist of **editable paths**, initially `tags/*.md`, not an allowlist of people. Do not add Bible-source editing until its validation and licensing rules are specified in a separate feature PR.
 
 Refresh identity/access at login, entering an editor, focus and explicit refresh, with a maximum 60-second UI cache. Before every dispatch revalidate repository identity and permissions; the authenticated write itself remains authoritative. Loss of public write freezes shared operations as `blocked-permission` metadata on pending records (no automatic background retry until deliberate permission refresh). It does not block private Notes. Offline shared edits are marked unverified drafts, not promises of publication.
 
@@ -74,7 +74,7 @@ Branch protection is not a permission error to bypass. Where direct write is ref
 
 | Existing operation in TagGitStore | Shared JS REST operation and concurrency rule |
 | --- | --- |
-| Dedicated clone, `fetch`, `reset --hard`, `clean` | Read repository/ref metadata and Contents or Git Trees at a pinned commit. No checkout or destructive reset. Paginate tree traversal; detect `truncated` and fetch subtrees rather than silently losing files. |
+| Dedicated clone, `fetch`, `reset --hard`, `clean` | Read repository/ref metadata and Contents or Git Trees at a pinned commit. No checkout or destructive reset. Traverse trees explicitly; detect `truncated` and fetch non-recursive subtrees rather than silently losing files (the Trees API is not ordinary paginated listing). |
 | Read local Markdown | GET Contents with explicit ref and raw/object media type; preserve bytes, blob SHA and source commit. Reject symlinks/submodules in app-owned editable paths. |
 | `add` + `commit` + `push` for one file | PUT Contents with Base64 UTF-8 payload, branch, commit message and previous blob `sha`; omit SHA only for confirmed creation. DELETE Contents also requires current SHA. |
 | Atomic multiple-file change | Create blobs, tree based on verified `base_tree`, commit with current head as parent, then PATCH ref with `force:false`. If the head advanced, non-fast-forward is rejected; reread/reconcile and build a new commit. Do not assume the refs endpoint accepts an expected-head CAS parameter. |
@@ -83,7 +83,7 @@ Branch protection is not a permission error to bypass. Where direct write is ref
 | Protected branch | Create permitted branch/ref, write there, create PR; track remote acceptance separately from published content. |
 | Server write token and read token | Current user's opaque native session; public readers download public build artifacts without credentials. |
 
-Contents writes/deletes must be serialized per repository branch by this client; other devices are handled by remote SHA conflicts. ETags support conditional reads, **not** a replacement for the Contents `sha` write precondition. [Contents API](https://docs.github.com/en/rest/repos/contents), [non-forced refs](https://docs.github.com/en/rest/git/refs#update-a-reference)
+Contents writes/deletes must be serialized per repository branch by this client; other devices are handled by remote SHA conflicts. ETags support conditional reads, **not** a replacement for the Contents `sha` write precondition. [Contents API](https://docs.github.com/en/rest/repos/contents), [non-forced refs](https://docs.github.com/en/rest/git/refs#update-a-reference), [Trees API](https://docs.github.com/en/rest/git/trees)
 
 Proposed JS contracts (documentation only; Promise results, no arbitrary HTTP exposed to views):
 
