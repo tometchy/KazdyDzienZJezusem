@@ -66,6 +66,4 @@ pojscie do Macdonii
 
 Ef 5,17 nie bezmyslny impuls, rozeznawanie
 
-Psalm 117
-
 strzez serca Biblia
