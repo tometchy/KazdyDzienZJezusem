@@ -21,3 +21,51 @@
 W Psalmie 23:4 hebrajskie **שֵׁבֶט (*szewet*)** oznacza kij, który może służyć jako **broń** (2 Sm 23:21 — Benajasz walczy nim z Egipcjaninem), **berło władzy** (Rdz 49:10 — berło Judy), narzędzie **karcenia** (Prz 13:24) albo **pasterskie** (Kpł 27:32 — liczenie zwierząt przechodzących pod kijem; Mi 7:14 — pasienie ludu kijem).&#x20;
 
 &#x20;Drugie słowo, **מִשְׁעֶנֶת (*misz‘enet*)**, pochodzi od rdzenia שען (*sza‘an* — opierać się, podpierać) i oznacza **laskę służącą za podporę**, jak we Wj 21:19 (chory chodzący o lasce) i Za 8:4 (starcy z laskami).&#x20;
+
+---
+
+Je­śli ktoś po­śród was uwa­ża, że jest po­bo­żny*, a nie po­wści­ąga** swo­je­go języ­ka, lecz oszu­ku­je swo­je ser­ce, tego po­bo­żno­ść jest pró­żna.
+
+# Wola Pana
+
+„Nie każdy, który Mi mówi: «Panie, Panie!», wejdzie do królestwa niebieskiego, lecz ten, kto spełnia wolę mojego Ojca, który jest w niebie”.
+
+Przyszła Twoja matka i bracia. Ten jest moją matką i braćmi kto wykonuje wolę Pana
+
+---
+Pokora Ef 4
+
+---
+
+
+Nie co ja chce, ale co Ty chcesz
+
+---
+Wola Boga oddaj to (decyzje) Bogu, co to znaczy, przyklad Marioli
+
+Nie daj sie oszukiwac
+
+---
+Po owocach poznamy, ale lepiej nie wchodzic w zle owoce
+
+**Bog** Ojciec nie zabawia sie swoimi dziecmi
+Wy będąc złymi rodzicami...
+---
+Wybór pracy, czy pojechać do Wrocławia, gdy wiem, że coś muszę wybrać, modle się, proszę o prowadzenie i słucham, ale po czym to rozpoznawać - tutaj punkty z książki
+
+---
+czy Duch moglby nam powiedziec cos sprzecznego ze Swoja Wola? To by byla oluda.
+
+cel Boza Chwala
+
+losy purim turim, zastepstwo Judasza, czy losoeanie jest dojrzale jak mamy Ducha
+
+psalm 19
+
+pojscie do Macdonii
+
+Ef 5,17 nie bezmyslny impuls, rozeznawanie
+
+Psalm 117
+
+strzez serca Biblia
