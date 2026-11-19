@@ -1,4 +1,4 @@
-# One application, two delivery environments
+# Didaske on the web and in an installed app
 
 Planning decision, 2026-11-18. Nothing in this document is implemented by this change.
 See the [actual repository audit](repository-audit.md), [data contracts](data-and-sync.md),
@@ -45,8 +45,9 @@ Unpoly officially accepts local HTML through `content`, `fragment` and `document
 there is no requirement for ASP.NET to supply it. `up.navigate` applies navigation
 defaults, whereas `up.render` needs explicit history/focus options. This is a
 documented feasibility result, not an executed offline-history experiment.
-([Local HTML](https://unpoly.com/learn/providing-html),
-[render API](https://unpoly.com/api/up.render), checked 2026-11-18.)
+The current Unpoly API documents this behavior for 3.15. Pin the bundled version
+in the first renderer PR and run the navigation contract against that build.
+[Local HTML](https://unpoly.com/learn/providing-html), [render API](https://unpoly.com/api/up.render).
 
 Proposed JavaScript contracts (illustrations, not files added in this PR):
 
@@ -75,8 +76,8 @@ sequenceDiagram
   R->>J: Open verse link
   J->>D: getVerseComparison(reference)
   D-->>J: Typed domain object and source attribution
-  J->>U: Render shared HTML into main fragment
-  U-->>R: Update history, focus and scroll
+  J->>U: Open comparison in a modal from a passage, or in main on a page visit
+  U-->>R: Preserve passage position when opened from the reader
 ```
 
 On an initial Pages load, the HTML already contains real content with JS disabled.
@@ -93,6 +94,22 @@ restore the same source and layers without duplicate event handlers. On Tauri, k
 public path semantics in the JS router, translate external deep links at entry, and
 keep a fixed internal origin; do not pretend a custom-scheme URL is a public HTTPS URL.
 Direct opening/refresh of nested bundled paths requires an explicit packaging test.
+
+| User action | Fragment and history contract |
+| --- | --- |
+| Open a chapter | Keep real anchors for direct URLs, copy-link and open-in-new-tab. For an ordinary click, render `#main-content` with the resolved location, localized title and language. Update canonical and alternate links from the route model. Only the newest navigation request may change the screen. |
+| Type a search or change a tag filter | Replace only the results region. Keep focus, input and caret across results and cancel stale queries. Restore the submitted query on Back. |
+| Open a Greek word or grammar explanation | Render the local detail fragment into an Unpoly overlay. Closing it restores the initiating token, selection and scroll position. A late response for a previously selected token must be ignored. |
+| Go back offline | Restore the saved public route and scroll against local SQLite. Exercise the case where no prior fragment remains in Unpoly's cache. Render directly on native history restore, without fetching an HTTP page or pushing another history entry. |
+| Change account while Notes are open | Invalidate the account's rendered private fragments and in-flight reads in every window sharing that session. Back and suspended-window restoration must pass the current identity check before rendering private content. Persist only an opaque route ID in history. |
+
+Use a stable element ID and `[up-keep]` for reader controls that should survive
+public fragment updates. Language changes must refresh their labels and ARIA
+descriptions. Keep Markdown editors scoped to their account and release event
+handlers when a fragment is removed. The acceptance driver counts document loads
+and tests ordinary clicks, Ctrl/Cmd-clicks, Escape, keyboard focus and two rapid
+out-of-order navigation responses. [Unpoly navigation](https://unpoly.com/api/up.navigate),
+[layers](https://unpoly.com/api/up.layer), [retained elements](https://unpoly.com/api/up-keep).
 
 ## Public snapshots and multiple readers
 
@@ -139,6 +156,56 @@ order to avoid deadlock. Snapshot replacement never touches pending changes.
 
 ## Reader navigation and sketches
 
+### Contextual details
+
+On Didaske, every contextual detail opens in a modal first. This applies to TNP
+footnotes, verse comparisons, Greek words, morphology, dictionary senses, grammar
+help, passage tags and source explanations. The trigger is an ordinary anchor
+whose `href` is the detail's dedicated HTML page on the configured Didaske origin.
+Plain activation enhances that link to a modal. Opening its link in a new tab,
+visiting the URL directly, or following it with JavaScript disabled displays
+the full detail as a page. Every modal and every docked panel contains a visible
+**Open full page** link to that same URL. Both render the same content, context,
+attribution and source-passage return link. The [public URL inventory](seo-and-data-integrity.md)
+defines which contextual details have distinct identities.
+
+In Tauri, the full-page action resolves that logical route inside the installed
+reader using its bundled renderer and local snapshot. Copying the public link
+produces the Didaske HTTPS URL. In the modal, keep focus within the dialog until
+it closes or docks. Once docked, expose the detail as a labelled region and
+restore keyboard access to the passage. [W3C modal dialog pattern](https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/).
+
+| Transition | Reader behavior |
+| --- | --- |
+| Passage → modal | Keep the passage mounted. Give the dialog a localized title, move keyboard focus inside, trap focus while modal, and support Escape and a labeled Close button. Restore the trigger and its scroll on close. Back closes a modal opened from a passage. |
+| Modal → dock | Offer four labeled placements, **Left**, **Right**, **Top**, **Bottom**, usable by touch and keyboard. Move the same detail into a named, nonmodal region alongside the reader. Remove the modal backdrop and focus trap. The reader can scroll, select text, navigate or open another detail while the pinned passage/word remains visible. |
+| Dock → another edge or modal | Preserve the detail identity and content scroll. Keep the chapter mounted while reflowing the layout. A subsequent detail opens in its own modal by default. If a dock is occupied, replacing its detail requires an explicit choice. |
+| Open full page / new tab | Render the dedicated document with its own heading, permalink and return-to-passage anchor. Back in the originating tab restores the passage and its presentation state. A direct visit has a usable passage link even with empty history. |
+
+Keep the active modal, docked detail and edge in tab-local reader state. Refresh and
+history restoration must agree with the recorded passage, selection, locale and
+scroll. A separate tab opened from the permalink starts on the standalone detail.
+On narrow Phosh screens, support all four positions with independently scrollable
+regions, a keyboard-operable boundary size control where necessary, and visible
+close/undock controls. Test all edges on portrait and desktop without horizontal
+page overflow, hidden controls or losing the reading position. Test the same
+transitions offline in Tauri and in both UI languages.
+
+### TNP text and source annotations
+
+Keep the original inline `*`, `**` and other attested TNP markers at their exact
+positions. Give every explained marker an accessible localized link name and
+bind it to the reviewed note target in its source verse. Multiple occurrences can
+point to one note. Preserve each note's own text and internal references. For
+source symbols that use a shared legend, link their reviewed explanation.
+Render only the EPUB's Jesus-speech spans (`.jq`) in bold, including nested
+source markup. Narration on either side stays at the normal weight. Preserve this
+distinction in chapters, comparisons, tagged passages and standalone detail
+excerpts wherever the TNP text appears, including the first static HTML response.
+Locale controls change only the surrounding interface. J 3:16 exercises two
+footnote markers inside a single speech range with nested style. J 1:38 exercises
+the transition between narration and quoted speech.
+
 Desktop:
 
 ```text
@@ -158,7 +225,8 @@ Narrow Phosh/mobile:
 [Menu] John 3:16                      [Search] [Layers]
 [Previous] [Book/chapter] [Next]
 TR source and selected annotations
-[Word details: form, lemma, Strong, grammar, alternatives]
+[Word detail modal: form, lemma, Strong, grammar, alternatives]
+[Open full page] [Dock: Left | Right | Top | Bottom] [Close]
 Translation cards stacked vertically
 [Tags]  [Source / license]
 Native only: [Note: saved locally / waiting / conflict]

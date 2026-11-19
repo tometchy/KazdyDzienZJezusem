@@ -54,7 +54,10 @@ by the selected release; application modules remain ES modules. Rust never write
 | `KazdyDzienZJezusem/Controllers`, `Services`, `Views`, `wwwroot` | JS domain/renderers, native adapter, build converters | Remove only after route-by-route parity and rollback period |
 | `KazdyDzienZJezusem.Tests/` | Behavior fixtures and contract tests in `tests/` | Keep C# tests running during dual-track comparison |
 | `ProductionVisualTests/`, `screenshots/` | `tests/specs`, `drivers`, `visual` | Explicitly review replacement JS specs and locale baselines; retain old evidence until cutover |
-| `docs/compare.html`, literature reader data | Shared literature view or retained independent document | Preserve discovered PDF comparison controls; decide through parity gate |
+| `docs/compare.html` | Preserve the standalone parallel PDF reader or integrate its controls into the shared Literature view | Verify its two document URLs, paired page navigation, saved settings and layout before removing the original file |
+| `Notes/`, `Topics/`, `Info/`, `Commentarii/` | Keep the existing editorial files in place | Public project files have no automatic mapping into personal private `<login>/Notes`; future ingestion needs a content and rights decision |
+| `Index/`, local `IndexHtml/` | Retain historical links and auxiliary generation while consumers use them | Check `scripts/regenerate-topics.py` and any external links before retiring derived output; keep tracked editorial Markdown |
+| `systemd/`, sync/install scripts | Legacy laptop services during transition | Identify remaining consumers with the owner before removal; no device service is a dependency of the future app |
 | `KazdyDzienZJezusemObsolete/` | Historical reference, then delete obsolete runtime files | Verify no remaining input/build dependency first |
 | `compose.yaml`, `podman-up.sh`, Dockerfile and refresh scripts | Removed from final application runtime | Cutover approved, rollback rehearsed, no remaining required service |
 | `.github/workflows/poc-*`, `tauri-postmarketos.yml` | Focused production workflows | Remove POC jobs only after replacement evidence is retained |

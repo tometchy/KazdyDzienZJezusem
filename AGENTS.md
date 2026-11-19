@@ -11,6 +11,13 @@
   confirmation again. Preserve persistent data and avoid restarting unrelated services.
 - Read-only Podman diagnostics such as logs, ps, inspect, exec for diagnosis, and local connectivity checks are allowed. Container operations beyond the authorized application rebuild require an explicit user request.
 
+## Didaske reader conventions
+
+- Use **Didaske** as the product name in both languages. The planned public origin is `https://didaske.com/`. Resolve public links through the shared application configuration.
+- Use modal-first navigation for contextual reading details, including footnotes, word grammar, dictionary entries and verse comparisons. A click or keyboard activation opens the detail over the passage. Every detail modal must have a visible, localized **Open full page** link to a dedicated, directly addressable page showing the same information. Use that URL as the trigger's real link so direct visits, opening in a new tab and reading public details without JavaScript work.
+- Let the reader dock the open detail on the **left, right, top or bottom**, move it to another edge, undock it or close it. Keep the chosen detail visible while the reader scrolls or opens another passage in the same tab. Docking releases the modal focus trap and makes both the reading area and the panel keyboard accessible. Preserve the reader's place and keep other tabs independent.
+- Preserve TNP editorial markup from the source EPUB. Link each printed footnote marker to the corresponding note, including repeated markers that refer to the same explanation and render the words of Jesus in bold over exactly the marked spans. Check the text, note associations and bold boundaries in both UI languages.
+
 # Codex instructions
 
 ## Required screenshot checks before merge

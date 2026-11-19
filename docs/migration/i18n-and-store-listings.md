@@ -30,6 +30,16 @@ associated metadata. Preference persistence uses `preferences` in the same IDB,
 separate from pending changes. Independent tabs do not jump to another tab's verse
 or automatically replace its selected layers when preferences change.
 
+Keep the language switch within reach on the reader. The **Layers & languages**
+panel has separate controls for interface, translations and Greek annotations.
+Start with translation selection and the most common gloss options. **More…**
+reveals Strong, lemma, grammar, pronunciation and all licensed gloss languages
+for this text. A layer missing for this word shows its source and availability
+in word details. Remember defaults by account/device and reader type. Opening a
+new tab copies those defaults, and changing TR layers in one open passage affects
+that passage alone. A language switch preserves both the canonical reference and,
+where present, the in-chapter fragment and navigation history.
+
 ## Catalog and formatting contract
 
 Use stable keys, e.g. `notes.savedLocally`, `sync.conflict`, `grammar.case.dative`,
@@ -40,6 +50,15 @@ for locale-aware formatting. Define Polish one/few/many/other and English one/ot
 where count messages need them. Store UTC instants/semantic counts, not formatted
 strings. This small formatter is sufficient initially; adopt ICU only for messages
 that require it. [Intl reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl).
+
+Keep `app/src/i18n/pl.json` and `en.json` beside the formatter. As a fixture,
+`sync.pendingCount` with integer `count` must render natural forms for 1, 2, 5,
+12 and 22 in Polish, and 1 and 2 in English. Preserve the same parameter type
+across both catalogs while validating plural categories **per locale**. For
+interlinear tests, assert the stored Greek original, token position, Strong ID,
+grammar and provenance before and after switching UI languages. Run the same
+accented and normalized search from each locale and require identical reference
+sets. Verify word-level alignment against independently reviewed fixtures.
 
 Missing keys may fall back safely in development but fail CI. CI compares complete
 key sets, placeholder names and types, plural branches and empty/unresolved values;
@@ -75,6 +94,13 @@ can switch languages and navigate source texts through actual anchors.
 
 ## Store source files and review
 
+Use **Didaske** as the PL and EN product name on the Application page, in
+AppStream, Play and App Store Connect, in help and in release screenshots.
+Keep this proper name in the catalog parity allowlist. Translate the description,
+captions and surrounding instructions. Public support and privacy paths resolve
+under the planned `https://didaske.com/` site. The immutable package identifiers
+and source GitHub repository have separate roles in [releases](releases.md).
+
 | Destination | Versioned source proposal | Required PL/EN material and verification |
 | --- | --- | --- |
 | Flathub | `app/store-listings/flathub/<stable-id>.metainfo.xml` | Default English plus Polish `xml:lang` entries for supported name, summary, description, keywords, screenshot captions and release text; metadata/project license distinct; AppStream and Flathub lint |
@@ -88,13 +114,21 @@ to affected descriptions, help and images; a no-change entry must explain why cu
 screenshots remain accurate. Store automation stages reviewed metadata in Actions;
 publishing requires the release gate and real store accounts, never a translation API.
 
-Flathub supports AppStream translation and validates its metadata; Google supports
-localized listing text and graphics; Apple supports localized app information and
-screenshots. Provider fallback behavior does not satisfy this project's requirement
-to supply and review both languages. Sources checked 2026-11-18:
-[Flathub](https://docs.flathub.org/docs/for-app-authors/metainfo-guidelines),
-[Google Play](https://support.google.com/googleplay/android-developer/answer/9844778?hl=en),
-[App Store Connect](https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information).
+For Flathub, validate the unqualified English value and Polish `xml:lang="pl"`
+on each corresponding translatable element. In the description, localize each
+`p` and `li`. Pair localized screenshot `image` and `caption` elements, and
+verify their URLs. Use `appstreamcli validate --no-net` plus the Flathub linter
+for the assembled package. [Flathub MetaInfo translation rules](https://docs.flathub.org/docs/for-app-authors/metainfo-guidelines).
+
+For Play and Apple, map app locales to the provider-specific directory names in
+the table. In each locale validate required text fields, provider length limits,
+release notes for this version, localized help and privacy/disclosure destinations,
+nonempty images and accepted pixel sizes for each required device family. Check
+each image's fixture, locale, build and review record. Require explicit PL and EN
+material even when a provider can fall back to another language.
+[Play listing locales](https://support.google.com/googleplay/android-developer/answer/9844778?hl=en),
+[App Store Connect localization](https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information),
+[Apple storefront language availability](https://developer.apple.com/help/app-store-connect/reference/app-information/app-store-localizations/).
 
 ## Acceptance for every future feature PR
 
@@ -107,3 +141,14 @@ timezone and clock; review intended text reflow rather than blindly replacing ba
 Assert no clipping/overflow, keyboard navigation, accessible names, correct `lang`,
 preserved draft/history/scroll after locale changes, and no console failures.
 Catalog parity and store metadata validation are blocking checks from the shell PR.
+
+Keep the actions for each reader detail consistent across both languages.
+For example, **Otwórz pełną stronę / Open full page** navigates to the same
+footnote, word grammar or verse comparison. **Przypnij / Dock** offers named
+left, right, top and bottom positions, followed by localized return-to-dialog
+and close controls. Supply accessible names for asterisks that identify the
+verse and footnote ordinal even when two markers look similar. Test each
+control with keyboard and touch. Announce modal and docked states correctly
+after switching languages and preserve source language labels in each view.
+Keep the source's TNP words of Jesus bold in either locale, including the
+full page reached from a reader with JavaScript disabled.

@@ -1,8 +1,7 @@
 # Decisions, evidence and unresolved release gates
 
-Status date: 2026-11-18. “Chosen” is an architectural decision; “proven” requires
-linked evidence at the claimed scope. A source page describing an API is not proof
-that this application's real-device flow has passed.
+Reviewed on 19 November 2026. The ledger distinguishes observations of this
+checkout, measurements supplied by the owner and future installation tests.
 
 ## Architecture decision records
 
@@ -20,6 +19,9 @@ that this application's real-device flow has passed.
 | A10 | One public config source derived from Actions repository identity; stable app/origin/update identity | Renaming GitHub repo must not create a different IDB profile or redirect pending writes blindly |
 | A11 | Complete independently audited golden reference and <=60-second check, separate from SEO and E2E | Counts, sample searches and self-generated baselines cannot establish 100% integrity |
 | A12 | Hosted CI, incremental replacement, final-only legacy/POC removal | No required laptop builder, premature backend deletion or one large rewrite PR |
+| A13 | The owner chose **Didaske** for PL and EN and `https://didaske.com/` as the canonical public origin. Derive public URLs from the release configuration. | Verify domain control, reserve platform identifiers and test old inbound links before cutover. Product naming alone does not change the repository, WebView profile or private Notes binding. |
+| A14 | Present contextual details modal-first. Each modal offers the same information on a dedicated page and can be docked left, right, top or bottom while reading continues. | The modal, dock and page share the detail ID and renderer. A narrow screen, offline native session or locale switch must preserve access to the full detail. [Reader contract](architecture.md). |
+| A15 | Use the TNP EPUB as the authority for footnote markers, their explanations and bold words of Jesus. Carry that structure into the snapshot and the independent golden check. | Preserve publisher-defined speech boundaries and annotate ambiguous marker-to-note associations during source review. [TNP audit](repository-audit.md). |
 
 The prompt contains one stale phrase in §7.7, “Outbox JSON (Tauri)”. The explicit
 version header and repeated §5.1 requirements take precedence: Tauri also uses the
@@ -54,12 +56,16 @@ the initial plan chooses RAM only to avoid an unnecessary second SQLite artifact
 | Device App permissions/install scope | Cannot create/access Notes automatically | M07/M11 real sandbox user token creates private Notes and writes after selected installation; no secret/PAT | Native auth blocked until permissions proved; Pages stays read-only |
 | Native secure token store absent | Exposed or nonpersistent credential | Flatpak/Phosh keyring and mobile keystore tests, logout/revocation and log redaction | Session-only token and reauthorization with queue preserved; assess UX before release |
 | Existing public/inaccessible Notes | Private content disclosure or wrong repository | Public and masked-404 fixtures, concurrent creation and case/name checks, zero payload sent | Explain conflict, preserve/export queue; never create Notes-2 |
+| Owner changes repository visibility during a write | An in-flight note could become public even after a successful privacy check | M11/M12 use a disposable repository and synthetic text. Change visibility between queued writes. Check private owner/name/ID again before dispatch and confirm that subsequent sends stop. | Explain owner control of visibility at connection. The Contents API has no conditional write on privacy. A guarantee covering concurrent owner changes would require revisiting the product requirement. [GitHub write contract](https://docs.github.com/en/rest/repos/contents#create-or-update-file-contents) |
 | Lease expires during HTTP | Duplicate write or deletion of newer draft | Pause owner, transfer lease, lose response after write and edit locally again; SHA check and revision fence preserve newest payload | Reconcile remote result; retain unresolved conflict, no silent last-write-wins |
 | External Markdown and unknown fields | Lost GitHub edits | Three-way fixture with remote edits, unknown front matter, deletion and non-UTF8/size errors | Conflict comparison and explicit resolution; byte-preserving metadata policy |
 | Changed permissions/branch rules/rate limits | Stale edit button or unsent update | Revoke during save, PR-only branch, 403/429 + headers; remote enforcement, bounded retries | Keep pending proposal and explain; refresh rights, no protection bypass |
 | Source rights/attribution unclear | Unlawful redistribution to ZIP, Pages or stores | M01/M02 document source-specific display/index/offline rights and exact provenance | Block affected publication; independent hash reference only where lawful, no silent data omission |
 | Greek normalization mismatch | Wrong homograph/gloss or missing accents | Exact/contextual/morphology fixture parity, no FTS substitution | Preserve exact source and separate search normalization |
-| Pages bytes/deploy/file overhead | Missing per-verse SEO or failed deploy | M14 sample then full artifact <=800 MB and measured deploy <=8 min, all legal refs included | Optimize first; measured chapter-anchor scope reduction needs owner decision |
+| TNP text conversion loses note identity or emphasis | A star can open someone else's explanation or the reader can misattribute words to Jesus | M02/M03 compare ordered source runs and marker-to-note relations across the whole edition. M08b checks the rendered mixed speech in John 1:38 and both footnotes in John 3:16. | Require a reviewed mapping for ambiguous cases and block a new snapshot that changes the approved relationships. |
+| Dock remains modal or changes with the passage | A reader loses access to the passage or the pinned explanation | M04b tests keyboard, pointer and touch at each edge, then changes chapters and opens the pinned detail's page. Both reading areas remain usable and the detail keeps its source identity. | Fix the shared interaction before accepting individual detail views. |
+| Pages bytes/deploy/file overhead | Missing per-verse SEO or failed deploy | M14 sample, then M15 full artifact <=800 MB and measured deploy <=8 min, all authorized references included | Optimize first. A measured chapter-anchor scope reduction needs owner review. |
+| Corrupt or incompatible snapshot reaches the reader | Readers cannot open the last successful edition | M05 interrupt a download, alter one byte, offer an unsupported schema, then open another tab or process during activation. Verify the active digest and last-good passage after restart. | Keep the previous verified snapshot or the bundled edition. Reclaim only unused versions. [Snapshot activation](data-and-sync.md) |
 | Web Locks/SAH unsupported or stale worker | Deadlock or unreadable public cache | Three tabs, close importing tab, wake old worker, bounded recovery, no console errors | Static HTML or per-tab RAM search if memory allows; private Outbox unaffected |
 | <=60 s integrity target missed | Publication gate too slow | M03 real corpus timed complete comparison with watchdog and injected corruptions | Optimize streaming/indexes, keep hard gate; do not sample or claim an invented timing |
 | UI locale affects scholarly content | Missing sources or fabricated translation | PL UI/EN gloss, EN UI/PL gloss, change locale with open note and modal | Fix policy before feature acceptance; missing DE data does not block PL/EN |
@@ -69,13 +75,18 @@ the initial plan chooses RAM only to avoid an unnecessary second SQLite artifact
 | Repository rename/transfer/origin change | Dead links or sending private/shared writes elsewhere | M19 signed config A→B; old updater resolves, pending Notes unchanged, shared writes stop until verified | Keep stable domain/app ID; ship bridge update before old endpoint is retired |
 | Legacy cutover too early | Readers lose functionality or recovery | M20 parity matrix plus restore drill and user-reviewed screenshots | Retain server and historical sources until all required gates pass |
 
+The author of the indicated implementation PR owns its evidence. The release
+maintainer records each required target as passed, failed or awaiting hardware
+and links the report to the artifact tested. The owner decides rights, enrollment
+and any reduction in supported content or platforms before cutover.
+
 These experiments belong to future PRs. Read-only source counting and official-doc
 verification in this planning change do not implement or satisfy them.
 
 ## Owner decisions that remain
 
 Confirm rights evidence where source notices do not establish packaging/store scope;
-choose stable application identity/domain before the first durable profile; register
+verify ownership of the chosen Didaske domain and reserve stable application identifiers before the first durable profile; register
 the GitHub App with reviewed permissions; supply legitimate release-signing/store
 accounts when those channels are implemented. Hardware failures may require an explicit
 scope decision. No decision is required to accept read-only WWW: the task already

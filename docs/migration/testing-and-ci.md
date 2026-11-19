@@ -33,7 +33,7 @@ Feature('Independent study tabs');
 for (const locale of ['pl', 'en']) {
   Scenario(`I keep three independent places while reading (${locale})`, async ({ I }) => {
     await I.haveReaderSession({ platform: 'web', locale });
-    await I.openVerseInNewTab('J', 1, 1);
+    await I.openVerse('J', 1, 1);
     await I.openVerseInNewTab('1Kor', 11, 10);
     await I.openDictionaryInNewTab('λόγος');
     await I.searchInStudyTab(2, 'faith');
@@ -175,6 +175,13 @@ export class TauriDriver {
 
 These helpers use the screenshot methods behind the domain `I.captureStudyState`; where useful, a DSL method delegates to `I.saveElementScreenshot` for the grammar modal or layer panel. Capture screenshots from the actual native window where available. [CodeceptJS screenshot API](https://codecept.io/web-api/).
 
+The no-JS browser profile needs a different readiness condition. It requests the
+real static URL directly with JavaScript disabled in the browser context. Wait
+for the semantic heading and verify visible source text and working anchors from
+the original HTTP document. Never wait for a JS-set readiness marker in this
+profile. Run this pair of JS-on/off scenarios for every public page type in
+[the SEO matrix](seo-and-data-integrity.md), in both languages.
+
 Native Linux/Windows use direct `tauri-driver`; Linux additionally needs the matching WebKitWebDriver and a display, Windows the matching Edge WebDriver. Current Tauri guidance also describes an embedded WebDriver service supporting macOS; using it through CodeceptJS needs a small compatibility experiment, without importing a second WDIO scenario suite. Test-only driver plugins must be excluded from production bundles. Mobile Appium WebView context discovery and restart attachment require their own proof. Browser tests with mocked `invoke` do not prove native persistence. [Tauri driver support](https://v2.tauri.app/develop/tests/webdriver/).
 
 ## Stub and fixture boundaries
@@ -192,7 +199,7 @@ Fixtures pin the corpus version, numeric account/repository IDs, UTC clock, rand
 | Reader parity | All actual routes in audit; translations, missing TNP coverage, next/previous, compare, tags/ranges, Fathers, dictionary and Greek exact form/context | Fixture contracts + CodeceptJS representative desktop/mobile PL/EN screenshots |
 | Locale independence | EN UI + PL gloss/TR; PL UI + EN gloss/TR where licensed data exists; both UI locales allow all translations; locale switch preserves URL/draft/layers/scroll | Layer panel and reader screenshot pairs; missing-data state instead of fabricated gloss |
 | Fragment navigation | No document reload during navigation/search/modal; back/forward and focus correct; Unpoly preserved nodes remain | Document-instance marker, history assertions, console failure collection |
-| Three browser tabs | Different verses/dictionary; simultaneous search; five switching rounds; active import tab closed; worker crash and wake | Bounded completion, no deadlock/console errors, three independent screenshots |
+| Three browser tabs | Run with three distinct verse references and again with two verses and a dictionary entry. Search concurrently, switch five times, close the importing tab, crash a worker and wake a suspended reader through a manifest update | Bounded completion, intact per-tab URL, scroll, modal, selection and history, zero unexpected console errors, three independent screenshots |
 | Public snapshot replacement | Old/new readers, import/reset race, missing Web Locks, NotFoundError, offline, corrupt hash, incompatible schema | DB contract tests and live browser/native scenarios |
 | IndexedDB persistence | Put/transaction completion, physical close/restart/reboot, application version 1→2, snapshot replacement, quota/disk failure, logout/relogin | Exact pending Markdown bytes and IDs survive; actual device PASS/FAIL matrix |
 | Multiple writers | Two windows and independent processes share profile/origin; expired lease; stale fenced response; same note edited on second device | No lost payload, no duplicate confirmed write, conflict preserves both versions |
@@ -205,7 +212,48 @@ Fixtures pin the corpus version, numeric account/repository IDs, UTC clock, rand
 | Full content | Every key/value and relational/FTS consistency against independent approved golden ZIP | Separate <=60-second verifier; never sample 31,000 UI pages as a substitute |
 | App/store metadata | Existing download assets, hashes, locale key/placeholder parity, valid AppStream and PL/EN store fields | Metadata checks + PL/EN Application page and listing screenshot gallery |
 
+The following cases share the same stub state across clients. Use separate test
+profiles for different devices and one production-shaped profile for windows of
+the same app. Version upgrades reuse the installed app identity and its profile.
+
+| Reader's scenario | Setup, action and observable result |
+| --- | --- |
+| I sign in on three devices and find the same Notes | Start three logged-out profiles against one test account. Race the first two creates, then sign in from the third. All three resolve the same numeric private repo ID, preserve unrelated files and return to the passage from which login started. The stub records one successful creation. |
+| My Notes is public or inaccessible | Run once with public Notes and once with an inaccessible existing private Notes. An offline note remains locally recoverable. No Markdown leaves for the public destination and no suffixed repository is created. Show separate recovery instructions for visibility and installation access. |
+| I change accounts on a shared device | Queue an offline note as A, sign out, sign in as B, then switch back as A. B sees only B's notes and local queue. Record zero A payloads sent with B's credentials. A's original operation is still available and synchronizes once. |
+| My two windows and a second device disagree | Start both windows at the same note SHA, save an edit offline in the first, then edit that file on the stub as a second device. The sync attempt with the old SHA leaves the local edit intact and the second window can inspect both versions. Resolve explicitly and restart. Separately allow a write, kill the sending window after remote commit but before its reply, and verify that the surviving window reconciles that operation once. |
+| I encounter an update problem while reading | Serve current, newer signed, wrong-target and incorrectly signed fixture packages. Drop the connection mid-download, cancel a restart, then allow a valid install. Verify the current version runs after each failed attempt and the final app retains the same pending note. Use an ephemeral CI signing identity for test packages. |
+
+After acknowledgement a storage contract test inspects all object stores, indexes
+and any app-created durable files in the synthetic test profile. Close every
+window, reopen, replace the public snapshot, and verify that neither the operation
+nor its Markdown can be retrieved from the Outbox or a secondary queue. Record
+the logical storage assertions using synthetic markers. This test checks the app's
+retention behavior, not forensic erasure of the browser engine's database pages.
 ## Screenshot review standard
+
+### Didaske reader details
+
+Use the shared CodeceptJS reader DSL in PL and EN against the built site and
+the installed offline reader. Identify each detail by its stable verse, source,
+token or footnote ordinal. The specification uses the same reference when it
+checks the dialog, each dock position and the full page.
+
+| Case | Assertions |
+| --- | --- |
+| Activate a footnote star, select a Greek word's grammar, or request verse comparison | Each opens a labelled modal first. The invoking passage, layers, scroll and selection survive. Keyboard activation moves focus into the dialog, Tab remains within it, and Escape/close restores focus to the trigger. Capture the word's exact grammar and the comparison's translations. |
+| Dock each type of detail | Exercise left, right, top and bottom on desktop and a narrow touch viewport. Assert the requested edge, visible reader and corresponding detail, keyboard access to both regions, and the absence of a modal focus trap. Re-open as a dialog and close. Changing a panel in one tab leaves the other tab alone. |
+| Open the detail as a full page | From a modal and a docked panel open the same reference as a page, copy/reopen the URL, and return with Back. With JS disabled, follow the trigger's static link and read the same information on the dedicated detail page. In Tauri disconnect the network before each flow and verify the installed snapshot resolves the detail and the page locally. |
+| Preserve TNP editorial markup | Use `John.html#v1.38` in the [source EPUB](../../input-raw/Biblia_przeklad_Torunski.epub). Compare the exact `em.jq` run with its adjacent narration and other speaker. Only the marked speech gains the Jesus-quotation emphasis. For `John.html#v3.16`, assert both footnote markers (`*`, `**`) resolve to their own bodies in source order and nested inline markup preserves bold. Check visible weight in chapter, comparison dialog/dock and full comparison page, including the rendered no-JS page. The golden test compares all source ranges and footnote targets. |
+
+Capture representative modal, four docked positions and full-page views in the
+before/after gallery for both locales. Check readable text and reachable
+actions at mobile widths, screen-reader headings and accessible names after
+each transition. Use “Didaske” in the expected web title, app listing, download
+screens and localized screenshots. Assert canonical URLs on the target
+`https://didaske.com/` while running tests against the isolated fixture origin.
+
+### Baselines and reviews
 
 Store approved PNGs at `tests/visual/baseline/<platform>/<viewport>/<locale>/<scenario>.png`; generated actual/expected/diff/HTML reports live at `tests/visual/reports/` and in Actions artifacts, not Git. Begin with phone 393×852, tablet 768×1024 and desktop 1365×768 CSS pixels; keep existing baseline geometry while comparing legacy. Use light theme plus dark only where product supports it. Pin fonts and renderers per platform; do not compare Linux glyph rasterization against a Windows baseline.
 
@@ -213,7 +261,7 @@ Capture chapter, comparison, interlinear, dictionary/grammar modal, tags, Father
 
 Use `I.saveScreenshot`/`I.saveElementScreenshot` under the DSL and a small local visual comparator. Evaluate the CodeceptJS Resemble integration's current maintenance/license in the first test PR; pin a compatible version or wrap the image-comparison library in one helper. This does not require a paid screenshot service. Missing baselines and unexpected diffs fail. Tolerance is recorded per renderer with a small justified font allowance, not raised to mask a regression. [Visual testing integrations](https://codecept.io/visual/).
 
-Every UI PR provides a two-to-five sentence explanation and before/after table for both locales, plus actual/expected/diff report links. For inline review, use images from committed, sanitized test baselines at immutable commit URLs; generated HTML galleries are downloadable artifacts. An Actions artifact URL alone is not an embedded image. An optional protected static gallery may publish only sanitized reviewed fixtures; it must not deploy untrusted fork code. A documentation-only PR states “No visual changes” and records the prescribed existing regression check.
+Every UI PR includes a Polish **Jak wyglądało / Jak wygląda po zmianie** section. In two to five sentences describe the reader-visible change, then embed a before/after table for both locales and link to the diff and HTML gallery. Use images from committed, sanitized test baselines at immutable base/head commit URLs. Generated HTML galleries are downloadable artifacts. An optional static gallery may publish only sanitized, reviewed fixtures. A documentation-only PR states “Brak zmian wizualnych” and records the prescribed existing regression check.
 
 Intentional changes require a reviewer to inspect affected actuals before selectively updating baselines, followed by a normal comparison. Do not automatically approve changed baselines. Define success as no missing translations, no clipped controls, readable Greek, correct `lang`/accessible names and unchanged navigation focus—not only an acceptable image percentage.
 
@@ -227,6 +275,14 @@ Intentional changes require a reviewer to inspect affected actuals before select
 | `pages.yml` | Validated public data/default-branch source or approved release; same renderer, full static URL manifest and data gate, size/time budget, upload then deploy | Atomic static deployment and retained rollback artifact; no private Notes or runtime service |
 
 Use dependency/lockfile hashes for caches and content source hashes for generated-data caches; still run the full reference comparison on every required trigger. Pin Actions revisions/toolchain versions in implementation PRs. Split the fast data/UI response from slower packaging so failures remain understandable. Cancel superseded PR jobs, serialize publication, and do not cancel an in-progress production deployment halfway through. Default `permissions: contents: read`; only dedicated protected publishing jobs obtain `contents: write` or Pages/id-token permissions. Never use untrusted PR code with write secrets or `pull_request_target` checkout-and-execute.
+
+Keep the required-check aggregator scheduled even on failed or skipped upstream
+jobs. Pass success only for explicit successful results and matching source commit,
+artifact digests and suite manifests. Scope PR caches away from release inputs.
+Desktop signing, Android keystore access and Apple certificates/profiles use
+separate protected jobs with only their own secrets. Promote the exact tested
+bytes through release and Pages jobs. Store publication also waits for each
+provider's review and availability for the intended storefronts.
 
 The 60-second goal covers only complete data verification after input artifacts exist. Packaging, browser tests and device evidence have independent time budgets measured by their first implementation PR; do not promise they fit in that minute. Report all timings and upload machine-readable and readable summaries even on failure.
 
