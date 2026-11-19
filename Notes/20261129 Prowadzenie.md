@@ -62,7 +62,17 @@ losy purim turim, zastepstwo Judasza, czy losoeanie jest dojrzale jak mamy Ducha
 
 psalm 19
 
-pojscie do Macdonii
+**Dzieje Apostolskie 16**
+> 4. A gdy przechodzili przez miasta, przekazywali im do przestrzegania postanowienia powzięte przez apostołów i starszych w Jerozolimie.
+> 5. Toteż zbory prawdziwie utwierdzały się w wierze i z każdym dniem wzrastały liczebnie.
+> 6. A gdy przeszli Frygię i krainę Galacką, zostali powstrzymani przez Ducha Świętego, przed powiedzeniem Słowa Bożego w Azji,
+> 7. A gdy przybyli do Mizji, próbowali wyruszyć do Bitynii, lecz Duch im nie pozwolił.
+> 8. A gdy minęli Mizję, zeszli do Troady.
+> 9. I Paweł ujrzał w nocy widzenie: Pewien mężczyzna, Macedończyk, stał i prosił go, mówiąc: Przepraw się do Macedonii i pomóż nam.
+> 10. A gdy on ujrzał tę wizję, zaraz chcieliśmy udać się do Macedonii, wspólnie wnioskując, że Pan nas wezwał, abyśmy im głosili dobrą nowinę.
+> 11. Wyruszyliśmy więc z Troady, płynęliśmy wprost na Samotrakę, a następnego dnia do Neapolu,
+> 12. A stamtąd do Filippi, które jest kolonią rzymską, przodującym miastem okręgu Macedonii; i spędziliśmy w tym mieście kilka dni.
+
 
 Ef 5,17 nie bezmyslny impuls, rozeznawanie
 
