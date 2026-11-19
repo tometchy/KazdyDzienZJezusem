@@ -47,3 +47,4 @@ Tymczasem okazuje się, że nawet ludzie odrodzeni mają kłopoty ze swym język
 ---
 Człowiek z tatuażem na plecach "Jakim mnie stworzyłeś takim mnie masz".
 
+Simeon brzoskwinia
