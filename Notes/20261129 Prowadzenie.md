@@ -77,3 +77,7 @@ psalm 19
 Ef 5,17 nie bezmyslny impuls, rozeznawanie
 
 strzez serca Biblia
+
+Rabi Maharaj autobus.
+
+Losowanie fragmentu Biblii okultyzm
