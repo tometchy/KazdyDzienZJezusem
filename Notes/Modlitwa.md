@@ -1,0 +1,1 @@
+Psalm LXIII podnoszenie rąk
