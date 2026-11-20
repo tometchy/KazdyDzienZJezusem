@@ -81,3 +81,5 @@ strzez serca Biblia
 Rabi Maharaj autobus.
 
 Losowanie fragmentu Biblii okultyzm
+
+Macedonia nie bojacie sie co bedziecie mowic - ale musicie byc z Duchem
