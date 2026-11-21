@@ -85,3 +85,7 @@ Losowanie fragmentu Biblii okultyzm
 Macedonia nie bojacie sie co bedziecie mowic - ale musicie byc z Duchem
 
 Biblia grecka dziwny numer, wpierwszym momencie wystraszylem sie, fragmenty o baniu sie. A gdybym mial cos zrobic to Bog moze mi to pokazac bez strachu, bylem sluchal.
+
+---
+
+Jana 10
