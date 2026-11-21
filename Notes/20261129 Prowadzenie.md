@@ -54,7 +54,7 @@ Wy będąc złymi rodzicami...
 Wybór pracy, czy pojechać do Wrocławia, gdy wiem, że coś muszę wybrać, modle się, proszę o prowadzenie i słucham, ale po czym to rozpoznawać - tutaj punkty z książki
 
 ---
-czy Duch moglby nam powiedziec cos sprzecznego ze Swoja Wola? To by byla oluda.
+czy Duch moglby nam powiedziec cos sprzecznego ze Swoja Wola? To by byla obluda.
 
 cel Boza Chwala
 
@@ -83,3 +83,5 @@ Rabi Maharaj autobus.
 Losowanie fragmentu Biblii okultyzm
 
 Macedonia nie bojacie sie co bedziecie mowic - ale musicie byc z Duchem
+
+Biblia grecka dziwny numer, wpierwszym momencie wystraszylem sie, fragmenty o baniu sie. A gdybym mial cos zrobic to Bog moze mi to pokazac bez strachu, bylem sluchal.
