@@ -89,3 +89,5 @@ Biblia grecka dziwny numer, wpierwszym momencie wystraszylem sie, fragmenty o ba
 ---
 
 Jana 10
+
+strach - Jana @4,27
