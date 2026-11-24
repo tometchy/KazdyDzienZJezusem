@@ -91,3 +91,6 @@ Biblia grecka dziwny numer, wpierwszym momencie wystraszylem sie, fragmenty o ba
 Jana 10
 
 strach - Jana @4,27
+
+---
+Czy Boze prowadzenie pojawia sie jak grom z jasnego nieba, lub Duch przejmuje nad nami kontrole?
