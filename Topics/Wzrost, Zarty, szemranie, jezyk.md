@@ -48,3 +48,7 @@ Tymczasem okazuje się, że nawet ludzie odrodzeni mają kłopoty ze swym język
 Człowiek z tatuażem na plecach "Jakim mnie stworzyłeś takim mnie masz".
 
 Simeon brzoskwinia
+
+---
+
+Gdy ktoś jest na Drodze, a jeszcze czegoś nie widzi, ważne, że jest na drodze, pytanie brzmi - czego ja w sobie jeszcze nie widzę. Bo to co ja w sobie obecnie widzę, to że Pan jest względem mnie bardzo cierpliwy i na przestrzeni ostatnich lat, kiedy już szedłem za Panem widzę jak wiele rzeczy nie widziałem. A czego teraz nie widzę? Na tym się powinienem skupiać, na swoich belkach. O brata czy siostrę modlić, ale najważniejsze, żeby był lub była z Panem, to już Pan pomoże, da mądrość i bratu czy siostrze wytłumaczy ich drzazgi.
